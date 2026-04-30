@@ -1,0 +1,64 @@
+server:
+  port: 10010
+
+spring:
+  application:
+    name: railway-map
+  datasource:
+    url: jdbc:postgresql://${DB_HOST:localhost}:5432/railwaymap
+    username: ${DB_USER:railway}
+    password: ${DB_PASSWORD:railway123}
+    driver-class-name: org.postgresql.Driver
+    hikari:
+      maximum-pool-size: 20
+      minimum-idle: 5
+      idle-timeout: 300000
+      connection-timeout: 20000
+  data:
+    redis:
+      host: ${REDIS_HOST:localhost}
+      port: ${REDIS_PORT:6379}
+  batch:
+    job:
+      enabled: false
+    jdbc:
+      initialize-schema: always
+
+mybatis-plus:
+  mapper-locations: classpath*:/mapper/**/*.xml
+  type-aliases-package: com.railwaymap.common.entity
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.slf4j.Slf4jImpl
+  global-config:
+    db-config:
+      id-type: auto
+      logic-delete-field: deleted
+      logic-delete-value: true
+      logic-not-delete-value: false
+
+logging:
+  level:
+    com.railwaymap: DEBUG
+    com.baomidou.mybatisplus: INFO
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
+
+railway:
+  jwt:
+    secret: ${JWT_SECRET:railwaymap-production-secret-change-in-env}
+    expiration: 86400000
+  tile:
+    cache-ttl: 3600
+    railway-min-zoom: 6
+    station-min-zoom: 8
+  transfer:
+    max-segment-hours: 12
+    max-total-hours: 72
+    default-transfer-wait: 30
+
+springdoc:
+  api-docs:
+    path: /api/docs
+  swagger-ui:
+    path: /api/swagger

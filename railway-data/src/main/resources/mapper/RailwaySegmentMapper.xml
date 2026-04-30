@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.railwaymap.data.mapper.RailwaySegmentMapper">
+
+    <select id="getVectorTile" resultType="string">
+        SELECT ST_AsMVT(tile, 'railways', 4096, 'geom') AS mvt
+        FROM (
+            SELECT
+                id,
+                name,
+                category,
+                railway,
+                usage,
+                electrified,
+                max_speed,
+                track_count,
+                ST_AsMVTGeom(
+                    geom,
+                    ${envelope},
+                    4096,
+                    256,
+                    true
+                ) AS geom
+            FROM railway_segments
+            WHERE geom &amp;&amp; ${envelope}
+              AND ST_Intersects(geom, ${envelope})
+              AND category IN (
+                'conventional', 'high_speed', 'rapid_transit',
+                'passenger_rail', 'freight_rail', 'other_rail', 'subway'
+              )
+        ) AS tile
+        WHERE geom IS NOT NULL
+    </select>
+
+    <select id="findByBBox" resultType="com.railwaymap.common.entity.RailwaySegment">
+        SELECT id, osm_id, name, railway, usage, category,
+               electrified, gauge, max_speed, track_count,
+               ST_AsText(geom) AS geom_wkt, length_km, source_grid, data_quality
+        FROM railway_segments
+        WHERE geom &amp;&amp; ${envelope}
+          AND ST_Intersects(geom, ${envelope})
+        LIMIT #{limit}
+    </select>
+
+</mapper>

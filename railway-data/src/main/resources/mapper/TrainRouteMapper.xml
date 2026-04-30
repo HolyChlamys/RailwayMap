@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.railwaymap.data.mapper.TrainRouteMapper">
+
+    <select id="searchTrains" resultType="com.railwaymap.common.dto.TrainSearchResult">
+        SELECT train_no, train_type, depart_station, arrive_station,
+               depart_time, arrive_time, duration_min
+        FROM train_routes
+        WHERE is_valid = TRUE
+          AND (
+              train_no ILIKE #{keyword} || '%'
+              OR depart_station ILIKE '%' || #{keyword} || '%'
+              OR arrive_station ILIKE '%' || #{keyword} || '%'
+          )
+        ORDER BY
+            CASE WHEN train_no ILIKE #{keyword} || '%' THEN 0 ELSE 1 END,
+            train_no
+        LIMIT #{limit}
+    </select>
+
+</mapper>

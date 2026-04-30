@@ -1,0 +1,51 @@
+# ===== Maven =====
+target/
+*.jar
+*.war
+*.ear
+!.mvn/wrapper/maven-wrapper.jar
+
+# ===== Gradle (if any) =====
+.gradle/
+build/
+
+# ===== Node / Frontend =====
+node_modules/
+dist/
+.vite/
+*.local
+
+# ===== IDE =====
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Docker =====
+.env
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ===== Logs =====
+*.log
+import_errors.log
+
+# ===== Data =====
+frontend/data/
+*.geojson
+grid_queue.json
+skipped_grids.json
+
+# ===== Claude =====
+.claude/

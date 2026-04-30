@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/railwaymap
+    username: railway
+    password: railway123
+  data:
+    redis:
+      host: localhost
+      port: 6379
+
+logging:
+  level:
+    com.railwaymap: DEBUG
