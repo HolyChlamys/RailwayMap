@@ -30,7 +30,8 @@ async function onSearch(q: string) {
   }
 }
 
-async function onSelect(_val: string, opt: (typeof options.value)[0]) {
+async function onSelect(val: string) {
+  const opt = options.value.find(o => o.value === val) as any
   if (opt?.train) {
     mapStore.highlightTrain(opt.train.trainNo)
     try {

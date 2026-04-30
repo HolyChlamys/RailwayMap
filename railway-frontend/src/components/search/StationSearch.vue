@@ -39,7 +39,8 @@ async function onSearch(q: string) {
   }
 }
 
-function onSelect(_val: string, opt: (typeof options.value)[0]) {
+function onSelect(val: string) {
+  const opt = options.value.find(o => o.value === val)
   if (opt?.station) {
     mapStore.setCenter(opt.station.lon, opt.station.lat)
     mapStore.setZoom(14)

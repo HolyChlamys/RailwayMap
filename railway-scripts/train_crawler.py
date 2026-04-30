@@ -14,15 +14,14 @@ import json
 import re
 import sqlite3
 import time
-import urllib.request
-import urllib.error
+import requests
 from datetime import datetime, timedelta
 from pathlib import Path
 from html.parser import HTMLParser
 
 DATA_DIR = Path(__file__).parent / "data"
 DB_PATH = DATA_DIR / "train_cache.db"
-BASE_URL = "https://liecheba.com"
+BASE_URL = "https://www.liecheba.com"
 MIN_INTERVAL_SEC = 1.5
 
 # 车次类型前缀
@@ -169,13 +168,12 @@ def init_db():
 def fetch_url(url: str, timeout: int = 30) -> str | None:
     """HTTP GET 请求"""
     try:
-        req = urllib.request.Request(url, headers={
-            "User-Agent": "Mozilla/5.0 (compatible; RailwayMap/1.0; +https://railwaymap.local)"
+        resp = requests.get(url, timeout=timeout, verify=False, headers={
+            "User-Agent": "Mozilla/5.0 (compatible; RailwayMap/1.0)"
         })
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            if resp.status == 200:
-                return resp.read().decode("utf-8", errors="replace")
-            print(f"[CRAWLER] HTTP {resp.status}: {url}")
+        if resp.status_code == 200:
+            return resp.text
+        print(f"[CRAWLER] HTTP {resp.status_code}: {url}")
     except Exception as e:
         print(f"[CRAWLER] 请求失败: {url} — {e}")
     return None

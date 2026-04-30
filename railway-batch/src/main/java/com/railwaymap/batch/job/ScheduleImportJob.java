@@ -1,8 +1,6 @@
 package com.railwaymap.batch.job;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.railwaymap.batch.processor.TrainScheduleProcessor;
-import com.railwaymap.batch.processor.TrainFareProcessor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.batch.core.Job;

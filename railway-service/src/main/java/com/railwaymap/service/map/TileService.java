@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
-import javax.xml.bind.DatatypeConverter;
+import java.util.HexFormat;
 import java.util.List;
 
 @Service
@@ -27,12 +27,14 @@ public class TileService {
         double[] bbox = TileUtils.tileToBBox(z, x, y);
         String envelope = String.format("ST_MakeEnvelope(%f, %f, %f, %f, 4326)",
                 bbox[0], bbox[1], bbox[2], bbox[3]);
+        log.info("[TILE] {}/{}/{}/{} bbox={}", layer, z, x, y, envelope);
 
         List<String> hexResults;
         return switch (layer) {
             case "railways" -> {
                 if (z < 6) yield emptyTile();
                 hexResults = railwaySegmentMapper.getVectorTile(envelope, z, x, y, "railways");
+                log.info("[TILE] railways query returned {} results", hexResults != null ? hexResults.size() : 0);
                 yield hexToBytes(hexResults);
             }
             case "stations" -> {
@@ -51,10 +53,19 @@ public class TileService {
         try {
             StringBuilder sb = new StringBuilder();
             for (String h : hexResults) {
-                if (h != null) sb.append(h);
+                if (h != null) {
+                    String clean = h.strip();
+                    if (clean.startsWith("\"") && clean.endsWith("\"")) {
+                        clean = clean.substring(1, clean.length() - 1);
+                    }
+                    if (clean.startsWith("\\x")) {
+                        clean = clean.substring(2);
+                    }
+                    sb.append(clean);
+                }
             }
             if (sb.isEmpty()) return emptyTile();
-            return DatatypeConverter.parseHexBinary(sb.toString());
+            return HexFormat.of().parseHex(sb.toString());
         } catch (Exception e) {
             log.error("解码 MVT hex 失败", e);
             return emptyTile();

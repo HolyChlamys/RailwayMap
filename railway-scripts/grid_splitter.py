@@ -44,7 +44,7 @@ def load_boundary_polygon(path: Path) -> object:
     for feat in geojson["features"]:
         geom = shape(feat["geometry"])
         if geom.geom_type == "LineString":
-            polygons.append(geom.buffer(0.001))
+            polygons.append(geom.buffer(1.5))
         elif geom.geom_type in ("Polygon", "MultiPolygon"):
             polygons.append(geom)
 
@@ -53,9 +53,9 @@ def load_boundary_polygon(path: Path) -> object:
         return box(*CHINA_FALLBACK_BBOX)
 
     combined = unary_union(polygons)
-    # 用凸包简化，避免岛屿空洞导致的不必要抓取
-    simplified = combined.convex_hull.simplify(0.1)
-    print(f"[SPLITTER] 边界多边形面积: {simplified.area:.6f} 平方度")
+    simplified = combined.simplify(0.05)
+    area = simplified.area
+    print(f"[SPLITTER] 边界多边形面积: {area:.4f} 平方度")
     return simplified
 
 
@@ -69,7 +69,9 @@ def generate_grid(
     返回 (queue, skipped)。
     """
     minx, miny, maxx, maxy = boundary.bounds
-    # 扩展边界框到整数度
+    # 限定中国陆域范围 (过滤南海海域网格)
+    miny = max(miny, 18.0)
+    maxy = min(maxy, 54.0)
     minx = math.floor(minx)
     miny = math.floor(miny)
     maxx = math.ceil(maxx)
@@ -113,7 +115,7 @@ def generate_grid(
                         "geometry": mapping(cell)
                     }]
                 }
-                grid_file = DATA_DIR / f"grid_{grid_id}.geojson"
+                grid_file = DATA_DIR / f"cell_{grid_id}.geojson"
                 grid_file.write_text(
                     json.dumps(cell_geojson, ensure_ascii=False), encoding="utf-8"
                 )

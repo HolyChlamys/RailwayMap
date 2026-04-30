@@ -8,7 +8,7 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.jgrapht.Graph;
 import org.jgrapht.GraphPath;
-import org.jgrapht.alg.shortestpath.KShortestPaths;
+import org.jgrapht.alg.shortestpath.YenKShortestPath;
 import org.jgrapht.graph.DefaultWeightedEdge;
 import org.springframework.stereotype.Service;
 
@@ -41,8 +41,8 @@ public class TransferSearchService {
                     "error", "出发站或到达站不在图中");
         }
 
-        KShortestPaths<String, DefaultWeightedEdge> ksp =
-                new KShortestPaths<>(graph);
+        YenKShortestPath<String, DefaultWeightedEdge> ksp =
+                new YenKShortestPath<>(graph);
 
         List<GraphPath<String, DefaultWeightedEdge>> paths =
                 ksp.getPaths(fromNode, toNode, req.getMaxResults() * 3);

@@ -45,9 +45,10 @@ public class ImportProgressListener extends StepExecutionListenerSupport {
         appendLog(String.format("[%s] [IMPORT] ========== 导入完成 ==========", now));
         appendLog(String.format("[%s] [IMPORT] 成功: %d 格, 失败: %d 格 → 见 import_errors.log",
                 now, gridIndex - failedGrids.size(), failedGrids.size()));
+        long duration = java.time.temporal.ChronoUnit.SECONDS.between(
+                stepExecution.getStartTime(), stepExecution.getLastUpdated());
         appendLog(String.format("[%s] [IMPORT] 总写入记录: %d 条, 总耗时 %ds",
-                now, totalWritten, stepExecution.getLastUpdated().getTime() / 1000 -
-                stepExecution.getStartTime().getTime() / 1000));
+                now, totalWritten, duration));
 
         if (!failedGrids.isEmpty()) {
             appendLog(String.format("[%s] [IMPORT] 失败网格: %s", now, String.join(", ", failedGrids)));
