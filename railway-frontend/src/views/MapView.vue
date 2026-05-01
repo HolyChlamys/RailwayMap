@@ -5,7 +5,7 @@ import MapLegend from '../components/map/MapLegend.vue'
 </script>
 
 <template>
-  <div class="relative w-full h-full">
+  <div style="position:relative;width:100%;height:100%">
     <MapContainer />
     <SearchPanel />
     <MapLegend />
