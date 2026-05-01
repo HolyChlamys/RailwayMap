@@ -52,11 +52,13 @@ onMounted(() => {
           '#e74c3c'
         ],
         'line-width': [
-          'match', ['get', 'category'],
-          'high_speed',      ['interpolate', ['linear'], ['zoom'], 6, 1.5, 10, 3.0, 14, 4.5],
-          'rapid_transit',   ['interpolate', ['linear'], ['zoom'], 6, 1.2, 10, 2.5, 14, 3.5],
-          'conventional',    ['interpolate', ['linear'], ['zoom'], 6, 1.0, 10, 2.0, 14, 3.0],
-          ['interpolate', ['linear'], ['zoom'], 6, 0.8, 10, 1.5, 14, 2.5]
+          'interpolate', ['linear'], ['zoom'],
+          6, ['match', ['get', 'category'],
+            'high_speed', 1.5, 'rapid_transit', 1.2, 'conventional', 1.0, 0.8],
+          10, ['match', ['get', 'category'],
+            'high_speed', 3.0, 'rapid_transit', 2.5, 'conventional', 2.0, 1.5],
+          14, ['match', ['get', 'category'],
+            'high_speed', 4.5, 'rapid_transit', 3.5, 'conventional', 3.0, 2.5]
         ],
         'line-opacity': 0.85,
         'line-dasharray': [
@@ -97,12 +99,13 @@ onMounted(() => {
           '#95a5a6'
         ],
         'circle-radius': [
-          'match', ['get', 'category'],
-          'major_hub',         ['interpolate', ['linear'], ['zoom'], 8, 4, 12, 8, 16, 14],
-          'major_passenger',   ['interpolate', ['linear'], ['zoom'], 8, 3, 12, 7, 16, 12],
-          'medium_passenger',  ['interpolate', ['linear'], ['zoom'], 8, 2, 12, 5, 16, 9],
-          'large_yard',        ['interpolate', ['linear'], ['zoom'], 8, 2, 12, 5, 16, 9],
-          ['interpolate', ['linear'], ['zoom'], 8, 1.5, 12, 3, 16, 6]
+          'interpolate', ['linear'], ['zoom'],
+          8, ['match', ['get', 'category'],
+            'major_hub', 4, 'major_passenger', 3, 'medium_passenger', 2, 'large_yard', 2, 1.5],
+          12, ['match', ['get', 'category'],
+            'major_hub', 8, 'major_passenger', 7, 'medium_passenger', 5, 'large_yard', 5, 3],
+          16, ['match', ['get', 'category'],
+            'major_hub', 14, 'major_passenger', 12, 'medium_passenger', 9, 'large_yard', 9, 6]
         ],
         'circle-opacity': 0.9,
         'circle-stroke-width': 1,
