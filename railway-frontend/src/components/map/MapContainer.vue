@@ -13,18 +13,7 @@ onMounted(() => {
 
   map = new maplibregl.Map({
     container: container.value,
-    style: {
-      version: 8,
-      sources: {
-        osm: {
-          type: 'raster',
-          tiles: ['https://tile.openstreetmap.org/{z}/{x}/{y}.png'],
-          tileSize: 256,
-          attribution: '&copy; OpenStreetMap contributors'
-        }
-      },
-      layers: [{ id: 'osm-bg', type: 'raster', source: 'osm' }]
-    },
+    style: 'https://api.maptiler.com/maps/streets-v2/style.json?key=4WTGrPaI9R4eeeH5Oqhd',
     center: mapStore.center,
     zoom: mapStore.zoom,
     minZoom: 4,
