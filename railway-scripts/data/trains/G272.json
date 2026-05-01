@@ -1,0 +1,52 @@
+{
+  "train_no": "G272",
+  "train_type": "G",
+  "depart_station": "昆明南",
+  "arrive_station": "贵阳北",
+  "depart_time": "11:29",
+  "arrive_time": "13:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "11:29",
+      "depart_time": "11:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲靖北",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "盘州",
+      "arrive_time": "12:58",
+      "depart_time": "12:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺西",
+      "arrive_time": "13:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "13:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 891.0,
+    "price_first": 407.0,
+    "price_second": 255.0,
+    "price_no_seat": 255.0
+  },
+  "fetched_at": "2026-05-01T06:18:27.872151"
+}

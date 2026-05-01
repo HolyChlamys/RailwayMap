@@ -1,0 +1,59 @@
+{
+  "train_no": "G6598",
+  "train_type": "G",
+  "depart_station": "揭阳",
+  "arrive_station": "广州",
+  "depart_time": "19:05",
+  "arrive_time": "21:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "揭阳",
+      "arrive_time": "19:05",
+      "depart_time": "19:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "梅州西",
+      "arrive_time": "19:32",
+      "depart_time": "19:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "兴宁南",
+      "arrive_time": "19:48",
+      "depart_time": "19:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "惠州北",
+      "arrive_time": "20:39",
+      "depart_time": "20:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州新塘",
+      "arrive_time": "21:10",
+      "depart_time": "21:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "广州",
+      "arrive_time": "21:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 900.0,
+    "price_first": 424.0,
+    "price_second": 266.0,
+    "price_no_seat": 266.0
+  },
+  "fetched_at": "2026-05-01T08:03:32.561840"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "G6035",
+  "train_type": "G",
+  "depart_station": "郴州西",
+  "arrive_station": "深圳北",
+  "depart_time": "07:45",
+  "arrive_time": "10:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郴州西",
+      "arrive_time": "07:45",
+      "depart_time": "07:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "韶关",
+      "arrive_time": "08:17",
+      "depart_time": "08:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "英德西",
+      "arrive_time": "08:39",
+      "depart_time": "08:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "清远",
+      "arrive_time": "08:58",
+      "depart_time": "08:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州北",
+      "arrive_time": "09:12",
+      "depart_time": "09:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "09:34",
+      "depart_time": "09:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南沙北",
+      "arrive_time": "09:51",
+      "depart_time": "09:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "虎门",
+      "arrive_time": "10:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳北",
+      "arrive_time": "10:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 925.5,
+    "price_first": 431.5,
+    "price_second": 281.5,
+    "price_no_seat": 281.5
+  },
+  "fetched_at": "2026-05-01T07:46:52.444957"
+}

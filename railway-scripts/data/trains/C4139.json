@@ -1,0 +1,71 @@
+{
+  "train_no": "C4139",
+  "train_type": "C",
+  "depart_station": "榆林",
+  "arrive_station": "西安",
+  "depart_time": "07:10",
+  "arrive_time": "11:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "榆林",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绥德",
+      "arrive_time": "08:03",
+      "depart_time": "08:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "清涧县",
+      "arrive_time": "08:33",
+      "depart_time": "08:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "子长",
+      "arrive_time": "08:49",
+      "depart_time": "08:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "延安",
+      "arrive_time": "09:35",
+      "depart_time": "09:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "富县东",
+      "arrive_time": "10:12",
+      "depart_time": "10:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "蒲城东",
+      "arrive_time": "11:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "西安",
+      "arrive_time": "11:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 184.0,
+    "price_no_seat": 184.0
+  },
+  "fetched_at": "2026-05-01T01:09:17.936143"
+}

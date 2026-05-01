@@ -1,0 +1,94 @@
+{
+  "train_no": "G2967",
+  "train_type": "G",
+  "depart_station": "汕尾",
+  "arrive_station": "昆明南",
+  "depart_time": "06:57",
+  "arrive_time": "15:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕尾",
+      "arrive_time": "06:57",
+      "depart_time": "06:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠阳",
+      "arrive_time": "07:26",
+      "depart_time": "07:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳坪山",
+      "arrive_time": "07:39",
+      "depart_time": "07:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "08:02",
+      "depart_time": "08:08",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "虎门",
+      "arrive_time": "08:25",
+      "depart_time": "08:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "08:44",
+      "depart_time": "08:55",
+      "stay_min": "11"
+    },
+    {
+      "seq": 7,
+      "station_name": "贺州",
+      "arrive_time": "10:14",
+      "depart_time": "10:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "贵阳北",
+      "arrive_time": "12:49",
+      "depart_time": "12:59",
+      "stay_min": "10"
+    },
+    {
+      "seq": 9,
+      "station_name": "普安县",
+      "arrive_time": "14:13",
+      "depart_time": "14:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "曲靖北",
+      "arrive_time": "14:59",
+      "depart_time": "15:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "昆明南",
+      "arrive_time": "15:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2875.0,
+    "price_first": 1323.5,
+    "price_second": 839.5,
+    "price_no_seat": 839.5
+  },
+  "fetched_at": "2026-05-01T06:25:02.846577"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "C9605",
+  "train_type": "C",
+  "depart_station": "南昌西",
+  "arrive_station": "延平",
+  "depart_time": "09:59",
+  "arrive_time": "12:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "09:59",
+      "depart_time": "09:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹰潭北",
+      "arrive_time": "10:34",
+      "depart_time": "10:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "上饶",
+      "arrive_time": "11:07",
+      "depart_time": "11:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南平市",
+      "arrive_time": "11:38",
+      "depart_time": "11:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "延平",
+      "arrive_time": "12:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 456.0,
+    "price_first": 209.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T02:50:34.939163"
+}

@@ -1,0 +1,64 @@
+{
+  "train_no": "C7597",
+  "train_type": "C",
+  "depart_station": "花都",
+  "arrive_station": "竹料",
+  "depart_time": "17:38",
+  "arrive_time": "18:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "花都",
+      "arrive_time": "17:38",
+      "depart_time": "17:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "花城街",
+      "arrive_time": "17:47",
+      "depart_time": "17:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "花山镇",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "白云机场北",
+      "arrive_time": "18:01",
+      "depart_time": "18:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "白云机场南",
+      "arrive_time": "18:06",
+      "depart_time": "18:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "白云机场东",
+      "arrive_time": "18:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "竹料",
+      "arrive_time": "18:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 20.0,
+    "price_no_seat": 20.0
+  },
+  "fetched_at": "2026-05-01T02:18:34.142287"
+}

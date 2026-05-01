@@ -1,0 +1,51 @@
+{
+  "train_no": "D5409",
+  "train_type": "D",
+  "depart_station": "宿迁",
+  "arrive_station": "南京",
+  "depart_time": "11:18",
+  "arrive_time": "13:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宿迁",
+      "arrive_time": "11:18",
+      "depart_time": "11:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮安东",
+      "arrive_time": "11:46",
+      "depart_time": "11:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "扬州东",
+      "arrive_time": "12:27",
+      "depart_time": "12:30",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "镇江",
+      "arrive_time": "13:02",
+      "depart_time": "13:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京",
+      "arrive_time": "13:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 272.0,
+    "price_second": 171.0,
+    "price_no_seat": 171.0
+  },
+  "fetched_at": "2026-05-01T04:05:51.268420"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "G7530",
+  "train_type": "G",
+  "depart_station": "宁海",
+  "arrive_station": "上海虹桥",
+  "depart_time": "06:51",
+  "arrive_time": "09:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁海",
+      "arrive_time": "06:51",
+      "depart_time": "06:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "奉化",
+      "arrive_time": "07:08",
+      "depart_time": "07:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁波",
+      "arrive_time": "07:33",
+      "depart_time": "07:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "余姚北",
+      "arrive_time": "07:55",
+      "depart_time": "07:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "绍兴北",
+      "arrive_time": "08:15",
+      "depart_time": "08:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "08:38",
+      "depart_time": "08:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "桐乡",
+      "arrive_time": "08:57",
+      "depart_time": "08:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "嘉兴南",
+      "arrive_time": "09:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "上海虹桥",
+      "arrive_time": "09:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 716.0,
+    "price_first": 327.0,
+    "price_second": 204.0,
+    "price_no_seat": 204.0
+  },
+  "fetched_at": "2026-05-01T08:29:48.001474"
+}

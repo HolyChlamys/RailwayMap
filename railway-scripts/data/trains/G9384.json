@@ -1,0 +1,38 @@
+{
+  "train_no": "G9384",
+  "train_type": "G",
+  "depart_station": "咸宁北",
+  "arrive_station": "信阳东",
+  "depart_time": "21:37",
+  "arrive_time": "22:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "咸宁北",
+      "arrive_time": "21:37",
+      "depart_time": "21:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉",
+      "arrive_time": "22:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "信阳东",
+      "arrive_time": "22:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 547.0,
+    "price_first": 250.0,
+    "price_second": 156.0,
+    "price_no_seat": 156.0
+  },
+  "fetched_at": "2026-05-01T09:12:53.030175"
+}

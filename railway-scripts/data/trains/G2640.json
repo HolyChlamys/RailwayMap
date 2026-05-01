@@ -1,0 +1,136 @@
+{
+  "train_no": "G2640",
+  "train_type": "G",
+  "depart_station": "太原南",
+  "arrive_station": "哈尔滨西",
+  "depart_time": "13:01",
+  "arrive_time": "23:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "13:01",
+      "depart_time": "13:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阳泉北",
+      "arrive_time": "13:48",
+      "depart_time": "13:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "14:29",
+      "depart_time": "14:34",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "保定东",
+      "arrive_time": "15:11",
+      "depart_time": "15:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "白沟",
+      "arrive_time": "15:34",
+      "depart_time": "15:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "天津西",
+      "arrive_time": "16:11",
+      "depart_time": "16:20",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "天津",
+      "arrive_time": "16:28",
+      "depart_time": "16:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "滨海西",
+      "arrive_time": "16:48",
+      "depart_time": "16:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "唐山",
+      "arrive_time": "17:11",
+      "depart_time": "17:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "山海关",
+      "arrive_time": "18:02",
+      "depart_time": "18:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "兴城西",
+      "arrive_time": "18:44",
+      "depart_time": "18:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "盘锦",
+      "arrive_time": "19:40",
+      "depart_time": "19:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "海城西",
+      "arrive_time": "20:05",
+      "depart_time": "20:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "鞍山西",
+      "arrive_time": "20:19",
+      "depart_time": "20:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "沈阳",
+      "arrive_time": "20:49",
+      "depart_time": "20:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 16,
+      "station_name": "长春西",
+      "arrive_time": "22:01",
+      "depart_time": "22:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 17,
+      "station_name": "哈尔滨西",
+      "arrive_time": "23:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2949.0,
+    "price_first": 1374.5,
+    "price_second": 860.0,
+    "price_no_seat": 860.0
+  },
+  "fetched_at": "2026-05-01T06:16:07.906112"
+}

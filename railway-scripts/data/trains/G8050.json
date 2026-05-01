@@ -1,0 +1,73 @@
+{
+  "train_no": "G8050",
+  "train_type": "G",
+  "depart_station": "沈阳",
+  "arrive_station": "大连北",
+  "depart_time": "11:28",
+  "arrive_time": "13:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "11:28",
+      "depart_time": "11:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳南",
+      "arrive_time": "11:45",
+      "depart_time": "11:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "辽阳",
+      "arrive_time": "12:02",
+      "depart_time": "12:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鞍山西",
+      "arrive_time": "12:15",
+      "depart_time": "12:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "营口东",
+      "arrive_time": "12:37",
+      "depart_time": "12:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "13:05",
+      "depart_time": "13:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "瓦房店西",
+      "arrive_time": "13:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "大连北",
+      "arrive_time": "13:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 728.0,
+    "price_first": 333.0,
+    "price_second": 208.0,
+    "price_no_seat": 208.0
+  },
+  "fetched_at": "2026-05-01T08:43:18.124575"
+}

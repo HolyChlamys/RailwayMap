@@ -1,0 +1,36 @@
+{
+  "train_no": "C6737",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "湛江西",
+  "depart_time": "05:55",
+  "arrive_time": "08:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "05:55",
+      "depart_time": "05:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "茂名",
+      "arrive_time": "08:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "湛江西",
+      "arrive_time": "08:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 260.0,
+    "price_no_seat": 260.0
+  },
+  "fetched_at": "2026-05-01T01:55:04.911582"
+}

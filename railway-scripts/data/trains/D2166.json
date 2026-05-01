@@ -1,0 +1,114 @@
+{
+  "train_no": "D2166",
+  "train_type": "D",
+  "depart_station": "南京南",
+  "arrive_station": "武汉",
+  "depart_time": "12:33",
+  "arrive_time": "16:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "12:33",
+      "depart_time": "12:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马鞍山东",
+      "arrive_time": "12:49",
+      "depart_time": "12:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "芜湖",
+      "arrive_time": "13:08",
+      "depart_time": "13:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "繁昌西",
+      "arrive_time": "13:28",
+      "depart_time": "13:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "铜陵",
+      "arrive_time": "13:44",
+      "depart_time": "13:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "池州",
+      "arrive_time": "14:05",
+      "depart_time": "14:12",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "安庆",
+      "arrive_time": "14:29",
+      "depart_time": "14:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "太湖南",
+      "arrive_time": "15:02",
+      "depart_time": "15:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "黄梅东",
+      "arrive_time": "15:24",
+      "depart_time": "15:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "武穴北",
+      "arrive_time": "15:39",
+      "depart_time": "15:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "蕲春南",
+      "arrive_time": "15:54",
+      "depart_time": "15:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "浠水南",
+      "arrive_time": "16:07",
+      "depart_time": "16:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "黄冈西",
+      "arrive_time": "16:27",
+      "depart_time": "16:31",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "武汉",
+      "arrive_time": "16:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 426.0,
+    "price_second": 266.0,
+    "price_no_seat": 266.0
+  },
+  "fetched_at": "2026-05-01T03:11:26.730656"
+}

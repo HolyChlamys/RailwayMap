@@ -1,0 +1,38 @@
+{
+  "train_no": "C8861",
+  "train_type": "C",
+  "depart_station": "长沙南",
+  "arrive_station": "娄底南",
+  "depart_time": "21:55",
+  "arrive_time": "22:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "21:55",
+      "depart_time": "21:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "湘潭北",
+      "arrive_time": "22:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "娄底南",
+      "arrive_time": "22:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 241.0,
+    "price_first": 110.0,
+    "price_second": 69.0,
+    "price_no_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T02:36:58.562276"
+}

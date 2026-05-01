@@ -1,0 +1,56 @@
+{
+  "train_no": "K5532",
+  "train_type": "K",
+  "depart_station": "菏泽",
+  "arrive_station": "济南",
+  "depart_time": "18:41",
+  "arrive_time": "22:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "菏泽",
+      "arrive_time": "18:41",
+      "depart_time": "18:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济宁",
+      "arrive_time": "19:54",
+      "depart_time": "19:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兖州",
+      "arrive_time": "20:42",
+      "depart_time": "20:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "磁窑",
+      "arrive_time": "21:38",
+      "depart_time": "21:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "泰山",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "济南",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T10:12:44.293153"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "G3966",
+  "train_type": "G",
+  "depart_station": "萍乡北",
+  "arrive_station": "温州南",
+  "depart_time": "01:00",
+  "arrive_time": "04:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "萍乡北",
+      "arrive_time": "01:00",
+      "depart_time": "01:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌西",
+      "arrive_time": "01:56",
+      "depart_time": "02:01",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "温州南",
+      "arrive_time": "04:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1462.5,
+    "price_first": 683.5,
+    "price_second": 428.0,
+    "price_no_seat": 428.0
+  },
+  "fetched_at": "2026-05-01T06:51:56.970194"
+}

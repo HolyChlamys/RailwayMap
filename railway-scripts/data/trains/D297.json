@@ -1,0 +1,37 @@
+{
+  "train_no": "D297",
+  "train_type": "D",
+  "depart_station": "广元",
+  "arrive_station": "陇南",
+  "depart_time": "15:18",
+  "arrive_time": "15:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广元",
+      "arrive_time": "15:18",
+      "depart_time": "15:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "姚渡",
+      "arrive_time": "15:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "陇南",
+      "arrive_time": "15:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 52.0,
+    "price_second": 33.0,
+    "price_no_seat": 33.0
+  },
+  "fetched_at": "2026-05-01T03:26:17.122195"
+}

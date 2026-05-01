@@ -1,0 +1,45 @@
+{
+  "train_no": "C7432",
+  "train_type": "C",
+  "depart_station": "潮汕",
+  "arrive_station": "丰顺东",
+  "depart_time": "20:52",
+  "arrive_time": "21:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潮汕",
+      "arrive_time": "20:52",
+      "depart_time": "20:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "揭阳机场",
+      "arrive_time": "21:03",
+      "depart_time": "21:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "揭阳",
+      "arrive_time": "21:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "丰顺东",
+      "arrive_time": "21:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 926.0,
+    "price_first": 440.0,
+    "price_second": 275.0,
+    "price_no_seat": 275.0
+  },
+  "fetched_at": "2026-05-01T02:15:10.522516"
+}

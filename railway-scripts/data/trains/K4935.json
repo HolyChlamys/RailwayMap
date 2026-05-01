@@ -1,0 +1,54 @@
+{
+  "train_no": "K4935",
+  "train_type": "K",
+  "depart_station": "银川",
+  "arrive_station": "松原",
+  "depart_time": "16:50",
+  "arrive_time": "05:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "16:50",
+      "depart_time": "16:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "定边",
+      "arrive_time": "19:19",
+      "depart_time": "19:25",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "靖边",
+      "arrive_time": "20:30",
+      "depart_time": "21:04",
+      "stay_min": "34"
+    },
+    {
+      "seq": 4,
+      "station_name": "米脂",
+      "arrive_time": "23:19",
+      "depart_time": "23:24",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "榆林",
+      "arrive_time": "00:12",
+      "depart_time": "00:25",
+      "stay_min": "13"
+    },
+    {
+      "seq": 6,
+      "station_name": "松原",
+      "arrive_time": "05:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T10:00:37.102129"
+}

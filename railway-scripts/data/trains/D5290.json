@@ -1,0 +1,52 @@
+{
+  "train_no": "D5290",
+  "train_type": "D",
+  "depart_station": "宝鸡南",
+  "arrive_station": "西安北",
+  "depart_time": "22:51",
+  "arrive_time": "23:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宝鸡南",
+      "arrive_time": "22:51",
+      "depart_time": "22:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "岐山",
+      "arrive_time": "23:06",
+      "depart_time": "23:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杨陵南",
+      "arrive_time": "23:23",
+      "depart_time": "23:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "咸阳西",
+      "arrive_time": "23:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西安北",
+      "arrive_time": "23:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 216.0,
+    "price_first": 99.0,
+    "price_second": 62.0,
+    "price_no_seat": 62.0
+  },
+  "fetched_at": "2026-05-01T04:04:07.242602"
+}

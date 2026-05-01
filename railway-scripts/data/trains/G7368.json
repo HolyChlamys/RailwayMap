@@ -1,0 +1,73 @@
+{
+  "train_no": "G7368",
+  "train_type": "G",
+  "depart_station": "温州南",
+  "arrive_station": "上海南",
+  "depart_time": "08:51",
+  "arrive_time": "11:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "温州南",
+      "arrive_time": "08:51",
+      "depart_time": "08:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丽水",
+      "arrive_time": "09:28",
+      "depart_time": "09:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武义北",
+      "arrive_time": "09:57",
+      "depart_time": "09:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "金华南",
+      "arrive_time": "10:10",
+      "depart_time": "10:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州东",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "桐乡",
+      "arrive_time": "11:20",
+      "depart_time": "11:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "金山北",
+      "arrive_time": "11:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "上海南",
+      "arrive_time": "11:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 796.0,
+    "price_first": 379.5,
+    "price_second": 237.5,
+    "price_no_seat": 237.5
+  },
+  "fetched_at": "2026-05-01T08:25:32.267916"
+}

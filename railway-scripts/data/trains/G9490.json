@@ -1,0 +1,38 @@
+{
+  "train_no": "G9490",
+  "train_type": "G",
+  "depart_station": "南京南",
+  "arrive_station": "徐州东",
+  "depart_time": "01:18",
+  "arrive_time": "02:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "01:18",
+      "depart_time": "01:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蚌埠南",
+      "arrive_time": "02:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "02:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 637.0,
+    "price_first": 291.0,
+    "price_second": 182.0,
+    "price_no_seat": 182.0
+  },
+  "fetched_at": "2026-05-01T09:15:39.965739"
+}

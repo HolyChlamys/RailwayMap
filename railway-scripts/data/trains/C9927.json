@@ -1,0 +1,51 @@
+{
+  "train_no": "C9927",
+  "train_type": "C",
+  "depart_station": "肇庆东",
+  "arrive_station": "茂名",
+  "depart_time": "21:12",
+  "arrive_time": "23:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "肇庆东",
+      "arrive_time": "21:12",
+      "depart_time": "21:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "21:55",
+      "depart_time": "21:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "江门",
+      "arrive_time": "22:28",
+      "depart_time": "22:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阳江",
+      "arrive_time": "23:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "茂名",
+      "arrive_time": "23:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 370.0,
+    "price_second": 239.0,
+    "price_no_seat": 239.0
+  },
+  "fetched_at": "2026-05-01T02:54:27.880400"
+}

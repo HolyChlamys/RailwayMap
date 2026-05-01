@@ -1,0 +1,59 @@
+{
+  "train_no": "D5491",
+  "train_type": "D",
+  "depart_station": "东台",
+  "arrive_station": "南京南",
+  "depart_time": "19:15",
+  "arrive_time": "22:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东台",
+      "arrive_time": "19:15",
+      "depart_time": "19:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "盐城大丰",
+      "arrive_time": "19:27",
+      "depart_time": "19:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "盐城",
+      "arrive_time": "19:40",
+      "depart_time": "19:51",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "扬州东",
+      "arrive_time": "20:55",
+      "depart_time": "20:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "镇江",
+      "arrive_time": "21:29",
+      "depart_time": "21:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "22:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 669.0,
+    "price_first": 317.0,
+    "price_second": 198.0,
+    "price_no_seat": 198.0
+  },
+  "fetched_at": "2026-05-01T04:08:01.669813"
+}

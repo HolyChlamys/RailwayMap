@@ -1,0 +1,59 @@
+{
+  "train_no": "C3283",
+  "train_type": "C",
+  "depart_station": "合肥南",
+  "arrive_station": "宿松东",
+  "depart_time": "20:07",
+  "arrive_time": "21:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "20:07",
+      "depart_time": "20:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "舒城东",
+      "arrive_time": "20:28",
+      "depart_time": "20:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "庐江西",
+      "arrive_time": "20:42",
+      "depart_time": "20:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "桐城东",
+      "arrive_time": "20:55",
+      "depart_time": "20:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太湖南",
+      "arrive_time": "21:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宿松东",
+      "arrive_time": "21:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 488.0,
+    "price_first": 225.0,
+    "price_second": 140.0,
+    "price_no_seat": 140.0
+  },
+  "fetched_at": "2026-05-01T00:55:58.447623"
+}

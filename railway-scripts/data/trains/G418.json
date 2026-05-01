@@ -1,0 +1,94 @@
+{
+  "train_no": "G418",
+  "train_type": "G",
+  "depart_station": "济南东",
+  "arrive_station": "广州",
+  "depart_time": "07:42",
+  "arrive_time": "15:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "07:42",
+      "depart_time": "07:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南",
+      "arrive_time": "08:00",
+      "depart_time": "08:03",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "茌平南",
+      "arrive_time": "08:33",
+      "depart_time": "08:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "聊城西",
+      "arrive_time": "08:48",
+      "depart_time": "08:52",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "濮阳东",
+      "arrive_time": "09:18",
+      "depart_time": "09:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州东",
+      "arrive_time": "10:12",
+      "depart_time": "10:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "信阳东",
+      "arrive_time": "11:15",
+      "depart_time": "11:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "武汉",
+      "arrive_time": "11:58",
+      "depart_time": "12:02",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "长沙南",
+      "arrive_time": "13:14",
+      "depart_time": "13:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "衡阳东",
+      "arrive_time": "13:51",
+      "depart_time": "13:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "广州",
+      "arrive_time": "15:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3614.0,
+    "price_first": 1648.0,
+    "price_second": 1031.0,
+    "price_no_seat": 1031.0
+  },
+  "fetched_at": "2026-05-01T06:58:02.269153"
+}

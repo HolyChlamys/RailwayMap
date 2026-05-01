@@ -1,0 +1,45 @@
+{
+  "train_no": "C3627",
+  "train_type": "C",
+  "depart_station": "上海",
+  "arrive_station": "安庆",
+  "depart_time": "23:11",
+  "arrive_time": "02:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "23:11",
+      "depart_time": "23:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "23:36",
+      "depart_time": "23:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "00:46",
+      "depart_time": "00:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "安庆",
+      "arrive_time": "02:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 329.0,
+    "price_first": 151.0,
+    "price_second": 94.0,
+    "price_no_seat": 94.0
+  },
+  "fetched_at": "2026-05-01T01:01:22.482395"
+}

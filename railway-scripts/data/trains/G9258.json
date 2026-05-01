@@ -1,0 +1,38 @@
+{
+  "train_no": "G9258",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "淮安东",
+  "depart_time": "01:10",
+  "arrive_time": "02:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "01:10",
+      "depart_time": "01:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "扬州东",
+      "arrive_time": "02:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "淮安东",
+      "arrive_time": "02:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 763.0,
+    "price_first": 349.0,
+    "price_second": 219.0,
+    "price_no_seat": 219.0
+  },
+  "fetched_at": "2026-05-01T09:09:29.630616"
+}

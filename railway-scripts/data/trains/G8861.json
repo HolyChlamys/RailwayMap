@@ -1,0 +1,45 @@
+{
+  "train_no": "G8861",
+  "train_type": "G",
+  "depart_station": "天津西",
+  "arrive_station": "北京西",
+  "depart_time": "17:16",
+  "arrive_time": "19:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津西",
+      "arrive_time": "17:16",
+      "depart_time": "17:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "白洋淀",
+      "arrive_time": "17:59",
+      "depart_time": "18:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "保定东",
+      "arrive_time": "18:18",
+      "depart_time": "18:36",
+      "stay_min": "18"
+    },
+    {
+      "seq": 4,
+      "station_name": "北京西",
+      "arrive_time": "19:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 361.0,
+    "price_first": 175.5,
+    "price_second": 109.5,
+    "price_no_seat": 109.5
+  },
+  "fetched_at": "2026-05-01T09:02:25.179428"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "C2386",
+  "train_type": "C",
+  "depart_station": "宁波",
+  "arrive_station": "杭州东",
+  "depart_time": "21:01",
+  "arrive_time": "21:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "21:01",
+      "depart_time": "21:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "余姚北",
+      "arrive_time": "21:23",
+      "depart_time": "21:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "绍兴东",
+      "arrive_time": "21:37",
+      "depart_time": "21:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绍兴北",
+      "arrive_time": "21:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州东",
+      "arrive_time": "21:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 298.0,
+    "price_first": 136.0,
+    "price_second": 85.0,
+    "price_no_seat": 85.0
+  },
+  "fetched_at": "2026-05-01T00:37:47.342445"
+}

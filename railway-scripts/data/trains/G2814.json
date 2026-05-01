@@ -1,0 +1,129 @@
+{
+  "train_no": "G2814",
+  "train_type": "G",
+  "depart_station": "石家庄",
+  "arrive_station": "上海虹桥",
+  "depart_time": "08:24",
+  "arrive_time": "15:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石家庄",
+      "arrive_time": "08:24",
+      "depart_time": "08:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邯郸东",
+      "arrive_time": "09:02",
+      "depart_time": "09:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "安阳东",
+      "arrive_time": "09:23",
+      "depart_time": "09:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "新乡东",
+      "arrive_time": "09:51",
+      "depart_time": "10:15",
+      "stay_min": "24"
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "10:36",
+      "depart_time": "10:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "扶沟南",
+      "arrive_time": "11:15",
+      "depart_time": "11:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "周口东",
+      "arrive_time": "11:34",
+      "depart_time": "11:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "临泉",
+      "arrive_time": "12:02",
+      "depart_time": "12:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "阜阳西",
+      "arrive_time": "12:19",
+      "depart_time": "12:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "淮南南",
+      "arrive_time": "12:55",
+      "depart_time": "12:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "合肥",
+      "arrive_time": "13:24",
+      "depart_time": "13:27",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "南京南",
+      "arrive_time": "14:22",
+      "depart_time": "14:26",
+      "stay_min": "4"
+    },
+    {
+      "seq": 13,
+      "station_name": "镇江南",
+      "arrive_time": "14:46",
+      "depart_time": "14:51",
+      "stay_min": "5"
+    },
+    {
+      "seq": 14,
+      "station_name": "苏州北",
+      "arrive_time": "15:26",
+      "depart_time": "15:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "昆山南",
+      "arrive_time": "15:40",
+      "depart_time": "15:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "上海虹桥",
+      "arrive_time": "15:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2463.0,
+    "price_first": 1205.0,
+    "price_second": 753.0,
+    "price_no_seat": 753.0
+  },
+  "fetched_at": "2026-05-01T06:21:00.998641"
+}

@@ -1,0 +1,93 @@
+{
+  "train_no": "D6194",
+  "train_type": "D",
+  "depart_station": "重庆北",
+  "arrive_station": "雅安",
+  "depart_time": "10:37",
+  "arrive_time": "14:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "10:37",
+      "depart_time": "10:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合川",
+      "arrive_time": "11:02",
+      "depart_time": "11:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "遂宁",
+      "arrive_time": "11:53",
+      "depart_time": "11:59",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "大英东",
+      "arrive_time": "12:15",
+      "depart_time": "12:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "13:05",
+      "depart_time": "13:12",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "成都南",
+      "arrive_time": "13:22",
+      "depart_time": "13:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "成都东",
+      "arrive_time": "13:05",
+      "depart_time": "13:12",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "成都南",
+      "arrive_time": "13:22",
+      "depart_time": "13:26",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "大邑",
+      "arrive_time": "13:52",
+      "depart_time": "13:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "朝阳湖",
+      "arrive_time": "14:13",
+      "depart_time": "14:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "雅安",
+      "arrive_time": "14:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 286.0,
+    "price_second": 179.0,
+    "price_no_seat": 179.0
+  },
+  "fetched_at": "2026-05-01T04:18:47.050145"
+}

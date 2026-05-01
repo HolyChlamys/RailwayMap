@@ -1,0 +1,73 @@
+{
+  "train_no": "D6089",
+  "train_type": "D",
+  "depart_station": "烟台",
+  "arrive_station": "济南东",
+  "depart_time": "16:10",
+  "arrive_time": "20:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "烟台",
+      "arrive_time": "16:10",
+      "depart_time": "16:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海阳北",
+      "arrive_time": "16:40",
+      "depart_time": "16:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "胶州北",
+      "arrive_time": "17:26",
+      "depart_time": "17:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "潍坊",
+      "arrive_time": "18:06",
+      "depart_time": "18:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "淄博",
+      "arrive_time": "18:46",
+      "depart_time": "18:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南",
+      "arrive_time": "19:34",
+      "depart_time": "19:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "济南西",
+      "arrive_time": "19:52",
+      "depart_time": "19:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "济南东",
+      "arrive_time": "20:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 760.5,
+    "price_first": 353.0,
+    "price_second": 220.0,
+    "price_no_seat": 220.0
+  },
+  "fetched_at": "2026-05-01T04:16:21.313345"
+}

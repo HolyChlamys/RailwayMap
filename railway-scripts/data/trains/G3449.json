@@ -1,0 +1,38 @@
+{
+  "train_no": "G3449",
+  "train_type": "G",
+  "depart_station": "巴东",
+  "arrive_station": "重庆北",
+  "depart_time": "08:26",
+  "arrive_time": "09:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "巴东",
+      "arrive_time": "08:26",
+      "depart_time": "08:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "万州北",
+      "arrive_time": "09:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "09:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 802.0,
+    "price_first": 367.0,
+    "price_second": 229.0,
+    "price_no_seat": 229.0
+  },
+  "fetched_at": "2026-05-01T06:38:10.193464"
+}

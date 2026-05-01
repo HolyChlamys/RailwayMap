@@ -1,0 +1,65 @@
+{
+  "train_no": "C953",
+  "train_type": "C",
+  "depart_station": "巴中东",
+  "arrive_station": "成都东",
+  "depart_time": "16:36",
+  "arrive_time": "18:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "巴中东",
+      "arrive_time": "16:36",
+      "depart_time": "16:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巴中西",
+      "arrive_time": "16:53",
+      "depart_time": "16:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "马鞍",
+      "arrive_time": "17:13",
+      "depart_time": "17:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "仪陇",
+      "arrive_time": "17:39",
+      "depart_time": "17:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "蓬安西",
+      "arrive_time": "17:52",
+      "depart_time": "17:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南充北",
+      "arrive_time": "18:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "成都东",
+      "arrive_time": "18:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 219.0,
+    "price_second": 137.0,
+    "price_no_seat": 137.0
+  },
+  "fetched_at": "2026-05-01T02:48:19.400533"
+}

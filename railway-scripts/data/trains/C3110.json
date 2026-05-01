@@ -1,0 +1,38 @@
+{
+  "train_no": "C3110",
+  "train_type": "C",
+  "depart_station": "上海",
+  "arrive_station": "淮安东",
+  "depart_time": "01:30",
+  "arrive_time": "03:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "01:30",
+      "depart_time": "01:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "盐城",
+      "arrive_time": "03:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "淮安东",
+      "arrive_time": "03:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 680.5,
+    "price_first": 338.0,
+    "price_second": 212.5,
+    "price_no_seat": 212.5
+  },
+  "fetched_at": "2026-05-01T00:51:20.617527"
+}

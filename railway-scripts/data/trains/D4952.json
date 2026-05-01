@@ -1,0 +1,38 @@
+{
+  "train_no": "D4952",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "厦门北",
+  "depart_time": "05:20",
+  "arrive_time": "06:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "05:20",
+      "depart_time": "05:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普宁",
+      "arrive_time": "06:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "厦门北",
+      "arrive_time": "06:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 798.0,
+    "price_first": 365.0,
+    "price_second": 228.0,
+    "price_no_seat": 228.0
+  },
+  "fetched_at": "2026-05-01T03:58:55.299026"
+}

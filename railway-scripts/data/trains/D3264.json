@@ -1,0 +1,100 @@
+{
+  "train_no": "D3264",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "汉口",
+  "depart_time": "15:34",
+  "arrive_time": "21:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "15:34",
+      "depart_time": "15:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永泰",
+      "arrive_time": "15:59",
+      "depart_time": "16:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "三明北",
+      "arrive_time": "16:49",
+      "depart_time": "16:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "将乐",
+      "arrive_time": "17:12",
+      "depart_time": "17:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "建宁县北",
+      "arrive_time": "17:41",
+      "depart_time": "17:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "抚州",
+      "arrive_time": "18:27",
+      "depart_time": "18:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "南昌西",
+      "arrive_time": "19:08",
+      "depart_time": "19:13",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "永修",
+      "arrive_time": "19:33",
+      "depart_time": "19:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "德安",
+      "arrive_time": "19:49",
+      "depart_time": "19:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "庐山",
+      "arrive_time": "20:07",
+      "depart_time": "20:11",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "武汉",
+      "arrive_time": "21:17",
+      "depart_time": "21:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "汉口",
+      "arrive_time": "21:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 546.0,
+    "price_second": 342.0,
+    "price_no_seat": 342.0
+  },
+  "fetched_at": "2026-05-01T03:30:49.090034"
+}

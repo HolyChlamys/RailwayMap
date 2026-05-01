@@ -1,0 +1,31 @@
+{
+  "train_no": "G3372",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "铜仁",
+  "depart_time": "10:30",
+  "arrive_time": "10:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "10:30",
+      "depart_time": "10:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "铜仁",
+      "arrive_time": "10:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 595.0,
+    "price_first": 277.0,
+    "price_second": 172.0,
+    "price_no_seat": 172.0
+  },
+  "fetched_at": "2026-05-01T06:36:23.909141"
+}

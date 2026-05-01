@@ -1,0 +1,192 @@
+{
+  "train_no": "G3190",
+  "train_type": "G",
+  "depart_station": "杭州西",
+  "arrive_station": "银川",
+  "depart_time": "09:37",
+  "arrive_time": "21:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "09:37",
+      "depart_time": "09:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "湖州",
+      "arrive_time": "09:59",
+      "depart_time": "10:04",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "宣城",
+      "arrive_time": "10:40",
+      "depart_time": "10:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖南",
+      "arrive_time": "11:03",
+      "depart_time": "11:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "芜湖",
+      "arrive_time": "11:15",
+      "depart_time": "11:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "合肥南",
+      "arrive_time": "11:56",
+      "depart_time": "11:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "淮南南",
+      "arrive_time": "12:38",
+      "depart_time": "12:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "寿县",
+      "arrive_time": "12:49",
+      "depart_time": "12:54",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "阜阳西",
+      "arrive_time": "13:23",
+      "depart_time": "13:28",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "古城东",
+      "arrive_time": "13:48",
+      "depart_time": "13:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "亳州南",
+      "arrive_time": "14:01",
+      "depart_time": "14:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "商丘",
+      "arrive_time": "14:29",
+      "depart_time": "14:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "郑州东",
+      "arrive_time": "15:22",
+      "depart_time": "15:29",
+      "stay_min": "7"
+    },
+    {
+      "seq": 14,
+      "station_name": "洛阳龙门",
+      "arrive_time": "16:05",
+      "depart_time": "16:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "渑池南",
+      "arrive_time": "16:27",
+      "depart_time": "16:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "渭南北",
+      "arrive_time": "17:19",
+      "depart_time": "17:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "西安北",
+      "arrive_time": "17:42",
+      "depart_time": "17:47",
+      "stay_min": "5"
+    },
+    {
+      "seq": 18,
+      "station_name": "咸阳北",
+      "arrive_time": "18:00",
+      "depart_time": "18:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "乾县",
+      "arrive_time": "18:16",
+      "depart_time": "18:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 20,
+      "station_name": "彬州东",
+      "arrive_time": "18:39",
+      "depart_time": "18:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 21,
+      "station_name": "庆阳",
+      "arrive_time": "19:12",
+      "depart_time": "19:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 22,
+      "station_name": "庆城",
+      "arrive_time": "19:31",
+      "depart_time": "19:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 23,
+      "station_name": "环县",
+      "arrive_time": "19:53",
+      "depart_time": "19:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 24,
+      "station_name": "吴忠",
+      "arrive_time": "20:49",
+      "depart_time": "20:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 25,
+      "station_name": "银川",
+      "arrive_time": "21:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3632.5,
+    "price_first": 1760.5,
+    "price_second": 1096.5,
+    "price_no_seat": 1096.5
+  },
+  "fetched_at": "2026-05-01T06:31:14.389347"
+}

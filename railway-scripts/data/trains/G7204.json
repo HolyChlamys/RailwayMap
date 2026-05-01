@@ -1,0 +1,30 @@
+{
+  "train_no": "G7204",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "无锡",
+  "depart_time": "05:34",
+  "arrive_time": "05:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "05:34",
+      "depart_time": "05:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "无锡",
+      "arrive_time": "05:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 111.0,
+    "price_second": 69.0,
+    "price_no_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T08:20:25.797924"
+}

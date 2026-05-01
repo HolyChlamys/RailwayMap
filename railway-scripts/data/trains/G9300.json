@@ -1,0 +1,45 @@
+{
+  "train_no": "G9300",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "连云港",
+  "depart_time": "02:22",
+  "arrive_time": "04:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "02:22",
+      "depart_time": "02:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "扬州东",
+      "arrive_time": "03:46",
+      "depart_time": "03:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "淮安东",
+      "arrive_time": "04:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "连云港",
+      "arrive_time": "04:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 937.0,
+    "price_first": 442.0,
+    "price_second": 277.0,
+    "price_no_seat": 277.0
+  },
+  "fetched_at": "2026-05-01T09:10:49.349446"
+}

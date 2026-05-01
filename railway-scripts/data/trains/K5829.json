@@ -1,0 +1,35 @@
+{
+  "train_no": "K5829",
+  "train_type": "K",
+  "depart_station": "阜阳",
+  "arrive_station": "合肥",
+  "depart_time": "08:53",
+  "arrive_time": "10:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜阳",
+      "arrive_time": "08:53",
+      "depart_time": "08:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮南",
+      "arrive_time": "10:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥",
+      "arrive_time": "10:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T10:14:43.461796"
+}

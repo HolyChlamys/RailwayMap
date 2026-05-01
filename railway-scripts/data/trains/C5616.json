@@ -1,0 +1,52 @@
+{
+  "train_no": "C5616",
+  "train_type": "C",
+  "depart_station": "蕲春南",
+  "arrive_station": "武汉",
+  "depart_time": "19:58",
+  "arrive_time": "20:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "蕲春南",
+      "arrive_time": "19:58",
+      "depart_time": "19:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "浠水南",
+      "arrive_time": "20:11",
+      "depart_time": "20:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄冈东",
+      "arrive_time": "20:27",
+      "depart_time": "20:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄冈西",
+      "arrive_time": "20:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武汉",
+      "arrive_time": "20:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 213.0,
+    "price_first": 105.0,
+    "price_second": 65.0,
+    "price_no_seat": 65.0
+  },
+  "fetched_at": "2026-05-01T01:35:40.321072"
+}

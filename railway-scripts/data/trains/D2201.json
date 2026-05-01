@@ -1,0 +1,51 @@
+{
+  "train_no": "D2201",
+  "train_type": "D",
+  "depart_station": "杭州西",
+  "arrive_station": "南昌东",
+  "depart_time": "19:56",
+  "arrive_time": "22:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "19:56",
+      "depart_time": "19:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄山北",
+      "arrive_time": "21:15",
+      "depart_time": "21:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "景德镇北",
+      "arrive_time": "22:05",
+      "depart_time": "22:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鄱阳",
+      "arrive_time": "22:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌东",
+      "arrive_time": "22:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 424.0,
+    "price_second": 265.0,
+    "price_no_seat": 265.0
+  },
+  "fetched_at": "2026-05-01T03:12:06.421452"
+}

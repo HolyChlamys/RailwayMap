@@ -1,0 +1,51 @@
+{
+  "train_no": "D5846",
+  "train_type": "D",
+  "depart_station": "武汉",
+  "arrive_station": "宜昌东",
+  "depart_time": "15:45",
+  "arrive_time": "18:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "15:45",
+      "depart_time": "15:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "16:07",
+      "depart_time": "16:18",
+      "stay_min": "11"
+    },
+    {
+      "seq": 3,
+      "station_name": "天门南",
+      "arrive_time": "16:54",
+      "depart_time": "16:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "荆州",
+      "arrive_time": "17:38",
+      "depart_time": "17:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "宜昌东",
+      "arrive_time": "18:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 228.0,
+    "price_second": 143.0,
+    "price_no_seat": 143.0
+  },
+  "fetched_at": "2026-05-01T04:12:23.985101"
+}

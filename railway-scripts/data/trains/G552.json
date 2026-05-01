@@ -1,0 +1,80 @@
+{
+  "train_no": "G552",
+  "train_type": "G",
+  "depart_station": "郑州航空港",
+  "arrive_station": "北京西",
+  "depart_time": "06:14",
+  "arrive_time": "09:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州航空港",
+      "arrive_time": "06:14",
+      "depart_time": "06:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "06:39",
+      "depart_time": "06:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新乡东",
+      "arrive_time": "07:05",
+      "depart_time": "07:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鹤壁东",
+      "arrive_time": "07:23",
+      "depart_time": "07:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "安阳东",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "石家庄",
+      "arrive_time": "08:43",
+      "depart_time": "08:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "保定东",
+      "arrive_time": "09:22",
+      "depart_time": "09:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "涿州东",
+      "arrive_time": "09:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "北京西",
+      "arrive_time": "09:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1363.0,
+    "price_first": 628.0,
+    "price_second": 393.0,
+    "price_no_seat": 393.0
+  },
+  "fetched_at": "2026-05-01T07:35:47.014023"
+}

@@ -1,0 +1,70 @@
+{
+  "train_no": "S902",
+  "train_type": "S",
+  "depart_station": "天津",
+  "arrive_station": "蓟州北",
+  "depart_time": "07:27",
+  "arrive_time": "09:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津",
+      "arrive_time": "07:27",
+      "depart_time": "07:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曹子里",
+      "arrive_time": "08:25",
+      "depart_time": "08:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "崔黄口",
+      "arrive_time": "08:42",
+      "depart_time": "08:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大口屯",
+      "arrive_time": "08:56",
+      "depart_time": "08:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宝坻北",
+      "arrive_time": "09:13",
+      "depart_time": "09:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "下仓",
+      "arrive_time": "09:28",
+      "depart_time": "09:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "上仓",
+      "arrive_time": "09:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "蓟州北",
+      "arrive_time": "09:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 18.5
+  },
+  "fetched_at": "2026-05-01T11:20:25.335254"
+}

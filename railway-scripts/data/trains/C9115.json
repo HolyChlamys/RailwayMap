@@ -1,0 +1,51 @@
+{
+  "train_no": "C9115",
+  "train_type": "C",
+  "depart_station": "广州东",
+  "arrive_station": "深圳",
+  "depart_time": "21:30",
+  "arrive_time": "22:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "21:30",
+      "depart_time": "21:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞",
+      "arrive_time": "21:58",
+      "depart_time": "21:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常平",
+      "arrive_time": "22:09",
+      "depart_time": "22:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "樟木头",
+      "arrive_time": "22:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳",
+      "arrive_time": "22:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 99.5,
+    "price_second": 79.5,
+    "price_no_seat": 79.5
+  },
+  "fetched_at": "2026-05-01T02:40:15.438182"
+}

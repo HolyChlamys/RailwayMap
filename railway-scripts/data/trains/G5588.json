@@ -1,0 +1,73 @@
+{
+  "train_no": "G5588",
+  "train_type": "G",
+  "depart_station": "荣成",
+  "arrive_station": "曲阜东",
+  "depart_time": "07:51",
+  "arrive_time": "11:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荣成",
+      "arrive_time": "07:51",
+      "depart_time": "07:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乳山南",
+      "arrive_time": "08:15",
+      "depart_time": "08:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "海阳",
+      "arrive_time": "08:30",
+      "depart_time": "08:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "青岛西",
+      "arrive_time": "09:45",
+      "depart_time": "09:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "厉家寨",
+      "arrive_time": "10:31",
+      "depart_time": "10:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "莒南北",
+      "arrive_time": "10:44",
+      "depart_time": "10:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "临沂北",
+      "arrive_time": "11:01",
+      "depart_time": "11:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "曲阜东",
+      "arrive_time": "11:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1022.0,
+    "price_first": 510.0,
+    "price_second": 318.0,
+    "price_no_seat": 318.0
+  },
+  "fetched_at": "2026-05-01T07:37:45.927639"
+}

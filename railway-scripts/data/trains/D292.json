@@ -1,0 +1,58 @@
+{
+  "train_no": "D292",
+  "train_type": "D",
+  "depart_station": "商丘",
+  "arrive_station": "济南",
+  "depart_time": "19:13",
+  "arrive_time": "23:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "商丘",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "菏泽",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "济宁",
+      "arrive_time": "21:34",
+      "depart_time": "21:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "兖州",
+      "arrive_time": "22:24",
+      "depart_time": "22:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "泰山",
+      "arrive_time": "23:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "济南",
+      "arrive_time": "23:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 165.0,
+    "price_second": 103.0,
+    "price_no_seat": 103.0
+  },
+  "fetched_at": "2026-05-01T03:25:44.750331"
+}

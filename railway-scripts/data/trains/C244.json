@@ -1,0 +1,86 @@
+{
+  "train_no": "C244",
+  "train_type": "C",
+  "depart_station": "宁强",
+  "arrive_station": "西安",
+  "depart_time": "10:05",
+  "arrive_time": "16:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁强",
+      "arrive_time": "10:05",
+      "depart_time": "10:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "勉县",
+      "arrive_time": "10:37",
+      "depart_time": "10:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "汉中",
+      "arrive_time": "11:02",
+      "depart_time": "11:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "城固",
+      "arrive_time": "11:25",
+      "depart_time": "11:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "西乡",
+      "arrive_time": "12:11",
+      "depart_time": "12:14",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "石泉县",
+      "arrive_time": "12:54",
+      "depart_time": "12:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "汉阴",
+      "arrive_time": "13:19",
+      "depart_time": "13:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "安康",
+      "arrive_time": "14:01",
+      "depart_time": "14:09",
+      "stay_min": "8"
+    },
+    {
+      "seq": 9,
+      "station_name": "旬阳",
+      "arrive_time": "14:44",
+      "depart_time": "15:02",
+      "stay_min": "18"
+    },
+    {
+      "seq": 10,
+      "station_name": "西安",
+      "arrive_time": "16:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 287.0,
+    "price_second": 179.0,
+    "price_no_seat": 179.0
+  },
+  "fetched_at": "2026-05-01T00:39:22.166375"
+}

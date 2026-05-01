@@ -1,0 +1,42 @@
+{
+  "train_no": "K8182",
+  "train_type": "K",
+  "depart_station": "西安",
+  "arrive_station": "榆林",
+  "depart_time": "00:31",
+  "arrive_time": "05:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "00:31",
+      "depart_time": "00:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延安",
+      "arrive_time": "03:53",
+      "depart_time": "03:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "绥德",
+      "arrive_time": "05:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "榆林",
+      "arrive_time": "05:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T10:36:46.818271"
+}

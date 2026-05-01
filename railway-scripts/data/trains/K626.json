@@ -1,0 +1,91 @@
+{
+  "train_no": "K626",
+  "train_type": "K",
+  "depart_station": "兰州",
+  "arrive_station": "固原",
+  "depart_time": "09:47",
+  "arrive_time": "19:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州",
+      "arrive_time": "09:47",
+      "depart_time": "09:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "定西",
+      "arrive_time": "11:13",
+      "depart_time": "11:18",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "陇西",
+      "arrive_time": "12:11",
+      "depart_time": "12:14",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "武山",
+      "arrive_time": "12:39",
+      "depart_time": "12:42",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "甘谷",
+      "arrive_time": "13:14",
+      "depart_time": "13:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "天水",
+      "arrive_time": "14:36",
+      "depart_time": "14:44",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "清水县",
+      "arrive_time": "15:12",
+      "depart_time": "15:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "张家川",
+      "arrive_time": "15:40",
+      "depart_time": "15:45",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "安口窑",
+      "arrive_time": "16:38",
+      "depart_time": "16:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "平凉",
+      "arrive_time": "17:28",
+      "depart_time": "17:38",
+      "stay_min": "10"
+    },
+    {
+      "seq": 11,
+      "station_name": "固原",
+      "arrive_time": "19:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 86.0
+  },
+  "fetched_at": "2026-05-01T10:20:40.329765"
+}

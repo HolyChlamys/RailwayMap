@@ -1,0 +1,44 @@
+{
+  "train_no": "C186",
+  "train_type": "C",
+  "depart_station": "榆林",
+  "arrive_station": "安康",
+  "depart_time": "15:15",
+  "arrive_time": "22:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "榆林",
+      "arrive_time": "15:15",
+      "depart_time": "15:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延安",
+      "arrive_time": "17:13",
+      "depart_time": "17:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "西安",
+      "arrive_time": "19:31",
+      "depart_time": "19:51",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "安康",
+      "arrive_time": "22:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 412.0,
+    "price_second": 258.0,
+    "price_no_seat": 258.0
+  },
+  "fetched_at": "2026-05-01T00:27:41.756389"
+}

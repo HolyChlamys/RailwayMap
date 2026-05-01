@@ -1,0 +1,42 @@
+{
+  "train_no": "K5303",
+  "train_type": "K",
+  "depart_station": "临汾",
+  "arrive_station": "运城",
+  "depart_time": "19:45",
+  "arrive_time": "21:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临汾",
+      "arrive_time": "19:45",
+      "depart_time": "19:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "侯马",
+      "arrive_time": "20:38",
+      "depart_time": "20:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "闻喜",
+      "arrive_time": "21:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "运城",
+      "arrive_time": "21:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 21.5
+  },
+  "fetched_at": "2026-05-01T10:07:52.439317"
+}

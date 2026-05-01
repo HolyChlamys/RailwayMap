@@ -1,0 +1,56 @@
+{
+  "train_no": "K8417",
+  "train_type": "K",
+  "depart_station": "淮北",
+  "arrive_station": "芜湖",
+  "depart_time": "14:24",
+  "arrive_time": "20:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "淮北",
+      "arrive_time": "14:24",
+      "depart_time": "14:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宿州",
+      "arrive_time": "15:25",
+      "depart_time": "15:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "固镇",
+      "arrive_time": "16:08",
+      "depart_time": "16:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "蚌埠",
+      "arrive_time": "16:56",
+      "depart_time": "16:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥",
+      "arrive_time": "20:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "芜湖",
+      "arrive_time": "20:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 64.5
+  },
+  "fetched_at": "2026-05-01T10:39:23.983867"
+}

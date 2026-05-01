@@ -1,0 +1,52 @@
+{
+  "train_no": "G4185",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "信阳东",
+  "depart_time": "18:41",
+  "arrive_time": "19:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "18:41",
+      "depart_time": "18:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "许昌东",
+      "arrive_time": "19:06",
+      "depart_time": "19:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "漯河西",
+      "arrive_time": "19:24",
+      "depart_time": "19:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "驻马店西",
+      "arrive_time": "19:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "信阳东",
+      "arrive_time": "19:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 649.0,
+    "price_first": 297.0,
+    "price_second": 185.0,
+    "price_no_seat": 185.0
+  },
+  "fetched_at": "2026-05-01T06:58:12.114223"
+}

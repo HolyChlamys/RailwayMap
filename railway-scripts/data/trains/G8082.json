@@ -1,0 +1,45 @@
+{
+  "train_no": "G8082",
+  "train_type": "G",
+  "depart_station": "沈阳",
+  "arrive_station": "盘锦",
+  "depart_time": "07:51",
+  "arrive_time": "08:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "07:51",
+      "depart_time": "07:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "辽阳",
+      "arrive_time": "08:15",
+      "depart_time": "08:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "海城西",
+      "arrive_time": "08:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "盘锦",
+      "arrive_time": "08:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 385.0,
+    "price_first": 176.0,
+    "price_second": 110.0,
+    "price_no_seat": 110.0
+  },
+  "fetched_at": "2026-05-01T08:44:03.363529"
+}

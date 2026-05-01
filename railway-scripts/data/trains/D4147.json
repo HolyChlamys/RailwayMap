@@ -1,0 +1,51 @@
+{
+  "train_no": "D4147",
+  "train_type": "D",
+  "depart_station": "兰州西",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "06:43",
+  "arrive_time": "14:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "06:43",
+      "depart_time": "06:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西宁",
+      "arrive_time": "07:45",
+      "depart_time": "07:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "嘉峪关南",
+      "arrive_time": "10:43",
+      "depart_time": "10:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "哈密",
+      "arrive_time": "14:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "14:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 882.0,
+    "price_second": 551.0,
+    "price_no_seat": 551.0
+  },
+  "fetched_at": "2026-05-01T03:44:31.236457"
+}

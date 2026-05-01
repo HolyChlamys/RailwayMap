@@ -1,0 +1,80 @@
+{
+  "train_no": "G5281",
+  "train_type": "G",
+  "depart_station": "临沂北",
+  "arrive_station": "菏泽东",
+  "depart_time": "07:46",
+  "arrive_time": "09:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沂北",
+      "arrive_time": "07:46",
+      "depart_time": "07:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "费县北",
+      "arrive_time": "08:02",
+      "depart_time": "08:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "蒙山",
+      "arrive_time": "08:15",
+      "depart_time": "08:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "曲阜东",
+      "arrive_time": "08:53",
+      "depart_time": "08:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "曲阜南",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "济宁北",
+      "arrive_time": "09:24",
+      "depart_time": "09:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "嘉祥北",
+      "arrive_time": "09:36",
+      "depart_time": "09:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "巨野北",
+      "arrive_time": "09:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "菏泽东",
+      "arrive_time": "09:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 541.0,
+    "price_first": 264.0,
+    "price_second": 165.0,
+    "price_no_seat": 165.0
+  },
+  "fetched_at": "2026-05-01T07:30:04.930879"
+}

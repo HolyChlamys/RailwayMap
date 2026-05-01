@@ -1,0 +1,49 @@
+{
+  "train_no": "Z48",
+  "train_type": "Z",
+  "depart_station": "武昌",
+  "arrive_station": "杭州",
+  "depart_time": "21:51",
+  "arrive_time": "06:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "21:51",
+      "depart_time": "21:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄂州",
+      "arrive_time": "22:46",
+      "depart_time": "22:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "黄石",
+      "arrive_time": "23:05",
+      "depart_time": "23:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "金华",
+      "arrive_time": "04:13",
+      "depart_time": "04:19",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州",
+      "arrive_time": "06:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T11:49:35.338896"
+}

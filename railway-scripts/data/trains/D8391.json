@@ -1,0 +1,37 @@
+{
+  "train_no": "D8391",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "东兴市",
+  "depart_time": "18:50",
+  "arrive_time": "19:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "防城港北",
+      "arrive_time": "19:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东兴市",
+      "arrive_time": "19:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 132.0,
+    "price_second": 82.5,
+    "price_no_seat": 82.5
+  },
+  "fetched_at": "2026-05-01T04:56:00.851572"
+}

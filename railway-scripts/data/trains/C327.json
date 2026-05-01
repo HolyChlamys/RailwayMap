@@ -1,0 +1,31 @@
+{
+  "train_no": "C327",
+  "train_type": "C",
+  "depart_station": "大理",
+  "arrive_station": "丽江",
+  "depart_time": "17:32",
+  "arrive_time": "17:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "17:32",
+      "depart_time": "17:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丽江",
+      "arrive_time": "17:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 239.0,
+    "price_first": 127.0,
+    "price_second": 80.0,
+    "price_no_seat": 80.0
+  },
+  "fetched_at": "2026-05-01T00:55:35.278471"
+}

@@ -1,0 +1,122 @@
+{
+  "train_no": "G7653",
+  "train_type": "G",
+  "depart_station": "瑞安",
+  "arrive_station": "阜阳西",
+  "depart_time": "14:28",
+  "arrive_time": "20:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "瑞安",
+      "arrive_time": "14:28",
+      "depart_time": "14:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "温州南",
+      "arrive_time": "14:40",
+      "depart_time": "14:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "丽水",
+      "arrive_time": "15:17",
+      "depart_time": "15:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "永康南",
+      "arrive_time": "15:40",
+      "depart_time": "15:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "金华南",
+      "arrive_time": "16:00",
+      "depart_time": "16:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "诸暨",
+      "arrive_time": "16:32",
+      "depart_time": "16:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "杭州东",
+      "arrive_time": "16:58",
+      "depart_time": "17:04",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "湖州",
+      "arrive_time": "17:26",
+      "depart_time": "17:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "长兴",
+      "arrive_time": "17:37",
+      "depart_time": "17:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "溧水",
+      "arrive_time": "18:08",
+      "depart_time": "18:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "南京南",
+      "arrive_time": "18:26",
+      "depart_time": "18:31",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "合肥",
+      "arrive_time": "19:22",
+      "depart_time": "19:29",
+      "stay_min": "7"
+    },
+    {
+      "seq": 13,
+      "station_name": "淮南南",
+      "arrive_time": "19:56",
+      "depart_time": "19:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "凤台南",
+      "arrive_time": "20:11",
+      "depart_time": "20:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "阜阳西",
+      "arrive_time": "20:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1604.0,
+    "price_first": 786.5,
+    "price_second": 492.5,
+    "price_no_seat": 492.5
+  },
+  "fetched_at": "2026-05-01T08:33:07.039902"
+}

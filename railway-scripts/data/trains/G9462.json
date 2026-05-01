@@ -1,0 +1,80 @@
+{
+  "train_no": "G9462",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "上海虹桥",
+  "depart_time": "23:16",
+  "arrive_time": "02:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "23:16",
+      "depart_time": "23:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "徐州东",
+      "arrive_time": "23:35",
+      "depart_time": "23:41",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州北",
+      "arrive_time": "23:39",
+      "depart_time": "23:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宿迁",
+      "arrive_time": "00:13",
+      "depart_time": "00:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "00:30",
+      "depart_time": "00:34",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "淮安东",
+      "arrive_time": "00:43",
+      "depart_time": "00:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "徐州东",
+      "arrive_time": "01:48",
+      "depart_time": "01:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "扬州东",
+      "arrive_time": "01:26",
+      "depart_time": "01:31",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "上海虹桥",
+      "arrive_time": "02:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1181.0,
+    "price_first": 540.0,
+    "price_second": 337.0,
+    "price_no_seat": 337.0
+  },
+  "fetched_at": "2026-05-01T09:14:48.539609"
+}

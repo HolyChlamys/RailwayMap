@@ -1,0 +1,42 @@
+{
+  "train_no": "Z99",
+  "train_type": "Z",
+  "depart_station": "上海",
+  "arrive_station": "广州白云",
+  "depart_time": "17:19",
+  "arrive_time": "20:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "17:19",
+      "depart_time": "17:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州南",
+      "arrive_time": "19:29",
+      "depart_time": "19:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金华",
+      "arrive_time": "20:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州白云",
+      "arrive_time": "20:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 206.0
+  },
+  "fetched_at": "2026-05-01T11:52:48.512292"
+}

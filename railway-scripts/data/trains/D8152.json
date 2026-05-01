@@ -1,0 +1,72 @@
+{
+  "train_no": "D8152",
+  "train_type": "D",
+  "depart_station": "烟台",
+  "arrive_station": "济南东",
+  "depart_time": "20:17",
+  "arrive_time": "22:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "烟台",
+      "arrive_time": "20:17",
+      "depart_time": "20:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "芝罘",
+      "arrive_time": "20:32",
+      "depart_time": "20:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桃村北",
+      "arrive_time": "20:49",
+      "depart_time": "20:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "莱阳",
+      "arrive_time": "21:07",
+      "depart_time": "21:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "莱西",
+      "arrive_time": "21:19",
+      "depart_time": "21:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "平度",
+      "arrive_time": "21:39",
+      "depart_time": "21:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "潍坊北",
+      "arrive_time": "22:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "济南东",
+      "arrive_time": "22:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 296.0,
+    "price_second": 186.0,
+    "price_no_seat": 186.0
+  },
+  "fetched_at": "2026-05-01T04:50:22.350174"
+}

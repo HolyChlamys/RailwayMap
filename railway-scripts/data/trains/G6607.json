@@ -1,0 +1,31 @@
+{
+  "train_no": "G6607",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "平顶山西",
+  "depart_time": "06:31",
+  "arrive_time": "06:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "06:31",
+      "depart_time": "06:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "平顶山西",
+      "arrive_time": "06:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 256.0,
+    "price_first": 136.0,
+    "price_second": 85.0,
+    "price_no_seat": 85.0
+  },
+  "fetched_at": "2026-05-01T08:03:50.720916"
+}

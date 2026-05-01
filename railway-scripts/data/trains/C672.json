@@ -1,0 +1,86 @@
+{
+  "train_no": "C672",
+  "train_type": "C",
+  "depart_station": "济南",
+  "arrive_station": "龙口市",
+  "depart_time": "08:52",
+  "arrive_time": "13:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "08:52",
+      "depart_time": "08:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰山",
+      "arrive_time": "09:36",
+      "depart_time": "09:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "磁窑",
+      "arrive_time": "10:02",
+      "depart_time": "10:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "兖州",
+      "arrive_time": "10:36",
+      "depart_time": "10:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "邹城",
+      "arrive_time": "10:51",
+      "depart_time": "10:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "滕州",
+      "arrive_time": "11:16",
+      "depart_time": "11:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "枣庄西",
+      "arrive_time": "11:38",
+      "depart_time": "11:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "烟台",
+      "arrive_time": "11:49",
+      "depart_time": "12:03",
+      "stay_min": "14"
+    },
+    {
+      "seq": 9,
+      "station_name": "蓬莱",
+      "arrive_time": "12:48",
+      "depart_time": "12:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "龙口市",
+      "arrive_time": "13:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 124.0,
+    "price_second": 77.0,
+    "price_no_seat": 77.0
+  },
+  "fetched_at": "2026-05-01T01:54:33.617819"
+}

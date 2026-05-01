@@ -1,0 +1,44 @@
+{
+  "train_no": "D2685",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "西宁",
+  "depart_time": "09:00",
+  "arrive_time": "11:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天水南",
+      "arrive_time": "10:30",
+      "depart_time": "10:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兰州西",
+      "arrive_time": "11:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西宁",
+      "arrive_time": "11:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 477.0,
+    "price_second": 298.0,
+    "price_no_seat": 298.0
+  },
+  "fetched_at": "2026-05-01T03:20:36.755969"
+}

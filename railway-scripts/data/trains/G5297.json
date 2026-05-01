@@ -1,0 +1,66 @@
+{
+  "train_no": "G5297",
+  "train_type": "G",
+  "depart_station": "烟台",
+  "arrive_station": "临沂北",
+  "depart_time": "19:07",
+  "arrive_time": "21:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "烟台",
+      "arrive_time": "19:07",
+      "depart_time": "19:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莱阳",
+      "arrive_time": "19:43",
+      "depart_time": "19:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "莱西",
+      "arrive_time": "19:54",
+      "depart_time": "19:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "城阳",
+      "arrive_time": "20:17",
+      "depart_time": "20:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "青岛西",
+      "arrive_time": "20:54",
+      "depart_time": "20:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "日照西",
+      "arrive_time": "21:26",
+      "depart_time": "21:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "临沂北",
+      "arrive_time": "21:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 578.0,
+    "price_first": 290.0,
+    "price_second": 181.0,
+    "price_no_seat": 181.0
+  },
+  "fetched_at": "2026-05-01T07:30:33.674204"
+}

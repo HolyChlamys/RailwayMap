@@ -1,0 +1,57 @@
+{
+  "train_no": "C8043",
+  "train_type": "C",
+  "depart_station": "汕头",
+  "arrive_station": "深圳北",
+  "depart_time": "22:35",
+  "arrive_time": "01:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "22:35",
+      "depart_time": "22:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "22:58",
+      "depart_time": "23:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "潮阳",
+      "arrive_time": "23:12",
+      "depart_time": "23:22",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "普宁",
+      "arrive_time": "23:32",
+      "depart_time": "23:38",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "00:07",
+      "depart_time": "00:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "01:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 169.5,
+    "price_no_seat": 169.5
+  },
+  "fetched_at": "2026-05-01T02:31:07.512369"
+}

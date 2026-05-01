@@ -1,0 +1,52 @@
+{
+  "train_no": "D9740",
+  "train_type": "D",
+  "depart_station": "潮汕",
+  "arrive_station": "梅州西",
+  "depart_time": "07:48",
+  "arrive_time": "08:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潮汕",
+      "arrive_time": "07:48",
+      "depart_time": "07:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "揭阳机场",
+      "arrive_time": "07:59",
+      "depart_time": "07:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "揭阳",
+      "arrive_time": "08:12",
+      "depart_time": "08:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "丰顺东",
+      "arrive_time": "08:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "梅州西",
+      "arrive_time": "08:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 215.0,
+    "price_first": 115.0,
+    "price_second": 72.0,
+    "price_no_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T05:23:32.288846"
+}

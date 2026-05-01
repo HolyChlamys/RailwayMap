@@ -1,0 +1,73 @@
+{
+  "train_no": "G6298",
+  "train_type": "G",
+  "depart_station": "唐山",
+  "arrive_station": "石家庄",
+  "depart_time": "13:40",
+  "arrive_time": "16:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "唐山",
+      "arrive_time": "13:40",
+      "depart_time": "13:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天津",
+      "arrive_time": "14:12",
+      "depart_time": "14:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "天津西",
+      "arrive_time": "14:23",
+      "depart_time": "14:33",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "胜芳",
+      "arrive_time": "14:51",
+      "depart_time": "14:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "白沟",
+      "arrive_time": "15:18",
+      "depart_time": "15:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "白洋淀",
+      "arrive_time": "15:32",
+      "depart_time": "15:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "保定东",
+      "arrive_time": "15:59",
+      "depart_time": "16:06",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "石家庄",
+      "arrive_time": "16:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 689.0,
+    "price_first": 325.5,
+    "price_second": 202.5,
+    "price_no_seat": 202.5
+  },
+  "fetched_at": "2026-05-01T07:54:39.963791"
+}

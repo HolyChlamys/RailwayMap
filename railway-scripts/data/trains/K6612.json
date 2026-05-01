@@ -1,0 +1,42 @@
+{
+  "train_no": "K6612",
+  "train_type": "K",
+  "depart_station": "广州白云",
+  "arrive_station": "岳阳",
+  "depart_time": "10:35",
+  "arrive_time": "20:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "10:35",
+      "depart_time": "10:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙",
+      "arrive_time": "19:12",
+      "depart_time": "19:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "岳阳南",
+      "arrive_time": "20:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "岳阳",
+      "arrive_time": "20:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T10:24:08.390180"
+}

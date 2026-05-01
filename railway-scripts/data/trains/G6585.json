@@ -1,0 +1,44 @@
+{
+  "train_no": "G6585",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "香港西九龙",
+  "depart_time": "17:47",
+  "arrive_time": "18:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "17:47",
+      "depart_time": "17:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南沙北",
+      "arrive_time": "18:04",
+      "depart_time": "18:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "18:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "香港西九龙",
+      "arrive_time": "18:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 344.0,
+    "price_second": 215.0,
+    "price_no_seat": 215.0
+  },
+  "fetched_at": "2026-05-01T08:03:09.594999"
+}

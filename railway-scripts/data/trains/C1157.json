@@ -1,0 +1,58 @@
+{
+  "train_no": "C1157",
+  "train_type": "C",
+  "depart_station": "赤峰",
+  "arrive_station": "沈阳南",
+  "depart_time": "13:26",
+  "arrive_time": "16:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赤峰",
+      "arrive_time": "13:26",
+      "depart_time": "13:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁城",
+      "arrive_time": "13:57",
+      "depart_time": "13:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "建平",
+      "arrive_time": "14:13",
+      "depart_time": "14:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "喀左",
+      "arrive_time": "14:30",
+      "depart_time": "14:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳",
+      "arrive_time": "16:19",
+      "depart_time": "16:25",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "沈阳南",
+      "arrive_time": "16:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 358.0,
+    "price_second": 224.0,
+    "price_no_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T00:22:24.771729"
+}

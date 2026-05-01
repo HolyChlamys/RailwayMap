@@ -1,0 +1,66 @@
+{
+  "train_no": "G9308",
+  "train_type": "G",
+  "depart_station": "温岭",
+  "arrive_station": "杭州东",
+  "depart_time": "18:50",
+  "arrive_time": "20:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "温岭",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "台州",
+      "arrive_time": "19:02",
+      "depart_time": "19:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天台山",
+      "arrive_time": "19:25",
+      "depart_time": "19:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "嵊州新昌",
+      "arrive_time": "19:42",
+      "depart_time": "19:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "上虞南",
+      "arrive_time": "20:02",
+      "depart_time": "20:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "绍兴北",
+      "arrive_time": "20:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "杭州东",
+      "arrive_time": "20:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 512.0,
+    "price_first": 234.0,
+    "price_second": 147.0,
+    "price_no_seat": 147.0
+  },
+  "fetched_at": "2026-05-01T09:11:05.330153"
+}

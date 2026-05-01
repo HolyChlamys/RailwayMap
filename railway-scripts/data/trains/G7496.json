@@ -1,0 +1,115 @@
+{
+  "train_no": "G7496",
+  "train_type": "G",
+  "depart_station": "苍南",
+  "arrive_station": "黄山北",
+  "depart_time": "18:09",
+  "arrive_time": "23:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "苍南",
+      "arrive_time": "18:09",
+      "depart_time": "18:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "平阳",
+      "arrive_time": "18:19",
+      "depart_time": "18:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "瑞安",
+      "arrive_time": "18:31",
+      "depart_time": "18:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "温州南",
+      "arrive_time": "18:48",
+      "depart_time": "18:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "青田",
+      "arrive_time": "19:10",
+      "depart_time": "19:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "丽水",
+      "arrive_time": "19:31",
+      "depart_time": "19:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "缙云西",
+      "arrive_time": "19:46",
+      "depart_time": "19:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "永康南",
+      "arrive_time": "19:59",
+      "depart_time": "20:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "武义北",
+      "arrive_time": "20:12",
+      "depart_time": "20:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "金华南",
+      "arrive_time": "20:25",
+      "depart_time": "20:31",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "诸暨",
+      "arrive_time": "21:02",
+      "depart_time": "21:07",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "杭州南",
+      "arrive_time": "21:25",
+      "depart_time": "21:41",
+      "stay_min": "16"
+    },
+    {
+      "seq": 13,
+      "station_name": "桐庐",
+      "arrive_time": "22:08",
+      "depart_time": "22:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "黄山北",
+      "arrive_time": "23:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 878.0,
+    "price_first": 441.5,
+    "price_second": 276.5,
+    "price_no_seat": 276.5
+  },
+  "fetched_at": "2026-05-01T08:28:45.121937"
+}

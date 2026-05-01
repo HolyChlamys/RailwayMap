@@ -1,0 +1,66 @@
+{
+  "train_no": "G6695",
+  "train_type": "G",
+  "depart_station": "安阳东",
+  "arrive_station": "周口东",
+  "depart_time": "12:20",
+  "arrive_time": "14:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安阳东",
+      "arrive_time": "12:20",
+      "depart_time": "12:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹤壁东",
+      "arrive_time": "12:52",
+      "depart_time": "12:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新乡东",
+      "arrive_time": "13:24",
+      "depart_time": "13:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "14:06",
+      "depart_time": "14:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "许昌北",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "鄢陵",
+      "arrive_time": "14:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "周口东",
+      "arrive_time": "14:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 635.0,
+    "price_first": 312.0,
+    "price_second": 195.0,
+    "price_no_seat": 195.0
+  },
+  "fetched_at": "2026-05-01T08:06:13.074096"
+}

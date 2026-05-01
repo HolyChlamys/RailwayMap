@@ -1,0 +1,56 @@
+{
+  "train_no": "K5843",
+  "train_type": "K",
+  "depart_station": "南昌",
+  "arrive_station": "宜春",
+  "depart_time": "12:37",
+  "arrive_time": "15:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "12:37",
+      "depart_time": "12:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丰城",
+      "arrive_time": "13:36",
+      "depart_time": "13:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "樟树",
+      "arrive_time": "13:59",
+      "depart_time": "13:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新余",
+      "arrive_time": "14:50",
+      "depart_time": "14:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "分宜",
+      "arrive_time": "15:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宜春",
+      "arrive_time": "15:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:15:01.700136"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "G2867",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "昆明南",
+  "depart_time": "15:01",
+  "arrive_time": "19:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "15:01",
+      "depart_time": "15:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "赶水东",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "遵义",
+      "arrive_time": "16:26",
+      "depart_time": "16:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "17:20",
+      "depart_time": "17:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "平坝南",
+      "arrive_time": "17:43",
+      "depart_time": "17:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "关岭",
+      "arrive_time": "18:10",
+      "depart_time": "18:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "盘州",
+      "arrive_time": "18:58",
+      "depart_time": "18:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "曲靖北",
+      "arrive_time": "19:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "昆明南",
+      "arrive_time": "19:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 636.5,
+    "price_first": 629.0,
+    "price_second": 394.0,
+    "price_no_seat": 394.0
+  },
+  "fetched_at": "2026-05-01T06:22:29.261554"
+}

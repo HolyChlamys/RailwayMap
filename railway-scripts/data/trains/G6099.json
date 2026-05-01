@@ -1,0 +1,94 @@
+{
+  "train_no": "G6099",
+  "train_type": "G",
+  "depart_station": "汕头",
+  "arrive_station": "长沙南",
+  "depart_time": "06:52",
+  "arrive_time": "12:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "06:52",
+      "depart_time": "06:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "07:14",
+      "depart_time": "07:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "普宁",
+      "arrive_time": "07:34",
+      "depart_time": "07:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "08:05",
+      "depart_time": "08:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "惠阳",
+      "arrive_time": "08:36",
+      "depart_time": "08:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "09:04",
+      "depart_time": "09:08",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "虎门",
+      "arrive_time": "09:25",
+      "depart_time": "09:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "09:44",
+      "depart_time": "09:54",
+      "stay_min": "10"
+    },
+    {
+      "seq": 9,
+      "station_name": "韶关",
+      "arrive_time": "10:45",
+      "depart_time": "10:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "郴州西",
+      "arrive_time": "11:18",
+      "depart_time": "11:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "长沙南",
+      "arrive_time": "12:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2039.5,
+    "price_first": 940.5,
+    "price_second": 599.5,
+    "price_no_seat": 599.5
+  },
+  "fetched_at": "2026-05-01T07:48:47.764126"
+}

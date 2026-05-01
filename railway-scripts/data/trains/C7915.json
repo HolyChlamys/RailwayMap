@@ -1,0 +1,57 @@
+{
+  "train_no": "C7915",
+  "train_type": "C",
+  "depart_station": "番禺",
+  "arrive_station": "惠州  北",
+  "depart_time": "16:58",
+  "arrive_time": "18:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "番禺",
+      "arrive_time": "16:58",
+      "depart_time": "16:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州长隆",
+      "arrive_time": "17:04",
+      "depart_time": "17:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "西平西",
+      "arrive_time": "17:33",
+      "depart_time": "17:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "松山湖北",
+      "arrive_time": "17:46",
+      "depart_time": "17:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "云山",
+      "arrive_time": "18:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "惠州  北",
+      "arrive_time": "18:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 60.0,
+    "price_no_seat": 60.0
+  },
+  "fetched_at": "2026-05-01T02:27:52.310894"
+}

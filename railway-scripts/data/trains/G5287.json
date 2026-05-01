@@ -1,0 +1,52 @@
+{
+  "train_no": "G5287",
+  "train_type": "G",
+  "depart_station": "临沂北",
+  "arrive_station": "菏泽东",
+  "depart_time": "06:37",
+  "arrive_time": "07:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沂北",
+      "arrive_time": "06:37",
+      "depart_time": "06:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蒙山",
+      "arrive_time": "06:58",
+      "depart_time": "06:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "济宁东",
+      "arrive_time": "07:26",
+      "depart_time": "07:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "巨野北",
+      "arrive_time": "07:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "菏泽东",
+      "arrive_time": "07:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 514.0,
+    "price_first": 251.0,
+    "price_second": 157.0,
+    "price_no_seat": 157.0
+  },
+  "fetched_at": "2026-05-01T07:30:14.973413"
+}

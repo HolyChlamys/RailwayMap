@@ -1,0 +1,51 @@
+{
+  "train_no": "D5975",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "宜昌东",
+  "depart_time": "08:15",
+  "arrive_time": "09:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "08:15",
+      "depart_time": "08:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉川",
+      "arrive_time": "08:40",
+      "depart_time": "08:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潜江",
+      "arrive_time": "09:14",
+      "depart_time": "09:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "荆州",
+      "arrive_time": "09:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜昌东",
+      "arrive_time": "09:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 173.0,
+    "price_second": 108.0,
+    "price_no_seat": 108.0
+  },
+  "fetched_at": "2026-05-01T04:14:02.184802"
+}

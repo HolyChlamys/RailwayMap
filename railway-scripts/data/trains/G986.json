@@ -1,0 +1,80 @@
+{
+  "train_no": "G986",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "青岛北",
+  "depart_time": "07:05",
+  "arrive_time": "13:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "07:05",
+      "depart_time": "07:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州北",
+      "arrive_time": "07:34",
+      "depart_time": "07:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "08:26",
+      "depart_time": "08:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "徐州东",
+      "arrive_time": "09:42",
+      "depart_time": "09:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "济南",
+      "arrive_time": "10:54",
+      "depart_time": "11:01",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "淄博",
+      "arrive_time": "11:43",
+      "depart_time": "11:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "潍坊",
+      "arrive_time": "12:21",
+      "depart_time": "12:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "高密",
+      "arrive_time": "12:50",
+      "depart_time": "12:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "青岛北",
+      "arrive_time": "13:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2191.0,
+    "price_first": 1007.0,
+    "price_second": 629.0,
+    "price_no_seat": 629.0
+  },
+  "fetched_at": "2026-05-01T09:26:24.934178"
+}

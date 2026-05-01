@@ -1,0 +1,51 @@
+{
+  "train_no": "C1524",
+  "train_type": "C",
+  "depart_station": "新宾",
+  "arrive_station": "本溪",
+  "depart_time": "09:35",
+  "arrive_time": "11:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "新宾",
+      "arrive_time": "09:35",
+      "depart_time": "09:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚顺",
+      "arrive_time": "10:07",
+      "depart_time": "10:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "沈阳",
+      "arrive_time": "10:34",
+      "depart_time": "10:48",
+      "stay_min": "14"
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳南",
+      "arrive_time": "11:00",
+      "depart_time": "11:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "本溪",
+      "arrive_time": "11:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 209.0,
+    "price_second": 131.0,
+    "price_no_seat": 131.0
+  },
+  "fetched_at": "2026-05-01T00:26:35.560543"
+}

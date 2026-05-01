@@ -1,0 +1,59 @@
+{
+  "train_no": "G3578",
+  "train_type": "G",
+  "depart_station": "南宁东",
+  "arrive_station": "贵阳北",
+  "depart_time": "14:53",
+  "arrive_time": "16:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "14:53",
+      "depart_time": "14:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马山县",
+      "arrive_time": "15:25",
+      "depart_time": "15:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "都安",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "荔波",
+      "arrive_time": "16:24",
+      "depart_time": "16:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "独山东",
+      "arrive_time": "16:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳北",
+      "arrive_time": "16:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1045.0,
+    "price_first": 478.0,
+    "price_second": 298.0,
+    "price_no_seat": 298.0
+  },
+  "fetched_at": "2026-05-01T06:41:48.268212"
+}

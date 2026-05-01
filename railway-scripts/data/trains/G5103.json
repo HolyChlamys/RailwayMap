@@ -1,0 +1,45 @@
+{
+  "train_no": "G5103",
+  "train_type": "G",
+  "depart_station": "福州",
+  "arrive_station": "厦门",
+  "depart_time": "06:53",
+  "arrive_time": "08:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "06:53",
+      "depart_time": "06:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泉州东",
+      "arrive_time": "07:43",
+      "depart_time": "07:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "厦门北",
+      "arrive_time": "08:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "厦门",
+      "arrive_time": "08:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 521.0,
+    "price_first": 238.0,
+    "price_second": 149.0,
+    "price_no_seat": 149.0
+  },
+  "fetched_at": "2026-05-01T07:24:52.996326"
+}

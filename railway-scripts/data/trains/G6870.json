@@ -1,0 +1,52 @@
+{
+  "train_no": "G6870",
+  "train_type": "G",
+  "depart_station": "宜昌北",
+  "arrive_station": "汉口",
+  "depart_time": "19:38",
+  "arrive_time": "20:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌北",
+      "arrive_time": "19:38",
+      "depart_time": "19:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆门西",
+      "arrive_time": "20:00",
+      "depart_time": "20:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天门",
+      "arrive_time": "20:33",
+      "depart_time": "20:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉川北",
+      "arrive_time": "20:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汉口",
+      "arrive_time": "20:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 766.0,
+    "price_first": 350.0,
+    "price_second": 219.0,
+    "price_no_seat": 219.0
+  },
+  "fetched_at": "2026-05-01T08:11:21.383303"
+}

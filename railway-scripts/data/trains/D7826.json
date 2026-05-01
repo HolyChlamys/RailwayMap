@@ -1,0 +1,51 @@
+{
+  "train_no": "D7826",
+  "train_type": "D",
+  "depart_station": "佳木斯",
+  "arrive_station": "哈尔滨",
+  "depart_time": "16:35",
+  "arrive_time": "18:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佳木斯",
+      "arrive_time": "16:35",
+      "depart_time": "16:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高楞",
+      "arrive_time": "17:24",
+      "depart_time": "17:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "方正",
+      "arrive_time": "17:43",
+      "depart_time": "17:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宾州",
+      "arrive_time": "18:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "哈尔滨",
+      "arrive_time": "18:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 203.0,
+    "price_second": 127.0,
+    "price_no_seat": 127.0
+  },
+  "fetched_at": "2026-05-01T04:45:36.846255"
+}

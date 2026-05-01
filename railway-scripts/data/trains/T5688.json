@@ -1,0 +1,56 @@
+{
+  "train_no": "T5688",
+  "train_type": "T",
+  "depart_station": "秦皇岛",
+  "arrive_station": "北京",
+  "depart_time": "16:14",
+  "arrive_time": "18:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "秦皇岛",
+      "arrive_time": "16:14",
+      "depart_time": "16:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北戴河",
+      "arrive_time": "16:35",
+      "depart_time": "16:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "昌黎",
+      "arrive_time": "16:56",
+      "depart_time": "16:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "滦县",
+      "arrive_time": "17:22",
+      "depart_time": "17:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "唐山北",
+      "arrive_time": "18:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "北京",
+      "arrive_time": "18:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T11:26:48.876785"
+}

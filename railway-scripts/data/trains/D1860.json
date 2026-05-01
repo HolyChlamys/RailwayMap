@@ -1,0 +1,86 @@
+{
+  "train_no": "D1860",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "贵阳北",
+  "depart_time": "10:57",
+  "arrive_time": "16:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "10:57",
+      "depart_time": "10:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肇庆东",
+      "arrive_time": "11:33",
+      "depart_time": "11:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贺州",
+      "arrive_time": "12:26",
+      "depart_time": "12:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "钟山西",
+      "arrive_time": "12:42",
+      "depart_time": "12:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "桂林西",
+      "arrive_time": "13:39",
+      "depart_time": "13:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "从江",
+      "arrive_time": "14:45",
+      "depart_time": "14:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "榕江",
+      "arrive_time": "15:15",
+      "depart_time": "15:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "三都县",
+      "arrive_time": "15:46",
+      "depart_time": "15:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "龙洞堡",
+      "arrive_time": "16:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "贵阳北",
+      "arrive_time": "16:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 668.0,
+    "price_second": 417.0,
+    "price_no_seat": 417.0
+  },
+  "fetched_at": "2026-05-01T03:06:23.856445"
+}

@@ -1,0 +1,71 @@
+{
+  "train_no": "C4823",
+  "train_type": "C",
+  "depart_station": "肇  庆",
+  "arrive_station": "惠州  北",
+  "depart_time": "09:32",
+  "arrive_time": "12:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "肇  庆",
+      "arrive_time": "09:32",
+      "depart_time": "09:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山  西",
+      "arrive_time": "10:06",
+      "depart_time": "10:10",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "番禺",
+      "arrive_time": "10:32",
+      "depart_time": "10:37",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州长隆",
+      "arrive_time": "10:41",
+      "depart_time": "10:44",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "西平西",
+      "arrive_time": "11:09",
+      "depart_time": "11:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "松山湖北",
+      "arrive_time": "11:21",
+      "depart_time": "11:22",
+      "stay_min": "1"
+    },
+    {
+      "seq": 7,
+      "station_name": "云山",
+      "arrive_time": "11:51",
+      "depart_time": "11:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "惠州  北",
+      "arrive_time": "12:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 174.0,
+    "price_no_seat": 174.0
+  },
+  "fetched_at": "2026-05-01T01:19:18.752919"
+}

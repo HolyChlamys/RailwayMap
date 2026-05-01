@@ -1,0 +1,65 @@
+{
+  "train_no": "C7767",
+  "train_type": "C",
+  "depart_station": "龙山北",
+  "arrive_station": "长沙",
+  "depart_time": "11:27",
+  "arrive_time": "13:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "龙山北",
+      "arrive_time": "11:27",
+      "depart_time": "11:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张家界西",
+      "arrive_time": "12:11",
+      "depart_time": "12:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桃源",
+      "arrive_time": "12:50",
+      "depart_time": "12:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "常德",
+      "arrive_time": "13:09",
+      "depart_time": "13:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汉寿",
+      "arrive_time": "13:25",
+      "depart_time": "13:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "益阳南",
+      "arrive_time": "13:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙",
+      "arrive_time": "13:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 350.0,
+    "price_second": 218.0,
+    "price_no_seat": 218.0
+  },
+  "fetched_at": "2026-05-01T02:23:40.843920"
+}

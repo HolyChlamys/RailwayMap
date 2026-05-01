@@ -1,0 +1,51 @@
+{
+  "train_no": "D4991",
+  "train_type": "D",
+  "depart_station": "巴彦淖尔",
+  "arrive_station": "银川",
+  "depart_time": "12:36",
+  "arrive_time": "13:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "12:36",
+      "depart_time": "12:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌海",
+      "arrive_time": "13:19",
+      "depart_time": "13:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乌海南",
+      "arrive_time": "13:33",
+      "depart_time": "13:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "石嘴山",
+      "arrive_time": "13:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "银川",
+      "arrive_time": "13:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 280.0,
+    "price_second": 175.0,
+    "price_no_seat": 175.0
+  },
+  "fetched_at": "2026-05-01T03:59:33.162719"
+}

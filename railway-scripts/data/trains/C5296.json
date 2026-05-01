@@ -1,0 +1,58 @@
+{
+  "train_no": "C5296",
+  "train_type": "C",
+  "depart_station": "厦门",
+  "arrive_station": "福州南",
+  "depart_time": "18:21",
+  "arrive_time": "19:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "18:21",
+      "depart_time": "18:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "晋江",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泉州",
+      "arrive_time": "19:14",
+      "depart_time": "19:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "仙游",
+      "arrive_time": "19:36",
+      "depart_time": "19:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "莆田",
+      "arrive_time": "19:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "福州南",
+      "arrive_time": "19:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 178.0,
+    "price_second": 111.0,
+    "price_no_seat": 111.0
+  },
+  "fetched_at": "2026-05-01T01:32:18.604701"
+}

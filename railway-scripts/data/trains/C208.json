@@ -1,0 +1,44 @@
+{
+  "train_no": "C208",
+  "train_type": "C",
+  "depart_station": "西安",
+  "arrive_station": "靖边",
+  "depart_time": "10:32",
+  "arrive_time": "15:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "10:32",
+      "depart_time": "10:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延安",
+      "arrive_time": "12:44",
+      "depart_time": "12:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "绥德",
+      "arrive_time": "14:28",
+      "depart_time": "14:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "靖边",
+      "arrive_time": "15:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 313.0,
+    "price_second": 196.0,
+    "price_no_seat": 196.0
+  },
+  "fetched_at": "2026-05-01T00:29:25.267704"
+}

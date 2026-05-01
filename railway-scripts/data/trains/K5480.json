@@ -1,0 +1,49 @@
+{
+  "train_no": "K5480",
+  "train_type": "K",
+  "depart_station": "安康",
+  "arrive_station": "西安",
+  "depart_time": "11:18",
+  "arrive_time": "14:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安康",
+      "arrive_time": "11:18",
+      "depart_time": "11:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "旬阳北",
+      "arrive_time": "11:59",
+      "depart_time": "12:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "小河镇",
+      "arrive_time": "12:25",
+      "depart_time": "12:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "引镇",
+      "arrive_time": "13:46",
+      "depart_time": "13:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "西安",
+      "arrive_time": "14:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T10:11:35.157895"
+}

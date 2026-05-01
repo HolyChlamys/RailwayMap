@@ -1,0 +1,52 @@
+{
+  "train_no": "C6782",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "普宁",
+  "depart_time": "16:54",
+  "arrive_time": "19:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "16:54",
+      "depart_time": "16:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门",
+      "arrive_time": "17:11",
+      "depart_time": "17:19",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "17:38",
+      "depart_time": "17:42",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "18:29",
+      "depart_time": "18:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "普宁",
+      "arrive_time": "19:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 590.5,
+    "price_first": 278.5,
+    "price_second": 186.5,
+    "price_no_seat": 186.5
+  },
+  "fetched_at": "2026-05-01T01:56:27.564564"
+}

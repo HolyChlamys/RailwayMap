@@ -1,0 +1,94 @@
+{
+  "train_no": "G416",
+  "train_type": "G",
+  "depart_station": "广州",
+  "arrive_station": "济南东",
+  "depart_time": "15:57",
+  "arrive_time": "23:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "15:57",
+      "depart_time": "15:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州白云",
+      "arrive_time": "16:06",
+      "depart_time": "16:11",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州西",
+      "arrive_time": "17:26",
+      "depart_time": "17:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "18:29",
+      "depart_time": "18:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "武汉",
+      "arrive_time": "19:44",
+      "depart_time": "19:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "信阳东",
+      "arrive_time": "20:27",
+      "depart_time": "20:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州东",
+      "arrive_time": "21:30",
+      "depart_time": "21:34",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "濮阳东",
+      "arrive_time": "22:26",
+      "depart_time": "22:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "聊城西",
+      "arrive_time": "22:54",
+      "depart_time": "22:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "济南西",
+      "arrive_time": "23:28",
+      "depart_time": "23:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "济南东",
+      "arrive_time": "23:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3607.0,
+    "price_first": 1648.0,
+    "price_second": 1032.0,
+    "price_no_seat": 1032.0
+  },
+  "fetched_at": "2026-05-01T06:57:30.826710"
+}

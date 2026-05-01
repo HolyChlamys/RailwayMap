@@ -1,0 +1,56 @@
+{
+  "train_no": "K9234",
+  "train_type": "K",
+  "depart_station": "炎陵",
+  "arrive_station": "长沙",
+  "depart_time": "15:00",
+  "arrive_time": "19:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "炎陵",
+      "arrive_time": "15:00",
+      "depart_time": "15:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "茶陵南",
+      "arrive_time": "15:35",
+      "depart_time": "15:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "攸县",
+      "arrive_time": "16:22",
+      "depart_time": "16:28",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "醴陵",
+      "arrive_time": "17:51",
+      "depart_time": "17:57",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "株洲",
+      "arrive_time": "18:28",
+      "depart_time": "18:36",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙",
+      "arrive_time": "19:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:42:54.852712"
+}

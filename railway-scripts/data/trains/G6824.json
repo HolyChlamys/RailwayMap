@@ -1,0 +1,37 @@
+{
+  "train_no": "G6824",
+  "train_type": "G",
+  "depart_station": "宜昌北",
+  "arrive_station": "襄阳东",
+  "depart_time": "06:33",
+  "arrive_time": "06:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌北",
+      "arrive_time": "06:33",
+      "depart_time": "06:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆门西",
+      "arrive_time": "06:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "襄阳东",
+      "arrive_time": "06:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 227.0,
+    "price_second": 142.0,
+    "price_no_seat": 142.0
+  },
+  "fetched_at": "2026-05-01T08:09:56.980113"
+}

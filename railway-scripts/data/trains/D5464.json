@@ -1,0 +1,59 @@
+{
+  "train_no": "D5464",
+  "train_type": "D",
+  "depart_station": "盐城",
+  "arrive_station": "南京",
+  "depart_time": "15:24",
+  "arrive_time": "17:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "盐城",
+      "arrive_time": "15:24",
+      "depart_time": "15:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阜宁南",
+      "arrive_time": "15:42",
+      "depart_time": "15:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "高邮北",
+      "arrive_time": "16:18",
+      "depart_time": "16:30",
+      "stay_min": "12"
+    },
+    {
+      "seq": 4,
+      "station_name": "扬州东",
+      "arrive_time": "16:52",
+      "depart_time": "16:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "大港南",
+      "arrive_time": "17:11",
+      "depart_time": "17:19",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京",
+      "arrive_time": "17:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 555.0,
+    "price_first": 264.0,
+    "price_second": 165.0,
+    "price_no_seat": 165.0
+  },
+  "fetched_at": "2026-05-01T04:07:28.652633"
+}

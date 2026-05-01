@@ -1,0 +1,42 @@
+{
+  "train_no": "K5362",
+  "train_type": "K",
+  "depart_station": "洛阳",
+  "arrive_station": "郑州",
+  "depart_time": "18:14",
+  "arrive_time": "19:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "洛阳",
+      "arrive_time": "18:14",
+      "depart_time": "18:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "偃师",
+      "arrive_time": "18:41",
+      "depart_time": "18:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "巩义",
+      "arrive_time": "19:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州",
+      "arrive_time": "19:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 19.5
+  },
+  "fetched_at": "2026-05-01T10:08:48.696055"
+}

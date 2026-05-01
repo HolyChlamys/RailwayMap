@@ -1,0 +1,59 @@
+{
+  "train_no": "G4203",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "长沙南",
+  "depart_time": "17:11",
+  "arrive_time": "18:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "17:11",
+      "depart_time": "17:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高安",
+      "arrive_time": "17:28",
+      "depart_time": "17:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜春",
+      "arrive_time": "18:02",
+      "depart_time": "18:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "萍乡北",
+      "arrive_time": "18:22",
+      "depart_time": "18:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "醴陵东",
+      "arrive_time": "18:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙南",
+      "arrive_time": "18:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 658.0,
+    "price_first": 301.0,
+    "price_second": 188.0,
+    "price_no_seat": 188.0
+  },
+  "fetched_at": "2026-05-01T06:58:45.219208"
+}

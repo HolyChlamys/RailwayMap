@@ -1,0 +1,30 @@
+{
+  "train_no": "D9336",
+  "train_type": "D",
+  "depart_station": "黄冈东",
+  "arrive_station": "武汉",
+  "depart_time": "21:04",
+  "arrive_time": "21:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄冈东",
+      "arrive_time": "21:04",
+      "depart_time": "21:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉",
+      "arrive_time": "21:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 50.0,
+    "price_second": 31.0,
+    "price_no_seat": 31.0
+  },
+  "fetched_at": "2026-05-01T05:13:36.472794"
+}

@@ -1,0 +1,40 @@
+{
+  "train_no": "Y471",
+  "train_type": "Y",
+  "depart_station": "北京丰台",
+  "arrive_station": "鹰潭",
+  "depart_time": "10:37",
+  "arrive_time": "13:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京丰台",
+      "arrive_time": "10:37",
+      "depart_time": "10:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "霸州",
+      "arrive_time": "11:45",
+      "depart_time": "11:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡水",
+      "arrive_time": "13:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鹰潭",
+      "arrive_time": "13:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:33:20.263980"
+}

@@ -1,0 +1,73 @@
+{
+  "train_no": "G3240",
+  "train_type": "G",
+  "depart_station": "汉口",
+  "arrive_station": "泗县东",
+  "depart_time": "09:44",
+  "arrive_time": "13:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "09:44",
+      "depart_time": "09:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "麻城北",
+      "arrive_time": "10:35",
+      "depart_time": "10:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "六安",
+      "arrive_time": "11:24",
+      "depart_time": "11:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥西",
+      "arrive_time": "11:56",
+      "depart_time": "11:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "定远东",
+      "arrive_time": "12:30",
+      "depart_time": "12:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "明光西",
+      "arrive_time": "12:45",
+      "depart_time": "12:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "五河",
+      "arrive_time": "13:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "泗县东",
+      "arrive_time": "13:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1128.0,
+    "price_first": 516.0,
+    "price_second": 323.0,
+    "price_no_seat": 323.0
+  },
+  "fetched_at": "2026-05-01T06:32:40.933133"
+}

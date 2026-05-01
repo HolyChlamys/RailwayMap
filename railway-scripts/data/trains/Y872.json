@@ -1,0 +1,33 @@
+{
+  "train_no": "Y872",
+  "train_type": "Y",
+  "depart_station": "昆明",
+  "arrive_station": "临沧",
+  "depart_time": "21:46",
+  "arrive_time": "08:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "21:46",
+      "depart_time": "21:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大理",
+      "arrive_time": "00:43",
+      "depart_time": "01:05",
+      "stay_min": "22"
+    },
+    {
+      "seq": 3,
+      "station_name": "临沧",
+      "arrive_time": "08:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:40:28.502947"
+}

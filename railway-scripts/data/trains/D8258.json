@@ -1,0 +1,44 @@
+{
+  "train_no": "D8258",
+  "train_type": "D",
+  "depart_station": "南宁",
+  "arrive_station": "柳州",
+  "depart_time": "09:12",
+  "arrive_time": "09:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁",
+      "arrive_time": "09:12",
+      "depart_time": "09:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁东",
+      "arrive_time": "09:29",
+      "depart_time": "09:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宾阳",
+      "arrive_time": "09:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "柳州",
+      "arrive_time": "09:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 158.0,
+    "price_second": 99.0,
+    "price_no_seat": 99.0
+  },
+  "fetched_at": "2026-05-01T04:52:31.356601"
+}

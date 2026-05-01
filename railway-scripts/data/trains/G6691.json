@@ -1,0 +1,59 @@
+{
+  "train_no": "G6691",
+  "train_type": "G",
+  "depart_station": "南乐",
+  "arrive_station": "郑州东",
+  "depart_time": "20:07",
+  "arrive_time": "21:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南乐",
+      "arrive_time": "20:07",
+      "depart_time": "20:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "濮阳东",
+      "arrive_time": "20:24",
+      "depart_time": "20:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "滑浚",
+      "arrive_time": "20:44",
+      "depart_time": "20:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新乡东",
+      "arrive_time": "21:04",
+      "depart_time": "21:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "新乡南",
+      "arrive_time": "21:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州东",
+      "arrive_time": "21:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 482.0,
+    "price_first": 220.0,
+    "price_second": 137.0,
+    "price_no_seat": 137.0
+  },
+  "fetched_at": "2026-05-01T08:06:06.496853"
+}

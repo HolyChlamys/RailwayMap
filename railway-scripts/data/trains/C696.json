@@ -1,0 +1,59 @@
+{
+  "train_no": "C696",
+  "train_type": "C",
+  "depart_station": "金华",
+  "arrive_station": "宁波",
+  "depart_time": "10:19",
+  "arrive_time": "12:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "金华",
+      "arrive_time": "10:19",
+      "depart_time": "10:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "义乌",
+      "arrive_time": "10:52",
+      "depart_time": "10:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东阳北",
+      "arrive_time": "11:18",
+      "depart_time": "11:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "嵊州新昌",
+      "arrive_time": "11:52",
+      "depart_time": "11:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "溪口",
+      "arrive_time": "12:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宁波",
+      "arrive_time": "12:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 329.0,
+    "price_first": 151.0,
+    "price_second": 94.0,
+    "price_no_seat": 94.0
+  },
+  "fetched_at": "2026-05-01T02:01:35.314729"
+}

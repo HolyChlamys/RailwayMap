@@ -1,0 +1,33 @@
+{
+  "train_no": "Y888",
+  "train_type": "Y",
+  "depart_station": "昆明",
+  "arrive_station": "挖色",
+  "depart_time": "16:22",
+  "arrive_time": "21:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "16:22",
+      "depart_time": "16:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "云南驿",
+      "arrive_time": "21:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "挖色",
+      "arrive_time": "21:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:40:54.843830"
+}

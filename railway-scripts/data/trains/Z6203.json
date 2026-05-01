@@ -1,0 +1,70 @@
+{
+  "train_no": "Z6203",
+  "train_type": "Z",
+  "depart_station": "敦煌",
+  "arrive_station": "兰州",
+  "depart_time": "20:30",
+  "arrive_time": "07:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "敦煌",
+      "arrive_time": "20:30",
+      "depart_time": "20:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "瓜州",
+      "arrive_time": "21:18",
+      "depart_time": "21:23",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "玉门",
+      "arrive_time": "22:34",
+      "depart_time": "22:39",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "嘉峪关",
+      "arrive_time": "23:59",
+      "depart_time": "00:07",
+      "stay_min": "1432"
+    },
+    {
+      "seq": 5,
+      "station_name": "张掖",
+      "arrive_time": "01:58",
+      "depart_time": "02:04",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "武威",
+      "arrive_time": "04:18",
+      "depart_time": "04:24",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "兰州西",
+      "arrive_time": "07:13",
+      "depart_time": "07:23",
+      "stay_min": "10"
+    },
+    {
+      "seq": 8,
+      "station_name": "兰州",
+      "arrive_time": "07:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 141.5
+  },
+  "fetched_at": "2026-05-01T11:50:49.528407"
+}

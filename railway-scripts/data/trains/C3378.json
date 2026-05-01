@@ -1,0 +1,64 @@
+{
+  "train_no": "C3378",
+  "train_type": "C",
+  "depart_station": "成都南",
+  "arrive_station": "雅安",
+  "depart_time": "15:17",
+  "arrive_time": "16:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "15:17",
+      "depart_time": "15:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "崇州",
+      "arrive_time": "15:40",
+      "depart_time": "15:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "邛崃",
+      "arrive_time": "15:56",
+      "depart_time": "15:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "崇州",
+      "arrive_time": "07:51",
+      "depart_time": "07:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "朝阳湖",
+      "arrive_time": "16:12",
+      "depart_time": "16:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "邛崃",
+      "arrive_time": "08:08",
+      "depart_time": "08:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "雅安",
+      "arrive_time": "16:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 58.0,
+    "price_no_seat": 58.0
+  },
+  "fetched_at": "2026-05-01T00:57:58.444505"
+}

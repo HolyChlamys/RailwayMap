@@ -1,0 +1,51 @@
+{
+  "train_no": "D9291",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "荆州",
+  "depart_time": "19:18",
+  "arrive_time": "20:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "19:18",
+      "depart_time": "19:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天门南",
+      "arrive_time": "19:55",
+      "depart_time": "19:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "仙桃西",
+      "arrive_time": "20:14",
+      "depart_time": "20:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潜江",
+      "arrive_time": "20:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "荆州",
+      "arrive_time": "20:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 145.0,
+    "price_second": 91.0,
+    "price_no_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T05:12:19.038851"
+}

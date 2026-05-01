@@ -1,0 +1,87 @@
+{
+  "train_no": "G2214",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "郑州东",
+  "depart_time": "15:57",
+  "arrive_time": "21:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "15:57",
+      "depart_time": "15:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德阳",
+      "arrive_time": "16:23",
+      "depart_time": "16:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广元",
+      "arrive_time": "17:30",
+      "depart_time": "17:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宁强南",
+      "arrive_time": "18:02",
+      "depart_time": "18:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汉中",
+      "arrive_time": "18:29",
+      "depart_time": "18:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西安北",
+      "arrive_time": "19:48",
+      "depart_time": "19:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "渭南北",
+      "arrive_time": "20:06",
+      "depart_time": "20:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "三门峡南",
+      "arrive_time": "20:46",
+      "depart_time": "20:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "巩义南",
+      "arrive_time": "21:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "郑州东",
+      "arrive_time": "21:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2107.0,
+    "price_first": 964.0,
+    "price_second": 602.0,
+    "price_no_seat": 602.0
+  },
+  "fetched_at": "2026-05-01T06:04:26.360368"
+}

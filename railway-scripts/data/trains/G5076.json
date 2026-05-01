@@ -1,0 +1,94 @@
+{
+  "train_no": "G5076",
+  "train_type": "G",
+  "depart_station": "于都",
+  "arrive_station": "福州",
+  "depart_time": "15:38",
+  "arrive_time": "19:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "于都",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长汀南",
+      "arrive_time": "16:15",
+      "depart_time": "16:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "冠豸山南",
+      "arrive_time": "16:35",
+      "depart_time": "16:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "龙岩",
+      "arrive_time": "17:06",
+      "depart_time": "17:10",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "漳州",
+      "arrive_time": "17:53",
+      "depart_time": "17:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "厦门北",
+      "arrive_time": "18:14",
+      "depart_time": "18:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "泉州南",
+      "arrive_time": "18:34",
+      "depart_time": "18:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "泉州东",
+      "arrive_time": "18:47",
+      "depart_time": "18:53",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "莆田",
+      "arrive_time": "19:11",
+      "depart_time": "19:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "福清西",
+      "arrive_time": "19:28",
+      "depart_time": "19:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "福州",
+      "arrive_time": "19:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 955.5,
+    "price_first": 462.5,
+    "price_second": 289.5,
+    "price_no_seat": 289.5
+  },
+  "fetched_at": "2026-05-01T07:24:14.460849"
+}

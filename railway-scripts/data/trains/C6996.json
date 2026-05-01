@@ -1,0 +1,57 @@
+{
+  "train_no": "C6996",
+  "train_type": "C",
+  "depart_station": "江门",
+  "arrive_station": "广州南",
+  "depart_time": "17:17",
+  "arrive_time": "18:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "江门",
+      "arrive_time": "17:17",
+      "depart_time": "17:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新会",
+      "arrive_time": "17:26",
+      "depart_time": "17:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "古镇",
+      "arrive_time": "17:36",
+      "depart_time": "17:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "小榄",
+      "arrive_time": "17:44",
+      "depart_time": "17:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "容桂",
+      "arrive_time": "18:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "18:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 57.0,
+    "price_no_seat": 57.0
+  },
+  "fetched_at": "2026-05-01T02:02:41.093683"
+}

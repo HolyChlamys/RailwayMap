@@ -1,0 +1,73 @@
+{
+  "train_no": "G6350",
+  "train_type": "G",
+  "depart_station": "梅州西",
+  "arrive_station": "广州南",
+  "depart_time": "06:58",
+  "arrive_time": "10:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梅州西",
+      "arrive_time": "06:58",
+      "depart_time": "06:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "07:38",
+      "depart_time": "07:54",
+      "stay_min": "16"
+    },
+    {
+      "seq": 3,
+      "station_name": "潮阳",
+      "arrive_time": "08:05",
+      "depart_time": "08:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "葵潭",
+      "arrive_time": "08:25",
+      "depart_time": "08:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "08:48",
+      "depart_time": "08:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "09:40",
+      "depart_time": "09:46",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "虎门",
+      "arrive_time": "10:03",
+      "depart_time": "10:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "10:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 888.5,
+    "price_first": 431.5,
+    "price_second": 281.5,
+    "price_no_seat": 281.5
+  },
+  "fetched_at": "2026-05-01T07:56:10.874206"
+}

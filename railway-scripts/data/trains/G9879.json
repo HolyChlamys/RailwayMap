@@ -1,0 +1,52 @@
+{
+  "train_no": "G9879",
+  "train_type": "G",
+  "depart_station": "龙岩",
+  "arrive_station": "厦门",
+  "depart_time": "22:51",
+  "arrive_time": "23:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "龙岩",
+      "arrive_time": "22:51",
+      "depart_time": "22:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙山镇",
+      "arrive_time": "23:25",
+      "depart_time": "23:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南靖",
+      "arrive_time": "23:36",
+      "depart_time": "23:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "漳州",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "厦门",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 609.0,
+    "price_first": 278.0,
+    "price_second": 174.0,
+    "price_no_seat": 174.0
+  },
+  "fetched_at": "2026-05-01T09:26:59.560911"
+}

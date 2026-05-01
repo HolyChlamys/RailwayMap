@@ -1,0 +1,42 @@
+{
+  "train_no": "K5040",
+  "train_type": "K",
+  "depart_station": "沈阳",
+  "arrive_station": "海城",
+  "depart_time": "16:28",
+  "arrive_time": "17:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "16:28",
+      "depart_time": "16:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "辽阳",
+      "arrive_time": "17:14",
+      "depart_time": "17:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鞍山",
+      "arrive_time": "17:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "海城",
+      "arrive_time": "17:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 19.5
+  },
+  "fetched_at": "2026-05-01T10:02:30.844601"
+}

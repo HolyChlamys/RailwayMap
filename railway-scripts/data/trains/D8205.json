@@ -1,0 +1,38 @@
+{
+  "train_no": "D8205",
+  "train_type": "D",
+  "depart_station": "柳州",
+  "arrive_station": "南宁东",
+  "depart_time": "22:02",
+  "arrive_time": "22:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "柳州",
+      "arrive_time": "22:02",
+      "depart_time": "22:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "来宾北",
+      "arrive_time": "22:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南宁东",
+      "arrive_time": "22:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 329.0,
+    "price_first": 151.0,
+    "price_second": 94.0,
+    "price_no_seat": 94.0
+  },
+  "fetched_at": "2026-05-01T04:51:08.653795"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "D5477",
+  "train_type": "D",
+  "depart_station": "南京南",
+  "arrive_station": "宿迁",
+  "depart_time": "18:44",
+  "arrive_time": "20:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "18:44",
+      "depart_time": "18:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "扬州东",
+      "arrive_time": "19:37",
+      "depart_time": "19:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "宿迁",
+      "arrive_time": "20:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 280.0,
+    "price_second": 176.0,
+    "price_no_seat": 176.0
+  },
+  "fetched_at": "2026-05-01T04:07:45.068546"
+}

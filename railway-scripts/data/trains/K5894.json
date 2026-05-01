@@ -1,0 +1,63 @@
+{
+  "train_no": "K5894",
+  "train_type": "K",
+  "depart_station": "赣州",
+  "arrive_station": "九江",
+  "depart_time": "11:31",
+  "arrive_time": "17:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州",
+      "arrive_time": "11:31",
+      "depart_time": "11:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰和",
+      "arrive_time": "13:16",
+      "depart_time": "13:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吉安",
+      "arrive_time": "13:46",
+      "depart_time": "13:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "向塘",
+      "arrive_time": "16:03",
+      "depart_time": "16:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌",
+      "arrive_time": "16:32",
+      "depart_time": "16:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "共青城",
+      "arrive_time": "17:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "九江",
+      "arrive_time": "17:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 75.0
+  },
+  "fetched_at": "2026-05-01T10:16:09.425898"
+}

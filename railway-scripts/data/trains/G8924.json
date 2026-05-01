@@ -1,0 +1,66 @@
+{
+  "train_no": "G8924",
+  "train_type": "G",
+  "depart_station": "秦皇岛",
+  "arrive_station": "北京南",
+  "depart_time": "07:20",
+  "arrive_time": "09:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "秦皇岛",
+      "arrive_time": "07:20",
+      "depart_time": "07:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北戴河",
+      "arrive_time": "07:33",
+      "depart_time": "07:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "滦河",
+      "arrive_time": "07:53",
+      "depart_time": "07:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "唐山",
+      "arrive_time": "08:13",
+      "depart_time": "08:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "天津西",
+      "arrive_time": "08:56",
+      "depart_time": "08:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "廊坊",
+      "arrive_time": "09:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "北京南",
+      "arrive_time": "09:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 747.0,
+    "price_first": 341.0,
+    "price_second": 213.0,
+    "price_no_seat": 213.0
+  },
+  "fetched_at": "2026-05-01T09:03:42.738750"
+}

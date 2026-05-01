@@ -1,0 +1,73 @@
+{
+  "train_no": "G8394",
+  "train_type": "G",
+  "depart_station": "黄梅东",
+  "arrive_station": "合肥南",
+  "depart_time": "08:13",
+  "arrive_time": "09:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄梅东",
+      "arrive_time": "08:13",
+      "depart_time": "08:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宿松东",
+      "arrive_time": "08:24",
+      "depart_time": "08:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "太湖南",
+      "arrive_time": "08:38",
+      "depart_time": "08:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潜山",
+      "arrive_time": "08:52",
+      "depart_time": "08:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "安庆西",
+      "arrive_time": "09:04",
+      "depart_time": "09:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "桐城东",
+      "arrive_time": "09:21",
+      "depart_time": "09:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "肥西",
+      "arrive_time": "09:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "合肥南",
+      "arrive_time": "09:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 543.0,
+    "price_first": 248.0,
+    "price_second": 155.0,
+    "price_no_seat": 155.0
+  },
+  "fetched_at": "2026-05-01T08:49:40.737804"
+}

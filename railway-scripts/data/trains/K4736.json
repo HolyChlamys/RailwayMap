@@ -1,0 +1,28 @@
+{
+  "train_no": "K4736",
+  "train_type": "K",
+  "depart_station": "宁波",
+  "arrive_station": "绍兴",
+  "depart_time": "03:20",
+  "arrive_time": "03:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "03:20",
+      "depart_time": "03:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绍兴",
+      "arrive_time": "03:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 337.0
+  },
+  "fetched_at": "2026-05-01T09:58:31.168105"
+}

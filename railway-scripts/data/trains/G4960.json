@@ -1,0 +1,65 @@
+{
+  "train_no": "G4960",
+  "train_type": "G",
+  "depart_station": "赣州西",
+  "arrive_station": "上海虹桥",
+  "depart_time": "19:12",
+  "arrive_time": "23:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州西",
+      "arrive_time": "19:12",
+      "depart_time": "19:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉安西",
+      "arrive_time": "20:02",
+      "depart_time": "20:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "丰城东",
+      "arrive_time": "20:38",
+      "depart_time": "20:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌东",
+      "arrive_time": "21:17",
+      "depart_time": "21:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "金华",
+      "arrive_time": "22:58",
+      "depart_time": "22:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "23:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "上海虹桥",
+      "arrive_time": "23:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1006.0,
+    "price_second": 628.0,
+    "price_no_seat": 628.0
+  },
+  "fetched_at": "2026-05-01T07:21:04.207242"
+}

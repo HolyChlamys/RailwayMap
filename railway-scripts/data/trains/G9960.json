@@ -1,0 +1,52 @@
+{
+  "train_no": "G9960",
+  "train_type": "G",
+  "depart_station": "兴义南",
+  "arrive_station": "贵阳北",
+  "depart_time": "08:13",
+  "arrive_time": "10:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兴义南",
+      "arrive_time": "08:13",
+      "depart_time": "08:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "保田",
+      "arrive_time": "08:31",
+      "depart_time": "08:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "盘州",
+      "arrive_time": "08:54",
+      "depart_time": "08:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺西",
+      "arrive_time": "10:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "10:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 726.0,
+    "price_first": 332.0,
+    "price_second": 207.0,
+    "price_no_seat": 207.0
+  },
+  "fetched_at": "2026-05-01T09:28:56.555943"
+}

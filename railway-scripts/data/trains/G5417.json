@@ -1,0 +1,72 @@
+{
+  "train_no": "G5417",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "成都南",
+  "depart_time": "07:03",
+  "arrive_time": "10:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "07:03",
+      "depart_time": "07:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南溪",
+      "arrive_time": "07:49",
+      "depart_time": "07:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "宜宾",
+      "arrive_time": "08:06",
+      "depart_time": "08:10",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "犍为",
+      "arrive_time": "08:42",
+      "depart_time": "08:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "乐山",
+      "arrive_time": "09:00",
+      "depart_time": "09:06",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "青神",
+      "arrive_time": "09:18",
+      "depart_time": "09:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "眉山东",
+      "arrive_time": "09:31",
+      "depart_time": "09:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "成都南",
+      "arrive_time": "10:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 389.0,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T07:33:25.485986"
+}

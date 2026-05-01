@@ -1,0 +1,45 @@
+{
+  "train_no": "G7879",
+  "train_type": "G",
+  "depart_station": "北京通州",
+  "arrive_station": "秦皇岛",
+  "depart_time": "18:00",
+  "arrive_time": "19:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京通州",
+      "arrive_time": "18:00",
+      "depart_time": "18:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宝坻",
+      "arrive_time": "18:28",
+      "depart_time": "18:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "北戴河",
+      "arrive_time": "19:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "秦皇岛",
+      "arrive_time": "19:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 564.0,
+    "price_first": 258.0,
+    "price_second": 161.0,
+    "price_no_seat": 161.0
+  },
+  "fetched_at": "2026-05-01T08:39:01.336353"
+}

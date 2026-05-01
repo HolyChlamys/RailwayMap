@@ -1,0 +1,52 @@
+{
+  "train_no": "G4679",
+  "train_type": "G",
+  "depart_station": "驻马店西",
+  "arrive_station": "广州",
+  "depart_time": "20:30",
+  "arrive_time": "23:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "驻马店西",
+      "arrive_time": "20:30",
+      "depart_time": "20:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "信阳东",
+      "arrive_time": "20:57",
+      "depart_time": "20:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武汉",
+      "arrive_time": "21:48",
+      "depart_time": "21:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "23:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州",
+      "arrive_time": "23:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2420.0,
+    "price_first": 1102.0,
+    "price_second": 691.0,
+    "price_no_seat": 691.0
+  },
+  "fetched_at": "2026-05-01T07:12:26.236366"
+}

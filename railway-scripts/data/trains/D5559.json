@@ -1,0 +1,44 @@
+{
+  "train_no": "D5559",
+  "train_type": "D",
+  "depart_station": "江阴",
+  "arrive_station": "上海虹桥",
+  "depart_time": "06:18",
+  "arrive_time": "06:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "江阴",
+      "arrive_time": "06:18",
+      "depart_time": "06:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "常熟",
+      "arrive_time": "06:40",
+      "depart_time": "06:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "太仓",
+      "arrive_time": "06:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "上海虹桥",
+      "arrive_time": "06:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 128.0,
+    "price_second": 81.0,
+    "price_no_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T04:08:39.725246"
+}

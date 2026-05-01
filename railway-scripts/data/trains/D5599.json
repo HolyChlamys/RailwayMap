@@ -1,0 +1,52 @@
+{
+  "train_no": "D5599",
+  "train_type": "D",
+  "depart_station": "南京南",
+  "arrive_station": "安庆",
+  "depart_time": "19:38",
+  "arrive_time": "20:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "19:38",
+      "depart_time": "19:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马鞍山东",
+      "arrive_time": "19:57",
+      "depart_time": "19:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "芜湖",
+      "arrive_time": "20:17",
+      "depart_time": "20:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "铜陵",
+      "arrive_time": "20:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "安庆",
+      "arrive_time": "20:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 399.0,
+    "price_first": 182.0,
+    "price_second": 114.0,
+    "price_no_seat": 114.0
+  },
+  "fetched_at": "2026-05-01T04:09:01.317074"
+}

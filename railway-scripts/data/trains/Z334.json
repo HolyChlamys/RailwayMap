@@ -1,0 +1,98 @@
+{
+  "train_no": "Z334",
+  "train_type": "Z",
+  "depart_station": "成都西",
+  "arrive_station": "深圳东",
+  "depart_time": "11:14",
+  "arrive_time": "14:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都西",
+      "arrive_time": "11:14",
+      "depart_time": "11:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合川",
+      "arrive_time": "16:02",
+      "depart_time": "16:09",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "16:40",
+      "depart_time": "16:52",
+      "stay_min": "12"
+    },
+    {
+      "seq": 4,
+      "station_name": "利川",
+      "arrive_time": "19:55",
+      "depart_time": "19:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "恩施",
+      "arrive_time": "20:40",
+      "depart_time": "20:50",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "宜昌东",
+      "arrive_time": "23:04",
+      "depart_time": "23:13",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙",
+      "arrive_time": "04:37",
+      "depart_time": "05:01",
+      "stay_min": "24"
+    },
+    {
+      "seq": 8,
+      "station_name": "衡阳",
+      "arrive_time": "06:55",
+      "depart_time": "07:01",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "郴州",
+      "arrive_time": "08:41",
+      "depart_time": "08:46",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "广州北",
+      "arrive_time": "12:24",
+      "depart_time": "12:30",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "东莞",
+      "arrive_time": "13:28",
+      "depart_time": "13:33",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "深圳东",
+      "arrive_time": "14:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 240.0
+  },
+  "fetched_at": "2026-05-01T11:47:21.323096"
+}

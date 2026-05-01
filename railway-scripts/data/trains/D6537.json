@@ -1,0 +1,37 @@
+{
+  "train_no": "D6537",
+  "train_type": "D",
+  "depart_station": "宁德",
+  "arrive_station": "福州",
+  "depart_time": "11:10",
+  "arrive_time": "11:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁德",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "罗源",
+      "arrive_time": "11:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "福州",
+      "arrive_time": "11:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 64.0,
+    "price_second": 40.0,
+    "price_no_seat": 40.0
+  },
+  "fetched_at": "2026-05-01T04:24:33.119262"
+}

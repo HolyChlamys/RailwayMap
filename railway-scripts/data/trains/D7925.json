@@ -1,0 +1,66 @@
+{
+  "train_no": "D7925",
+  "train_type": "D",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "双鸭山西",
+  "depart_time": "07:00",
+  "arrive_time": "10:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "哈尔滨",
+      "arrive_time": "07:10",
+      "depart_time": "07:19",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "方正",
+      "arrive_time": "08:21",
+      "depart_time": "08:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "高楞",
+      "arrive_time": "08:40",
+      "depart_time": "08:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "依兰",
+      "arrive_time": "08:59",
+      "depart_time": "09:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "佳木斯",
+      "arrive_time": "09:35",
+      "depart_time": "09:40",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "双鸭山西",
+      "arrive_time": "10:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 497.0,
+    "price_first": 257.0,
+    "price_second": 161.0,
+    "price_no_seat": 161.0
+  },
+  "fetched_at": "2026-05-01T04:47:42.395334"
+}

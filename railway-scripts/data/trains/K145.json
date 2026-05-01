@@ -1,0 +1,91 @@
+{
+  "train_no": "K145",
+  "train_type": "K",
+  "depart_station": "西安",
+  "arrive_station": "武昌",
+  "depart_time": "18:49",
+  "arrive_time": "08:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "18:49",
+      "depart_time": "18:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "引镇",
+      "arrive_time": "19:27",
+      "depart_time": "19:30",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "镇安",
+      "arrive_time": "20:42",
+      "depart_time": "20:50",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "小河镇",
+      "arrive_time": "21:19",
+      "depart_time": "21:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "旬阳北",
+      "arrive_time": "21:47",
+      "depart_time": "21:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "安康",
+      "arrive_time": "22:31",
+      "depart_time": "22:58",
+      "stay_min": "27"
+    },
+    {
+      "seq": 7,
+      "station_name": "十堰",
+      "arrive_time": "01:50",
+      "depart_time": "01:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "襄阳",
+      "arrive_time": "03:53",
+      "depart_time": "04:29",
+      "stay_min": "36"
+    },
+    {
+      "seq": 9,
+      "station_name": "随州",
+      "arrive_time": "05:59",
+      "depart_time": "06:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "安陆",
+      "arrive_time": "06:38",
+      "depart_time": "06:47",
+      "stay_min": "9"
+    },
+    {
+      "seq": 11,
+      "station_name": "武昌",
+      "arrive_time": "08:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 115.0
+  },
+  "fetched_at": "2026-05-01T09:35:59.112079"
+}

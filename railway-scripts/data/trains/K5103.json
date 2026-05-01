@@ -1,0 +1,56 @@
+{
+  "train_no": "K5103",
+  "train_type": "K",
+  "depart_station": "哈尔滨东",
+  "arrive_station": "宝清",
+  "depart_time": "20:55",
+  "arrive_time": "06:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨东",
+      "arrive_time": "20:55",
+      "depart_time": "20:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绥化",
+      "arrive_time": "22:31",
+      "depart_time": "22:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "佳木斯",
+      "arrive_time": "04:05",
+      "depart_time": "04:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福利屯",
+      "arrive_time": "05:24",
+      "depart_time": "05:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "新友谊",
+      "arrive_time": "06:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宝清",
+      "arrive_time": "06:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 98.5
+  },
+  "fetched_at": "2026-05-01T10:03:59.834381"
+}

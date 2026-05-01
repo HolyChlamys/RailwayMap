@@ -1,0 +1,51 @@
+{
+  "train_no": "C7281",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "潮汕",
+  "depart_time": "06:22",
+  "arrive_time": "08:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "06:22",
+      "depart_time": "06:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "06:51",
+      "depart_time": "06:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "汕尾",
+      "arrive_time": "07:42",
+      "depart_time": "07:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "普宁",
+      "arrive_time": "08:13",
+      "depart_time": "08:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "潮汕",
+      "arrive_time": "08:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 316.5,
+    "price_second": 209.5,
+    "price_no_seat": 209.5
+  },
+  "fetched_at": "2026-05-01T02:11:04.676721"
+}

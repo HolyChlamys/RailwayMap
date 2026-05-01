@@ -1,0 +1,45 @@
+{
+  "train_no": "G8858",
+  "train_type": "G",
+  "depart_station": "天津",
+  "arrive_station": "北京西",
+  "depart_time": "18:08",
+  "arrive_time": "18:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津",
+      "arrive_time": "18:08",
+      "depart_time": "18:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天津西",
+      "arrive_time": "18:20",
+      "depart_time": "18:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "胜芳",
+      "arrive_time": "18:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "北京西",
+      "arrive_time": "18:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 286.0,
+    "price_first": 143.5,
+    "price_second": 89.5,
+    "price_no_seat": 89.5
+  },
+  "fetched_at": "2026-05-01T09:02:18.533657"
+}

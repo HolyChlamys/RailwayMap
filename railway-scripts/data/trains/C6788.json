@@ -1,0 +1,29 @@
+{
+  "train_no": "C6788",
+  "train_type": "C",
+  "depart_station": "珠海",
+  "arrive_station": "广州南",
+  "depart_time": "06:16",
+  "arrive_time": "06:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海",
+      "arrive_time": "06:16",
+      "depart_time": "06:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "06:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T01:56:37.536416"
+}

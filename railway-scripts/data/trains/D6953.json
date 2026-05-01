@@ -1,0 +1,79 @@
+{
+  "train_no": "D6953",
+  "train_type": "D",
+  "depart_station": "齐齐哈尔南",
+  "arrive_station": "绥芬河",
+  "depart_time": "13:34",
+  "arrive_time": "18:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "齐齐哈尔南",
+      "arrive_time": "13:34",
+      "depart_time": "13:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杜尔伯特",
+      "arrive_time": "13:55",
+      "depart_time": "13:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "大庆西",
+      "arrive_time": "14:11",
+      "depart_time": "14:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "安达",
+      "arrive_time": "14:30",
+      "depart_time": "14:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "哈尔滨",
+      "arrive_time": "15:11",
+      "depart_time": "15:41",
+      "stay_min": "30"
+    },
+    {
+      "seq": 6,
+      "station_name": "牡丹江",
+      "arrive_time": "17:10",
+      "depart_time": "17:14",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "穆棱",
+      "arrive_time": "17:44",
+      "depart_time": "17:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "绥阳",
+      "arrive_time": "18:10",
+      "depart_time": "18:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "绥芬河",
+      "arrive_time": "18:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 416.0,
+    "price_second": 260.0,
+    "price_no_seat": 260.0
+  },
+  "fetched_at": "2026-05-01T04:31:37.337083"
+}

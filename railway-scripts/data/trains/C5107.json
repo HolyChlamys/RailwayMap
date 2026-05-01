@@ -1,0 +1,52 @@
+{
+  "train_no": "C5107",
+  "train_type": "C",
+  "depart_station": "景德镇北",
+  "arrive_station": "南昌东",
+  "depart_time": "10:09",
+  "arrive_time": "10:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "景德镇北",
+      "arrive_time": "10:09",
+      "depart_time": "10:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乐平北",
+      "arrive_time": "10:26",
+      "depart_time": "10:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄱阳",
+      "arrive_time": "10:40",
+      "depart_time": "10:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "余干",
+      "arrive_time": "10:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌东",
+      "arrive_time": "10:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 328.0,
+    "price_first": 150.0,
+    "price_second": 94.0,
+    "price_no_seat": 94.0
+  },
+  "fetched_at": "2026-05-01T01:26:46.218297"
+}

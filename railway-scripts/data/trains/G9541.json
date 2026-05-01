@@ -1,0 +1,38 @@
+{
+  "train_no": "G9541",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "香港西九龙",
+  "depart_time": "06:55",
+  "arrive_time": "07:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "06:55",
+      "depart_time": "06:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "07:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "香港西九龙",
+      "arrive_time": "07:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 645.0,
+    "price_first": 344.0,
+    "price_second": 215.0,
+    "price_no_seat": 215.0
+  },
+  "fetched_at": "2026-05-01T09:17:13.740587"
+}

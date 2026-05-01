@@ -1,0 +1,37 @@
+{
+  "train_no": "C4173",
+  "train_type": "C",
+  "depart_station": "长春",
+  "arrive_station": "松原",
+  "depart_time": "20:42",
+  "arrive_time": "21:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "20:42",
+      "depart_time": "20:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "农安",
+      "arrive_time": "21:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "松原",
+      "arrive_time": "21:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 89.0,
+    "price_second": 56.0,
+    "price_no_seat": 56.0
+  },
+  "fetched_at": "2026-05-01T01:09:55.498698"
+}

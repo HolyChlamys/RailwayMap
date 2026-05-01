@@ -1,0 +1,73 @@
+{
+  "train_no": "G9215",
+  "train_type": "G",
+  "depart_station": "日照",
+  "arrive_station": "济南东",
+  "depart_time": "16:13",
+  "arrive_time": "19:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "日照",
+      "arrive_time": "16:13",
+      "depart_time": "16:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莒南北",
+      "arrive_time": "16:42",
+      "depart_time": "16:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "临沂北",
+      "arrive_time": "17:00",
+      "depart_time": "17:04",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "费县北",
+      "arrive_time": "17:18",
+      "depart_time": "17:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "蒙山",
+      "arrive_time": "17:31",
+      "depart_time": "17:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "曲阜东",
+      "arrive_time": "17:58",
+      "depart_time": "18:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "济南",
+      "arrive_time": "18:39",
+      "depart_time": "18:42",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "济南东",
+      "arrive_time": "19:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 686.0,
+    "price_first": 344.0,
+    "price_second": 215.0,
+    "price_no_seat": 215.0
+  },
+  "fetched_at": "2026-05-01T09:08:15.368399"
+}

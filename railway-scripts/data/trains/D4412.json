@@ -1,0 +1,51 @@
+{
+  "train_no": "D4412",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "杭州东",
+  "depart_time": "03:53",
+  "arrive_time": "07:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "03:53",
+      "depart_time": "03:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "05:38",
+      "depart_time": "05:42",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "06:34",
+      "depart_time": "06:38",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "宜兴",
+      "arrive_time": "07:17",
+      "depart_time": "07:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州东",
+      "arrive_time": "07:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 551.0,
+    "price_second": 345.0,
+    "price_no_seat": 345.0
+  },
+  "fetched_at": "2026-05-01T03:49:54.553234"
+}

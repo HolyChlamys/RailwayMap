@@ -1,0 +1,57 @@
+{
+  "train_no": "S6977",
+  "train_type": "S",
+  "depart_station": "长沙",
+  "arrive_station": "湘潭",
+  "depart_time": "21:46",
+  "arrive_time": "22:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "21:46",
+      "depart_time": "21:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "树木岭",
+      "arrive_time": "21:52",
+      "depart_time": "21:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "香樟路",
+      "arrive_time": "21:57",
+      "depart_time": "21:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "先锋",
+      "arrive_time": "22:06",
+      "depart_time": "22:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "板塘",
+      "arrive_time": "22:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "湘潭",
+      "arrive_time": "22:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 25.0,
+    "price_no_seat": 25.0
+  },
+  "fetched_at": "2026-05-01T11:12:58.985116"
+}

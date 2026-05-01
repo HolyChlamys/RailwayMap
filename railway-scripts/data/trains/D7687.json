@@ -1,0 +1,44 @@
+{
+  "train_no": "D7687",
+  "train_type": "D",
+  "depart_station": "沈阳",
+  "arrive_station": "丹东",
+  "depart_time": "20:32",
+  "arrive_time": "21:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "20:32",
+      "depart_time": "20:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳南",
+      "arrive_time": "20:45",
+      "depart_time": "20:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "本溪",
+      "arrive_time": "21:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "丹东",
+      "arrive_time": "21:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 113.0,
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T04:42:54.521244"
+}

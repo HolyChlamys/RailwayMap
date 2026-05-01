@@ -1,0 +1,77 @@
+{
+  "train_no": "K8336",
+  "train_type": "K",
+  "depart_station": "菏泽",
+  "arrive_station": "东营",
+  "depart_time": "06:35",
+  "arrive_time": "13:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "菏泽",
+      "arrive_time": "06:35",
+      "depart_time": "06:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阳谷",
+      "arrive_time": "07:40",
+      "depart_time": "07:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "聊城",
+      "arrive_time": "08:10",
+      "depart_time": "08:17",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "茌平",
+      "arrive_time": "08:41",
+      "depart_time": "08:44",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "大明湖",
+      "arrive_time": "10:02",
+      "depart_time": "10:10",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "淄博",
+      "arrive_time": "11:20",
+      "depart_time": "11:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "桓台",
+      "arrive_time": "12:02",
+      "depart_time": "12:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "博兴",
+      "arrive_time": "12:24",
+      "depart_time": "12:27",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "东营",
+      "arrive_time": "13:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T10:38:29.316732"
+}

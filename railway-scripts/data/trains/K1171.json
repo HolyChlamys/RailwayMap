@@ -1,0 +1,91 @@
+{
+  "train_no": "K1171",
+  "train_type": "K",
+  "depart_station": "重庆东",
+  "arrive_station": "惠州",
+  "depart_time": "19:30",
+  "arrive_time": "16:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆东",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "涪陵",
+      "arrive_time": "20:39",
+      "depart_time": "20:50",
+      "stay_min": "11"
+    },
+    {
+      "seq": 3,
+      "station_name": "武隆",
+      "arrive_time": "21:55",
+      "depart_time": "21:59",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "黔江",
+      "arrive_time": "23:15",
+      "depart_time": "23:21",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "衡阳",
+      "arrive_time": "07:46",
+      "depart_time": "07:52",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "郴州",
+      "arrive_time": "09:32",
+      "depart_time": "09:38",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "韶关东",
+      "arrive_time": "11:21",
+      "depart_time": "11:26",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "英德",
+      "arrive_time": "12:20",
+      "depart_time": "12:29",
+      "stay_min": "9"
+    },
+    {
+      "seq": 9,
+      "station_name": "广州北",
+      "arrive_time": "13:49",
+      "depart_time": "13:55",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "东莞东",
+      "arrive_time": "15:15",
+      "depart_time": "15:21",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "惠州",
+      "arrive_time": "16:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 203.5
+  },
+  "fetched_at": "2026-05-01T09:32:18.306209"
+}

@@ -1,0 +1,94 @@
+{
+  "train_no": "G3083",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "广州东",
+  "depart_time": "15:59",
+  "arrive_time": "22:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "15:59",
+      "depart_time": "15:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "庐江西",
+      "arrive_time": "16:27",
+      "depart_time": "16:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潜山",
+      "arrive_time": "16:56",
+      "depart_time": "16:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄梅东",
+      "arrive_time": "17:23",
+      "depart_time": "17:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "庐山",
+      "arrive_time": "17:42",
+      "depart_time": "17:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南昌西",
+      "arrive_time": "18:35",
+      "depart_time": "18:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "泰和",
+      "arrive_time": "19:40",
+      "depart_time": "19:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "赣州西",
+      "arrive_time": "20:24",
+      "depart_time": "20:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "惠州北",
+      "arrive_time": "21:51",
+      "depart_time": "21:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "广州新塘",
+      "arrive_time": "22:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "广州东",
+      "arrive_time": "22:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2519.0,
+    "price_first": 1196.0,
+    "price_second": 755.0,
+    "price_no_seat": 755.0
+  },
+  "fetched_at": "2026-05-01T06:28:20.840173"
+}

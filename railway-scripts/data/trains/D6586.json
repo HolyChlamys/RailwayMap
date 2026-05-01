@@ -1,0 +1,121 @@
+{
+  "train_no": "D6586",
+  "train_type": "D",
+  "depart_station": "赣州",
+  "arrive_station": "福州",
+  "depart_time": "14:23",
+  "arrive_time": "19:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州",
+      "arrive_time": "14:23",
+      "depart_time": "14:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "于都",
+      "arrive_time": "14:53",
+      "depart_time": "14:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "瑞金",
+      "arrive_time": "15:22",
+      "depart_time": "15:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "长汀南",
+      "arrive_time": "15:40",
+      "depart_time": "15:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "冠豸山南",
+      "arrive_time": "16:00",
+      "depart_time": "16:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "古田会址",
+      "arrive_time": "16:18",
+      "depart_time": "16:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "龙岩",
+      "arrive_time": "16:38",
+      "depart_time": "16:42",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "漳州",
+      "arrive_time": "17:24",
+      "depart_time": "17:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "厦门北",
+      "arrive_time": "17:46",
+      "depart_time": "17:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "晋江",
+      "arrive_time": "18:07",
+      "depart_time": "18:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "泉州",
+      "arrive_time": "18:21",
+      "depart_time": "18:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "莆田",
+      "arrive_time": "18:50",
+      "depart_time": "18:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "涵江",
+      "arrive_time": "19:02",
+      "depart_time": "19:09",
+      "stay_min": "7"
+    },
+    {
+      "seq": 14,
+      "station_name": "福州南",
+      "arrive_time": "19:35",
+      "depart_time": "19:40",
+      "stay_min": "5"
+    },
+    {
+      "seq": 15,
+      "station_name": "福州",
+      "arrive_time": "19:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 404.0,
+    "price_second": 253.0,
+    "price_no_seat": 253.0
+  },
+  "fetched_at": "2026-05-01T04:25:56.324852"
+}

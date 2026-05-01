@@ -1,0 +1,73 @@
+{
+  "train_no": "D3512",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "银川",
+  "depart_time": "08:29",
+  "arrive_time": "12:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "08:29",
+      "depart_time": "08:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳北",
+      "arrive_time": "08:42",
+      "depart_time": "08:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "礼泉南",
+      "arrive_time": "08:55",
+      "depart_time": "08:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "庆阳",
+      "arrive_time": "09:51",
+      "depart_time": "09:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "曲子",
+      "arrive_time": "10:19",
+      "depart_time": "10:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "惠安堡",
+      "arrive_time": "11:05",
+      "depart_time": "11:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "吴忠",
+      "arrive_time": "11:28",
+      "depart_time": "11:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "银川",
+      "arrive_time": "12:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 957.0,
+    "price_first": 445.0,
+    "price_second": 278.0,
+    "price_no_seat": 278.0
+  },
+  "fetched_at": "2026-05-01T03:33:44.370920"
+}

@@ -1,0 +1,51 @@
+{
+  "train_no": "D7934",
+  "train_type": "D",
+  "depart_station": "哈尔滨",
+  "arrive_station": "双鸭山西",
+  "depart_time": "14:45",
+  "arrive_time": "17:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨",
+      "arrive_time": "14:45",
+      "depart_time": "14:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "方正",
+      "arrive_time": "15:47",
+      "depart_time": "15:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "得莫利",
+      "arrive_time": "15:59",
+      "depart_time": "16:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "佳木斯",
+      "arrive_time": "16:55",
+      "depart_time": "17:00",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "双鸭山西",
+      "arrive_time": "17:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 246.0,
+    "price_second": 154.0,
+    "price_no_seat": 154.0
+  },
+  "fetched_at": "2026-05-01T04:47:57.277672"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "D5272",
+  "train_type": "D",
+  "depart_station": "宁强南",
+  "arrive_station": "西安北",
+  "depart_time": "20:17",
+  "arrive_time": "21:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁强南",
+      "arrive_time": "20:17",
+      "depart_time": "20:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉中",
+      "arrive_time": "20:45",
+      "depart_time": "20:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "佛坪",
+      "arrive_time": "21:18",
+      "depart_time": "21:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安西",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西安北",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 534.0,
+    "price_first": 244.0,
+    "price_second": 153.0,
+    "price_no_seat": 153.0
+  },
+  "fetched_at": "2026-05-01T04:03:40.784446"
+}

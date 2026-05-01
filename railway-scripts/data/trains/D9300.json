@@ -1,0 +1,30 @@
+{
+  "train_no": "D9300",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "麻城北",
+  "depart_time": "07:17",
+  "arrive_time": "07:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "07:17",
+      "depart_time": "07:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "麻城北",
+      "arrive_time": "07:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 79.0,
+    "price_second": 49.0,
+    "price_no_seat": 49.0
+  },
+  "fetched_at": "2026-05-01T05:12:35.440883"
+}

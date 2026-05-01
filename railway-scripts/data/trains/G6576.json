@@ -1,0 +1,59 @@
+{
+  "train_no": "G6576",
+  "train_type": "G",
+  "depart_station": "汕头",
+  "arrive_station": "香港西九龙",
+  "depart_time": "15:09",
+  "arrive_time": "17:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "15:09",
+      "depart_time": "15:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "15:32",
+      "depart_time": "15:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "普宁",
+      "arrive_time": "15:51",
+      "depart_time": "15:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "16:23",
+      "depart_time": "16:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "17:17",
+      "depart_time": "17:27",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "香港西九龙",
+      "arrive_time": "17:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 745.0,
+    "price_first": 357.0,
+    "price_second": 223.0,
+    "price_no_seat": 223.0
+  },
+  "fetched_at": "2026-05-01T08:02:53.164210"
+}

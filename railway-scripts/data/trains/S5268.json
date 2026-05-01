@@ -1,0 +1,51 @@
+{
+  "train_no": "S5268",
+  "train_type": "S",
+  "depart_station": "成都东",
+  "arrive_station": "邛崃",
+  "depart_time": "07:14",
+  "arrive_time": "08:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "07:14",
+      "depart_time": "07:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都南",
+      "arrive_time": "07:24",
+      "depart_time": "07:28",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "崇州",
+      "arrive_time": "07:51",
+      "depart_time": "07:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "大邑",
+      "arrive_time": "08:02",
+      "depart_time": "08:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "邛崃",
+      "arrive_time": "08:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 63.0,
+    "price_second": 39.0,
+    "price_no_seat": 39.0
+  },
+  "fetched_at": "2026-05-01T11:04:43.602261"
+}

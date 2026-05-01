@@ -1,0 +1,87 @@
+{
+  "train_no": "G4845",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "广州白云",
+  "depart_time": "19:45",
+  "arrive_time": "00:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "19:45",
+      "depart_time": "19:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "许昌东",
+      "arrive_time": "20:09",
+      "depart_time": "20:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "漯河西",
+      "arrive_time": "20:27",
+      "depart_time": "20:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "驻马店西",
+      "arrive_time": "20:51",
+      "depart_time": "20:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "明港东",
+      "arrive_time": "21:20",
+      "depart_time": "21:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "孝感北",
+      "arrive_time": "21:57",
+      "depart_time": "21:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "武汉",
+      "arrive_time": "22:35",
+      "depart_time": "22:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "长沙南",
+      "arrive_time": "00:01",
+      "depart_time": "00:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "衡阳东",
+      "arrive_time": "00:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "广州白云",
+      "arrive_time": "00:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2707.0,
+    "price_first": 1237.0,
+    "price_second": 773.0,
+    "price_no_seat": 773.0
+  },
+  "fetched_at": "2026-05-01T07:17:33.960513"
+}

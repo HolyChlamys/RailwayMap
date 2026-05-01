@@ -1,0 +1,56 @@
+{
+  "train_no": "K5230",
+  "train_type": "K",
+  "depart_station": "清河城",
+  "arrive_station": "北京",
+  "depart_time": "13:48",
+  "arrive_time": "17:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清河城",
+      "arrive_time": "13:48",
+      "depart_time": "13:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衡水",
+      "arrive_time": "14:50",
+      "depart_time": "14:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "肃宁",
+      "arrive_time": "15:58",
+      "depart_time": "15:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "任丘",
+      "arrive_time": "16:26",
+      "depart_time": "16:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "霸州",
+      "arrive_time": "17:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "北京",
+      "arrive_time": "17:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 53.5
+  },
+  "fetched_at": "2026-05-01T10:06:44.865568"
+}

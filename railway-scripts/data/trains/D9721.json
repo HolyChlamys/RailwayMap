@@ -1,0 +1,73 @@
+{
+  "train_no": "D9721",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "汕头",
+  "depart_time": "09:05",
+  "arrive_time": "11:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "09:05",
+      "depart_time": "09:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳坪山",
+      "arrive_time": "09:22",
+      "depart_time": "09:23",
+      "stay_min": "1"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠阳",
+      "arrive_time": "09:32",
+      "depart_time": "09:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "10:03",
+      "depart_time": "10:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "普宁",
+      "arrive_time": "10:34",
+      "depart_time": "10:39",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "潮阳",
+      "arrive_time": "10:52",
+      "depart_time": "11:02",
+      "stay_min": "10"
+    },
+    {
+      "seq": 7,
+      "station_name": "潮汕",
+      "arrive_time": "11:16",
+      "depart_time": "11:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "汕头",
+      "arrive_time": "11:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 519.0,
+    "price_first": 237.0,
+    "price_second": 148.0,
+    "price_no_seat": 148.0
+  },
+  "fetched_at": "2026-05-01T05:22:57.702691"
+}

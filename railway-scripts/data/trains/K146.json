@@ -1,0 +1,63 @@
+{
+  "train_no": "K146",
+  "train_type": "K",
+  "depart_station": "武昌",
+  "arrive_station": "西安",
+  "depart_time": "19:15",
+  "arrive_time": "07:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "19:15",
+      "depart_time": "19:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安陆",
+      "arrive_time": "20:36",
+      "depart_time": "20:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "随州",
+      "arrive_time": "21:16",
+      "depart_time": "21:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "襄阳",
+      "arrive_time": "22:51",
+      "depart_time": "23:31",
+      "stay_min": "40"
+    },
+    {
+      "seq": 5,
+      "station_name": "十堰",
+      "arrive_time": "01:23",
+      "depart_time": "01:28",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "安康",
+      "arrive_time": "03:46",
+      "depart_time": "04:07",
+      "stay_min": "21"
+    },
+    {
+      "seq": 7,
+      "station_name": "西安",
+      "arrive_time": "07:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 115.0
+  },
+  "fetched_at": "2026-05-01T09:36:15.718869"
+}

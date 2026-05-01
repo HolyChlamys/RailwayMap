@@ -1,0 +1,87 @@
+{
+  "train_no": "G8751",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "贵  阳北",
+  "depart_time": "16:52",
+  "arrive_time": "22:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "16:52",
+      "depart_time": "16:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黔西",
+      "arrive_time": "17:21",
+      "depart_time": "17:29",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "毕节",
+      "arrive_time": "17:51",
+      "depart_time": "17:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "宜宾",
+      "arrive_time": "18:58",
+      "depart_time": "19:02",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "泸州",
+      "arrive_time": "19:28",
+      "depart_time": "19:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆西",
+      "arrive_time": "20:05",
+      "depart_time": "20:26",
+      "stay_min": "21"
+    },
+    {
+      "seq": 7,
+      "station_name": "赶水东",
+      "arrive_time": "21:02",
+      "depart_time": "21:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "桐梓东",
+      "arrive_time": "21:33",
+      "depart_time": "21:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "遵义",
+      "arrive_time": "21:56",
+      "depart_time": "21:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "贵  阳北",
+      "arrive_time": "22:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 852.0,
+    "price_first": 432.0,
+    "price_second": 269.0,
+    "price_no_seat": 269.0
+  },
+  "fetched_at": "2026-05-01T08:59:28.751329"
+}

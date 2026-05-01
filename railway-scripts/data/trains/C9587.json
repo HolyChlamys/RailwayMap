@@ -1,0 +1,51 @@
+{
+  "train_no": "C9587",
+  "train_type": "C",
+  "depart_station": "龙岩",
+  "arrive_station": "福州南",
+  "depart_time": "21:46",
+  "arrive_time": "00:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "龙岩",
+      "arrive_time": "21:46",
+      "depart_time": "21:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙山镇",
+      "arrive_time": "22:12",
+      "depart_time": "22:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "漳州",
+      "arrive_time": "22:35",
+      "depart_time": "22:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "厦门北",
+      "arrive_time": "22:58",
+      "depart_time": "23:02",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "福州南",
+      "arrive_time": "00:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 246.0,
+    "price_second": 154.0,
+    "price_no_seat": 154.0
+  },
+  "fetched_at": "2026-05-01T02:50:01.795905"
+}

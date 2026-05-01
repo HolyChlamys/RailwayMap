@@ -1,0 +1,57 @@
+{
+  "train_no": "C7652",
+  "train_type": "C",
+  "depart_station": "珠海",
+  "arrive_station": "广州南",
+  "depart_time": "13:20",
+  "arrive_time": "14:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海",
+      "arrive_time": "13:20",
+      "depart_time": "13:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "明珠",
+      "arrive_time": "13:32",
+      "depart_time": "13:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "中山",
+      "arrive_time": "13:49",
+      "depart_time": "13:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "中山北",
+      "arrive_time": "13:56",
+      "depart_time": "13:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "容桂",
+      "arrive_time": "14:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "14:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T02:20:17.435533"
+}

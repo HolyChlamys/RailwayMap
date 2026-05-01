@@ -1,0 +1,44 @@
+{
+  "train_no": "C1320",
+  "train_type": "C",
+  "depart_station": "长白山",
+  "arrive_station": "长春",
+  "depart_time": "19:09",
+  "arrive_time": "21:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长白山",
+      "arrive_time": "19:09",
+      "depart_time": "19:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蛟河西",
+      "arrive_time": "20:14",
+      "depart_time": "20:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "吉林",
+      "arrive_time": "20:43",
+      "depart_time": "20:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "长春",
+      "arrive_time": "21:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 212.0,
+    "price_second": 132.0,
+    "price_no_seat": 132.0
+  },
+  "fetched_at": "2026-05-01T00:24:40.672121"
+}

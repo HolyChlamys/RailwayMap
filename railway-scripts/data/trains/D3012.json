@@ -1,0 +1,100 @@
+{
+  "train_no": "D3012",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "上海虹桥",
+  "depart_time": "08:35",
+  "arrive_time": "13:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "08:35",
+      "depart_time": "08:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "麻城北",
+      "arrive_time": "09:19",
+      "depart_time": "09:23",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "金寨",
+      "arrive_time": "09:56",
+      "depart_time": "09:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "六安",
+      "arrive_time": "10:15",
+      "depart_time": "10:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥南",
+      "arrive_time": "10:44",
+      "depart_time": "10:49",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "11:41",
+      "depart_time": "11:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "丹阳",
+      "arrive_time": "12:22",
+      "depart_time": "12:28",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "常州",
+      "arrive_time": "12:43",
+      "depart_time": "12:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "无锡",
+      "arrive_time": "13:00",
+      "depart_time": "13:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "苏州",
+      "arrive_time": "13:17",
+      "depart_time": "13:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "昆山南",
+      "arrive_time": "13:33",
+      "depart_time": "13:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "上海虹桥",
+      "arrive_time": "13:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 590.0,
+    "price_second": 369.0,
+    "price_no_seat": 369.0
+  },
+  "fetched_at": "2026-05-01T03:26:42.659408"
+}

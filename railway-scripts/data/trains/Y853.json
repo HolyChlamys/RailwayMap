@@ -1,0 +1,61 @@
+{
+  "train_no": "Y853",
+  "train_type": "Y",
+  "depart_station": "伊宁",
+  "arrive_station": "库车",
+  "depart_time": "20:30",
+  "arrive_time": "13:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "伊宁",
+      "arrive_time": "20:30",
+      "depart_time": "20:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "精河南",
+      "arrive_time": "23:40",
+      "depart_time": "23:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "奎屯",
+      "arrive_time": "01:36",
+      "depart_time": "01:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "04:15",
+      "depart_time": "04:40",
+      "stay_min": "25"
+    },
+    {
+      "seq": 5,
+      "station_name": "吐鲁番",
+      "arrive_time": "06:34",
+      "depart_time": "06:42",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "库尔勒",
+      "arrive_time": "09:59",
+      "depart_time": "10:24",
+      "stay_min": "25"
+    },
+    {
+      "seq": 7,
+      "station_name": "库车",
+      "arrive_time": "13:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:40:05.292996"
+}

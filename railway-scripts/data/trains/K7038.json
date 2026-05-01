@@ -1,0 +1,56 @@
+{
+  "train_no": "K7038",
+  "train_type": "K",
+  "depart_station": "绥化",
+  "arrive_station": "漠河",
+  "depart_time": "14:40",
+  "arrive_time": "08:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "绥化",
+      "arrive_time": "14:40",
+      "depart_time": "14:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "哈尔滨",
+      "arrive_time": "16:24",
+      "depart_time": "16:51",
+      "stay_min": "27"
+    },
+    {
+      "seq": 3,
+      "station_name": "齐齐哈尔",
+      "arrive_time": "19:44",
+      "depart_time": "19:50",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "加格达奇",
+      "arrive_time": "01:28",
+      "depart_time": "01:53",
+      "stay_min": "25"
+    },
+    {
+      "seq": 5,
+      "station_name": "塔河",
+      "arrive_time": "05:04",
+      "depart_time": "05:10",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "漠河",
+      "arrive_time": "08:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 163.5
+  },
+  "fetched_at": "2026-05-01T10:27:37.828665"
+}

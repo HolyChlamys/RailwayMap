@@ -1,0 +1,35 @@
+{
+  "train_no": "K8521",
+  "train_type": "K",
+  "depart_station": "合肥",
+  "arrive_station": "叶集",
+  "depart_time": "10:14",
+  "arrive_time": "11:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥",
+      "arrive_time": "10:14",
+      "depart_time": "10:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "六安",
+      "arrive_time": "11:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "叶集",
+      "arrive_time": "11:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 23.5
+  },
+  "fetched_at": "2026-05-01T10:39:55.453570"
+}

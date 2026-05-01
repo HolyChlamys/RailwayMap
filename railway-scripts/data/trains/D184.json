@@ -1,0 +1,99 @@
+{
+  "train_no": "D184",
+  "train_type": "D",
+  "depart_station": "青岛北",
+  "arrive_station": "杭州",
+  "depart_time": "20:43",
+  "arrive_time": "09:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "20:43",
+      "depart_time": "20:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛西",
+      "arrive_time": "21:22",
+      "depart_time": "21:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "日照西",
+      "arrive_time": "22:00",
+      "depart_time": "22:09",
+      "stay_min": "9"
+    },
+    {
+      "seq": 4,
+      "station_name": "连云港",
+      "arrive_time": "23:03",
+      "depart_time": "23:13",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "徐州",
+      "arrive_time": "01:23",
+      "depart_time": "01:43",
+      "stay_min": "20"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京",
+      "arrive_time": "04:40",
+      "depart_time": "04:46",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "无锡",
+      "arrive_time": "06:04",
+      "depart_time": "06:19",
+      "stay_min": "15"
+    },
+    {
+      "seq": 8,
+      "station_name": "苏州",
+      "arrive_time": "06:41",
+      "depart_time": "06:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "上海松江",
+      "arrive_time": "07:54",
+      "depart_time": "08:00",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "嘉兴",
+      "arrive_time": "08:29",
+      "depart_time": "08:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "海宁",
+      "arrive_time": "08:48",
+      "depart_time": "08:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "杭州",
+      "arrive_time": "09:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 405.0,
+    "price_no_seat": 405.0
+  },
+  "fetched_at": "2026-05-01T03:06:02.365882"
+}

@@ -1,0 +1,31 @@
+{
+  "train_no": "G5290",
+  "train_type": "G",
+  "depart_station": "菏泽东",
+  "arrive_station": "济宁北",
+  "depart_time": "06:33",
+  "arrive_time": "06:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "菏泽东",
+      "arrive_time": "06:33",
+      "depart_time": "06:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济宁北",
+      "arrive_time": "06:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 214.0,
+    "price_first": 98.0,
+    "price_second": 61.0,
+    "price_no_seat": 61.0
+  },
+  "fetched_at": "2026-05-01T07:30:21.550172"
+}

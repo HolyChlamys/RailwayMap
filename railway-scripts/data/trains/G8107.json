@@ -1,0 +1,72 @@
+{
+  "train_no": "G8107",
+  "train_type": "G",
+  "depart_station": "丹东",
+  "arrive_station": "吉林",
+  "depart_time": "16:14",
+  "arrive_time": "19:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丹东",
+      "arrive_time": "16:14",
+      "depart_time": "16:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "凤城东",
+      "arrive_time": "16:31",
+      "depart_time": "16:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "本溪",
+      "arrive_time": "17:03",
+      "depart_time": "17:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳南",
+      "arrive_time": "17:30",
+      "depart_time": "17:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳",
+      "arrive_time": "17:44",
+      "depart_time": "17:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "开原西",
+      "arrive_time": "18:17",
+      "depart_time": "18:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "长春",
+      "arrive_time": "19:07",
+      "depart_time": "19:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "吉林",
+      "arrive_time": "19:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 448.0,
+    "price_second": 280.0,
+    "price_no_seat": 280.0
+  },
+  "fetched_at": "2026-05-01T08:44:31.831302"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G5130",
+  "train_type": "G",
+  "depart_station": "漳州",
+  "arrive_station": "南平市",
+  "depart_time": "06:50",
+  "arrive_time": "08:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "漳州",
+      "arrive_time": "06:50",
+      "depart_time": "06:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "厦门北",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泉港",
+      "arrive_time": "07:42",
+      "depart_time": "07:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福清西",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福州",
+      "arrive_time": "08:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南平市",
+      "arrive_time": "08:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 935.0,
+    "price_first": 452.0,
+    "price_second": 277.5,
+    "price_no_seat": 277.5
+  },
+  "fetched_at": "2026-05-01T07:25:29.370084"
+}

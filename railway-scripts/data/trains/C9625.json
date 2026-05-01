@@ -1,0 +1,37 @@
+{
+  "train_no": "C9625",
+  "train_type": "C",
+  "depart_station": "福州",
+  "arrive_station": "龙岩",
+  "depart_time": "22:33",
+  "arrive_time": "00:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "22:33",
+      "depart_time": "22:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延平",
+      "arrive_time": "23:13",
+      "depart_time": "23:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "龙岩",
+      "arrive_time": "00:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 217.5,
+    "price_second": 136.5,
+    "price_no_seat": 136.5
+  },
+  "fetched_at": "2026-05-01T02:51:09.600449"
+}

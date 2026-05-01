@@ -1,0 +1,79 @@
+{
+  "train_no": "C6031",
+  "train_type": "C",
+  "depart_station": "毕节",
+  "arrive_station": "六盘水",
+  "depart_time": "08:04",
+  "arrive_time": "10:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "毕节",
+      "arrive_time": "08:04",
+      "depart_time": "08:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黔西",
+      "arrive_time": "08:28",
+      "depart_time": "08:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "清镇西",
+      "arrive_time": "08:45",
+      "depart_time": "08:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "09:20",
+      "depart_time": "09:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "安顺西",
+      "arrive_time": "09:54",
+      "depart_time": "09:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黄桶北",
+      "arrive_time": "10:09",
+      "depart_time": "10:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "六枝南",
+      "arrive_time": "10:25",
+      "depart_time": "10:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "长箐",
+      "arrive_time": "10:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "六盘水",
+      "arrive_time": "10:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 286.0,
+    "price_second": 179.0,
+    "price_no_seat": 179.0
+  },
+  "fetched_at": "2026-05-01T01:43:29.116892"
+}

@@ -1,0 +1,42 @@
+{
+  "train_no": "T6665",
+  "train_type": "T",
+  "depart_station": "郑州",
+  "arrive_station": "三门峡西",
+  "depart_time": "08:07",
+  "arrive_time": "11:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛阳",
+      "arrive_time": "09:42",
+      "depart_time": "09:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "三门峡",
+      "arrive_time": "11:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "三门峡西",
+      "arrive_time": "11:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T11:27:08.801234"
+}

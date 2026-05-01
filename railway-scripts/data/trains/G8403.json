@@ -1,0 +1,59 @@
+{
+  "train_no": "G8403",
+  "train_type": "G",
+  "depart_station": "汕头",
+  "arrive_station": "广州东",
+  "depart_time": "12:10",
+  "arrive_time": "14:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汕头南",
+      "arrive_time": "12:21",
+      "depart_time": "12:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汕尾",
+      "arrive_time": "12:59",
+      "depart_time": "12:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "罗浮山",
+      "arrive_time": "13:41",
+      "depart_time": "13:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州新塘",
+      "arrive_time": "14:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州东",
+      "arrive_time": "14:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 917.0,
+    "price_first": 420.0,
+    "price_second": 262.0,
+    "price_no_seat": 262.0
+  },
+  "fetched_at": "2026-05-01T08:49:55.649599"
+}

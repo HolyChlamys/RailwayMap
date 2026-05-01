@@ -1,0 +1,65 @@
+{
+  "train_no": "D695",
+  "train_type": "D",
+  "depart_station": "厦门",
+  "arrive_station": "深圳北",
+  "depart_time": "08:45",
+  "arrive_time": "11:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "08:45",
+      "depart_time": "08:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "09:18",
+      "depart_time": "09:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "云霄",
+      "arrive_time": "09:46",
+      "depart_time": "09:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潮汕",
+      "arrive_time": "10:19",
+      "depart_time": "10:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "11:03",
+      "depart_time": "11:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "惠阳",
+      "arrive_time": "11:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳北",
+      "arrive_time": "11:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 371.0,
+    "price_second": 232.0,
+    "price_no_seat": 232.0
+  },
+  "fetched_at": "2026-05-01T04:31:30.743040"
+}

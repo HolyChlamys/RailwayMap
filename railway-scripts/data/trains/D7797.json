@@ -1,0 +1,100 @@
+{
+  "train_no": "D7797",
+  "train_type": "D",
+  "depart_station": "赤峰",
+  "arrive_station": "大连北",
+  "depart_time": "09:06",
+  "arrive_time": "13:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赤峰",
+      "arrive_time": "09:06",
+      "depart_time": "09:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "平庄",
+      "arrive_time": "09:26",
+      "depart_time": "09:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "宁城",
+      "arrive_time": "09:43",
+      "depart_time": "09:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "建平",
+      "arrive_time": "09:58",
+      "depart_time": "10:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "喀左",
+      "arrive_time": "10:15",
+      "depart_time": "10:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "辽宁朝阳",
+      "arrive_time": "10:40",
+      "depart_time": "10:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "锦州北",
+      "arrive_time": "11:10",
+      "depart_time": "11:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "盘锦北",
+      "arrive_time": "11:39",
+      "depart_time": "11:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "盘锦",
+      "arrive_time": "11:56",
+      "depart_time": "12:00",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "营口东",
+      "arrive_time": "12:28",
+      "depart_time": "12:35",
+      "stay_min": "7"
+    },
+    {
+      "seq": 11,
+      "station_name": "盖州西",
+      "arrive_time": "12:46",
+      "depart_time": "12:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "大连北",
+      "arrive_time": "13:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 417.0,
+    "price_second": 261.0,
+    "price_no_seat": 261.0
+  },
+  "fetched_at": "2026-05-01T04:45:05.249739"
+}

@@ -1,0 +1,51 @@
+{
+  "train_no": "C6319",
+  "train_type": "C",
+  "depart_station": "广元",
+  "arrive_station": "成都东",
+  "depart_time": "22:03",
+  "arrive_time": "23:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广元",
+      "arrive_time": "22:03",
+      "depart_time": "22:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "剑门关",
+      "arrive_time": "22:30",
+      "depart_time": "22:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "绵阳",
+      "arrive_time": "23:13",
+      "depart_time": "23:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "德阳",
+      "arrive_time": "23:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "23:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 214.0,
+    "price_second": 133.0,
+    "price_no_seat": 133.0
+  },
+  "fetched_at": "2026-05-01T01:48:57.220515"
+}

@@ -1,0 +1,42 @@
+{
+  "train_no": "T4369",
+  "train_type": "T",
+  "depart_station": "库尔勒",
+  "arrive_station": "阿克苏",
+  "depart_time": "16:00",
+  "arrive_time": "20:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "库尔勒",
+      "arrive_time": "16:00",
+      "depart_time": "16:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "库车",
+      "arrive_time": "19:44",
+      "depart_time": "19:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新和",
+      "arrive_time": "20:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阿克苏",
+      "arrive_time": "20:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 75.0
+  },
+  "fetched_at": "2026-05-01T11:25:47.229843"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "D1189",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "西宁",
+  "depart_time": "12:22",
+  "arrive_time": "19:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "12:22",
+      "depart_time": "12:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "呼和浩特",
+      "arrive_time": "12:33",
+      "depart_time": "12:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "包头",
+      "arrive_time": "13:37",
+      "depart_time": "13:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "14:42",
+      "depart_time": "14:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "银川",
+      "arrive_time": "16:14",
+      "depart_time": "16:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "中卫南",
+      "arrive_time": "17:26",
+      "depart_time": "17:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "兰州西",
+      "arrive_time": "19:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "西宁",
+      "arrive_time": "19:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1020.0,
+    "price_second": 637.5,
+    "price_no_seat": 637.5
+  },
+  "fetched_at": "2026-05-01T02:59:05.192130"
+}

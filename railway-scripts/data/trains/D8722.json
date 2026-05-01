@@ -1,0 +1,72 @@
+{
+  "train_no": "D8722",
+  "train_type": "D",
+  "depart_station": "普者黑",
+  "arrive_station": "大理",
+  "depart_time": "14:28",
+  "arrive_time": "18:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "普者黑",
+      "arrive_time": "14:28",
+      "depart_time": "14:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "弥勒",
+      "arrive_time": "15:02",
+      "depart_time": "15:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明南",
+      "arrive_time": "15:43",
+      "depart_time": "15:49",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明",
+      "arrive_time": "16:08",
+      "depart_time": "16:15",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "禄丰南",
+      "arrive_time": "16:55",
+      "depart_time": "16:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "广通北",
+      "arrive_time": "17:14",
+      "depart_time": "17:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "祥云",
+      "arrive_time": "18:06",
+      "depart_time": "18:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "大理",
+      "arrive_time": "18:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 368.0,
+    "price_second": 230.5,
+    "price_no_seat": 230.5
+  },
+  "fetched_at": "2026-05-01T05:03:40.612252"
+}

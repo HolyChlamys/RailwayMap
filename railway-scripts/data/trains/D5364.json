@@ -1,0 +1,38 @@
+{
+  "train_no": "D5364",
+  "train_type": "D",
+  "depart_station": "太原",
+  "arrive_station": "阳高南",
+  "depart_time": "08:00",
+  "arrive_time": "09:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大同南",
+      "arrive_time": "09:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阳高南",
+      "arrive_time": "09:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 495.0,
+    "price_first": 243.0,
+    "price_second": 152.0,
+    "price_no_seat": 152.0
+  },
+  "fetched_at": "2026-05-01T04:05:11.497934"
+}

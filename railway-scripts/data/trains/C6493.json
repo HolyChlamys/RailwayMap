@@ -1,0 +1,58 @@
+{
+  "train_no": "C6493",
+  "train_type": "C",
+  "depart_station": "青岛北",
+  "arrive_station": "威海",
+  "depart_time": "14:46",
+  "arrive_time": "16:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "14:46",
+      "depart_time": "14:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "即墨北",
+      "arrive_time": "15:04",
+      "depart_time": "15:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莱西",
+      "arrive_time": "15:23",
+      "depart_time": "15:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "威海南海",
+      "arrive_time": "16:07",
+      "depart_time": "16:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "荣成",
+      "arrive_time": "16:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "威海",
+      "arrive_time": "16:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 212.0,
+    "price_second": 133.0,
+    "price_no_seat": 133.0
+  },
+  "fetched_at": "2026-05-01T01:50:37.942890"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G9257",
+  "train_type": "G",
+  "depart_station": "开化",
+  "arrive_station": "杭州西",
+  "depart_time": "20:05",
+  "arrive_time": "21:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "开化",
+      "arrive_time": "20:05",
+      "depart_time": "20:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "03:58",
+      "depart_time": "04:02",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "常山",
+      "arrive_time": "20:16",
+      "depart_time": "20:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "衢州西",
+      "arrive_time": "20:37",
+      "depart_time": "20:41",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "桐庐东",
+      "arrive_time": "21:26",
+      "depart_time": "21:33",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州西",
+      "arrive_time": "21:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 558.0,
+    "price_first": 262.0,
+    "price_second": 164.0,
+    "price_no_seat": 164.0
+  },
+  "fetched_at": "2026-05-01T09:09:27.983170"
+}

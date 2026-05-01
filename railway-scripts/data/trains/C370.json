@@ -1,0 +1,37 @@
+{
+  "train_no": "C370",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "玉溪",
+  "depart_time": "20:57",
+  "arrive_time": "21:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "20:57",
+      "depart_time": "20:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆明南",
+      "arrive_time": "21:16",
+      "depart_time": "21:20",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "玉溪",
+      "arrive_time": "21:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 80.0,
+    "price_second": 50.0,
+    "price_no_seat": 50.0
+  },
+  "fetched_at": "2026-05-01T01:02:53.254353"
+}

@@ -1,0 +1,63 @@
+{
+  "train_no": "K5487",
+  "train_type": "K",
+  "depart_station": "西安",
+  "arrive_station": "宝鸡",
+  "depart_time": "18:20",
+  "arrive_time": "20:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "18:20",
+      "depart_time": "18:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳",
+      "arrive_time": "18:39",
+      "depart_time": "18:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兴平",
+      "arrive_time": "18:58",
+      "depart_time": "18:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武功",
+      "arrive_time": "19:18",
+      "depart_time": "19:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杨陵",
+      "arrive_time": "19:31",
+      "depart_time": "19:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "蔡家坡",
+      "arrive_time": "20:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宝鸡",
+      "arrive_time": "20:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T10:11:46.699477"
+}

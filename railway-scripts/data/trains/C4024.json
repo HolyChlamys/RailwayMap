@@ -1,0 +1,31 @@
+{
+  "train_no": "C4024",
+  "train_type": "C",
+  "depart_station": "西昌西",
+  "arrive_station": "成都南",
+  "depart_time": "05:04",
+  "arrive_time": "05:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西昌西",
+      "arrive_time": "05:04",
+      "depart_time": "05:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都南",
+      "arrive_time": "05:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 522.0,
+    "price_first": 239.0,
+    "price_second": 149.0,
+    "price_no_seat": 149.0
+  },
+  "fetched_at": "2026-05-01T01:06:22.290818"
+}

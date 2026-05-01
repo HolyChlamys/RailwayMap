@@ -1,0 +1,44 @@
+{
+  "train_no": "C5955",
+  "train_type": "C",
+  "depart_station": "乐山",
+  "arrive_station": "贵阳北",
+  "depart_time": "08:26",
+  "arrive_time": "10:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乐山",
+      "arrive_time": "08:26",
+      "depart_time": "08:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜宾西",
+      "arrive_time": "09:10",
+      "depart_time": "09:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "毕节",
+      "arrive_time": "10:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "10:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 163.0,
+    "price_second": 101.0,
+    "price_no_seat": 101.0
+  },
+  "fetched_at": "2026-05-01T01:41:59.972138"
+}

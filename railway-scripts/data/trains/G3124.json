@@ -1,0 +1,163 @@
+{
+  "train_no": "G3124",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "武汉",
+  "depart_time": "06:06",
+  "arrive_time": "12:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "06:06",
+      "depart_time": "06:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "06:25",
+      "depart_time": "06:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "06:38",
+      "depart_time": "06:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "06:55",
+      "depart_time": "06:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "07:11",
+      "depart_time": "07:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "丹阳",
+      "arrive_time": "07:29",
+      "depart_time": "07:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "镇江",
+      "arrive_time": "07:44",
+      "depart_time": "07:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "南京南",
+      "arrive_time": "08:13",
+      "depart_time": "08:17",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "马鞍山东",
+      "arrive_time": "08:33",
+      "depart_time": "08:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "芜湖",
+      "arrive_time": "08:52",
+      "depart_time": "08:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "铜陵",
+      "arrive_time": "09:22",
+      "depart_time": "09:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "池州",
+      "arrive_time": "09:42",
+      "depart_time": "09:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "安庆",
+      "arrive_time": "10:01",
+      "depart_time": "10:09",
+      "stay_min": "8"
+    },
+    {
+      "seq": 14,
+      "station_name": "宿松东",
+      "arrive_time": "10:46",
+      "depart_time": "10:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "黄梅东",
+      "arrive_time": "10:58",
+      "depart_time": "11:02",
+      "stay_min": "4"
+    },
+    {
+      "seq": 16,
+      "station_name": "武穴北",
+      "arrive_time": "11:15",
+      "depart_time": "11:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "蕲春南",
+      "arrive_time": "11:29",
+      "depart_time": "11:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "浠水南",
+      "arrive_time": "11:42",
+      "depart_time": "11:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "黄冈东",
+      "arrive_time": "11:57",
+      "depart_time": "11:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 20,
+      "station_name": "黄冈西",
+      "arrive_time": "12:08",
+      "depart_time": "12:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 21,
+      "station_name": "武汉",
+      "arrive_time": "12:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 744.0,
+    "price_second": 465.0,
+    "price_no_seat": 465.0
+  },
+  "fetched_at": "2026-05-01T06:29:30.486338"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "D6153",
+  "train_type": "D",
+  "depart_station": "涪陵北",
+  "arrive_station": "重庆北",
+  "depart_time": "22:09",
+  "arrive_time": "22:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "涪陵北",
+      "arrive_time": "22:09",
+      "depart_time": "22:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长寿北",
+      "arrive_time": "22:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "22:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 55.0,
+    "price_second": 34.0,
+    "price_no_seat": 34.0
+  },
+  "fetched_at": "2026-05-01T04:17:57.807096"
+}

@@ -1,0 +1,98 @@
+{
+  "train_no": "K7156",
+  "train_type": "K",
+  "depart_station": "东方红",
+  "arrive_station": "齐齐哈尔",
+  "depart_time": "15:00",
+  "arrive_time": "07:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东方红",
+      "arrive_time": "15:00",
+      "depart_time": "15:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎林",
+      "arrive_time": "16:05",
+      "depart_time": "16:15",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "卫星",
+      "arrive_time": "16:49",
+      "depart_time": "16:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "兴凯",
+      "arrive_time": "17:28",
+      "depart_time": "17:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "密山",
+      "arrive_time": "17:57",
+      "depart_time": "18:04",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "鸡东",
+      "arrive_time": "19:07",
+      "depart_time": "19:15",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "鸡西",
+      "arrive_time": "19:34",
+      "depart_time": "19:41",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "林口",
+      "arrive_time": "20:55",
+      "depart_time": "21:03",
+      "stay_min": "8"
+    },
+    {
+      "seq": 9,
+      "station_name": "牡丹江",
+      "arrive_time": "22:43",
+      "depart_time": "23:11",
+      "stay_min": "28"
+    },
+    {
+      "seq": 10,
+      "station_name": "哈尔滨",
+      "arrive_time": "04:38",
+      "depart_time": "04:48",
+      "stay_min": "10"
+    },
+    {
+      "seq": 11,
+      "station_name": "大庆东",
+      "arrive_time": "06:16",
+      "depart_time": "06:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "齐齐哈尔",
+      "arrive_time": "07:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 138.5
+  },
+  "fetched_at": "2026-05-01T10:28:46.931787"
+}

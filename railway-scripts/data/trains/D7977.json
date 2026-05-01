@@ -1,0 +1,65 @@
+{
+  "train_no": "D7977",
+  "train_type": "D",
+  "depart_station": "哈尔滨",
+  "arrive_station": "七台河西",
+  "depart_time": "13:13",
+  "arrive_time": "15:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨",
+      "arrive_time": "13:13",
+      "depart_time": "13:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阿城北",
+      "arrive_time": "13:39",
+      "depart_time": "13:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "亚布力西",
+      "arrive_time": "14:24",
+      "depart_time": "14:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "牡丹江",
+      "arrive_time": "14:58",
+      "depart_time": "14:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "林口南",
+      "arrive_time": "15:30",
+      "depart_time": "15:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "鸡西西",
+      "arrive_time": "15:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "七台河西",
+      "arrive_time": "15:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 313.0,
+    "price_second": 195.0,
+    "price_no_seat": 195.0
+  },
+  "fetched_at": "2026-05-01T04:48:40.073078"
+}

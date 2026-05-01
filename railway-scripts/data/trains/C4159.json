@@ -1,0 +1,37 @@
+{
+  "train_no": "C4159",
+  "train_type": "C",
+  "depart_station": "信阳",
+  "arrive_station": "汉口",
+  "depart_time": "19:00",
+  "arrive_time": "20:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "信阳",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感",
+      "arrive_time": "20:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汉口",
+      "arrive_time": "20:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 106.0,
+    "price_second": 66.0,
+    "price_no_seat": 66.0
+  },
+  "fetched_at": "2026-05-01T01:09:38.958369"
+}

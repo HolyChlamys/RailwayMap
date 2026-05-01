@@ -1,0 +1,44 @@
+{
+  "train_no": "C5083",
+  "train_type": "C",
+  "depart_station": "汉口",
+  "arrive_station": "浠水南",
+  "depart_time": "06:15",
+  "arrive_time": "07:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "06:15",
+      "depart_time": "06:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉",
+      "arrive_time": "06:37",
+      "depart_time": "06:48",
+      "stay_min": "11"
+    },
+    {
+      "seq": 3,
+      "station_name": "黄冈西",
+      "arrive_time": "07:18",
+      "depart_time": "07:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "浠水南",
+      "arrive_time": "07:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 100.0,
+    "price_second": 62.0,
+    "price_no_seat": 62.0
+  },
+  "fetched_at": "2026-05-01T01:26:11.451946"
+}

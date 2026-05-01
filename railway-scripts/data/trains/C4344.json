@@ -1,0 +1,31 @@
+{
+  "train_no": "C4344",
+  "train_type": "C",
+  "depart_station": "博乐",
+  "arrive_station": "双河市",
+  "depart_time": "19:50",
+  "arrive_time": "19:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "博乐",
+      "arrive_time": "19:50",
+      "depart_time": "19:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "双河市",
+      "arrive_time": "19:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 253.0,
+    "price_first": 116.0,
+    "price_second": 72.0,
+    "price_no_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T01:13:49.541164"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G8655",
+  "train_type": "G",
+  "depart_station": "重庆东",
+  "arrive_station": "武隆南",
+  "depart_time": "16:32",
+  "arrive_time": "17:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆东",
+      "arrive_time": "16:32",
+      "depart_time": "16:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巴南",
+      "arrive_time": "16:46",
+      "depart_time": "16:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南川北",
+      "arrive_time": "17:03",
+      "depart_time": "17:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "水江西",
+      "arrive_time": "17:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武隆南",
+      "arrive_time": "17:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 312.0,
+    "price_first": 142.0,
+    "price_second": 89.0,
+    "price_no_seat": 89.0
+  },
+  "fetched_at": "2026-05-01T08:57:03.659201"
+}

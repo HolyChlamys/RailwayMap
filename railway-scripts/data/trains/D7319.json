@@ -1,0 +1,72 @@
+{
+  "train_no": "D7319",
+  "train_type": "D",
+  "depart_station": "梅州西",
+  "arrive_station": "汕头",
+  "depart_time": "13:25",
+  "arrive_time": "14:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梅州西",
+      "arrive_time": "13:25",
+      "depart_time": "13:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "畲江北",
+      "arrive_time": "13:39",
+      "depart_time": "13:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "建桥",
+      "arrive_time": "13:51",
+      "depart_time": "13:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "丰顺东",
+      "arrive_time": "14:03",
+      "depart_time": "14:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "揭阳",
+      "arrive_time": "14:17",
+      "depart_time": "14:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "揭阳机场",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "潮汕",
+      "arrive_time": "14:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "汕头",
+      "arrive_time": "14:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 136.0,
+    "price_second": 85.0,
+    "price_no_seat": 85.0
+  },
+  "fetched_at": "2026-05-01T04:36:08.335555"
+}

@@ -1,0 +1,31 @@
+{
+  "train_no": "D9762",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "陆丰",
+  "depart_time": "00:08",
+  "arrive_time": "00:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "00:08",
+      "depart_time": "00:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "陆丰",
+      "arrive_time": "00:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 297.0,
+    "price_first": 136.0,
+    "price_second": 85.0,
+    "price_no_seat": 85.0
+  },
+  "fetched_at": "2026-05-01T05:24:12.214579"
+}

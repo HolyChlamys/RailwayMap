@@ -1,0 +1,52 @@
+{
+  "train_no": "G4449",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "南宁东",
+  "depart_time": "22:19",
+  "arrive_time": "00:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "22:19",
+      "depart_time": "22:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遵义",
+      "arrive_time": "23:39",
+      "depart_time": "23:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "00:33",
+      "depart_time": "00:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳",
+      "arrive_time": "00:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南宁东",
+      "arrive_time": "00:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2177.0,
+    "price_first": 995.0,
+    "price_second": 622.0,
+    "price_no_seat": 622.0
+  },
+  "fetched_at": "2026-05-01T07:05:43.226722"
+}

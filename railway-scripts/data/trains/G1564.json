@@ -1,0 +1,73 @@
+{
+  "train_no": "G1564",
+  "train_type": "G",
+  "depart_station": "锦州南",
+  "arrive_station": "北京",
+  "depart_time": "16:10",
+  "arrive_time": "18:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "锦州南",
+      "arrive_time": "16:10",
+      "depart_time": "16:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "葫芦岛北",
+      "arrive_time": "16:29",
+      "depart_time": "16:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "山海关",
+      "arrive_time": "17:13",
+      "depart_time": "17:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "秦皇岛",
+      "arrive_time": "17:30",
+      "depart_time": "17:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "唐山西",
+      "arrive_time": "18:14",
+      "depart_time": "18:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宝坻",
+      "arrive_time": "18:35",
+      "depart_time": "18:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "燕郊",
+      "arrive_time": "18:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "北京",
+      "arrive_time": "18:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 793.0,
+    "price_first": 374.0,
+    "price_second": 234.0,
+    "price_no_seat": 234.0
+  },
+  "fetched_at": "2026-05-01T05:46:45.652101"
+}

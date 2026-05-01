@@ -1,0 +1,38 @@
+{
+  "train_no": "G9255",
+  "train_type": "G",
+  "depart_station": "杭州西",
+  "arrive_station": "开化",
+  "depart_time": "22:21",
+  "arrive_time": "23:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "22:21",
+      "depart_time": "22:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衢州西",
+      "arrive_time": "23:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "开化",
+      "arrive_time": "23:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 558.0,
+    "price_first": 262.0,
+    "price_second": 164.0,
+    "price_no_seat": 164.0
+  },
+  "fetched_at": "2026-05-01T09:09:24.681265"
+}

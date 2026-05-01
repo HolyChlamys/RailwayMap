@@ -1,0 +1,105 @@
+{
+  "train_no": "K489",
+  "train_type": "K",
+  "depart_station": "天津",
+  "arrive_station": "加格达奇",
+  "depart_time": "23:59",
+  "arrive_time": "00:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津",
+      "arrive_time": "23:59",
+      "depart_time": "23:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "唐山",
+      "arrive_time": "01:34",
+      "depart_time": "01:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "锦州",
+      "arrive_time": "06:00",
+      "depart_time": "06:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳北",
+      "arrive_time": "09:20",
+      "depart_time": "09:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "长春",
+      "arrive_time": "13:19",
+      "depart_time": "13:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "哈尔滨",
+      "arrive_time": "16:27",
+      "depart_time": "16:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "肇东",
+      "arrive_time": "17:14",
+      "depart_time": "17:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "安达",
+      "arrive_time": "17:56",
+      "depart_time": "17:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "齐齐哈尔",
+      "arrive_time": "20:18",
+      "depart_time": "20:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "富裕",
+      "arrive_time": "21:00",
+      "depart_time": "21:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "讷河",
+      "arrive_time": "22:32",
+      "depart_time": "22:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "嫩江",
+      "arrive_time": "00:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 13,
+      "station_name": "加格达奇",
+      "arrive_time": "00:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T10:00:13.705139"
+}

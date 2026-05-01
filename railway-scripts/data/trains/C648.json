@@ -1,0 +1,58 @@
+{
+  "train_no": "C648",
+  "train_type": "C",
+  "depart_station": "鄂尔多斯",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "15:15",
+  "arrive_time": "17:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "鄂尔多斯",
+      "arrive_time": "15:15",
+      "depart_time": "15:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东胜东",
+      "arrive_time": "15:36",
+      "depart_time": "15:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "准格尔",
+      "arrive_time": "16:28",
+      "depart_time": "16:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "托克托东",
+      "arrive_time": "16:41",
+      "depart_time": "16:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "呼和浩特",
+      "arrive_time": "17:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "呼和浩特东",
+      "arrive_time": "17:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 140.0,
+    "price_second": 87.0,
+    "price_no_seat": 87.0
+  },
+  "fetched_at": "2026-05-01T01:50:32.988412"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "C7304",
+  "train_type": "C",
+  "depart_station": "三亚",
+  "arrive_station": "海口东",
+  "depart_time": "06:55",
+  "arrive_time": "08:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "三亚",
+      "arrive_time": "06:55",
+      "depart_time": "06:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "陵水",
+      "arrive_time": "07:17",
+      "depart_time": "07:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "神州",
+      "arrive_time": "07:32",
+      "depart_time": "07:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "博鳌",
+      "arrive_time": "07:50",
+      "depart_time": "07:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "美兰",
+      "arrive_time": "08:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "海口东",
+      "arrive_time": "08:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 397.0,
+    "price_first": 181.0,
+    "price_second": 113.0,
+    "price_no_seat": 113.0
+  },
+  "fetched_at": "2026-05-01T02:11:44.231825"
+}

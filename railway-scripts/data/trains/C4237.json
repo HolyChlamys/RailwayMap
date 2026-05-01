@@ -1,0 +1,51 @@
+{
+  "train_no": "C4237",
+  "train_type": "C",
+  "depart_station": "丽江",
+  "arrive_station": "昆明",
+  "depart_time": "12:02",
+  "arrive_time": "17:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丽江",
+      "arrive_time": "12:02",
+      "depart_time": "12:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹤庆",
+      "arrive_time": "12:30",
+      "depart_time": "12:35",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "祥云",
+      "arrive_time": "14:53",
+      "depart_time": "14:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "云南驿",
+      "arrive_time": "15:08",
+      "depart_time": "15:23",
+      "stay_min": "15"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明",
+      "arrive_time": "17:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 351.0,
+    "price_second": 220.0,
+    "price_no_seat": 220.0
+  },
+  "fetched_at": "2026-05-01T01:11:27.624316"
+}

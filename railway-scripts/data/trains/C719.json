@@ -1,0 +1,44 @@
+{
+  "train_no": "C719",
+  "train_type": "C",
+  "depart_station": "达州",
+  "arrive_station": "成都东",
+  "depart_time": "18:29",
+  "arrive_time": "19:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "达州",
+      "arrive_time": "18:29",
+      "depart_time": "18:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "营山",
+      "arrive_time": "19:18",
+      "depart_time": "19:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南充",
+      "arrive_time": "19:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "成都东",
+      "arrive_time": "19:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 184.0,
+    "price_second": 115.0,
+    "price_no_seat": 115.0
+  },
+  "fetched_at": "2026-05-01T02:08:26.275811"
+}

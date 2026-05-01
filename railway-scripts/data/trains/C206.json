@@ -1,0 +1,57 @@
+{
+  "train_no": "C206",
+  "train_type": "C",
+  "depart_station": "深圳",
+  "arrive_station": "岳阳",
+  "depart_time": "21:00",
+  "arrive_time": "06:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "21:00",
+      "depart_time": "21:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞",
+      "arrive_time": "21:50",
+      "depart_time": "21:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州北",
+      "arrive_time": "22:50",
+      "depart_time": "22:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "株洲",
+      "arrive_time": "05:33",
+      "depart_time": "05:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "长沙",
+      "arrive_time": "06:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "岳阳",
+      "arrive_time": "06:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 309.0,
+    "price_no_seat": 309.0
+  },
+  "fetched_at": "2026-05-01T00:29:12.106800"
+}

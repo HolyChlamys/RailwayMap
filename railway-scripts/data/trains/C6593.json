@@ -1,0 +1,87 @@
+{
+  "train_no": "C6593",
+  "train_type": "C",
+  "depart_station": "威海",
+  "arrive_station": "青岛",
+  "depart_time": "18:45",
+  "arrive_time": "21:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "威海",
+      "arrive_time": "18:45",
+      "depart_time": "18:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荣成",
+      "arrive_time": "19:02",
+      "depart_time": "19:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "威海南海",
+      "arrive_time": "19:24",
+      "depart_time": "19:28",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "海阳",
+      "arrive_time": "19:52",
+      "depart_time": "19:56",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "莱阳南",
+      "arrive_time": "20:11",
+      "depart_time": "20:21",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "莱西",
+      "arrive_time": "20:38",
+      "depart_time": "20:42",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "夏格庄",
+      "arrive_time": "20:51",
+      "depart_time": "20:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "即墨北",
+      "arrive_time": "21:04",
+      "depart_time": "21:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "青岛北",
+      "arrive_time": "21:22",
+      "depart_time": "21:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "青岛",
+      "arrive_time": "21:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 490.0,
+    "price_first": 224.0,
+    "price_second": 140.0,
+    "price_no_seat": 140.0
+  },
+  "fetched_at": "2026-05-01T01:52:43.154082"
+}

@@ -1,0 +1,86 @@
+{
+  "train_no": "C5601",
+  "train_type": "C",
+  "depart_station": "武昌",
+  "arrive_station": "咸宁南",
+  "depart_time": "06:51",
+  "arrive_time": "08:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "06:51",
+      "depart_time": "06:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南湖东",
+      "arrive_time": "07:07",
+      "depart_time": "07:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汤逊湖",
+      "arrive_time": "07:14",
+      "depart_time": "07:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "庙山",
+      "arrive_time": "07:21",
+      "depart_time": "07:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "普安",
+      "arrive_time": "07:26",
+      "depart_time": "07:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "纸坊东",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "山坡东",
+      "arrive_time": "07:54",
+      "depart_time": "07:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "贺胜桥东",
+      "arrive_time": "08:02",
+      "depart_time": "08:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "横沟桥东",
+      "arrive_time": "08:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "咸宁南",
+      "arrive_time": "08:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 70.0,
+    "price_second": 44.0,
+    "price_no_seat": 44.0
+  },
+  "fetched_at": "2026-05-01T01:35:27.072932"
+}

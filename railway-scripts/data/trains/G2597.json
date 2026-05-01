@@ -1,0 +1,101 @@
+{
+  "train_no": "G2597",
+  "train_type": "G",
+  "depart_station": "济南西",
+  "arrive_station": "南通",
+  "depart_time": "11:55",
+  "arrive_time": "15:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "11:55",
+      "depart_time": "11:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲阜东",
+      "arrive_time": "12:28",
+      "depart_time": "12:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "枣庄",
+      "arrive_time": "12:55",
+      "depart_time": "12:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "徐州东",
+      "arrive_time": "13:16",
+      "depart_time": "13:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宿迁",
+      "arrive_time": "13:52",
+      "depart_time": "13:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "泗阳",
+      "arrive_time": "14:09",
+      "depart_time": "14:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "淮安东",
+      "arrive_time": "14:28",
+      "depart_time": "14:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "建湖",
+      "arrive_time": "14:52",
+      "depart_time": "14:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "盐城",
+      "arrive_time": "15:09",
+      "depart_time": "15:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "东台",
+      "arrive_time": "15:29",
+      "depart_time": "15:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "海安",
+      "arrive_time": "15:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "南通",
+      "arrive_time": "15:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1302.0,
+    "price_first": 629.0,
+    "price_second": 393.0,
+    "price_no_seat": 393.0
+  },
+  "fetched_at": "2026-05-01T06:14:47.802994"
+}

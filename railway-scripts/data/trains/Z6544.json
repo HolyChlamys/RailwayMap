@@ -1,0 +1,42 @@
+{
+  "train_no": "Z6544",
+  "train_type": "Z",
+  "depart_station": "鄂尔多斯",
+  "arrive_station": "呼和浩特",
+  "depart_time": "20:43",
+  "arrive_time": "22:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "鄂尔多斯",
+      "arrive_time": "20:43",
+      "depart_time": "20:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东胜东",
+      "arrive_time": "21:02",
+      "depart_time": "21:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "托克托东",
+      "arrive_time": "22:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "呼和浩特",
+      "arrive_time": "22:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T11:51:17.576943"
+}

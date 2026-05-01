@@ -1,0 +1,52 @@
+{
+  "train_no": "G4940",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "南京南",
+  "depart_time": "03:18",
+  "arrive_time": "08:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "03:18",
+      "depart_time": "03:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "07:04",
+      "depart_time": "07:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜兴",
+      "arrive_time": "07:43",
+      "depart_time": "07:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "溧水",
+      "arrive_time": "08:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "08:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2190.0,
+    "price_first": 1001.0,
+    "price_second": 626.0,
+    "price_no_seat": 626.0
+  },
+  "fetched_at": "2026-05-01T07:20:34.439012"
+}

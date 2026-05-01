@@ -1,0 +1,80 @@
+{
+  "train_no": "G7532",
+  "train_type": "G",
+  "depart_station": "三门县",
+  "arrive_station": "上海南",
+  "depart_time": "07:45",
+  "arrive_time": "10:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "三门县",
+      "arrive_time": "07:45",
+      "depart_time": "07:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁海",
+      "arrive_time": "08:01",
+      "depart_time": "08:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁波",
+      "arrive_time": "08:34",
+      "depart_time": "08:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "余姚北",
+      "arrive_time": "08:56",
+      "depart_time": "08:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "绍兴北",
+      "arrive_time": "09:16",
+      "depart_time": "09:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "09:42",
+      "depart_time": "09:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "嘉兴南",
+      "arrive_time": "10:15",
+      "depart_time": "10:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "嘉善南",
+      "arrive_time": "10:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "上海南",
+      "arrive_time": "10:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 765.0,
+    "price_first": 349.0,
+    "price_second": 218.0,
+    "price_no_seat": 218.0
+  },
+  "fetched_at": "2026-05-01T08:29:51.275943"
+}

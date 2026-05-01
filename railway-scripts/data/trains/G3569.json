@@ -1,0 +1,66 @@
+{
+  "train_no": "G3569",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "南宁东",
+  "depart_time": "08:15",
+  "arrive_time": "10:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "08:15",
+      "depart_time": "08:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳",
+      "arrive_time": "08:28",
+      "depart_time": "08:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "都匀东",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "荔波",
+      "arrive_time": "09:36",
+      "depart_time": "09:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "河池西",
+      "arrive_time": "10:02",
+      "depart_time": "10:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南宁北",
+      "arrive_time": "10:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南宁东",
+      "arrive_time": "10:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 977.0,
+    "price_first": 450.0,
+    "price_second": 281.0,
+    "price_no_seat": 281.0
+  },
+  "fetched_at": "2026-05-01T06:41:31.743351"
+}

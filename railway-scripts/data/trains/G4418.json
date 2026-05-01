@@ -1,0 +1,87 @@
+{
+  "train_no": "G4418",
+  "train_type": "G",
+  "depart_station": "宜昌北",
+  "arrive_station": "上海虹桥",
+  "depart_time": "20:03",
+  "arrive_time": "02:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌北",
+      "arrive_time": "20:03",
+      "depart_time": "20:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "当阳西",
+      "arrive_time": "20:14",
+      "depart_time": "20:22",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "荆门西",
+      "arrive_time": "20:37",
+      "depart_time": "20:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "钟祥南",
+      "arrive_time": "20:55",
+      "depart_time": "20:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "天门",
+      "arrive_time": "21:18",
+      "depart_time": "21:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "汉川北",
+      "arrive_time": "21:39",
+      "depart_time": "21:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "汉口",
+      "arrive_time": "22:05",
+      "depart_time": "22:12",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "合肥南",
+      "arrive_time": "23:58",
+      "depart_time": "00:08",
+      "stay_min": "1430"
+    },
+    {
+      "seq": 9,
+      "station_name": "南京南",
+      "arrive_time": "01:00",
+      "depart_time": "01:18",
+      "stay_min": "18"
+    },
+    {
+      "seq": 10,
+      "station_name": "上海虹桥",
+      "arrive_time": "02:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2120.0,
+    "price_first": 979.0,
+    "price_second": 612.0,
+    "price_no_seat": 612.0
+  },
+  "fetched_at": "2026-05-01T07:04:58.530535"
+}

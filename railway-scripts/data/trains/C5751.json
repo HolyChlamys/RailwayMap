@@ -1,0 +1,65 @@
+{
+  "train_no": "C5751",
+  "train_type": "C",
+  "depart_station": "黄龙九寨",
+  "arrive_station": "成都东",
+  "depart_time": "14:22",
+  "arrive_time": "16:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄龙九寨",
+      "arrive_time": "14:22",
+      "depart_time": "14:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "茂县",
+      "arrive_time": "15:08",
+      "depart_time": "15:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "绵竹南",
+      "arrive_time": "15:39",
+      "depart_time": "15:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "什邡西",
+      "arrive_time": "15:52",
+      "depart_time": "15:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "三星堆",
+      "arrive_time": "16:05",
+      "depart_time": "16:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "青白江东",
+      "arrive_time": "16:15",
+      "depart_time": "16:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "成都东",
+      "arrive_time": "16:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 230.0,
+    "price_second": 143.0,
+    "price_no_seat": 143.0
+  },
+  "fetched_at": "2026-05-01T01:37:31.049944"
+}

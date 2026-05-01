@@ -1,0 +1,87 @@
+{
+  "train_no": "C6758",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "汕头",
+  "depart_time": "11:52",
+  "arrive_time": "15:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "11:52",
+      "depart_time": "11:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门",
+      "arrive_time": "12:09",
+      "depart_time": "12:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "12:29",
+      "depart_time": "12:35",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳坪山",
+      "arrive_time": "12:52",
+      "depart_time": "12:57",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "鲘门",
+      "arrive_time": "13:25",
+      "depart_time": "13:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "普宁",
+      "arrive_time": "14:04",
+      "depart_time": "14:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "潮阳",
+      "arrive_time": "14:17",
+      "depart_time": "14:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "潮汕",
+      "arrive_time": "14:31",
+      "depart_time": "14:34",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "潮安",
+      "arrive_time": "14:46",
+      "depart_time": "14:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "汕头",
+      "arrive_time": "15:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 718.5,
+    "price_first": 336.5,
+    "price_second": 222.5,
+    "price_no_seat": 222.5
+  },
+  "fetched_at": "2026-05-01T01:55:42.947387"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "C5762",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "黄胜关",
+  "depart_time": "09:39",
+  "arrive_time": "11:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "09:39",
+      "depart_time": "09:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高川",
+      "arrive_time": "10:24",
+      "depart_time": "10:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "松潘",
+      "arrive_time": "11:18",
+      "depart_time": "11:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "黄胜关",
+      "arrive_time": "11:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 245.0,
+    "price_second": 153.0,
+    "price_no_seat": 153.0
+  },
+  "fetched_at": "2026-05-01T01:37:47.553468"
+}

@@ -1,0 +1,133 @@
+{
+  "train_no": "K344",
+  "train_type": "K",
+  "depart_station": "北京",
+  "arrive_station": "黑河",
+  "depart_time": "23:00",
+  "arrive_time": "04:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京",
+      "arrive_time": "23:00",
+      "depart_time": "23:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天津",
+      "arrive_time": "00:35",
+      "depart_time": "00:41",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "唐山",
+      "arrive_time": "02:00",
+      "depart_time": "02:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "山海关",
+      "arrive_time": "04:07",
+      "depart_time": "04:13",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "锦州",
+      "arrive_time": "06:10",
+      "depart_time": "06:14",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "沈阳",
+      "arrive_time": "08:47",
+      "depart_time": "08:55",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "长春",
+      "arrive_time": "12:29",
+      "depart_time": "12:37",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "哈尔滨",
+      "arrive_time": "15:12",
+      "depart_time": "15:33",
+      "stay_min": "21"
+    },
+    {
+      "seq": 9,
+      "station_name": "哈尔滨东",
+      "arrive_time": "15:48",
+      "depart_time": "16:11",
+      "stay_min": "23"
+    },
+    {
+      "seq": 10,
+      "station_name": "兴隆镇",
+      "arrive_time": "17:19",
+      "depart_time": "17:37",
+      "stay_min": "18"
+    },
+    {
+      "seq": 11,
+      "station_name": "绥化",
+      "arrive_time": "18:01",
+      "depart_time": "18:20",
+      "stay_min": "19"
+    },
+    {
+      "seq": 12,
+      "station_name": "广州东",
+      "arrive_time": "05:10",
+      "depart_time": "05:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 13,
+      "station_name": "绥棱",
+      "arrive_time": "19:17",
+      "depart_time": "19:22",
+      "stay_min": "5"
+    },
+    {
+      "seq": 14,
+      "station_name": "海伦",
+      "arrive_time": "20:08",
+      "depart_time": "20:14",
+      "stay_min": "6"
+    },
+    {
+      "seq": 15,
+      "station_name": "北安",
+      "arrive_time": "21:54",
+      "depart_time": "22:19",
+      "stay_min": "25"
+    },
+    {
+      "seq": 16,
+      "station_name": "孙吴",
+      "arrive_time": "02:53",
+      "depart_time": "03:04",
+      "stay_min": "11"
+    },
+    {
+      "seq": 17,
+      "station_name": "黑河",
+      "arrive_time": "04:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 229.0
+  },
+  "fetched_at": "2026-05-01T09:43:58.817420"
+}

@@ -1,0 +1,51 @@
+{
+  "train_no": "D6913",
+  "train_type": "D",
+  "depart_station": "哈尔滨",
+  "arrive_station": "齐齐哈尔",
+  "depart_time": "07:05",
+  "arrive_time": "08:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨",
+      "arrive_time": "07:05",
+      "depart_time": "07:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "哈尔滨北",
+      "arrive_time": "07:17",
+      "depart_time": "07:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大庆东",
+      "arrive_time": "07:58",
+      "depart_time": "07:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大庆西",
+      "arrive_time": "08:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "齐齐哈尔",
+      "arrive_time": "08:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 160.0,
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T04:30:40.774247"
+}

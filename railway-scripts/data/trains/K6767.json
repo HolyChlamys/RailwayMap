@@ -1,0 +1,70 @@
+{
+  "train_no": "K6767",
+  "train_type": "K",
+  "depart_station": "克拉玛依",
+  "arrive_station": "若羌",
+  "depart_time": "10:40",
+  "arrive_time": "07:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "克拉玛依",
+      "arrive_time": "10:40",
+      "depart_time": "10:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沙湾市",
+      "arrive_time": "14:02",
+      "depart_time": "14:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "石河子",
+      "arrive_time": "14:29",
+      "depart_time": "14:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "16:05",
+      "depart_time": "16:30",
+      "stay_min": "25"
+    },
+    {
+      "seq": 5,
+      "station_name": "乌鲁木齐南",
+      "arrive_time": "16:46",
+      "depart_time": "17:01",
+      "stay_min": "15"
+    },
+    {
+      "seq": 6,
+      "station_name": "焉耆",
+      "arrive_time": "23:18",
+      "depart_time": "23:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "库尔勒",
+      "arrive_time": "23:59",
+      "depart_time": "00:31",
+      "stay_min": "1408"
+    },
+    {
+      "seq": 8,
+      "station_name": "若羌",
+      "arrive_time": "07:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 156.5
+  },
+  "fetched_at": "2026-05-01T10:26:22.633872"
+}

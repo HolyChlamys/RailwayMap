@@ -1,0 +1,45 @@
+{
+  "train_no": "D8191",
+  "train_type": "D",
+  "depart_station": "日照",
+  "arrive_station": "青岛",
+  "depart_time": "07:47",
+  "arrive_time": "09:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "日照",
+      "arrive_time": "07:47",
+      "depart_time": "07:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "董家口",
+      "arrive_time": "08:12",
+      "depart_time": "08:22",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "青岛西",
+      "arrive_time": "08:37",
+      "depart_time": "08:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "青岛",
+      "arrive_time": "09:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 203.0,
+    "price_first": 106.0,
+    "price_second": 66.0,
+    "price_no_seat": 66.0
+  },
+  "fetched_at": "2026-05-01T04:50:55.358534"
+}

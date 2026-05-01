@@ -1,0 +1,108 @@
+{
+  "train_no": "G3463",
+  "train_type": "G",
+  "depart_station": "汉口",
+  "arrive_station": "成都东",
+  "depart_time": "09:02",
+  "arrive_time": "16:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "09:02",
+      "depart_time": "09:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "随州南",
+      "arrive_time": "09:52",
+      "depart_time": "09:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "襄阳东",
+      "arrive_time": "10:24",
+      "depart_time": "10:32",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "南漳",
+      "arrive_time": "10:48",
+      "depart_time": "10:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "保康县",
+      "arrive_time": "11:09",
+      "depart_time": "11:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "万州北",
+      "arrive_time": "12:32",
+      "depart_time": "12:39",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "长寿湖",
+      "arrive_time": "13:25",
+      "depart_time": "13:32",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "复盛",
+      "arrive_time": "13:51",
+      "depart_time": "13:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "重庆北",
+      "arrive_time": "14:07",
+      "depart_time": "14:13",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "隆昌北",
+      "arrive_time": "15:00",
+      "depart_time": "15:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "资中北",
+      "arrive_time": "15:18",
+      "depart_time": "15:26",
+      "stay_min": "8"
+    },
+    {
+      "seq": 12,
+      "station_name": "资阳北",
+      "arrive_time": "15:40",
+      "depart_time": "15:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "成都东",
+      "arrive_time": "16:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2311.0,
+    "price_first": 1092.0,
+    "price_second": 681.0,
+    "price_no_seat": 681.0
+  },
+  "fetched_at": "2026-05-01T06:38:35.753215"
+}

@@ -1,0 +1,112 @@
+{
+  "train_no": "T141",
+  "train_type": "T",
+  "depart_station": "郑州",
+  "arrive_station": "启东",
+  "depart_time": "23:36",
+  "arrive_time": "14:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州",
+      "arrive_time": "23:36",
+      "depart_time": "23:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开封",
+      "arrive_time": "00:16",
+      "depart_time": "00:20",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "兰考",
+      "arrive_time": "00:45",
+      "depart_time": "00:49",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "民权",
+      "arrive_time": "01:08",
+      "depart_time": "01:12",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "商丘",
+      "arrive_time": "01:45",
+      "depart_time": "01:50",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "徐州",
+      "arrive_time": "03:21",
+      "depart_time": "03:45",
+      "stay_min": "24"
+    },
+    {
+      "seq": 7,
+      "station_name": "灵璧",
+      "arrive_time": "04:58",
+      "depart_time": "05:05",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "泗县",
+      "arrive_time": "05:26",
+      "depart_time": "05:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "洋河",
+      "arrive_time": "06:19",
+      "depart_time": "06:26",
+      "stay_min": "7"
+    },
+    {
+      "seq": 10,
+      "station_name": "盐城",
+      "arrive_time": "09:11",
+      "depart_time": "09:16",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "海安",
+      "arrive_time": "11:20",
+      "depart_time": "11:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "南通",
+      "arrive_time": "13:08",
+      "depart_time": "13:16",
+      "stay_min": "8"
+    },
+    {
+      "seq": 13,
+      "station_name": "海门",
+      "arrive_time": "13:48",
+      "depart_time": "13:53",
+      "stay_min": "5"
+    },
+    {
+      "seq": 14,
+      "station_name": "启东",
+      "arrive_time": "14:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 128.5
+  },
+  "fetched_at": "2026-05-01T11:22:05.021037"
+}

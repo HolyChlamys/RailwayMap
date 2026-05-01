@@ -1,0 +1,42 @@
+{
+  "train_no": "T8301",
+  "train_type": "T",
+  "depart_station": "长沙",
+  "arrive_station": "广州白云",
+  "depart_time": "20:59",
+  "arrive_time": "23:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "20:59",
+      "depart_time": "20:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲",
+      "arrive_time": "21:41",
+      "depart_time": "21:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳",
+      "arrive_time": "23:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州白云",
+      "arrive_time": "23:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 98.0
+  },
+  "fetched_at": "2026-05-01T11:27:38.648073"
+}

@@ -1,0 +1,107 @@
+{
+  "train_no": "C495",
+  "train_type": "C",
+  "depart_station": "上海南",
+  "arrive_station": "庆元",
+  "depart_time": "14:33",
+  "arrive_time": "21:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "14:33",
+      "depart_time": "14:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉兴",
+      "arrive_time": "15:17",
+      "depart_time": "15:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "海宁",
+      "arrive_time": "15:35",
+      "depart_time": "15:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州",
+      "arrive_time": "16:18",
+      "depart_time": "16:28",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "诸暨",
+      "arrive_time": "17:12",
+      "depart_time": "17:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "义乌",
+      "arrive_time": "17:33",
+      "depart_time": "17:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "金华",
+      "arrive_time": "18:06",
+      "depart_time": "18:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "龙游",
+      "arrive_time": "18:33",
+      "depart_time": "18:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "衢州",
+      "arrive_time": "18:52",
+      "depart_time": "19:08",
+      "stay_min": "16"
+    },
+    {
+      "seq": 10,
+      "station_name": "遂昌",
+      "arrive_time": "19:45",
+      "depart_time": "19:48",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "松阳",
+      "arrive_time": "20:03",
+      "depart_time": "20:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "龙泉市",
+      "arrive_time": "20:38",
+      "depart_time": "20:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "庆元",
+      "arrive_time": "21:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 310.0,
+    "price_second": 194.0,
+    "price_no_seat": 194.0
+  },
+  "fetched_at": "2026-05-01T01:22:32.832309"
+}

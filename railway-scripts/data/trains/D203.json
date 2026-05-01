@@ -1,0 +1,92 @@
+{
+  "train_no": "D203",
+  "train_type": "D",
+  "depart_station": "聊城",
+  "arrive_station": "义乌",
+  "depart_time": "21:25",
+  "arrive_time": "10:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "聊城",
+      "arrive_time": "21:25",
+      "depart_time": "21:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "菏泽",
+      "arrive_time": "22:37",
+      "depart_time": "22:57",
+      "stay_min": "20"
+    },
+    {
+      "seq": 3,
+      "station_name": "巨野",
+      "arrive_time": "23:35",
+      "depart_time": "23:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "济宁",
+      "arrive_time": "00:08",
+      "depart_time": "00:11",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "兖州",
+      "arrive_time": "00:40",
+      "depart_time": "00:46",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "徐州",
+      "arrive_time": "02:14",
+      "depart_time": "02:23",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京",
+      "arrive_time": "05:13",
+      "depart_time": "05:19",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "无锡",
+      "arrive_time": "06:37",
+      "depart_time": "06:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "上海松江",
+      "arrive_time": "08:09",
+      "depart_time": "08:16",
+      "stay_min": "7"
+    },
+    {
+      "seq": 10,
+      "station_name": "杭州南",
+      "arrive_time": "09:46",
+      "depart_time": "09:52",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "义乌",
+      "arrive_time": "10:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 437.0,
+    "price_no_seat": 437.0
+  },
+  "fetched_at": "2026-05-01T03:09:50.511203"
+}

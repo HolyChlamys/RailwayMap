@@ -1,0 +1,73 @@
+{
+  "train_no": "G7608",
+  "train_type": "G",
+  "depart_station": "黄山北",
+  "arrive_station": "南京南",
+  "depart_time": "10:51",
+  "arrive_time": "13:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄山北",
+      "arrive_time": "10:51",
+      "depart_time": "10:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三阳",
+      "arrive_time": "11:15",
+      "depart_time": "11:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "千岛湖",
+      "arrive_time": "11:34",
+      "depart_time": "11:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "桐庐",
+      "arrive_time": "12:00",
+      "depart_time": "12:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州西",
+      "arrive_time": "12:29",
+      "depart_time": "12:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "湖州",
+      "arrive_time": "12:54",
+      "depart_time": "12:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宜兴",
+      "arrive_time": "13:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南京南",
+      "arrive_time": "13:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 849.0,
+    "price_first": 405.0,
+    "price_second": 254.0,
+    "price_no_seat": 254.0
+  },
+  "fetched_at": "2026-05-01T08:32:02.407385"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "C136",
+  "train_type": "C",
+  "depart_station": "曹妃甸港",
+  "arrive_station": "北京",
+  "depart_time": "20:40",
+  "arrive_time": "23:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "曹妃甸港",
+      "arrive_time": "20:40",
+      "depart_time": "20:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "唐山",
+      "arrive_time": "21:30",
+      "depart_time": "21:36",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "北京",
+      "arrive_time": "23:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 131.0,
+    "price_second": 82.0,
+    "price_no_seat": 82.0
+  },
+  "fetched_at": "2026-05-01T00:25:29.868820"
+}

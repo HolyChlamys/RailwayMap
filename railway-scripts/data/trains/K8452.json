@@ -1,0 +1,70 @@
+{
+  "train_no": "K8452",
+  "train_type": "K",
+  "depart_station": "宿松",
+  "arrive_station": "合肥",
+  "depart_time": "17:49",
+  "arrive_time": "20:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宿松",
+      "arrive_time": "17:49",
+      "depart_time": "17:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太湖",
+      "arrive_time": "18:23",
+      "depart_time": "18:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天柱山",
+      "arrive_time": "18:52",
+      "depart_time": "18:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀宁",
+      "arrive_time": "19:18",
+      "depart_time": "19:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "桐城",
+      "arrive_time": "19:47",
+      "depart_time": "19:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "庐江",
+      "arrive_time": "20:19",
+      "depart_time": "20:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "舒城",
+      "arrive_time": "20:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "合肥",
+      "arrive_time": "20:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:39:30.669613"
+}

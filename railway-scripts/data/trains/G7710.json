@@ -1,0 +1,52 @@
+{
+  "train_no": "G7710",
+  "train_type": "G",
+  "depart_station": "祁门南",
+  "arrive_station": "合肥南",
+  "depart_time": "09:45",
+  "arrive_time": "11:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "祁门南",
+      "arrive_time": "09:45",
+      "depart_time": "09:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄山北",
+      "arrive_time": "10:13",
+      "depart_time": "10:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "歙县北",
+      "arrive_time": "10:23",
+      "depart_time": "10:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "无为",
+      "arrive_time": "11:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥南",
+      "arrive_time": "11:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 567.5,
+    "price_first": 293.5,
+    "price_second": 175.5,
+    "price_no_seat": 175.5
+  },
+  "fetched_at": "2026-05-01T08:34:36.072507"
+}

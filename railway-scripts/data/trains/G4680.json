@@ -1,0 +1,59 @@
+{
+  "train_no": "G4680",
+  "train_type": "G",
+  "depart_station": "广州",
+  "arrive_station": "驻马店西",
+  "depart_time": "02:03",
+  "arrive_time": "06:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "02:03",
+      "depart_time": "02:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙南",
+      "arrive_time": "04:32",
+      "depart_time": "04:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武汉",
+      "arrive_time": "05:55",
+      "depart_time": "05:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "孝感北",
+      "arrive_time": "06:27",
+      "depart_time": "06:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "信阳东",
+      "arrive_time": "06:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "驻马店西",
+      "arrive_time": "06:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2420.0,
+    "price_first": 1102.0,
+    "price_second": 691.0,
+    "price_no_seat": 691.0
+  },
+  "fetched_at": "2026-05-01T07:12:29.559433"
+}

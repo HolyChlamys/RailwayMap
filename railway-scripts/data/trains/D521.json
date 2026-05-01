@@ -1,0 +1,72 @@
+{
+  "train_no": "D521",
+  "train_type": "D",
+  "depart_station": "长春",
+  "arrive_station": "佳木斯",
+  "depart_time": "14:27",
+  "arrive_time": "17:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "14:27",
+      "depart_time": "14:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "扶余北",
+      "arrive_time": "15:19",
+      "depart_time": "15:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "哈尔滨",
+      "arrive_time": "16:02",
+      "depart_time": "16:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宾州",
+      "arrive_time": "16:35",
+      "depart_time": "16:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "胜利镇",
+      "arrive_time": "16:54",
+      "depart_time": "16:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "方正",
+      "arrive_time": "17:20",
+      "depart_time": "17:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "依兰",
+      "arrive_time": "17:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "佳木斯",
+      "arrive_time": "17:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 356.0,
+    "price_second": 223.0,
+    "price_no_seat": 223.0
+  },
+  "fetched_at": "2026-05-01T04:02:28.104865"
+}

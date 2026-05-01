@@ -1,0 +1,85 @@
+{
+  "train_no": "D56",
+  "train_type": "D",
+  "depart_station": "上海南",
+  "arrive_station": "重庆北",
+  "depart_time": "19:40",
+  "arrive_time": "12:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "19:40",
+      "depart_time": "19:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉兴",
+      "arrive_time": "20:26",
+      "depart_time": "20:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州南",
+      "arrive_time": "21:32",
+      "depart_time": "21:38",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "义乌",
+      "arrive_time": "22:20",
+      "depart_time": "22:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "金华",
+      "arrive_time": "22:55",
+      "depart_time": "23:01",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "武昌",
+      "arrive_time": "05:04",
+      "depart_time": "05:12",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "宜昌东",
+      "arrive_time": "07:32",
+      "depart_time": "07:43",
+      "stay_min": "11"
+    },
+    {
+      "seq": 8,
+      "station_name": "恩施",
+      "arrive_time": "09:42",
+      "depart_time": "09:49",
+      "stay_min": "7"
+    },
+    {
+      "seq": 9,
+      "station_name": "涪陵北",
+      "arrive_time": "11:59",
+      "depart_time": "12:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "重庆北",
+      "arrive_time": "12:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 584.0,
+    "price_no_seat": 584.0
+  },
+  "fetched_at": "2026-05-01T04:09:02.984027"
+}

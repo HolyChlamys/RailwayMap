@@ -1,0 +1,44 @@
+{
+  "train_no": "D7435",
+  "train_type": "D",
+  "depart_station": "广州白云",
+  "arrive_station": "深圳",
+  "depart_time": "02:24",
+  "arrive_time": "03:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "02:24",
+      "depart_time": "02:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞",
+      "arrive_time": "03:11",
+      "depart_time": "03:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常平",
+      "arrive_time": "03:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳",
+      "arrive_time": "03:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 99.5,
+    "price_second": 79.5,
+    "price_no_seat": 79.5
+  },
+  "fetched_at": "2026-05-01T04:38:42.216787"
+}

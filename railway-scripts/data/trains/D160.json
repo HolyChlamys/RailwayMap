@@ -1,0 +1,100 @@
+{
+  "train_no": "D160",
+  "train_type": "D",
+  "depart_station": "衢州",
+  "arrive_station": "福州",
+  "depart_time": "16:06",
+  "arrive_time": "21:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "衢州",
+      "arrive_time": "16:06",
+      "depart_time": "16:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遂昌",
+      "arrive_time": "16:48",
+      "depart_time": "16:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "松阳",
+      "arrive_time": "17:06",
+      "depart_time": "17:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "龙泉市",
+      "arrive_time": "17:59",
+      "depart_time": "18:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "庆元",
+      "arrive_time": "18:39",
+      "depart_time": "18:45",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "松溪",
+      "arrive_time": "18:58",
+      "depart_time": "19:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "政和",
+      "arrive_time": "19:15",
+      "depart_time": "19:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "屏南",
+      "arrive_time": "19:58",
+      "depart_time": "20:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "周宁",
+      "arrive_time": "20:20",
+      "depart_time": "20:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "宁德",
+      "arrive_time": "20:47",
+      "depart_time": "21:00",
+      "stay_min": "13"
+    },
+    {
+      "seq": 11,
+      "station_name": "连江",
+      "arrive_time": "21:25",
+      "depart_time": "21:32",
+      "stay_min": "7"
+    },
+    {
+      "seq": 12,
+      "station_name": "福州",
+      "arrive_time": "21:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 251.0,
+    "price_second": 157.0,
+    "price_no_seat": 157.0
+  },
+  "fetched_at": "2026-05-01T03:00:47.590302"
+}

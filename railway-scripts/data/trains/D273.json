@@ -1,0 +1,114 @@
+{
+  "train_no": "D273",
+  "train_type": "D",
+  "depart_station": "西双版纳",
+  "arrive_station": "成都南",
+  "depart_time": "11:10",
+  "arrive_time": "22:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西双版纳",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普洱",
+      "arrive_time": "11:50",
+      "depart_time": "11:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "元江",
+      "arrive_time": "13:07",
+      "depart_time": "13:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "玉溪",
+      "arrive_time": "13:52",
+      "depart_time": "13:56",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明南",
+      "arrive_time": "14:35",
+      "depart_time": "14:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明",
+      "arrive_time": "14:58",
+      "depart_time": "15:04",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "广通北",
+      "arrive_time": "16:00",
+      "depart_time": "16:04",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "元谋西",
+      "arrive_time": "16:38",
+      "depart_time": "16:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "攀枝花南",
+      "arrive_time": "17:32",
+      "depart_time": "17:38",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "德昌西",
+      "arrive_time": "18:41",
+      "depart_time": "18:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "西昌西",
+      "arrive_time": "19:09",
+      "depart_time": "19:15",
+      "stay_min": "6"
+    },
+    {
+      "seq": 12,
+      "station_name": "越西",
+      "arrive_time": "20:02",
+      "depart_time": "20:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "峨眉",
+      "arrive_time": "21:18",
+      "depart_time": "21:22",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "成都南",
+      "arrive_time": "22:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 857.0,
+    "price_second": 535.0,
+    "price_no_seat": 535.0
+  },
+  "fetched_at": "2026-05-01T03:21:43.115281"
+}

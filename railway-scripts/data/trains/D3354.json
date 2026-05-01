@@ -1,0 +1,58 @@
+{
+  "train_no": "D3354",
+  "train_type": "D",
+  "depart_station": "郑州",
+  "arrive_station": "太原南",
+  "depart_time": "12:00",
+  "arrive_time": "14:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州",
+      "arrive_time": "12:00",
+      "depart_time": "12:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "焦作",
+      "arrive_time": "12:39",
+      "depart_time": "12:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "晋城东",
+      "arrive_time": "13:03",
+      "depart_time": "13:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长治东",
+      "arrive_time": "13:36",
+      "depart_time": "13:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "榆社西",
+      "arrive_time": "14:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "太原南",
+      "arrive_time": "14:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 354.0,
+    "price_second": 221.0,
+    "price_no_seat": 221.0
+  },
+  "fetched_at": "2026-05-01T03:32:37.909951"
+}

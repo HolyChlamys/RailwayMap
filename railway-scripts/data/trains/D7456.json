@@ -1,0 +1,44 @@
+{
+  "train_no": "D7456",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "潮汕",
+  "depart_time": "22:09",
+  "arrive_time": "23:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "22:09",
+      "depart_time": "22:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "陆丰",
+      "arrive_time": "23:12",
+      "depart_time": "23:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "普宁",
+      "arrive_time": "23:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潮汕",
+      "arrive_time": "23:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 217.0,
+    "price_second": 135.0,
+    "price_no_seat": 135.0
+  },
+  "fetched_at": "2026-05-01T04:39:07.064770"
+}

@@ -1,0 +1,33 @@
+{
+  "train_no": "Y351",
+  "train_type": "Y",
+  "depart_station": "牡丹江",
+  "arrive_station": "敦化",
+  "depart_time": "22:10",
+  "arrive_time": "16:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "牡丹江",
+      "arrive_time": "22:10",
+      "depart_time": "22:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "敦化",
+      "arrive_time": "17:20",
+      "depart_time": "17:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "敦化",
+      "arrive_time": "16:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:31:03.962027"
+}

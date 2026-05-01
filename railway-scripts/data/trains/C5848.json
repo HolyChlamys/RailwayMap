@@ -1,0 +1,64 @@
+{
+  "train_no": "C5848",
+  "train_type": "C",
+  "depart_station": "贵安",
+  "arrive_station": "遵义",
+  "depart_time": "09:37",
+  "arrive_time": "10:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵安",
+      "arrive_time": "09:37",
+      "depart_time": "09:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天河潭",
+      "arrive_time": "09:51",
+      "depart_time": "09:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "党武",
+      "arrive_time": "09:57",
+      "depart_time": "09:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "花溪大学城",
+      "arrive_time": "10:03",
+      "depart_time": "10:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳",
+      "arrive_time": "10:24",
+      "depart_time": "10:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳北",
+      "arrive_time": "10:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "遵义",
+      "arrive_time": "10:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 79.0,
+    "price_no_seat": 79.0
+  },
+  "fetched_at": "2026-05-01T01:40:06.343296"
+}

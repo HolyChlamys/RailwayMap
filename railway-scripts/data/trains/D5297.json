@@ -1,0 +1,37 @@
+{
+  "train_no": "D5297",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "汉中",
+  "depart_time": "22:23",
+  "arrive_time": "23:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "22:23",
+      "depart_time": "22:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "城固北",
+      "arrive_time": "23:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汉中",
+      "arrive_time": "23:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 186.0,
+    "price_second": 116.0,
+    "price_no_seat": 116.0
+  },
+  "fetched_at": "2026-05-01T04:04:15.474180"
+}

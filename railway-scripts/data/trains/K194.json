@@ -1,0 +1,77 @@
+{
+  "train_no": "K194",
+  "train_type": "K",
+  "depart_station": "银川",
+  "arrive_station": "呼和浩特",
+  "depart_time": "12:35",
+  "arrive_time": "18:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "12:35",
+      "depart_time": "12:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石嘴山南",
+      "arrive_time": "13:14",
+      "depart_time": "13:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠农",
+      "arrive_time": "13:53",
+      "depart_time": "13:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "乌海西",
+      "arrive_time": "14:15",
+      "depart_time": "14:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乌海",
+      "arrive_time": "14:47",
+      "depart_time": "14:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "16:19",
+      "depart_time": "16:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "乌拉山西",
+      "arrive_time": "17:28",
+      "depart_time": "17:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "包头",
+      "arrive_time": "18:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "呼和浩特",
+      "arrive_time": "18:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 93.0
+  },
+  "fetched_at": "2026-05-01T09:39:20.948121"
+}

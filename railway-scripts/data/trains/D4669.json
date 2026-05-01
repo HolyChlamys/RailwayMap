@@ -1,0 +1,58 @@
+{
+  "train_no": "D4669",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "珠海",
+  "depart_time": "23:11",
+  "arrive_time": "02:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "23:11",
+      "depart_time": "23:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宾阳",
+      "arrive_time": "23:38",
+      "depart_time": "23:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵港",
+      "arrive_time": "23:59",
+      "depart_time": "23:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "梧州南",
+      "arrive_time": "00:55",
+      "depart_time": "00:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "02:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "珠海",
+      "arrive_time": "02:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 490.0,
+    "price_second": 320.0,
+    "price_no_seat": 320.0
+  },
+  "fetched_at": "2026-05-01T03:54:54.357266"
+}

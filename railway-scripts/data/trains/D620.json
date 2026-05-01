@@ -1,0 +1,79 @@
+{
+  "train_no": "D620",
+  "train_type": "D",
+  "depart_station": "成都东",
+  "arrive_station": "武汉",
+  "depart_time": "07:00",
+  "arrive_time": "15:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "08:55",
+      "depart_time": "09:07",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "涪陵北",
+      "arrive_time": "09:47",
+      "depart_time": "09:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "恩施",
+      "arrive_time": "11:32",
+      "depart_time": "11:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "宜昌东",
+      "arrive_time": "13:23",
+      "depart_time": "13:27",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "荆州",
+      "arrive_time": "14:01",
+      "depart_time": "14:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "天门南",
+      "arrive_time": "14:44",
+      "depart_time": "14:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "汉口",
+      "arrive_time": "15:22",
+      "depart_time": "15:28",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "武汉",
+      "arrive_time": "15:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 736.0,
+    "price_second": 461.0,
+    "price_no_seat": 461.0
+  },
+  "fetched_at": "2026-05-01T04:18:56.957161"
+}

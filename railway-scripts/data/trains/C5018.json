@@ -1,0 +1,37 @@
+{
+  "train_no": "C5018",
+  "train_type": "C",
+  "depart_station": "黄冈东",
+  "arrive_station": "武汉",
+  "depart_time": "21:55",
+  "arrive_time": "22:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄冈东",
+      "arrive_time": "21:55",
+      "depart_time": "21:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄冈西",
+      "arrive_time": "22:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武汉",
+      "arrive_time": "22:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 50.0,
+    "price_second": 31.0,
+    "price_no_seat": 31.0
+  },
+  "fetched_at": "2026-05-01T01:24:20.062922"
+}

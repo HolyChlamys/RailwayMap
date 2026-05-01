@@ -1,0 +1,38 @@
+{
+  "train_no": "C85",
+  "train_type": "C",
+  "depart_station": "香格里拉",
+  "arrive_station": "昆明",
+  "depart_time": "17:25",
+  "arrive_time": "22:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香格里拉",
+      "arrive_time": "17:25",
+      "depart_time": "17:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丽江",
+      "arrive_time": "18:35",
+      "depart_time": "18:41",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "22:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 901.0,
+    "price_first": 462.0,
+    "price_second": 290.0,
+    "price_no_seat": 290.0
+  },
+  "fetched_at": "2026-05-01T02:33:50.902009"
+}

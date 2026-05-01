@@ -1,0 +1,38 @@
+{
+  "train_no": "C3214",
+  "train_type": "C",
+  "depart_station": "上海虹桥",
+  "arrive_station": "合肥南",
+  "depart_time": "01:22",
+  "arrive_time": "03:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "01:22",
+      "depart_time": "01:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "02:50",
+      "depart_time": "02:56",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "03:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 827.0,
+    "price_first": 388.0,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T00:54:11.603759"
+}

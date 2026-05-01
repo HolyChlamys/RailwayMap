@@ -1,0 +1,45 @@
+{
+  "train_no": "G6949",
+  "train_type": "G",
+  "depart_station": "青岛北",
+  "arrive_station": "荣成",
+  "depart_time": "15:47",
+  "arrive_time": "16:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "15:47",
+      "depart_time": "15:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海阳",
+      "arrive_time": "16:34",
+      "depart_time": "16:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "威海南海",
+      "arrive_time": "16:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "荣成",
+      "arrive_time": "16:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 479.0,
+    "price_first": 219.0,
+    "price_second": 137.0,
+    "price_no_seat": 137.0
+  },
+  "fetched_at": "2026-05-01T08:13:24.805937"
+}

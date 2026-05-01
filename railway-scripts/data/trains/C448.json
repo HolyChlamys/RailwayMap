@@ -1,0 +1,45 @@
+{
+  "train_no": "C448",
+  "train_type": "C",
+  "depart_station": "丽江",
+  "arrive_station": "昆明",
+  "depart_time": "19:35",
+  "arrive_time": "23:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丽江",
+      "arrive_time": "19:35",
+      "depart_time": "19:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹤庆",
+      "arrive_time": "19:54",
+      "depart_time": "19:57",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "楚雄",
+      "arrive_time": "22:38",
+      "depart_time": "22:42",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明",
+      "arrive_time": "23:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 658.0,
+    "price_first": 351.0,
+    "price_second": 220.0,
+    "price_no_seat": 220.0
+  },
+  "fetched_at": "2026-05-01T01:15:20.593843"
+}

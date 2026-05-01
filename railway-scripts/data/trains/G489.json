@@ -1,0 +1,73 @@
+{
+  "train_no": "G489",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "汉口",
+  "depart_time": "02:02",
+  "arrive_time": "08:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "02:02",
+      "depart_time": "02:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "03:29",
+      "depart_time": "03:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "万州北",
+      "arrive_time": "04:43",
+      "depart_time": "04:54",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "襄阳东",
+      "arrive_time": "06:42",
+      "depart_time": "06:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "随州南",
+      "arrive_time": "07:16",
+      "depart_time": "07:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "云梦东",
+      "arrive_time": "07:41",
+      "depart_time": "07:53",
+      "stay_min": "12"
+    },
+    {
+      "seq": 7,
+      "station_name": "孝感东",
+      "arrive_time": "08:04",
+      "depart_time": "08:08",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "汉口",
+      "arrive_time": "08:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2311.0,
+    "price_first": 1092.0,
+    "price_second": 681.0,
+    "price_no_seat": 681.0
+  },
+  "fetched_at": "2026-05-01T07:18:56.345794"
+}

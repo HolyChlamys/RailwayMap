@@ -1,0 +1,51 @@
+{
+  "train_no": "D9586",
+  "train_type": "D",
+  "depart_station": "永安南",
+  "arrive_station": "福州",
+  "depart_time": "21:09",
+  "arrive_time": "23:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "永安南",
+      "arrive_time": "21:09",
+      "depart_time": "21:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三明",
+      "arrive_time": "21:25",
+      "depart_time": "21:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "三明北",
+      "arrive_time": "21:43",
+      "depart_time": "21:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "尤溪",
+      "arrive_time": "22:04",
+      "depart_time": "22:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "福州",
+      "arrive_time": "23:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 160.0,
+    "price_second": 99.0,
+    "price_no_seat": 99.0
+  },
+  "fetched_at": "2026-05-01T05:19:08.406896"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "C8244",
+  "train_type": "C",
+  "depart_station": "银川",
+  "arrive_station": "惠农南",
+  "depart_time": "18:37",
+  "arrive_time": "19:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "18:37",
+      "depart_time": "18:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沙湖",
+      "arrive_time": "18:55",
+      "depart_time": "18:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石嘴山",
+      "arrive_time": "19:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "惠农南",
+      "arrive_time": "19:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 70.0,
+    "price_second": 44.0,
+    "price_no_seat": 44.0
+  },
+  "fetched_at": "2026-05-01T02:33:13.072461"
+}

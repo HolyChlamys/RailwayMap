@@ -1,0 +1,45 @@
+{
+  "train_no": "G6689",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "三门峡南",
+  "depart_time": "15:11",
+  "arrive_time": "16:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "15:11",
+      "depart_time": "15:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛阳龙门",
+      "arrive_time": "15:52",
+      "depart_time": "15:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "渑池南",
+      "arrive_time": "16:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "三门峡南",
+      "arrive_time": "16:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 512.0,
+    "price_first": 234.0,
+    "price_second": 146.0,
+    "price_no_seat": 146.0
+  },
+  "fetched_at": "2026-05-01T08:06:01.555778"
+}

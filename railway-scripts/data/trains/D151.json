@@ -1,0 +1,79 @@
+{
+  "train_no": "D151",
+  "train_type": "D",
+  "depart_station": "重庆北",
+  "arrive_station": "兰州",
+  "depart_time": "06:34",
+  "arrive_time": "11:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "06:34",
+      "depart_time": "06:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武胜",
+      "arrive_time": "07:32",
+      "depart_time": "07:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南部",
+      "arrive_time": "08:29",
+      "depart_time": "08:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阆中",
+      "arrive_time": "08:44",
+      "depart_time": "08:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "苍溪",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广元",
+      "arrive_time": "09:49",
+      "depart_time": "09:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "陇南",
+      "arrive_time": "10:55",
+      "depart_time": "10:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "哈达铺",
+      "arrive_time": "11:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "兰州",
+      "arrive_time": "11:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 395.0,
+    "price_second": 247.0,
+    "price_no_seat": 247.0
+  },
+  "fetched_at": "2026-05-01T03:00:32.766557"
+}

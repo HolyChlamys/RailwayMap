@@ -1,0 +1,66 @@
+{
+  "train_no": "G5257",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "定南南",
+  "depart_time": "09:24",
+  "arrive_time": "12:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "09:24",
+      "depart_time": "09:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "樟树东",
+      "arrive_time": "09:58",
+      "depart_time": "09:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吉安西",
+      "arrive_time": "10:28",
+      "depart_time": "10:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泰和",
+      "arrive_time": "10:42",
+      "depart_time": "10:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "赣州西",
+      "arrive_time": "11:32",
+      "depart_time": "11:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "信丰西",
+      "arrive_time": "12:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "定南南",
+      "arrive_time": "12:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 944.0,
+    "price_first": 480.0,
+    "price_second": 300.0,
+    "price_no_seat": 300.0
+  },
+  "fetched_at": "2026-05-01T07:29:21.788212"
+}

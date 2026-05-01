@@ -1,0 +1,134 @@
+{
+  "train_no": "D204",
+  "train_type": "D",
+  "depart_station": "义乌",
+  "arrive_station": "济南",
+  "depart_time": "11:57",
+  "arrive_time": "05:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "义乌",
+      "arrive_time": "11:57",
+      "depart_time": "11:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州南",
+      "arrive_time": "12:59",
+      "depart_time": "13:05",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "上海松江",
+      "arrive_time": "14:33",
+      "depart_time": "14:39",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "苏州",
+      "arrive_time": "16:05",
+      "depart_time": "16:09",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "无锡",
+      "arrive_time": "16:32",
+      "depart_time": "16:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "常州",
+      "arrive_time": "17:01",
+      "depart_time": "17:06",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "镇江",
+      "arrive_time": "17:42",
+      "depart_time": "17:57",
+      "stay_min": "15"
+    },
+    {
+      "seq": 8,
+      "station_name": "南京",
+      "arrive_time": "18:36",
+      "depart_time": "18:44",
+      "stay_min": "8"
+    },
+    {
+      "seq": 9,
+      "station_name": "蚌埠",
+      "arrive_time": "20:20",
+      "depart_time": "20:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "徐州",
+      "arrive_time": "21:48",
+      "depart_time": "22:04",
+      "stay_min": "16"
+    },
+    {
+      "seq": 11,
+      "station_name": "枣庄西",
+      "arrive_time": "22:44",
+      "depart_time": "22:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "滕州",
+      "arrive_time": "23:04",
+      "depart_time": "23:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "兖州",
+      "arrive_time": "23:39",
+      "depart_time": "23:59",
+      "stay_min": "20"
+    },
+    {
+      "seq": 14,
+      "station_name": "济宁",
+      "arrive_time": "00:24",
+      "depart_time": "00:28",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "菏泽",
+      "arrive_time": "01:38",
+      "depart_time": "02:25",
+      "stay_min": "47"
+    },
+    {
+      "seq": 16,
+      "station_name": "聊城",
+      "arrive_time": "03:46",
+      "depart_time": "04:05",
+      "stay_min": "19"
+    },
+    {
+      "seq": 17,
+      "station_name": "济南",
+      "arrive_time": "05:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 475.0,
+    "price_no_seat": 475.0
+  },
+  "fetched_at": "2026-05-01T03:09:52.160933"
+}

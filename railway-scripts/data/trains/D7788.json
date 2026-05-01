@@ -1,0 +1,73 @@
+{
+  "train_no": "D7788",
+  "train_type": "D",
+  "depart_station": "沈阳南",
+  "arrive_station": "赤峰",
+  "depart_time": "13:55",
+  "arrive_time": "17:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳南",
+      "arrive_time": "13:55",
+      "depart_time": "13:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳",
+      "arrive_time": "14:07",
+      "depart_time": "14:19",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "凌海南",
+      "arrive_time": "15:30",
+      "depart_time": "15:45",
+      "stay_min": "15"
+    },
+    {
+      "seq": 4,
+      "station_name": "锦州北",
+      "arrive_time": "15:56",
+      "depart_time": "15:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "辽宁朝阳",
+      "arrive_time": "16:26",
+      "depart_time": "16:32",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "宁城",
+      "arrive_time": "17:15",
+      "depart_time": "17:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "平庄",
+      "arrive_time": "17:32",
+      "depart_time": "17:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "赤峰",
+      "arrive_time": "17:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 695.0,
+    "price_first": 346.0,
+    "price_second": 216.0,
+    "price_no_seat": 216.0
+  },
+  "fetched_at": "2026-05-01T04:44:53.702909"
+}

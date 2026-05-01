@@ -1,0 +1,45 @@
+{
+  "train_no": "G7868",
+  "train_type": "G",
+  "depart_station": "平泉北",
+  "arrive_station": "北京朝阳",
+  "depart_time": "17:11",
+  "arrive_time": "18:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "平泉北",
+      "arrive_time": "17:11",
+      "depart_time": "17:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "承德南",
+      "arrive_time": "17:32",
+      "depart_time": "17:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "密云",
+      "arrive_time": "18:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "北京朝阳",
+      "arrive_time": "18:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 497.0,
+    "price_first": 227.0,
+    "price_second": 142.0,
+    "price_no_seat": 142.0
+  },
+  "fetched_at": "2026-05-01T08:38:44.569938"
+}

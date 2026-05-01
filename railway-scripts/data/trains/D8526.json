@@ -1,0 +1,79 @@
+{
+  "train_no": "D8526",
+  "train_type": "D",
+  "depart_station": "绥芬河",
+  "arrive_station": "哈尔滨西",
+  "depart_time": "17:07",
+  "arrive_time": "20:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "绥芬河",
+      "arrive_time": "17:07",
+      "depart_time": "17:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绥阳",
+      "arrive_time": "17:22",
+      "depart_time": "17:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "穆棱",
+      "arrive_time": "17:48",
+      "depart_time": "17:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "牡丹江",
+      "arrive_time": "18:23",
+      "depart_time": "18:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "横道河子东",
+      "arrive_time": "18:43",
+      "depart_time": "18:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "亚布力西",
+      "arrive_time": "19:01",
+      "depart_time": "19:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "阿城北",
+      "arrive_time": "19:46",
+      "depart_time": "19:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "哈尔滨",
+      "arrive_time": "20:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "哈尔滨西",
+      "arrive_time": "20:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 259.0,
+    "price_second": 162.0,
+    "price_no_seat": 162.0
+  },
+  "fetched_at": "2026-05-01T04:59:04.628801"
+}

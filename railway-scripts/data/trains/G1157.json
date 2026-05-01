@@ -1,0 +1,143 @@
+{
+  "train_no": "G1157",
+  "train_type": "G",
+  "depart_station": "广州",
+  "arrive_station": "巴东",
+  "depart_time": "13:30",
+  "arrive_time": "22:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "13:30",
+      "depart_time": "13:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "韶关",
+      "arrive_time": "14:28",
+      "depart_time": "14:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州西",
+      "arrive_time": "15:01",
+      "depart_time": "15:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "衡阳东",
+      "arrive_time": "15:35",
+      "depart_time": "15:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "衡山西",
+      "arrive_time": "15:50",
+      "depart_time": "15:58",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙南",
+      "arrive_time": "16:26",
+      "depart_time": "16:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "岳阳东",
+      "arrive_time": "17:01",
+      "depart_time": "17:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "咸宁北",
+      "arrive_time": "17:34",
+      "depart_time": "17:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "武汉",
+      "arrive_time": "18:02",
+      "depart_time": "18:07",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "汉口",
+      "arrive_time": "18:27",
+      "depart_time": "18:49",
+      "stay_min": "22"
+    },
+    {
+      "seq": 11,
+      "station_name": "云梦东",
+      "arrive_time": "19:23",
+      "depart_time": "19:32",
+      "stay_min": "9"
+    },
+    {
+      "seq": 12,
+      "station_name": "随州南",
+      "arrive_time": "19:53",
+      "depart_time": "19:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "襄阳东",
+      "arrive_time": "20:26",
+      "depart_time": "20:46",
+      "stay_min": "20"
+    },
+    {
+      "seq": 14,
+      "station_name": "南漳",
+      "arrive_time": "21:02",
+      "depart_time": "21:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "保康县",
+      "arrive_time": "21:23",
+      "depart_time": "21:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "神农架",
+      "arrive_time": "21:39",
+      "depart_time": "21:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "兴山",
+      "arrive_time": "21:54",
+      "depart_time": "21:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "巴东",
+      "arrive_time": "22:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2868.0,
+    "price_first": 1344.0,
+    "price_second": 842.0,
+    "price_no_seat": 842.0
+  },
+  "fetched_at": "2026-05-01T05:34:41.921739"
+}

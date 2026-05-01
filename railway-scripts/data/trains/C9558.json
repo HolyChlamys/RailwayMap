@@ -1,0 +1,44 @@
+{
+  "train_no": "C9558",
+  "train_type": "C",
+  "depart_station": "南昌东",
+  "arrive_station": "婺源",
+  "depart_time": "19:11",
+  "arrive_time": "20:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "19:11",
+      "depart_time": "19:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "余干",
+      "arrive_time": "19:32",
+      "depart_time": "19:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "景德镇北",
+      "arrive_time": "20:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "婺源",
+      "arrive_time": "20:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 191.0,
+    "price_second": 120.0,
+    "price_no_seat": 120.0
+  },
+  "fetched_at": "2026-05-01T02:49:08.900159"
+}

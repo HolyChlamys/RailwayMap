@@ -1,0 +1,52 @@
+{
+  "train_no": "G331",
+  "train_type": "G",
+  "depart_station": "北京西",
+  "arrive_station": "重庆北",
+  "depart_time": "15:10",
+  "arrive_time": "20:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "15:10",
+      "depart_time": "15:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "16:13",
+      "depart_time": "16:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "17:35",
+      "depart_time": "17:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "万州北",
+      "arrive_time": "20:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "重庆北",
+      "arrive_time": "20:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3185.0,
+    "price_first": 1505.0,
+    "price_second": 941.0,
+    "price_no_seat": 941.0
+  },
+  "fetched_at": "2026-05-01T06:34:25.437545"
+}

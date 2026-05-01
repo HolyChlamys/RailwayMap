@@ -1,0 +1,114 @@
+{
+  "train_no": "D1633",
+  "train_type": "D",
+  "depart_station": "青岛北",
+  "arrive_station": "太原南",
+  "depart_time": "16:17",
+  "arrive_time": "22:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "16:17",
+      "depart_time": "16:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "城阳",
+      "arrive_time": "16:29",
+      "depart_time": "16:37",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "胶州北",
+      "arrive_time": "16:51",
+      "depart_time": "16:59",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "潍坊",
+      "arrive_time": "17:36",
+      "depart_time": "17:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "青州市",
+      "arrive_time": "18:00",
+      "depart_time": "18:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "淄博",
+      "arrive_time": "18:21",
+      "depart_time": "18:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "济南东",
+      "arrive_time": "19:00",
+      "depart_time": "19:03",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "平原东",
+      "arrive_time": "19:31",
+      "depart_time": "19:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "德州东",
+      "arrive_time": "19:44",
+      "depart_time": "19:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "景州",
+      "arrive_time": "20:02",
+      "depart_time": "20:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "衡水北",
+      "arrive_time": "20:20",
+      "depart_time": "20:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "藁城南",
+      "arrive_time": "20:46",
+      "depart_time": "20:51",
+      "stay_min": "5"
+    },
+    {
+      "seq": 13,
+      "station_name": "石家庄",
+      "arrive_time": "21:12",
+      "depart_time": "21:26",
+      "stay_min": "14"
+    },
+    {
+      "seq": 14,
+      "station_name": "太原南",
+      "arrive_time": "22:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 533.0,
+    "price_second": 334.0,
+    "price_no_seat": 334.0
+  },
+  "fetched_at": "2026-05-01T03:01:40.346037"
+}

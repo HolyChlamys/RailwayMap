@@ -1,0 +1,28 @@
+{
+  "train_no": "S908",
+  "train_type": "S",
+  "depart_station": "天津北",
+  "arrive_station": "宝坻北",
+  "depart_time": "13:17",
+  "arrive_time": "13:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津北",
+      "arrive_time": "13:17",
+      "depart_time": "13:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宝坻北",
+      "arrive_time": "13:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 12.5
+  },
+  "fetched_at": "2026-05-01T11:20:35.610259"
+}

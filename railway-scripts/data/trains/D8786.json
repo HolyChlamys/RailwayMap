@@ -1,0 +1,80 @@
+{
+  "train_no": "D8786",
+  "train_type": "D",
+  "depart_station": "普者黑",
+  "arrive_station": "大理",
+  "depart_time": "17:21",
+  "arrive_time": "21:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "普者黑",
+      "arrive_time": "17:21",
+      "depart_time": "17:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆明南",
+      "arrive_time": "18:28",
+      "depart_time": "18:33",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "18:51",
+      "depart_time": "18:57",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "禄丰南",
+      "arrive_time": "19:37",
+      "depart_time": "19:41",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "广通北",
+      "arrive_time": "19:58",
+      "depart_time": "20:02",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "楚雄",
+      "arrive_time": "20:16",
+      "depart_time": "20:20",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "南华",
+      "arrive_time": "20:34",
+      "depart_time": "20:38",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "祥云",
+      "arrive_time": "21:08",
+      "depart_time": "21:11",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "大理",
+      "arrive_time": "21:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 689.5,
+    "price_first": 368.0,
+    "price_second": 230.5,
+    "price_no_seat": 230.5
+  },
+  "fetched_at": "2026-05-01T05:05:03.396455"
+}

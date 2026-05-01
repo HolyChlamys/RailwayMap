@@ -1,0 +1,72 @@
+{
+  "train_no": "C9919",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "湛江西",
+  "depart_time": "05:46",
+  "arrive_time": "08:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "05:46",
+      "depart_time": "05:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江门",
+      "arrive_time": "06:19",
+      "depart_time": "06:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "开平南",
+      "arrive_time": "06:44",
+      "depart_time": "06:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "恩平",
+      "arrive_time": "07:01",
+      "depart_time": "07:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "阳江",
+      "arrive_time": "07:27",
+      "depart_time": "07:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "茂名",
+      "arrive_time": "08:12",
+      "depart_time": "08:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "吴川",
+      "arrive_time": "08:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "湛江西",
+      "arrive_time": "08:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 404.0,
+    "price_second": 260.0,
+    "price_no_seat": 260.0
+  },
+  "fetched_at": "2026-05-01T02:54:13.041328"
+}

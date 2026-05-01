@@ -1,0 +1,45 @@
+{
+  "train_no": "D9934",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "重庆西",
+  "depart_time": "16:11",
+  "arrive_time": "17:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "16:11",
+      "depart_time": "16:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遵义",
+      "arrive_time": "16:58",
+      "depart_time": "16:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桐梓东",
+      "arrive_time": "17:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆西",
+      "arrive_time": "17:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 416.0,
+    "price_first": 222.0,
+    "price_second": 139.0,
+    "price_no_seat": 139.0
+  },
+  "fetched_at": "2026-05-01T05:28:26.613116"
+}

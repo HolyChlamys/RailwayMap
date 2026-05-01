@@ -1,0 +1,38 @@
+{
+  "train_no": "C2359",
+  "train_type": "C",
+  "depart_station": "南京南",
+  "arrive_station": "杭州东",
+  "depart_time": "22:37",
+  "arrive_time": "23:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "22:37",
+      "depart_time": "22:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜兴",
+      "arrive_time": "23:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "23:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 493.0,
+    "price_first": 225.0,
+    "price_second": 141.0,
+    "price_no_seat": 141.0
+  },
+  "fetched_at": "2026-05-01T00:36:59.572777"
+}

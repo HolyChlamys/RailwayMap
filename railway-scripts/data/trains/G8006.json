@@ -1,0 +1,87 @@
+{
+  "train_no": "G8006",
+  "train_type": "G",
+  "depart_station": "长春",
+  "arrive_station": "大连",
+  "depart_time": "07:30",
+  "arrive_time": "10:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长春西",
+      "arrive_time": "07:42",
+      "depart_time": "07:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "四平东",
+      "arrive_time": "08:10",
+      "depart_time": "08:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "铁岭西",
+      "arrive_time": "08:42",
+      "depart_time": "08:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳",
+      "arrive_time": "09:06",
+      "depart_time": "09:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "辽阳",
+      "arrive_time": "09:30",
+      "depart_time": "09:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "鞍山西",
+      "arrive_time": "09:43",
+      "depart_time": "09:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "营口东",
+      "arrive_time": "10:05",
+      "depart_time": "10:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "10:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "大连",
+      "arrive_time": "10:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 602.0,
+    "price_first": 606.0,
+    "price_second": 379.0,
+    "price_no_seat": 379.0
+  },
+  "fetched_at": "2026-05-01T08:42:25.424784"
+}

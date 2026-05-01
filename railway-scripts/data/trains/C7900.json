@@ -1,0 +1,87 @@
+{
+  "train_no": "C7900",
+  "train_type": "C",
+  "depart_station": "深圳北",
+  "arrive_station": "梅州西",
+  "depart_time": "05:28",
+  "arrive_time": "07:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "05:28",
+      "depart_time": "05:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "仲恺",
+      "arrive_time": "05:53",
+      "depart_time": "05:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "06:04",
+      "depart_time": "06:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "博罗北",
+      "arrive_time": "06:19",
+      "depart_time": "06:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "河源东",
+      "arrive_time": "06:32",
+      "depart_time": "06:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "河源北",
+      "arrive_time": "06:47",
+      "depart_time": "06:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "龙川西",
+      "arrive_time": "07:02",
+      "depart_time": "07:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "五华",
+      "arrive_time": "07:21",
+      "depart_time": "07:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "兴宁南",
+      "arrive_time": "07:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "梅州西",
+      "arrive_time": "07:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 711.0,
+    "price_first": 325.0,
+    "price_second": 203.0,
+    "price_no_seat": 203.0
+  },
+  "fetched_at": "2026-05-01T02:27:37.365769"
+}

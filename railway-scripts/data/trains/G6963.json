@@ -1,0 +1,80 @@
+{
+  "train_no": "G6963",
+  "train_type": "G",
+  "depart_station": "济南西",
+  "arrive_station": "日照",
+  "depart_time": "18:29",
+  "arrive_time": "21:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "18:29",
+      "depart_time": "18:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南东",
+      "arrive_time": "18:54",
+      "depart_time": "18:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "章丘北",
+      "arrive_time": "19:09",
+      "depart_time": "19:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "邹平",
+      "arrive_time": "19:21",
+      "depart_time": "19:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "淄博北",
+      "arrive_time": "19:36",
+      "depart_time": "19:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "潍坊北",
+      "arrive_time": "20:06",
+      "depart_time": "20:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "青岛机场",
+      "arrive_time": "20:35",
+      "depart_time": "20:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "青岛西",
+      "arrive_time": "21:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "日照",
+      "arrive_time": "21:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 633.0,
+    "price_first": 337.0,
+    "price_second": 211.0,
+    "price_no_seat": 211.0
+  },
+  "fetched_at": "2026-05-01T08:13:49.711395"
+}

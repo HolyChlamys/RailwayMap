@@ -1,0 +1,45 @@
+{
+  "train_no": "G4302",
+  "train_type": "G",
+  "depart_station": "温州南",
+  "arrive_station": "武汉",
+  "depart_time": "21:31",
+  "arrive_time": "02:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "温州南",
+      "arrive_time": "21:31",
+      "depart_time": "21:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州西",
+      "arrive_time": "22:56",
+      "depart_time": "23:00",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "00:51",
+      "depart_time": "00:56",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "武汉",
+      "arrive_time": "02:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1977.0,
+    "price_first": 942.0,
+    "price_second": 590.0,
+    "price_no_seat": 590.0
+  },
+  "fetched_at": "2026-05-01T07:01:35.650085"
+}

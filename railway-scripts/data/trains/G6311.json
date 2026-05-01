@@ -1,0 +1,66 @@
+{
+  "train_no": "G6311",
+  "train_type": "G",
+  "depart_station": "梅州西",
+  "arrive_station": "深圳",
+  "depart_time": "07:23",
+  "arrive_time": "08:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梅州西",
+      "arrive_time": "07:23",
+      "depart_time": "07:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴宁南",
+      "arrive_time": "07:37",
+      "depart_time": "07:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "五华",
+      "arrive_time": "07:48",
+      "depart_time": "07:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙川西",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "河源东",
+      "arrive_time": "08:27",
+      "depart_time": "08:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "惠州北",
+      "arrive_time": "08:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳",
+      "arrive_time": "08:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 765.0,
+    "price_first": 334.0,
+    "price_second": 219.0,
+    "price_no_seat": 219.0
+  },
+  "fetched_at": "2026-05-01T07:55:03.064876"
+}

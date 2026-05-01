@@ -1,0 +1,66 @@
+{
+  "train_no": "G1566",
+  "train_type": "G",
+  "depart_station": "淮北",
+  "arrive_station": "北京南",
+  "depart_time": "07:22",
+  "arrive_time": "10:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "淮北",
+      "arrive_time": "07:22",
+      "depart_time": "07:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "徐州东",
+      "arrive_time": "08:17",
+      "depart_time": "08:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "曲阜东",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泰安",
+      "arrive_time": "09:24",
+      "depart_time": "09:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "济南西",
+      "arrive_time": "09:44",
+      "depart_time": "09:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "天津南",
+      "arrive_time": "10:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "北京南",
+      "arrive_time": "10:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1414.0,
+    "price_first": 649.0,
+    "price_second": 406.0,
+    "price_no_seat": 406.0
+  },
+  "fetched_at": "2026-05-01T05:46:48.939520"
+}

@@ -1,0 +1,66 @@
+{
+  "train_no": "G8780",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "宜宾西",
+  "depart_time": "17:38",
+  "arrive_time": "20:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "17:38",
+      "depart_time": "17:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黔西",
+      "arrive_time": "18:35",
+      "depart_time": "18:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "毕节",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "镇雄",
+      "arrive_time": "19:25",
+      "depart_time": "19:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "威信",
+      "arrive_time": "19:38",
+      "depart_time": "19:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兴文",
+      "arrive_time": "20:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宜宾西",
+      "arrive_time": "20:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 561.0,
+    "price_first": 299.0,
+    "price_second": 187.0,
+    "price_no_seat": 187.0
+  },
+  "fetched_at": "2026-05-01T09:00:19.936912"
+}

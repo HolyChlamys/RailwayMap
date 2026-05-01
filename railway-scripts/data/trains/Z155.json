@@ -1,0 +1,91 @@
+{
+  "train_no": "Z155",
+  "train_type": "Z",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "泰州",
+  "depart_time": "10:20",
+  "arrive_time": "10:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "10:20",
+      "depart_time": "10:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长春",
+      "arrive_time": "12:21",
+      "depart_time": "12:31",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "沈阳北",
+      "arrive_time": "15:02",
+      "depart_time": "15:13",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "绥中北",
+      "arrive_time": "17:36",
+      "depart_time": "17:53",
+      "stay_min": "17"
+    },
+    {
+      "seq": 5,
+      "station_name": "北京丰台",
+      "arrive_time": "21:20",
+      "depart_time": "21:48",
+      "stay_min": "28"
+    },
+    {
+      "seq": 6,
+      "station_name": "徐州",
+      "arrive_time": "04:27",
+      "depart_time": "04:52",
+      "stay_min": "25"
+    },
+    {
+      "seq": 7,
+      "station_name": "沭阳",
+      "arrive_time": "06:35",
+      "depart_time": "06:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "淮安",
+      "arrive_time": "07:20",
+      "depart_time": "07:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "盐城",
+      "arrive_time": "08:46",
+      "depart_time": "08:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "东台",
+      "arrive_time": "09:31",
+      "depart_time": "09:35",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "泰州",
+      "arrive_time": "10:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 273.5
+  },
+  "fetched_at": "2026-05-01T11:43:40.042044"
+}

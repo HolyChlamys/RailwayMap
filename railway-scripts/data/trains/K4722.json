@@ -1,0 +1,84 @@
+{
+  "train_no": "K4722",
+  "train_type": "K",
+  "depart_station": "厦门北",
+  "arrive_station": "渠县",
+  "depart_time": "13:07",
+  "arrive_time": "18:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "13:07",
+      "depart_time": "13:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙岩",
+      "arrive_time": "15:30",
+      "depart_time": "15:35",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "长汀南",
+      "arrive_time": "16:38",
+      "depart_time": "16:52",
+      "stay_min": "14"
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州",
+      "arrive_time": "18:43",
+      "depart_time": "19:06",
+      "stay_min": "23"
+    },
+    {
+      "seq": 5,
+      "station_name": "泰和",
+      "arrive_time": "21:00",
+      "depart_time": "21:15",
+      "stay_min": "15"
+    },
+    {
+      "seq": 6,
+      "station_name": "吉安",
+      "arrive_time": "21:38",
+      "depart_time": "21:43",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "安康",
+      "arrive_time": "13:52",
+      "depart_time": "14:03",
+      "stay_min": "11"
+    },
+    {
+      "seq": 8,
+      "station_name": "宣汉",
+      "arrive_time": "16:51",
+      "depart_time": "16:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "达州",
+      "arrive_time": "17:38",
+      "depart_time": "17:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "渠县",
+      "arrive_time": "18:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T09:58:13.014833"
+}

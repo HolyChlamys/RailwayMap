@@ -1,0 +1,66 @@
+{
+  "train_no": "G7387",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "庐江西",
+  "depart_time": "10:48",
+  "arrive_time": "13:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "10:48",
+      "depart_time": "10:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "无锡东",
+      "arrive_time": "11:16",
+      "depart_time": "11:25",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "常州北",
+      "arrive_time": "11:41",
+      "depart_time": "11:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "12:16",
+      "depart_time": "12:25",
+      "stay_min": "9"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥南",
+      "arrive_time": "13:13",
+      "depart_time": "13:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "舒城东",
+      "arrive_time": "13:36",
+      "depart_time": "13:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "庐江西",
+      "arrive_time": "13:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 966.0,
+    "price_first": 451.0,
+    "price_second": 283.0,
+    "price_no_seat": 283.0
+  },
+  "fetched_at": "2026-05-01T08:26:02.806948"
+}

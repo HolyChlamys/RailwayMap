@@ -1,0 +1,42 @@
+{
+  "train_no": "K4222",
+  "train_type": "K",
+  "depart_station": "东莞东",
+  "arrive_station": "龙川",
+  "depart_time": "17:00",
+  "arrive_time": "18:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东莞东",
+      "arrive_time": "17:00",
+      "depart_time": "17:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠州",
+      "arrive_time": "17:48",
+      "depart_time": "17:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "河源",
+      "arrive_time": "18:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙川",
+      "arrive_time": "18:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 265.5
+  },
+  "fetched_at": "2026-05-01T09:50:27.211564"
+}

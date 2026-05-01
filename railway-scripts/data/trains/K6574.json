@@ -1,0 +1,35 @@
+{
+  "train_no": "K6574",
+  "train_type": "K",
+  "depart_station": "广州白云",
+  "arrive_station": "长沙",
+  "depart_time": "01:10",
+  "arrive_time": "08:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "01:10",
+      "depart_time": "01:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲",
+      "arrive_time": "08:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙",
+      "arrive_time": "08:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 98.0
+  },
+  "fetched_at": "2026-05-01T10:23:12.295363"
+}

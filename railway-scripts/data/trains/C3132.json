@@ -1,0 +1,58 @@
+{
+  "train_no": "C3132",
+  "train_type": "C",
+  "depart_station": "芜湖",
+  "arrive_station": "徐州东",
+  "depart_time": "23:16",
+  "arrive_time": "02:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "芜湖",
+      "arrive_time": "23:16",
+      "depart_time": "23:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "23:46",
+      "depart_time": "23:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "扬州东",
+      "arrive_time": "00:42",
+      "depart_time": "00:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "淮安东",
+      "arrive_time": "01:23",
+      "depart_time": "01:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "宿迁",
+      "arrive_time": "01:53",
+      "depart_time": "01:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "徐州东",
+      "arrive_time": "02:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 429.0,
+    "price_second": 270.0,
+    "price_no_seat": 270.0
+  },
+  "fetched_at": "2026-05-01T00:52:00.075448"
+}

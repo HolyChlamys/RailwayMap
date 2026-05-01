@@ -1,0 +1,79 @@
+{
+  "train_no": "D262",
+  "train_type": "D",
+  "depart_station": "昆明",
+  "arrive_station": "成都南",
+  "depart_time": "15:43",
+  "arrive_time": "21:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "15:43",
+      "depart_time": "15:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "元谋西",
+      "arrive_time": "17:14",
+      "depart_time": "17:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "永仁",
+      "arrive_time": "17:42",
+      "depart_time": "17:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "攀枝花南",
+      "arrive_time": "18:15",
+      "depart_time": "18:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "德昌西",
+      "arrive_time": "19:17",
+      "depart_time": "19:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西昌西",
+      "arrive_time": "19:47",
+      "depart_time": "19:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "甘洛南",
+      "arrive_time": "20:55",
+      "depart_time": "20:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "峨眉",
+      "arrive_time": "21:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "成都南",
+      "arrive_time": "21:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 459.0,
+    "price_second": 286.0,
+    "price_no_seat": 286.0
+  },
+  "fetched_at": "2026-05-01T03:19:13.945087"
+}

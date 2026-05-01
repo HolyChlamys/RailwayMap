@@ -1,0 +1,38 @@
+{
+  "train_no": "G9309",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "宁波",
+  "depart_time": "21:42",
+  "arrive_time": "22:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "21:42",
+      "depart_time": "21:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "余姚北",
+      "arrive_time": "22:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁波",
+      "arrive_time": "22:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 298.0,
+    "price_first": 136.0,
+    "price_second": 85.0,
+    "price_no_seat": 85.0
+  },
+  "fetched_at": "2026-05-01T09:11:06.992172"
+}

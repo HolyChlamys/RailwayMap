@@ -1,0 +1,58 @@
+{
+  "train_no": "D6048",
+  "train_type": "D",
+  "depart_station": "钢城",
+  "arrive_station": "济南东",
+  "depart_time": "17:53",
+  "arrive_time": "18:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "钢城",
+      "arrive_time": "17:53",
+      "depart_time": "17:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莱芜北",
+      "arrive_time": "18:07",
+      "depart_time": "18:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "雪野",
+      "arrive_time": "18:19",
+      "depart_time": "18:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "章丘南",
+      "arrive_time": "18:30",
+      "depart_time": "18:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "历城",
+      "arrive_time": "18:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "济南东",
+      "arrive_time": "18:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 84.0,
+    "price_second": 52.0,
+    "price_no_seat": 52.0
+  },
+  "fetched_at": "2026-05-01T04:15:49.579583"
+}

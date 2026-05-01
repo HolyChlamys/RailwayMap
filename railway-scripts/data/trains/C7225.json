@@ -1,0 +1,45 @@
+{
+  "train_no": "C7225",
+  "train_type": "C",
+  "depart_station": "长沙南",
+  "arrive_station": "邵阳",
+  "depart_time": "20:58",
+  "arrive_time": "22:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "娄底南",
+      "arrive_time": "21:35",
+      "depart_time": "21:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "邵东",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "邵阳",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 339.0,
+    "price_first": 162.0,
+    "price_second": 101.5,
+    "price_no_seat": 101.5
+  },
+  "fetched_at": "2026-05-01T02:09:32.367062"
+}

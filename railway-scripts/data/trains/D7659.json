@@ -1,0 +1,38 @@
+{
+  "train_no": "D7659",
+  "train_type": "D",
+  "depart_station": "沈阳",
+  "arrive_station": "丹东",
+  "depart_time": "20:49",
+  "arrive_time": "21:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "20:49",
+      "depart_time": "20:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "本溪",
+      "arrive_time": "21:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "丹东",
+      "arrive_time": "21:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 211.0,
+    "price_first": 113.0,
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T04:42:26.517694"
+}

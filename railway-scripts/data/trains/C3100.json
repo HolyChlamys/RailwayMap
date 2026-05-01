@@ -1,0 +1,52 @@
+{
+  "train_no": "C3100",
+  "train_type": "C",
+  "depart_station": "上海",
+  "arrive_station": "徐州东",
+  "depart_time": "21:40",
+  "arrive_time": "23:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州北",
+      "arrive_time": "22:10",
+      "depart_time": "22:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常州北",
+      "arrive_time": "22:34",
+      "depart_time": "22:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "23:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "徐州东",
+      "arrive_time": "23:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 937.0,
+    "price_first": 442.0,
+    "price_second": 277.0,
+    "price_no_seat": 277.0
+  },
+  "fetched_at": "2026-05-01T00:51:02.549201"
+}

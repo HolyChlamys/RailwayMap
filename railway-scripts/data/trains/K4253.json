@@ -1,0 +1,35 @@
+{
+  "train_no": "K4253",
+  "train_type": "K",
+  "depart_station": "驻马店",
+  "arrive_station": "深圳东",
+  "depart_time": "23:33",
+  "arrive_time": "01:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "驻马店",
+      "arrive_time": "23:33",
+      "depart_time": "23:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "信阳",
+      "arrive_time": "01:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳东",
+      "arrive_time": "01:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 180.5
+  },
+  "fetched_at": "2026-05-01T09:51:06.913451"
+}

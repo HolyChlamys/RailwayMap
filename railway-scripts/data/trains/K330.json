@@ -1,0 +1,112 @@
+{
+  "train_no": "K330",
+  "train_type": "K",
+  "depart_station": "洛阳",
+  "arrive_station": "天津",
+  "depart_time": "17:23",
+  "arrive_time": "06:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "洛阳",
+      "arrive_time": "17:23",
+      "depart_time": "17:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巩义",
+      "arrive_time": "18:03",
+      "depart_time": "18:08",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州",
+      "arrive_time": "19:06",
+      "depart_time": "19:12",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "开封",
+      "arrive_time": "19:59",
+      "depart_time": "20:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "兰考",
+      "arrive_time": "20:30",
+      "depart_time": "20:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "民权",
+      "arrive_time": "20:55",
+      "depart_time": "20:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "商丘",
+      "arrive_time": "21:34",
+      "depart_time": "21:41",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "曹县",
+      "arrive_time": "22:19",
+      "depart_time": "22:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "菏泽",
+      "arrive_time": "22:55",
+      "depart_time": "23:00",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "聊城",
+      "arrive_time": "00:28",
+      "depart_time": "00:34",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "衡水",
+      "arrive_time": "02:26",
+      "depart_time": "02:31",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "任丘",
+      "arrive_time": "03:45",
+      "depart_time": "03:56",
+      "stay_min": "11"
+    },
+    {
+      "seq": 13,
+      "station_name": "霸州",
+      "arrive_time": "04:48",
+      "depart_time": "04:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "天津",
+      "arrive_time": "06:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 128.5
+  },
+  "fetched_at": "2026-05-01T09:43:39.039031"
+}

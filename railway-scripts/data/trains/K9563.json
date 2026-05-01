@@ -1,0 +1,42 @@
+{
+  "train_no": "K9563",
+  "train_type": "K",
+  "depart_station": "重庆北",
+  "arrive_station": "南充",
+  "depart_time": "13:12",
+  "arrive_time": "15:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "13:12",
+      "depart_time": "13:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广安南",
+      "arrive_time": "14:26",
+      "depart_time": "14:37",
+      "stay_min": "11"
+    },
+    {
+      "seq": 3,
+      "station_name": "岳池",
+      "arrive_time": "14:50",
+      "depart_time": "14:57",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "南充",
+      "arrive_time": "15:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 33.5
+  },
+  "fetched_at": "2026-05-01T10:47:01.952259"
+}

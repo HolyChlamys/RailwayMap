@@ -1,0 +1,30 @@
+{
+  "train_no": "D8565",
+  "train_type": "D",
+  "depart_station": "重庆西",
+  "arrive_station": "綦江东",
+  "depart_time": "22:08",
+  "arrive_time": "22:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "22:08",
+      "depart_time": "22:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "綦江东",
+      "arrive_time": "22:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 39.0,
+    "price_second": 24.0,
+    "price_no_seat": 24.0
+  },
+  "fetched_at": "2026-05-01T04:59:44.176355"
+}

@@ -1,0 +1,94 @@
+{
+  "train_no": "G4439",
+  "train_type": "G",
+  "depart_station": "华山北",
+  "arrive_station": "成都东",
+  "depart_time": "02:17",
+  "arrive_time": "06:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "华山北",
+      "arrive_time": "02:17",
+      "depart_time": "02:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西安北",
+      "arrive_time": "02:49",
+      "depart_time": "03:04",
+      "stay_min": "15"
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "03:52",
+      "depart_time": "03:58",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "城固北",
+      "arrive_time": "04:05",
+      "depart_time": "04:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "万州北",
+      "arrive_time": "05:07",
+      "depart_time": "05:11",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "汉中",
+      "arrive_time": "04:20",
+      "depart_time": "04:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "巫山",
+      "arrive_time": "05:53",
+      "depart_time": "05:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "广元",
+      "arrive_time": "05:10",
+      "depart_time": "05:14",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "巴东",
+      "arrive_time": "06:33",
+      "depart_time": "06:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "绵阳",
+      "arrive_time": "06:03",
+      "depart_time": "06:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "成都东",
+      "arrive_time": "06:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1338.0,
+    "price_first": 612.0,
+    "price_second": 383.0,
+    "price_no_seat": 383.0
+  },
+  "fetched_at": "2026-05-01T07:05:31.639078"
+}

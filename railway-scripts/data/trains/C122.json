@@ -1,0 +1,52 @@
+{
+  "train_no": "C122",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "香格里拉",
+  "depart_time": "13:12",
+  "arrive_time": "18:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "13:12",
+      "depart_time": "13:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "楚雄",
+      "arrive_time": "14:18",
+      "depart_time": "14:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "鹤庆",
+      "arrive_time": "16:26",
+      "depart_time": "16:32",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "丽江",
+      "arrive_time": "16:56",
+      "depart_time": "17:03",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "香格里拉",
+      "arrive_time": "18:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 901.0,
+    "price_first": 462.0,
+    "price_second": 290.0,
+    "price_no_seat": 290.0
+  },
+  "fetched_at": "2026-05-01T00:23:22.028257"
+}

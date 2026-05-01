@@ -1,0 +1,51 @@
+{
+  "train_no": "D1198",
+  "train_type": "D",
+  "depart_station": "银川",
+  "arrive_station": "包头",
+  "depart_time": "06:52",
+  "arrive_time": "08:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "06:52",
+      "depart_time": "06:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石嘴山",
+      "arrive_time": "07:15",
+      "depart_time": "07:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠农南",
+      "arrive_time": "07:32",
+      "depart_time": "07:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "08:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "包头",
+      "arrive_time": "08:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 509.0,
+    "price_second": 318.0,
+    "price_no_seat": 318.0
+  },
+  "fetched_at": "2026-05-01T02:59:19.999578"
+}

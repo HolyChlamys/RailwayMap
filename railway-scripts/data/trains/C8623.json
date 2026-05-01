@@ -1,0 +1,45 @@
+{
+  "train_no": "C8623",
+  "train_type": "C",
+  "depart_station": "南宁",
+  "arrive_station": "崇左南",
+  "depart_time": "18:42",
+  "arrive_time": "19:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁",
+      "arrive_time": "18:42",
+      "depart_time": "18:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吴圩机场",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "扶绥南",
+      "arrive_time": "19:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "崇左南",
+      "arrive_time": "19:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 212.0,
+    "price_first": 97.0,
+    "price_second": 61.0,
+    "price_no_seat": 61.0
+  },
+  "fetched_at": "2026-05-01T02:34:43.587681"
+}

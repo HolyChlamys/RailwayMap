@@ -1,0 +1,51 @@
+{
+  "train_no": "D8692",
+  "train_type": "D",
+  "depart_station": "昆明南",
+  "arrive_station": "大理",
+  "depart_time": "09:13",
+  "arrive_time": "11:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "09:13",
+      "depart_time": "09:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆明",
+      "arrive_time": "09:31",
+      "depart_time": "09:35",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "楚雄",
+      "arrive_time": "10:36",
+      "depart_time": "10:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "祥云",
+      "arrive_time": "11:20",
+      "depart_time": "11:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "大理",
+      "arrive_time": "11:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 247.5,
+    "price_second": 155.5,
+    "price_no_seat": 155.5
+  },
+  "fetched_at": "2026-05-01T05:02:57.597268"
+}

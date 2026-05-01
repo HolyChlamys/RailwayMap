@@ -1,0 +1,37 @@
+{
+  "train_no": "D7820",
+  "train_type": "D",
+  "depart_station": "佳木斯",
+  "arrive_station": "哈尔滨",
+  "depart_time": "12:18",
+  "arrive_time": "13:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佳木斯",
+      "arrive_time": "12:18",
+      "depart_time": "12:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "胜利镇",
+      "arrive_time": "13:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "哈尔滨",
+      "arrive_time": "13:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 203.0,
+    "price_second": 127.0,
+    "price_no_seat": 127.0
+  },
+  "fetched_at": "2026-05-01T04:45:26.908223"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "C3138",
+  "train_type": "C",
+  "depart_station": "连云港",
+  "arrive_station": "南京",
+  "depart_time": "22:56",
+  "arrive_time": "01:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "连云港",
+      "arrive_time": "22:56",
+      "depart_time": "22:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮安东",
+      "arrive_time": "23:41",
+      "depart_time": "23:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "扬州东",
+      "arrive_time": "00:22",
+      "depart_time": "00:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京",
+      "arrive_time": "01:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 527.0,
+    "price_first": 245.0,
+    "price_second": 153.0,
+    "price_no_seat": 153.0
+  },
+  "fetched_at": "2026-05-01T00:52:08.212766"
+}

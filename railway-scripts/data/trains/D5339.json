@@ -1,0 +1,30 @@
+{
+  "train_no": "D5339",
+  "train_type": "D",
+  "depart_station": "太原南",
+  "arrive_station": "侯马西",
+  "depart_time": "06:19",
+  "arrive_time": "06:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "06:19",
+      "depart_time": "06:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "侯马西",
+      "arrive_time": "06:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 173.0,
+    "price_second": 108.0,
+    "price_no_seat": 108.0
+  },
+  "fetched_at": "2026-05-01T04:05:01.590538"
+}

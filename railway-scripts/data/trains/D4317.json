@@ -1,0 +1,65 @@
+{
+  "train_no": "D4317",
+  "train_type": "D",
+  "depart_station": "厦门北",
+  "arrive_station": "深圳北",
+  "depart_time": "21:45",
+  "arrive_time": "23:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "22:06",
+      "depart_time": "22:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "云霄",
+      "arrive_time": "22:36",
+      "depart_time": "22:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潮汕",
+      "arrive_time": "23:09",
+      "depart_time": "23:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "普宁",
+      "arrive_time": "23:28",
+      "depart_time": "23:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "汕尾",
+      "arrive_time": "23:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳北",
+      "arrive_time": "23:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 365.0,
+    "price_second": 228.0,
+    "price_no_seat": 228.0
+  },
+  "fetched_at": "2026-05-01T03:47:37.658995"
+}

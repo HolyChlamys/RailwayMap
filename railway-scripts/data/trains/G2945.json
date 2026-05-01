@@ -1,0 +1,59 @@
+{
+  "train_no": "G2945",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "深圳北",
+  "depart_time": "15:09",
+  "arrive_time": "19:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "15:09",
+      "depart_time": "15:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "都匀东",
+      "arrive_time": "15:53",
+      "depart_time": "15:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贺州",
+      "arrive_time": "17:46",
+      "depart_time": "17:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "19:07",
+      "depart_time": "19:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "虎门",
+      "arrive_time": "19:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "19:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1742.0,
+    "price_first": 805.5,
+    "price_second": 515.5,
+    "price_no_seat": 515.5
+  },
+  "fetched_at": "2026-05-01T06:24:29.241191"
+}

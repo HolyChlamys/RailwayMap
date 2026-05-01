@@ -1,0 +1,28 @@
+{
+  "train_no": "K6733",
+  "train_type": "K",
+  "depart_station": "阿克苏",
+  "arrive_station": "图木舒克",
+  "depart_time": "16:05",
+  "arrive_time": "16:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阿克苏",
+      "arrive_time": "16:05",
+      "depart_time": "16:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "图木舒克",
+      "arrive_time": "16:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:25:29.876631"
+}

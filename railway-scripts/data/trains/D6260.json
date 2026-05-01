@@ -1,0 +1,72 @@
+{
+  "train_no": "D6260",
+  "train_type": "D",
+  "depart_station": "南昌",
+  "arrive_station": "景德镇北",
+  "depart_time": "17:41",
+  "arrive_time": "20:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "17:41",
+      "depart_time": "17:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永修",
+      "arrive_time": "18:09",
+      "depart_time": "18:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "共青城",
+      "arrive_time": "18:23",
+      "depart_time": "18:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "九江",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "湖口",
+      "arrive_time": "19:18",
+      "depart_time": "19:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "都昌",
+      "arrive_time": "19:36",
+      "depart_time": "19:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "鄱阳北",
+      "arrive_time": "20:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "景德镇北",
+      "arrive_time": "20:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 156.0,
+    "price_second": 97.5,
+    "price_no_seat": 97.5
+  },
+  "fetched_at": "2026-05-01T04:19:53.471023"
+}

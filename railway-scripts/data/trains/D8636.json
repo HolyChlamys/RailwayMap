@@ -1,0 +1,52 @@
+{
+  "train_no": "D8636",
+  "train_type": "D",
+  "depart_station": "昆明南",
+  "arrive_station": "红河",
+  "depart_time": "14:22",
+  "arrive_time": "15:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "14:22",
+      "depart_time": "14:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "弥勒",
+      "arrive_time": "14:57",
+      "depart_time": "14:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "竹园",
+      "arrive_time": "15:14",
+      "depart_time": "15:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "开远南",
+      "arrive_time": "15:35",
+      "depart_time": "15:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "红河",
+      "arrive_time": "15:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 288.0,
+    "price_first": 139.5,
+    "price_second": 87.0,
+    "price_no_seat": 87.0
+  },
+  "fetched_at": "2026-05-01T05:01:40.059746"
+}

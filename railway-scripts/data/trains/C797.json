@@ -1,0 +1,51 @@
+{
+  "train_no": "C797",
+  "train_type": "C",
+  "depart_station": "重庆北",
+  "arrive_station": "南充",
+  "depart_time": "09:37",
+  "arrive_time": "11:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "09:37",
+      "depart_time": "09:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高兴",
+      "arrive_time": "10:36",
+      "depart_time": "10:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "广安南",
+      "arrive_time": "10:56",
+      "depart_time": "11:01",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "岳池",
+      "arrive_time": "11:12",
+      "depart_time": "11:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "南充",
+      "arrive_time": "11:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 99.0,
+    "price_second": 62.0,
+    "price_no_seat": 62.0
+  },
+  "fetched_at": "2026-05-01T02:29:17.105620"
+}

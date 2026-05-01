@@ -1,0 +1,31 @@
+{
+  "train_no": "D7864",
+  "train_type": "D",
+  "depart_station": "郑州航空港",
+  "arrive_station": "郑州东",
+  "depart_time": "19:27",
+  "arrive_time": "19:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州航空港",
+      "arrive_time": "19:27",
+      "depart_time": "19:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "19:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 57.0,
+    "price_first": 30.0,
+    "price_second": 19.0,
+    "price_no_seat": 19.0
+  },
+  "fetched_at": "2026-05-01T04:46:13.181469"
+}

@@ -1,0 +1,86 @@
+{
+  "train_no": "G780",
+  "train_type": "G",
+  "depart_station": "丹东",
+  "arrive_station": "牡丹江",
+  "depart_time": "17:12",
+  "arrive_time": "22:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丹东",
+      "arrive_time": "17:12",
+      "depart_time": "17:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "凤城东",
+      "arrive_time": "17:28",
+      "depart_time": "17:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "本溪",
+      "arrive_time": "18:01",
+      "depart_time": "18:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳南",
+      "arrive_time": "18:28",
+      "depart_time": "18:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳北",
+      "arrive_time": "18:46",
+      "depart_time": "18:52",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "铁岭西",
+      "arrive_time": "19:09",
+      "depart_time": "19:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "长春西",
+      "arrive_time": "20:03",
+      "depart_time": "20:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "德惠西",
+      "arrive_time": "20:28",
+      "depart_time": "20:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "哈尔滨",
+      "arrive_time": "21:18",
+      "depart_time": "21:22",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "牡丹江",
+      "arrive_time": "22:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 772.0,
+    "price_second": 482.0,
+    "price_no_seat": 482.0
+  },
+  "fetched_at": "2026-05-01T08:36:51.227636"
+}

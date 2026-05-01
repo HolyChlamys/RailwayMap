@@ -1,0 +1,49 @@
+{
+  "train_no": "K6605",
+  "train_type": "K",
+  "depart_station": "长沙",
+  "arrive_station": "炎陵",
+  "depart_time": "15:05",
+  "arrive_time": "19:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "15:05",
+      "depart_time": "15:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲",
+      "arrive_time": "15:42",
+      "depart_time": "15:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "醴陵",
+      "arrive_time": "16:15",
+      "depart_time": "16:21",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "茶陵南",
+      "arrive_time": "18:43",
+      "depart_time": "18:49",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "炎陵",
+      "arrive_time": "19:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:24:00.111953"
+}

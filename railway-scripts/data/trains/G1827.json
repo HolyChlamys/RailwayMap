@@ -1,0 +1,87 @@
+{
+  "train_no": "G1827",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "郑州东",
+  "depart_time": "18:14",
+  "arrive_time": "23:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "18:14",
+      "depart_time": "18:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "18:31",
+      "depart_time": "18:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡东",
+      "arrive_time": "18:49",
+      "depart_time": "18:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "19:36",
+      "depart_time": "19:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥",
+      "arrive_time": "20:29",
+      "depart_time": "20:34",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "淮南南",
+      "arrive_time": "21:01",
+      "depart_time": "21:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "凤台南",
+      "arrive_time": "21:16",
+      "depart_time": "21:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "阜阳西",
+      "arrive_time": "21:44",
+      "depart_time": "21:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "周口东",
+      "arrive_time": "22:22",
+      "depart_time": "22:30",
+      "stay_min": "8"
+    },
+    {
+      "seq": 10,
+      "station_name": "郑州东",
+      "arrive_time": "23:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1670.0,
+    "price_first": 842.0,
+    "price_second": 526.0,
+    "price_no_seat": 526.0
+  },
+  "fetched_at": "2026-05-01T05:53:57.765319"
+}

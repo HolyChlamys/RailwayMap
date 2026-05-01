@@ -1,0 +1,87 @@
+{
+  "train_no": "G4602",
+  "train_type": "G",
+  "depart_station": "张家界西",
+  "arrive_station": "重庆西",
+  "depart_time": "12:33",
+  "arrive_time": "15:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家界西",
+      "arrive_time": "12:33",
+      "depart_time": "12:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙山北",
+      "arrive_time": "13:15",
+      "depart_time": "13:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "来凤",
+      "arrive_time": "13:26",
+      "depart_time": "13:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "咸丰",
+      "arrive_time": "13:43",
+      "depart_time": "13:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "黔江",
+      "arrive_time": "14:04",
+      "depart_time": "14:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "彭水西",
+      "arrive_time": "14:27",
+      "depart_time": "14:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "武隆南",
+      "arrive_time": "14:41",
+      "depart_time": "14:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南川北",
+      "arrive_time": "15:06",
+      "depart_time": "15:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "重庆东",
+      "arrive_time": "15:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "重庆西",
+      "arrive_time": "15:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 818.0,
+    "price_first": 395.0,
+    "price_second": 246.0,
+    "price_no_seat": 246.0
+  },
+  "fetched_at": "2026-05-01T07:10:08.503459"
+}

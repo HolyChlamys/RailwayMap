@@ -1,0 +1,59 @@
+{
+  "train_no": "G7969",
+  "train_type": "G",
+  "depart_station": "濮阳东",
+  "arrive_station": "郑州东",
+  "depart_time": "09:48",
+  "arrive_time": "10:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "濮阳东",
+      "arrive_time": "09:48",
+      "depart_time": "09:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "内黄",
+      "arrive_time": "10:02",
+      "depart_time": "10:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "滑浚",
+      "arrive_time": "10:17",
+      "depart_time": "10:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "卫辉南",
+      "arrive_time": "10:41",
+      "depart_time": "10:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "新乡东",
+      "arrive_time": "10:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州东",
+      "arrive_time": "10:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 408.0,
+    "price_first": 187.0,
+    "price_second": 116.0,
+    "price_no_seat": 116.0
+  },
+  "fetched_at": "2026-05-01T08:41:25.034419"
+}

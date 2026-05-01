@@ -1,0 +1,66 @@
+{
+  "train_no": "G4440",
+  "train_type": "G",
+  "depart_station": "北京丰台",
+  "arrive_station": "成都东",
+  "depart_time": "23:28",
+  "arrive_time": "01:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京丰台",
+      "arrive_time": "23:28",
+      "depart_time": "23:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "保定东",
+      "arrive_time": "00:06",
+      "depart_time": "00:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "00:43",
+      "depart_time": "00:47",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "太原南",
+      "arrive_time": "02:09",
+      "depart_time": "02:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "重庆北",
+      "arrive_time": "00:10",
+      "depart_time": "00:22",
+      "stay_min": "12"
+    },
+    {
+      "seq": 6,
+      "station_name": "内江北",
+      "arrive_time": "01:15",
+      "depart_time": "01:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "成都东",
+      "arrive_time": "01:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 742.0,
+    "price_first": 356.0,
+    "price_second": 222.5,
+    "price_no_seat": 222.5
+  },
+  "fetched_at": "2026-05-01T07:05:33.298509"
+}

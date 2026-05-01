@@ -1,0 +1,37 @@
+{
+  "train_no": "C5319",
+  "train_type": "C",
+  "depart_station": "汉口",
+  "arrive_station": "天门南",
+  "depart_time": "22:39",
+  "arrive_time": "23:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "22:39",
+      "depart_time": "22:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉川",
+      "arrive_time": "23:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天门南",
+      "arrive_time": "23:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 59.0,
+    "price_second": 37.0,
+    "price_no_seat": 37.0
+  },
+  "fetched_at": "2026-05-01T01:32:51.542233"
+}

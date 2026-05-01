@@ -1,0 +1,79 @@
+{
+  "train_no": "D3370",
+  "train_type": "D",
+  "depart_station": "焦作",
+  "arrive_station": "太原南",
+  "depart_time": "10:30",
+  "arrive_time": "13:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "焦作",
+      "arrive_time": "10:30",
+      "depart_time": "10:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "焦作西",
+      "arrive_time": "10:49",
+      "depart_time": "10:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "晋城东",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长治南",
+      "arrive_time": "11:36",
+      "depart_time": "11:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "长治东",
+      "arrive_time": "11:48",
+      "depart_time": "11:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "武乡",
+      "arrive_time": "12:19",
+      "depart_time": "12:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "太谷东",
+      "arrive_time": "12:45",
+      "depart_time": "12:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "晋中",
+      "arrive_time": "13:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "太原南",
+      "arrive_time": "13:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 286.0,
+    "price_second": 179.0,
+    "price_no_seat": 179.0
+  },
+  "fetched_at": "2026-05-01T03:32:56.038242"
+}

@@ -1,0 +1,65 @@
+{
+  "train_no": "D1115",
+  "train_type": "D",
+  "depart_station": "清河",
+  "arrive_station": "大同南",
+  "depart_time": "14:47",
+  "arrive_time": "17:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清河",
+      "arrive_time": "14:47",
+      "depart_time": "14:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宣化北",
+      "arrive_time": "15:42",
+      "depart_time": "15:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "张家口",
+      "arrive_time": "15:59",
+      "depart_time": "15:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀安",
+      "arrive_time": "16:28",
+      "depart_time": "16:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "天镇",
+      "arrive_time": "16:49",
+      "depart_time": "16:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "阳高南",
+      "arrive_time": "17:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "大同南",
+      "arrive_time": "17:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 235.0,
+    "price_second": 146.0,
+    "price_no_seat": 146.0
+  },
+  "fetched_at": "2026-05-01T02:57:41.150968"
+}

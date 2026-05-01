@@ -1,0 +1,64 @@
+{
+  "train_no": "D33",
+  "train_type": "D",
+  "depart_station": "宁波",
+  "arrive_station": "汉口",
+  "depart_time": "21:03",
+  "arrive_time": "07:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "21:03",
+      "depart_time": "21:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "诸暨",
+      "arrive_time": "23:21",
+      "depart_time": "23:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "金华",
+      "arrive_time": "00:13",
+      "depart_time": "00:20",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "黄石",
+      "arrive_time": "05:25",
+      "depart_time": "05:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "鄂州",
+      "arrive_time": "05:43",
+      "depart_time": "05:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "武昌",
+      "arrive_time": "06:54",
+      "depart_time": "07:02",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "汉口",
+      "arrive_time": "07:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 311.0,
+    "price_no_seat": 311.0
+  },
+  "fetched_at": "2026-05-01T03:31:33.588139"
+}

@@ -1,0 +1,56 @@
+{
+  "train_no": "K5880",
+  "train_type": "K",
+  "depart_station": "南昌",
+  "arrive_station": "景德镇",
+  "depart_time": "10:44",
+  "arrive_time": "14:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "10:44",
+      "depart_time": "10:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "向塘",
+      "arrive_time": "11:12",
+      "depart_time": "11:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "进贤",
+      "arrive_time": "11:43",
+      "depart_time": "11:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鹰潭",
+      "arrive_time": "13:04",
+      "depart_time": "13:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "万年",
+      "arrive_time": "14:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "景德镇",
+      "arrive_time": "14:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 46.5
+  },
+  "fetched_at": "2026-05-01T10:15:54.539749"
+}

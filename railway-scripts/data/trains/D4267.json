@@ -1,0 +1,33 @@
+{
+  "train_no": "D4267",
+  "train_type": "D",
+  "depart_station": "北京北",
+  "arrive_station": "大同南",
+  "depart_time": "23:43",
+  "arrive_time": "00:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京北",
+      "arrive_time": "23:43",
+      "depart_time": "23:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张家口",
+      "arrive_time": "00:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大同南",
+      "arrive_time": "00:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T03:46:33.392501"
+}

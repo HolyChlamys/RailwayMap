@@ -1,0 +1,44 @@
+{
+  "train_no": "D8748",
+  "train_type": "D",
+  "depart_station": "大理",
+  "arrive_station": "昆明南",
+  "depart_time": "20:52",
+  "arrive_time": "22:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "20:52",
+      "depart_time": "20:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "祥云",
+      "arrive_time": "21:15",
+      "depart_time": "21:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "22:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明南",
+      "arrive_time": "22:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 231.0,
+    "price_second": 145.0,
+    "price_no_seat": 145.0
+  },
+  "fetched_at": "2026-05-01T05:04:18.629769"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "C3039",
+  "train_type": "C",
+  "depart_station": "南京南",
+  "arrive_station": "黄山北",
+  "depart_time": "22:48",
+  "arrive_time": "23:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "22:48",
+      "depart_time": "22:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马鞍山东",
+      "arrive_time": "23:10",
+      "depart_time": "23:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宣城",
+      "arrive_time": "23:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄山北",
+      "arrive_time": "23:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 558.0,
+    "price_first": 266.0,
+    "price_second": 166.0,
+    "price_no_seat": 166.0
+  },
+  "fetched_at": "2026-05-01T00:49:25.109974"
+}

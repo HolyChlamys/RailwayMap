@@ -1,0 +1,56 @@
+{
+  "train_no": "K7708",
+  "train_type": "K",
+  "depart_station": "石家庄",
+  "arrive_station": "北京西",
+  "depart_time": "09:55",
+  "arrive_time": "12:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石家庄",
+      "arrive_time": "09:55",
+      "depart_time": "09:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "定州",
+      "arrive_time": "10:51",
+      "depart_time": "10:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "保定",
+      "arrive_time": "11:32",
+      "depart_time": "11:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "高碑店",
+      "arrive_time": "12:13",
+      "depart_time": "12:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "涿州",
+      "arrive_time": "12:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "北京西",
+      "arrive_time": "12:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T10:31:12.207100"
+}

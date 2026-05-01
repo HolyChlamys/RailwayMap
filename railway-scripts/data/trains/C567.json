@@ -1,0 +1,51 @@
+{
+  "train_no": "C567",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "河口北",
+  "depart_time": "17:53",
+  "arrive_time": "21:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "17:53",
+      "depart_time": "17:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "建水",
+      "arrive_time": "19:47",
+      "depart_time": "19:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "红河",
+      "arrive_time": "20:24",
+      "depart_time": "20:27",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "蒙自",
+      "arrive_time": "20:46",
+      "depart_time": "20:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "河口北",
+      "arrive_time": "21:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 182.0,
+    "price_second": 114.0,
+    "price_no_seat": 114.0
+  },
+  "fetched_at": "2026-05-01T01:36:46.530669"
+}

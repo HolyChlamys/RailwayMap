@@ -1,0 +1,30 @@
+{
+  "train_no": "D8351",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "防城港北",
+  "depart_time": "17:35",
+  "arrive_time": "17:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "17:35",
+      "depart_time": "17:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "防城港北",
+      "arrive_time": "17:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 94.0,
+    "price_second": 58.5,
+    "price_no_seat": 58.5
+  },
+  "fetched_at": "2026-05-01T04:55:01.579228"
+}

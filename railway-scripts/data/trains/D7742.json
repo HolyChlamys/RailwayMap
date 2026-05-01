@@ -1,0 +1,86 @@
+{
+  "train_no": "D7742",
+  "train_type": "D",
+  "depart_station": "丹东",
+  "arrive_station": "大连",
+  "depart_time": "07:42",
+  "arrive_time": "10:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丹东",
+      "arrive_time": "07:42",
+      "depart_time": "07:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东港北",
+      "arrive_time": "08:02",
+      "depart_time": "08:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "北井子",
+      "arrive_time": "08:14",
+      "depart_time": "08:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大孤山",
+      "arrive_time": "08:29",
+      "depart_time": "08:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "青堆",
+      "arrive_time": "08:45",
+      "depart_time": "08:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "庄河北",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "花园口",
+      "arrive_time": "09:16",
+      "depart_time": "09:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "皮口",
+      "arrive_time": "09:31",
+      "depart_time": "09:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "金州",
+      "arrive_time": "10:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "大连",
+      "arrive_time": "10:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 185.5,
+    "price_second": 115.5,
+    "price_no_seat": 115.5
+  },
+  "fetched_at": "2026-05-01T04:44:00.783691"
+}

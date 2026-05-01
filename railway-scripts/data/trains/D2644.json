@@ -1,0 +1,114 @@
+{
+  "train_no": "D2644",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "兰州西",
+  "depart_time": "16:02",
+  "arrive_time": "22:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "16:02",
+      "depart_time": "16:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳北",
+      "arrive_time": "16:15",
+      "depart_time": "16:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "礼泉南",
+      "arrive_time": "16:28",
+      "depart_time": "16:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "永寿西",
+      "arrive_time": "16:46",
+      "depart_time": "16:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "宁县",
+      "arrive_time": "17:18",
+      "depart_time": "17:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "庆阳",
+      "arrive_time": "17:38",
+      "depart_time": "17:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "庆城",
+      "arrive_time": "17:56",
+      "depart_time": "17:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "环县",
+      "arrive_time": "18:19",
+      "depart_time": "18:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "吴忠",
+      "arrive_time": "19:15",
+      "depart_time": "19:37",
+      "stay_min": "22"
+    },
+    {
+      "seq": 10,
+      "station_name": "红寺堡北",
+      "arrive_time": "19:55",
+      "depart_time": "19:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "中卫南",
+      "arrive_time": "20:24",
+      "depart_time": "20:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "靖远北",
+      "arrive_time": "21:02",
+      "depart_time": "21:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "白银南",
+      "arrive_time": "21:22",
+      "depart_time": "21:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "兰州西",
+      "arrive_time": "22:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 671.0,
+    "price_second": 420.0,
+    "price_no_seat": 420.0
+  },
+  "fetched_at": "2026-05-01T03:19:40.409100"
+}

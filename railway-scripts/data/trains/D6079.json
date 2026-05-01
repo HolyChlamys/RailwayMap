@@ -1,0 +1,86 @@
+{
+  "train_no": "D6079",
+  "train_type": "D",
+  "depart_station": "济南",
+  "arrive_station": "牟平",
+  "depart_time": "12:18",
+  "arrive_time": "16:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "12:18",
+      "depart_time": "12:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淄博",
+      "arrive_time": "13:03",
+      "depart_time": "13:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊",
+      "arrive_time": "13:41",
+      "depart_time": "13:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "即墨北",
+      "arrive_time": "14:35",
+      "depart_time": "14:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "莱阳南",
+      "arrive_time": "15:02",
+      "depart_time": "15:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "文登南",
+      "arrive_time": "15:44",
+      "depart_time": "15:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "荣成",
+      "arrive_time": "16:01",
+      "depart_time": "16:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "文登东",
+      "arrive_time": "16:14",
+      "depart_time": "16:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "威海北",
+      "arrive_time": "16:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "牟平",
+      "arrive_time": "16:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 440.0,
+    "price_second": 276.0,
+    "price_no_seat": 276.0
+  },
+  "fetched_at": "2026-05-01T04:16:13.050080"
+}

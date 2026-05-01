@@ -1,0 +1,31 @@
+{
+  "train_no": "G2253",
+  "train_type": "G",
+  "depart_station": "银川",
+  "arrive_station": "灵武北",
+  "depart_time": "16:25",
+  "arrive_time": "16:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "16:25",
+      "depart_time": "16:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "灵武北",
+      "arrive_time": "16:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1712.0,
+    "price_first": 827.5,
+    "price_second": 517.0,
+    "price_no_seat": 517.0
+  },
+  "fetched_at": "2026-05-01T06:05:34.130249"
+}

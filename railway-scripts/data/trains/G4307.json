@@ -1,0 +1,80 @@
+{
+  "train_no": "G4307",
+  "train_type": "G",
+  "depart_station": "上海南",
+  "arrive_station": "武汉",
+  "depart_time": "20:10",
+  "arrive_time": "01:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "20:10",
+      "depart_time": "20:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "上海松江",
+      "arrive_time": "20:27",
+      "depart_time": "20:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州南",
+      "arrive_time": "20:44",
+      "depart_time": "20:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "湖州南浔",
+      "arrive_time": "21:01",
+      "depart_time": "21:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "湖州东",
+      "arrive_time": "21:14",
+      "depart_time": "21:19",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "宣城",
+      "arrive_time": "22:02",
+      "depart_time": "22:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "芜湖",
+      "arrive_time": "22:30",
+      "depart_time": "22:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "合肥南",
+      "arrive_time": "23:13",
+      "depart_time": "23:20",
+      "stay_min": "7"
+    },
+    {
+      "seq": 9,
+      "station_name": "武汉",
+      "arrive_time": "01:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1470.0,
+    "price_first": 710.0,
+    "price_second": 445.0,
+    "price_no_seat": 445.0
+  },
+  "fetched_at": "2026-05-01T07:01:43.905829"
+}

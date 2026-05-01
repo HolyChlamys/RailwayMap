@@ -1,0 +1,79 @@
+{
+  "train_no": "G5085",
+  "train_type": "G",
+  "depart_station": "南昌东",
+  "arrive_station": "福州",
+  "depart_time": "15:25",
+  "arrive_time": "19:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "15:25",
+      "depart_time": "15:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄱阳",
+      "arrive_time": "15:50",
+      "depart_time": "15:55",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "景德镇北",
+      "arrive_time": "16:17",
+      "depart_time": "16:21",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "婺源",
+      "arrive_time": "16:49",
+      "depart_time": "16:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "德兴",
+      "arrive_time": "17:04",
+      "depart_time": "17:14",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "五府山",
+      "arrive_time": "17:38",
+      "depart_time": "17:46",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "南平市",
+      "arrive_time": "18:09",
+      "depart_time": "18:20",
+      "stay_min": "11"
+    },
+    {
+      "seq": 8,
+      "station_name": "延平",
+      "arrive_time": "18:48",
+      "depart_time": "18:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "福州",
+      "arrive_time": "19:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 520.5,
+    "price_second": 315.5,
+    "price_no_seat": 315.5
+  },
+  "fetched_at": "2026-05-01T07:24:27.936527"
+}

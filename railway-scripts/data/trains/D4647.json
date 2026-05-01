@@ -1,0 +1,51 @@
+{
+  "train_no": "D4647",
+  "train_type": "D",
+  "depart_station": "兰州西",
+  "arrive_station": "西宁",
+  "depart_time": "09:36",
+  "arrive_time": "10:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "09:36",
+      "depart_time": "09:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "民和南",
+      "arrive_time": "10:07",
+      "depart_time": "10:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "海东",
+      "arrive_time": "10:28",
+      "depart_time": "10:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "海东西",
+      "arrive_time": "10:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西宁",
+      "arrive_time": "10:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 93.0,
+    "price_second": 58.0,
+    "price_no_seat": 58.0
+  },
+  "fetched_at": "2026-05-01T03:54:44.528525"
+}

@@ -1,0 +1,73 @@
+{
+  "train_no": "G9891",
+  "train_type": "G",
+  "depart_station": "北京",
+  "arrive_station": "秦皇岛",
+  "depart_time": "06:25",
+  "arrive_time": "08:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京",
+      "arrive_time": "06:25",
+      "depart_time": "06:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "燕郊",
+      "arrive_time": "06:57",
+      "depart_time": "06:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大厂",
+      "arrive_time": "07:14",
+      "depart_time": "07:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宝坻",
+      "arrive_time": "07:32",
+      "depart_time": "07:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "唐山西",
+      "arrive_time": "07:53",
+      "depart_time": "07:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "滦河",
+      "arrive_time": "08:18",
+      "depart_time": "08:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "北戴河",
+      "arrive_time": "08:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "秦皇岛",
+      "arrive_time": "08:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 549.5,
+    "price_first": 266.0,
+    "price_second": 163.0,
+    "price_no_seat": 163.0
+  },
+  "fetched_at": "2026-05-01T09:27:18.887774"
+}

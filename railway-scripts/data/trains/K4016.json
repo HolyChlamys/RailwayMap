@@ -1,0 +1,63 @@
+{
+  "train_no": "K4016",
+  "train_type": "K",
+  "depart_station": "泰山",
+  "arrive_station": "邯郸",
+  "depart_time": "08:33",
+  "arrive_time": "14:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "泰山",
+      "arrive_time": "08:33",
+      "depart_time": "08:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南",
+      "arrive_time": "09:28",
+      "depart_time": "09:38",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "晏城",
+      "arrive_time": "10:34",
+      "depart_time": "10:38",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "聊城",
+      "arrive_time": "11:42",
+      "depart_time": "12:05",
+      "stay_min": "23"
+    },
+    {
+      "seq": 5,
+      "station_name": "冠县",
+      "arrive_time": "12:58",
+      "depart_time": "13:02",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "广平",
+      "arrive_time": "13:44",
+      "depart_time": "13:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "邯郸",
+      "arrive_time": "14:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 51.5
+  },
+  "fetched_at": "2026-05-01T09:45:22.127257"
+}

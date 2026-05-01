@@ -1,0 +1,45 @@
+{
+  "train_no": "G9377",
+  "train_type": "G",
+  "depart_station": "汉口",
+  "arrive_station": "宜昌北",
+  "depart_time": "20:50",
+  "arrive_time": "22:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "20:50",
+      "depart_time": "20:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天门",
+      "arrive_time": "21:29",
+      "depart_time": "21:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "荆门西",
+      "arrive_time": "22:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宜昌北",
+      "arrive_time": "22:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 766.0,
+    "price_first": 350.0,
+    "price_second": 219.0,
+    "price_no_seat": 219.0
+  },
+  "fetched_at": "2026-05-01T09:12:41.506142"
+}

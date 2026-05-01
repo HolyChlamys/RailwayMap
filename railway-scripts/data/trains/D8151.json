@@ -1,0 +1,58 @@
+{
+  "train_no": "D8151",
+  "train_type": "D",
+  "depart_station": "济南东",
+  "arrive_station": "烟台",
+  "depart_time": "11:15",
+  "arrive_time": "12:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "11:15",
+      "depart_time": "11:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "章丘北",
+      "arrive_time": "11:29",
+      "depart_time": "11:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "青州市北",
+      "arrive_time": "12:00",
+      "depart_time": "12:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "昌邑",
+      "arrive_time": "12:27",
+      "depart_time": "12:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "平度",
+      "arrive_time": "12:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "烟台",
+      "arrive_time": "12:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 296.0,
+    "price_second": 186.0,
+    "price_no_seat": 186.0
+  },
+  "fetched_at": "2026-05-01T04:50:20.689755"
+}

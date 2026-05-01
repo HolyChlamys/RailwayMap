@@ -1,0 +1,51 @@
+{
+  "train_no": "G7009",
+  "train_type": "G",
+  "depart_station": "南京",
+  "arrive_station": "上海",
+  "depart_time": "11:00",
+  "arrive_time": "12:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "常州",
+      "arrive_time": "11:41",
+      "depart_time": "11:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡",
+      "arrive_time": "11:57",
+      "depart_time": "11:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "苏州",
+      "arrive_time": "12:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "上海",
+      "arrive_time": "12:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 265.0,
+    "price_second": 166.0,
+    "price_no_seat": 166.0
+  },
+  "fetched_at": "2026-05-01T08:15:12.887220"
+}

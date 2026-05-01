@@ -1,0 +1,45 @@
+{
+  "train_no": "G7971",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "长治东",
+  "depart_time": "06:12",
+  "arrive_time": "08:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "06:12",
+      "depart_time": "06:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州",
+      "arrive_time": "06:29",
+      "depart_time": "06:40",
+      "stay_min": "11"
+    },
+    {
+      "seq": 3,
+      "station_name": "焦作",
+      "arrive_time": "07:15",
+      "depart_time": "07:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "长治东",
+      "arrive_time": "08:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 408.0,
+    "price_first": 194.0,
+    "price_second": 122.0,
+    "price_no_seat": 122.0
+  },
+  "fetched_at": "2026-05-01T08:41:29.983201"
+}

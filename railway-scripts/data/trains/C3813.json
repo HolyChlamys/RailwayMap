@@ -1,0 +1,44 @@
+{
+  "train_no": "C3813",
+  "train_type": "C",
+  "depart_station": "上海",
+  "arrive_station": "南通",
+  "depart_time": "20:51",
+  "arrive_time": "22:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "20:51",
+      "depart_time": "20:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太仓",
+      "arrive_time": "21:26",
+      "depart_time": "21:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "常熟",
+      "arrive_time": "21:47",
+      "depart_time": "21:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南通",
+      "arrive_time": "22:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 135.0,
+    "price_second": 84.5,
+    "price_no_seat": 84.5
+  },
+  "fetched_at": "2026-05-01T01:04:33.473227"
+}

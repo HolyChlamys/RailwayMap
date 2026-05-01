@@ -1,0 +1,58 @@
+{
+  "train_no": "D9506",
+  "train_type": "D",
+  "depart_station": "南通",
+  "arrive_station": "扬州",
+  "depart_time": "11:27",
+  "arrive_time": "12:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南通",
+      "arrive_time": "11:27",
+      "depart_time": "11:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "如皋",
+      "arrive_time": "11:54",
+      "depart_time": "11:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "姜堰",
+      "arrive_time": "12:22",
+      "depart_time": "12:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泰州",
+      "arrive_time": "12:34",
+      "depart_time": "12:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "江都",
+      "arrive_time": "12:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州",
+      "arrive_time": "12:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 169.0,
+    "price_second": 106.0,
+    "price_no_seat": 106.0
+  },
+  "fetched_at": "2026-05-01T05:17:01.080196"
+}

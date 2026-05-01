@@ -1,0 +1,115 @@
+{
+  "train_no": "G2755",
+  "train_type": "G",
+  "depart_station": "张家港",
+  "arrive_station": "深圳北",
+  "depart_time": "14:48",
+  "arrive_time": "22:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家港",
+      "arrive_time": "14:48",
+      "depart_time": "14:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江阴",
+      "arrive_time": "15:02",
+      "depart_time": "15:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "金坛",
+      "arrive_time": "15:25",
+      "depart_time": "15:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "15:54",
+      "depart_time": "16:00",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "芜湖",
+      "arrive_time": "16:29",
+      "depart_time": "16:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "宣城",
+      "arrive_time": "16:59",
+      "depart_time": "17:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "宁国南",
+      "arrive_time": "17:17",
+      "depart_time": "17:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "黄山北",
+      "arrive_time": "17:52",
+      "depart_time": "17:56",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "景德镇北",
+      "arrive_time": "18:37",
+      "depart_time": "18:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "鄱阳",
+      "arrive_time": "19:00",
+      "depart_time": "19:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "南昌东",
+      "arrive_time": "19:28",
+      "depart_time": "19:33",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "赣州西",
+      "arrive_time": "21:05",
+      "depart_time": "21:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "惠州北",
+      "arrive_time": "22:26",
+      "depart_time": "22:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "深圳北",
+      "arrive_time": "22:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3164.0,
+    "price_first": 1508.0,
+    "price_second": 943.0,
+    "price_no_seat": 943.0
+  },
+  "fetched_at": "2026-05-01T06:19:27.353468"
+}

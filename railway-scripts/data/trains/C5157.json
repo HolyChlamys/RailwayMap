@@ -1,0 +1,38 @@
+{
+  "train_no": "C5157",
+  "train_type": "C",
+  "depart_station": "长汀南",
+  "arrive_station": "厦门",
+  "depart_time": "22:12",
+  "arrive_time": "22:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长汀南",
+      "arrive_time": "22:12",
+      "depart_time": "22:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙岩",
+      "arrive_time": "22:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "厦门",
+      "arrive_time": "22:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 131.5,
+    "price_first": 70.0,
+    "price_second": 44.0,
+    "price_no_seat": 44.0
+  },
+  "fetched_at": "2026-05-01T01:28:09.060409"
+}

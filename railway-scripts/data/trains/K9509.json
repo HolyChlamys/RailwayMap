@@ -1,0 +1,42 @@
+{
+  "train_no": "K9509",
+  "train_type": "K",
+  "depart_station": "重庆北",
+  "arrive_station": "秀山",
+  "depart_time": "08:17",
+  "arrive_time": "11:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "08:17",
+      "depart_time": "08:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "涪陵",
+      "arrive_time": "09:29",
+      "depart_time": "09:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黔江",
+      "arrive_time": "11:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "秀山",
+      "arrive_time": "11:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 62.5
+  },
+  "fetched_at": "2026-05-01T10:46:12.225334"
+}

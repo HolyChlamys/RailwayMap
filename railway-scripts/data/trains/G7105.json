@@ -1,0 +1,93 @@
+{
+  "train_no": "G7105",
+  "train_type": "G",
+  "depart_station": "南京",
+  "arrive_station": "义乌",
+  "depart_time": "08:34",
+  "arrive_time": "11:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "08:34",
+      "depart_time": "08:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丹阳",
+      "arrive_time": "09:05",
+      "depart_time": "09:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常州",
+      "arrive_time": "09:22",
+      "depart_time": "09:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "09:42",
+      "depart_time": "09:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "苏州",
+      "arrive_time": "09:59",
+      "depart_time": "09:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "昆山南",
+      "arrive_time": "10:13",
+      "depart_time": "10:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "上海虹桥",
+      "arrive_time": "10:34",
+      "depart_time": "10:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "苏州南",
+      "arrive_time": "11:02",
+      "depart_time": "11:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "湖州东",
+      "arrive_time": "11:24",
+      "depart_time": "11:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "杭州西",
+      "arrive_time": "11:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "义乌",
+      "arrive_time": "11:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 602.0,
+    "price_second": 378.0,
+    "price_no_seat": 378.0
+  },
+  "fetched_at": "2026-05-01T08:17:56.404697"
+}

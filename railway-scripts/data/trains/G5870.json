@@ -1,0 +1,45 @@
+{
+  "train_no": "G5870",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "长沙南",
+  "depart_time": "03:17",
+  "arrive_time": "05:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "03:17",
+      "depart_time": "03:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "03:49",
+      "depart_time": "03:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州西",
+      "arrive_time": "05:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "05:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1520.5,
+    "price_first": 703.5,
+    "price_second": 451.5,
+    "price_no_seat": 451.5
+  },
+  "fetched_at": "2026-05-01T07:44:48.607505"
+}

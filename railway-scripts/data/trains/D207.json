@@ -1,0 +1,114 @@
+{
+  "train_no": "D207",
+  "train_type": "D",
+  "depart_station": "兰州",
+  "arrive_station": "贵阳北",
+  "depart_time": "11:36",
+  "arrive_time": "22:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州",
+      "arrive_time": "11:36",
+      "depart_time": "11:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "岷县",
+      "arrive_time": "13:16",
+      "depart_time": "13:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "哈达铺",
+      "arrive_time": "13:36",
+      "depart_time": "13:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "陇南",
+      "arrive_time": "14:36",
+      "depart_time": "14:41",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "广元",
+      "arrive_time": "15:42",
+      "depart_time": "15:48",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "阆中",
+      "arrive_time": "16:41",
+      "depart_time": "16:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "南部",
+      "arrive_time": "16:57",
+      "depart_time": "16:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "南充北",
+      "arrive_time": "17:29",
+      "depart_time": "17:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "武胜",
+      "arrive_time": "18:00",
+      "depart_time": "18:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "合川",
+      "arrive_time": "18:32",
+      "depart_time": "18:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "重庆西",
+      "arrive_time": "19:08",
+      "depart_time": "19:14",
+      "stay_min": "6"
+    },
+    {
+      "seq": 12,
+      "station_name": "桐梓东",
+      "arrive_time": "20:33",
+      "depart_time": "20:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "遵义",
+      "arrive_time": "21:04",
+      "depart_time": "21:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "贵阳北",
+      "arrive_time": "22:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 623.0,
+    "price_second": 390.0,
+    "price_no_seat": 390.0
+  },
+  "fetched_at": "2026-05-01T03:09:57.203311"
+}

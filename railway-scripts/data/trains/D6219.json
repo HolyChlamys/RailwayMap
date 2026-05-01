@@ -1,0 +1,58 @@
+{
+  "train_no": "D6219",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "厦门",
+  "depart_time": "10:10",
+  "arrive_time": "11:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "10:10",
+      "depart_time": "10:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福州南",
+      "arrive_time": "10:26",
+      "depart_time": "10:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莆田",
+      "arrive_time": "10:57",
+      "depart_time": "10:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泉州",
+      "arrive_time": "11:25",
+      "depart_time": "11:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "厦门北",
+      "arrive_time": "11:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "厦门",
+      "arrive_time": "11:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 192.0,
+    "price_second": 120.0,
+    "price_no_seat": 120.0
+  },
+  "fetched_at": "2026-05-01T04:19:15.271222"
+}

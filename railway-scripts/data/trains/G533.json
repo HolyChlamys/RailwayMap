@@ -1,0 +1,73 @@
+{
+  "train_no": "G533",
+  "train_type": "G",
+  "depart_station": "信阳东",
+  "arrive_station": "广州",
+  "depart_time": "14:57",
+  "arrive_time": "19:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "信阳东",
+      "arrive_time": "14:57",
+      "depart_time": "14:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉",
+      "arrive_time": "15:48",
+      "depart_time": "15:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "岳阳东",
+      "arrive_time": "16:52",
+      "depart_time": "16:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "17:34",
+      "depart_time": "17:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡山西",
+      "arrive_time": "18:02",
+      "depart_time": "18:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "郴州西",
+      "arrive_time": "18:41",
+      "depart_time": "18:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "韶关",
+      "arrive_time": "19:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "广州",
+      "arrive_time": "19:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2238.0,
+    "price_first": 1019.0,
+    "price_second": 639.0,
+    "price_no_seat": 639.0
+  },
+  "fetched_at": "2026-05-01T07:31:08.236982"
+}

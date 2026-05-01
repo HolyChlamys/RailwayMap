@@ -1,0 +1,143 @@
+{
+  "train_no": "G644",
+  "train_type": "G",
+  "depart_station": "济南东",
+  "arrive_station": "南昌西",
+  "depart_time": "06:25",
+  "arrive_time": "14:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "06:25",
+      "depart_time": "06:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南西",
+      "arrive_time": "06:49",
+      "depart_time": "06:55",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "泰安",
+      "arrive_time": "07:12",
+      "depart_time": "07:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "曲阜东",
+      "arrive_time": "07:33",
+      "depart_time": "07:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "滕州东",
+      "arrive_time": "07:52",
+      "depart_time": "07:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "徐州东",
+      "arrive_time": "08:19",
+      "depart_time": "08:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "宿州东",
+      "arrive_time": "08:40",
+      "depart_time": "08:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "蚌埠南",
+      "arrive_time": "09:05",
+      "depart_time": "09:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "滁州",
+      "arrive_time": "09:35",
+      "depart_time": "09:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "南京南",
+      "arrive_time": "09:55",
+      "depart_time": "10:00",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "溧水",
+      "arrive_time": "10:17",
+      "depart_time": "10:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "宜兴",
+      "arrive_time": "10:42",
+      "depart_time": "10:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "湖州",
+      "arrive_time": "11:01",
+      "depart_time": "11:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "杭州东",
+      "arrive_time": "11:24",
+      "depart_time": "11:30",
+      "stay_min": "6"
+    },
+    {
+      "seq": 15,
+      "station_name": "衢州",
+      "arrive_time": "12:38",
+      "depart_time": "12:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 16,
+      "station_name": "玉山南",
+      "arrive_time": "13:03",
+      "depart_time": "13:08",
+      "stay_min": "5"
+    },
+    {
+      "seq": 17,
+      "station_name": "鹰潭北",
+      "arrive_time": "13:42",
+      "depart_time": "13:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 18,
+      "station_name": "南昌西",
+      "arrive_time": "14:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2812.0,
+    "price_first": 1289.0,
+    "price_second": 806.0,
+    "price_no_seat": 806.0
+  },
+  "fetched_at": "2026-05-01T07:58:52.482590"
+}

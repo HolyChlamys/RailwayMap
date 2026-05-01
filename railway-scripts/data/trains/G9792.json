@@ -1,0 +1,59 @@
+{
+  "train_no": "G9792",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "邵阳",
+  "depart_time": "03:02",
+  "arrive_time": "07:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "03:02",
+      "depart_time": "03:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙南",
+      "arrive_time": "05:20",
+      "depart_time": "05:38",
+      "stay_min": "18"
+    },
+    {
+      "seq": 3,
+      "station_name": "娄底南",
+      "arrive_time": "06:13",
+      "depart_time": "06:19",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "双峰北",
+      "arrive_time": "06:30",
+      "depart_time": "06:38",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "邵东",
+      "arrive_time": "06:58",
+      "depart_time": "07:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "邵阳",
+      "arrive_time": "07:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1660.0,
+    "price_first": 766.0,
+    "price_second": 478.5,
+    "price_no_seat": 478.5
+  },
+  "fetched_at": "2026-05-01T09:24:24.358761"
+}

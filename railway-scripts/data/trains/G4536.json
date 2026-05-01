@@ -1,0 +1,100 @@
+{
+  "train_no": "G4536",
+  "train_type": "G",
+  "depart_station": "张家界西",
+  "arrive_station": "上海南",
+  "depart_time": "17:36",
+  "arrive_time": "01:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家界西",
+      "arrive_time": "17:36",
+      "depart_time": "17:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "芙蓉镇",
+      "arrive_time": "18:00",
+      "depart_time": "18:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "吉首东",
+      "arrive_time": "18:22",
+      "depart_time": "18:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "凤凰古城",
+      "arrive_time": "18:36",
+      "depart_time": "18:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "麻阳西",
+      "arrive_time": "18:50",
+      "depart_time": "18:57",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "怀化南",
+      "arrive_time": "19:18",
+      "depart_time": "19:27",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "邵阳北",
+      "arrive_time": "20:07",
+      "depart_time": "20:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "娄底南",
+      "arrive_time": "20:25",
+      "depart_time": "20:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "长沙南",
+      "arrive_time": "21:01",
+      "depart_time": "21:14",
+      "stay_min": "13"
+    },
+    {
+      "seq": 10,
+      "station_name": "南昌西",
+      "arrive_time": "22:35",
+      "depart_time": "22:46",
+      "stay_min": "11"
+    },
+    {
+      "seq": 11,
+      "station_name": "杭州东",
+      "arrive_time": "01:00",
+      "depart_time": "01:05",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "上海南",
+      "arrive_time": "01:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1371.0,
+    "price_second": 857.0,
+    "price_no_seat": 857.0
+  },
+  "fetched_at": "2026-05-01T07:08:12.093353"
+}

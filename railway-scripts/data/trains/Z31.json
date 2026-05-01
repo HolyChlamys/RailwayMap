@@ -1,0 +1,61 @@
+{
+  "train_no": "Z31",
+  "train_type": "Z",
+  "depart_station": "武昌",
+  "arrive_station": "宁波",
+  "depart_time": "22:04",
+  "arrive_time": "07:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "22:04",
+      "depart_time": "22:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄂州",
+      "arrive_time": "22:58",
+      "depart_time": "23:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "黄石",
+      "arrive_time": "23:16",
+      "depart_time": "23:21",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "金华",
+      "arrive_time": "04:19",
+      "depart_time": "04:25",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "绍兴",
+      "arrive_time": "06:03",
+      "depart_time": "06:07",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "余姚",
+      "arrive_time": "06:46",
+      "depart_time": "06:51",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "宁波",
+      "arrive_time": "07:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:46:46.623371"
+}

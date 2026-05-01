@@ -1,0 +1,51 @@
+{
+  "train_no": "C521",
+  "train_type": "C",
+  "depart_station": "长春",
+  "arrive_station": "白城",
+  "depart_time": "06:06",
+  "arrive_time": "08:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "06:06",
+      "depart_time": "06:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "松原",
+      "arrive_time": "07:22",
+      "depart_time": "07:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "查干湖",
+      "arrive_time": "07:43",
+      "depart_time": "07:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大安",
+      "arrive_time": "08:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "白城",
+      "arrive_time": "08:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 197.0,
+    "price_second": 123.0,
+    "price_no_seat": 123.0
+  },
+  "fetched_at": "2026-05-01T01:29:39.729448"
+}

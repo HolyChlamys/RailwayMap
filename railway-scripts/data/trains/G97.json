@@ -1,0 +1,80 @@
+{
+  "train_no": "G97",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "长春西",
+  "depart_time": "10:04",
+  "arrive_time": "19:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "10:04",
+      "depart_time": "10:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "11:03",
+      "depart_time": "11:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "济南西",
+      "arrive_time": "13:02",
+      "depart_time": "13:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "天津西",
+      "arrive_time": "14:09",
+      "depart_time": "14:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "唐山",
+      "arrive_time": "14:49",
+      "depart_time": "14:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "秦皇岛",
+      "arrive_time": "15:28",
+      "depart_time": "15:31",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "葫芦岛北",
+      "arrive_time": "16:26",
+      "depart_time": "16:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "沈阳北",
+      "arrive_time": "17:59",
+      "depart_time": "18:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "长春西",
+      "arrive_time": "19:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3631.5,
+    "price_first": 1688.0,
+    "price_second": 1055.0,
+    "price_no_seat": 1055.0
+  },
+  "fetched_at": "2026-05-01T09:21:34.724958"
+}

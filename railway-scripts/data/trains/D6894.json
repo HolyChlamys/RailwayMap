@@ -1,0 +1,37 @@
+{
+  "train_no": "D6894",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "大荔",
+  "depart_time": "09:20",
+  "arrive_time": "09:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "09:20",
+      "depart_time": "09:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "渭南北",
+      "arrive_time": "09:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大荔",
+      "arrive_time": "09:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 57.0,
+    "price_second": 36.0,
+    "price_no_seat": 36.0
+  },
+  "fetched_at": "2026-05-01T04:30:22.642127"
+}

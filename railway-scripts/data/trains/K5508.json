@@ -1,0 +1,63 @@
+{
+  "train_no": "K5508",
+  "train_type": "K",
+  "depart_station": "烟台",
+  "arrive_station": "菏泽",
+  "depart_time": "22:53",
+  "arrive_time": "09:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "烟台",
+      "arrive_time": "22:53",
+      "depart_time": "22:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莱阳",
+      "arrive_time": "00:15",
+      "depart_time": "00:26",
+      "stay_min": "11"
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊",
+      "arrive_time": "03:46",
+      "depart_time": "03:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博",
+      "arrive_time": "04:46",
+      "depart_time": "04:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "大明湖",
+      "arrive_time": "05:53",
+      "depart_time": "06:08",
+      "stay_min": "15"
+    },
+    {
+      "seq": 6,
+      "station_name": "聊城",
+      "arrive_time": "07:45",
+      "depart_time": "08:02",
+      "stay_min": "17"
+    },
+    {
+      "seq": 7,
+      "station_name": "菏泽",
+      "arrive_time": "09:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T10:12:19.632695"
+}

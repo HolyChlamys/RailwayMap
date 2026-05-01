@@ -1,0 +1,30 @@
+{
+  "train_no": "C9705",
+  "train_type": "C",
+  "depart_station": "上海南",
+  "arrive_station": "合肥南",
+  "depart_time": "01:24",
+  "arrive_time": "01:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "01:24",
+      "depart_time": "01:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "01:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 393.0,
+    "price_second": 246.0,
+    "price_no_seat": 246.0
+  },
+  "fetched_at": "2026-05-01T02:51:47.486343"
+}

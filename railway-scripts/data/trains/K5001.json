@@ -1,0 +1,133 @@
+{
+  "train_no": "K5001",
+  "train_type": "K",
+  "depart_station": "大连",
+  "arrive_station": "白城",
+  "depart_time": "06:38",
+  "arrive_time": "18:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连",
+      "arrive_time": "06:38",
+      "depart_time": "06:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金州",
+      "arrive_time": "07:06",
+      "depart_time": "07:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "普兰店",
+      "arrive_time": "07:43",
+      "depart_time": "07:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "瓦房店",
+      "arrive_time": "08:08",
+      "depart_time": "08:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "熊岳城",
+      "arrive_time": "09:03",
+      "depart_time": "09:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "大石桥",
+      "arrive_time": "09:52",
+      "depart_time": "09:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "海城",
+      "arrive_time": "10:20",
+      "depart_time": "10:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "鞍山",
+      "arrive_time": "11:15",
+      "depart_time": "11:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "辽阳",
+      "arrive_time": "11:37",
+      "depart_time": "11:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "沈阳",
+      "arrive_time": "12:59",
+      "depart_time": "12:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "铁岭",
+      "arrive_time": "13:56",
+      "depart_time": "13:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "开原",
+      "arrive_time": "14:21",
+      "depart_time": "14:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 13,
+      "station_name": "四平",
+      "arrive_time": "15:28",
+      "depart_time": "15:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 14,
+      "station_name": "八面城",
+      "arrive_time": "15:57",
+      "depart_time": "15:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 15,
+      "station_name": "双辽",
+      "arrive_time": "16:54",
+      "depart_time": "16:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 16,
+      "station_name": "通榆",
+      "arrive_time": "18:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 17,
+      "station_name": "白城",
+      "arrive_time": "18:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 119.0
+  },
+  "fetched_at": "2026-05-01T10:01:28.173394"
+}

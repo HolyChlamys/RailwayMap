@@ -1,0 +1,86 @@
+{
+  "train_no": "D7303",
+  "train_type": "D",
+  "depart_station": "饶平",
+  "arrive_station": "广州东",
+  "depart_time": "09:00",
+  "arrive_time": "11:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "饶平",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "09:20",
+      "depart_time": "09:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潮阳",
+      "arrive_time": "09:33",
+      "depart_time": "09:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "普宁",
+      "arrive_time": "09:45",
+      "depart_time": "09:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "10:16",
+      "depart_time": "10:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "惠东",
+      "arrive_time": "10:47",
+      "depart_time": "10:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "惠州南",
+      "arrive_time": "11:04",
+      "depart_time": "11:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "博罗",
+      "arrive_time": "11:25",
+      "depart_time": "11:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "广州新塘",
+      "arrive_time": "11:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "广州东",
+      "arrive_time": "11:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 348.0,
+    "price_second": 217.0,
+    "price_no_seat": 217.0
+  },
+  "fetched_at": "2026-05-01T04:35:41.998667"
+}

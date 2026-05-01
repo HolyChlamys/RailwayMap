@@ -1,0 +1,45 @@
+{
+  "train_no": "C8989",
+  "train_type": "C",
+  "depart_station": "延安",
+  "arrive_station": "西安北",
+  "depart_time": "18:20",
+  "arrive_time": "19:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "延安",
+      "arrive_time": "18:20",
+      "depart_time": "18:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "铜川",
+      "arrive_time": "19:11",
+      "depart_time": "19:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "富平南",
+      "arrive_time": "19:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安北",
+      "arrive_time": "19:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 836.0,
+    "price_first": 382.0,
+    "price_second": 239.0,
+    "price_no_seat": 239.0
+  },
+  "fetched_at": "2026-05-01T02:39:34.243576"
+}

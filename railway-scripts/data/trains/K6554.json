@@ -1,0 +1,49 @@
+{
+  "train_no": "K6554",
+  "train_type": "K",
+  "depart_station": "常德",
+  "arrive_station": "东莞东",
+  "depart_time": "22:21",
+  "arrive_time": "10:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "常德",
+      "arrive_time": "22:21",
+      "depart_time": "22:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙",
+      "arrive_time": "00:38",
+      "depart_time": "01:00",
+      "stay_min": "22"
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州",
+      "arrive_time": "04:45",
+      "depart_time": "04:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州北",
+      "arrive_time": "08:41",
+      "depart_time": "08:46",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "东莞东",
+      "arrive_time": "10:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 153.5
+  },
+  "fetched_at": "2026-05-01T10:22:34.781279"
+}

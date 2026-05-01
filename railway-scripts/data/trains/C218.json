@@ -1,0 +1,66 @@
+{
+  "train_no": "C218",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "巴中",
+  "depart_time": "06:47",
+  "arrive_time": "11:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "06:47",
+      "depart_time": "06:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南充",
+      "arrive_time": "08:24",
+      "depart_time": "08:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "营山",
+      "arrive_time": "08:54",
+      "depart_time": "08:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "达州",
+      "arrive_time": "09:44",
+      "depart_time": "10:04",
+      "stay_min": "20"
+    },
+    {
+      "seq": 5,
+      "station_name": "平昌",
+      "arrive_time": "11:04",
+      "depart_time": "11:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "巴中东",
+      "arrive_time": "11:32",
+      "depart_time": "11:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "巴中",
+      "arrive_time": "11:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 484.0,
+    "price_first": 222.0,
+    "price_second": 138.0,
+    "price_no_seat": 138.0
+  },
+  "fetched_at": "2026-05-01T00:30:56.460907"
+}

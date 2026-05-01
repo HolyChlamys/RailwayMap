@@ -1,0 +1,58 @@
+{
+  "train_no": "C5748",
+  "train_type": "C",
+  "depart_station": "松潘",
+  "arrive_station": "双流机场",
+  "depart_time": "08:28",
+  "arrive_time": "10:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "松潘",
+      "arrive_time": "08:28",
+      "depart_time": "08:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安州",
+      "arrive_time": "09:26",
+      "depart_time": "09:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "什邡西",
+      "arrive_time": "09:46",
+      "depart_time": "09:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "三星堆",
+      "arrive_time": "09:59",
+      "depart_time": "10:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "10:21",
+      "depart_time": "10:35",
+      "stay_min": "14"
+    },
+    {
+      "seq": 6,
+      "station_name": "双流机场",
+      "arrive_time": "10:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 229.0,
+    "price_second": 143.0,
+    "price_no_seat": 143.0
+  },
+  "fetched_at": "2026-05-01T01:37:27.700554"
+}

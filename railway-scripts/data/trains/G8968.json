@@ -1,0 +1,66 @@
+{
+  "train_no": "G8968",
+  "train_type": "G",
+  "depart_station": "安庆",
+  "arrive_station": "泗县东",
+  "depart_time": "12:56",
+  "arrive_time": "15:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安庆",
+      "arrive_time": "12:56",
+      "depart_time": "12:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "庐江西",
+      "arrive_time": "13:29",
+      "depart_time": "13:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥西",
+      "arrive_time": "14:05",
+      "depart_time": "14:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "定远东",
+      "arrive_time": "14:36",
+      "depart_time": "14:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "明光西",
+      "arrive_time": "14:51",
+      "depart_time": "14:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "五河",
+      "arrive_time": "15:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "泗县东",
+      "arrive_time": "15:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 925.0,
+    "price_first": 423.0,
+    "price_second": 264.0,
+    "price_no_seat": 264.0
+  },
+  "fetched_at": "2026-05-01T09:04:49.043392"
+}

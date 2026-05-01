@@ -1,0 +1,51 @@
+{
+  "train_no": "D3393",
+  "train_type": "D",
+  "depart_station": "太原南",
+  "arrive_station": "晋城东",
+  "depart_time": "07:40",
+  "arrive_time": "09:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "晋中",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长治东",
+      "arrive_time": "08:53",
+      "depart_time": "08:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长治南",
+      "arrive_time": "09:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "晋城东",
+      "arrive_time": "09:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 238.0,
+    "price_second": 149.0,
+    "price_no_seat": 149.0
+  },
+  "fetched_at": "2026-05-01T03:33:27.233308"
+}

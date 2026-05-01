@@ -1,0 +1,94 @@
+{
+  "train_no": "G1343",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "长沙南",
+  "depart_time": "16:37",
+  "arrive_time": "21:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "16:37",
+      "depart_time": "16:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉兴南",
+      "arrive_time": "17:06",
+      "depart_time": "17:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "海宁西",
+      "arrive_time": "17:23",
+      "depart_time": "17:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "17:42",
+      "depart_time": "17:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "金华",
+      "arrive_time": "18:30",
+      "depart_time": "18:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "龙游",
+      "arrive_time": "18:51",
+      "depart_time": "18:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "衢州",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "玉山南",
+      "arrive_time": "19:32",
+      "depart_time": "19:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "南昌西",
+      "arrive_time": "20:44",
+      "depart_time": "20:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "新余北",
+      "arrive_time": "21:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "长沙南",
+      "arrive_time": "21:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2003.0,
+    "price_first": 916.0,
+    "price_second": 572.0,
+    "price_no_seat": 572.0
+  },
+  "fetched_at": "2026-05-01T05:40:17.448290"
+}

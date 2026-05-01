@@ -1,0 +1,44 @@
+{
+  "train_no": "D3368",
+  "train_type": "D",
+  "depart_station": "长治东",
+  "arrive_station": "太原南",
+  "depart_time": "10:41",
+  "arrive_time": "11:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长治东",
+      "arrive_time": "10:41",
+      "depart_time": "10:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "襄垣东",
+      "arrive_time": "11:04",
+      "depart_time": "11:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "榆社西",
+      "arrive_time": "11:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "太原南",
+      "arrive_time": "11:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 167.0,
+    "price_second": 105.0,
+    "price_no_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T03:32:52.743748"
+}

@@ -1,0 +1,40 @@
+{
+  "train_no": "Y706",
+  "train_type": "Y",
+  "depart_station": "伊宁",
+  "arrive_station": "库尔勒",
+  "depart_time": "19:30",
+  "arrive_time": "09:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "伊宁",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "库尔勒",
+      "arrive_time": "12:14",
+      "depart_time": "12:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吐鲁番",
+      "arrive_time": "06:34",
+      "depart_time": "06:42",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "库尔勒",
+      "arrive_time": "09:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:37:03.617978"
+}

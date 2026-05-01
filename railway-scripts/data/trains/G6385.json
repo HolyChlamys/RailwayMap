@@ -1,0 +1,87 @@
+{
+  "train_no": "G6385",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "新塘",
+  "depart_time": "07:24",
+  "arrive_time": "11:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "07:24",
+      "depart_time": "07:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲西",
+      "arrive_time": "07:39",
+      "depart_time": "07:42",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳东",
+      "arrive_time": "08:12",
+      "depart_time": "08:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "耒阳西",
+      "arrive_time": "08:32",
+      "depart_time": "08:40",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "郴州西",
+      "arrive_time": "09:01",
+      "depart_time": "09:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "韶关",
+      "arrive_time": "09:35",
+      "depart_time": "09:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "清远",
+      "arrive_time": "10:08",
+      "depart_time": "10:12",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州北",
+      "arrive_time": "10:24",
+      "depart_time": "10:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "广州白云",
+      "arrive_time": "10:40",
+      "depart_time": "10:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "新塘",
+      "arrive_time": "11:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1278.0,
+    "price_first": 584.0,
+    "price_second": 365.0,
+    "price_no_seat": 365.0
+  },
+  "fetched_at": "2026-05-01T07:57:13.715466"
+}

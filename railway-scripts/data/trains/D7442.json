@@ -1,0 +1,58 @@
+{
+  "train_no": "D7442",
+  "train_type": "D",
+  "depart_station": "汕头",
+  "arrive_station": "深圳北",
+  "depart_time": "22:26",
+  "arrive_time": "00:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "22:26",
+      "depart_time": "22:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "22:49",
+      "depart_time": "22:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "潮阳",
+      "arrive_time": "23:03",
+      "depart_time": "23:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "普宁",
+      "arrive_time": "23:16",
+      "depart_time": "23:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "23:48",
+      "depart_time": "23:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "00:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 237.0,
+    "price_second": 148.0,
+    "price_no_seat": 148.0
+  },
+  "fetched_at": "2026-05-01T04:38:50.512121"
+}

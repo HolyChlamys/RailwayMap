@@ -1,0 +1,37 @@
+{
+  "train_no": "C7185",
+  "train_type": "C",
+  "depart_station": "长沙南",
+  "arrive_station": "邵东",
+  "depart_time": "21:10",
+  "arrive_time": "21:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "21:10",
+      "depart_time": "21:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "娄底南",
+      "arrive_time": "21:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "邵东",
+      "arrive_time": "21:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 218.0,
+    "price_second": 136.5,
+    "price_no_seat": 136.5
+  },
+  "fetched_at": "2026-05-01T02:08:18.046095"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G8384",
+  "train_type": "G",
+  "depart_station": "徐州东",
+  "arrive_station": "南京",
+  "depart_time": "17:15",
+  "arrive_time": "19:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "徐州东",
+      "arrive_time": "17:15",
+      "depart_time": "17:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "观音机场",
+      "arrive_time": "17:30",
+      "depart_time": "17:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "宿迁",
+      "arrive_time": "17:53",
+      "depart_time": "17:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "镇江",
+      "arrive_time": "19:27",
+      "depart_time": "19:30",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京",
+      "arrive_time": "19:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 741.0,
+    "price_first": 360.0,
+    "price_second": 226.0,
+    "price_no_seat": 226.0
+  },
+  "fetched_at": "2026-05-01T08:49:22.586609"
+}

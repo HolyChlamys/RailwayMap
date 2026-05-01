@@ -1,0 +1,65 @@
+{
+  "train_no": "C4303",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "河口北",
+  "depart_time": "09:59",
+  "arrive_time": "15:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "09:59",
+      "depart_time": "09:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "玉溪",
+      "arrive_time": "11:01",
+      "depart_time": "11:07",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "建水",
+      "arrive_time": "12:36",
+      "depart_time": "12:46",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "红河",
+      "arrive_time": "13:21",
+      "depart_time": "13:26",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "蒙自",
+      "arrive_time": "13:45",
+      "depart_time": "13:50",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "屏边",
+      "arrive_time": "14:35",
+      "depart_time": "14:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "河口北",
+      "arrive_time": "15:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 182.0,
+    "price_second": 114.0,
+    "price_no_seat": 114.0
+  },
+  "fetched_at": "2026-05-01T01:12:41.650979"
+}

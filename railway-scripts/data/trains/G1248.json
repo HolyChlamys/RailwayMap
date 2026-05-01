@@ -1,0 +1,129 @@
+{
+  "train_no": "G1248",
+  "train_type": "G",
+  "depart_station": "青岛北",
+  "arrive_station": "沈阳",
+  "depart_time": "08:14",
+  "arrive_time": "16:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "08:14",
+      "depart_time": "08:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高密",
+      "arrive_time": "08:47",
+      "depart_time": "08:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊",
+      "arrive_time": "09:17",
+      "depart_time": "09:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博",
+      "arrive_time": "09:55",
+      "depart_time": "09:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "济南",
+      "arrive_time": "10:42",
+      "depart_time": "10:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南西",
+      "arrive_time": "11:02",
+      "depart_time": "11:08",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "沧州西",
+      "arrive_time": "11:54",
+      "depart_time": "11:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "天津西",
+      "arrive_time": "12:27",
+      "depart_time": "12:31",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "唐山",
+      "arrive_time": "13:08",
+      "depart_time": "13:11",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "秦皇岛",
+      "arrive_time": "13:48",
+      "depart_time": "13:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "山海关",
+      "arrive_time": "14:04",
+      "depart_time": "14:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "葫芦岛北",
+      "arrive_time": "14:50",
+      "depart_time": "14:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "锦州南",
+      "arrive_time": "15:11",
+      "depart_time": "15:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "台安",
+      "arrive_time": "15:55",
+      "depart_time": "15:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "辽中",
+      "arrive_time": "16:11",
+      "depart_time": "16:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "沈阳",
+      "arrive_time": "16:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2003.5,
+    "price_first": 945.0,
+    "price_second": 590.5,
+    "price_no_seat": 590.5
+  },
+  "fetched_at": "2026-05-01T05:37:25.820797"
+}

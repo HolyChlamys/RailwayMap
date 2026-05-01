@@ -1,0 +1,29 @@
+{
+  "train_no": "C967",
+  "train_type": "C",
+  "depart_station": "济南",
+  "arrive_station": "聊城",
+  "depart_time": "19:35",
+  "arrive_time": "20:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "19:35",
+      "depart_time": "19:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "聊城",
+      "arrive_time": "20:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 38.0,
+    "price_no_seat": 38.0
+  },
+  "fetched_at": "2026-05-01T02:51:29.328356"
+}

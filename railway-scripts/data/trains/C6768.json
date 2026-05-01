@@ -1,0 +1,80 @@
+{
+  "train_no": "C6768",
+  "train_type": "C",
+  "depart_station": "潮汕",
+  "arrive_station": "韶关",
+  "depart_time": "19:34",
+  "arrive_time": "23:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潮汕",
+      "arrive_time": "19:34",
+      "depart_time": "19:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普宁",
+      "arrive_time": "19:51",
+      "depart_time": "19:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "陆丰",
+      "arrive_time": "20:13",
+      "depart_time": "20:20",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "20:33",
+      "depart_time": "20:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "惠阳",
+      "arrive_time": "21:04",
+      "depart_time": "21:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "21:32",
+      "depart_time": "21:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "虎门",
+      "arrive_time": "21:53",
+      "depart_time": "21:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "22:12",
+      "depart_time": "22:23",
+      "stay_min": "11"
+    },
+    {
+      "seq": 9,
+      "station_name": "韶关",
+      "arrive_time": "23:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1110.5,
+    "price_first": 516.5,
+    "price_second": 334.5,
+    "price_no_seat": 334.5
+  },
+  "fetched_at": "2026-05-01T01:56:01.094971"
+}

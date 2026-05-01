@@ -1,0 +1,66 @@
+{
+  "train_no": "D6476",
+  "train_type": "D",
+  "depart_station": "厦门",
+  "arrive_station": "瑞金",
+  "depart_time": "07:37",
+  "arrive_time": "09:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "07:37",
+      "depart_time": "07:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "08:12",
+      "depart_time": "08:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南靖",
+      "arrive_time": "08:30",
+      "depart_time": "08:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙岩",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "古田会址",
+      "arrive_time": "09:25",
+      "depart_time": "09:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长汀南",
+      "arrive_time": "09:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "瑞金",
+      "arrive_time": "09:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 345.5,
+    "price_first": 178.0,
+    "price_second": 111.5,
+    "price_no_seat": 111.5
+  },
+  "fetched_at": "2026-05-01T04:23:31.396071"
+}

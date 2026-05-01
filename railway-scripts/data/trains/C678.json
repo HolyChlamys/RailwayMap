@@ -1,0 +1,44 @@
+{
+  "train_no": "C678",
+  "train_type": "C",
+  "depart_station": "济南",
+  "arrive_station": "曹县",
+  "depart_time": "06:00",
+  "arrive_time": "09:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "06:00",
+      "depart_time": "06:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "聊城",
+      "arrive_time": "07:26",
+      "depart_time": "07:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "菏泽",
+      "arrive_time": "08:39",
+      "depart_time": "08:45",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "曹县",
+      "arrive_time": "09:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 128.0,
+    "price_second": 80.0,
+    "price_no_seat": 80.0
+  },
+  "fetched_at": "2026-05-01T01:56:22.606543"
+}

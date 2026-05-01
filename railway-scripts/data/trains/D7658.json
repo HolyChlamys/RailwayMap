@@ -1,0 +1,30 @@
+{
+  "train_no": "D7658",
+  "train_type": "D",
+  "depart_station": "丹东",
+  "arrive_station": "沈阳",
+  "depart_time": "22:44",
+  "arrive_time": "22:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丹东",
+      "arrive_time": "22:44",
+      "depart_time": "22:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳",
+      "arrive_time": "22:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 115.0,
+    "price_second": 71.0,
+    "price_no_seat": 71.0
+  },
+  "fetched_at": "2026-05-01T04:42:24.878906"
+}

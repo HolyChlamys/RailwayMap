@@ -1,0 +1,59 @@
+{
+  "train_no": "G6536",
+  "train_type": "G",
+  "depart_station": "香港西九龙",
+  "arrive_station": "广州南",
+  "depart_time": "13:33",
+  "arrive_time": "14:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香港西九龙",
+      "arrive_time": "13:33",
+      "depart_time": "13:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福田",
+      "arrive_time": "13:49",
+      "depart_time": "13:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "14:05",
+      "depart_time": "14:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "虎门",
+      "arrive_time": "14:24",
+      "depart_time": "14:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南沙北",
+      "arrive_time": "14:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "14:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 645.0,
+    "price_first": 344.0,
+    "price_second": 215.0,
+    "price_no_seat": 215.0
+  },
+  "fetched_at": "2026-05-01T08:01:43.977011"
+}

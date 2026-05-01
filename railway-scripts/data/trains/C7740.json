@@ -1,0 +1,57 @@
+{
+  "train_no": "C7740",
+  "train_type": "C",
+  "depart_station": "江门",
+  "arrive_station": "广州南",
+  "depart_time": "13:32",
+  "arrive_time": "14:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "江门",
+      "arrive_time": "13:32",
+      "depart_time": "13:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "礼乐",
+      "arrive_time": "13:40",
+      "depart_time": "13:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "江门东",
+      "arrive_time": "13:46",
+      "depart_time": "13:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "小榄",
+      "arrive_time": "13:57",
+      "depart_time": "13:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "顺德",
+      "arrive_time": "14:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "14:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 57.0,
+    "price_no_seat": 57.0
+  },
+  "fetched_at": "2026-05-01T02:23:02.169049"
+}

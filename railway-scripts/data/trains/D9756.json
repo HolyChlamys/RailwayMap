@@ -1,0 +1,38 @@
+{
+  "train_no": "D9756",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "潮阳",
+  "depart_time": "05:28",
+  "arrive_time": "06:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "05:28",
+      "depart_time": "05:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普宁",
+      "arrive_time": "06:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潮阳",
+      "arrive_time": "06:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 433.0,
+    "price_first": 198.0,
+    "price_second": 124.0,
+    "price_no_seat": 124.0
+  },
+  "fetched_at": "2026-05-01T05:24:00.695938"
+}

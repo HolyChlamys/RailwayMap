@@ -1,0 +1,100 @@
+{
+  "train_no": "D8089",
+  "train_type": "D",
+  "depart_station": "延吉西",
+  "arrive_station": "丹东",
+  "depart_time": "08:01",
+  "arrive_time": "13:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "延吉西",
+      "arrive_time": "08:01",
+      "depart_time": "08:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安图西",
+      "arrive_time": "08:21",
+      "depart_time": "08:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "敦化",
+      "arrive_time": "08:46",
+      "depart_time": "09:06",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "长白山",
+      "arrive_time": "09:45",
+      "depart_time": "09:48",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "通化",
+      "arrive_time": "10:48",
+      "depart_time": "11:01",
+      "stay_min": "13"
+    },
+    {
+      "seq": 6,
+      "station_name": "抚顺",
+      "arrive_time": "11:52",
+      "depart_time": "11:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "沈阳北",
+      "arrive_time": "12:15",
+      "depart_time": "12:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "沈阳南",
+      "arrive_time": "12:33",
+      "depart_time": "12:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "本溪",
+      "arrive_time": "12:59",
+      "depart_time": "13:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "通远堡西",
+      "arrive_time": "13:21",
+      "depart_time": "13:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "凤城东",
+      "arrive_time": "13:37",
+      "depart_time": "13:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "丹东",
+      "arrive_time": "13:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 733.0,
+    "price_second": 457.0,
+    "price_no_seat": 457.0
+  },
+  "fetched_at": "2026-05-01T04:49:21.191355"
+}

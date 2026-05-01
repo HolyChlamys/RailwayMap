@@ -1,0 +1,79 @@
+{
+  "train_no": "D2724",
+  "train_type": "D",
+  "depart_station": "西宁",
+  "arrive_station": "西安北",
+  "depart_time": "15:05",
+  "arrive_time": "18:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西宁",
+      "arrive_time": "15:05",
+      "depart_time": "15:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海东",
+      "arrive_time": "15:27",
+      "depart_time": "15:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兰州西",
+      "arrive_time": "16:14",
+      "depart_time": "16:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "榆中",
+      "arrive_time": "16:35",
+      "depart_time": "16:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "通渭",
+      "arrive_time": "17:16",
+      "depart_time": "17:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "天水南",
+      "arrive_time": "17:48",
+      "depart_time": "17:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宝鸡南",
+      "arrive_time": "18:33",
+      "depart_time": "18:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "岐山",
+      "arrive_time": "18:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "西安北",
+      "arrive_time": "18:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 477.0,
+    "price_second": 298.0,
+    "price_no_seat": 298.0
+  },
+  "fetched_at": "2026-05-01T03:21:33.260056"
+}

@@ -1,0 +1,58 @@
+{
+  "train_no": "D7625",
+  "train_type": "D",
+  "depart_station": "沈阳",
+  "arrive_station": "丹东",
+  "depart_time": "14:58",
+  "arrive_time": "16:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "14:58",
+      "depart_time": "14:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "本溪",
+      "arrive_time": "15:31",
+      "depart_time": "15:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南芬北",
+      "arrive_time": "15:43",
+      "depart_time": "15:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "通远堡西",
+      "arrive_time": "15:59",
+      "depart_time": "15:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "凤城东",
+      "arrive_time": "16:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "丹东",
+      "arrive_time": "16:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 115.0,
+    "price_second": 71.0,
+    "price_no_seat": 71.0
+  },
+  "fetched_at": "2026-05-01T04:41:56.497794"
+}

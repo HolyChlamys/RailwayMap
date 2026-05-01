@@ -1,0 +1,114 @@
+{
+  "train_no": "D1620",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "济南东",
+  "depart_time": "13:50",
+  "arrive_time": "21:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "卓资东",
+      "arrive_time": "14:15",
+      "depart_time": "14:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "乌兰察布",
+      "arrive_time": "14:35",
+      "depart_time": "14:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "丰镇北",
+      "arrive_time": "14:59",
+      "depart_time": "15:03",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "大同南",
+      "arrive_time": "15:26",
+      "depart_time": "15:35",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "应县西",
+      "arrive_time": "15:55",
+      "depart_time": "16:06",
+      "stay_min": "11"
+    },
+    {
+      "seq": 7,
+      "station_name": "太原",
+      "arrive_time": "17:15",
+      "depart_time": "17:37",
+      "stay_min": "22"
+    },
+    {
+      "seq": 8,
+      "station_name": "阳泉北",
+      "arrive_time": "18:20",
+      "depart_time": "18:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "石家庄",
+      "arrive_time": "19:01",
+      "depart_time": "19:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "辛集南",
+      "arrive_time": "19:33",
+      "depart_time": "19:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "衡水北",
+      "arrive_time": "19:51",
+      "depart_time": "19:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "景州",
+      "arrive_time": "20:09",
+      "depart_time": "20:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "德州东",
+      "arrive_time": "20:27",
+      "depart_time": "20:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "济南东",
+      "arrive_time": "21:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 696.0,
+    "price_second": 436.0,
+    "price_no_seat": 436.0
+  },
+  "fetched_at": "2026-05-01T03:01:17.259701"
+}

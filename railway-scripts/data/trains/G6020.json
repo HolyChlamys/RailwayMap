@@ -1,0 +1,59 @@
+{
+  "train_no": "G6020",
+  "train_type": "G",
+  "depart_station": "福田",
+  "arrive_station": "长沙南",
+  "depart_time": "01:50",
+  "arrive_time": "04:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福田",
+      "arrive_time": "01:50",
+      "depart_time": "01:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "02:03",
+      "depart_time": "02:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "02:36",
+      "depart_time": "02:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郴州西",
+      "arrive_time": "04:00",
+      "depart_time": "04:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡阳东",
+      "arrive_time": "04:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙南",
+      "arrive_time": "04:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1536.0,
+    "price_first": 712.0,
+    "price_second": 459.0,
+    "price_no_seat": 459.0
+  },
+  "fetched_at": "2026-05-01T07:46:25.932354"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "G5602",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "乐昌东",
+  "depart_time": "05:10",
+  "arrive_time": "06:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "05:10",
+      "depart_time": "05:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "清远",
+      "arrive_time": "05:34",
+      "depart_time": "05:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "韶关",
+      "arrive_time": "06:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "乐昌东",
+      "arrive_time": "06:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 522.0,
+    "price_first": 238.0,
+    "price_second": 149.0,
+    "price_no_seat": 149.0
+  },
+  "fetched_at": "2026-05-01T07:38:11.710849"
+}

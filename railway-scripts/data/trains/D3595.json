@@ -1,0 +1,45 @@
+{
+  "train_no": "D3595",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "庆阳",
+  "depart_time": "21:00",
+  "arrive_time": "22:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "21:00",
+      "depart_time": "21:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "彬州东",
+      "arrive_time": "21:43",
+      "depart_time": "21:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁县",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "庆阳",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 369.0,
+    "price_first": 169.0,
+    "price_second": 106.0,
+    "price_no_seat": 106.0
+  },
+  "fetched_at": "2026-05-01T03:35:15.658160"
+}

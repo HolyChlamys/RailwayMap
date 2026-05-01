@@ -1,0 +1,51 @@
+{
+  "train_no": "D8073",
+  "train_type": "D",
+  "depart_station": "锦州北",
+  "arrive_station": "沈阳",
+  "depart_time": "07:59",
+  "arrive_time": "09:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "锦州北",
+      "arrive_time": "07:59",
+      "depart_time": "07:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "盘锦北",
+      "arrive_time": "08:29",
+      "depart_time": "08:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "台安",
+      "arrive_time": "08:53",
+      "depart_time": "08:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "辽中",
+      "arrive_time": "09:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳",
+      "arrive_time": "09:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 124.0,
+    "price_second": 78.0,
+    "price_no_seat": 78.0
+  },
+  "fetched_at": "2026-05-01T04:49:08.027832"
+}

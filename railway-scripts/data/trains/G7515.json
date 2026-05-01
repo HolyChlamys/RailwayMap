@@ -1,0 +1,51 @@
+{
+  "train_no": "G7515",
+  "train_type": "G",
+  "depart_station": "上海南",
+  "arrive_station": "宁波",
+  "depart_time": "13:47",
+  "arrive_time": "15:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "13:47",
+      "depart_time": "13:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉兴南",
+      "arrive_time": "14:33",
+      "depart_time": "14:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "临平南",
+      "arrive_time": "14:53",
+      "depart_time": "14:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "15:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宁波",
+      "arrive_time": "15:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 274.0,
+    "price_second": 171.0,
+    "price_no_seat": 171.0
+  },
+  "fetched_at": "2026-05-01T08:29:21.655881"
+}

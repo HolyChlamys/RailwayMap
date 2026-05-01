@@ -1,0 +1,70 @@
+{
+  "train_no": "K5037",
+  "train_type": "K",
+  "depart_station": "长春",
+  "arrive_station": "通辽",
+  "depart_time": "13:53",
+  "arrive_time": "18:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "13:53",
+      "depart_time": "13:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "公主岭",
+      "arrive_time": "14:31",
+      "depart_time": "14:34",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "四平",
+      "arrive_time": "15:12",
+      "depart_time": "15:45",
+      "stay_min": "33"
+    },
+    {
+      "seq": 4,
+      "station_name": "八面城",
+      "arrive_time": "16:11",
+      "depart_time": "16:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "金宝屯",
+      "arrive_time": "16:53",
+      "depart_time": "16:56",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "双辽",
+      "arrive_time": "17:11",
+      "depart_time": "17:16",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "门达",
+      "arrive_time": "17:44",
+      "depart_time": "17:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "通辽",
+      "arrive_time": "18:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 46.5
+  },
+  "fetched_at": "2026-05-01T10:02:24.246967"
+}

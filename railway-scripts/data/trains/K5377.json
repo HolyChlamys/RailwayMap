@@ -1,0 +1,56 @@
+{
+  "train_no": "K5377",
+  "train_type": "K",
+  "depart_station": "郑州",
+  "arrive_station": "三门峡",
+  "depart_time": "08:47",
+  "arrive_time": "11:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州",
+      "arrive_time": "08:47",
+      "depart_time": "08:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巩义",
+      "arrive_time": "09:49",
+      "depart_time": "09:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "偃师",
+      "arrive_time": "10:13",
+      "depart_time": "10:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "洛阳",
+      "arrive_time": "10:45",
+      "depart_time": "10:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "渑池",
+      "arrive_time": "11:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "三门峡",
+      "arrive_time": "11:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:09:08.507724"
+}

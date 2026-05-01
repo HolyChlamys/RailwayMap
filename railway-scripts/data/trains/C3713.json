@@ -1,0 +1,52 @@
+{
+  "train_no": "C3713",
+  "train_type": "C",
+  "depart_station": "扬州",
+  "arrive_station": "徐州东",
+  "depart_time": "19:38",
+  "arrive_time": "21:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "扬州",
+      "arrive_time": "19:38",
+      "depart_time": "19:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高邮",
+      "arrive_time": "20:07",
+      "depart_time": "20:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "淮安东",
+      "arrive_time": "20:37",
+      "depart_time": "20:41",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "宿迁",
+      "arrive_time": "21:09",
+      "depart_time": "21:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "徐州东",
+      "arrive_time": "21:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 506.0,
+    "price_first": 255.0,
+    "price_second": 159.0,
+    "price_no_seat": 159.0
+  },
+  "fetched_at": "2026-05-01T01:03:09.749666"
+}

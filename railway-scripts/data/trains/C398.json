@@ -1,0 +1,80 @@
+{
+  "train_no": "C398",
+  "train_type": "C",
+  "depart_station": "磨憨",
+  "arrive_station": "昆明南",
+  "depart_time": "10:00",
+  "arrive_time": "14:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "磨憨",
+      "arrive_time": "10:00",
+      "depart_time": "10:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "勐腊",
+      "arrive_time": "10:18",
+      "depart_time": "10:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "橄榄坝",
+      "arrive_time": "10:59",
+      "depart_time": "10:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西双版纳",
+      "arrive_time": "11:20",
+      "depart_time": "11:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "普洱",
+      "arrive_time": "12:04",
+      "depart_time": "12:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宁洱",
+      "arrive_time": "12:26",
+      "depart_time": "12:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "墨江",
+      "arrive_time": "13:10",
+      "depart_time": "13:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "玉溪",
+      "arrive_time": "14:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "昆明南",
+      "arrive_time": "14:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1078.0,
+    "price_first": 501.0,
+    "price_second": 314.0,
+    "price_no_seat": 314.0
+  },
+  "fetched_at": "2026-05-01T01:06:04.100033"
+}

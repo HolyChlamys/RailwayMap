@@ -1,0 +1,77 @@
+{
+  "train_no": "K88",
+  "train_type": "K",
+  "depart_station": "广州白云",
+  "arrive_station": "九江",
+  "depart_time": "17:55",
+  "arrive_time": "07:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "17:55",
+      "depart_time": "17:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞东",
+      "arrive_time": "19:36",
+      "depart_time": "19:42",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州",
+      "arrive_time": "20:25",
+      "depart_time": "20:29",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "河源",
+      "arrive_time": "21:19",
+      "depart_time": "21:24",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "龙川",
+      "arrive_time": "22:19",
+      "depart_time": "22:23",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "赣州",
+      "arrive_time": "01:25",
+      "depart_time": "01:29",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "吉安",
+      "arrive_time": "03:26",
+      "depart_time": "03:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "南昌",
+      "arrive_time": "06:02",
+      "depart_time": "06:28",
+      "stay_min": "26"
+    },
+    {
+      "seq": 9,
+      "station_name": "九江",
+      "arrive_time": "07:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 158.5
+  },
+  "fetched_at": "2026-05-01T10:41:30.124938"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "C9534",
+  "train_type": "C",
+  "depart_station": "南昌",
+  "arrive_station": "玉山南",
+  "depart_time": "20:40",
+  "arrive_time": "22:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "20:40",
+      "depart_time": "20:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹰潭北",
+      "arrive_time": "21:28",
+      "depart_time": "21:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "上饶",
+      "arrive_time": "22:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "玉山南",
+      "arrive_time": "22:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 161.0,
+    "price_second": 101.0,
+    "price_no_seat": 101.0
+  },
+  "fetched_at": "2026-05-01T02:48:27.669416"
+}

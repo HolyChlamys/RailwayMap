@@ -1,0 +1,91 @@
+{
+  "train_no": "K1057",
+  "train_type": "K",
+  "depart_station": "西宁",
+  "arrive_station": "成都西",
+  "depart_time": "22:10",
+  "arrive_time": "12:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西宁",
+      "arrive_time": "22:10",
+      "depart_time": "22:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兰州",
+      "arrive_time": "00:57",
+      "depart_time": "01:17",
+      "stay_min": "20"
+    },
+    {
+      "seq": 3,
+      "station_name": "渭源",
+      "arrive_time": "02:47",
+      "depart_time": "02:52",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "岷县",
+      "arrive_time": "03:49",
+      "depart_time": "03:54",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "哈达铺",
+      "arrive_time": "04:14",
+      "depart_time": "04:20",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "陇南",
+      "arrive_time": "05:38",
+      "depart_time": "05:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "广元",
+      "arrive_time": "07:17",
+      "depart_time": "07:23",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "江油",
+      "arrive_time": "10:25",
+      "depart_time": "10:29",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "绵阳",
+      "arrive_time": "11:06",
+      "depart_time": "11:10",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "德阳",
+      "arrive_time": "11:52",
+      "depart_time": "11:56",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "成都西",
+      "arrive_time": "12:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 135.5
+  },
+  "fetched_at": "2026-05-01T09:30:19.262897"
+}

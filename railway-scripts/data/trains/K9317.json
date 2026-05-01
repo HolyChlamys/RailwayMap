@@ -1,0 +1,70 @@
+{
+  "train_no": "K9317",
+  "train_type": "K",
+  "depart_station": "湛江",
+  "arrive_station": "金城江",
+  "depart_time": "06:30",
+  "arrive_time": "15:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "湛江",
+      "arrive_time": "06:30",
+      "depart_time": "06:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "陆川",
+      "arrive_time": "08:11",
+      "depart_time": "08:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "玉林",
+      "arrive_time": "08:46",
+      "depart_time": "09:01",
+      "stay_min": "15"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵港",
+      "arrive_time": "10:00",
+      "depart_time": "10:05",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "来宾",
+      "arrive_time": "11:34",
+      "depart_time": "11:44",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "柳州",
+      "arrive_time": "12:35",
+      "depart_time": "13:01",
+      "stay_min": "26"
+    },
+    {
+      "seq": 7,
+      "station_name": "宜州",
+      "arrive_time": "14:04",
+      "depart_time": "14:09",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "金城江",
+      "arrive_time": "15:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 86.0
+  },
+  "fetched_at": "2026-05-01T10:43:49.469902"
+}

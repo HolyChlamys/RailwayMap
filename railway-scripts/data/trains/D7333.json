@@ -1,0 +1,72 @@
+{
+  "train_no": "D7333",
+  "train_type": "D",
+  "depart_station": "梅州西",
+  "arrive_station": "福田",
+  "depart_time": "20:08",
+  "arrive_time": "22:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梅州西",
+      "arrive_time": "20:08",
+      "depart_time": "20:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴宁南",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙川西",
+      "arrive_time": "20:49",
+      "depart_time": "20:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "河源东",
+      "arrive_time": "21:11",
+      "depart_time": "21:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "惠州北",
+      "arrive_time": "21:38",
+      "depart_time": "21:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "东莞南",
+      "arrive_time": "21:57",
+      "depart_time": "21:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳北",
+      "arrive_time": "22:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "福田",
+      "arrive_time": "22:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 279.0,
+    "price_second": 176.0,
+    "price_no_seat": 176.0
+  },
+  "fetched_at": "2026-05-01T04:36:31.484013"
+}

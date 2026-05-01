@@ -1,0 +1,33 @@
+{
+  "train_no": "Y791",
+  "train_type": "Y",
+  "depart_station": "临沧",
+  "arrive_station": "昆明",
+  "depart_time": "18:18",
+  "arrive_time": "09:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沧",
+      "arrive_time": "18:18",
+      "depart_time": "18:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大理",
+      "arrive_time": "20:51",
+      "depart_time": "21:42",
+      "stay_min": "51"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "09:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:38:54.319758"
+}

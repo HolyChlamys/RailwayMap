@@ -1,0 +1,45 @@
+{
+  "train_no": "C9782",
+  "train_type": "C",
+  "depart_station": "连云港",
+  "arrive_station": "南京",
+  "depart_time": "22:07",
+  "arrive_time": "00:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "连云港",
+      "arrive_time": "22:07",
+      "depart_time": "22:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮安东",
+      "arrive_time": "22:52",
+      "depart_time": "22:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "扬州东",
+      "arrive_time": "23:33",
+      "depart_time": "23:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京",
+      "arrive_time": "00:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 588.0,
+    "price_first": 288.0,
+    "price_second": 181.0,
+    "price_no_seat": 181.0
+  },
+  "fetched_at": "2026-05-01T02:52:22.228091"
+}

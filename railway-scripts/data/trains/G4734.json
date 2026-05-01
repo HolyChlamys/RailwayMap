@@ -1,0 +1,31 @@
+{
+  "train_no": "G4734",
+  "train_type": "G",
+  "depart_station": "南宁东",
+  "arrive_station": "贵阳北",
+  "depart_time": "02:42",
+  "arrive_time": "02:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "02:42",
+      "depart_time": "02:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳北",
+      "arrive_time": "02:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1045.0,
+    "price_first": 478.0,
+    "price_second": 298.0,
+    "price_no_seat": 298.0
+  },
+  "fetched_at": "2026-05-01T07:14:07.397443"
+}

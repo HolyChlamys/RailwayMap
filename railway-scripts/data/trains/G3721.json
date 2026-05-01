@@ -1,0 +1,86 @@
+{
+  "train_no": "G3721",
+  "train_type": "G",
+  "depart_station": "永川东",
+  "arrive_station": "广州南",
+  "depart_time": "07:55",
+  "arrive_time": "14:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "永川东",
+      "arrive_time": "07:55",
+      "depart_time": "07:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "08:21",
+      "depart_time": "08:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "遵义",
+      "arrive_time": "09:42",
+      "depart_time": "09:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳东",
+      "arrive_time": "10:33",
+      "depart_time": "10:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "龙洞堡",
+      "arrive_time": "10:46",
+      "depart_time": "10:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "桂林西",
+      "arrive_time": "12:30",
+      "depart_time": "12:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "钟山西",
+      "arrive_time": "13:13",
+      "depart_time": "13:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "肇庆东",
+      "arrive_time": "14:10",
+      "depart_time": "14:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "佛山西",
+      "arrive_time": "14:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "广州南",
+      "arrive_time": "14:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 966.0,
+    "price_second": 604.0,
+    "price_no_seat": 604.0
+  },
+  "fetched_at": "2026-05-01T06:45:46.754281"
+}

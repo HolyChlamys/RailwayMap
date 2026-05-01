@@ -1,0 +1,59 @@
+{
+  "train_no": "D5334",
+  "train_type": "D",
+  "depart_station": "运城北",
+  "arrive_station": "太原",
+  "depart_time": "07:08",
+  "arrive_time": "09:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "运城北",
+      "arrive_time": "07:08",
+      "depart_time": "07:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "侯马西",
+      "arrive_time": "07:32",
+      "depart_time": "07:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "临汾西",
+      "arrive_time": "07:55",
+      "depart_time": "07:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "介休东",
+      "arrive_time": "08:38",
+      "depart_time": "08:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太原南",
+      "arrive_time": "09:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "太原",
+      "arrive_time": "09:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 483.0,
+    "price_first": 223.0,
+    "price_second": 139.0,
+    "price_no_seat": 139.0
+  },
+  "fetched_at": "2026-05-01T04:04:55.047921"
+}

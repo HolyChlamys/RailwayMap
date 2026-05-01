@@ -1,0 +1,58 @@
+{
+  "train_no": "D6541",
+  "train_type": "D",
+  "depart_station": "建宁县北",
+  "arrive_station": "福州",
+  "depart_time": "19:08",
+  "arrive_time": "20:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "建宁县北",
+      "arrive_time": "19:08",
+      "depart_time": "19:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰宁",
+      "arrive_time": "19:23",
+      "depart_time": "19:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "将乐",
+      "arrive_time": "19:42",
+      "depart_time": "19:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "三明北",
+      "arrive_time": "20:04",
+      "depart_time": "20:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "尤溪",
+      "arrive_time": "20:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "福州",
+      "arrive_time": "20:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 188.0,
+    "price_second": 117.0,
+    "price_no_seat": 117.0
+  },
+  "fetched_at": "2026-05-01T04:24:39.687228"
+}

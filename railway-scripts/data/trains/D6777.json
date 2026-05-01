@@ -1,0 +1,51 @@
+{
+  "train_no": "D6777",
+  "train_type": "D",
+  "depart_station": "乌兰察布",
+  "arrive_station": "包头",
+  "depart_time": "16:47",
+  "arrive_time": "18:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌兰察布",
+      "arrive_time": "16:47",
+      "depart_time": "16:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "卓资东",
+      "arrive_time": "17:13",
+      "depart_time": "17:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "呼和浩特",
+      "arrive_time": "17:49",
+      "depart_time": "17:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "包头东",
+      "arrive_time": "18:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "包头",
+      "arrive_time": "18:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 153.0,
+    "price_second": 95.5,
+    "price_no_seat": 95.5
+  },
+  "fetched_at": "2026-05-01T04:28:36.667167"
+}

@@ -1,0 +1,65 @@
+{
+  "train_no": "D3761",
+  "train_type": "D",
+  "depart_station": "柳州",
+  "arrive_station": "广州南",
+  "depart_time": "17:08",
+  "arrive_time": "20:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "柳州",
+      "arrive_time": "17:08",
+      "depart_time": "17:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "来宾北",
+      "arrive_time": "17:35",
+      "depart_time": "17:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "平南南",
+      "arrive_time": "18:35",
+      "depart_time": "18:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "藤县",
+      "arrive_time": "18:56",
+      "depart_time": "18:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "梧州南",
+      "arrive_time": "19:12",
+      "depart_time": "19:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "肇庆东",
+      "arrive_time": "20:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州南",
+      "arrive_time": "20:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 428.0,
+    "price_second": 267.0,
+    "price_no_seat": 267.0
+  },
+  "fetched_at": "2026-05-01T03:38:42.112895"
+}

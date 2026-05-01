@@ -1,0 +1,80 @@
+{
+  "train_no": "D5182",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "成都南",
+  "depart_time": "17:51",
+  "arrive_time": "22:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黔西",
+      "arrive_time": "18:30",
+      "depart_time": "18:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "毕节",
+      "arrive_time": "19:12",
+      "depart_time": "19:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宜宾西",
+      "arrive_time": "20:18",
+      "depart_time": "20:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "屏山",
+      "arrive_time": "20:33",
+      "depart_time": "20:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "泥溪",
+      "arrive_time": "20:59",
+      "depart_time": "20:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "乐山",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "眉山东",
+      "arrive_time": "22:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "成都南",
+      "arrive_time": "22:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 882.0,
+    "price_first": 470.0,
+    "price_second": 294.0,
+    "price_no_seat": 294.0
+  },
+  "fetched_at": "2026-05-01T04:02:04.966597"
+}

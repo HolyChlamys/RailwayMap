@@ -1,0 +1,77 @@
+{
+  "train_no": "K2602",
+  "train_type": "K",
+  "depart_station": "秦皇岛",
+  "arrive_station": "大同",
+  "depart_time": "17:55",
+  "arrive_time": "06:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "秦皇岛",
+      "arrive_time": "17:55",
+      "depart_time": "17:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北戴河",
+      "arrive_time": "18:13",
+      "depart_time": "18:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "滦县",
+      "arrive_time": "19:08",
+      "depart_time": "19:11",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "唐山",
+      "arrive_time": "20:02",
+      "depart_time": "20:07",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "天津",
+      "arrive_time": "21:47",
+      "depart_time": "22:22",
+      "stay_min": "35"
+    },
+    {
+      "seq": 6,
+      "station_name": "北京丰台",
+      "arrive_time": "23:41",
+      "depart_time": "00:07",
+      "stay_min": "1414"
+    },
+    {
+      "seq": 7,
+      "station_name": "张家口",
+      "arrive_time": "03:21",
+      "depart_time": "03:54",
+      "stay_min": "33"
+    },
+    {
+      "seq": 8,
+      "station_name": "阳高",
+      "arrive_time": "05:42",
+      "depart_time": "05:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "大同",
+      "arrive_time": "06:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T09:41:43.095618"
+}

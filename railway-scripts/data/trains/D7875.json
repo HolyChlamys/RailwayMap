@@ -1,0 +1,36 @@
+{
+  "train_no": "D7875",
+  "train_type": "D",
+  "depart_station": "开封",
+  "arrive_station": "郑州",
+  "depart_time": "06:37",
+  "arrive_time": "07:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "开封",
+      "arrive_time": "06:37",
+      "depart_time": "06:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "07:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州",
+      "arrive_time": "07:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 36.0,
+    "price_no_seat": 36.0
+  },
+  "fetched_at": "2026-05-01T04:46:31.457091"
+}

@@ -1,0 +1,94 @@
+{
+  "train_no": "G1179",
+  "train_type": "G",
+  "depart_station": "天津西",
+  "arrive_station": "武汉",
+  "depart_time": "07:46",
+  "arrive_time": "12:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津西",
+      "arrive_time": "07:46",
+      "depart_time": "07:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "胜芳",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "白洋淀",
+      "arrive_time": "08:38",
+      "depart_time": "08:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "保定东",
+      "arrive_time": "09:06",
+      "depart_time": "09:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "石家庄",
+      "arrive_time": "09:45",
+      "depart_time": "09:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "安阳东",
+      "arrive_time": "10:50",
+      "depart_time": "10:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "鹤壁东",
+      "arrive_time": "11:07",
+      "depart_time": "11:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "郑州东",
+      "arrive_time": "11:44",
+      "depart_time": "11:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "许昌东",
+      "arrive_time": "12:08",
+      "depart_time": "12:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "信阳东",
+      "arrive_time": "12:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "武汉",
+      "arrive_time": "12:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2144.0,
+    "price_first": 990.5,
+    "price_second": 619.5,
+    "price_no_seat": 619.5
+  },
+  "fetched_at": "2026-05-01T05:35:23.956029"
+}

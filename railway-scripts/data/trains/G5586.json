@@ -1,0 +1,94 @@
+{
+  "train_no": "G5586",
+  "train_type": "G",
+  "depart_station": "曲阜东",
+  "arrive_station": "荣成",
+  "depart_time": "18:26",
+  "arrive_time": "23:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "曲阜东",
+      "arrive_time": "18:26",
+      "depart_time": "18:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泗水南",
+      "arrive_time": "18:39",
+      "depart_time": "18:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "蒙山",
+      "arrive_time": "18:54",
+      "depart_time": "18:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "费县北",
+      "arrive_time": "19:07",
+      "depart_time": "19:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "临沂北",
+      "arrive_time": "19:22",
+      "depart_time": "19:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "莒南北",
+      "arrive_time": "19:39",
+      "depart_time": "19:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "日照西",
+      "arrive_time": "20:02",
+      "depart_time": "20:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "青岛西",
+      "arrive_time": "20:34",
+      "depart_time": "20:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "青岛北",
+      "arrive_time": "21:15",
+      "depart_time": "21:41",
+      "stay_min": "26"
+    },
+    {
+      "seq": 10,
+      "station_name": "莱西",
+      "arrive_time": "22:09",
+      "depart_time": "22:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "荣成",
+      "arrive_time": "23:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1037.0,
+    "price_first": 517.0,
+    "price_second": 323.0,
+    "price_no_seat": 323.0
+  },
+  "fetched_at": "2026-05-01T07:37:42.255454"
+}

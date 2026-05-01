@@ -1,0 +1,59 @@
+{
+  "train_no": "C3080",
+  "train_type": "C",
+  "depart_station": "湖州东",
+  "arrive_station": "上海南",
+  "depart_time": "06:46",
+  "arrive_time": "07:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "湖州东",
+      "arrive_time": "06:46",
+      "depart_time": "06:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "湖州南浔",
+      "arrive_time": "06:58",
+      "depart_time": "06:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "盛泽",
+      "arrive_time": "07:09",
+      "depart_time": "07:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "苏州南",
+      "arrive_time": "07:22",
+      "depart_time": "07:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "上海松江",
+      "arrive_time": "07:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "上海南",
+      "arrive_time": "07:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 321.0,
+    "price_first": 147.0,
+    "price_second": 92.0,
+    "price_no_seat": 92.0
+  },
+  "fetched_at": "2026-05-01T00:50:27.983427"
+}

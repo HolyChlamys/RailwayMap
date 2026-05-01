@@ -1,0 +1,86 @@
+{
+  "train_no": "D3949",
+  "train_type": "D",
+  "depart_station": "桂林北",
+  "arrive_station": "大理",
+  "depart_time": "09:05",
+  "arrive_time": "18:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "桂林北",
+      "arrive_time": "09:05",
+      "depart_time": "09:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "柳州",
+      "arrive_time": "10:12",
+      "depart_time": "10:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "南宁东",
+      "arrive_time": "11:19",
+      "depart_time": "11:24",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁",
+      "arrive_time": "11:35",
+      "depart_time": "11:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "百色",
+      "arrive_time": "12:53",
+      "depart_time": "12:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明南",
+      "arrive_time": "15:25",
+      "depart_time": "15:30",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "昆明",
+      "arrive_time": "15:48",
+      "depart_time": "15:52",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "禄丰南",
+      "arrive_time": "16:32",
+      "depart_time": "16:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "楚雄",
+      "arrive_time": "17:00",
+      "depart_time": "17:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "大理",
+      "arrive_time": "18:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 906.5,
+    "price_second": 567.5,
+    "price_no_seat": 567.5
+  },
+  "fetched_at": "2026-05-01T03:42:07.534338"
+}

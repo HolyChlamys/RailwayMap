@@ -1,0 +1,40 @@
+{
+  "train_no": "K6545",
+  "train_type": "K",
+  "depart_station": "南雄",
+  "arrive_station": "广州白云",
+  "depart_time": "12:06",
+  "arrive_time": "13:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南雄",
+      "arrive_time": "12:06",
+      "depart_time": "12:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "始兴",
+      "arrive_time": "12:29",
+      "depart_time": "12:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "韶关东",
+      "arrive_time": "13:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州白云",
+      "arrive_time": "13:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T10:22:20.436823"
+}

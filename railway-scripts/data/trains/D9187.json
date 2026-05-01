@@ -1,0 +1,66 @@
+{
+  "train_no": "D9187",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "长汀南",
+  "depart_time": "15:29",
+  "arrive_time": "18:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "15:29",
+      "depart_time": "15:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延平",
+      "arrive_time": "16:08",
+      "depart_time": "16:13",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "三明北",
+      "arrive_time": "16:35",
+      "depart_time": "16:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "三明",
+      "arrive_time": "16:53",
+      "depart_time": "16:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "永安南",
+      "arrive_time": "17:11",
+      "depart_time": "17:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "龙岩",
+      "arrive_time": "17:59",
+      "depart_time": "18:15",
+      "stay_min": "16"
+    },
+    {
+      "seq": 7,
+      "station_name": "长汀南",
+      "arrive_time": "18:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 531.5,
+    "price_first": 283.5,
+    "price_second": 177.5,
+    "price_no_seat": 177.5
+  },
+  "fetched_at": "2026-05-01T05:09:29.864479"
+}

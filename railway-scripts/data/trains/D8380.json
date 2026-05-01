@@ -1,0 +1,31 @@
+{
+  "train_no": "D8380",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "南宁北",
+  "depart_time": "08:58",
+  "arrive_time": "08:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "08:58",
+      "depart_time": "08:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁北",
+      "arrive_time": "08:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 74.0,
+    "price_first": 34.0,
+    "price_second": 21.0,
+    "price_no_seat": 21.0
+  },
+  "fetched_at": "2026-05-01T04:55:46.000693"
+}

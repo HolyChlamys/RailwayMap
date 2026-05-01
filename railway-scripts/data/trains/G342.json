@@ -1,0 +1,59 @@
+{
+  "train_no": "G342",
+  "train_type": "G",
+  "depart_station": "荆州",
+  "arrive_station": "北京西",
+  "depart_time": "07:06",
+  "arrive_time": "10:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荆州",
+      "arrive_time": "07:06",
+      "depart_time": "07:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆门西",
+      "arrive_time": "07:35",
+      "depart_time": "07:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "襄阳东",
+      "arrive_time": "08:28",
+      "depart_time": "08:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南阳东",
+      "arrive_time": "09:04",
+      "depart_time": "09:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "10:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "北京西",
+      "arrive_time": "10:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2431.0,
+    "price_first": 1160.0,
+    "price_second": 725.0,
+    "price_no_seat": 725.0
+  },
+  "fetched_at": "2026-05-01T06:37:30.579784"
+}

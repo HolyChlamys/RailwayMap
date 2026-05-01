@@ -1,0 +1,56 @@
+{
+  "train_no": "Y742",
+  "train_type": "Y",
+  "depart_station": "喀什",
+  "arrive_station": "库尔勒",
+  "depart_time": "21:00",
+  "arrive_time": "10:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "喀什",
+      "arrive_time": "21:00",
+      "depart_time": "21:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大理",
+      "arrive_time": "07:34",
+      "depart_time": "07:54",
+      "stay_min": "20"
+    },
+    {
+      "seq": 3,
+      "station_name": "阿克苏",
+      "arrive_time": "03:21",
+      "depart_time": "03:29",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "保山",
+      "arrive_time": "10:14",
+      "depart_time": "10:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "库车",
+      "arrive_time": "06:19",
+      "depart_time": "06:23",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "库尔勒",
+      "arrive_time": "10:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 41.5
+  },
+  "fetched_at": "2026-05-01T11:37:41.674689"
+}

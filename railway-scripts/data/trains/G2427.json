@@ -1,0 +1,73 @@
+{
+  "train_no": "G2427",
+  "train_type": "G",
+  "depart_station": "重庆东",
+  "arrive_station": "长沙",
+  "depart_time": "08:16",
+  "arrive_time": "12:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆东",
+      "arrive_time": "08:16",
+      "depart_time": "08:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黔江",
+      "arrive_time": "09:19",
+      "depart_time": "09:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙山北",
+      "arrive_time": "09:56",
+      "depart_time": "09:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "桑植",
+      "arrive_time": "10:24",
+      "depart_time": "10:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "张家界西",
+      "arrive_time": "10:46",
+      "depart_time": "10:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "常德",
+      "arrive_time": "11:39",
+      "depart_time": "11:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "益阳南",
+      "arrive_time": "12:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "长沙",
+      "arrive_time": "12:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1365.0,
+    "price_first": 662.0,
+    "price_second": 413.0,
+    "price_no_seat": 413.0
+  },
+  "fetched_at": "2026-05-01T06:09:58.764210"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "C5154",
+  "train_type": "C",
+  "depart_station": "厦门北",
+  "arrive_station": "龙岩",
+  "depart_time": "08:52",
+  "arrive_time": "09:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "08:52",
+      "depart_time": "08:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南靖",
+      "arrive_time": "09:26",
+      "depart_time": "09:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙山镇",
+      "arrive_time": "09:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙岩",
+      "arrive_time": "09:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 86.0,
+    "price_second": 54.0,
+    "price_no_seat": 54.0
+  },
+  "fetched_at": "2026-05-01T01:28:04.114349"
+}

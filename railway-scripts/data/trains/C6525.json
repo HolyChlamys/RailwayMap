@@ -1,0 +1,72 @@
+{
+  "train_no": "C6525",
+  "train_type": "C",
+  "depart_station": "威海",
+  "arrive_station": "青岛",
+  "depart_time": "09:21",
+  "arrive_time": "12:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "威海",
+      "arrive_time": "09:21",
+      "depart_time": "09:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荣成",
+      "arrive_time": "09:39",
+      "depart_time": "09:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "文登南",
+      "arrive_time": "09:54",
+      "depart_time": "09:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "乳山南",
+      "arrive_time": "10:14",
+      "depart_time": "10:22",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "海阳",
+      "arrive_time": "10:36",
+      "depart_time": "10:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "莱西",
+      "arrive_time": "11:08",
+      "depart_time": "11:18",
+      "stay_min": "10"
+    },
+    {
+      "seq": 7,
+      "station_name": "青岛北",
+      "arrive_time": "11:47",
+      "depart_time": "11:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "青岛",
+      "arrive_time": "12:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 212.0,
+    "price_second": 133.0,
+    "price_no_seat": 133.0
+  },
+  "fetched_at": "2026-05-01T01:51:12.641799"
+}

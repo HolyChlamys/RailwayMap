@@ -1,0 +1,44 @@
+{
+  "train_no": "D9437",
+  "train_type": "D",
+  "depart_station": "威海",
+  "arrive_station": "青岛",
+  "depart_time": "21:23",
+  "arrive_time": "23:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "威海",
+      "arrive_time": "21:23",
+      "depart_time": "21:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛北",
+      "arrive_time": "23:03",
+      "depart_time": "23:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "青岛北",
+      "arrive_time": "23:11",
+      "depart_time": "23:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "青岛",
+      "arrive_time": "23:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 212.0,
+    "price_second": 133.0,
+    "price_no_seat": 133.0
+  },
+  "fetched_at": "2026-05-01T05:15:48.801949"
+}

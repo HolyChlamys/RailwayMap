@@ -1,0 +1,54 @@
+{
+  "train_no": "K684",
+  "train_type": "K",
+  "depart_station": "北京",
+  "arrive_station": "大连",
+  "depart_time": "20:10",
+  "arrive_time": "07:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京",
+      "arrive_time": "20:10",
+      "depart_time": "20:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "唐山北",
+      "arrive_time": "22:01",
+      "depart_time": "22:44",
+      "stay_min": "43"
+    },
+    {
+      "seq": 3,
+      "station_name": "瓦房店",
+      "arrive_time": "06:10",
+      "depart_time": "06:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "普兰店",
+      "arrive_time": "06:33",
+      "depart_time": "06:36",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "金州",
+      "arrive_time": "07:14",
+      "depart_time": "07:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "大连",
+      "arrive_time": "07:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T10:27:07.980797"
+}

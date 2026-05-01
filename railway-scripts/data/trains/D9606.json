@@ -1,0 +1,44 @@
+{
+  "train_no": "D9606",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "宁德",
+  "depart_time": "06:28",
+  "arrive_time": "07:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "06:28",
+      "depart_time": "06:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "连江",
+      "arrive_time": "07:03",
+      "depart_time": "07:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "罗源",
+      "arrive_time": "07:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宁德",
+      "arrive_time": "07:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 64.0,
+    "price_second": 40.0,
+    "price_no_seat": 40.0
+  },
+  "fetched_at": "2026-05-01T05:19:43.088255"
+}

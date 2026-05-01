@@ -1,0 +1,91 @@
+{
+  "train_no": "K9311",
+  "train_type": "K",
+  "depart_station": "湛江",
+  "arrive_station": "南宁",
+  "depart_time": "08:00",
+  "arrive_time": "14:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "湛江",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遂溪",
+      "arrive_time": "08:22",
+      "depart_time": "08:26",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "廉江",
+      "arrive_time": "08:45",
+      "depart_time": "08:49",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "河唇",
+      "arrive_time": "09:01",
+      "depart_time": "09:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "文地",
+      "arrive_time": "09:31",
+      "depart_time": "09:35",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "陆川",
+      "arrive_time": "10:06",
+      "depart_time": "10:10",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "玉林",
+      "arrive_time": "10:41",
+      "depart_time": "10:51",
+      "stay_min": "10"
+    },
+    {
+      "seq": 8,
+      "station_name": "贵港",
+      "arrive_time": "11:50",
+      "depart_time": "11:55",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "黎塘",
+      "arrive_time": "12:40",
+      "depart_time": "12:45",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "南宁东",
+      "arrive_time": "14:31",
+      "depart_time": "14:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "南宁",
+      "arrive_time": "14:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 62.5
+  },
+  "fetched_at": "2026-05-01T10:43:41.135366"
+}

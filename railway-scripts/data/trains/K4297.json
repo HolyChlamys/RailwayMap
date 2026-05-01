@@ -1,0 +1,56 @@
+{
+  "train_no": "K4297",
+  "train_type": "K",
+  "depart_station": "杭州",
+  "arrive_station": "南昌",
+  "depart_time": "00:40",
+  "arrive_time": "07:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州",
+      "arrive_time": "00:40",
+      "depart_time": "00:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "义乌",
+      "arrive_time": "02:46",
+      "depart_time": "02:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金华",
+      "arrive_time": "03:43",
+      "depart_time": "03:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "衢州",
+      "arrive_time": "04:39",
+      "depart_time": "04:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "鹰潭",
+      "arrive_time": "07:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南昌",
+      "arrive_time": "07:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 51.0
+  },
+  "fetched_at": "2026-05-01T09:51:51.553579"
+}

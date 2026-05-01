@@ -1,0 +1,45 @@
+{
+  "train_no": "D6968",
+  "train_type": "D",
+  "depart_station": "丰镇北",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "18:15",
+  "arrive_time": "19:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丰镇北",
+      "arrive_time": "18:15",
+      "depart_time": "18:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌兰察布",
+      "arrive_time": "18:36",
+      "depart_time": "18:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "卓资东",
+      "arrive_time": "18:57",
+      "depart_time": "18:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "呼和浩特东",
+      "arrive_time": "19:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 254.0,
+    "price_first": 127.0,
+    "price_second": 80.0,
+    "price_no_seat": 80.0
+  },
+  "fetched_at": "2026-05-01T04:31:53.907974"
+}

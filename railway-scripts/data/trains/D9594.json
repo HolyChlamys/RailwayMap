@@ -1,0 +1,37 @@
+{
+  "train_no": "D9594",
+  "train_type": "D",
+  "depart_station": "厦门",
+  "arrive_station": "龙岩",
+  "depart_time": "20:21",
+  "arrive_time": "20:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "20:21",
+      "depart_time": "20:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "20:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙岩",
+      "arrive_time": "20:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 92.0,
+    "price_second": 58.0,
+    "price_no_seat": 58.0
+  },
+  "fetched_at": "2026-05-01T05:19:21.564311"
+}

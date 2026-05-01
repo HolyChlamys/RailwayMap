@@ -1,0 +1,98 @@
+{
+  "train_no": "T9521",
+  "train_type": "T",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "喀什",
+  "depart_time": "13:56",
+  "arrive_time": "06:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "13:56",
+      "depart_time": "13:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吐鲁番北",
+      "arrive_time": "15:23",
+      "depart_time": "15:58",
+      "stay_min": "35"
+    },
+    {
+      "seq": 3,
+      "station_name": "马兰",
+      "arrive_time": "18:06",
+      "depart_time": "18:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "和硕",
+      "arrive_time": "18:30",
+      "depart_time": "18:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "焉耆",
+      "arrive_time": "18:56",
+      "depart_time": "18:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "库尔勒",
+      "arrive_time": "19:33",
+      "depart_time": "20:00",
+      "stay_min": "27"
+    },
+    {
+      "seq": 7,
+      "station_name": "轮台",
+      "arrive_time": "21:40",
+      "depart_time": "21:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "库车",
+      "arrive_time": "22:39",
+      "depart_time": "22:46",
+      "stay_min": "7"
+    },
+    {
+      "seq": 9,
+      "station_name": "新和",
+      "arrive_time": "23:16",
+      "depart_time": "23:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "阿克苏",
+      "arrive_time": "01:16",
+      "depart_time": "01:32",
+      "stay_min": "16"
+    },
+    {
+      "seq": 11,
+      "station_name": "巴楚",
+      "arrive_time": "03:45",
+      "depart_time": "04:01",
+      "stay_min": "16"
+    },
+    {
+      "seq": 12,
+      "station_name": "喀什",
+      "arrive_time": "06:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 177.5
+  },
+  "fetched_at": "2026-05-01T11:28:34.011312"
+}

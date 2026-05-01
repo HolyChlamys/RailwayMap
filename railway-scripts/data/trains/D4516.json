@@ -1,0 +1,64 @@
+{
+  "train_no": "D4516",
+  "train_type": "D",
+  "depart_station": "郑州东",
+  "arrive_station": "北京西",
+  "depart_time": "02:00",
+  "arrive_time": "05:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "02:00",
+      "depart_time": "02:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邯郸东",
+      "arrive_time": "03:10",
+      "depart_time": "03:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "邢台东",
+      "arrive_time": "03:34",
+      "depart_time": "03:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "石家庄",
+      "arrive_time": "04:07",
+      "depart_time": "04:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "保定东",
+      "arrive_time": "04:49",
+      "depart_time": "04:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "涿州东",
+      "arrive_time": "05:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "北京西",
+      "arrive_time": "05:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 214.0,
+    "price_no_seat": 214.0
+  },
+  "fetched_at": "2026-05-01T03:52:19.724860"
+}

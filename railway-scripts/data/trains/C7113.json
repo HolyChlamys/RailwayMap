@@ -1,0 +1,65 @@
+{
+  "train_no": "C7113",
+  "train_type": "C",
+  "depart_station": "广州",
+  "arrive_station": "深圳",
+  "depart_time": "20:59",
+  "arrive_time": "22:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "20:59",
+      "depart_time": "20:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州东",
+      "arrive_time": "21:13",
+      "depart_time": "21:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州新塘",
+      "arrive_time": "21:29",
+      "depart_time": "21:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "东莞",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "常平",
+      "arrive_time": "21:56",
+      "depart_time": "21:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "樟木头",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 99.5,
+    "price_second": 79.5,
+    "price_no_seat": 79.5
+  },
+  "fetched_at": "2026-05-01T02:06:17.218008"
+}

@@ -1,0 +1,94 @@
+{
+  "train_no": "G1730",
+  "train_type": "G",
+  "depart_station": "大冶北",
+  "arrive_station": "上海虹桥",
+  "depart_time": "10:04",
+  "arrive_time": "15:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大冶北",
+      "arrive_time": "10:04",
+      "depart_time": "10:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉",
+      "arrive_time": "10:40",
+      "depart_time": "10:48",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "六安",
+      "arrive_time": "12:07",
+      "depart_time": "12:17",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥南",
+      "arrive_time": "12:42",
+      "depart_time": "12:47",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "全椒",
+      "arrive_time": "13:22",
+      "depart_time": "13:45",
+      "stay_min": "23"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "14:06",
+      "depart_time": "14:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "丹阳北",
+      "arrive_time": "14:34",
+      "depart_time": "14:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "无锡东",
+      "arrive_time": "14:59",
+      "depart_time": "15:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "苏州北",
+      "arrive_time": "15:12",
+      "depart_time": "15:17",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "昆山南",
+      "arrive_time": "15:28",
+      "depart_time": "15:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "上海虹桥",
+      "arrive_time": "15:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1493.0,
+    "price_first": 703.0,
+    "price_second": 440.0,
+    "price_no_seat": 440.0
+  },
+  "fetched_at": "2026-05-01T05:51:10.854947"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "G8625",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "银花",
+  "depart_time": "15:52",
+  "arrive_time": "17:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "15:52",
+      "depart_time": "15:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "17:17",
+      "depart_time": "17:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "江北机场",
+      "arrive_time": "17:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "银花",
+      "arrive_time": "17:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 655.0,
+    "price_first": 300.0,
+    "price_second": 187.0,
+    "price_no_seat": 187.0
+  },
+  "fetched_at": "2026-05-01T08:56:14.099737"
+}

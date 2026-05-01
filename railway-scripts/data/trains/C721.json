@@ -1,0 +1,66 @@
+{
+  "train_no": "C721",
+  "train_type": "C",
+  "depart_station": "达州",
+  "arrive_station": "成都东",
+  "depart_time": "19:25",
+  "arrive_time": "21:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "达州",
+      "arrive_time": "19:25",
+      "depart_time": "19:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "土溪",
+      "arrive_time": "19:57",
+      "depart_time": "19:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "营山",
+      "arrive_time": "20:24",
+      "depart_time": "20:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "蓬安",
+      "arrive_time": "20:39",
+      "depart_time": "20:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南充",
+      "arrive_time": "21:09",
+      "depart_time": "21:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "蓬溪",
+      "arrive_time": "21:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "成都东",
+      "arrive_time": "21:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 402.0,
+    "price_first": 184.0,
+    "price_second": 115.0,
+    "price_no_seat": 115.0
+  },
+  "fetched_at": "2026-05-01T02:09:04.390793"
+}

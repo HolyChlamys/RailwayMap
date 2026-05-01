@@ -1,0 +1,31 @@
+{
+  "train_no": "G62",
+  "train_type": "G",
+  "depart_station": "太原",
+  "arrive_station": "北京西",
+  "depart_time": "08:30",
+  "arrive_time": "08:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原",
+      "arrive_time": "08:30",
+      "depart_time": "08:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北京西",
+      "arrive_time": "08:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 748.5,
+    "price_first": 358.0,
+    "price_second": 224.0,
+    "price_no_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T07:51:41.440578"
+}

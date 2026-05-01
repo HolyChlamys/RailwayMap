@@ -1,0 +1,44 @@
+{
+  "train_no": "C5831",
+  "train_type": "C",
+  "depart_station": "贵阳北",
+  "arrive_station": "荔波",
+  "depart_time": "07:04",
+  "arrive_time": "08:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "07:04",
+      "depart_time": "07:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳",
+      "arrive_time": "07:17",
+      "depart_time": "07:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "都匀东",
+      "arrive_time": "08:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "荔波",
+      "arrive_time": "08:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 166.0,
+    "price_second": 104.0,
+    "price_no_seat": 104.0
+  },
+  "fetched_at": "2026-05-01T01:39:36.669296"
+}

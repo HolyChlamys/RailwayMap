@@ -1,0 +1,73 @@
+{
+  "train_no": "G4932",
+  "train_type": "G",
+  "depart_station": "厦门",
+  "arrive_station": "上海虹桥",
+  "depart_time": "19:44",
+  "arrive_time": "00:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "19:44",
+      "depart_time": "19:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "厦门北",
+      "arrive_time": "20:09",
+      "depart_time": "20:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "晋江",
+      "arrive_time": "20:29",
+      "depart_time": "20:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泉州",
+      "arrive_time": "20:43",
+      "depart_time": "20:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福州南",
+      "arrive_time": "21:44",
+      "depart_time": "21:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "福州",
+      "arrive_time": "22:03",
+      "depart_time": "22:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "杭州东",
+      "arrive_time": "00:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "上海虹桥",
+      "arrive_time": "00:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1872.0,
+    "price_first": 893.0,
+    "price_second": 549.0,
+    "price_no_seat": 549.0
+  },
+  "fetched_at": "2026-05-01T07:20:19.549628"
+}

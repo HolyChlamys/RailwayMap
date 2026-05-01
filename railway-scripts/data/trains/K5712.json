@@ -1,0 +1,63 @@
+{
+  "train_no": "K5712",
+  "train_type": "K",
+  "depart_station": "杭州",
+  "arrive_station": "阜阳",
+  "depart_time": "08:14",
+  "arrive_time": "16:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州",
+      "arrive_time": "08:14",
+      "depart_time": "08:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长兴南",
+      "arrive_time": "09:43",
+      "depart_time": "09:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宣城",
+      "arrive_time": "12:04",
+      "depart_time": "12:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖",
+      "arrive_time": "13:23",
+      "depart_time": "13:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥",
+      "arrive_time": "15:06",
+      "depart_time": "15:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "淮南",
+      "arrive_time": "16:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "阜阳",
+      "arrive_time": "16:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T10:14:08.550236"
+}

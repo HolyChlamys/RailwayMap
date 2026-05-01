@@ -1,0 +1,66 @@
+{
+  "train_no": "G7529",
+  "train_type": "G",
+  "depart_station": "上海南",
+  "arrive_station": "宁波",
+  "depart_time": "20:34",
+  "arrive_time": "22:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "20:34",
+      "depart_time": "20:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉善南",
+      "arrive_time": "21:00",
+      "depart_time": "21:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桐乡",
+      "arrive_time": "21:23",
+      "depart_time": "21:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "21:47",
+      "depart_time": "21:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "绍兴北",
+      "arrive_time": "22:08",
+      "depart_time": "22:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "余姚北",
+      "arrive_time": "22:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宁波",
+      "arrive_time": "22:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 600.0,
+    "price_first": 274.0,
+    "price_second": 171.0,
+    "price_no_seat": 171.0
+  },
+  "fetched_at": "2026-05-01T08:29:46.310156"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "D6682",
+  "train_type": "D",
+  "depart_station": "德州东",
+  "arrive_station": "石家庄",
+  "depart_time": "12:52",
+  "arrive_time": "13:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "德州东",
+      "arrive_time": "12:52",
+      "depart_time": "12:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "景州",
+      "arrive_time": "13:11",
+      "depart_time": "13:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡水北",
+      "arrive_time": "13:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "石家庄",
+      "arrive_time": "13:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 121.0,
+    "price_second": 76.0,
+    "price_no_seat": 76.0
+  },
+  "fetched_at": "2026-05-01T04:27:04.063439"
+}

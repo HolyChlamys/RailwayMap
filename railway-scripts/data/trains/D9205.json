@@ -1,0 +1,52 @@
+{
+  "train_no": "D9205",
+  "train_type": "D",
+  "depart_station": "大同南",
+  "arrive_station": "太原南",
+  "depart_time": "15:53",
+  "arrive_time": "17:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大同南",
+      "arrive_time": "15:53",
+      "depart_time": "15:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀仁东",
+      "arrive_time": "16:09",
+      "depart_time": "16:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "忻州西",
+      "arrive_time": "17:02",
+      "depart_time": "17:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阳曲西",
+      "arrive_time": "17:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太原南",
+      "arrive_time": "17:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 440.0,
+    "price_first": 214.0,
+    "price_second": 134.0,
+    "price_no_seat": 134.0
+  },
+  "fetched_at": "2026-05-01T05:10:02.909556"
+}

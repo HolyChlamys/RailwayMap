@@ -1,0 +1,72 @@
+{
+  "train_no": "G7035",
+  "train_type": "G",
+  "depart_station": "南京",
+  "arrive_station": "上海",
+  "depart_time": "06:31",
+  "arrive_time": "08:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "06:31",
+      "depart_time": "06:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "镇江",
+      "arrive_time": "06:53",
+      "depart_time": "06:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "戚墅堰",
+      "arrive_time": "07:26",
+      "depart_time": "07:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "苏州",
+      "arrive_time": "07:57",
+      "depart_time": "07:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "昆山南",
+      "arrive_time": "08:11",
+      "depart_time": "08:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南翔北",
+      "arrive_time": "08:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "上海",
+      "arrive_time": "08:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 265.0,
+    "price_second": 166.0,
+    "price_no_seat": 166.0
+  },
+  "fetched_at": "2026-05-01T08:16:06.239069"
+}

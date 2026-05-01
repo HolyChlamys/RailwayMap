@@ -1,0 +1,58 @@
+{
+  "train_no": "C9940",
+  "train_type": "C",
+  "depart_station": "阳江",
+  "arrive_station": "广州南",
+  "depart_time": "21:55",
+  "arrive_time": "23:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阳江",
+      "arrive_time": "21:55",
+      "depart_time": "21:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "恩平",
+      "arrive_time": "22:26",
+      "depart_time": "22:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "开平南",
+      "arrive_time": "22:42",
+      "depart_time": "22:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "台山",
+      "arrive_time": "22:53",
+      "depart_time": "22:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "江门",
+      "arrive_time": "23:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "23:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 204.0,
+    "price_second": 135.0,
+    "price_no_seat": 135.0
+  },
+  "fetched_at": "2026-05-01T02:54:51.002382"
+}

@@ -1,0 +1,42 @@
+{
+  "train_no": "K6619",
+  "train_type": "K",
+  "depart_station": "常德",
+  "arrive_station": "广州白云",
+  "depart_time": "21:05",
+  "arrive_time": "23:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "常德",
+      "arrive_time": "21:05",
+      "depart_time": "21:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "益阳",
+      "arrive_time": "22:11",
+      "depart_time": "22:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州白云",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 142.0
+  },
+  "fetched_at": "2026-05-01T10:24:19.963609"
+}

@@ -1,0 +1,66 @@
+{
+  "train_no": "G4456",
+  "train_type": "G",
+  "depart_station": "临沂北",
+  "arrive_station": "上海虹桥",
+  "depart_time": "21:30",
+  "arrive_time": "02:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沂北",
+      "arrive_time": "21:30",
+      "depart_time": "21:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莒南北",
+      "arrive_time": "21:43",
+      "depart_time": "21:47",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "厉家寨",
+      "arrive_time": "21:59",
+      "depart_time": "22:04",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "日照",
+      "arrive_time": "22:25",
+      "depart_time": "22:47",
+      "stay_min": "22"
+    },
+    {
+      "seq": 5,
+      "station_name": "连云港",
+      "arrive_time": "23:39",
+      "depart_time": "23:44",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "淮安东",
+      "arrive_time": "00:29",
+      "depart_time": "00:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "上海虹桥",
+      "arrive_time": "02:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1213.0,
+    "price_first": 589.0,
+    "price_second": 369.0,
+    "price_no_seat": 369.0
+  },
+  "fetched_at": "2026-05-01T07:05:56.484591"
+}

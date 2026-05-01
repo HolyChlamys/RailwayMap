@@ -1,0 +1,51 @@
+{
+  "train_no": "C366",
+  "train_type": "C",
+  "depart_station": "西双版纳",
+  "arrive_station": "昆明南",
+  "depart_time": "15:02",
+  "arrive_time": "17:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西双版纳",
+      "arrive_time": "15:02",
+      "depart_time": "15:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普洱",
+      "arrive_time": "15:46",
+      "depart_time": "15:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "墨江",
+      "arrive_time": "16:44",
+      "depart_time": "16:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "玉溪",
+      "arrive_time": "17:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明南",
+      "arrive_time": "17:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 381.0,
+    "price_second": 239.0,
+    "price_no_seat": 239.0
+  },
+  "fetched_at": "2026-05-01T01:02:02.008740"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "C9533",
+  "train_type": "C",
+  "depart_station": "南昌西",
+  "arrive_station": "定南南",
+  "depart_time": "15:43",
+  "arrive_time": "17:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "15:43",
+      "depart_time": "15:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉安西",
+      "arrive_time": "16:40",
+      "depart_time": "16:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "万安县",
+      "arrive_time": "17:02",
+      "depart_time": "17:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州西",
+      "arrive_time": "17:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "定南南",
+      "arrive_time": "17:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 944.0,
+    "price_first": 480.0,
+    "price_second": 300.0,
+    "price_no_seat": 300.0
+  },
+  "fetched_at": "2026-05-01T02:48:26.020512"
+}

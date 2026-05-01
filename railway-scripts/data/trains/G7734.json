@@ -1,0 +1,73 @@
+{
+  "train_no": "G7734",
+  "train_type": "G",
+  "depart_station": "杭州西",
+  "arrive_station": "界首南",
+  "depart_time": "08:37",
+  "arrive_time": "12:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "08:37",
+      "depart_time": "08:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宣城",
+      "arrive_time": "09:35",
+      "depart_time": "09:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "芜湖",
+      "arrive_time": "10:02",
+      "depart_time": "10:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥南",
+      "arrive_time": "10:45",
+      "depart_time": "10:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "淮南南",
+      "arrive_time": "11:26",
+      "depart_time": "11:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "阜阳西",
+      "arrive_time": "12:03",
+      "depart_time": "12:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "临泉",
+      "arrive_time": "12:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "界首南",
+      "arrive_time": "12:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1153.5,
+    "price_first": 604.5,
+    "price_second": 375.5,
+    "price_no_seat": 375.5
+  },
+  "fetched_at": "2026-05-01T08:35:12.329325"
+}

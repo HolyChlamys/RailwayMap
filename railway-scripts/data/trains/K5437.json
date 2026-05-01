@@ -1,0 +1,35 @@
+{
+  "train_no": "K5437",
+  "train_type": "K",
+  "depart_station": "安陆",
+  "arrive_station": "武昌",
+  "depart_time": "11:40",
+  "arrive_time": "13:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安陆",
+      "arrive_time": "11:40",
+      "depart_time": "11:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "云梦",
+      "arrive_time": "12:00",
+      "depart_time": "12:04",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "武昌",
+      "arrive_time": "13:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 18.5
+  },
+  "fetched_at": "2026-05-01T10:10:22.839902"
+}

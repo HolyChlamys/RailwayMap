@@ -1,0 +1,72 @@
+{
+  "train_no": "D1058",
+  "train_type": "D",
+  "depart_station": "银川",
+  "arrive_station": "清河",
+  "depart_time": "14:24",
+  "arrive_time": "19:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "14:24",
+      "depart_time": "14:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "15:52",
+      "depart_time": "15:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "包头",
+      "arrive_time": "16:59",
+      "depart_time": "16:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "呼和浩特",
+      "arrive_time": "18:01",
+      "depart_time": "18:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "呼和浩特东",
+      "arrive_time": "18:14",
+      "depart_time": "18:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "乌兰察布",
+      "arrive_time": "18:58",
+      "depart_time": "18:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "张家口",
+      "arrive_time": "19:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "清河",
+      "arrive_time": "19:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 902.0,
+    "price_second": 562.5,
+    "price_no_seat": 562.5
+  },
+  "fetched_at": "2026-05-01T02:56:49.985700"
+}

@@ -1,0 +1,115 @@
+{
+  "train_no": "G1870",
+  "train_type": "G",
+  "depart_station": "杭州",
+  "arrive_station": "洛阳龙门",
+  "depart_time": "13:47",
+  "arrive_time": "20:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州",
+      "arrive_time": "13:47",
+      "depart_time": "13:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安吉",
+      "arrive_time": "14:29",
+      "depart_time": "14:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "宣城",
+      "arrive_time": "14:55",
+      "depart_time": "14:59",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖",
+      "arrive_time": "15:24",
+      "depart_time": "15:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥南",
+      "arrive_time": "16:05",
+      "depart_time": "16:11",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "淮南南",
+      "arrive_time": "16:51",
+      "depart_time": "16:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "凤台南",
+      "arrive_time": "17:07",
+      "depart_time": "17:13",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "阜阳西",
+      "arrive_time": "17:38",
+      "depart_time": "17:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "亳州南",
+      "arrive_time": "18:07",
+      "depart_time": "18:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "芦庙",
+      "arrive_time": "18:20",
+      "depart_time": "18:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "商丘东",
+      "arrive_time": "18:35",
+      "depart_time": "18:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "商丘",
+      "arrive_time": "18:47",
+      "depart_time": "18:52",
+      "stay_min": "5"
+    },
+    {
+      "seq": 13,
+      "station_name": "郑州东",
+      "arrive_time": "19:45",
+      "depart_time": "19:53",
+      "stay_min": "8"
+    },
+    {
+      "seq": 14,
+      "station_name": "洛阳龙门",
+      "arrive_time": "20:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1993.5,
+    "price_first": 1003.5,
+    "price_second": 624.5,
+    "price_no_seat": 624.5
+  },
+  "fetched_at": "2026-05-01T05:55:14.062672"
+}

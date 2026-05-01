@@ -1,0 +1,142 @@
+{
+  "train_no": "D3315",
+  "train_type": "D",
+  "depart_station": "福州南",
+  "arrive_station": "广州东",
+  "depart_time": "09:22",
+  "arrive_time": "15:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州南",
+      "arrive_time": "09:22",
+      "depart_time": "09:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "涵江",
+      "arrive_time": "09:45",
+      "depart_time": "09:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "莆田",
+      "arrive_time": "09:58",
+      "depart_time": "10:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "仙游",
+      "arrive_time": "10:11",
+      "depart_time": "10:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "泉州",
+      "arrive_time": "10:31",
+      "depart_time": "10:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "晋江",
+      "arrive_time": "10:44",
+      "depart_time": "10:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "厦门北",
+      "arrive_time": "11:04",
+      "depart_time": "11:09",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "漳州",
+      "arrive_time": "11:28",
+      "depart_time": "11:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "云霄",
+      "arrive_time": "11:56",
+      "depart_time": "11:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "潮汕",
+      "arrive_time": "12:27",
+      "depart_time": "12:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "普宁",
+      "arrive_time": "12:46",
+      "depart_time": "12:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "陆丰",
+      "arrive_time": "13:08",
+      "depart_time": "13:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "惠阳",
+      "arrive_time": "13:48",
+      "depart_time": "13:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "深圳北",
+      "arrive_time": "14:15",
+      "depart_time": "14:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 15,
+      "station_name": "东莞南",
+      "arrive_time": "14:38",
+      "depart_time": "14:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "东莞",
+      "arrive_time": "15:00",
+      "depart_time": "15:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "广州新塘",
+      "arrive_time": "15:15",
+      "depart_time": "15:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "广州东",
+      "arrive_time": "15:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 610.0,
+    "price_second": 396.0,
+    "price_no_seat": 396.0
+  },
+  "fetched_at": "2026-05-01T03:31:55.049047"
+}

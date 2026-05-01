@@ -1,0 +1,65 @@
+{
+  "train_no": "G7351",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "开化",
+  "depart_time": "14:55",
+  "arrive_time": "16:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "14:55",
+      "depart_time": "14:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州南",
+      "arrive_time": "15:06",
+      "depart_time": "15:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "富阳",
+      "arrive_time": "15:29",
+      "depart_time": "15:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "建德南",
+      "arrive_time": "16:06",
+      "depart_time": "16:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衢州西",
+      "arrive_time": "16:29",
+      "depart_time": "16:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "常山",
+      "arrive_time": "16:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "开化",
+      "arrive_time": "16:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 272.0,
+    "price_second": 170.0,
+    "price_no_seat": 170.0
+  },
+  "fetched_at": "2026-05-01T08:25:02.563867"
+}

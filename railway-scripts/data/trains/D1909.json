@@ -1,0 +1,93 @@
+{
+  "train_no": "D1909",
+  "train_type": "D",
+  "depart_station": "太原南",
+  "arrive_station": "成都东",
+  "depart_time": "15:11",
+  "arrive_time": "20:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "15:11",
+      "depart_time": "15:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "晋中",
+      "arrive_time": "15:25",
+      "depart_time": "15:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "介休东",
+      "arrive_time": "15:56",
+      "depart_time": "15:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "临汾西",
+      "arrive_time": "16:38",
+      "depart_time": "16:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "侯马西",
+      "arrive_time": "17:01",
+      "depart_time": "17:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "渭南北",
+      "arrive_time": "18:06",
+      "depart_time": "18:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "西安北",
+      "arrive_time": "18:39",
+      "depart_time": "18:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "西安西",
+      "arrive_time": "18:52",
+      "depart_time": "18:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "汉中",
+      "arrive_time": "20:01",
+      "depart_time": "20:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "广元",
+      "arrive_time": "20:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "成都东",
+      "arrive_time": "20:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 844.0,
+    "price_second": 527.0,
+    "price_no_seat": 527.0
+  },
+  "fetched_at": "2026-05-01T03:07:30.157812"
+}

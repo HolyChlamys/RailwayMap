@@ -1,0 +1,115 @@
+{
+  "train_no": "G6175",
+  "train_type": "G",
+  "depart_station": "韶关",
+  "arrive_station": "汕头",
+  "depart_time": "08:08",
+  "arrive_time": "12:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "韶关",
+      "arrive_time": "08:08",
+      "depart_time": "08:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "英德西",
+      "arrive_time": "08:27",
+      "depart_time": "08:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "清远",
+      "arrive_time": "08:46",
+      "depart_time": "08:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州北",
+      "arrive_time": "09:00",
+      "depart_time": "09:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "09:21",
+      "depart_time": "09:25",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "南沙北",
+      "arrive_time": "09:38",
+      "depart_time": "09:42",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "虎门",
+      "arrive_time": "09:51",
+      "depart_time": "09:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "深圳北",
+      "arrive_time": "10:15",
+      "depart_time": "10:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "惠阳",
+      "arrive_time": "10:42",
+      "depart_time": "10:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "汕尾",
+      "arrive_time": "11:15",
+      "depart_time": "11:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "普宁",
+      "arrive_time": "11:48",
+      "depart_time": "11:57",
+      "stay_min": "9"
+    },
+    {
+      "seq": 12,
+      "station_name": "潮阳",
+      "arrive_time": "12:09",
+      "depart_time": "12:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "潮汕",
+      "arrive_time": "12:24",
+      "depart_time": "12:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "汕头",
+      "arrive_time": "12:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1155.5,
+    "price_first": 536.5,
+    "price_second": 347.5,
+    "price_no_seat": 347.5
+  },
+  "fetched_at": "2026-05-01T07:51:00.334591"
+}

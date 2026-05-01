@@ -1,0 +1,63 @@
+{
+  "train_no": "K5006",
+  "train_type": "K",
+  "depart_station": "沈阳",
+  "arrive_station": "大连",
+  "depart_time": "13:33",
+  "arrive_time": "17:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "13:33",
+      "depart_time": "13:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏家屯",
+      "arrive_time": "13:55",
+      "depart_time": "13:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "辽阳",
+      "arrive_time": "14:33",
+      "depart_time": "14:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鞍山",
+      "arrive_time": "14:54",
+      "depart_time": "14:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "大石桥",
+      "arrive_time": "15:50",
+      "depart_time": "15:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "瓦房店",
+      "arrive_time": "17:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "大连",
+      "arrive_time": "17:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 54.5
+  },
+  "fetched_at": "2026-05-01T10:01:36.486339"
+}

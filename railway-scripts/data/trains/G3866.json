@@ -1,0 +1,66 @@
+{
+  "train_no": "G3866",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "桂林北",
+  "depart_time": "16:39",
+  "arrive_time": "18:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "16:39",
+      "depart_time": "16:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三水南",
+      "arrive_time": "17:16",
+      "depart_time": "17:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "肇庆东",
+      "arrive_time": "17:29",
+      "depart_time": "17:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广宁",
+      "arrive_time": "17:48",
+      "depart_time": "17:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "怀集",
+      "arrive_time": "18:06",
+      "depart_time": "18:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "贺州",
+      "arrive_time": "18:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "桂林北",
+      "arrive_time": "18:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 827.0,
+    "price_first": 378.0,
+    "price_second": 236.0,
+    "price_no_seat": 236.0
+  },
+  "fetched_at": "2026-05-01T06:49:14.950948"
+}

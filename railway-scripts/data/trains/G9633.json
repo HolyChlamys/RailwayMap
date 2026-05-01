@@ -1,0 +1,87 @@
+{
+  "train_no": "G9633",
+  "train_type": "G",
+  "depart_station": "潮汕",
+  "arrive_station": "广州南",
+  "depart_time": "08:31",
+  "arrive_time": "11:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潮汕",
+      "arrive_time": "08:31",
+      "depart_time": "08:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普宁",
+      "arrive_time": "08:48",
+      "depart_time": "08:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "陆丰",
+      "arrive_time": "09:10",
+      "depart_time": "09:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "09:25",
+      "depart_time": "09:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "惠东南",
+      "arrive_time": "09:48",
+      "depart_time": "09:58",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "惠阳",
+      "arrive_time": "10:10",
+      "depart_time": "10:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳坪山",
+      "arrive_time": "10:21",
+      "depart_time": "10:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "深圳北",
+      "arrive_time": "10:45",
+      "depart_time": "10:50",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "虎门",
+      "arrive_time": "11:08",
+      "depart_time": "11:15",
+      "stay_min": "7"
+    },
+    {
+      "seq": 10,
+      "station_name": "广州南",
+      "arrive_time": "11:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 673.5,
+    "price_first": 316.5,
+    "price_second": 209.5,
+    "price_no_seat": 209.5
+  },
+  "fetched_at": "2026-05-01T09:19:41.853897"
+}

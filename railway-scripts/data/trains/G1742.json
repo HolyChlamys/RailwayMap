@@ -1,0 +1,101 @@
+{
+  "train_no": "G1742",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "徐州东",
+  "depart_time": "12:42",
+  "arrive_time": "18:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "12:42",
+      "depart_time": "12:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉",
+      "arrive_time": "14:09",
+      "depart_time": "14:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "麻城北",
+      "arrive_time": "14:59",
+      "depart_time": "14:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "金寨",
+      "arrive_time": "15:45",
+      "depart_time": "15:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "六安",
+      "arrive_time": "16:05",
+      "depart_time": "16:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "合肥西",
+      "arrive_time": "16:49",
+      "depart_time": "16:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "合肥北城",
+      "arrive_time": "17:08",
+      "depart_time": "17:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "水家湖",
+      "arrive_time": "17:24",
+      "depart_time": "17:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "淮南东",
+      "arrive_time": "17:35",
+      "depart_time": "17:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "蚌埠南",
+      "arrive_time": "17:54",
+      "depart_time": "17:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "宿州东",
+      "arrive_time": "18:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "徐州东",
+      "arrive_time": "18:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1742.5,
+    "price_first": 811.5,
+    "price_second": 505.0,
+    "price_no_seat": 505.0
+  },
+  "fetched_at": "2026-05-01T05:51:32.369226"
+}

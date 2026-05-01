@@ -1,0 +1,80 @@
+{
+  "train_no": "G4981",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "东莞南",
+  "depart_time": "06:23",
+  "arrive_time": "10:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "06:23",
+      "depart_time": "06:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉安西",
+      "arrive_time": "07:21",
+      "depart_time": "07:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泰和",
+      "arrive_time": "07:35",
+      "depart_time": "07:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州西",
+      "arrive_time": "08:21",
+      "depart_time": "08:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "信丰西",
+      "arrive_time": "08:40",
+      "depart_time": "08:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "龙南东",
+      "arrive_time": "08:58",
+      "depart_time": "08:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "河源东",
+      "arrive_time": "09:43",
+      "depart_time": "09:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "惠州北",
+      "arrive_time": "10:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "东莞南",
+      "arrive_time": "10:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1519.0,
+    "price_first": 743.0,
+    "price_second": 464.0,
+    "price_no_seat": 464.0
+  },
+  "fetched_at": "2026-05-01T07:21:40.684399"
+}

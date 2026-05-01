@@ -1,0 +1,71 @@
+{
+  "train_no": "C6821",
+  "train_type": "C",
+  "depart_station": "虎门北",
+  "arrive_station": "深圳机场",
+  "depart_time": "06:30",
+  "arrive_time": "07:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "虎门北",
+      "arrive_time": "06:30",
+      "depart_time": "06:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门东",
+      "arrive_time": "06:37",
+      "depart_time": "06:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长安西",
+      "arrive_time": "06:44",
+      "depart_time": "06:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长安",
+      "arrive_time": "06:49",
+      "depart_time": "06:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沙井西",
+      "arrive_time": "06:57",
+      "depart_time": "06:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "福海西",
+      "arrive_time": "07:03",
+      "depart_time": "07:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳机场北",
+      "arrive_time": "07:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "深圳机场",
+      "arrive_time": "07:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 15.0,
+    "price_no_seat": 15.0
+  },
+  "fetched_at": "2026-05-01T01:57:33.901029"
+}

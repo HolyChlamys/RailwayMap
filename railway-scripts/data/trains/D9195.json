@@ -1,0 +1,86 @@
+{
+  "train_no": "D9195",
+  "train_type": "D",
+  "depart_station": "武平",
+  "arrive_station": "福州",
+  "depart_time": "17:51",
+  "arrive_time": "21:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武平",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "上杭",
+      "arrive_time": "18:01",
+      "depart_time": "18:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "古田会址",
+      "arrive_time": "18:22",
+      "depart_time": "18:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "龙岩",
+      "arrive_time": "18:39",
+      "depart_time": "18:43",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "漳州",
+      "arrive_time": "19:25",
+      "depart_time": "19:29",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "厦门北",
+      "arrive_time": "19:50",
+      "depart_time": "19:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "泉州",
+      "arrive_time": "20:20",
+      "depart_time": "20:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "莆田",
+      "arrive_time": "20:49",
+      "depart_time": "20:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "福州南",
+      "arrive_time": "21:24",
+      "depart_time": "21:28",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "福州",
+      "arrive_time": "21:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 327.5,
+    "price_second": 205.5,
+    "price_no_seat": 205.5
+  },
+  "fetched_at": "2026-05-01T05:09:44.772957"
+}

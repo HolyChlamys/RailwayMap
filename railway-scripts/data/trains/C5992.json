@@ -1,0 +1,58 @@
+{
+  "train_no": "C5992",
+  "train_type": "C",
+  "depart_station": "兴文",
+  "arrive_station": "成都东",
+  "depart_time": "21:00",
+  "arrive_time": "22:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兴文",
+      "arrive_time": "21:00",
+      "depart_time": "21:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜宾西",
+      "arrive_time": "21:30",
+      "depart_time": "21:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乐山",
+      "arrive_time": "22:12",
+      "depart_time": "22:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "眉山东",
+      "arrive_time": "22:32",
+      "depart_time": "22:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "彭山北",
+      "arrive_time": "22:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "成都东",
+      "arrive_time": "22:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 240.0,
+    "price_second": 150.0,
+    "price_no_seat": 150.0
+  },
+  "fetched_at": "2026-05-01T01:42:49.364403"
+}

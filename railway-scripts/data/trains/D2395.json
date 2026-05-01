@@ -1,0 +1,44 @@
+{
+  "train_no": "D2395",
+  "train_type": "D",
+  "depart_station": "广州东",
+  "arrive_station": "东莞南",
+  "depart_time": "16:50",
+  "arrive_time": "17:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "16:50",
+      "depart_time": "16:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "17:17",
+      "depart_time": "17:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东莞",
+      "arrive_time": "17:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "东莞南",
+      "arrive_time": "17:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 474.0,
+    "price_second": 315.0,
+    "price_no_seat": 315.0
+  },
+  "fetched_at": "2026-05-01T03:16:26.112891"
+}

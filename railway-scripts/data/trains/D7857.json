@@ -1,0 +1,52 @@
+{
+  "train_no": "D7857",
+  "train_type": "D",
+  "depart_station": "焦作西",
+  "arrive_station": "郑州东",
+  "depart_time": "17:37",
+  "arrive_time": "18:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "焦作西",
+      "arrive_time": "17:37",
+      "depart_time": "17:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "焦作",
+      "arrive_time": "17:47",
+      "depart_time": "17:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "武陟",
+      "arrive_time": "18:06",
+      "depart_time": "18:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州",
+      "arrive_time": "18:30",
+      "depart_time": "18:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "18:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 166.0,
+    "price_first": 84.0,
+    "price_second": 52.0,
+    "price_no_seat": 52.0
+  },
+  "fetched_at": "2026-05-01T04:46:01.602730"
+}

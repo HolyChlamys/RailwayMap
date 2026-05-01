@@ -1,0 +1,52 @@
+{
+  "train_no": "G4976",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "济南东",
+  "depart_time": "00:42",
+  "arrive_time": "04:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "00:42",
+      "depart_time": "00:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "01:49",
+      "depart_time": "01:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "03:06",
+      "depart_time": "03:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南西",
+      "arrive_time": "04:12",
+      "depart_time": "04:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "济南东",
+      "arrive_time": "04:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1725.0,
+    "price_first": 792.0,
+    "price_second": 495.0,
+    "price_no_seat": 495.0
+  },
+  "fetched_at": "2026-05-01T07:21:30.659039"
+}

@@ -1,0 +1,57 @@
+{
+  "train_no": "D6163",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "荔波",
+  "depart_time": "19:35",
+  "arrive_time": "21:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "19:35",
+      "depart_time": "19:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳",
+      "arrive_time": "19:49",
+      "depart_time": "19:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵定县",
+      "arrive_time": "20:17",
+      "depart_time": "20:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "都匀东",
+      "arrive_time": "20:36",
+      "depart_time": "20:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "独山东",
+      "arrive_time": "21:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "荔波",
+      "arrive_time": "21:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 108.0,
+    "price_no_seat": 108.0
+  },
+  "fetched_at": "2026-05-01T04:18:11.429738"
+}

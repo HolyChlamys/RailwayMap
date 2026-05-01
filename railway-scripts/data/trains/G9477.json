@@ -1,0 +1,44 @@
+{
+  "train_no": "G9477",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "阜阳西",
+  "depart_time": "22:41",
+  "arrive_time": "01:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "22:41",
+      "depart_time": "22:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "23:50",
+      "depart_time": "23:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥",
+      "arrive_time": "00:43",
+      "depart_time": "00:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "阜阳西",
+      "arrive_time": "01:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 549.0,
+    "price_second": 343.0,
+    "price_no_seat": 343.0
+  },
+  "fetched_at": "2026-05-01T09:15:15.054224"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "G9820",
+  "train_type": "G",
+  "depart_station": "赣州西",
+  "arrive_station": "南昌西",
+  "depart_time": "09:19",
+  "arrive_time": "10:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州西",
+      "arrive_time": "09:19",
+      "depart_time": "09:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉安西",
+      "arrive_time": "10:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌西",
+      "arrive_time": "10:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 669.0,
+    "price_first": 354.0,
+    "price_second": 221.0,
+    "price_no_seat": 221.0
+  },
+  "fetched_at": "2026-05-01T09:25:15.405561"
+}

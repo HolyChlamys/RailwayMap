@@ -1,0 +1,29 @@
+{
+  "train_no": "S5293",
+  "train_type": "S",
+  "depart_station": "邛崃",
+  "arrive_station": "成都东",
+  "depart_time": "21:46",
+  "arrive_time": "22:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邛崃",
+      "arrive_time": "21:46",
+      "depart_time": "21:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都东",
+      "arrive_time": "22:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 39.0,
+    "price_no_seat": 39.0
+  },
+  "fetched_at": "2026-05-01T11:05:16.537286"
+}

@@ -1,0 +1,57 @@
+{
+  "train_no": "S8026",
+  "train_type": "S",
+  "depart_station": "美兰",
+  "arrive_station": "海口",
+  "depart_time": "07:53",
+  "arrive_time": "08:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "美兰",
+      "arrive_time": "07:53",
+      "depart_time": "07:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海口东",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "城西",
+      "arrive_time": "08:10",
+      "depart_time": "08:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "秀英",
+      "arrive_time": "08:15",
+      "depart_time": "08:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "长流",
+      "arrive_time": "08:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "海口",
+      "arrive_time": "08:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 7.0,
+    "price_no_seat": 7.0
+  },
+  "fetched_at": "2026-05-01T11:16:41.504304"
+}

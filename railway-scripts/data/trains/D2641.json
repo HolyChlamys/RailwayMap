@@ -1,0 +1,52 @@
+{
+  "train_no": "D2641",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "天水南",
+  "depart_time": "11:19",
+  "arrive_time": "12:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "11:19",
+      "depart_time": "11:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳西",
+      "arrive_time": "11:34",
+      "depart_time": "11:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "岐山",
+      "arrive_time": "12:06",
+      "depart_time": "12:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宝鸡南",
+      "arrive_time": "12:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "天水南",
+      "arrive_time": "12:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 421.0,
+    "price_first": 193.0,
+    "price_second": 121.0,
+    "price_no_seat": 121.0
+  },
+  "fetched_at": "2026-05-01T03:19:35.444826"
+}

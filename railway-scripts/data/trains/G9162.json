@@ -1,0 +1,31 @@
+{
+  "train_no": "G9162",
+  "train_type": "G",
+  "depart_station": "通化",
+  "arrive_station": "沈阳北",
+  "depart_time": "20:27",
+  "arrive_time": "20:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "通化",
+      "arrive_time": "20:27",
+      "depart_time": "20:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳北",
+      "arrive_time": "20:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 624.0,
+    "price_first": 285.0,
+    "price_second": 178.0,
+    "price_no_seat": 178.0
+  },
+  "fetched_at": "2026-05-01T09:07:17.537183"
+}

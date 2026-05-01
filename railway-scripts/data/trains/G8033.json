@@ -1,0 +1,72 @@
+{
+  "train_no": "G8033",
+  "train_type": "G",
+  "depart_station": "沈阳北",
+  "arrive_station": "吉林",
+  "depart_time": "06:46",
+  "arrive_time": "08:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "06:46",
+      "depart_time": "06:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "铁岭西",
+      "arrive_time": "07:05",
+      "depart_time": "07:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "开原西",
+      "arrive_time": "07:21",
+      "depart_time": "07:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "昌图西",
+      "arrive_time": "07:34",
+      "depart_time": "07:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "四平东",
+      "arrive_time": "07:54",
+      "depart_time": "07:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "公主岭南",
+      "arrive_time": "08:12",
+      "depart_time": "08:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长春",
+      "arrive_time": "08:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "吉林",
+      "arrive_time": "08:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 328.0,
+    "price_second": 205.0,
+    "price_no_seat": 205.0
+  },
+  "fetched_at": "2026-05-01T08:42:58.389682"
+}

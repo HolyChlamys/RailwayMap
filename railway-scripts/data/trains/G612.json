@@ -1,0 +1,38 @@
+{
+  "train_no": "G612",
+  "train_type": "G",
+  "depart_station": "太原",
+  "arrive_station": "北京丰台",
+  "depart_time": "14:37",
+  "arrive_time": "15:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原",
+      "arrive_time": "14:37",
+      "depart_time": "14:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "15:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "北京丰台",
+      "arrive_time": "15:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 817.0,
+    "price_first": 374.0,
+    "price_second": 234.0,
+    "price_no_seat": 234.0
+  },
+  "fetched_at": "2026-05-01T07:49:26.002952"
+}

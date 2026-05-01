@@ -1,0 +1,30 @@
+{
+  "train_no": "D596",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "南宁东",
+  "depart_time": "14:34",
+  "arrive_time": "14:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "14:34",
+      "depart_time": "14:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁东",
+      "arrive_time": "14:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 400.0,
+    "price_second": 250.0,
+    "price_no_seat": 250.0
+  },
+  "fetched_at": "2026-05-01T04:13:47.129931"
+}

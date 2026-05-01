@@ -1,0 +1,66 @@
+{
+  "train_no": "G6195",
+  "train_type": "G",
+  "depart_station": "岳阳东",
+  "arrive_station": "惠州北",
+  "depart_time": "19:34",
+  "arrive_time": "23:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "岳阳东",
+      "arrive_time": "19:34",
+      "depart_time": "19:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙南",
+      "arrive_time": "20:06",
+      "depart_time": "20:18",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "株洲西",
+      "arrive_time": "20:31",
+      "depart_time": "20:34",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州白云",
+      "arrive_time": "22:28",
+      "depart_time": "22:31",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州东",
+      "arrive_time": "22:48",
+      "depart_time": "22:52",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "广州新塘",
+      "arrive_time": "23:13",
+      "depart_time": "23:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "惠州北",
+      "arrive_time": "23:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1857.0,
+    "price_first": 837.0,
+    "price_second": 531.0,
+    "price_no_seat": 531.0
+  },
+  "fetched_at": "2026-05-01T07:51:34.844374"
+}

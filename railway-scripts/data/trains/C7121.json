@@ -1,0 +1,38 @@
+{
+  "train_no": "C7121",
+  "train_type": "C",
+  "depart_station": "佛山西",
+  "arrive_station": "深圳",
+  "depart_time": "05:24",
+  "arrive_time": "05:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佛山西",
+      "arrive_time": "05:24",
+      "depart_time": "05:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州",
+      "arrive_time": "05:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳",
+      "arrive_time": "05:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 358.0,
+    "price_first": 135.5,
+    "price_second": 102.5,
+    "price_no_seat": 102.5
+  },
+  "fetched_at": "2026-05-01T02:06:32.323079"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G5526",
+  "train_type": "G",
+  "depart_station": "莘县",
+  "arrive_station": "济南西",
+  "depart_time": "08:30",
+  "arrive_time": "09:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "莘县",
+      "arrive_time": "08:30",
+      "depart_time": "08:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "聊城西",
+      "arrive_time": "08:43",
+      "depart_time": "08:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "茌平南",
+      "arrive_time": "08:58",
+      "depart_time": "08:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长清",
+      "arrive_time": "09:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "济南西",
+      "arrive_time": "09:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 227.0,
+    "price_first": 104.0,
+    "price_second": 65.0,
+    "price_no_seat": 65.0
+  },
+  "fetched_at": "2026-05-01T07:35:58.639205"
+}

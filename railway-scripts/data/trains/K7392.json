@@ -1,0 +1,63 @@
+{
+  "train_no": "K7392",
+  "train_type": "K",
+  "depart_station": "吉林",
+  "arrive_station": "通化",
+  "depart_time": "20:53",
+  "arrive_time": "05:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "吉林",
+      "arrive_time": "20:53",
+      "depart_time": "20:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "九台",
+      "arrive_time": "21:52",
+      "depart_time": "21:57",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "长春",
+      "arrive_time": "22:41",
+      "depart_time": "22:52",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "四平",
+      "arrive_time": "00:07",
+      "depart_time": "00:15",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "辽源",
+      "arrive_time": "01:40",
+      "depart_time": "01:46",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "梅河口",
+      "arrive_time": "03:19",
+      "depart_time": "03:27",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "通化",
+      "arrive_time": "05:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T10:29:50.645014"
+}

@@ -1,0 +1,122 @@
+{
+  "train_no": "G7486",
+  "train_type": "G",
+  "depart_station": "温州南",
+  "arrive_station": "合肥南",
+  "depart_time": "09:25",
+  "arrive_time": "14:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "温州南",
+      "arrive_time": "09:25",
+      "depart_time": "09:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乐清",
+      "arrive_time": "09:40",
+      "depart_time": "09:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "雁荡山",
+      "arrive_time": "09:58",
+      "depart_time": "10:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "温岭",
+      "arrive_time": "10:12",
+      "depart_time": "10:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "台州",
+      "arrive_time": "10:26",
+      "depart_time": "10:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "临海",
+      "arrive_time": "10:40",
+      "depart_time": "10:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "天台山",
+      "arrive_time": "10:56",
+      "depart_time": "10:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "嵊州新昌",
+      "arrive_time": "11:13",
+      "depart_time": "11:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "嵊州北",
+      "arrive_time": "11:27",
+      "depart_time": "11:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "绍兴北",
+      "arrive_time": "11:45",
+      "depart_time": "11:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "杭州东",
+      "arrive_time": "12:05",
+      "depart_time": "12:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "湖州",
+      "arrive_time": "12:29",
+      "depart_time": "12:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "宜兴",
+      "arrive_time": "12:48",
+      "depart_time": "12:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "南京南",
+      "arrive_time": "13:24",
+      "depart_time": "13:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "合肥南",
+      "arrive_time": "14:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1387.0,
+    "price_first": 643.0,
+    "price_second": 404.0,
+    "price_no_seat": 404.0
+  },
+  "fetched_at": "2026-05-01T08:28:29.390583"
+}

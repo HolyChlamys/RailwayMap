@@ -1,0 +1,51 @@
+{
+  "train_no": "G4351",
+  "train_type": "G",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "三门峡南",
+  "depart_time": "22:25",
+  "arrive_time": "03:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "22:25",
+      "depart_time": "22:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长春",
+      "arrive_time": "23:22",
+      "depart_time": "23:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "00:42",
+      "depart_time": "00:50",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "02:20",
+      "depart_time": "02:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "三门峡南",
+      "arrive_time": "03:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 211.0,
+    "price_second": 132.0,
+    "price_no_seat": 132.0
+  },
+  "fetched_at": "2026-05-01T07:02:59.822472"
+}

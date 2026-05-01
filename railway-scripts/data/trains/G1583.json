@@ -1,0 +1,129 @@
+{
+  "train_no": "G1583",
+  "train_type": "G",
+  "depart_station": "无锡东",
+  "arrive_station": "九江",
+  "depart_time": "15:28",
+  "arrive_time": "21:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "无锡东",
+      "arrive_time": "15:28",
+      "depart_time": "15:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州北",
+      "arrive_time": "15:38",
+      "depart_time": "15:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆山南",
+      "arrive_time": "15:51",
+      "depart_time": "15:57",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "上海虹桥",
+      "arrive_time": "16:15",
+      "depart_time": "16:32",
+      "stay_min": "17"
+    },
+    {
+      "seq": 5,
+      "station_name": "嘉兴南",
+      "arrive_time": "17:01",
+      "depart_time": "17:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "17:26",
+      "depart_time": "17:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "义乌",
+      "arrive_time": "18:01",
+      "depart_time": "18:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "金华",
+      "arrive_time": "18:20",
+      "depart_time": "18:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "龙游",
+      "arrive_time": "18:37",
+      "depart_time": "18:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "衢州",
+      "arrive_time": "18:50",
+      "depart_time": "18:56",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "玉山南",
+      "arrive_time": "19:16",
+      "depart_time": "19:21",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "上饶",
+      "arrive_time": "19:33",
+      "depart_time": "19:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "南昌",
+      "arrive_time": "20:31",
+      "depart_time": "20:35",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "德安",
+      "arrive_time": "21:13",
+      "depart_time": "21:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "南昌",
+      "arrive_time": "20:40",
+      "depart_time": "20:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 16,
+      "station_name": "九江",
+      "arrive_time": "21:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1600.5,
+    "price_first": 734.0,
+    "price_second": 458.0,
+    "price_no_seat": 458.0
+  },
+  "fetched_at": "2026-05-01T05:47:13.828661"
+}

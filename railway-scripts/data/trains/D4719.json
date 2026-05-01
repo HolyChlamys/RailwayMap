@@ -1,0 +1,44 @@
+{
+  "train_no": "D4719",
+  "train_type": "D",
+  "depart_station": "长春",
+  "arrive_station": "哈尔滨",
+  "depart_time": "06:41",
+  "arrive_time": "07:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "06:41",
+      "depart_time": "06:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "扶余北",
+      "arrive_time": "07:27",
+      "depart_time": "07:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "哈尔滨西",
+      "arrive_time": "07:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨",
+      "arrive_time": "07:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 153.0,
+    "price_second": 96.0,
+    "price_no_seat": 96.0
+  },
+  "fetched_at": "2026-05-01T03:56:00.366994"
+}

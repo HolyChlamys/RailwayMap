@@ -1,0 +1,73 @@
+{
+  "train_no": "G7668",
+  "train_type": "G",
+  "depart_station": "温州南",
+  "arrive_station": "杭州东",
+  "depart_time": "18:46",
+  "arrive_time": "21:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "温州南",
+      "arrive_time": "18:46",
+      "depart_time": "18:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "温岭",
+      "arrive_time": "19:24",
+      "depart_time": "19:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "台州西",
+      "arrive_time": "19:37",
+      "depart_time": "19:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宁波",
+      "arrive_time": "20:34",
+      "depart_time": "20:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "余姚北",
+      "arrive_time": "20:56",
+      "depart_time": "20:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "绍兴东",
+      "arrive_time": "21:10",
+      "depart_time": "21:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "绍兴北",
+      "arrive_time": "21:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "杭州东",
+      "arrive_time": "21:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 725.0,
+    "price_first": 331.0,
+    "price_second": 207.0,
+    "price_no_seat": 207.0
+  },
+  "fetched_at": "2026-05-01T08:33:26.934830"
+}

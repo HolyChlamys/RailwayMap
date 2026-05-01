@@ -1,0 +1,70 @@
+{
+  "train_no": "K7125",
+  "train_type": "K",
+  "depart_station": "哈尔滨",
+  "arrive_station": "佳木斯",
+  "depart_time": "08:05",
+  "arrive_time": "14:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "呼兰",
+      "arrive_time": "08:40",
+      "depart_time": "08:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "绥化",
+      "arrive_time": "10:01",
+      "depart_time": "10:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "铁力",
+      "arrive_time": "11:23",
+      "depart_time": "11:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南岔",
+      "arrive_time": "13:08",
+      "depart_time": "13:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "浩良河",
+      "arrive_time": "13:58",
+      "depart_time": "13:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "汤原",
+      "arrive_time": "14:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "佳木斯",
+      "arrive_time": "14:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T10:28:23.785973"
+}

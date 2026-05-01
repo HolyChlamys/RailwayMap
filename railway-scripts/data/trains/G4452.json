@@ -1,0 +1,94 @@
+{
+  "train_no": "G4452",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "北京丰台",
+  "depart_time": "18:17",
+  "arrive_time": "23:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "18:17",
+      "depart_time": "18:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感北",
+      "arrive_time": "19:16",
+      "depart_time": "19:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "信阳东",
+      "arrive_time": "19:41",
+      "depart_time": "19:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "驻马店西",
+      "arrive_time": "20:12",
+      "depart_time": "20:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "漯河西",
+      "arrive_time": "20:36",
+      "depart_time": "20:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州东",
+      "arrive_time": "21:14",
+      "depart_time": "21:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "安阳东",
+      "arrive_time": "21:58",
+      "depart_time": "21:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "邯郸东",
+      "arrive_time": "22:17",
+      "depart_time": "22:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "石家庄",
+      "arrive_time": "23:00",
+      "depart_time": "23:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "定州东",
+      "arrive_time": "23:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "北京丰台",
+      "arrive_time": "23:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2171.0,
+    "price_first": 992.0,
+    "price_second": 620.0,
+    "price_no_seat": 620.0
+  },
+  "fetched_at": "2026-05-01T07:05:49.854351"
+}

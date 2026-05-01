@@ -1,0 +1,31 @@
+{
+  "train_no": "G7898",
+  "train_type": "G",
+  "depart_station": "天津西",
+  "arrive_station": "北京大兴",
+  "depart_time": "17:50",
+  "arrive_time": "17:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津西",
+      "arrive_time": "17:50",
+      "depart_time": "17:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北京大兴",
+      "arrive_time": "17:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 205.0,
+    "price_first": 102.5,
+    "price_second": 64.5,
+    "price_no_seat": 64.5
+  },
+  "fetched_at": "2026-05-01T08:39:31.168696"
+}

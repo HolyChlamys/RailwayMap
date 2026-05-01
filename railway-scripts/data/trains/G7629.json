@@ -1,0 +1,59 @@
+{
+  "train_no": "G7629",
+  "train_type": "G",
+  "depart_station": "南京南",
+  "arrive_station": "温州南",
+  "depart_time": "19:54",
+  "arrive_time": "22:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "19:54",
+      "depart_time": "19:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "溧阳",
+      "arrive_time": "20:23",
+      "depart_time": "20:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜兴",
+      "arrive_time": "20:37",
+      "depart_time": "20:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "21:12",
+      "depart_time": "21:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "丽水",
+      "arrive_time": "22:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "温州南",
+      "arrive_time": "22:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 987.0,
+    "price_first": 466.5,
+    "price_second": 292.5,
+    "price_no_seat": 292.5
+  },
+  "fetched_at": "2026-05-01T08:32:37.319689"
+}

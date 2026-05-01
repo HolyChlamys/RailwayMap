@@ -1,0 +1,63 @@
+{
+  "train_no": "K9208",
+  "train_type": "K",
+  "depart_station": "广州白云",
+  "arrive_station": "南雄",
+  "depart_time": "10:31",
+  "arrive_time": "14:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "10:31",
+      "depart_time": "10:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "源潭",
+      "arrive_time": "11:18",
+      "depart_time": "11:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "英德",
+      "arrive_time": "12:16",
+      "depart_time": "12:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "韶关东",
+      "arrive_time": "13:23",
+      "depart_time": "13:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "丹霞山",
+      "arrive_time": "14:01",
+      "depart_time": "14:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "始兴",
+      "arrive_time": "14:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南雄",
+      "arrive_time": "14:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 46.5
+  },
+  "fetched_at": "2026-05-01T10:42:33.369700"
+}

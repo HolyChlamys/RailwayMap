@@ -1,0 +1,28 @@
+{
+  "train_no": "K8109",
+  "train_type": "K",
+  "depart_station": "武昌",
+  "arrive_station": "鄂州",
+  "depart_time": "14:00",
+  "arrive_time": "14:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "14:00",
+      "depart_time": "14:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄂州",
+      "arrive_time": "14:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 12.5
+  },
+  "fetched_at": "2026-05-01T10:35:36.611803"
+}

@@ -1,0 +1,42 @@
+{
+  "train_no": "K9534",
+  "train_type": "K",
+  "depart_station": "重庆西",
+  "arrive_station": "万州",
+  "depart_time": "00:24",
+  "arrive_time": "03:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "00:24",
+      "depart_time": "00:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广安",
+      "arrive_time": "01:56",
+      "depart_time": "01:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "达州",
+      "arrive_time": "03:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "万州",
+      "arrive_time": "03:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 54.5
+  },
+  "fetched_at": "2026-05-01T10:46:43.573430"
+}

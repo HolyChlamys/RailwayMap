@@ -1,0 +1,37 @@
+{
+  "train_no": "C5071",
+  "train_type": "C",
+  "depart_station": "宜昌东",
+  "arrive_station": "利川",
+  "depart_time": "21:21",
+  "arrive_time": "23:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "21:21",
+      "depart_time": "21:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "恩施",
+      "arrive_time": "23:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "利川",
+      "arrive_time": "23:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 163.0,
+    "price_second": 102.0,
+    "price_no_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T01:25:51.702874"
+}

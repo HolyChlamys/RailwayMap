@@ -1,0 +1,35 @@
+{
+  "train_no": "K8121",
+  "train_type": "K",
+  "depart_station": "武昌",
+  "arrive_station": "赤壁",
+  "depart_time": "21:38",
+  "arrive_time": "22:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "21:38",
+      "depart_time": "21:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸宁",
+      "arrive_time": "22:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "赤壁",
+      "arrive_time": "22:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 18.5
+  },
+  "fetched_at": "2026-05-01T10:36:00.696704"
+}

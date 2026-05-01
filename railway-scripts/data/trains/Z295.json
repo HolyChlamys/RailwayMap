@@ -1,0 +1,84 @@
+{
+  "train_no": "Z295",
+  "train_type": "Z",
+  "depart_station": "北京西",
+  "arrive_station": "张家界西",
+  "depart_time": "11:14",
+  "arrive_time": "05:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "11:14",
+      "depart_time": "11:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "保定",
+      "arrive_time": "12:27",
+      "depart_time": "12:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "13:45",
+      "depart_time": "13:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "邯郸",
+      "arrive_time": "15:08",
+      "depart_time": "15:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "鹤壁",
+      "arrive_time": "16:12",
+      "depart_time": "16:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州",
+      "arrive_time": "17:29",
+      "depart_time": "17:38",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "武昌",
+      "arrive_time": "22:18",
+      "depart_time": "22:27",
+      "stay_min": "9"
+    },
+    {
+      "seq": 8,
+      "station_name": "岳阳",
+      "arrive_time": "00:25",
+      "depart_time": "00:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "长沙",
+      "arrive_time": "01:50",
+      "depart_time": "02:10",
+      "stay_min": "20"
+    },
+    {
+      "seq": 10,
+      "station_name": "张家界西",
+      "arrive_time": "05:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 213.0
+  },
+  "fetched_at": "2026-05-01T11:46:26.847073"
+}

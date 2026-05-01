@@ -1,0 +1,52 @@
+{
+  "train_no": "G83",
+  "train_type": "G",
+  "depart_station": "郑州",
+  "arrive_station": "上海虹桥",
+  "depart_time": "08:25",
+  "arrive_time": "12:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州",
+      "arrive_time": "08:25",
+      "depart_time": "08:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "08:42",
+      "depart_time": "08:47",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "10:17",
+      "depart_time": "10:21",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "11:27",
+      "depart_time": "11:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "上海虹桥",
+      "arrive_time": "12:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1901.0,
+    "price_first": 869.0,
+    "price_second": 543.0,
+    "price_no_seat": 543.0
+  },
+  "fetched_at": "2026-05-01T08:47:21.887569"
+}

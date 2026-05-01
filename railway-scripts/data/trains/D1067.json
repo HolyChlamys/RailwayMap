@@ -1,0 +1,72 @@
+{
+  "train_no": "D1067",
+  "train_type": "D",
+  "depart_station": "北京北",
+  "arrive_station": "银川",
+  "depart_time": "16:24",
+  "arrive_time": "22:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京北",
+      "arrive_time": "16:24",
+      "depart_time": "16:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张家口",
+      "arrive_time": "17:29",
+      "depart_time": "17:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乌兰察布",
+      "arrive_time": "18:32",
+      "depart_time": "18:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "呼和浩特东",
+      "arrive_time": "19:15",
+      "depart_time": "19:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "包头",
+      "arrive_time": "20:23",
+      "depart_time": "20:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "21:28",
+      "depart_time": "21:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "乌海",
+      "arrive_time": "22:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "银川",
+      "arrive_time": "22:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 910.0,
+    "price_second": 567.5,
+    "price_no_seat": 567.5
+  },
+  "fetched_at": "2026-05-01T02:57:06.456221"
+}

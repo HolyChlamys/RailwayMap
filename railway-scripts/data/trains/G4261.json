@@ -1,0 +1,94 @@
+{
+  "train_no": "G4261",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "十堰东",
+  "depart_time": "03:02",
+  "arrive_time": "10:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "03:02",
+      "depart_time": "03:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "03:31",
+      "depart_time": "03:34",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙南",
+      "arrive_time": "05:51",
+      "depart_time": "05:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "武汉",
+      "arrive_time": "07:13",
+      "depart_time": "07:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "汉口",
+      "arrive_time": "07:36",
+      "depart_time": "07:55",
+      "stay_min": "19"
+    },
+    {
+      "seq": 6,
+      "station_name": "随州南",
+      "arrive_time": "08:45",
+      "depart_time": "08:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "襄阳东",
+      "arrive_time": "09:17",
+      "depart_time": "09:22",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "谷城北",
+      "arrive_time": "09:44",
+      "depart_time": "09:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "丹江口",
+      "arrive_time": "09:57",
+      "depart_time": "09:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "武当山西",
+      "arrive_time": "10:14",
+      "depart_time": "10:22",
+      "stay_min": "8"
+    },
+    {
+      "seq": 11,
+      "station_name": "十堰东",
+      "arrive_time": "10:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2920.5,
+    "price_first": 1403.5,
+    "price_second": 888.5,
+    "price_no_seat": 888.5
+  },
+  "fetched_at": "2026-05-01T07:00:27.918214"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "D8086",
+  "train_type": "D",
+  "depart_station": "绥中北",
+  "arrive_station": "大连北",
+  "depart_time": "14:38",
+  "arrive_time": "17:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "绥中北",
+      "arrive_time": "14:38",
+      "depart_time": "14:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "葫芦岛北",
+      "arrive_time": "14:59",
+      "depart_time": "15:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "锦州南",
+      "arrive_time": "15:20",
+      "depart_time": "15:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "盘锦",
+      "arrive_time": "15:57",
+      "depart_time": "15:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "营口东",
+      "arrive_time": "16:28",
+      "depart_time": "16:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "16:48",
+      "depart_time": "17:01",
+      "stay_min": "13"
+    },
+    {
+      "seq": 7,
+      "station_name": "瓦房店西",
+      "arrive_time": "17:22",
+      "depart_time": "17:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "大连北",
+      "arrive_time": "17:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 276.0,
+    "price_second": 173.0,
+    "price_no_seat": 173.0
+  },
+  "fetched_at": "2026-05-01T04:49:16.290560"
+}

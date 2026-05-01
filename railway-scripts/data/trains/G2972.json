@@ -1,0 +1,87 @@
+{
+  "train_no": "G2972",
+  "train_type": "G",
+  "depart_station": "绵阳",
+  "arrive_station": "铜仁",
+  "depart_time": "11:14",
+  "arrive_time": "17:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "绵阳",
+      "arrive_time": "11:14",
+      "depart_time": "11:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德阳",
+      "arrive_time": "11:31",
+      "depart_time": "11:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "成都东",
+      "arrive_time": "11:58",
+      "depart_time": "12:03",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "眉山东",
+      "arrive_time": "12:34",
+      "depart_time": "12:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "屏山",
+      "arrive_time": "13:23",
+      "depart_time": "13:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "宜宾西",
+      "arrive_time": "13:37",
+      "depart_time": "13:41",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "贵阳东",
+      "arrive_time": "15:24",
+      "depart_time": "15:29",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "凯里南",
+      "arrive_time": "16:00",
+      "depart_time": "16:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "朱砂古镇",
+      "arrive_time": "16:49",
+      "depart_time": "16:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "铜仁",
+      "arrive_time": "17:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1677.0,
+    "price_first": 839.0,
+    "price_second": 523.0,
+    "price_no_seat": 523.0
+  },
+  "fetched_at": "2026-05-01T06:25:12.812047"
+}

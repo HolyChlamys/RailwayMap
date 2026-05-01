@@ -1,0 +1,51 @@
+{
+  "train_no": "D9898",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "福鼎",
+  "depart_time": "21:31",
+  "arrive_time": "22:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "21:31",
+      "depart_time": "21:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "连江",
+      "arrive_time": "21:55",
+      "depart_time": "21:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁德",
+      "arrive_time": "22:18",
+      "depart_time": "22:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福安",
+      "arrive_time": "22:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福鼎",
+      "arrive_time": "22:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 143.0,
+    "price_second": 90.0,
+    "price_no_seat": 90.0
+  },
+  "fetched_at": "2026-05-01T05:27:36.274416"
+}

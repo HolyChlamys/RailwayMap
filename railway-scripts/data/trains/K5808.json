@@ -1,0 +1,42 @@
+{
+  "train_no": "K5808",
+  "train_type": "K",
+  "depart_station": "南京",
+  "arrive_station": "徐州",
+  "depart_time": "14:26",
+  "arrive_time": "17:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "14:26",
+      "depart_time": "14:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蚌埠",
+      "arrive_time": "16:29",
+      "depart_time": "16:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宿州",
+      "arrive_time": "17:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "徐州",
+      "arrive_time": "17:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 51.5
+  },
+  "fetched_at": "2026-05-01T10:14:25.169457"
+}

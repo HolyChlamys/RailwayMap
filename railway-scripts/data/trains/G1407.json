@@ -1,0 +1,93 @@
+{
+  "train_no": "G1407",
+  "train_type": "G",
+  "depart_station": "上海南",
+  "arrive_station": "赣州西",
+  "depart_time": "12:36",
+  "arrive_time": "17:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "12:36",
+      "depart_time": "12:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州南",
+      "arrive_time": "13:05",
+      "depart_time": "13:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州西",
+      "arrive_time": "13:52",
+      "depart_time": "13:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "千岛湖",
+      "arrive_time": "14:35",
+      "depart_time": "14:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "黄山北",
+      "arrive_time": "15:16",
+      "depart_time": "15:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "景德镇北",
+      "arrive_time": "15:59",
+      "depart_time": "15:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "鄱阳",
+      "arrive_time": "16:22",
+      "depart_time": "16:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南昌东",
+      "arrive_time": "16:51",
+      "depart_time": "16:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "吉安西",
+      "arrive_time": "17:42",
+      "depart_time": "17:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "泰和",
+      "arrive_time": "17:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "赣州西",
+      "arrive_time": "17:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1034.0,
+    "price_second": 648.0,
+    "price_no_seat": 648.0
+  },
+  "fetched_at": "2026-05-01T05:42:04.812407"
+}

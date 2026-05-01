@@ -1,0 +1,30 @@
+{
+  "train_no": "C531",
+  "train_type": "C",
+  "depart_station": "长春",
+  "arrive_station": "松原",
+  "depart_time": "05:45",
+  "arrive_time": "05:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "05:45",
+      "depart_time": "05:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "松原",
+      "arrive_time": "05:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 89.0,
+    "price_second": 56.0,
+    "price_no_seat": 56.0
+  },
+  "fetched_at": "2026-05-01T01:32:35.050684"
+}

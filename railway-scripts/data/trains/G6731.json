@@ -1,0 +1,38 @@
+{
+  "train_no": "G6731",
+  "train_type": "G",
+  "depart_station": "北京西",
+  "arrive_station": "石家庄",
+  "depart_time": "21:06",
+  "arrive_time": "21:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "21:06",
+      "depart_time": "21:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "保定东",
+      "arrive_time": "21:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "21:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 541.0,
+    "price_first": 247.0,
+    "price_second": 155.0,
+    "price_no_seat": 155.0
+  },
+  "fetched_at": "2026-05-01T08:07:15.893221"
+}

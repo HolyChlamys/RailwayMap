@@ -1,0 +1,56 @@
+{
+  "train_no": "K4721",
+  "train_type": "K",
+  "depart_station": "渠县",
+  "arrive_station": "厦门北",
+  "depart_time": "19:30",
+  "arrive_time": "23:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "渠县",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "达州",
+      "arrive_time": "20:12",
+      "depart_time": "20:18",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "安康",
+      "arrive_time": "23:03",
+      "depart_time": "23:13",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州",
+      "arrive_time": "17:52",
+      "depart_time": "18:12",
+      "stay_min": "20"
+    },
+    {
+      "seq": 5,
+      "station_name": "龙岩",
+      "arrive_time": "20:42",
+      "depart_time": "21:24",
+      "stay_min": "42"
+    },
+    {
+      "seq": 6,
+      "station_name": "厦门北",
+      "arrive_time": "23:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T09:58:11.352681"
+}

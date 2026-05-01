@@ -1,0 +1,51 @@
+{
+  "train_no": "C7000",
+  "train_type": "C",
+  "depart_station": "江门",
+  "arrive_station": "广州南",
+  "depart_time": "20:13",
+  "arrive_time": "20:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "江门",
+      "arrive_time": "20:13",
+      "depart_time": "20:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江门东",
+      "arrive_time": "20:23",
+      "depart_time": "20:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "古镇",
+      "arrive_time": "20:31",
+      "depart_time": "20:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "小榄",
+      "arrive_time": "20:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "20:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 79.0,
+    "price_second": 57.0,
+    "price_no_seat": 57.0
+  },
+  "fetched_at": "2026-05-01T02:02:51.043875"
+}

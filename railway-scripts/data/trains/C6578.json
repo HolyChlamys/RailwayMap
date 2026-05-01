@@ -1,0 +1,73 @@
+{
+  "train_no": "C6578",
+  "train_type": "C",
+  "depart_station": "龙口市",
+  "arrive_station": "青岛北",
+  "depart_time": "13:02",
+  "arrive_time": "15:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "龙口市",
+      "arrive_time": "13:02",
+      "depart_time": "13:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蓬莱",
+      "arrive_time": "13:14",
+      "depart_time": "13:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "烟台西",
+      "arrive_time": "13:26",
+      "depart_time": "13:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "福山",
+      "arrive_time": "13:39",
+      "depart_time": "13:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "芝罘",
+      "arrive_time": "13:52",
+      "depart_time": "13:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "桃村北",
+      "arrive_time": "14:10",
+      "depart_time": "14:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "莱阳",
+      "arrive_time": "14:28",
+      "depart_time": "14:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "青岛北",
+      "arrive_time": "15:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 430.0,
+    "price_first": 196.0,
+    "price_second": 123.0,
+    "price_no_seat": 123.0
+  },
+  "fetched_at": "2026-05-01T01:52:20.072609"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "D5615",
+  "train_type": "D",
+  "depart_station": "太仓",
+  "arrive_station": "黄山北",
+  "depart_time": "14:47",
+  "arrive_time": "18:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太仓",
+      "arrive_time": "14:47",
+      "depart_time": "14:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江阴",
+      "arrive_time": "15:19",
+      "depart_time": "15:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "武进",
+      "arrive_time": "15:36",
+      "depart_time": "15:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "16:19",
+      "depart_time": "16:23",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "马鞍山东",
+      "arrive_time": "16:39",
+      "depart_time": "16:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "芜湖",
+      "arrive_time": "16:58",
+      "depart_time": "17:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "宣城",
+      "arrive_time": "17:28",
+      "depart_time": "17:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "黄山北",
+      "arrive_time": "18:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 467.0,
+    "price_second": 292.0,
+    "price_no_seat": 292.0
+  },
+  "fetched_at": "2026-05-01T04:09:22.779491"
+}

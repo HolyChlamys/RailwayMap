@@ -1,0 +1,70 @@
+{
+  "train_no": "K4131",
+  "train_type": "K",
+  "depart_station": "北京丰台",
+  "arrive_station": "阜阳",
+  "depart_time": "06:00",
+  "arrive_time": "14:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京丰台",
+      "arrive_time": "06:00",
+      "depart_time": "06:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肃宁",
+      "arrive_time": "07:57",
+      "depart_time": "07:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡水",
+      "arrive_time": "09:01",
+      "depart_time": "09:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "聊城",
+      "arrive_time": "10:52",
+      "depart_time": "10:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "菏泽",
+      "arrive_time": "12:26",
+      "depart_time": "12:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "商丘南",
+      "arrive_time": "13:39",
+      "depart_time": "13:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "亳州",
+      "arrive_time": "14:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "阜阳",
+      "arrive_time": "14:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T09:48:27.928440"
+}

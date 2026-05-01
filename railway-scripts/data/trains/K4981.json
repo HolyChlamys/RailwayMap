@@ -1,0 +1,63 @@
+{
+  "train_no": "K4981",
+  "train_type": "K",
+  "depart_station": "成都西",
+  "arrive_station": "曲靖",
+  "depart_time": "01:00",
+  "arrive_time": "14:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都西",
+      "arrive_time": "01:00",
+      "depart_time": "01:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "峨眉",
+      "arrive_time": "02:35",
+      "depart_time": "02:41",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "西昌西",
+      "arrive_time": "05:23",
+      "depart_time": "05:31",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "攀枝花南",
+      "arrive_time": "07:21",
+      "depart_time": "07:49",
+      "stay_min": "28"
+    },
+    {
+      "seq": 5,
+      "station_name": "广通北",
+      "arrive_time": "09:30",
+      "depart_time": "09:34",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明",
+      "arrive_time": "12:28",
+      "depart_time": "12:58",
+      "stay_min": "30"
+    },
+    {
+      "seq": 7,
+      "station_name": "曲靖",
+      "arrive_time": "14:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 138.5
+  },
+  "fetched_at": "2026-05-01T10:01:13.344115"
+}

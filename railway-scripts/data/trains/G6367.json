@@ -1,0 +1,80 @@
+{
+  "train_no": "G6367",
+  "train_type": "G",
+  "depart_station": "肇庆东",
+  "arrive_station": "梅州西",
+  "depart_time": "19:16",
+  "arrive_time": "22:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "肇庆东",
+      "arrive_time": "19:16",
+      "depart_time": "19:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三水南",
+      "arrive_time": "19:29",
+      "depart_time": "19:40",
+      "stay_min": "11"
+    },
+    {
+      "seq": 3,
+      "station_name": "佛山西",
+      "arrive_time": "19:51",
+      "depart_time": "20:06",
+      "stay_min": "15"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州",
+      "arrive_time": "20:28",
+      "depart_time": "20:34",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州新塘",
+      "arrive_time": "21:06",
+      "depart_time": "21:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "河源东",
+      "arrive_time": "21:52",
+      "depart_time": "21:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "龙川西",
+      "arrive_time": "22:13",
+      "depart_time": "22:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "兴宁南",
+      "arrive_time": "22:37",
+      "depart_time": "22:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "梅州西",
+      "arrive_time": "22:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1000.0,
+    "price_first": 446.0,
+    "price_second": 287.0,
+    "price_no_seat": 287.0
+  },
+  "fetched_at": "2026-05-01T07:56:40.669384"
+}

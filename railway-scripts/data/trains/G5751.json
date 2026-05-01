@@ -1,0 +1,45 @@
+{
+  "train_no": "G5751",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "泸州",
+  "depart_time": "08:06",
+  "arrive_time": "08:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "08:06",
+      "depart_time": "08:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江津北",
+      "arrive_time": "08:20",
+      "depart_time": "08:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "永川南",
+      "arrive_time": "08:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泸州",
+      "arrive_time": "08:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 280.0,
+    "price_first": 128.0,
+    "price_second": 80.0,
+    "price_no_seat": 80.0
+  },
+  "fetched_at": "2026-05-01T07:41:20.844366"
+}

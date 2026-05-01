@@ -1,0 +1,93 @@
+{
+  "train_no": "D6241",
+  "train_type": "D",
+  "depart_station": "南平市",
+  "arrive_station": "厦门",
+  "depart_time": "14:46",
+  "arrive_time": "18:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南平市",
+      "arrive_time": "14:46",
+      "depart_time": "14:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延平",
+      "arrive_time": "15:19",
+      "depart_time": "15:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "闽清北",
+      "arrive_time": "15:45",
+      "depart_time": "15:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福州",
+      "arrive_time": "16:10",
+      "depart_time": "16:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福清",
+      "arrive_time": "16:39",
+      "depart_time": "16:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "涵江",
+      "arrive_time": "17:01",
+      "depart_time": "17:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "莆田",
+      "arrive_time": "17:14",
+      "depart_time": "17:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "泉州",
+      "arrive_time": "17:41",
+      "depart_time": "17:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "晋江",
+      "arrive_time": "17:54",
+      "depart_time": "17:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "厦门北",
+      "arrive_time": "18:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "厦门",
+      "arrive_time": "18:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 301.0,
+    "price_second": 187.5,
+    "price_no_seat": 187.5
+  },
+  "fetched_at": "2026-05-01T04:19:35.213634"
+}

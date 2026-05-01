@@ -1,0 +1,59 @@
+{
+  "train_no": "G7201",
+  "train_type": "G",
+  "depart_station": "常州",
+  "arrive_station": "上海",
+  "depart_time": "07:19",
+  "arrive_time": "08:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "常州",
+      "arrive_time": "07:19",
+      "depart_time": "07:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "无锡",
+      "arrive_time": "07:35",
+      "depart_time": "07:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "07:52",
+      "depart_time": "07:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "昆山南",
+      "arrive_time": "08:06",
+      "depart_time": "08:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "上海西",
+      "arrive_time": "08:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "上海",
+      "arrive_time": "08:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 308.0,
+    "price_first": 141.0,
+    "price_second": 88.0,
+    "price_no_seat": 88.0
+  },
+  "fetched_at": "2026-05-01T08:20:20.815092"
+}

@@ -1,0 +1,64 @@
+{
+  "train_no": "C4107",
+  "train_type": "C",
+  "depart_station": "张家界西",
+  "arrive_station": "广州白云",
+  "depart_time": "07:41",
+  "arrive_time": "14:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家界西",
+      "arrive_time": "07:41",
+      "depart_time": "07:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "常德",
+      "arrive_time": "09:09",
+      "depart_time": "09:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙",
+      "arrive_time": "11:14",
+      "depart_time": "11:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "株洲",
+      "arrive_time": "11:53",
+      "depart_time": "11:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡阳",
+      "arrive_time": "13:16",
+      "depart_time": "13:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "郴州",
+      "arrive_time": "14:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州白云",
+      "arrive_time": "14:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 352.0,
+    "price_no_seat": 352.0
+  },
+  "fetched_at": "2026-05-01T01:08:46.435328"
+}

@@ -1,0 +1,51 @@
+{
+  "train_no": "C5093",
+  "train_type": "C",
+  "depart_station": "汉口",
+  "arrive_station": "恩施",
+  "depart_time": "04:06",
+  "arrive_time": "07:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "04:06",
+      "depart_time": "04:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜昌东",
+      "arrive_time": "05:57",
+      "depart_time": "05:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "高坪",
+      "arrive_time": "07:12",
+      "depart_time": "07:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "建始",
+      "arrive_time": "07:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "恩施",
+      "arrive_time": "07:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 334.0,
+    "price_second": 209.0,
+    "price_no_seat": 209.0
+  },
+  "fetched_at": "2026-05-01T01:26:26.349092"
+}

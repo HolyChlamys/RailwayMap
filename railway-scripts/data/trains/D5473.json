@@ -1,0 +1,93 @@
+{
+  "train_no": "D5473",
+  "train_type": "D",
+  "depart_station": "芜湖",
+  "arrive_station": "宿迁",
+  "depart_time": "07:29",
+  "arrive_time": "11:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "芜湖",
+      "arrive_time": "07:29",
+      "depart_time": "07:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "当涂东",
+      "arrive_time": "07:42",
+      "depart_time": "07:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "马鞍山东",
+      "arrive_time": "07:52",
+      "depart_time": "08:00",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "08:17",
+      "depart_time": "08:21",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "镇江",
+      "arrive_time": "08:49",
+      "depart_time": "08:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "大港南",
+      "arrive_time": "09:07",
+      "depart_time": "09:14",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "扬州东",
+      "arrive_time": "09:31",
+      "depart_time": "09:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "高邮北",
+      "arrive_time": "09:55",
+      "depart_time": "09:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "淮安东",
+      "arrive_time": "10:18",
+      "depart_time": "10:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "泗阳",
+      "arrive_time": "10:38",
+      "depart_time": "10:45",
+      "stay_min": "7"
+    },
+    {
+      "seq": 11,
+      "station_name": "宿迁",
+      "arrive_time": "11:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 340.0,
+    "price_second": 214.0,
+    "price_no_seat": 214.0
+  },
+  "fetched_at": "2026-05-01T04:07:38.488261"
+}

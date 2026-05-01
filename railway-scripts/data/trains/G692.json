@@ -1,0 +1,101 @@
+{
+  "train_no": "G692",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "太原南",
+  "depart_time": "11:40",
+  "arrive_time": "16:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "11:40",
+      "depart_time": "11:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "信阳东",
+      "arrive_time": "12:34",
+      "depart_time": "12:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "驻马店西",
+      "arrive_time": "13:04",
+      "depart_time": "13:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "漯河西",
+      "arrive_time": "13:31",
+      "depart_time": "13:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州",
+      "arrive_time": "14:26",
+      "depart_time": "14:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "焦作",
+      "arrive_time": "15:02",
+      "depart_time": "15:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "晋城东",
+      "arrive_time": "15:28",
+      "depart_time": "15:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "高平东",
+      "arrive_time": "15:42",
+      "depart_time": "15:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "长治南",
+      "arrive_time": "16:02",
+      "depart_time": "16:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "长治东",
+      "arrive_time": "16:14",
+      "depart_time": "16:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "武乡",
+      "arrive_time": "16:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "太原南",
+      "arrive_time": "16:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1786.0,
+    "price_first": 824.0,
+    "price_second": 515.0,
+    "price_no_seat": 515.0
+  },
+  "fetched_at": "2026-05-01T08:12:46.934633"
+}

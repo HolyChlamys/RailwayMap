@@ -1,0 +1,65 @@
+{
+  "train_no": "D5971",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "利川",
+  "depart_time": "10:25",
+  "arrive_time": "14:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "10:25",
+      "depart_time": "10:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉川",
+      "arrive_time": "10:54",
+      "depart_time": "10:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潜江",
+      "arrive_time": "11:29",
+      "depart_time": "11:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "荆州",
+      "arrive_time": "12:01",
+      "depart_time": "12:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜昌东",
+      "arrive_time": "12:39",
+      "depart_time": "12:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "恩施",
+      "arrive_time": "14:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "利川",
+      "arrive_time": "14:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 370.0,
+    "price_second": 232.0,
+    "price_no_seat": 232.0
+  },
+  "fetched_at": "2026-05-01T04:13:57.136483"
+}

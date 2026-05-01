@@ -1,0 +1,72 @@
+{
+  "train_no": "D4537",
+  "train_type": "D",
+  "depart_station": "兰州西",
+  "arrive_station": "嘉峪关南",
+  "depart_time": "09:06",
+  "arrive_time": "12:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "09:06",
+      "depart_time": "09:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "民和南",
+      "arrive_time": "09:38",
+      "depart_time": "09:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "西宁",
+      "arrive_time": "10:17",
+      "depart_time": "10:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大通西",
+      "arrive_time": "10:39",
+      "depart_time": "10:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "张掖西",
+      "arrive_time": "12:14",
+      "depart_time": "12:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "临泽南",
+      "arrive_time": "12:33",
+      "depart_time": "12:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "高台南",
+      "arrive_time": "12:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "嘉峪关南",
+      "arrive_time": "12:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 344.0,
+    "price_second": 215.0,
+    "price_no_seat": 215.0
+  },
+  "fetched_at": "2026-05-01T03:52:52.581170"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "G7177",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "合肥南",
+  "depart_time": "19:55",
+  "arrive_time": "21:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "19:55",
+      "depart_time": "19:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "20:56",
+      "depart_time": "20:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "21:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 796.0,
+    "price_first": 374.0,
+    "price_second": 234.0,
+    "price_no_seat": 234.0
+  },
+  "fetched_at": "2026-05-01T08:19:38.812984"
+}

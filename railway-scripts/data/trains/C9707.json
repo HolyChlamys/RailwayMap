@@ -1,0 +1,45 @@
+{
+  "train_no": "C9707",
+  "train_type": "C",
+  "depart_station": "南京南",
+  "arrive_station": "金寨",
+  "depart_time": "21:43",
+  "arrive_time": "23:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "21:43",
+      "depart_time": "21:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "22:38",
+      "depart_time": "22:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "六安",
+      "arrive_time": "23:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "金寨",
+      "arrive_time": "23:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 444.0,
+    "price_first": 213.0,
+    "price_second": 133.0,
+    "price_no_seat": 133.0
+  },
+  "fetched_at": "2026-05-01T02:51:50.798273"
+}

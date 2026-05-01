@@ -1,0 +1,45 @@
+{
+  "train_no": "G9742",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "韶关",
+  "depart_time": "00:11",
+  "arrive_time": "00:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "00:11",
+      "depart_time": "00:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门",
+      "arrive_time": "00:30",
+      "depart_time": "00:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "00:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "韶关",
+      "arrive_time": "00:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 636.5,
+    "price_first": 299.5,
+    "price_second": 199.5,
+    "price_no_seat": 199.5
+  },
+  "fetched_at": "2026-05-01T09:22:53.618731"
+}

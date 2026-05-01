@@ -1,0 +1,52 @@
+{
+  "train_no": "G3943",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "天门",
+  "depart_time": "01:18",
+  "arrive_time": "05:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "01:18",
+      "depart_time": "01:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "02:26",
+      "depart_time": "02:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "03:16",
+      "depart_time": "03:20",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "05:11",
+      "depart_time": "05:17",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "天门",
+      "arrive_time": "05:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1613.0,
+    "price_first": 747.0,
+    "price_second": 467.0,
+    "price_no_seat": 467.0
+  },
+  "fetched_at": "2026-05-01T06:51:15.583011"
+}

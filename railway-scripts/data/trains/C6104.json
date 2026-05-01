@@ -1,0 +1,50 @@
+{
+  "train_no": "C6104",
+  "train_type": "C",
+  "depart_station": "泸州",
+  "arrive_station": "成都东",
+  "depart_time": "09:01",
+  "arrive_time": "10:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "泸州",
+      "arrive_time": "09:01",
+      "depart_time": "09:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "自贡",
+      "arrive_time": "09:37",
+      "depart_time": "09:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "威远",
+      "arrive_time": "09:51",
+      "depart_time": "09:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "资阳西",
+      "arrive_time": "10:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "10:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 128.0,
+    "price_no_seat": 128.0
+  },
+  "fetched_at": "2026-05-01T01:44:26.778674"
+}

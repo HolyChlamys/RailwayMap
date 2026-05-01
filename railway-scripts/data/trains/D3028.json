@@ -1,0 +1,93 @@
+{
+  "train_no": "D3028",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "上海虹桥",
+  "depart_time": "07:38",
+  "arrive_time": "13:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "07:38",
+      "depart_time": "07:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "麻城北",
+      "arrive_time": "08:27",
+      "depart_time": "08:32",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "六安",
+      "arrive_time": "09:19",
+      "depart_time": "09:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥南",
+      "arrive_time": "09:46",
+      "depart_time": "09:52",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "10:45",
+      "depart_time": "10:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "镇江",
+      "arrive_time": "11:15",
+      "depart_time": "11:21",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "常州",
+      "arrive_time": "11:48",
+      "depart_time": "11:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "无锡",
+      "arrive_time": "12:05",
+      "depart_time": "12:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "苏州",
+      "arrive_time": "12:23",
+      "depart_time": "12:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "昆山南",
+      "arrive_time": "12:37",
+      "depart_time": "12:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "上海虹桥",
+      "arrive_time": "13:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 503.0,
+    "price_second": 315.0,
+    "price_no_seat": 315.0
+  },
+  "fetched_at": "2026-05-01T03:26:59.601397"
+}

@@ -1,0 +1,87 @@
+{
+  "train_no": "G4376",
+  "train_type": "G",
+  "depart_station": "厦门",
+  "arrive_station": "上海虹桥",
+  "depart_time": "19:14",
+  "arrive_time": "00:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "19:14",
+      "depart_time": "19:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "厦门北",
+      "arrive_time": "19:38",
+      "depart_time": "19:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泉州南",
+      "arrive_time": "19:59",
+      "depart_time": "19:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "莆田",
+      "arrive_time": "20:25",
+      "depart_time": "20:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福州",
+      "arrive_time": "21:05",
+      "depart_time": "21:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "延平",
+      "arrive_time": "21:41",
+      "depart_time": "21:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南平市",
+      "arrive_time": "22:09",
+      "depart_time": "22:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "武夷山北",
+      "arrive_time": "22:29",
+      "depart_time": "22:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "杭州东",
+      "arrive_time": "00:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "上海虹桥",
+      "arrive_time": "00:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2016.0,
+    "price_first": 959.0,
+    "price_second": 591.0,
+    "price_no_seat": 591.0
+  },
+  "fetched_at": "2026-05-01T07:03:42.648685"
+}

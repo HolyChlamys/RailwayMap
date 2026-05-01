@@ -1,0 +1,58 @@
+{
+  "train_no": "D4873",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "东莞南",
+  "depart_time": "02:58",
+  "arrive_time": "13:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "02:58",
+      "depart_time": "02:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵港",
+      "arrive_time": "03:38",
+      "depart_time": "03:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "梧州南",
+      "arrive_time": "04:32",
+      "depart_time": "04:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "05:58",
+      "depart_time": "05:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "13:16",
+      "depart_time": "13:22",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "东莞南",
+      "arrive_time": "13:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 400.0,
+    "price_second": 250.0,
+    "price_no_seat": 250.0
+  },
+  "fetched_at": "2026-05-01T03:57:58.990223"
+}

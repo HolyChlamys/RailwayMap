@@ -1,0 +1,45 @@
+{
+  "train_no": "G8961",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "温州南",
+  "depart_time": "07:58",
+  "arrive_time": "09:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "07:58",
+      "depart_time": "07:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州西",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "义乌",
+      "arrive_time": "09:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "温州南",
+      "arrive_time": "09:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1224.0,
+    "price_first": 558.0,
+    "price_second": 351.0,
+    "price_no_seat": 351.0
+  },
+  "fetched_at": "2026-05-01T09:04:40.650977"
+}

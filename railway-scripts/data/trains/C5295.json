@@ -1,0 +1,72 @@
+{
+  "train_no": "C5295",
+  "train_type": "C",
+  "depart_station": "南平市",
+  "arrive_station": "厦门",
+  "depart_time": "14:22",
+  "arrive_time": "17:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南平市",
+      "arrive_time": "14:22",
+      "depart_time": "14:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延平",
+      "arrive_time": "14:55",
+      "depart_time": "14:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "福州",
+      "arrive_time": "15:39",
+      "depart_time": "15:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福州南",
+      "arrive_time": "15:58",
+      "depart_time": "15:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福清",
+      "arrive_time": "16:19",
+      "depart_time": "16:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "莆田",
+      "arrive_time": "16:40",
+      "depart_time": "16:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "泉州",
+      "arrive_time": "17:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "厦门",
+      "arrive_time": "17:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 303.0,
+    "price_second": 189.5,
+    "price_no_seat": 189.5
+  },
+  "fetched_at": "2026-05-01T01:32:16.968043"
+}

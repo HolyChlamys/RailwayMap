@@ -1,0 +1,52 @@
+{
+  "train_no": "G6694",
+  "train_type": "G",
+  "depart_station": "平顶山西",
+  "arrive_station": "安阳东",
+  "depart_time": "09:38",
+  "arrive_time": "11:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "平顶山西",
+      "arrive_time": "09:38",
+      "depart_time": "09:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "10:41",
+      "depart_time": "10:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新乡东",
+      "arrive_time": "11:25",
+      "depart_time": "11:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鹤壁东",
+      "arrive_time": "11:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "安阳东",
+      "arrive_time": "11:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 597.0,
+    "price_first": 292.0,
+    "price_second": 182.0,
+    "price_no_seat": 182.0
+  },
+  "fetched_at": "2026-05-01T08:06:11.425237"
+}

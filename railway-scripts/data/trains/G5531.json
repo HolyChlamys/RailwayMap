@@ -1,0 +1,52 @@
+{
+  "train_no": "G5531",
+  "train_type": "G",
+  "depart_station": "临沂北",
+  "arrive_station": "曲阜东",
+  "depart_time": "16:30",
+  "arrive_time": "17:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沂北",
+      "arrive_time": "16:30",
+      "depart_time": "16:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "费县北",
+      "arrive_time": "16:45",
+      "depart_time": "16:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "蒙山",
+      "arrive_time": "16:58",
+      "depart_time": "16:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泗水南",
+      "arrive_time": "17:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "曲阜东",
+      "arrive_time": "17:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 223.0,
+    "price_first": 119.0,
+    "price_second": 74.0,
+    "price_no_seat": 74.0
+  },
+  "fetched_at": "2026-05-01T07:36:06.885164"
+}

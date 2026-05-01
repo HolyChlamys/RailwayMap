@@ -1,0 +1,52 @@
+{
+  "train_no": "D1008",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "清河",
+  "depart_time": "09:01",
+  "arrive_time": "11:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "09:01",
+      "depart_time": "09:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌兰察布",
+      "arrive_time": "09:42",
+      "depart_time": "09:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "张家口",
+      "arrive_time": "10:33",
+      "depart_time": "10:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀来",
+      "arrive_time": "11:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "清河",
+      "arrive_time": "11:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 574.0,
+    "price_first": 307.0,
+    "price_second": 191.0,
+    "price_no_seat": 191.0
+  },
+  "fetched_at": "2026-05-01T02:55:34.052302"
+}

@@ -1,0 +1,73 @@
+{
+  "train_no": "G1495",
+  "train_type": "G",
+  "depart_station": "北京西",
+  "arrive_station": "开封北",
+  "depart_time": "17:30",
+  "arrive_time": "21:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "17:30",
+      "depart_time": "17:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "保定东",
+      "arrive_time": "18:11",
+      "depart_time": "18:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "定州东",
+      "arrive_time": "18:33",
+      "depart_time": "18:45",
+      "stay_min": "12"
+    },
+    {
+      "seq": 4,
+      "station_name": "石家庄",
+      "arrive_time": "19:07",
+      "depart_time": "19:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "安阳东",
+      "arrive_time": "20:01",
+      "depart_time": "20:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "鹤壁东",
+      "arrive_time": "20:18",
+      "depart_time": "20:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州东",
+      "arrive_time": "20:54",
+      "depart_time": "21:14",
+      "stay_min": "20"
+    },
+    {
+      "seq": 8,
+      "station_name": "开封北",
+      "arrive_time": "21:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1387.0,
+    "price_first": 634.0,
+    "price_second": 396.0,
+    "price_no_seat": 396.0
+  },
+  "fetched_at": "2026-05-01T05:44:42.466245"
+}

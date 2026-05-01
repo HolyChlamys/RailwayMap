@@ -1,0 +1,58 @@
+{
+  "train_no": "D5993",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "恩施",
+  "depart_time": "13:50",
+  "arrive_time": "16:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉川",
+      "arrive_time": "14:19",
+      "depart_time": "14:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "荆州",
+      "arrive_time": "15:15",
+      "depart_time": "15:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宜昌东",
+      "arrive_time": "15:53",
+      "depart_time": "15:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "野三关",
+      "arrive_time": "16:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "恩施",
+      "arrive_time": "16:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 334.0,
+    "price_second": 209.0,
+    "price_no_seat": 209.0
+  },
+  "fetched_at": "2026-05-01T04:14:32.047075"
+}

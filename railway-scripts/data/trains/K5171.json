@@ -1,0 +1,154 @@
+{
+  "train_no": "K5171",
+  "train_type": "K",
+  "depart_station": "牡丹江",
+  "arrive_station": "漠河",
+  "depart_time": "05:40",
+  "arrive_time": "07:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "牡丹江",
+      "arrive_time": "05:40",
+      "depart_time": "05:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海林",
+      "arrive_time": "06:01",
+      "depart_time": "06:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "山市",
+      "arrive_time": "06:33",
+      "depart_time": "06:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "横道河子",
+      "arrive_time": "07:10",
+      "depart_time": "07:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "亚布力",
+      "arrive_time": "08:17",
+      "depart_time": "08:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "苇河",
+      "arrive_time": "08:36",
+      "depart_time": "08:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "一面坡",
+      "arrive_time": "09:10",
+      "depart_time": "09:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "尚志",
+      "arrive_time": "09:30",
+      "depart_time": "09:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "平山",
+      "arrive_time": "10:15",
+      "depart_time": "10:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "玉泉",
+      "arrive_time": "10:40",
+      "depart_time": "10:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "阿城",
+      "arrive_time": "11:03",
+      "depart_time": "11:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "香坊",
+      "arrive_time": "11:38",
+      "depart_time": "11:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 13,
+      "station_name": "哈尔滨",
+      "arrive_time": "11:54",
+      "depart_time": "12:05",
+      "stay_min": "11"
+    },
+    {
+      "seq": 14,
+      "station_name": "安达",
+      "arrive_time": "13:28",
+      "depart_time": "13:36",
+      "stay_min": "8"
+    },
+    {
+      "seq": 15,
+      "station_name": "齐齐哈尔",
+      "arrive_time": "15:16",
+      "depart_time": "15:43",
+      "stay_min": "27"
+    },
+    {
+      "seq": 16,
+      "station_name": "拉哈",
+      "arrive_time": "17:20",
+      "depart_time": "17:27",
+      "stay_min": "7"
+    },
+    {
+      "seq": 17,
+      "station_name": "嫩江",
+      "arrive_time": "19:31",
+      "depart_time": "19:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 18,
+      "station_name": "大杨树",
+      "arrive_time": "20:57",
+      "depart_time": "21:04",
+      "stay_min": "7"
+    },
+    {
+      "seq": 19,
+      "station_name": "加格达奇",
+      "arrive_time": "22:55",
+      "depart_time": "23:28",
+      "stay_min": "33"
+    },
+    {
+      "seq": 20,
+      "station_name": "漠河",
+      "arrive_time": "07:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 180.5
+  },
+  "fetched_at": "2026-05-01T10:05:27.402308"
+}

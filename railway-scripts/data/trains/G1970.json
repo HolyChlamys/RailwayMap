@@ -1,0 +1,150 @@
+{
+  "train_no": "G1970",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "兰州西",
+  "depart_time": "06:09",
+  "arrive_time": "16:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "06:09",
+      "depart_time": "06:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州北",
+      "arrive_time": "06:32",
+      "depart_time": "06:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡东",
+      "arrive_time": "06:44",
+      "depart_time": "06:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "镇江南",
+      "arrive_time": "07:16",
+      "depart_time": "07:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "07:36",
+      "depart_time": "07:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "蚌埠南",
+      "arrive_time": "08:20",
+      "depart_time": "08:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "宿州东",
+      "arrive_time": "08:45",
+      "depart_time": "08:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "徐州东",
+      "arrive_time": "09:06",
+      "depart_time": "09:12",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "商丘",
+      "arrive_time": "09:58",
+      "depart_time": "10:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "兰考南",
+      "arrive_time": "10:24",
+      "depart_time": "10:30",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "郑州东",
+      "arrive_time": "11:02",
+      "depart_time": "11:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "洛阳龙门",
+      "arrive_time": "11:41",
+      "depart_time": "11:44",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "渑池南",
+      "arrive_time": "12:03",
+      "depart_time": "12:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "三门峡南",
+      "arrive_time": "12:22",
+      "depart_time": "12:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "渭南北",
+      "arrive_time": "13:02",
+      "depart_time": "13:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "西安北",
+      "arrive_time": "13:20",
+      "depart_time": "13:28",
+      "stay_min": "8"
+    },
+    {
+      "seq": 17,
+      "station_name": "宝鸡南",
+      "arrive_time": "14:17",
+      "depart_time": "14:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 18,
+      "station_name": "天水南",
+      "arrive_time": "15:02",
+      "depart_time": "15:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "兰州西",
+      "arrive_time": "16:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3646.0,
+    "price_first": 1667.0,
+    "price_second": 1042.0,
+    "price_no_seat": 1042.0
+  },
+  "fetched_at": "2026-05-01T05:58:01.449711"
+}

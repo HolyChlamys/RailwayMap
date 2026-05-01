@@ -1,0 +1,70 @@
+{
+  "train_no": "K6507",
+  "train_type": "K",
+  "depart_station": "长沙",
+  "arrive_station": "怀化",
+  "depart_time": "06:11",
+  "arrive_time": "12:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "06:11",
+      "depart_time": "06:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "湘潭",
+      "arrive_time": "07:01",
+      "depart_time": "07:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "娄底",
+      "arrive_time": "08:12",
+      "depart_time": "08:18",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "涟源",
+      "arrive_time": "08:54",
+      "depart_time": "08:57",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "新化",
+      "arrive_time": "09:36",
+      "depart_time": "09:41",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "溆浦",
+      "arrive_time": "11:15",
+      "depart_time": "11:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "广州",
+      "arrive_time": "08:54",
+      "depart_time": "08:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "怀化",
+      "arrive_time": "12:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T10:21:12.765046"
+}

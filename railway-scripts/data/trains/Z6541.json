@@ -1,0 +1,35 @@
+{
+  "train_no": "Z6541",
+  "train_type": "Z",
+  "depart_station": "包头",
+  "arrive_station": "巴彦淖尔",
+  "depart_time": "10:52",
+  "arrive_time": "12:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "包头",
+      "arrive_time": "10:52",
+      "depart_time": "10:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌拉山西",
+      "arrive_time": "12:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "12:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T11:51:14.294643"
+}

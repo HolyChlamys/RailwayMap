@@ -1,0 +1,71 @@
+{
+  "train_no": "D985",
+  "train_type": "D",
+  "depart_station": "成都东",
+  "arrive_station": "上海虹桥",
+  "depart_time": "17:51",
+  "arrive_time": "08:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泸州",
+      "arrive_time": "19:14",
+      "depart_time": "19:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "20:21",
+      "depart_time": "20:26",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "万州北",
+      "arrive_time": "21:35",
+      "depart_time": "21:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "襄阳东",
+      "arrive_time": "23:48",
+      "depart_time": "23:52",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "06:19",
+      "depart_time": "06:28",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "江阴",
+      "arrive_time": "07:18",
+      "depart_time": "07:27",
+      "stay_min": "9"
+    },
+    {
+      "seq": 8,
+      "station_name": "上海虹桥",
+      "arrive_time": "08:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 1120.0,
+    "price_no_seat": 1120.0
+  },
+  "fetched_at": "2026-05-01T05:26:20.921509"
+}

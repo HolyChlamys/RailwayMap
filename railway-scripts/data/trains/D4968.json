@@ -1,0 +1,86 @@
+{
+  "train_no": "D4968",
+  "train_type": "D",
+  "depart_station": "南昌西",
+  "arrive_station": "武汉",
+  "depart_time": "15:28",
+  "arrive_time": "17:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "15:28",
+      "depart_time": "15:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永修",
+      "arrive_time": "15:50",
+      "depart_time": "15:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "共青城",
+      "arrive_time": "16:04",
+      "depart_time": "16:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "庐山",
+      "arrive_time": "16:24",
+      "depart_time": "16:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "阳新",
+      "arrive_time": "16:54",
+      "depart_time": "16:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "白沙铺",
+      "arrive_time": "17:08",
+      "depart_time": "17:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "大冶北",
+      "arrive_time": "17:20",
+      "depart_time": "17:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "黄石北",
+      "arrive_time": "17:29",
+      "depart_time": "17:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "鄂州",
+      "arrive_time": "17:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "武汉",
+      "arrive_time": "17:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 222.0,
+    "price_second": 139.0,
+    "price_no_seat": 139.0
+  },
+  "fetched_at": "2026-05-01T03:59:15.024654"
+}

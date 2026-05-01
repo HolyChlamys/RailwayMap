@@ -1,0 +1,51 @@
+{
+  "train_no": "G3723",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "广州南",
+  "depart_time": "10:06",
+  "arrive_time": "15:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "10:06",
+      "depart_time": "10:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳东",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桂林西",
+      "arrive_time": "13:53",
+      "depart_time": "13:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "肇庆东",
+      "arrive_time": "15:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "15:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 916.0,
+    "price_second": 573.0,
+    "price_no_seat": 573.0
+  },
+  "fetched_at": "2026-05-01T06:45:50.041871"
+}

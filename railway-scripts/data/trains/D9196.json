@@ -1,0 +1,30 @@
+{
+  "train_no": "D9196",
+  "train_type": "D",
+  "depart_station": "于都",
+  "arrive_station": "赣州",
+  "depart_time": "06:47",
+  "arrive_time": "06:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "于都",
+      "arrive_time": "06:47",
+      "depart_time": "06:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "赣州",
+      "arrive_time": "06:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 29.5,
+    "price_second": 18.5,
+    "price_no_seat": 18.5
+  },
+  "fetched_at": "2026-05-01T05:09:46.438612"
+}

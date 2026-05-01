@@ -1,0 +1,45 @@
+{
+  "train_no": "C9882",
+  "train_type": "C",
+  "depart_station": "兰州西",
+  "arrive_station": "天水南",
+  "depart_time": "10:21",
+  "arrive_time": "10:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "10:21",
+      "depart_time": "10:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "榆中",
+      "arrive_time": "10:41",
+      "depart_time": "10:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "定西北",
+      "arrive_time": "10:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "天水南",
+      "arrive_time": "10:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 299.0,
+    "price_first": 159.0,
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T02:53:08.644843"
+}

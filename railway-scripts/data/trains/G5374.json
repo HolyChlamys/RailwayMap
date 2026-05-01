@@ -1,0 +1,87 @@
+{
+  "train_no": "G5374",
+  "train_type": "G",
+  "depart_station": "荣成",
+  "arrive_station": "济南",
+  "depart_time": "08:42",
+  "arrive_time": "11:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荣成",
+      "arrive_time": "08:42",
+      "depart_time": "08:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "文登南",
+      "arrive_time": "08:57",
+      "depart_time": "08:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "威海南海",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "乳山南",
+      "arrive_time": "09:22",
+      "depart_time": "09:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "莱阳南",
+      "arrive_time": "09:46",
+      "depart_time": "09:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "莱西",
+      "arrive_time": "10:04",
+      "depart_time": "10:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "胶州北",
+      "arrive_time": "10:37",
+      "depart_time": "10:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "潍坊",
+      "arrive_time": "11:17",
+      "depart_time": "11:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "淄博",
+      "arrive_time": "11:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "济南",
+      "arrive_time": "11:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 914.0,
+    "price_first": 418.0,
+    "price_second": 261.0,
+    "price_no_seat": 261.0
+  },
+  "fetched_at": "2026-05-01T07:32:20.918786"
+}

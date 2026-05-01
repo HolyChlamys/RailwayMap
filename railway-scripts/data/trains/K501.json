@@ -1,0 +1,70 @@
+{
+  "train_no": "K501",
+  "train_type": "K",
+  "depart_station": "成都西",
+  "arrive_station": "长沙",
+  "depart_time": "12:24",
+  "arrive_time": "05:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都西",
+      "arrive_time": "12:24",
+      "depart_time": "12:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潼南",
+      "arrive_time": "15:10",
+      "depart_time": "15:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "合川",
+      "arrive_time": "15:45",
+      "depart_time": "15:49",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆北",
+      "arrive_time": "16:27",
+      "depart_time": "16:38",
+      "stay_min": "11"
+    },
+    {
+      "seq": 5,
+      "station_name": "利川",
+      "arrive_time": "19:30",
+      "depart_time": "19:36",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "恩施",
+      "arrive_time": "20:22",
+      "depart_time": "20:31",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "宜昌东",
+      "arrive_time": "23:17",
+      "depart_time": "23:29",
+      "stay_min": "12"
+    },
+    {
+      "seq": 8,
+      "station_name": "长沙",
+      "arrive_time": "05:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 163.5
+  },
+  "fetched_at": "2026-05-01T10:01:43.063639"
+}

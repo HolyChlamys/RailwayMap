@@ -1,0 +1,73 @@
+{
+  "train_no": "G8523",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "重庆北",
+  "depart_time": "19:44",
+  "arrive_time": "22:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "19:44",
+      "depart_time": "19:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "简阳南",
+      "arrive_time": "20:19",
+      "depart_time": "20:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "资阳北",
+      "arrive_time": "20:45",
+      "depart_time": "20:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "资中北",
+      "arrive_time": "21:07",
+      "depart_time": "21:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "内江北",
+      "arrive_time": "21:22",
+      "depart_time": "21:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "隆昌北",
+      "arrive_time": "21:35",
+      "depart_time": "21:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "璧山",
+      "arrive_time": "22:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "重庆北",
+      "arrive_time": "22:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 614.0,
+    "price_first": 281.0,
+    "price_second": 175.0,
+    "price_no_seat": 175.0
+  },
+  "fetched_at": "2026-05-01T08:53:25.741329"
+}

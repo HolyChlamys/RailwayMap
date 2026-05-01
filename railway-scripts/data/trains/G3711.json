@@ -1,0 +1,59 @@
+{
+  "train_no": "G3711",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "广州南",
+  "depart_time": "07:10",
+  "arrive_time": "13:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "08:33",
+      "depart_time": "08:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桐梓东",
+      "arrive_time": "09:35",
+      "depart_time": "09:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳东",
+      "arrive_time": "10:46",
+      "depart_time": "10:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贺州",
+      "arrive_time": "13:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "13:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2518.0,
+    "price_first": 1182.0,
+    "price_second": 739.0,
+    "price_no_seat": 739.0
+  },
+  "fetched_at": "2026-05-01T06:45:31.885502"
+}

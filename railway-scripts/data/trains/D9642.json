@@ -1,0 +1,58 @@
+{
+  "train_no": "D9642",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "桂林",
+  "depart_time": "09:15",
+  "arrive_time": "11:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "09:15",
+      "depart_time": "09:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宾阳",
+      "arrive_time": "09:43",
+      "depart_time": "09:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "来宾北",
+      "arrive_time": "10:05",
+      "depart_time": "10:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "柳州",
+      "arrive_time": "10:35",
+      "depart_time": "10:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "永福南",
+      "arrive_time": "11:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "桂林",
+      "arrive_time": "11:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 228.0,
+    "price_second": 142.0,
+    "price_no_seat": 142.0
+  },
+  "fetched_at": "2026-05-01T05:20:50.893274"
+}

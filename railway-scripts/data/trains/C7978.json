@@ -1,0 +1,57 @@
+{
+  "train_no": "C7978",
+  "train_type": "C",
+  "depart_station": "茂名",
+  "arrive_station": "广州南",
+  "depart_time": "07:00",
+  "arrive_time": "08:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "茂名",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阳江",
+      "arrive_time": "07:42",
+      "depart_time": "07:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "开平南",
+      "arrive_time": "08:18",
+      "depart_time": "08:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "台山",
+      "arrive_time": "08:28",
+      "depart_time": "08:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "江门",
+      "arrive_time": "08:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "08:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 205.0,
+    "price_no_seat": 205.0
+  },
+  "fetched_at": "2026-05-01T02:29:25.349534"
+}

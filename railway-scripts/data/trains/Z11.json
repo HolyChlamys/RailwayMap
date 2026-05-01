@@ -1,0 +1,126 @@
+{
+  "train_no": "Z11",
+  "train_type": "Z",
+  "depart_station": "广州白云",
+  "arrive_station": "沈阳北",
+  "depart_time": "17:08",
+  "arrive_time": "22:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "17:08",
+      "depart_time": "17:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙",
+      "arrive_time": "00:36",
+      "depart_time": "00:42",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "武昌",
+      "arrive_time": "04:04",
+      "depart_time": "04:11",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "信阳",
+      "arrive_time": "06:26",
+      "depart_time": "06:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州",
+      "arrive_time": "09:02",
+      "depart_time": "09:08",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "邯郸",
+      "arrive_time": "11:19",
+      "depart_time": "11:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "石家庄",
+      "arrive_time": "12:41",
+      "depart_time": "12:47",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "保定",
+      "arrive_time": "13:58",
+      "depart_time": "14:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "北京丰台",
+      "arrive_time": "15:15",
+      "depart_time": "15:47",
+      "stay_min": "32"
+    },
+    {
+      "seq": 10,
+      "station_name": "唐山北",
+      "arrive_time": "17:18",
+      "depart_time": "17:23",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "秦皇岛",
+      "arrive_time": "18:37",
+      "depart_time": "18:49",
+      "stay_min": "12"
+    },
+    {
+      "seq": 12,
+      "station_name": "山海关",
+      "arrive_time": "19:14",
+      "depart_time": "19:29",
+      "stay_min": "15"
+    },
+    {
+      "seq": 13,
+      "station_name": "葫芦岛北",
+      "arrive_time": "20:21",
+      "depart_time": "20:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "锦州南",
+      "arrive_time": "20:45",
+      "depart_time": "20:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "盘锦北",
+      "arrive_time": "21:17",
+      "depart_time": "21:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "沈阳北",
+      "arrive_time": "22:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 302.5
+  },
+  "fetched_at": "2026-05-01T11:42:58.815795"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G5425",
+  "train_type": "G",
+  "depart_station": "毕节",
+  "arrive_station": "兴义南",
+  "depart_time": "11:30",
+  "arrive_time": "14:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "毕节",
+      "arrive_time": "11:30",
+      "depart_time": "11:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黔西",
+      "arrive_time": "11:54",
+      "depart_time": "11:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "12:30",
+      "depart_time": "12:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺西",
+      "arrive_time": "13:02",
+      "depart_time": "13:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "盘州",
+      "arrive_time": "14:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兴义南",
+      "arrive_time": "14:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 957.0,
+    "price_first": 455.0,
+    "price_second": 284.0,
+    "price_no_seat": 284.0
+  },
+  "fetched_at": "2026-05-01T07:33:40.560507"
+}

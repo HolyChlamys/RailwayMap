@@ -1,0 +1,58 @@
+{
+  "train_no": "C6708",
+  "train_type": "C",
+  "depart_station": "湛江西",
+  "arrive_station": "广州南",
+  "depart_time": "21:30",
+  "arrive_time": "23:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "湛江西",
+      "arrive_time": "21:30",
+      "depart_time": "21:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吴川",
+      "arrive_time": "21:56",
+      "depart_time": "21:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阳江",
+      "arrive_time": "22:46",
+      "depart_time": "22:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "开平南",
+      "arrive_time": "23:22",
+      "depart_time": "23:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "江门",
+      "arrive_time": "23:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "23:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 404.0,
+    "price_second": 260.0,
+    "price_no_seat": 260.0
+  },
+  "fetched_at": "2026-05-01T01:54:15.537784"
+}

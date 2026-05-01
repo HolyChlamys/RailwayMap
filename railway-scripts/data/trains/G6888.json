@@ -1,0 +1,38 @@
+{
+  "train_no": "G6888",
+  "train_type": "G",
+  "depart_station": "荆州",
+  "arrive_station": "襄阳东",
+  "depart_time": "07:06",
+  "arrive_time": "07:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荆州",
+      "arrive_time": "07:06",
+      "depart_time": "07:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆门西",
+      "arrive_time": "07:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "襄阳东",
+      "arrive_time": "07:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 492.0,
+    "price_first": 225.0,
+    "price_second": 140.0,
+    "price_no_seat": 140.0
+  },
+  "fetched_at": "2026-05-01T08:11:54.132584"
+}

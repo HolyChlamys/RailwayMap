@@ -1,0 +1,73 @@
+{
+  "train_no": "G6934",
+  "train_type": "G",
+  "depart_station": "莘县",
+  "arrive_station": "青岛北",
+  "depart_time": "17:52",
+  "arrive_time": "20:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "莘县",
+      "arrive_time": "17:52",
+      "depart_time": "17:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "聊城西",
+      "arrive_time": "18:03",
+      "depart_time": "18:07",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "茌平南",
+      "arrive_time": "18:20",
+      "depart_time": "18:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南",
+      "arrive_time": "18:51",
+      "depart_time": "18:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "济南东",
+      "arrive_time": "19:11",
+      "depart_time": "19:19",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "淄博北",
+      "arrive_time": "19:41",
+      "depart_time": "19:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "青州市北",
+      "arrive_time": "19:59",
+      "depart_time": "20:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "青岛北",
+      "arrive_time": "20:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 796.0,
+    "price_first": 395.0,
+    "price_second": 247.0,
+    "price_no_seat": 247.0
+  },
+  "fetched_at": "2026-05-01T08:13:06.658663"
+}

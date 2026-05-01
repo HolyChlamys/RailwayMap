@@ -1,0 +1,56 @@
+{
+  "train_no": "K4654",
+  "train_type": "K",
+  "depart_station": "宁波",
+  "arrive_station": "贵阳",
+  "depart_time": "02:00",
+  "arrive_time": "07:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "02:00",
+      "depart_time": "02:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "义乌",
+      "arrive_time": "05:11",
+      "depart_time": "05:16",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "金华",
+      "arrive_time": "06:08",
+      "depart_time": "06:14",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "衢州",
+      "arrive_time": "07:17",
+      "depart_time": "07:23",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "怀化",
+      "arrive_time": "00:02",
+      "depart_time": "00:12",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳",
+      "arrive_time": "07:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T09:57:01.977416"
+}

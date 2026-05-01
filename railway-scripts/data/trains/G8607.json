@@ -1,0 +1,52 @@
+{
+  "train_no": "G8607",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "重庆北",
+  "depart_time": "19:38",
+  "arrive_time": "20:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "19:38",
+      "depart_time": "19:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "简阳南",
+      "arrive_time": "19:58",
+      "depart_time": "19:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "内江北",
+      "arrive_time": "20:24",
+      "depart_time": "20:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大足南",
+      "arrive_time": "20:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "重庆北",
+      "arrive_time": "20:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 614.0,
+    "price_first": 281.0,
+    "price_second": 175.0,
+    "price_no_seat": 175.0
+  },
+  "fetched_at": "2026-05-01T08:55:41.067013"
+}

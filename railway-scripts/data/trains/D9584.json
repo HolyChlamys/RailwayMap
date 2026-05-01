@@ -1,0 +1,44 @@
+{
+  "train_no": "D9584",
+  "train_type": "D",
+  "depart_station": "云霄",
+  "arrive_station": "晋江",
+  "depart_time": "21:10",
+  "arrive_time": "22:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "云霄",
+      "arrive_time": "21:10",
+      "depart_time": "21:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "21:38",
+      "depart_time": "21:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "厦门北",
+      "arrive_time": "22:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "晋江",
+      "arrive_time": "22:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 117.0,
+    "price_second": 72.0,
+    "price_no_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T05:19:05.122197"
+}

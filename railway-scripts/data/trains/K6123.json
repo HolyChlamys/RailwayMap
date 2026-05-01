@@ -1,0 +1,56 @@
+{
+  "train_no": "K6123",
+  "train_type": "K",
+  "depart_station": "昆明",
+  "arrive_station": "红河",
+  "depart_time": "10:59",
+  "arrive_time": "14:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "10:59",
+      "depart_time": "10:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆阳",
+      "arrive_time": "11:51",
+      "depart_time": "11:58",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "玉溪",
+      "arrive_time": "12:29",
+      "depart_time": "12:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "建水",
+      "arrive_time": "13:55",
+      "depart_time": "13:59",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "个旧",
+      "arrive_time": "14:27",
+      "depart_time": "14:31",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "红河",
+      "arrive_time": "14:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:18:05.103243"
+}

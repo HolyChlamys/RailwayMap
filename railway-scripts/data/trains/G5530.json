@@ -1,0 +1,38 @@
+{
+  "train_no": "G5530",
+  "train_type": "G",
+  "depart_station": "曲阜东",
+  "arrive_station": "日照",
+  "depart_time": "11:59",
+  "arrive_time": "12:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "曲阜东",
+      "arrive_time": "11:59",
+      "depart_time": "11:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "临沂北",
+      "arrive_time": "12:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "日照",
+      "arrive_time": "12:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 408.0,
+    "price_first": 217.0,
+    "price_second": 136.0,
+    "price_no_seat": 136.0
+  },
+  "fetched_at": "2026-05-01T07:36:05.233880"
+}

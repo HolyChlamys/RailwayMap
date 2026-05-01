@@ -1,0 +1,44 @@
+{
+  "train_no": "D5241",
+  "train_type": "D",
+  "depart_station": "仙桃",
+  "arrive_station": "云梦东",
+  "depart_time": "19:13",
+  "arrive_time": "20:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "仙桃",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "19:53",
+      "depart_time": "19:58",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "孝感东",
+      "arrive_time": "20:24",
+      "depart_time": "20:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "云梦东",
+      "arrive_time": "20:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 128.0,
+    "price_second": 81.0,
+    "price_no_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T04:03:09.458303"
+}

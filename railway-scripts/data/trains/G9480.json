@@ -1,0 +1,38 @@
+{
+  "train_no": "G9480",
+  "train_type": "G",
+  "depart_station": "宁波",
+  "arrive_station": "上海虹桥",
+  "depart_time": "00:09",
+  "arrive_time": "00:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "00:09",
+      "depart_time": "00:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "00:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "上海虹桥",
+      "arrive_time": "00:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 604.0,
+    "price_first": 276.0,
+    "price_second": 172.0,
+    "price_no_seat": 172.0
+  },
+  "fetched_at": "2026-05-01T09:15:21.752763"
+}

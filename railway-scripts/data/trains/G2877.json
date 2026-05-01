@@ -1,0 +1,73 @@
+{
+  "train_no": "G2877",
+  "train_type": "G",
+  "depart_station": "昆明南",
+  "arrive_station": "铜仁",
+  "depart_time": "17:25",
+  "arrive_time": "21:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "17:25",
+      "depart_time": "17:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲靖北",
+      "arrive_time": "18:04",
+      "depart_time": "18:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "富源北",
+      "arrive_time": "18:24",
+      "depart_time": "18:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "盘州",
+      "arrive_time": "18:49",
+      "depart_time": "18:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵安",
+      "arrive_time": "20:03",
+      "depart_time": "20:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "安顺西",
+      "arrive_time": "19:46",
+      "depart_time": "19:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "贵阳东",
+      "arrive_time": "20:25",
+      "depart_time": "20:30",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "铜仁",
+      "arrive_time": "21:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1498.0,
+    "price_first": 692.0,
+    "price_second": 432.0,
+    "price_no_seat": 432.0
+  },
+  "fetched_at": "2026-05-01T06:22:45.945278"
+}

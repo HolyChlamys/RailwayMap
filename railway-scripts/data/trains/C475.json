@@ -1,0 +1,58 @@
+{
+  "train_no": "C475",
+  "train_type": "C",
+  "depart_station": "永康南",
+  "arrive_station": "台州西",
+  "depart_time": "16:41",
+  "arrive_time": "17:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "永康南",
+      "arrive_time": "16:41",
+      "depart_time": "16:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "壶镇",
+      "arrive_time": "16:58",
+      "depart_time": "16:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "磐安南",
+      "arrive_time": "17:09",
+      "depart_time": "17:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "仙居南",
+      "arrive_time": "17:37",
+      "depart_time": "17:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "临海南",
+      "arrive_time": "17:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "台州西",
+      "arrive_time": "17:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 88.0,
+    "price_second": 55.0,
+    "price_no_seat": 55.0
+  },
+  "fetched_at": "2026-05-01T01:17:24.236435"
+}

@@ -1,0 +1,49 @@
+{
+  "train_no": "K6747",
+  "train_type": "K",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "米兰",
+  "depart_time": "10:27",
+  "arrive_time": "22:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "10:27",
+      "depart_time": "10:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "焉耆",
+      "arrive_time": "15:03",
+      "depart_time": "15:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "库尔勒",
+      "arrive_time": "15:44",
+      "depart_time": "16:10",
+      "stay_min": "26"
+    },
+    {
+      "seq": 4,
+      "station_name": "若羌",
+      "arrive_time": "21:40",
+      "depart_time": "22:02",
+      "stay_min": "22"
+    },
+    {
+      "seq": 5,
+      "station_name": "米兰",
+      "arrive_time": "22:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 124.0
+  },
+  "fetched_at": "2026-05-01T10:25:51.260538"
+}

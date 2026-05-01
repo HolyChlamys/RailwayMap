@@ -1,0 +1,100 @@
+{
+  "train_no": "D8703",
+  "train_type": "D",
+  "depart_station": "红河",
+  "arrive_station": "大理",
+  "depart_time": "10:01",
+  "arrive_time": "14:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "红河",
+      "arrive_time": "10:01",
+      "depart_time": "10:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开远南",
+      "arrive_time": "10:15",
+      "depart_time": "10:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "竹园",
+      "arrive_time": "10:36",
+      "depart_time": "10:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "弥勒",
+      "arrive_time": "10:54",
+      "depart_time": "10:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "石林西",
+      "arrive_time": "11:14",
+      "depart_time": "11:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明南",
+      "arrive_time": "11:42",
+      "depart_time": "11:47",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "昆明",
+      "arrive_time": "12:06",
+      "depart_time": "12:11",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "禄丰南",
+      "arrive_time": "12:51",
+      "depart_time": "12:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "楚雄",
+      "arrive_time": "13:19",
+      "depart_time": "13:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "南华",
+      "arrive_time": "13:35",
+      "depart_time": "13:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "云南驿",
+      "arrive_time": "14:00",
+      "depart_time": "14:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "大理",
+      "arrive_time": "14:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 387.0,
+    "price_second": 242.5,
+    "price_no_seat": 242.5
+  },
+  "fetched_at": "2026-05-01T05:03:12.472234"
+}

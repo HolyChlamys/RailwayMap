@@ -1,0 +1,52 @@
+{
+  "train_no": "G601",
+  "train_type": "G",
+  "depart_station": "北京丰台",
+  "arrive_station": "太原南",
+  "depart_time": "07:26",
+  "arrive_time": "09:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京丰台",
+      "arrive_time": "07:26",
+      "depart_time": "07:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "保定东",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "08:51",
+      "depart_time": "08:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阳泉北",
+      "arrive_time": "09:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太原南",
+      "arrive_time": "09:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 828.0,
+    "price_first": 378.0,
+    "price_second": 237.0,
+    "price_no_seat": 237.0
+  },
+  "fetched_at": "2026-05-01T07:46:06.050951"
+}

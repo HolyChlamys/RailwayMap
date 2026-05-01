@@ -1,0 +1,49 @@
+{
+  "train_no": "K8418",
+  "train_type": "K",
+  "depart_station": "合肥",
+  "arrive_station": "淮北",
+  "depart_time": "08:43",
+  "arrive_time": "12:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥",
+      "arrive_time": "08:43",
+      "depart_time": "08:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蚌埠",
+      "arrive_time": "10:50",
+      "depart_time": "10:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "固镇",
+      "arrive_time": "11:25",
+      "depart_time": "11:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宿州",
+      "arrive_time": "12:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "淮北",
+      "arrive_time": "12:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T10:39:25.724782"
+}

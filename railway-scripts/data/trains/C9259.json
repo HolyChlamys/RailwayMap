@@ -1,0 +1,52 @@
+{
+  "train_no": "C9259",
+  "train_type": "C",
+  "depart_station": "汉口",
+  "arrive_station": "十堰东",
+  "depart_time": "06:00",
+  "arrive_time": "07:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "06:00",
+      "depart_time": "06:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感东",
+      "arrive_time": "06:27",
+      "depart_time": "06:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "随州南",
+      "arrive_time": "06:57",
+      "depart_time": "06:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "襄阳东",
+      "arrive_time": "07:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "十堰东",
+      "arrive_time": "07:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 746.0,
+    "price_first": 398.0,
+    "price_second": 248.0,
+    "price_no_seat": 248.0
+  },
+  "fetched_at": "2026-05-01T02:43:31.451517"
+}

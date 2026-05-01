@@ -1,0 +1,56 @@
+{
+  "train_no": "K6211",
+  "train_type": "K",
+  "depart_station": "南昌",
+  "arrive_station": "萍乡",
+  "depart_time": "08:21",
+  "arrive_time": "11:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "08:21",
+      "depart_time": "08:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丰城",
+      "arrive_time": "09:21",
+      "depart_time": "09:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "樟树",
+      "arrive_time": "09:42",
+      "depart_time": "09:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新余",
+      "arrive_time": "10:31",
+      "depart_time": "10:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜春",
+      "arrive_time": "11:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "萍乡",
+      "arrive_time": "11:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T10:20:02.233301"
+}

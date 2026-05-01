@@ -1,0 +1,51 @@
+{
+  "train_no": "D8386",
+  "train_type": "D",
+  "depart_station": "玉林",
+  "arrive_station": "南宁东",
+  "depart_time": "13:47",
+  "arrive_time": "15:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "玉林",
+      "arrive_time": "13:47",
+      "depart_time": "13:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴业",
+      "arrive_time": "14:10",
+      "depart_time": "14:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵港",
+      "arrive_time": "14:45",
+      "depart_time": "14:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宾阳",
+      "arrive_time": "15:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南宁东",
+      "arrive_time": "15:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 143.0,
+    "price_second": 89.5,
+    "price_no_seat": 89.5
+  },
+  "fetched_at": "2026-05-01T04:55:52.600623"
+}

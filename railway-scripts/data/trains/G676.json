@@ -1,0 +1,66 @@
+{
+  "train_no": "G676",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "汉口",
+  "depart_time": "10:25",
+  "arrive_time": "14:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "10:25",
+      "depart_time": "10:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "10:42",
+      "depart_time": "10:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡东",
+      "arrive_time": "11:00",
+      "depart_time": "11:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "11:47",
+      "depart_time": "11:52",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥南",
+      "arrive_time": "12:41",
+      "depart_time": "12:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "麻城北",
+      "arrive_time": "13:56",
+      "depart_time": "13:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "汉口",
+      "arrive_time": "14:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1354.0,
+    "price_first": 629.0,
+    "price_second": 393.0,
+    "price_no_seat": 393.0
+  },
+  "fetched_at": "2026-05-01T08:08:05.866115"
+}

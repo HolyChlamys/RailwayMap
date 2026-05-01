@@ -1,0 +1,44 @@
+{
+  "train_no": "D4326",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "泉州",
+  "depart_time": "03:02",
+  "arrive_time": "05:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "03:02",
+      "depart_time": "03:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "04:34",
+      "depart_time": "04:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "厦门北",
+      "arrive_time": "05:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泉州",
+      "arrive_time": "05:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 415.0,
+    "price_second": 260.0,
+    "price_no_seat": 260.0
+  },
+  "fetched_at": "2026-05-01T03:47:50.888333"
+}

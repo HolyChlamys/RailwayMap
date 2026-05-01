@@ -1,0 +1,78 @@
+{
+  "train_no": "S1202",
+  "train_type": "S",
+  "depart_station": "金山卫",
+  "arrive_station": "上海南",
+  "depart_time": "07:45",
+  "arrive_time": "08:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "金山卫",
+      "arrive_time": "07:45",
+      "depart_time": "07:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金山园区",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "亭林",
+      "arrive_time": "08:04",
+      "depart_time": "08:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "叶榭",
+      "arrive_time": "08:12",
+      "depart_time": "08:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "车墩",
+      "arrive_time": "08:21",
+      "depart_time": "08:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "新桥",
+      "arrive_time": "08:30",
+      "depart_time": "08:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "春申",
+      "arrive_time": "08:40",
+      "depart_time": "08:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "莘庄",
+      "arrive_time": "08:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "上海南",
+      "arrive_time": "08:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 10.0,
+    "price_no_seat": 10.0
+  },
+  "fetched_at": "2026-05-01T10:51:09.573737"
+}

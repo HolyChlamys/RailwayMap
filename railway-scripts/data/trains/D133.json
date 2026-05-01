@@ -1,0 +1,85 @@
+{
+  "train_no": "D133",
+  "train_type": "D",
+  "depart_station": "北京丰台",
+  "arrive_station": "井冈山",
+  "depart_time": "18:13",
+  "arrive_time": "08:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京丰台",
+      "arrive_time": "18:13",
+      "depart_time": "18:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "固安",
+      "arrive_time": "18:46",
+      "depart_time": "18:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "任丘",
+      "arrive_time": "19:32",
+      "depart_time": "19:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "衡水",
+      "arrive_time": "20:36",
+      "depart_time": "20:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "聊城",
+      "arrive_time": "22:01",
+      "depart_time": "22:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "菏泽",
+      "arrive_time": "23:14",
+      "depart_time": "23:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "九江",
+      "arrive_time": "05:27",
+      "depart_time": "05:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南昌西",
+      "arrive_time": "06:38",
+      "depart_time": "06:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "吉安",
+      "arrive_time": "08:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "井冈山",
+      "arrive_time": "08:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 415.0,
+    "price_no_seat": 415.0
+  },
+  "fetched_at": "2026-05-01T03:00:09.703424"
+}

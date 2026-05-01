@@ -1,0 +1,38 @@
+{
+  "train_no": "G4436",
+  "train_type": "G",
+  "depart_station": "大同南",
+  "arrive_station": "清河",
+  "depart_time": "03:11",
+  "arrive_time": "04:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大同南",
+      "arrive_time": "03:11",
+      "depart_time": "03:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张家口",
+      "arrive_time": "04:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "清河",
+      "arrive_time": "04:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 494.0,
+    "price_first": 263.0,
+    "price_second": 164.0,
+    "price_no_seat": 164.0
+  },
+  "fetched_at": "2026-05-01T07:05:26.608487"
+}

@@ -1,0 +1,58 @@
+{
+  "train_no": "D7190",
+  "train_type": "D",
+  "depart_station": "汕头",
+  "arrive_station": "广州东",
+  "depart_time": "15:50",
+  "arrive_time": "18:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "15:50",
+      "depart_time": "15:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "16:12",
+      "depart_time": "16:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "汕尾",
+      "arrive_time": "16:58",
+      "depart_time": "17:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "增城",
+      "arrive_time": "17:52",
+      "depart_time": "17:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州新塘",
+      "arrive_time": "18:05",
+      "depart_time": "18:12",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "广州东",
+      "arrive_time": "18:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 339.0,
+    "price_second": 212.0,
+    "price_no_seat": 212.0
+  },
+  "fetched_at": "2026-05-01T04:35:23.824665"
+}

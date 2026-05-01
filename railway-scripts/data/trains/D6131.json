@@ -1,0 +1,30 @@
+{
+  "train_no": "D6131",
+  "train_type": "D",
+  "depart_station": "长寿北",
+  "arrive_station": "重庆北",
+  "depart_time": "07:56",
+  "arrive_time": "07:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长寿北",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "07:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 40.0,
+    "price_second": 25.0,
+    "price_no_seat": 25.0
+  },
+  "fetched_at": "2026-05-01T04:17:29.691667"
+}

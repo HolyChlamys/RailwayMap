@@ -1,0 +1,80 @@
+{
+  "train_no": "D7892",
+  "train_type": "D",
+  "depart_station": "邓州东",
+  "arrive_station": "濮阳东",
+  "depart_time": "08:49",
+  "arrive_time": "12:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邓州东",
+      "arrive_time": "08:49",
+      "depart_time": "08:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南阳东",
+      "arrive_time": "09:09",
+      "depart_time": "09:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "平顶山西",
+      "arrive_time": "09:56",
+      "depart_time": "09:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "禹州",
+      "arrive_time": "10:17",
+      "depart_time": "10:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "长葛北",
+      "arrive_time": "10:30",
+      "depart_time": "10:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州东",
+      "arrive_time": "11:06",
+      "depart_time": "11:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "新乡南",
+      "arrive_time": "11:31",
+      "depart_time": "11:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "内黄",
+      "arrive_time": "12:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "濮阳东",
+      "arrive_time": "12:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 803.0,
+    "price_first": 400.0,
+    "price_second": 251.0,
+    "price_no_seat": 251.0
+  },
+  "fetched_at": "2026-05-01T04:46:59.442647"
+}

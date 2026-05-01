@@ -1,0 +1,94 @@
+{
+  "train_no": "G2201",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "成都东",
+  "depart_time": "07:11",
+  "arrive_time": "12:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "07:11",
+      "depart_time": "07:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛阳龙门",
+      "arrive_time": "07:49",
+      "depart_time": "07:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "灵宝西",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "华山北",
+      "arrive_time": "08:51",
+      "depart_time": "08:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "渭南北",
+      "arrive_time": "09:10",
+      "depart_time": "09:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西安北",
+      "arrive_time": "09:36",
+      "depart_time": "09:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "洋县西",
+      "arrive_time": "10:33",
+      "depart_time": "10:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "汉中",
+      "arrive_time": "10:53",
+      "depart_time": "10:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "广元",
+      "arrive_time": "11:43",
+      "depart_time": "11:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "德阳",
+      "arrive_time": "12:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "成都东",
+      "arrive_time": "12:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2107.0,
+    "price_first": 964.0,
+    "price_second": 602.0,
+    "price_no_seat": 602.0
+  },
+  "fetched_at": "2026-05-01T06:04:08.128417"
+}

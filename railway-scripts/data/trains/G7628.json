@@ -1,0 +1,73 @@
+{
+  "train_no": "G7628",
+  "train_type": "G",
+  "depart_station": "温州南",
+  "arrive_station": "南京南",
+  "depart_time": "19:23",
+  "arrive_time": "22:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "温州南",
+      "arrive_time": "19:23",
+      "depart_time": "19:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丽水",
+      "arrive_time": "19:59",
+      "depart_time": "19:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "缙云西",
+      "arrive_time": "20:14",
+      "depart_time": "20:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "永康南",
+      "arrive_time": "20:31",
+      "depart_time": "20:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州东",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "德清",
+      "arrive_time": "21:55",
+      "depart_time": "21:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "湖州",
+      "arrive_time": "22:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南京南",
+      "arrive_time": "22:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 987.0,
+    "price_first": 466.5,
+    "price_second": 292.5,
+    "price_no_seat": 292.5
+  },
+  "fetched_at": "2026-05-01T08:32:35.686783"
+}

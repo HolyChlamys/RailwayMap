@@ -1,0 +1,56 @@
+{
+  "train_no": "K5266",
+  "train_type": "K",
+  "depart_station": "石家庄北",
+  "arrive_station": "天津西",
+  "depart_time": "16:08",
+  "arrive_time": "20:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石家庄北",
+      "arrive_time": "16:08",
+      "depart_time": "16:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "辛集",
+      "arrive_time": "17:07",
+      "depart_time": "17:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡水",
+      "arrive_time": "17:49",
+      "depart_time": "17:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "德州",
+      "arrive_time": "19:15",
+      "depart_time": "19:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沧州",
+      "arrive_time": "20:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "天津西",
+      "arrive_time": "20:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 62.5
+  },
+  "fetched_at": "2026-05-01T10:07:09.612027"
+}

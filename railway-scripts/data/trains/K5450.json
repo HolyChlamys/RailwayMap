@@ -1,0 +1,63 @@
+{
+  "train_no": "K5450",
+  "train_type": "K",
+  "depart_station": "西安",
+  "arrive_station": "榆林",
+  "depart_time": "06:37",
+  "arrive_time": "13:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "06:37",
+      "depart_time": "06:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄陵南",
+      "arrive_time": "08:41",
+      "depart_time": "08:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "延安",
+      "arrive_time": "10:29",
+      "depart_time": "10:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "子长",
+      "arrive_time": "11:31",
+      "depart_time": "11:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "绥德",
+      "arrive_time": "12:33",
+      "depart_time": "12:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "米脂",
+      "arrive_time": "13:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "榆林",
+      "arrive_time": "13:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T10:10:45.882986"
+}

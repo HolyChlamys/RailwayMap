@@ -1,0 +1,45 @@
+{
+  "train_no": "D9786",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "潮汕",
+  "depart_time": "01:00",
+  "arrive_time": "02:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "01:00",
+      "depart_time": "01:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "陆丰",
+      "arrive_time": "01:58",
+      "depart_time": "01:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "普宁",
+      "arrive_time": "02:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潮汕",
+      "arrive_time": "02:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 474.0,
+    "price_first": 217.0,
+    "price_second": 135.0,
+    "price_no_seat": 135.0
+  },
+  "fetched_at": "2026-05-01T05:24:57.220925"
+}

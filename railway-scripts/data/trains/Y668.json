@@ -1,0 +1,49 @@
+{
+  "train_no": "Y668",
+  "train_type": "Y",
+  "depart_station": "敦煌",
+  "arrive_station": "兰州",
+  "depart_time": "20:35",
+  "arrive_time": "07:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "敦煌",
+      "arrive_time": "20:35",
+      "depart_time": "20:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉峪关",
+      "arrive_time": "23:57",
+      "depart_time": "00:06",
+      "stay_min": "1431"
+    },
+    {
+      "seq": 3,
+      "station_name": "张掖",
+      "arrive_time": "01:59",
+      "depart_time": "02:05",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "兰州西",
+      "arrive_time": "07:25",
+      "depart_time": "07:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "兰州",
+      "arrive_time": "07:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 141.5
+  },
+  "fetched_at": "2026-05-01T11:36:40.604382"
+}

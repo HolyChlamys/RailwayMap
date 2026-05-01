@@ -1,0 +1,87 @@
+{
+  "train_no": "G7306",
+  "train_type": "G",
+  "depart_station": "黄山北",
+  "arrive_station": "盐城",
+  "depart_time": "09:28",
+  "arrive_time": "13:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄山北",
+      "arrive_time": "09:28",
+      "depart_time": "09:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "千岛湖",
+      "arrive_time": "10:10",
+      "depart_time": "10:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桐庐",
+      "arrive_time": "10:39",
+      "depart_time": "10:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州西",
+      "arrive_time": "11:07",
+      "depart_time": "11:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "湖州东",
+      "arrive_time": "11:36",
+      "depart_time": "11:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "盛泽",
+      "arrive_time": "11:53",
+      "depart_time": "11:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "上海虹桥",
+      "arrive_time": "12:34",
+      "depart_time": "12:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "张家港",
+      "arrive_time": "13:27",
+      "depart_time": "13:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "如皋南",
+      "arrive_time": "13:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "盐城",
+      "arrive_time": "13:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1380.0,
+    "price_first": 664.0,
+    "price_second": 418.0,
+    "price_no_seat": 418.0
+  },
+  "fetched_at": "2026-05-01T08:23:41.205777"
+}

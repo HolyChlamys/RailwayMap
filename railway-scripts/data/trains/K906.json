@@ -1,0 +1,98 @@
+{
+  "train_no": "K906",
+  "train_type": "K",
+  "depart_station": "呼和浩特",
+  "arrive_station": "赤峰南",
+  "depart_time": "18:00",
+  "arrive_time": "07:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特",
+      "arrive_time": "18:00",
+      "depart_time": "18:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "呼和浩特东",
+      "arrive_time": "18:12",
+      "depart_time": "18:22",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "集宁南",
+      "arrive_time": "19:47",
+      "depart_time": "20:16",
+      "stay_min": "29"
+    },
+    {
+      "seq": 4,
+      "station_name": "商都",
+      "arrive_time": "21:25",
+      "depart_time": "21:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "化德",
+      "arrive_time": "22:07",
+      "depart_time": "22:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "正镶白旗",
+      "arrive_time": "23:23",
+      "depart_time": "23:29",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "桑根达来",
+      "arrive_time": "00:30",
+      "depart_time": "00:36",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "经棚",
+      "arrive_time": "02:04",
+      "depart_time": "02:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "林西",
+      "arrive_time": "02:50",
+      "depart_time": "02:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "大板",
+      "arrive_time": "03:38",
+      "depart_time": "03:56",
+      "stay_min": "18"
+    },
+    {
+      "seq": 11,
+      "station_name": "乌丹",
+      "arrive_time": "06:02",
+      "depart_time": "06:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "赤峰南",
+      "arrive_time": "07:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 124.0
+  },
+  "fetched_at": "2026-05-01T10:42:10.133036"
+}

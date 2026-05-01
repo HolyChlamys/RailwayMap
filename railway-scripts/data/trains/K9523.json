@@ -1,0 +1,84 @@
+{
+  "train_no": "K9523",
+  "train_type": "K",
+  "depart_station": "重庆西",
+  "arrive_station": "巴中",
+  "depart_time": "12:16",
+  "arrive_time": "19:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "12:16",
+      "depart_time": "12:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广安",
+      "arrive_time": "13:49",
+      "depart_time": "13:54",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "渠县",
+      "arrive_time": "14:23",
+      "depart_time": "14:27",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "三汇镇",
+      "arrive_time": "14:50",
+      "depart_time": "14:59",
+      "stay_min": "9"
+    },
+    {
+      "seq": 5,
+      "station_name": "渡市",
+      "arrive_time": "15:12",
+      "depart_time": "15:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "达州",
+      "arrive_time": "15:51",
+      "depart_time": "17:00",
+      "stay_min": "69"
+    },
+    {
+      "seq": 7,
+      "station_name": "石梯",
+      "arrive_time": "17:56",
+      "depart_time": "18:07",
+      "stay_min": "11"
+    },
+    {
+      "seq": 8,
+      "station_name": "平昌",
+      "arrive_time": "18:49",
+      "depart_time": "18:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "巴中东",
+      "arrive_time": "19:28",
+      "depart_time": "19:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "巴中",
+      "arrive_time": "19:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 51.5
+  },
+  "fetched_at": "2026-05-01T10:46:28.766122"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "C3059",
+  "train_type": "C",
+  "depart_station": "上海南",
+  "arrive_station": "杭州西",
+  "depart_time": "22:24",
+  "arrive_time": "22:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "22:24",
+      "depart_time": "22:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "盛泽",
+      "arrive_time": "22:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州西",
+      "arrive_time": "22:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 476.0,
+    "price_first": 218.0,
+    "price_second": 137.0,
+    "price_no_seat": 137.0
+  },
+  "fetched_at": "2026-05-01T00:49:56.556254"
+}

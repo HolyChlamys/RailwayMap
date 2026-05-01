@@ -1,0 +1,51 @@
+{
+  "train_no": "D8772",
+  "train_type": "D",
+  "depart_station": "大理",
+  "arrive_station": "昆明南",
+  "depart_time": "09:24",
+  "arrive_time": "11:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "09:24",
+      "depart_time": "09:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南华",
+      "arrive_time": "10:16",
+      "depart_time": "10:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "楚雄",
+      "arrive_time": "10:35",
+      "depart_time": "10:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明",
+      "arrive_time": "11:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明南",
+      "arrive_time": "11:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 247.5,
+    "price_second": 155.5,
+    "price_no_seat": 155.5
+  },
+  "fetched_at": "2026-05-01T05:04:40.201719"
+}

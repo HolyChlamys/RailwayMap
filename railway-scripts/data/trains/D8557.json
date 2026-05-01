@@ -1,0 +1,72 @@
+{
+  "train_no": "D8557",
+  "train_type": "D",
+  "depart_station": "宜宾西",
+  "arrive_station": "荔波",
+  "depart_time": "14:45",
+  "arrive_time": "18:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜宾西",
+      "arrive_time": "14:45",
+      "depart_time": "14:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "威信",
+      "arrive_time": "15:31",
+      "depart_time": "15:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "毕节",
+      "arrive_time": "16:03",
+      "depart_time": "16:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黔西",
+      "arrive_time": "16:32",
+      "depart_time": "16:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "17:07",
+      "depart_time": "17:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳",
+      "arrive_time": "17:20",
+      "depart_time": "17:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "都匀东",
+      "arrive_time": "18:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "荔波",
+      "arrive_time": "18:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 465.0,
+    "price_second": 291.0,
+    "price_no_seat": 291.0
+  },
+  "fetched_at": "2026-05-01T04:59:32.595860"
+}

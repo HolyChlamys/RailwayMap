@@ -1,0 +1,52 @@
+{
+  "train_no": "G7921",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "南阳东",
+  "depart_time": "14:56",
+  "arrive_time": "16:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "14:56",
+      "depart_time": "14:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州航空港",
+      "arrive_time": "15:26",
+      "depart_time": "15:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长葛北",
+      "arrive_time": "15:43",
+      "depart_time": "15:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郏县",
+      "arrive_time": "16:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南阳东",
+      "arrive_time": "16:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 427.0,
+    "price_first": 228.0,
+    "price_second": 142.0,
+    "price_no_seat": 142.0
+  },
+  "fetched_at": "2026-05-01T08:40:12.549141"
+}

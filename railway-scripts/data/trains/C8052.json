@@ -1,0 +1,66 @@
+{
+  "train_no": "C8052",
+  "train_type": "C",
+  "depart_station": "汕头",
+  "arrive_station": "广州东",
+  "depart_time": "01:25",
+  "arrive_time": "04:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "01:25",
+      "depart_time": "01:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "01:47",
+      "depart_time": "01:52",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "潮阳",
+      "arrive_time": "02:03",
+      "depart_time": "02:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "普宁",
+      "arrive_time": "02:15",
+      "depart_time": "02:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "02:46",
+      "depart_time": "02:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "广州新塘",
+      "arrive_time": "03:41",
+      "depart_time": "03:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "广州东",
+      "arrive_time": "04:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 785.0,
+    "price_first": 359.0,
+    "price_second": 224.0,
+    "price_no_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T02:31:23.950423"
+}

@@ -1,0 +1,86 @@
+{
+  "train_no": "D2506",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "太原南",
+  "depart_time": "07:20",
+  "arrive_time": "10:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "07:20",
+      "depart_time": "07:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "渭南北",
+      "arrive_time": "07:42",
+      "depart_time": "07:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "永济北",
+      "arrive_time": "08:17",
+      "depart_time": "08:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "闻喜西",
+      "arrive_time": "08:48",
+      "depart_time": "08:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "襄汾西",
+      "arrive_time": "09:11",
+      "depart_time": "09:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "洪洞西",
+      "arrive_time": "09:32",
+      "depart_time": "09:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "霍州东",
+      "arrive_time": "09:52",
+      "depart_time": "09:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "祁县东",
+      "arrive_time": "10:27",
+      "depart_time": "10:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "晋中",
+      "arrive_time": "10:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "太原南",
+      "arrive_time": "10:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 338.0,
+    "price_second": 211.0,
+    "price_no_seat": 211.0
+  },
+  "fetched_at": "2026-05-01T03:17:31.569534"
+}

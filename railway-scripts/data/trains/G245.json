@@ -1,0 +1,73 @@
+{
+  "train_no": "G245",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "广州南",
+  "depart_time": "08:00",
+  "arrive_time": "13:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "08:49",
+      "depart_time": "08:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金华",
+      "arrive_time": "09:34",
+      "depart_time": "09:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "上饶",
+      "arrive_time": "10:13",
+      "depart_time": "10:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌西",
+      "arrive_time": "11:07",
+      "depart_time": "11:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙南",
+      "arrive_time": "12:23",
+      "depart_time": "12:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "衡阳东",
+      "arrive_time": "13:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "13:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3324.0,
+    "price_first": 1520.0,
+    "price_second": 949.0,
+    "price_no_seat": 949.0
+  },
+  "fetched_at": "2026-05-01T06:10:40.321976"
+}

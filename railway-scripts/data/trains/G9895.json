@@ -1,0 +1,38 @@
+{
+  "train_no": "G9895",
+  "train_type": "G",
+  "depart_station": "北京朝阳",
+  "arrive_station": "承德南",
+  "depart_time": "19:42",
+  "arrive_time": "20:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京朝阳",
+      "arrive_time": "19:42",
+      "depart_time": "19:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "密云",
+      "arrive_time": "20:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "承德南",
+      "arrive_time": "20:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 370.0,
+    "price_first": 169.0,
+    "price_second": 106.0,
+    "price_no_seat": 106.0
+  },
+  "fetched_at": "2026-05-01T09:27:25.881113"
+}

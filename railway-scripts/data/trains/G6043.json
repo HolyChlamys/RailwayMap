@@ -1,0 +1,94 @@
+{
+  "train_no": "G6043",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "湘潭北",
+  "depart_time": "17:32",
+  "arrive_time": "21:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "17:32",
+      "depart_time": "17:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门",
+      "arrive_time": "17:50",
+      "depart_time": "17:56",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "18:14",
+      "depart_time": "18:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州北",
+      "arrive_time": "18:35",
+      "depart_time": "18:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "英德西",
+      "arrive_time": "19:01",
+      "depart_time": "19:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "韶关",
+      "arrive_time": "19:24",
+      "depart_time": "19:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "耒阳西",
+      "arrive_time": "20:11",
+      "depart_time": "20:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "衡山西",
+      "arrive_time": "20:36",
+      "depart_time": "20:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "株洲西",
+      "arrive_time": "20:56",
+      "depart_time": "20:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "长沙南",
+      "arrive_time": "21:13",
+      "depart_time": "21:32",
+      "stay_min": "19"
+    },
+    {
+      "seq": 11,
+      "station_name": "湘潭北",
+      "arrive_time": "21:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1570.5,
+    "price_first": 726.5,
+    "price_second": 465.5,
+    "price_no_seat": 465.5
+  },
+  "fetched_at": "2026-05-01T07:47:07.284628"
+}

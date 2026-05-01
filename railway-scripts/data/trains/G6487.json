@@ -1,0 +1,52 @@
+{
+  "train_no": "G6487",
+  "train_type": "G",
+  "depart_station": "汕头",
+  "arrive_station": "深圳",
+  "depart_time": "15:36",
+  "arrive_time": "17:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "15:36",
+      "depart_time": "15:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "陆丰东",
+      "arrive_time": "16:07",
+      "depart_time": "16:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汕尾",
+      "arrive_time": "16:25",
+      "depart_time": "16:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "仲恺",
+      "arrive_time": "17:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳",
+      "arrive_time": "17:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 934.0,
+    "price_first": 412.0,
+    "price_second": 266.0,
+    "price_no_seat": 266.0
+  },
+  "fetched_at": "2026-05-01T08:00:16.630357"
+}

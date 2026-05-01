@@ -1,0 +1,51 @@
+{
+  "train_no": "C5185",
+  "train_type": "C",
+  "depart_station": "福鼎",
+  "arrive_station": "福州南",
+  "depart_time": "08:24",
+  "arrive_time": "09:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福鼎",
+      "arrive_time": "08:24",
+      "depart_time": "08:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福安",
+      "arrive_time": "08:56",
+      "depart_time": "08:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁德",
+      "arrive_time": "09:09",
+      "depart_time": "09:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "连江",
+      "arrive_time": "09:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福州南",
+      "arrive_time": "09:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 142.0,
+    "price_second": 89.0,
+    "price_no_seat": 89.0
+  },
+  "fetched_at": "2026-05-01T01:28:58.511754"
+}

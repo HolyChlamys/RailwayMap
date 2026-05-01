@@ -1,0 +1,45 @@
+{
+  "train_no": "G3946",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "襄阳东",
+  "depart_time": "03:37",
+  "arrive_time": "07:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "03:37",
+      "depart_time": "03:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "05:25",
+      "depart_time": "05:29",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "荆门西",
+      "arrive_time": "06:33",
+      "depart_time": "06:53",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "襄阳东",
+      "arrive_time": "07:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1452.0,
+    "price_first": 664.0,
+    "price_second": 415.0,
+    "price_no_seat": 415.0
+  },
+  "fetched_at": "2026-05-01T06:51:20.564310"
+}

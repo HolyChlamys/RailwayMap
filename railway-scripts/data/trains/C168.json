@@ -1,0 +1,73 @@
+{
+  "train_no": "C168",
+  "train_type": "C",
+  "depart_station": "宝鸡",
+  "arrive_station": "西安",
+  "depart_time": "16:00",
+  "arrive_time": "17:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宝鸡",
+      "arrive_time": "16:00",
+      "depart_time": "16:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蔡家坡",
+      "arrive_time": "16:26",
+      "depart_time": "16:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "绛帐",
+      "arrive_time": "16:47",
+      "depart_time": "16:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杨陵",
+      "arrive_time": "16:58",
+      "depart_time": "16:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武功",
+      "arrive_time": "17:10",
+      "depart_time": "17:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兴平",
+      "arrive_time": "17:27",
+      "depart_time": "17:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "咸阳",
+      "arrive_time": "17:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "西安",
+      "arrive_time": "17:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 187.0,
+    "price_first": 85.0,
+    "price_second": 53.0,
+    "price_no_seat": 53.0
+  },
+  "fetched_at": "2026-05-01T00:27:15.390319"
+}

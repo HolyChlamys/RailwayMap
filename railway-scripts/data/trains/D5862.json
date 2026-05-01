@@ -1,0 +1,58 @@
+{
+  "train_no": "D5862",
+  "train_type": "D",
+  "depart_station": "阳新",
+  "arrive_station": "汉口",
+  "depart_time": "20:47",
+  "arrive_time": "22:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阳新",
+      "arrive_time": "20:47",
+      "depart_time": "20:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大冶北",
+      "arrive_time": "21:01",
+      "depart_time": "21:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "黄石北",
+      "arrive_time": "21:10",
+      "depart_time": "21:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "鄂州",
+      "arrive_time": "21:24",
+      "depart_time": "21:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "武汉",
+      "arrive_time": "21:53",
+      "depart_time": "21:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "汉口",
+      "arrive_time": "22:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 101.0,
+    "price_second": 63.0,
+    "price_no_seat": 63.0
+  },
+  "fetched_at": "2026-05-01T04:12:48.762730"
+}

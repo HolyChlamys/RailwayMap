@@ -1,0 +1,38 @@
+{
+  "train_no": "G9106",
+  "train_type": "G",
+  "depart_station": "南阳东",
+  "arrive_station": "郑州东",
+  "depart_time": "20:56",
+  "arrive_time": "21:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南阳东",
+      "arrive_time": "20:56",
+      "depart_time": "20:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "平顶山西",
+      "arrive_time": "21:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "21:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 437.0,
+    "price_first": 233.0,
+    "price_second": 146.0,
+    "price_no_seat": 146.0
+  },
+  "fetched_at": "2026-05-01T09:06:03.339835"
+}

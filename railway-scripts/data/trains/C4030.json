@@ -1,0 +1,44 @@
+{
+  "train_no": "C4030",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "遂宁",
+  "depart_time": "14:55",
+  "arrive_time": "16:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "14:55",
+      "depart_time": "14:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮口南",
+      "arrive_time": "15:24",
+      "depart_time": "15:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大英东",
+      "arrive_time": "16:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "遂宁",
+      "arrive_time": "16:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 153.0,
+    "price_second": 96.0,
+    "price_no_seat": 96.0
+  },
+  "fetched_at": "2026-05-01T01:06:33.848044"
+}

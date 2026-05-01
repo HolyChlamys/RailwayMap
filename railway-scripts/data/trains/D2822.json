@@ -1,0 +1,107 @@
+{
+  "train_no": "D2822",
+  "train_type": "D",
+  "depart_station": "西宁",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "07:00",
+  "arrive_time": "20:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西宁",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兰州西",
+      "arrive_time": "07:57",
+      "depart_time": "08:03",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "天水南",
+      "arrive_time": "09:18",
+      "depart_time": "09:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "宝鸡南",
+      "arrive_time": "10:02",
+      "depart_time": "10:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "西安北",
+      "arrive_time": "10:55",
+      "depart_time": "11:01",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "运城北",
+      "arrive_time": "12:03",
+      "depart_time": "12:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "侯马西",
+      "arrive_time": "12:28",
+      "depart_time": "12:31",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "临汾西",
+      "arrive_time": "12:51",
+      "depart_time": "12:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "灵石东",
+      "arrive_time": "13:27",
+      "depart_time": "13:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "太原南",
+      "arrive_time": "14:11",
+      "depart_time": "14:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "乌兰察布",
+      "arrive_time": "19:56",
+      "depart_time": "20:03",
+      "stay_min": "7"
+    },
+    {
+      "seq": 12,
+      "station_name": "卓资东",
+      "arrive_time": "20:20",
+      "depart_time": "20:28",
+      "stay_min": "8"
+    },
+    {
+      "seq": 13,
+      "station_name": "呼和浩特东",
+      "arrive_time": "20:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 815.0,
+    "price_second": 509.0,
+    "price_no_seat": 509.0
+  },
+  "fetched_at": "2026-05-01T03:24:09.344228"
+}

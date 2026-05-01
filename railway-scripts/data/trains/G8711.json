@@ -1,0 +1,80 @@
+{
+  "train_no": "G8711",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "重庆西",
+  "depart_time": "10:00",
+  "arrive_time": "12:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "10:00",
+      "depart_time": "10:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "资阳北",
+      "arrive_time": "10:25",
+      "depart_time": "10:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "资中北",
+      "arrive_time": "10:40",
+      "depart_time": "10:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "内江北",
+      "arrive_time": "10:53",
+      "depart_time": "10:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "白马北",
+      "arrive_time": "11:11",
+      "depart_time": "11:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "泸州",
+      "arrive_time": "11:48",
+      "depart_time": "11:57",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "泸州东",
+      "arrive_time": "12:07",
+      "depart_time": "12:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "永川南",
+      "arrive_time": "12:24",
+      "depart_time": "12:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "重庆西",
+      "arrive_time": "12:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 777.0,
+    "price_first": 355.0,
+    "price_second": 222.0,
+    "price_no_seat": 222.0
+  },
+  "fetched_at": "2026-05-01T08:58:24.528776"
+}

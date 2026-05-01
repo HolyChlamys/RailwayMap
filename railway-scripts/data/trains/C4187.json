@@ -1,0 +1,45 @@
+{
+  "train_no": "C4187",
+  "train_type": "C",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "奎屯",
+  "depart_time": "18:11",
+  "arrive_time": "19:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "18:11",
+      "depart_time": "18:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石河子",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沙湾市",
+      "arrive_time": "19:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "奎屯",
+      "arrive_time": "19:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 191.0,
+    "price_first": 87.0,
+    "price_second": 55.0,
+    "price_no_seat": 55.0
+  },
+  "fetched_at": "2026-05-01T01:10:10.298197"
+}

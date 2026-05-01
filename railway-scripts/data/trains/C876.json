@@ -1,0 +1,108 @@
+{
+  "train_no": "C876",
+  "train_type": "C",
+  "depart_station": "厦门",
+  "arrive_station": "福州",
+  "depart_time": "07:15",
+  "arrive_time": "14:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "07:15",
+      "depart_time": "07:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "07:47",
+      "depart_time": "07:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "龙岩",
+      "arrive_time": "08:47",
+      "depart_time": "08:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "冠豸山南",
+      "arrive_time": "09:25",
+      "depart_time": "09:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "冠豸山",
+      "arrive_time": "09:44",
+      "depart_time": "09:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "杨源",
+      "arrive_time": "09:55",
+      "depart_time": "10:01",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "清流",
+      "arrive_time": "10:25",
+      "depart_time": "10:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "宁化",
+      "arrive_time": "10:38",
+      "depart_time": "10:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "水茜",
+      "arrive_time": "11:01",
+      "depart_time": "11:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "建宁县北",
+      "arrive_time": "11:30",
+      "depart_time": "11:45",
+      "stay_min": "15"
+    },
+    {
+      "seq": 11,
+      "station_name": "泰宁",
+      "arrive_time": "12:00",
+      "depart_time": "12:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "三明北",
+      "arrive_time": "12:43",
+      "depart_time": "12:47",
+      "stay_min": "4"
+    },
+    {
+      "seq": 13,
+      "station_name": "福州",
+      "arrive_time": "14:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 859.0,
+    "price_first": 406.0,
+    "price_second": 254.0,
+    "price_no_seat": 254.0
+  },
+  "fetched_at": "2026-05-01T02:36:22.338268"
+}

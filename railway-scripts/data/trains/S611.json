@@ -1,0 +1,56 @@
+{
+  "train_no": "S611",
+  "train_type": "S",
+  "depart_station": "通州西",
+  "arrive_station": "怀柔北",
+  "depart_time": "07:25",
+  "arrive_time": "08:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "通州西",
+      "arrive_time": "07:25",
+      "depart_time": "07:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "顺义",
+      "arrive_time": "07:50",
+      "depart_time": "07:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "牛栏山",
+      "arrive_time": "08:02",
+      "depart_time": "08:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀柔",
+      "arrive_time": "08:19",
+      "depart_time": "08:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "雁栖湖",
+      "arrive_time": "08:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "怀柔北",
+      "arrive_time": "08:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 7.0
+  },
+  "fetched_at": "2026-05-01T11:09:26.733559"
+}

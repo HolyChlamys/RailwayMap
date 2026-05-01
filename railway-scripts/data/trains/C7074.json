@@ -1,0 +1,58 @@
+{
+  "train_no": "C7074",
+  "train_type": "C",
+  "depart_station": "深圳",
+  "arrive_station": "广州",
+  "depart_time": "16:07",
+  "arrive_time": "17:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "16:07",
+      "depart_time": "16:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "平湖",
+      "arrive_time": "16:21",
+      "depart_time": "16:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常平",
+      "arrive_time": "16:39",
+      "depart_time": "16:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州新塘",
+      "arrive_time": "17:01",
+      "depart_time": "17:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州东",
+      "arrive_time": "17:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州",
+      "arrive_time": "17:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 99.5,
+    "price_second": 79.5,
+    "price_no_seat": 79.5
+  },
+  "fetched_at": "2026-05-01T02:05:03.127563"
+}

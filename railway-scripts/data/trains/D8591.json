@@ -1,0 +1,72 @@
+{
+  "train_no": "D8591",
+  "train_type": "D",
+  "depart_station": "从江",
+  "arrive_station": "六盘水",
+  "depart_time": "17:13",
+  "arrive_time": "20:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "从江",
+      "arrive_time": "17:13",
+      "depart_time": "17:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "榕江",
+      "arrive_time": "17:32",
+      "depart_time": "17:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "三都县",
+      "arrive_time": "17:58",
+      "depart_time": "18:04",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "都匀东",
+      "arrive_time": "18:15",
+      "depart_time": "18:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "19:03",
+      "depart_time": "19:07",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "安顺西",
+      "arrive_time": "19:40",
+      "depart_time": "19:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "六枝南",
+      "arrive_time": "20:05",
+      "depart_time": "20:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "六盘水",
+      "arrive_time": "20:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 383.0,
+    "price_second": 240.0,
+    "price_no_seat": 240.0
+  },
+  "fetched_at": "2026-05-01T05:00:23.761335"
+}

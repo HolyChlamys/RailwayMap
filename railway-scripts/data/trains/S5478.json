@@ -1,0 +1,29 @@
+{
+  "train_no": "S5478",
+  "train_type": "S",
+  "depart_station": "开阳",
+  "arrive_station": "贵阳北",
+  "depart_time": "20:22",
+  "arrive_time": "20:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "开阳",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳北",
+      "arrive_time": "20:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 20.0,
+    "price_no_seat": 20.0
+  },
+  "fetched_at": "2026-05-01T11:07:18.391433"
+}

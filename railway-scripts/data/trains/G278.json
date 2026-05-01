@@ -1,0 +1,45 @@
+{
+  "train_no": "G278",
+  "train_type": "G",
+  "depart_station": "青岛",
+  "arrive_station": "淄博",
+  "depart_time": "06:18",
+  "arrive_time": "07:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛",
+      "arrive_time": "06:18",
+      "depart_time": "06:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潍坊",
+      "arrive_time": "07:32",
+      "depart_time": "07:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "青州市",
+      "arrive_time": "07:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博",
+      "arrive_time": "07:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 4170.5,
+    "price_first": 1925.0,
+    "price_second": 1204.5,
+    "price_no_seat": 1204.5
+  },
+  "fetched_at": "2026-05-01T06:20:02.299361"
+}

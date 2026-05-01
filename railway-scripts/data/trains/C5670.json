@@ -1,0 +1,78 @@
+{
+  "train_no": "C5670",
+  "train_type": "C",
+  "depart_station": "贵阳北",
+  "arrive_station": "泸  州",
+  "depart_time": "20:23",
+  "arrive_time": "13:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "20:23",
+      "depart_time": "20:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "修文县",
+      "arrive_time": "20:37",
+      "depart_time": "20:43",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "遵义",
+      "arrive_time": "21:19",
+      "depart_time": "21:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "成都南",
+      "arrive_time": "11:32",
+      "depart_time": "11:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "彭山北",
+      "arrive_time": "11:59",
+      "depart_time": "12:06",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "乐山",
+      "arrive_time": "12:28",
+      "depart_time": "12:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "宜宾西",
+      "arrive_time": "13:10",
+      "depart_time": "13:14",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "宜宾",
+      "arrive_time": "13:22",
+      "depart_time": "13:26",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "泸  州",
+      "arrive_time": "13:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 50.0,
+    "price_no_seat": 50.0
+  },
+  "fetched_at": "2026-05-01T01:36:48.176673"
+}

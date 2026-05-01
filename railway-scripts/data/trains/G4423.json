@@ -1,0 +1,73 @@
+{
+  "train_no": "G4423",
+  "train_type": "G",
+  "depart_station": "大连北",
+  "arrive_station": "北京朝阳",
+  "depart_time": "20:04",
+  "arrive_time": "01:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "20:04",
+      "depart_time": "20:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "瓦房店西",
+      "arrive_time": "20:28",
+      "depart_time": "20:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "20:48",
+      "depart_time": "20:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "营口东",
+      "arrive_time": "21:07",
+      "depart_time": "21:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "鞍山西",
+      "arrive_time": "21:29",
+      "depart_time": "21:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "辽阳",
+      "arrive_time": "21:42",
+      "depart_time": "21:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "沈阳",
+      "arrive_time": "22:06",
+      "depart_time": "22:11",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "北京朝阳",
+      "arrive_time": "01:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2067.0,
+    "price_first": 945.0,
+    "price_second": 591.0,
+    "price_no_seat": 591.0
+  },
+  "fetched_at": "2026-05-01T07:05:08.390950"
+}

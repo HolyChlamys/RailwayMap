@@ -1,0 +1,45 @@
+{
+  "train_no": "D9413",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "彬州东",
+  "depart_time": "21:06",
+  "arrive_time": "21:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "21:06",
+      "depart_time": "21:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳北",
+      "arrive_time": "21:21",
+      "depart_time": "21:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "礼泉南",
+      "arrive_time": "21:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "彬州东",
+      "arrive_time": "21:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 211.0,
+    "price_first": 97.0,
+    "price_second": 61.0,
+    "price_no_seat": 61.0
+  },
+  "fetched_at": "2026-05-01T05:15:24.024810"
+}

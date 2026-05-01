@@ -1,0 +1,44 @@
+{
+  "train_no": "C7167",
+  "train_type": "C",
+  "depart_station": "郁南",
+  "arrive_station": "广州南",
+  "depart_time": "21:25",
+  "arrive_time": "22:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郁南",
+      "arrive_time": "21:25",
+      "depart_time": "21:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "云浮东",
+      "arrive_time": "21:51",
+      "depart_time": "21:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "肇庆东",
+      "arrive_time": "22:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "22:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 153.0,
+    "price_second": 95.0,
+    "price_no_seat": 95.0
+  },
+  "fetched_at": "2026-05-01T02:07:49.934497"
+}

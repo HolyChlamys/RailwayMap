@@ -1,0 +1,30 @@
+{
+  "train_no": "D9374",
+  "train_type": "D",
+  "depart_station": "乌鲁木齐南",
+  "arrive_station": "吐鲁番北",
+  "depart_time": "09:20",
+  "arrive_time": "09:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐南",
+      "arrive_time": "09:20",
+      "depart_time": "09:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吐鲁番北",
+      "arrive_time": "09:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 78.0,
+    "price_second": 49.0,
+    "price_no_seat": 49.0
+  },
+  "fetched_at": "2026-05-01T05:14:31.129522"
+}

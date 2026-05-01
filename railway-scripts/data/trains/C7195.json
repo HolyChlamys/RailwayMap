@@ -1,0 +1,73 @@
+{
+  "train_no": "C7195",
+  "train_type": "C",
+  "depart_station": "长沙南",
+  "arrive_station": "广州东",
+  "depart_time": "06:10",
+  "arrive_time": "09:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "06:10",
+      "depart_time": "06:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲西",
+      "arrive_time": "06:41",
+      "depart_time": "06:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳东",
+      "arrive_time": "07:19",
+      "depart_time": "07:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郴州西",
+      "arrive_time": "07:54",
+      "depart_time": "07:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乐昌东",
+      "arrive_time": "08:18",
+      "depart_time": "08:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州白云",
+      "arrive_time": "09:37",
+      "depart_time": "09:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州",
+      "arrive_time": "09:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "广州东",
+      "arrive_time": "09:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1348.0,
+    "price_first": 609.0,
+    "price_second": 385.0,
+    "price_no_seat": 385.0
+  },
+  "fetched_at": "2026-05-01T02:08:36.358370"
+}

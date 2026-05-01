@@ -1,0 +1,38 @@
+{
+  "train_no": "G6636",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "安阳东",
+  "depart_time": "16:03",
+  "arrive_time": "16:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "16:03",
+      "depart_time": "16:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹤壁东",
+      "arrive_time": "16:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "安阳东",
+      "arrive_time": "16:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 341.0,
+    "price_first": 156.0,
+    "price_second": 97.0,
+    "price_no_seat": 97.0
+  },
+  "fetched_at": "2026-05-01T08:04:33.721995"
+}

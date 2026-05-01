@@ -1,0 +1,72 @@
+{
+  "train_no": "D549",
+  "train_type": "D",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "通化",
+  "depart_time": "06:20",
+  "arrive_time": "11:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "06:20",
+      "depart_time": "06:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长春",
+      "arrive_time": "07:28",
+      "depart_time": "07:33",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "吉林",
+      "arrive_time": "08:13",
+      "depart_time": "08:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "敦化",
+      "arrive_time": "09:10",
+      "depart_time": "09:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "长白山",
+      "arrive_time": "09:51",
+      "depart_time": "10:02",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "长白山西",
+      "arrive_time": "10:23",
+      "depart_time": "10:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "白山东",
+      "arrive_time": "10:53",
+      "depart_time": "10:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "通化",
+      "arrive_time": "11:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 586.0,
+    "price_second": 366.0,
+    "price_no_seat": 366.0
+  },
+  "fetched_at": "2026-05-01T04:07:58.380793"
+}

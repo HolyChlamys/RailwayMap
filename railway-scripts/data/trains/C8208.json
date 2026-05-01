@@ -1,0 +1,51 @@
+{
+  "train_no": "C8208",
+  "train_type": "C",
+  "depart_station": "中卫南",
+  "arrive_station": "银川",
+  "depart_time": "06:58",
+  "arrive_time": "08:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "中卫南",
+      "arrive_time": "06:58",
+      "depart_time": "06:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "中宁东",
+      "arrive_time": "07:17",
+      "depart_time": "07:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吴忠",
+      "arrive_time": "07:46",
+      "depart_time": "07:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "河东机场",
+      "arrive_time": "08:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "银川",
+      "arrive_time": "08:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 125.0,
+    "price_second": 78.0,
+    "price_no_seat": 78.0
+  },
+  "fetched_at": "2026-05-01T02:32:46.727647"
+}

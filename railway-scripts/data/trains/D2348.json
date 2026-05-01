@@ -1,0 +1,100 @@
+{
+  "train_no": "D2348",
+  "train_type": "D",
+  "depart_station": "东莞南",
+  "arrive_station": "福州南",
+  "depart_time": "17:42",
+  "arrive_time": "22:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东莞南",
+      "arrive_time": "17:42",
+      "depart_time": "17:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "18:03",
+      "depart_time": "18:09",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "鲘门",
+      "arrive_time": "18:48",
+      "depart_time": "18:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "潮阳",
+      "arrive_time": "19:34",
+      "depart_time": "19:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "潮汕",
+      "arrive_time": "19:50",
+      "depart_time": "19:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "饶平",
+      "arrive_time": "20:10",
+      "depart_time": "20:14",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "云霄",
+      "arrive_time": "20:33",
+      "depart_time": "20:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "漳州",
+      "arrive_time": "21:00",
+      "depart_time": "21:04",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "厦门北",
+      "arrive_time": "21:25",
+      "depart_time": "21:30",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "泉州",
+      "arrive_time": "21:56",
+      "depart_time": "21:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "莆田",
+      "arrive_time": "22:25",
+      "depart_time": "22:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "福州南",
+      "arrive_time": "22:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 553.0,
+    "price_second": 346.0,
+    "price_no_seat": 346.0
+  },
+  "fetched_at": "2026-05-01T03:15:31.423246"
+}

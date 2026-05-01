@@ -1,0 +1,86 @@
+{
+  "train_no": "C503",
+  "train_type": "C",
+  "depart_station": "长春",
+  "arrive_station": "乌兰浩特",
+  "depart_time": "07:04",
+  "arrive_time": "10:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "07:04",
+      "depart_time": "07:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "农安",
+      "arrive_time": "07:45",
+      "depart_time": "07:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "松原",
+      "arrive_time": "08:26",
+      "depart_time": "08:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长山屯",
+      "arrive_time": "08:57",
+      "depart_time": "08:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "大安",
+      "arrive_time": "09:13",
+      "depart_time": "09:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "安广",
+      "arrive_time": "09:36",
+      "depart_time": "09:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "到保",
+      "arrive_time": "10:03",
+      "depart_time": "10:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "白城",
+      "arrive_time": "10:29",
+      "depart_time": "10:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "平台",
+      "arrive_time": "10:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "乌兰浩特",
+      "arrive_time": "10:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 249.0,
+    "price_second": 156.0,
+    "price_no_seat": 156.0
+  },
+  "fetched_at": "2026-05-01T01:24:40.228299"
+}

@@ -1,0 +1,58 @@
+{
+  "train_no": "C6795",
+  "train_type": "C",
+  "depart_station": "梅州西",
+  "arrive_station": "深圳北",
+  "depart_time": "23:48",
+  "arrive_time": "01:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梅州西",
+      "arrive_time": "23:48",
+      "depart_time": "23:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴宁南",
+      "arrive_time": "00:02",
+      "depart_time": "00:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "五华",
+      "arrive_time": "00:13",
+      "depart_time": "00:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "河源东",
+      "arrive_time": "00:46",
+      "depart_time": "00:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "惠州北",
+      "arrive_time": "01:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "01:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 166.0,
+    "price_second": 103.0,
+    "price_no_seat": 103.0
+  },
+  "fetched_at": "2026-05-01T01:56:49.083898"
+}

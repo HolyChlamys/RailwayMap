@@ -1,0 +1,65 @@
+{
+  "train_no": "D3631",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "广州南",
+  "depart_time": "07:30",
+  "arrive_time": "09:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宾阳",
+      "arrive_time": "08:01",
+      "depart_time": "08:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桂平",
+      "arrive_time": "08:37",
+      "depart_time": "08:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "藤县",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "梧州南",
+      "arrive_time": "09:22",
+      "depart_time": "09:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "云浮东",
+      "arrive_time": "09:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州南",
+      "arrive_time": "09:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 400.0,
+    "price_second": 250.0,
+    "price_no_seat": 250.0
+  },
+  "fetched_at": "2026-05-01T03:36:02.016264"
+}

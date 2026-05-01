@@ -1,0 +1,40 @@
+{
+  "train_no": "Y793",
+  "train_type": "Y",
+  "depart_station": "昆明",
+  "arrive_station": "保山",
+  "depart_time": "21:46",
+  "arrive_time": "08:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "21:46",
+      "depart_time": "21:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大理",
+      "arrive_time": "00:43",
+      "depart_time": "01:39",
+      "stay_min": "56"
+    },
+    {
+      "seq": 3,
+      "station_name": "建水",
+      "arrive_time": "13:13",
+      "depart_time": "13:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "保山",
+      "arrive_time": "08:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:38:57.605026"
+}

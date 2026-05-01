@@ -1,0 +1,101 @@
+{
+  "train_no": "G541",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "广州南",
+  "depart_time": "07:51",
+  "arrive_time": "13:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "07:51",
+      "depart_time": "07:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "许昌东",
+      "arrive_time": "08:15",
+      "depart_time": "08:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "驻马店西",
+      "arrive_time": "08:46",
+      "depart_time": "08:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "信阳东",
+      "arrive_time": "09:13",
+      "depart_time": "09:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "孝感北",
+      "arrive_time": "09:37",
+      "depart_time": "09:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "武汉",
+      "arrive_time": "10:14",
+      "depart_time": "10:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "汨罗东",
+      "arrive_time": "11:20",
+      "depart_time": "11:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "长沙南",
+      "arrive_time": "11:43",
+      "depart_time": "11:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "衡山西",
+      "arrive_time": "12:14",
+      "depart_time": "12:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "郴州西",
+      "arrive_time": "12:58",
+      "depart_time": "12:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "韶关",
+      "arrive_time": "13:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "广州南",
+      "arrive_time": "13:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2740.0,
+    "price_first": 1253.0,
+    "price_second": 783.0,
+    "price_no_seat": 783.0
+  },
+  "fetched_at": "2026-05-01T07:33:15.491817"
+}

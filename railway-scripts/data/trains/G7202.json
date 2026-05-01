@@ -1,0 +1,52 @@
+{
+  "train_no": "G7202",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "常州",
+  "depart_time": "21:00",
+  "arrive_time": "21:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "21:00",
+      "depart_time": "21:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "21:21",
+      "depart_time": "21:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "21:34",
+      "depart_time": "21:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "21:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "21:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 318.0,
+    "price_first": 145.0,
+    "price_second": 91.0,
+    "price_no_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T08:20:22.451825"
+}

@@ -1,0 +1,79 @@
+{
+  "train_no": "C6815",
+  "train_type": "C",
+  "depart_station": "汕头",
+  "arrive_station": "广州东",
+  "depart_time": "07:19",
+  "arrive_time": "10:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "07:19",
+      "depart_time": "07:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "07:42",
+      "depart_time": "07:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "陆丰",
+      "arrive_time": "08:17",
+      "depart_time": "08:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "惠阳",
+      "arrive_time": "08:57",
+      "depart_time": "08:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "09:24",
+      "depart_time": "09:30",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "东莞南",
+      "arrive_time": "09:48",
+      "depart_time": "09:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "东莞",
+      "arrive_time": "10:10",
+      "depart_time": "10:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州新塘",
+      "arrive_time": "10:26",
+      "depart_time": "10:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "广州东",
+      "arrive_time": "10:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 322.0,
+    "price_second": 216.0,
+    "price_no_seat": 216.0
+  },
+  "fetched_at": "2026-05-01T01:57:23.948628"
+}

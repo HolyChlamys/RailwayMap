@@ -1,0 +1,59 @@
+{
+  "train_no": "G4400",
+  "train_type": "G",
+  "depart_station": "运城北",
+  "arrive_station": "北京北",
+  "depart_time": "20:26",
+  "arrive_time": "00:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "运城北",
+      "arrive_time": "20:26",
+      "depart_time": "20:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "临汾西",
+      "arrive_time": "21:04",
+      "depart_time": "21:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "太原南",
+      "arrive_time": "22:22",
+      "depart_time": "22:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大同南",
+      "arrive_time": "23:58",
+      "depart_time": "23:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "张家口",
+      "arrive_time": "00:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "北京北",
+      "arrive_time": "00:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1408.0,
+    "price_first": 695.0,
+    "price_second": 434.0,
+    "price_no_seat": 434.0
+  },
+  "fetched_at": "2026-05-01T07:04:27.249330"
+}

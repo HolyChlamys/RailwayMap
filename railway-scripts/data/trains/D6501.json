@@ -1,0 +1,100 @@
+{
+  "train_no": "D6501",
+  "train_type": "D",
+  "depart_station": "南昌西",
+  "arrive_station": "福州南",
+  "depart_time": "07:45",
+  "arrive_time": "11:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "07:45",
+      "depart_time": "07:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚州",
+      "arrive_time": "08:24",
+      "depart_time": "08:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南城",
+      "arrive_time": "08:45",
+      "depart_time": "08:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南丰",
+      "arrive_time": "09:03",
+      "depart_time": "09:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "建宁县北",
+      "arrive_time": "09:25",
+      "depart_time": "09:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "泰宁",
+      "arrive_time": "09:40",
+      "depart_time": "09:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "将乐",
+      "arrive_time": "10:00",
+      "depart_time": "10:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "三明北",
+      "arrive_time": "10:28",
+      "depart_time": "10:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "尤溪",
+      "arrive_time": "10:48",
+      "depart_time": "10:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "永泰",
+      "arrive_time": "11:23",
+      "depart_time": "11:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "福州",
+      "arrive_time": "11:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "福州南",
+      "arrive_time": "11:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 324.0,
+    "price_second": 203.0,
+    "price_no_seat": 203.0
+  },
+  "fetched_at": "2026-05-01T04:23:36.337029"
+}

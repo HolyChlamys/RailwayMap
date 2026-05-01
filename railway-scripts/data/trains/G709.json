@@ -1,0 +1,87 @@
+{
+  "train_no": "G709",
+  "train_type": "G",
+  "depart_station": "大连北",
+  "arrive_station": "哈尔滨西",
+  "depart_time": "09:25",
+  "arrive_time": "13:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "09:25",
+      "depart_time": "09:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "瓦房店西",
+      "arrive_time": "09:51",
+      "depart_time": "09:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "营口东",
+      "arrive_time": "10:23",
+      "depart_time": "10:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳北",
+      "arrive_time": "11:13",
+      "depart_time": "11:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "昌图西",
+      "arrive_time": "11:47",
+      "depart_time": "11:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "四平东",
+      "arrive_time": "12:09",
+      "depart_time": "12:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长春西",
+      "arrive_time": "12:40",
+      "depart_time": "12:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "德惠西",
+      "arrive_time": "13:04",
+      "depart_time": "13:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "双城北",
+      "arrive_time": "13:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "哈尔滨西",
+      "arrive_time": "13:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1692.0,
+    "price_first": 773.0,
+    "price_second": 483.0,
+    "price_no_seat": 483.0
+  },
+  "fetched_at": "2026-05-01T08:17:18.106199"
+}

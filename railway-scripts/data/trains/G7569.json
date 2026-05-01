@@ -1,0 +1,73 @@
+{
+  "train_no": "G7569",
+  "train_type": "G",
+  "depart_station": "蚌埠南",
+  "arrive_station": "上海虹桥",
+  "depart_time": "07:56",
+  "arrive_time": "10:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "蚌埠南",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "滁州",
+      "arrive_time": "08:26",
+      "depart_time": "08:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "08:48",
+      "depart_time": "08:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "镇江南",
+      "arrive_time": "09:13",
+      "depart_time": "09:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "常州北",
+      "arrive_time": "09:46",
+      "depart_time": "09:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "无锡东",
+      "arrive_time": "10:05",
+      "depart_time": "10:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "昆山南",
+      "arrive_time": "10:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "上海虹桥",
+      "arrive_time": "10:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 905.0,
+    "price_first": 414.0,
+    "price_second": 259.0,
+    "price_no_seat": 259.0
+  },
+  "fetched_at": "2026-05-01T08:30:57.969754"
+}

@@ -1,0 +1,101 @@
+{
+  "train_no": "G3069",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "广州东",
+  "depart_time": "07:12",
+  "arrive_time": "13:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "07:12",
+      "depart_time": "07:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桐城东",
+      "arrive_time": "07:46",
+      "depart_time": "07:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "太湖南",
+      "arrive_time": "08:16",
+      "depart_time": "08:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宿松东",
+      "arrive_time": "08:31",
+      "depart_time": "08:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "庐山",
+      "arrive_time": "08:55",
+      "depart_time": "08:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南昌西",
+      "arrive_time": "09:42",
+      "depart_time": "09:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "峡江",
+      "arrive_time": "10:26",
+      "depart_time": "10:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "吉安西",
+      "arrive_time": "10:46",
+      "depart_time": "10:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "赣州西",
+      "arrive_time": "11:38",
+      "depart_time": "11:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "惠州北",
+      "arrive_time": "13:01",
+      "depart_time": "13:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "广州新塘",
+      "arrive_time": "13:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "广州东",
+      "arrive_time": "13:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2410.0,
+    "price_first": 1159.0,
+    "price_second": 724.0,
+    "price_no_seat": 724.0
+  },
+  "fetched_at": "2026-05-01T06:27:54.238169"
+}

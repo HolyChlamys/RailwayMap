@@ -1,0 +1,43 @@
+{
+  "train_no": "C205",
+  "train_type": "C",
+  "depart_station": "岳阳",
+  "arrive_station": "深圳",
+  "depart_time": "21:00",
+  "arrive_time": "23:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "岳阳",
+      "arrive_time": "21:00",
+      "depart_time": "21:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙",
+      "arrive_time": "22:32",
+      "depart_time": "22:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "株洲",
+      "arrive_time": "23:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳",
+      "arrive_time": "23:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 309.0,
+    "price_no_seat": 309.0
+  },
+  "fetched_at": "2026-05-01T00:29:10.473225"
+}

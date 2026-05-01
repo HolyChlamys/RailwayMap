@@ -1,0 +1,80 @@
+{
+  "train_no": "G2824",
+  "train_type": "G",
+  "depart_station": "昆明南",
+  "arrive_station": "重庆西",
+  "depart_time": "09:07",
+  "arrive_time": "14:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲靖北",
+      "arrive_time": "09:52",
+      "depart_time": "09:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "关岭",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺西",
+      "arrive_time": "11:29",
+      "depart_time": "11:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "12:14",
+      "depart_time": "12:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宜宾",
+      "arrive_time": "14:05",
+      "depart_time": "14:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南溪",
+      "arrive_time": "14:23",
+      "depart_time": "14:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "泸州",
+      "arrive_time": "14:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "重庆西",
+      "arrive_time": "14:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1707.5,
+    "price_first": 874.0,
+    "price_second": 535.5,
+    "price_no_seat": 535.5
+  },
+  "fetched_at": "2026-05-01T06:21:17.538381"
+}

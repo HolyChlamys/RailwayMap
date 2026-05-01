@@ -1,0 +1,206 @@
+{
+  "train_no": "G3184",
+  "train_type": "G",
+  "depart_station": "南昌东",
+  "arrive_station": "兰州西",
+  "depart_time": "09:27",
+  "arrive_time": "21:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "09:27",
+      "depart_time": "09:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "余干",
+      "arrive_time": "09:46",
+      "depart_time": "09:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "鄱阳",
+      "arrive_time": "09:59",
+      "depart_time": "10:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "乐平北",
+      "arrive_time": "10:12",
+      "depart_time": "10:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "景德镇北",
+      "arrive_time": "10:30",
+      "depart_time": "10:34",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "黟县东",
+      "arrive_time": "11:06",
+      "depart_time": "11:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "黄山北",
+      "arrive_time": "11:22",
+      "depart_time": "11:28",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "旌德",
+      "arrive_time": "11:48",
+      "depart_time": "11:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "泾县",
+      "arrive_time": "12:04",
+      "depart_time": "12:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "南陵",
+      "arrive_time": "12:16",
+      "depart_time": "12:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "无为",
+      "arrive_time": "12:37",
+      "depart_time": "12:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "巢湖东",
+      "arrive_time": "12:52",
+      "depart_time": "12:58",
+      "stay_min": "6"
+    },
+    {
+      "seq": 13,
+      "station_name": "合肥南",
+      "arrive_time": "13:21",
+      "depart_time": "13:25",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "淮南南",
+      "arrive_time": "14:04",
+      "depart_time": "14:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "寿县",
+      "arrive_time": "14:15",
+      "depart_time": "14:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "阜阳西",
+      "arrive_time": "14:46",
+      "depart_time": "14:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "商丘",
+      "arrive_time": "15:32",
+      "depart_time": "15:37",
+      "stay_min": "5"
+    },
+    {
+      "seq": 18,
+      "station_name": "民权北",
+      "arrive_time": "15:53",
+      "depart_time": "15:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "郑州东",
+      "arrive_time": "16:35",
+      "depart_time": "16:40",
+      "stay_min": "5"
+    },
+    {
+      "seq": 20,
+      "station_name": "洛阳龙门",
+      "arrive_time": "17:16",
+      "depart_time": "17:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 21,
+      "station_name": "华山北",
+      "arrive_time": "18:15",
+      "depart_time": "18:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 22,
+      "station_name": "西安北",
+      "arrive_time": "18:45",
+      "depart_time": "18:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 23,
+      "station_name": "咸阳西",
+      "arrive_time": "19:04",
+      "depart_time": "19:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 24,
+      "station_name": "宝鸡南",
+      "arrive_time": "19:46",
+      "depart_time": "19:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 25,
+      "station_name": "天水南",
+      "arrive_time": "20:32",
+      "depart_time": "20:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 26,
+      "station_name": "定西北",
+      "arrive_time": "21:24",
+      "depart_time": "21:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 27,
+      "station_name": "兰州西",
+      "arrive_time": "21:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3904.5,
+    "price_first": 1871.0,
+    "price_second": 1161.0,
+    "price_no_seat": 1161.0
+  },
+  "fetched_at": "2026-05-01T06:31:02.942527"
+}

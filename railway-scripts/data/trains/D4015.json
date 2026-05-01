@@ -1,0 +1,44 @@
+{
+  "train_no": "D4015",
+  "train_type": "D",
+  "depart_station": "温州南",
+  "arrive_station": "福州南",
+  "depart_time": "21:05",
+  "arrive_time": "22:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "温州南",
+      "arrive_time": "21:05",
+      "depart_time": "21:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "瑞安",
+      "arrive_time": "21:18",
+      "depart_time": "21:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁德",
+      "arrive_time": "22:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福州南",
+      "arrive_time": "22:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 209.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T03:42:37.316769"
+}

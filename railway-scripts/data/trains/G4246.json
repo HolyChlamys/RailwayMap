@@ -1,0 +1,38 @@
+{
+  "train_no": "G4246",
+  "train_type": "G",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "沈阳北",
+  "depart_time": "20:41",
+  "arrive_time": "21:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "20:41",
+      "depart_time": "20:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长春西",
+      "arrive_time": "21:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沈阳北",
+      "arrive_time": "21:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1028.0,
+    "price_first": 470.0,
+    "price_second": 294.0,
+    "price_no_seat": 294.0
+  },
+  "fetched_at": "2026-05-01T07:00:03.133404"
+}

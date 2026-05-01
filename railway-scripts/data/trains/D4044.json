@@ -1,0 +1,73 @@
+{
+  "train_no": "D4044",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "银川",
+  "depart_time": "10:58",
+  "arrive_time": "14:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "10:58",
+      "depart_time": "10:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳北",
+      "arrive_time": "11:11",
+      "depart_time": "11:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "乾县",
+      "arrive_time": "11:27",
+      "depart_time": "11:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宁县",
+      "arrive_time": "12:09",
+      "depart_time": "12:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "庆阳",
+      "arrive_time": "12:29",
+      "depart_time": "12:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "庆城",
+      "arrive_time": "12:47",
+      "depart_time": "12:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "环县",
+      "arrive_time": "13:10",
+      "depart_time": "13:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "银川",
+      "arrive_time": "14:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 957.0,
+    "price_first": 445.0,
+    "price_second": 278.0,
+    "price_no_seat": 278.0
+  },
+  "fetched_at": "2026-05-01T03:43:15.192163"
+}

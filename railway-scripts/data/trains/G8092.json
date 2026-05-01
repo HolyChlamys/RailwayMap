@@ -1,0 +1,38 @@
+{
+  "train_no": "G8092",
+  "train_type": "G",
+  "depart_station": "扶余北",
+  "arrive_station": "长春",
+  "depart_time": "06:17",
+  "arrive_time": "06:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "扶余北",
+      "arrive_time": "06:17",
+      "depart_time": "06:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德惠西",
+      "arrive_time": "06:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长春",
+      "arrive_time": "06:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 273.0,
+    "price_first": 125.0,
+    "price_second": 78.0,
+    "price_no_seat": 78.0
+  },
+  "fetched_at": "2026-05-01T08:44:10.434335"
+}

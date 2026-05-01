@@ -1,0 +1,49 @@
+{
+  "train_no": "K4304",
+  "train_type": "K",
+  "depart_station": "南昌",
+  "arrive_station": "广州白云",
+  "depart_time": "15:02",
+  "arrive_time": "03:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "15:02",
+      "depart_time": "15:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉安",
+      "arrive_time": "17:37",
+      "depart_time": "17:43",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "泰和",
+      "arrive_time": "18:05",
+      "depart_time": "18:10",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州",
+      "arrive_time": "20:10",
+      "depart_time": "20:15",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州白云",
+      "arrive_time": "03:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 145.0
+  },
+  "fetched_at": "2026-05-01T09:51:56.534011"
+}

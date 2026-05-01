@@ -1,0 +1,70 @@
+{
+  "train_no": "K7835",
+  "train_type": "K",
+  "depart_station": "太原",
+  "arrive_station": "安泽",
+  "depart_time": "06:30",
+  "arrive_time": "13:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原",
+      "arrive_time": "06:30",
+      "depart_time": "06:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "临县",
+      "arrive_time": "09:17",
+      "depart_time": "09:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石楼县",
+      "arrive_time": "10:50",
+      "depart_time": "10:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "隰县",
+      "arrive_time": "11:21",
+      "depart_time": "11:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "蒲县",
+      "arrive_time": "11:55",
+      "depart_time": "11:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "洪洞北",
+      "arrive_time": "12:48",
+      "depart_time": "12:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "浮山",
+      "arrive_time": "13:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "安泽",
+      "arrive_time": "13:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 78.0
+  },
+  "fetched_at": "2026-05-01T10:32:18.357134"
+}

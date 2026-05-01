@@ -1,0 +1,80 @@
+{
+  "train_no": "G7282",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "宣城",
+  "depart_time": "11:33",
+  "arrive_time": "14:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "11:33",
+      "depart_time": "11:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州园区",
+      "arrive_time": "11:57",
+      "depart_time": "11:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡新区",
+      "arrive_time": "12:13",
+      "depart_time": "12:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "12:23",
+      "depart_time": "12:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "丹阳",
+      "arrive_time": "12:51",
+      "depart_time": "12:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "13:28",
+      "depart_time": "13:31",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "马鞍山东",
+      "arrive_time": "13:47",
+      "depart_time": "13:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "芜湖",
+      "arrive_time": "14:06",
+      "depart_time": "14:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "宣城",
+      "arrive_time": "14:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 846.0,
+    "price_first": 394.0,
+    "price_second": 246.0,
+    "price_no_seat": 246.0
+  },
+  "fetched_at": "2026-05-01T08:22:56.707655"
+}

@@ -1,0 +1,63 @@
+{
+  "train_no": "K587",
+  "train_type": "K",
+  "depart_station": "太原",
+  "arrive_station": "左权",
+  "depart_time": "18:41",
+  "arrive_time": "23:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原",
+      "arrive_time": "18:41",
+      "depart_time": "18:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阳泉北",
+      "arrive_time": "19:40",
+      "depart_time": "19:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "阳泉东",
+      "arrive_time": "20:12",
+      "depart_time": "20:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "平定",
+      "arrive_time": "20:36",
+      "depart_time": "20:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "昔阳",
+      "arrive_time": "21:14",
+      "depart_time": "21:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "和顺县",
+      "arrive_time": "22:20",
+      "depart_time": "22:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "左权",
+      "arrive_time": "23:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T10:15:41.346752"
+}

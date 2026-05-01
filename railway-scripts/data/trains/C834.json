@@ -1,0 +1,79 @@
+{
+  "train_no": "C834",
+  "train_type": "C",
+  "depart_station": "秀山",
+  "arrive_station": "南充北",
+  "depart_time": "07:01",
+  "arrive_time": "13:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "秀山",
+      "arrive_time": "07:01",
+      "depart_time": "07:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "酉阳",
+      "arrive_time": "07:28",
+      "depart_time": "07:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "黔江",
+      "arrive_time": "08:17",
+      "depart_time": "08:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "武隆",
+      "arrive_time": "09:26",
+      "depart_time": "09:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "涪陵",
+      "arrive_time": "10:10",
+      "depart_time": "10:14",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆北",
+      "arrive_time": "11:17",
+      "depart_time": "11:29",
+      "stay_min": "12"
+    },
+    {
+      "seq": 7,
+      "station_name": "合川",
+      "arrive_time": "12:03",
+      "depart_time": "12:09",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "武胜",
+      "arrive_time": "12:40",
+      "depart_time": "12:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "南充北",
+      "arrive_time": "13:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 293.0,
+    "price_second": 183.0,
+    "price_no_seat": 183.0
+  },
+  "fetched_at": "2026-05-01T02:33:24.598931"
+}

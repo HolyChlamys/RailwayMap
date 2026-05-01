@@ -1,0 +1,38 @@
+{
+  "train_no": "G9483",
+  "train_type": "G",
+  "depart_station": "蚌埠南",
+  "arrive_station": "合肥南",
+  "depart_time": "21:47",
+  "arrive_time": "22:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "蚌埠南",
+      "arrive_time": "21:47",
+      "depart_time": "21:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮南东",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 220.5,
+    "price_first": 117.5,
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T09:15:26.679784"
+}

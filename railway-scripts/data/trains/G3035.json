@@ -1,0 +1,115 @@
+{
+  "train_no": "G3035",
+  "train_type": "G",
+  "depart_station": "汕头",
+  "arrive_station": "杭州西",
+  "depart_time": "06:38",
+  "arrive_time": "14:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "06:38",
+      "depart_time": "06:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "07:02",
+      "depart_time": "07:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "揭阳",
+      "arrive_time": "07:21",
+      "depart_time": "07:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "梅州西",
+      "arrive_time": "07:51",
+      "depart_time": "07:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "兴宁南",
+      "arrive_time": "08:07",
+      "depart_time": "08:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "和平北",
+      "arrive_time": "08:42",
+      "depart_time": "08:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "赣州西",
+      "arrive_time": "09:25",
+      "depart_time": "09:29",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "吉安西",
+      "arrive_time": "10:15",
+      "depart_time": "10:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "樟树东",
+      "arrive_time": "10:45",
+      "depart_time": "10:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "南昌东",
+      "arrive_time": "11:15",
+      "depart_time": "11:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "鄱阳",
+      "arrive_time": "11:43",
+      "depart_time": "11:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "黄山北",
+      "arrive_time": "12:42",
+      "depart_time": "12:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 13,
+      "station_name": "千岛湖",
+      "arrive_time": "13:21",
+      "depart_time": "13:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "杭州西",
+      "arrive_time": "14:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2605.0,
+    "price_first": 1276.0,
+    "price_second": 798.0,
+    "price_no_seat": 798.0
+  },
+  "fetched_at": "2026-05-01T06:26:51.878640"
+}

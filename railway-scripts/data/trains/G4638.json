@@ -1,0 +1,73 @@
+{
+  "train_no": "G4638",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "上海虹桥",
+  "depart_time": "03:00",
+  "arrive_time": "08:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "03:00",
+      "depart_time": "03:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌西",
+      "arrive_time": "04:31",
+      "depart_time": "04:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "06:55",
+      "depart_time": "06:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "海宁西",
+      "arrive_time": "07:11",
+      "depart_time": "07:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "桐乡",
+      "arrive_time": "07:27",
+      "depart_time": "07:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "嘉兴南",
+      "arrive_time": "07:42",
+      "depart_time": "07:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "金山北",
+      "arrive_time": "08:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "上海虹桥",
+      "arrive_time": "08:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1911.0,
+    "price_first": 874.0,
+    "price_second": 546.0,
+    "price_no_seat": 546.0
+  },
+  "fetched_at": "2026-05-01T07:11:11.662183"
+}

@@ -1,0 +1,58 @@
+{
+  "train_no": "D5601",
+  "train_type": "D",
+  "depart_station": "南京南",
+  "arrive_station": "安庆",
+  "depart_time": "09:18",
+  "arrive_time": "10:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "09:18",
+      "depart_time": "09:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马鞍山东",
+      "arrive_time": "09:36",
+      "depart_time": "09:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "芜湖",
+      "arrive_time": "09:55",
+      "depart_time": "09:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "铜陵",
+      "arrive_time": "10:25",
+      "depart_time": "10:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "池州",
+      "arrive_time": "10:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "安庆",
+      "arrive_time": "10:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 182.0,
+    "price_second": 114.0,
+    "price_no_seat": 114.0
+  },
+  "fetched_at": "2026-05-01T04:09:06.266971"
+}

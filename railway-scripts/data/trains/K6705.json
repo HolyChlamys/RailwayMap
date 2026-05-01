@@ -1,0 +1,42 @@
+{
+  "train_no": "K6705",
+  "train_type": "K",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "奎屯",
+  "depart_time": "16:13",
+  "arrive_time": "18:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "16:13",
+      "depart_time": "16:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石河子",
+      "arrive_time": "17:46",
+      "depart_time": "17:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沙湾市",
+      "arrive_time": "18:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "奎屯",
+      "arrive_time": "18:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T10:25:01.759865"
+}

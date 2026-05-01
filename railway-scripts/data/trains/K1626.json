@@ -1,0 +1,105 @@
+{
+  "train_no": "K1626",
+  "train_type": "K",
+  "depart_station": "连云港东",
+  "arrive_station": "武昌",
+  "depart_time": "17:00",
+  "arrive_time": "05:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "连云港东",
+      "arrive_time": "17:00",
+      "depart_time": "17:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "连云港",
+      "arrive_time": "17:28",
+      "depart_time": "17:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "东海县",
+      "arrive_time": "17:57",
+      "depart_time": "18:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "新沂",
+      "arrive_time": "18:31",
+      "depart_time": "18:35",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "邳州东",
+      "arrive_time": "18:56",
+      "depart_time": "19:00",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "徐州",
+      "arrive_time": "20:03",
+      "depart_time": "20:14",
+      "stay_min": "11"
+    },
+    {
+      "seq": 7,
+      "station_name": "阜阳",
+      "arrive_time": "22:41",
+      "depart_time": "23:13",
+      "stay_min": "32"
+    },
+    {
+      "seq": 8,
+      "station_name": "淮滨",
+      "arrive_time": "00:25",
+      "depart_time": "00:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "潢川",
+      "arrive_time": "01:06",
+      "depart_time": "01:11",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "光山",
+      "arrive_time": "01:26",
+      "depart_time": "01:39",
+      "stay_min": "13"
+    },
+    {
+      "seq": 11,
+      "station_name": "新县",
+      "arrive_time": "02:06",
+      "depart_time": "02:10",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "麻城",
+      "arrive_time": "02:51",
+      "depart_time": "02:57",
+      "stay_min": "6"
+    },
+    {
+      "seq": 13,
+      "station_name": "武昌",
+      "arrive_time": "05:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T09:38:00.133730"
+}

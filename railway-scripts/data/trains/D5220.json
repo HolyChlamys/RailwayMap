@@ -1,0 +1,30 @@
+{
+  "train_no": "D5220",
+  "train_type": "D",
+  "depart_station": "仙桃",
+  "arrive_station": "汉口",
+  "depart_time": "11:11",
+  "arrive_time": "11:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "仙桃",
+      "arrive_time": "11:11",
+      "depart_time": "11:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "11:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 65.0,
+    "price_second": 42.0,
+    "price_no_seat": 42.0
+  },
+  "fetched_at": "2026-05-01T04:02:31.393583"
+}

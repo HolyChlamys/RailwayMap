@@ -1,0 +1,79 @@
+{
+  "train_no": "D2202",
+  "train_type": "D",
+  "depart_station": "南昌东",
+  "arrive_station": "杭州西",
+  "depart_time": "15:59",
+  "arrive_time": "18:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "15:59",
+      "depart_time": "15:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "余干",
+      "arrive_time": "16:22",
+      "depart_time": "16:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄱阳",
+      "arrive_time": "16:35",
+      "depart_time": "16:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "景德镇北",
+      "arrive_time": "17:06",
+      "depart_time": "17:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "祁门南",
+      "arrive_time": "17:38",
+      "depart_time": "17:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黟县东",
+      "arrive_time": "17:53",
+      "depart_time": "17:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "黄山北",
+      "arrive_time": "18:15",
+      "depart_time": "18:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "千岛湖",
+      "arrive_time": "18:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "杭州西",
+      "arrive_time": "18:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 424.0,
+    "price_second": 265.0,
+    "price_no_seat": 265.0
+  },
+  "fetched_at": "2026-05-01T03:12:08.042388"
+}

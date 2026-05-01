@@ -1,0 +1,84 @@
+{
+  "train_no": "Z6208",
+  "train_type": "Z",
+  "depart_station": "张掖",
+  "arrive_station": "兰州",
+  "depart_time": "16:55",
+  "arrive_time": "22:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张掖",
+      "arrive_time": "16:55",
+      "depart_time": "16:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "山丹",
+      "arrive_time": "17:27",
+      "depart_time": "17:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金昌",
+      "arrive_time": "18:44",
+      "depart_time": "18:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武威",
+      "arrive_time": "19:33",
+      "depart_time": "19:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武威南",
+      "arrive_time": "19:49",
+      "depart_time": "19:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "古浪",
+      "arrive_time": "20:20",
+      "depart_time": "20:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "天祝",
+      "arrive_time": "21:09",
+      "depart_time": "21:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "永登",
+      "arrive_time": "21:37",
+      "depart_time": "21:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "兰州西",
+      "arrive_time": "22:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "兰州",
+      "arrive_time": "22:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 75.0
+  },
+  "fetched_at": "2026-05-01T11:50:57.785251"
+}

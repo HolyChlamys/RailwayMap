@@ -1,0 +1,73 @@
+{
+  "train_no": "C3621",
+  "train_type": "C",
+  "depart_station": "淮南南",
+  "arrive_station": "上海虹桥",
+  "depart_time": "15:53",
+  "arrive_time": "19:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "淮南南",
+      "arrive_time": "15:53",
+      "depart_time": "15:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "16:31",
+      "depart_time": "16:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "巢湖东",
+      "arrive_time": "16:58",
+      "depart_time": "17:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖",
+      "arrive_time": "17:21",
+      "depart_time": "17:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "宣城",
+      "arrive_time": "17:49",
+      "depart_time": "17:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "湖州东",
+      "arrive_time": "18:36",
+      "depart_time": "18:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "盛泽",
+      "arrive_time": "18:52",
+      "depart_time": "18:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "上海虹桥",
+      "arrive_time": "19:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1061.5,
+    "price_first": 538.5,
+    "price_second": 333.5,
+    "price_no_seat": 333.5
+  },
+  "fetched_at": "2026-05-01T01:01:12.567935"
+}

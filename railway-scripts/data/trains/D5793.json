@@ -1,0 +1,100 @@
+{
+  "train_no": "D5793",
+  "train_type": "D",
+  "depart_station": "咸宁南",
+  "arrive_station": "云梦东",
+  "depart_time": "06:55",
+  "arrive_time": "09:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "咸宁南",
+      "arrive_time": "06:55",
+      "depart_time": "06:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "山坡东",
+      "arrive_time": "07:07",
+      "depart_time": "07:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "纸坊东",
+      "arrive_time": "07:21",
+      "depart_time": "07:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "庙山",
+      "arrive_time": "07:29",
+      "depart_time": "07:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汤逊湖",
+      "arrive_time": "07:36",
+      "depart_time": "07:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南湖东",
+      "arrive_time": "07:43",
+      "depart_time": "07:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "武昌",
+      "arrive_time": "07:59",
+      "depart_time": "08:08",
+      "stay_min": "9"
+    },
+    {
+      "seq": 8,
+      "station_name": "汉口",
+      "arrive_time": "08:27",
+      "depart_time": "08:35",
+      "stay_min": "8"
+    },
+    {
+      "seq": 9,
+      "station_name": "天河机场",
+      "arrive_time": "08:47",
+      "depart_time": "08:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "闵集",
+      "arrive_time": "08:58",
+      "depart_time": "09:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "孝感东",
+      "arrive_time": "09:11",
+      "depart_time": "09:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "云梦东",
+      "arrive_time": "09:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 145.0,
+    "price_second": 90.0,
+    "price_no_seat": 90.0
+  },
+  "fetched_at": "2026-05-01T04:11:23.909214"
+}

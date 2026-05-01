@@ -1,0 +1,45 @@
+{
+  "train_no": "D180",
+  "train_type": "D",
+  "depart_station": "西安",
+  "arrive_station": "鄂尔多斯",
+  "depart_time": "08:00",
+  "arrive_time": "12:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延安",
+      "arrive_time": "10:13",
+      "depart_time": "10:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "榆林",
+      "arrive_time": "12:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鄂尔多斯",
+      "arrive_time": "12:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 829.0,
+    "price_first": 379.0,
+    "price_second": 237.0,
+    "price_no_seat": 237.0
+  },
+  "fetched_at": "2026-05-01T03:05:09.719353"
+}

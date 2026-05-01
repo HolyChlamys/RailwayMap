@@ -1,0 +1,31 @@
+{
+  "train_no": "D9528",
+  "train_type": "D",
+  "depart_station": "安庆",
+  "arrive_station": "南京南",
+  "depart_time": "00:29",
+  "arrive_time": "00:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安庆",
+      "arrive_time": "00:29",
+      "depart_time": "00:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "00:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 399.0,
+    "price_first": 182.0,
+    "price_second": 114.0,
+    "price_no_seat": 114.0
+  },
+  "fetched_at": "2026-05-01T05:17:36.007306"
+}

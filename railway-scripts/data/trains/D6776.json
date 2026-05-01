@@ -1,0 +1,51 @@
+{
+  "train_no": "D6776",
+  "train_type": "D",
+  "depart_station": "乌海",
+  "arrive_station": "包头",
+  "depart_time": "19:53",
+  "arrive_time": "21:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌海",
+      "arrive_time": "19:53",
+      "depart_time": "19:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "碱柜",
+      "arrive_time": "20:05",
+      "depart_time": "20:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "20:43",
+      "depart_time": "20:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "乌拉特前旗",
+      "arrive_time": "21:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "包头",
+      "arrive_time": "21:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 378.0,
+    "price_second": 236.0,
+    "price_no_seat": 236.0
+  },
+  "fetched_at": "2026-05-01T04:28:35.018677"
+}

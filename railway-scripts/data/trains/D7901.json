@@ -1,0 +1,31 @@
+{
+  "train_no": "D7901",
+  "train_type": "D",
+  "depart_station": "牡丹江",
+  "arrive_station": "七台河西",
+  "depart_time": "05:10",
+  "arrive_time": "05:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "牡丹江",
+      "arrive_time": "05:10",
+      "depart_time": "05:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "七台河西",
+      "arrive_time": "05:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 295.0,
+    "price_first": 135.0,
+    "price_second": 84.0,
+    "price_no_seat": 84.0
+  },
+  "fetched_at": "2026-05-01T04:47:16.090856"
+}

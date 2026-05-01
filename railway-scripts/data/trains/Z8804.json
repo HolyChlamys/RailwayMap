@@ -1,0 +1,28 @@
+{
+  "train_no": "Z8804",
+  "train_type": "Z",
+  "depart_station": "日喀则",
+  "arrive_station": "拉萨",
+  "depart_time": "18:50",
+  "arrive_time": "18:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "日喀则",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "拉萨",
+      "arrive_time": "18:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T11:52:05.658802"
+}

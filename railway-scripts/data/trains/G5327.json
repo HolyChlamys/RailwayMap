@@ -1,0 +1,45 @@
+{
+  "train_no": "G5327",
+  "train_type": "G",
+  "depart_station": "临沂北",
+  "arrive_station": "烟台",
+  "depart_time": "08:46",
+  "arrive_time": "19:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沂北",
+      "arrive_time": "08:46",
+      "depart_time": "08:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "厉家寨",
+      "arrive_time": "09:06",
+      "depart_time": "09:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "日照",
+      "arrive_time": "09:30",
+      "depart_time": "09:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "烟台",
+      "arrive_time": "19:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 185.0,
+    "price_first": 99.0,
+    "price_second": 62.0,
+    "price_no_seat": 62.0
+  },
+  "fetched_at": "2026-05-01T07:31:04.911591"
+}

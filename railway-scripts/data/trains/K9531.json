@@ -1,0 +1,42 @@
+{
+  "train_no": "K9531",
+  "train_type": "K",
+  "depart_station": "开江",
+  "arrive_station": "重庆北",
+  "depart_time": "02:25",
+  "arrive_time": "05:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "开江",
+      "arrive_time": "02:25",
+      "depart_time": "02:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "达州",
+      "arrive_time": "03:32",
+      "depart_time": "03:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广安",
+      "arrive_time": "05:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆北",
+      "arrive_time": "05:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T10:46:40.279898"
+}

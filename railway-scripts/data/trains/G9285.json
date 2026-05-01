@@ -1,0 +1,52 @@
+{
+  "train_no": "G9285",
+  "train_type": "G",
+  "depart_station": "界首南",
+  "arrive_station": "合肥南",
+  "depart_time": "16:40",
+  "arrive_time": "17:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "界首南",
+      "arrive_time": "16:40",
+      "depart_time": "16:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "临泉",
+      "arrive_time": "16:52",
+      "depart_time": "16:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阜阳西",
+      "arrive_time": "17:08",
+      "depart_time": "17:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "淮南南",
+      "arrive_time": "17:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥南",
+      "arrive_time": "17:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 495.0,
+    "price_first": 263.5,
+    "price_second": 164.5,
+    "price_no_seat": 164.5
+  },
+  "fetched_at": "2026-05-01T09:10:19.648370"
+}

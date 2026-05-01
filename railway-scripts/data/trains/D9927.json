@@ -1,0 +1,31 @@
+{
+  "train_no": "D9927",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "荔波",
+  "depart_time": "20:45",
+  "arrive_time": "20:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "20:45",
+      "depart_time": "20:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荔波",
+      "arrive_time": "20:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 355.0,
+    "price_first": 166.0,
+    "price_second": 104.0,
+    "price_no_seat": 104.0
+  },
+  "fetched_at": "2026-05-01T05:28:15.027823"
+}

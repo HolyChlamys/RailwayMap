@@ -1,0 +1,66 @@
+{
+  "train_no": "G2610",
+  "train_type": "G",
+  "depart_station": "太原南",
+  "arrive_station": "天津西",
+  "depart_time": "14:50",
+  "arrive_time": "18:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "14:50",
+      "depart_time": "14:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阳泉北",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "16:33",
+      "depart_time": "16:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "正定机场",
+      "arrive_time": "16:50",
+      "depart_time": "16:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "白沟",
+      "arrive_time": "17:38",
+      "depart_time": "17:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "胜芳",
+      "arrive_time": "18:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "天津西",
+      "arrive_time": "18:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 761.0,
+    "price_first": 357.5,
+    "price_second": 223.5,
+    "price_no_seat": 223.5
+  },
+  "fetched_at": "2026-05-01T06:15:12.957047"
+}

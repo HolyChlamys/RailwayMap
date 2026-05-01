@@ -1,0 +1,77 @@
+{
+  "train_no": "K2276",
+  "train_type": "K",
+  "depart_station": "杭州",
+  "arrive_station": "新乡",
+  "depart_time": "15:29",
+  "arrive_time": "06:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州",
+      "arrive_time": "15:29",
+      "depart_time": "15:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "芜湖",
+      "arrive_time": "18:56",
+      "depart_time": "19:01",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥",
+      "arrive_time": "20:54",
+      "depart_time": "21:05",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "淮南",
+      "arrive_time": "22:15",
+      "depart_time": "22:19",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "阜阳",
+      "arrive_time": "23:39",
+      "depart_time": "23:50",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "商丘",
+      "arrive_time": "02:42",
+      "depart_time": "02:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "开封",
+      "arrive_time": "04:09",
+      "depart_time": "04:13",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "郑州",
+      "arrive_time": "05:02",
+      "depart_time": "05:30",
+      "stay_min": "28"
+    },
+    {
+      "seq": 9,
+      "station_name": "新乡",
+      "arrive_time": "06:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 141.5
+  },
+  "fetched_at": "2026-05-01T09:40:42.453925"
+}

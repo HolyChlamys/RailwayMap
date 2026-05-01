@@ -1,0 +1,52 @@
+{
+  "train_no": "G9326",
+  "train_type": "G",
+  "depart_station": "济南东",
+  "arrive_station": "临沂北",
+  "depart_time": "20:11",
+  "arrive_time": "22:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "20:11",
+      "depart_time": "20:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南",
+      "arrive_time": "20:28",
+      "depart_time": "20:38",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "泰安",
+      "arrive_time": "21:02",
+      "depart_time": "21:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "曲阜东",
+      "arrive_time": "21:25",
+      "depart_time": "21:33",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "临沂北",
+      "arrive_time": "22:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 501.0,
+    "price_first": 246.0,
+    "price_second": 154.0,
+    "price_no_seat": 154.0
+  },
+  "fetched_at": "2026-05-01T09:11:38.487641"
+}

@@ -1,0 +1,100 @@
+{
+  "train_no": "G7149",
+  "train_type": "G",
+  "depart_station": "苏州南",
+  "arrive_station": "安庆",
+  "depart_time": "12:55",
+  "arrive_time": "17:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "苏州南",
+      "arrive_time": "12:55",
+      "depart_time": "12:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "上海松江",
+      "arrive_time": "13:09",
+      "depart_time": "13:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "上海虹桥",
+      "arrive_time": "13:29",
+      "depart_time": "13:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆山南",
+      "arrive_time": "13:52",
+      "depart_time": "13:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "苏州",
+      "arrive_time": "14:06",
+      "depart_time": "14:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "无锡新区",
+      "arrive_time": "14:20",
+      "depart_time": "14:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "镇江",
+      "arrive_time": "15:00",
+      "depart_time": "15:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "南京南",
+      "arrive_time": "15:29",
+      "depart_time": "15:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "马鞍山东",
+      "arrive_time": "15:47",
+      "depart_time": "15:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "芜湖",
+      "arrive_time": "16:06",
+      "depart_time": "16:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "铜陵",
+      "arrive_time": "16:36",
+      "depart_time": "16:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "安庆",
+      "arrive_time": "17:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 533.0,
+    "price_second": 333.0,
+    "price_no_seat": 333.0
+  },
+  "fetched_at": "2026-05-01T08:18:55.208115"
+}

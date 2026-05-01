@@ -1,0 +1,45 @@
+{
+  "train_no": "G5344",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "成都东",
+  "depart_time": "00:27",
+  "arrive_time": "02:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "00:27",
+      "depart_time": "00:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "毕节",
+      "arrive_time": "01:18",
+      "depart_time": "01:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜宾西",
+      "arrive_time": "02:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "成都东",
+      "arrive_time": "02:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 892.0,
+    "price_first": 475.0,
+    "price_second": 297.0,
+    "price_no_seat": 297.0
+  },
+  "fetched_at": "2026-05-01T07:31:31.258811"
+}

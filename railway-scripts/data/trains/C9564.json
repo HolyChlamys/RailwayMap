@@ -1,0 +1,58 @@
+{
+  "train_no": "C9564",
+  "train_type": "C",
+  "depart_station": "福州南",
+  "arrive_station": "九江",
+  "depart_time": "22:15",
+  "arrive_time": "02:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州南",
+      "arrive_time": "22:15",
+      "depart_time": "22:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福州",
+      "arrive_time": "22:36",
+      "depart_time": "22:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "尤溪",
+      "arrive_time": "23:33",
+      "depart_time": "23:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "三明北",
+      "arrive_time": "23:55",
+      "depart_time": "23:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌西",
+      "arrive_time": "02:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "九江",
+      "arrive_time": "02:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 405.0,
+    "price_second": 254.0,
+    "price_no_seat": 254.0
+  },
+  "fetched_at": "2026-05-01T02:49:20.436390"
+}

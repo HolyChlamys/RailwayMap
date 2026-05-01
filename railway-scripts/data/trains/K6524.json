@@ -1,0 +1,56 @@
+{
+  "train_no": "K6524",
+  "train_type": "K",
+  "depart_station": "怀化",
+  "arrive_station": "长沙",
+  "depart_time": "07:55",
+  "arrive_time": "14:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "怀化",
+      "arrive_time": "07:55",
+      "depart_time": "07:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新化",
+      "arrive_time": "11:15",
+      "depart_time": "11:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "涟源",
+      "arrive_time": "12:03",
+      "depart_time": "12:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "娄底",
+      "arrive_time": "12:49",
+      "depart_time": "12:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "湘潭",
+      "arrive_time": "14:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙",
+      "arrive_time": "14:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T10:21:44.242145"
+}

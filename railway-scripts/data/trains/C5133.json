@@ -1,0 +1,44 @@
+{
+  "train_no": "C5133",
+  "train_type": "C",
+  "depart_station": "永安南",
+  "arrive_station": "福州",
+  "depart_time": "21:42",
+  "arrive_time": "23:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "永安南",
+      "arrive_time": "21:42",
+      "depart_time": "21:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三明",
+      "arrive_time": "21:58",
+      "depart_time": "22:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "三明北",
+      "arrive_time": "22:14",
+      "depart_time": "22:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "福州",
+      "arrive_time": "23:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 160.0,
+    "price_second": 99.0,
+    "price_no_seat": 99.0
+  },
+  "fetched_at": "2026-05-01T01:27:31.085727"
+}

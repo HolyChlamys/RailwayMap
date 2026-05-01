@@ -1,0 +1,58 @@
+{
+  "train_no": "D9787",
+  "train_type": "D",
+  "depart_station": "汕头",
+  "arrive_station": "广州新塘",
+  "depart_time": "21:06",
+  "arrive_time": "22:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "21:06",
+      "depart_time": "21:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠来",
+      "arrive_time": "21:30",
+      "depart_time": "21:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "陆丰东",
+      "arrive_time": "21:59",
+      "depart_time": "21:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "22:19",
+      "depart_time": "22:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "惠州南",
+      "arrive_time": "22:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州新塘",
+      "arrive_time": "22:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 457.0,
+    "price_second": 294.0,
+    "price_no_seat": 294.0
+  },
+  "fetched_at": "2026-05-01T05:24:58.861960"
+}

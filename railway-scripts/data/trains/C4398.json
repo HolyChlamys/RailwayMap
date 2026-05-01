@@ -1,0 +1,30 @@
+{
+  "train_no": "C4398",
+  "train_type": "C",
+  "depart_station": "厦门北",
+  "arrive_station": "龙岩",
+  "depart_time": "12:47",
+  "arrive_time": "12:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "12:47",
+      "depart_time": "12:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙岩",
+      "arrive_time": "12:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 86.0,
+    "price_second": 54.0,
+    "price_no_seat": 54.0
+  },
+  "fetched_at": "2026-05-01T01:14:56.727489"
+}

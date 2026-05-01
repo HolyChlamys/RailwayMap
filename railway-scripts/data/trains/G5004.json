@@ -1,0 +1,80 @@
+{
+  "train_no": "G5004",
+  "train_type": "G",
+  "depart_station": "南昌东",
+  "arrive_station": "南昌",
+  "depart_time": "09:42",
+  "arrive_time": "13:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "09:42",
+      "depart_time": "09:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "余干",
+      "arrive_time": "10:01",
+      "depart_time": "10:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "鄱阳",
+      "arrive_time": "10:14",
+      "depart_time": "10:19",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "景德镇北",
+      "arrive_time": "10:41",
+      "depart_time": "10:57",
+      "stay_min": "16"
+    },
+    {
+      "seq": 5,
+      "station_name": "鄱阳北",
+      "arrive_time": "11:15",
+      "depart_time": "11:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "都昌",
+      "arrive_time": "11:38",
+      "depart_time": "11:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "湖口",
+      "arrive_time": "11:56",
+      "depart_time": "11:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "九江",
+      "arrive_time": "12:25",
+      "depart_time": "12:30",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "南昌",
+      "arrive_time": "13:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 621.0,
+    "price_first": 306.0,
+    "price_second": 191.5,
+    "price_no_seat": 191.5
+  },
+  "fetched_at": "2026-05-01T07:22:20.325856"
+}

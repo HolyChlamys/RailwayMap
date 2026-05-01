@@ -1,0 +1,58 @@
+{
+  "train_no": "D4115",
+  "train_type": "D",
+  "depart_station": "南京南",
+  "arrive_station": "天门",
+  "depart_time": "06:35",
+  "arrive_time": "10:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "06:35",
+      "depart_time": "06:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "07:27",
+      "depart_time": "07:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金寨",
+      "arrive_time": "08:09",
+      "depart_time": "08:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "09:48",
+      "depart_time": "09:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汉川北",
+      "arrive_time": "10:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "天门",
+      "arrive_time": "10:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 487.0,
+    "price_second": 305.0,
+    "price_no_seat": 305.0
+  },
+  "fetched_at": "2026-05-01T03:44:12.948760"
+}

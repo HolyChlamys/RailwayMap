@@ -1,0 +1,100 @@
+{
+  "train_no": "D3302",
+  "train_type": "D",
+  "depart_station": "厦门北",
+  "arrive_station": "宁波",
+  "depart_time": "09:20",
+  "arrive_time": "13:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "09:20",
+      "depart_time": "09:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泉州",
+      "arrive_time": "09:48",
+      "depart_time": "09:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莆田",
+      "arrive_time": "10:17",
+      "depart_time": "10:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "涵江",
+      "arrive_time": "10:29",
+      "depart_time": "10:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福州南",
+      "arrive_time": "10:59",
+      "depart_time": "10:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宁德",
+      "arrive_time": "11:33",
+      "depart_time": "11:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "霞浦",
+      "arrive_time": "11:57",
+      "depart_time": "11:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "苍南",
+      "arrive_time": "12:31",
+      "depart_time": "12:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "温州南",
+      "arrive_time": "12:58",
+      "depart_time": "12:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "雁荡山",
+      "arrive_time": "13:31",
+      "depart_time": "13:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "台州西",
+      "arrive_time": "13:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "宁波",
+      "arrive_time": "13:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 565.0,
+    "price_second": 353.0,
+    "price_no_seat": 353.0
+  },
+  "fetched_at": "2026-05-01T03:31:36.874087"
+}

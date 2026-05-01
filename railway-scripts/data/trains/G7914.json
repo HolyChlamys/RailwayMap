@@ -1,0 +1,80 @@
+{
+  "train_no": "G7914",
+  "train_type": "G",
+  "depart_station": "南阳东",
+  "arrive_station": "安阳东",
+  "depart_time": "12:37",
+  "arrive_time": "15:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南阳东",
+      "arrive_time": "12:37",
+      "depart_time": "12:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "方城",
+      "arrive_time": "12:57",
+      "depart_time": "12:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "平顶山西",
+      "arrive_time": "13:22",
+      "depart_time": "13:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "禹州",
+      "arrive_time": "13:41",
+      "depart_time": "13:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州航空港",
+      "arrive_time": "14:02",
+      "depart_time": "14:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州东",
+      "arrive_time": "14:31",
+      "depart_time": "14:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "新乡东",
+      "arrive_time": "14:53",
+      "depart_time": "14:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "鹤壁东",
+      "arrive_time": "15:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "安阳东",
+      "arrive_time": "15:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 778.0,
+    "price_first": 389.0,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T08:40:01.005052"
+}

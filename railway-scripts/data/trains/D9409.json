@@ -1,0 +1,37 @@
+{
+  "train_no": "D9409",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "宝鸡南",
+  "depart_time": "23:01",
+  "arrive_time": "23:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "23:01",
+      "depart_time": "23:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳西",
+      "arrive_time": "23:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宝鸡南",
+      "arrive_time": "23:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 82.5,
+    "price_second": 51.5,
+    "price_no_seat": 51.5
+  },
+  "fetched_at": "2026-05-01T05:15:15.753029"
+}

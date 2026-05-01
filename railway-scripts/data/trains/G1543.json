@@ -1,0 +1,150 @@
+{
+  "train_no": "G1543",
+  "train_type": "G",
+  "depart_station": "南宁东",
+  "arrive_station": "杭州西",
+  "depart_time": "08:16",
+  "arrive_time": "20:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "08:16",
+      "depart_time": "08:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "柳州",
+      "arrive_time": "09:19",
+      "depart_time": "09:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "桂林",
+      "arrive_time": "10:22",
+      "depart_time": "10:26",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "兴安北",
+      "arrive_time": "10:55",
+      "depart_time": "10:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "永州",
+      "arrive_time": "11:48",
+      "depart_time": "11:52",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "祁阳",
+      "arrive_time": "12:08",
+      "depart_time": "12:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "祁东",
+      "arrive_time": "12:24",
+      "depart_time": "12:27",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "衡阳东",
+      "arrive_time": "12:56",
+      "depart_time": "13:01",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "株洲西",
+      "arrive_time": "13:30",
+      "depart_time": "13:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "长沙南",
+      "arrive_time": "13:48",
+      "depart_time": "14:01",
+      "stay_min": "13"
+    },
+    {
+      "seq": 11,
+      "station_name": "岳阳东",
+      "arrive_time": "14:36",
+      "depart_time": "14:53",
+      "stay_min": "17"
+    },
+    {
+      "seq": 12,
+      "station_name": "武汉",
+      "arrive_time": "15:44",
+      "depart_time": "15:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 13,
+      "station_name": "六安",
+      "arrive_time": "17:06",
+      "depart_time": "17:14",
+      "stay_min": "8"
+    },
+    {
+      "seq": 14,
+      "station_name": "合肥南",
+      "arrive_time": "17:39",
+      "depart_time": "17:43",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "南京南",
+      "arrive_time": "18:35",
+      "depart_time": "18:40",
+      "stay_min": "5"
+    },
+    {
+      "seq": 16,
+      "station_name": "溧水",
+      "arrive_time": "18:56",
+      "depart_time": "18:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "溧阳",
+      "arrive_time": "19:13",
+      "depart_time": "19:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "宜兴",
+      "arrive_time": "19:27",
+      "depart_time": "19:32",
+      "stay_min": "5"
+    },
+    {
+      "seq": 19,
+      "station_name": "杭州西",
+      "arrive_time": "20:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3093.0,
+    "price_first": 1460.0,
+    "price_second": 912.5,
+    "price_no_seat": 912.5
+  },
+  "fetched_at": "2026-05-01T05:46:07.056924"
+}

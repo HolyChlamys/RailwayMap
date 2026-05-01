@@ -1,0 +1,94 @@
+{
+  "train_no": "G1898",
+  "train_type": "G",
+  "depart_station": "义乌",
+  "arrive_station": "西安北",
+  "depart_time": "15:54",
+  "arrive_time": "23:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "义乌",
+      "arrive_time": "15:54",
+      "depart_time": "15:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州西",
+      "arrive_time": "16:28",
+      "depart_time": "16:31",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "湖州",
+      "arrive_time": "16:53",
+      "depart_time": "16:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宣城",
+      "arrive_time": "17:31",
+      "depart_time": "17:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "芜湖",
+      "arrive_time": "17:58",
+      "depart_time": "18:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "合肥南",
+      "arrive_time": "18:39",
+      "depart_time": "18:45",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "淮南南",
+      "arrive_time": "19:25",
+      "depart_time": "19:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "阜阳西",
+      "arrive_time": "20:00",
+      "depart_time": "20:03",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "商丘",
+      "arrive_time": "20:47",
+      "depart_time": "20:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "郑州东",
+      "arrive_time": "21:39",
+      "depart_time": "21:42",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "西安北",
+      "arrive_time": "23:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2931.5,
+    "price_first": 1432.5,
+    "price_second": 891.5,
+    "price_no_seat": 891.5
+  },
+  "fetched_at": "2026-05-01T05:55:58.774763"
+}

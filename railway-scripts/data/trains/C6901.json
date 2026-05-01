@@ -1,0 +1,93 @@
+{
+  "train_no": "C6901",
+  "train_type": "C",
+  "depart_station": "佛山西",
+  "arrive_station": "茂名",
+  "depart_time": "06:15",
+  "arrive_time": "09:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佛山西",
+      "arrive_time": "06:15",
+      "depart_time": "06:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "06:40",
+      "depart_time": "06:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "江门东",
+      "arrive_time": "07:06",
+      "depart_time": "07:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "江门",
+      "arrive_time": "07:16",
+      "depart_time": "07:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "台山",
+      "arrive_time": "07:42",
+      "depart_time": "07:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "开平南",
+      "arrive_time": "07:52",
+      "depart_time": "07:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "恩平",
+      "arrive_time": "08:08",
+      "depart_time": "08:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "阳江",
+      "arrive_time": "08:34",
+      "depart_time": "08:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "马踏",
+      "arrive_time": "09:01",
+      "depart_time": "09:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "电白",
+      "arrive_time": "09:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "茂名",
+      "arrive_time": "09:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 293.0,
+    "price_second": 191.0,
+    "price_no_seat": 191.0
+  },
+  "fetched_at": "2026-05-01T01:59:53.032271"
+}

@@ -1,0 +1,85 @@
+{
+  "train_no": "C147",
+  "train_type": "C",
+  "depart_station": "烟台",
+  "arrive_station": "菏泽",
+  "depart_time": "20:03",
+  "arrive_time": "06:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "烟台",
+      "arrive_time": "20:03",
+      "depart_time": "20:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莱阳",
+      "arrive_time": "20:53",
+      "depart_time": "20:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "莱西",
+      "arrive_time": "21:10",
+      "depart_time": "21:30",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "夏格庄",
+      "arrive_time": "21:43",
+      "depart_time": "21:52",
+      "stay_min": "9"
+    },
+    {
+      "seq": 5,
+      "station_name": "即墨北",
+      "arrive_time": "22:07",
+      "depart_time": "22:16",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "青岛北",
+      "arrive_time": "22:38",
+      "depart_time": "23:05",
+      "stay_min": "27"
+    },
+    {
+      "seq": 7,
+      "station_name": "临沂",
+      "arrive_time": "01:29",
+      "depart_time": "01:36",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "兖州",
+      "arrive_time": "03:33",
+      "depart_time": "04:26",
+      "stay_min": "53"
+    },
+    {
+      "seq": 9,
+      "station_name": "济宁",
+      "arrive_time": "04:49",
+      "depart_time": "04:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "菏泽",
+      "arrive_time": "06:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 268.0,
+    "price_no_seat": 268.0
+  },
+  "fetched_at": "2026-05-01T00:25:54.552339"
+}

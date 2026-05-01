@@ -1,0 +1,42 @@
+{
+  "train_no": "K4616",
+  "train_type": "K",
+  "depart_station": "上海",
+  "arrive_station": "常州",
+  "depart_time": "03:54",
+  "arrive_time": "05:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "03:54",
+      "depart_time": "03:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "04:52",
+      "depart_time": "04:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡",
+      "arrive_time": "05:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "常州",
+      "arrive_time": "05:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 229.0
+  },
+  "fetched_at": "2026-05-01T09:56:23.803311"
+}

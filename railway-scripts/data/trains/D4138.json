@@ -1,0 +1,65 @@
+{
+  "train_no": "D4138",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "桂林北",
+  "depart_time": "18:43",
+  "arrive_time": "21:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "18:43",
+      "depart_time": "18:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肇庆东",
+      "arrive_time": "19:18",
+      "depart_time": "19:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "怀集",
+      "arrive_time": "20:07",
+      "depart_time": "20:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贺州",
+      "arrive_time": "20:37",
+      "depart_time": "20:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "恭城",
+      "arrive_time": "21:08",
+      "depart_time": "21:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "阳朔",
+      "arrive_time": "21:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "桂林北",
+      "arrive_time": "21:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 343.0,
+    "price_second": 214.0,
+    "price_no_seat": 214.0
+  },
+  "fetched_at": "2026-05-01T03:44:21.275397"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "C6230",
+  "train_type": "C",
+  "depart_station": "宜宾",
+  "arrive_station": "成都东",
+  "depart_time": "23:15",
+  "arrive_time": "23:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜宾",
+      "arrive_time": "23:15",
+      "depart_time": "23:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "自贡",
+      "arrive_time": "23:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "成都东",
+      "arrive_time": "23:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 209.0,
+    "price_second": 131.0,
+    "price_no_seat": 131.0
+  },
+  "fetched_at": "2026-05-01T01:47:15.084688"
+}

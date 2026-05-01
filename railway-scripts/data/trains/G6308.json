@@ -1,0 +1,136 @@
+{
+  "train_no": "G6308",
+  "train_type": "G",
+  "depart_station": "汕头",
+  "arrive_station": "长沙南",
+  "depart_time": "14:03",
+  "arrive_time": "20:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "14:03",
+      "depart_time": "14:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汕头南",
+      "arrive_time": "14:12",
+      "depart_time": "14:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "潮南",
+      "arrive_time": "14:23",
+      "depart_time": "14:34",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "惠来",
+      "arrive_time": "14:46",
+      "depart_time": "14:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "陆丰东",
+      "arrive_time": "15:02",
+      "depart_time": "15:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "陆丰南",
+      "arrive_time": "15:14",
+      "depart_time": "15:23",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "汕尾",
+      "arrive_time": "15:34",
+      "depart_time": "15:41",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "惠东",
+      "arrive_time": "16:03",
+      "depart_time": "16:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "惠州南",
+      "arrive_time": "16:16",
+      "depart_time": "16:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "广州新塘",
+      "arrive_time": "16:46",
+      "depart_time": "16:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "广州",
+      "arrive_time": "17:20",
+      "depart_time": "17:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "广州白云",
+      "arrive_time": "17:34",
+      "depart_time": "17:38",
+      "stay_min": "4"
+    },
+    {
+      "seq": 13,
+      "station_name": "广州北",
+      "arrive_time": "17:54",
+      "depart_time": "17:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "郴州西",
+      "arrive_time": "19:02",
+      "depart_time": "19:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "衡阳东",
+      "arrive_time": "19:37",
+      "depart_time": "19:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "株洲西",
+      "arrive_time": "20:06",
+      "depart_time": "20:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "长沙南",
+      "arrive_time": "20:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2308.0,
+    "price_first": 1043.0,
+    "price_second": 659.0,
+    "price_no_seat": 659.0
+  },
+  "fetched_at": "2026-05-01T07:54:56.402145"
+}

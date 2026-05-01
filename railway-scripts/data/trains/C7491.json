@@ -1,0 +1,44 @@
+{
+  "train_no": "C7491",
+  "train_type": "C",
+  "depart_station": "梅州西",
+  "arrive_station": "福田",
+  "depart_time": "01:43",
+  "arrive_time": "02:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梅州西",
+      "arrive_time": "01:43",
+      "depart_time": "01:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴宁南",
+      "arrive_time": "01:58",
+      "depart_time": "01:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "五华",
+      "arrive_time": "02:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福田",
+      "arrive_time": "02:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 345.0,
+    "price_second": 218.0,
+    "price_no_seat": 218.0
+  },
+  "fetched_at": "2026-05-01T02:16:34.770653"
+}

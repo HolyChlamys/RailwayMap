@@ -1,0 +1,73 @@
+{
+  "train_no": "G6114",
+  "train_type": "G",
+  "depart_station": "香港西九龙",
+  "arrive_station": "长沙南",
+  "depart_time": "17:16",
+  "arrive_time": "20:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香港西九龙",
+      "arrive_time": "17:16",
+      "depart_time": "17:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "17:39",
+      "depart_time": "17:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "18:12",
+      "depart_time": "18:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "清远",
+      "arrive_time": "18:36",
+      "depart_time": "18:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郴州西",
+      "arrive_time": "19:34",
+      "depart_time": "19:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "衡阳东",
+      "arrive_time": "20:07",
+      "depart_time": "20:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "株洲西",
+      "arrive_time": "20:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "长沙南",
+      "arrive_time": "20:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1966.0,
+    "price_first": 948.0,
+    "price_second": 592.0,
+    "price_no_seat": 592.0
+  },
+  "fetched_at": "2026-05-01T07:49:15.928922"
+}

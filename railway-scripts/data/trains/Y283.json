@@ -1,0 +1,40 @@
+{
+  "train_no": "Y283",
+  "train_type": "Y",
+  "depart_station": "成都西",
+  "arrive_station": "秀山",
+  "depart_time": "16:49",
+  "arrive_time": "07:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都西",
+      "arrive_time": "16:49",
+      "depart_time": "16:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "21:40",
+      "depart_time": "22:23",
+      "stay_min": "43"
+    },
+    {
+      "seq": 3,
+      "station_name": "黔江",
+      "arrive_time": "04:45",
+      "depart_time": "05:00",
+      "stay_min": "15"
+    },
+    {
+      "seq": 4,
+      "station_name": "秀山",
+      "arrive_time": "07:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:30:40.852221"
+}

@@ -1,0 +1,31 @@
+{
+  "train_no": "G6248",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "韶关",
+  "depart_time": "23:13",
+  "arrive_time": "23:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "23:13",
+      "depart_time": "23:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "韶关",
+      "arrive_time": "23:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 437.0,
+    "price_first": 200.0,
+    "price_second": 125.0,
+    "price_no_seat": 125.0
+  },
+  "fetched_at": "2026-05-01T07:53:08.992737"
+}

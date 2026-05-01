@@ -1,0 +1,93 @@
+{
+  "train_no": "D7326",
+  "train_type": "D",
+  "depart_station": "深圳",
+  "arrive_station": "潮汕",
+  "depart_time": "17:20",
+  "arrive_time": "20:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "17:20",
+      "depart_time": "17:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "仲恺",
+      "arrive_time": "17:51",
+      "depart_time": "18:00",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "18:10",
+      "depart_time": "18:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "河源东",
+      "arrive_time": "18:34",
+      "depart_time": "18:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "龙川西",
+      "arrive_time": "18:56",
+      "depart_time": "18:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "五华",
+      "arrive_time": "19:16",
+      "depart_time": "19:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "梅州西",
+      "arrive_time": "19:36",
+      "depart_time": "19:48",
+      "stay_min": "12"
+    },
+    {
+      "seq": 8,
+      "station_name": "丰顺东",
+      "arrive_time": "20:08",
+      "depart_time": "20:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "揭阳",
+      "arrive_time": "20:21",
+      "depart_time": "20:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "揭阳机场",
+      "arrive_time": "20:35",
+      "depart_time": "20:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "潮汕",
+      "arrive_time": "20:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 408.0,
+    "price_second": 266.0,
+    "price_no_seat": 266.0
+  },
+  "fetched_at": "2026-05-01T04:36:19.883893"
+}

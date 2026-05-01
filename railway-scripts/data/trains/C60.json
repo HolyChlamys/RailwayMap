@@ -1,0 +1,101 @@
+{
+  "train_no": "C60",
+  "train_type": "C",
+  "depart_station": "攀枝花南",
+  "arrive_station": "巴中",
+  "depart_time": "06:01",
+  "arrive_time": "16:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "攀枝花南",
+      "arrive_time": "06:01",
+      "depart_time": "06:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西昌西",
+      "arrive_time": "07:21",
+      "depart_time": "07:25",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "成都南",
+      "arrive_time": "10:19",
+      "depart_time": "10:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "成都东",
+      "arrive_time": "10:31",
+      "depart_time": "10:38",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "大英东",
+      "arrive_time": "11:30",
+      "depart_time": "11:36",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "遂宁",
+      "arrive_time": "11:53",
+      "depart_time": "11:56",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "南充",
+      "arrive_time": "12:30",
+      "depart_time": "12:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "土溪",
+      "arrive_time": "13:20",
+      "depart_time": "13:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "达州",
+      "arrive_time": "13:52",
+      "depart_time": "14:12",
+      "stay_min": "20"
+    },
+    {
+      "seq": 10,
+      "station_name": "平昌",
+      "arrive_time": "15:12",
+      "depart_time": "15:18",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "巴中东",
+      "arrive_time": "15:59",
+      "depart_time": "16:03",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "巴中",
+      "arrive_time": "16:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1169.0,
+    "price_first": 537.0,
+    "price_second": 335.0,
+    "price_no_seat": 335.0
+  },
+  "fetched_at": "2026-05-01T01:42:55.986586"
+}

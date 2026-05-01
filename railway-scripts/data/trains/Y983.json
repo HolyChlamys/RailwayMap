@@ -1,0 +1,33 @@
+{
+  "train_no": "Y983",
+  "train_type": "Y",
+  "depart_station": "十堰",
+  "arrive_station": "武昌",
+  "depart_time": "21:40",
+  "arrive_time": "05:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "十堰",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "襄州",
+      "arrive_time": "00:17",
+      "depart_time": "00:42",
+      "stay_min": "25"
+    },
+    {
+      "seq": 3,
+      "station_name": "武昌",
+      "arrive_time": "05:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:42:35.733779"
+}

@@ -1,0 +1,86 @@
+{
+  "train_no": "D3515",
+  "train_type": "D",
+  "depart_station": "银川",
+  "arrive_station": "西安北",
+  "depart_time": "09:22",
+  "arrive_time": "13:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "09:22",
+      "depart_time": "09:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "灵武北",
+      "arrive_time": "09:49",
+      "depart_time": "09:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "吴忠",
+      "arrive_time": "10:00",
+      "depart_time": "10:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "环县",
+      "arrive_time": "10:56",
+      "depart_time": "10:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "庆阳",
+      "arrive_time": "11:33",
+      "depart_time": "11:36",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "宁县",
+      "arrive_time": "11:50",
+      "depart_time": "11:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "彬州东",
+      "arrive_time": "12:12",
+      "depart_time": "12:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "礼泉南",
+      "arrive_time": "12:39",
+      "depart_time": "12:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "咸阳北",
+      "arrive_time": "12:53",
+      "depart_time": "12:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "西安北",
+      "arrive_time": "13:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 445.0,
+    "price_second": 278.0,
+    "price_no_seat": 278.0
+  },
+  "fetched_at": "2026-05-01T03:33:49.295250"
+}

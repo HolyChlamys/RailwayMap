@@ -1,0 +1,57 @@
+{
+  "train_no": "C8077",
+  "train_type": "C",
+  "depart_station": "饶平",
+  "arrive_station": "深圳北",
+  "depart_time": "19:31",
+  "arrive_time": "21:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "饶平",
+      "arrive_time": "19:31",
+      "depart_time": "19:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "19:49",
+      "depart_time": "19:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "陆丰",
+      "arrive_time": "20:25",
+      "depart_time": "20:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "20:40",
+      "depart_time": "20:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "惠阳",
+      "arrive_time": "21:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "21:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 154.0,
+    "price_no_seat": 154.0
+  },
+  "fetched_at": "2026-05-01T02:31:47.165942"
+}

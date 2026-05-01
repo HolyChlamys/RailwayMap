@@ -1,0 +1,101 @@
+{
+  "train_no": "G1666",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "徐州东",
+  "depart_time": "14:26",
+  "arrive_time": "19:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "14:26",
+      "depart_time": "14:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹰潭北",
+      "arrive_time": "15:03",
+      "depart_time": "15:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "上饶",
+      "arrive_time": "15:34",
+      "depart_time": "15:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "玉山南",
+      "arrive_time": "15:52",
+      "depart_time": "15:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "金华",
+      "arrive_time": "16:31",
+      "depart_time": "16:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "17:23",
+      "depart_time": "17:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "湖州",
+      "arrive_time": "17:54",
+      "depart_time": "17:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "宜兴",
+      "arrive_time": "18:13",
+      "depart_time": "18:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "南京南",
+      "arrive_time": "18:57",
+      "depart_time": "18:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "定远",
+      "arrive_time": "19:37",
+      "depart_time": "19:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "蚌埠南",
+      "arrive_time": "19:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "徐州东",
+      "arrive_time": "19:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2235.0,
+    "price_first": 1021.0,
+    "price_second": 639.0,
+    "price_no_seat": 639.0
+  },
+  "fetched_at": "2026-05-01T05:49:27.948404"
+}

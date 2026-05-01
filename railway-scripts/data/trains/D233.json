@@ -1,0 +1,44 @@
+{
+  "train_no": "D233",
+  "train_type": "D",
+  "depart_station": "六盘水",
+  "arrive_station": "昆明",
+  "depart_time": "16:23",
+  "arrive_time": "18:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "六盘水",
+      "arrive_time": "16:23",
+      "depart_time": "16:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宣威",
+      "arrive_time": "17:46",
+      "depart_time": "17:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "曲靖",
+      "arrive_time": "18:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明",
+      "arrive_time": "18:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 192.0,
+    "price_second": 120.0,
+    "price_no_seat": 120.0
+  },
+  "fetched_at": "2026-05-01T03:15:06.627241"
+}

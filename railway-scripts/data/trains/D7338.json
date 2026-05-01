@@ -1,0 +1,44 @@
+{
+  "train_no": "D7338",
+  "train_type": "D",
+  "depart_station": "广州",
+  "arrive_station": "梅州西",
+  "depart_time": "12:30",
+  "arrive_time": "14:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "12:30",
+      "depart_time": "12:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "13:04",
+      "depart_time": "13:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙川西",
+      "arrive_time": "14:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "梅州西",
+      "arrive_time": "14:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 337.0,
+    "price_second": 220.0,
+    "price_no_seat": 220.0
+  },
+  "fetched_at": "2026-05-01T04:36:39.798129"
+}

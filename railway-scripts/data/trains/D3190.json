@@ -1,0 +1,79 @@
+{
+  "train_no": "D3190",
+  "train_type": "D",
+  "depart_station": "南昌西",
+  "arrive_station": "合肥南",
+  "depart_time": "09:03",
+  "arrive_time": "11:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "09:03",
+      "depart_time": "09:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永修",
+      "arrive_time": "09:25",
+      "depart_time": "09:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "共青城",
+      "arrive_time": "09:39",
+      "depart_time": "09:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "德安",
+      "arrive_time": "09:47",
+      "depart_time": "09:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "庐山",
+      "arrive_time": "10:05",
+      "depart_time": "10:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "太湖南",
+      "arrive_time": "10:40",
+      "depart_time": "10:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "桐城东",
+      "arrive_time": "11:12",
+      "depart_time": "11:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "舒城东",
+      "arrive_time": "11:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "合肥南",
+      "arrive_time": "11:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 314.0,
+    "price_second": 197.0,
+    "price_no_seat": 197.0
+  },
+  "fetched_at": "2026-05-01T03:29:31.082092"
+}

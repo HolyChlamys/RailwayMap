@@ -1,0 +1,33 @@
+{
+  "train_no": "Y745",
+  "train_type": "Y",
+  "depart_station": "丽江",
+  "arrive_station": "昆明",
+  "depart_time": "23:16",
+  "arrive_time": "08:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丽江",
+      "arrive_time": "23:16",
+      "depart_time": "23:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "祥云",
+      "arrive_time": "05:31",
+      "depart_time": "05:45",
+      "stay_min": "14"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "08:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:37:44.967640"
+}

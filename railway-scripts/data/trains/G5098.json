@@ -1,0 +1,94 @@
+{
+  "train_no": "G5098",
+  "train_type": "G",
+  "depart_station": "九江",
+  "arrive_station": "福州",
+  "depart_time": "10:58",
+  "arrive_time": "15:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "九江",
+      "arrive_time": "10:58",
+      "depart_time": "10:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "都昌",
+      "arrive_time": "11:33",
+      "depart_time": "11:41",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "鄱阳北",
+      "arrive_time": "12:03",
+      "depart_time": "12:09",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "景德镇北",
+      "arrive_time": "12:26",
+      "depart_time": "12:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "婺源",
+      "arrive_time": "12:56",
+      "depart_time": "12:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "德兴",
+      "arrive_time": "13:09",
+      "depart_time": "13:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "上饶",
+      "arrive_time": "13:29",
+      "depart_time": "13:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "南平市",
+      "arrive_time": "14:02",
+      "depart_time": "14:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "建瓯西",
+      "arrive_time": "14:20",
+      "depart_time": "14:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "延平",
+      "arrive_time": "14:38",
+      "depart_time": "14:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "福州",
+      "arrive_time": "15:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 861.5,
+    "price_first": 459.5,
+    "price_second": 276.5,
+    "price_no_seat": 276.5
+  },
+  "fetched_at": "2026-05-01T07:24:48.075458"
+}

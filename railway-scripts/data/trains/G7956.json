@@ -1,0 +1,66 @@
+{
+  "train_no": "G7956",
+  "train_type": "G",
+  "depart_station": "南阳东",
+  "arrive_station": "洛阳龙门",
+  "depart_time": "16:01",
+  "arrive_time": "18:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南阳东",
+      "arrive_time": "16:01",
+      "depart_time": "16:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "方城",
+      "arrive_time": "16:16",
+      "depart_time": "16:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "平顶山西",
+      "arrive_time": "16:37",
+      "depart_time": "16:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "郏县",
+      "arrive_time": "16:49",
+      "depart_time": "16:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "禹州",
+      "arrive_time": "17:04",
+      "depart_time": "17:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州东",
+      "arrive_time": "17:37",
+      "depart_time": "17:52",
+      "stay_min": "15"
+    },
+    {
+      "seq": 7,
+      "station_name": "洛阳龙门",
+      "arrive_time": "18:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 712.0,
+    "price_first": 359.0,
+    "price_second": 225.0,
+    "price_no_seat": 225.0
+  },
+  "fetched_at": "2026-05-01T08:41:10.213016"
+}

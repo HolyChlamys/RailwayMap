@@ -1,0 +1,80 @@
+{
+  "train_no": "G8988",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "盐城",
+  "depart_time": "08:25",
+  "arrive_time": "11:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "08:25",
+      "depart_time": "08:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州园区",
+      "arrive_time": "08:49",
+      "depart_time": "08:55",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "09:02",
+      "depart_time": "09:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "09:20",
+      "depart_time": "09:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "09:36",
+      "depart_time": "09:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州东",
+      "arrive_time": "10:18",
+      "depart_time": "10:26",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "阜宁南",
+      "arrive_time": "11:16",
+      "depart_time": "11:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "建湖",
+      "arrive_time": "11:26",
+      "depart_time": "11:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "盐城",
+      "arrive_time": "11:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 876.0,
+    "price_first": 411.0,
+    "price_second": 257.0,
+    "price_no_seat": 257.0
+  },
+  "fetched_at": "2026-05-01T09:05:18.762690"
+}

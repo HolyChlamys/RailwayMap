@@ -1,0 +1,57 @@
+{
+  "train_no": "G898",
+  "train_type": "G",
+  "depart_station": "香港西九龙",
+  "arrive_station": "北京西",
+  "depart_time": "20:25",
+  "arrive_time": "05:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香港西九龙",
+      "arrive_time": "20:25",
+      "depart_time": "20:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "20:50",
+      "depart_time": "20:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "21:25",
+      "depart_time": "21:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "23:37",
+      "depart_time": "23:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "石家庄",
+      "arrive_time": "05:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "北京西",
+      "arrive_time": "05:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 1248.0,
+    "price_no_seat": 1248.0
+  },
+  "fetched_at": "2026-05-01T09:05:05.553442"
+}

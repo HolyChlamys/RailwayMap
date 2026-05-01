@@ -1,0 +1,38 @@
+{
+  "train_no": "G4964",
+  "train_type": "G",
+  "depart_station": "赣州西",
+  "arrive_station": "杭州东",
+  "depart_time": "22:15",
+  "arrive_time": "00:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州西",
+      "arrive_time": "22:15",
+      "depart_time": "22:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌东",
+      "arrive_time": "00:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "00:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3073.0,
+    "price_first": 1420.0,
+    "price_second": 900.0,
+    "price_no_seat": 900.0
+  },
+  "fetched_at": "2026-05-01T07:21:10.793081"
+}

@@ -1,0 +1,29 @@
+{
+  "train_no": "C6894",
+  "train_type": "C",
+  "depart_station": "清城",
+  "arrive_station": "花都",
+  "depart_time": "19:32",
+  "arrive_time": "19:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清城",
+      "arrive_time": "19:32",
+      "depart_time": "19:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "花都",
+      "arrive_time": "19:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 24.0,
+    "price_no_seat": 24.0
+  },
+  "fetched_at": "2026-05-01T01:59:41.505061"
+}

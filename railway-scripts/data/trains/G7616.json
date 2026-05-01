@@ -1,0 +1,94 @@
+{
+  "train_no": "G7616",
+  "train_type": "G",
+  "depart_station": "瑞安",
+  "arrive_station": "合肥南",
+  "depart_time": "10:00",
+  "arrive_time": "14:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "瑞安",
+      "arrive_time": "10:00",
+      "depart_time": "10:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "温州南",
+      "arrive_time": "10:11",
+      "depart_time": "10:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "丽水",
+      "arrive_time": "10:48",
+      "depart_time": "10:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "永康南",
+      "arrive_time": "11:10",
+      "depart_time": "11:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "金华南",
+      "arrive_time": "11:31",
+      "depart_time": "11:35",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "12:24",
+      "depart_time": "12:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "德清",
+      "arrive_time": "12:39",
+      "depart_time": "12:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "宜兴",
+      "arrive_time": "13:06",
+      "depart_time": "13:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "南京南",
+      "arrive_time": "13:44",
+      "depart_time": "13:49",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "全椒",
+      "arrive_time": "14:09",
+      "depart_time": "14:13",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "合肥南",
+      "arrive_time": "14:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1251.0,
+    "price_first": 596.5,
+    "price_second": 374.5,
+    "price_no_seat": 374.5
+  },
+  "fetched_at": "2026-05-01T08:32:15.836930"
+}

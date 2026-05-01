@@ -1,0 +1,37 @@
+{
+  "train_no": "G4610",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "景德镇北",
+  "depart_time": "02:30",
+  "arrive_time": "05:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "02:30",
+      "depart_time": "02:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌东",
+      "arrive_time": "05:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "景德镇北",
+      "arrive_time": "05:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 931.0,
+    "price_second": 582.0,
+    "price_no_seat": 582.0
+  },
+  "fetched_at": "2026-05-01T07:10:23.620245"
+}

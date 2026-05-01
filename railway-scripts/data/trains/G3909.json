@@ -1,0 +1,44 @@
+{
+  "train_no": "G3909",
+  "train_type": "G",
+  "depart_station": "延吉西",
+  "arrive_station": "哈尔滨西",
+  "depart_time": "18:51",
+  "arrive_time": "22:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "延吉西",
+      "arrive_time": "18:51",
+      "depart_time": "18:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉林",
+      "arrive_time": "20:20",
+      "depart_time": "20:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "长春",
+      "arrive_time": "21:03",
+      "depart_time": "21:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨西",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 399.0,
+    "price_second": 249.0,
+    "price_no_seat": 249.0
+  },
+  "fetched_at": "2026-05-01T06:50:21.029904"
+}

@@ -1,0 +1,57 @@
+{
+  "train_no": "C3374",
+  "train_type": "C",
+  "depart_station": "成都南",
+  "arrive_station": "雅安",
+  "depart_time": "10:49",
+  "arrive_time": "12:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "10:49",
+      "depart_time": "10:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "崇州",
+      "arrive_time": "11:12",
+      "depart_time": "11:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "邛崃",
+      "arrive_time": "11:28",
+      "depart_time": "11:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "西来",
+      "arrive_time": "11:38",
+      "depart_time": "11:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "朝阳湖",
+      "arrive_time": "11:50",
+      "depart_time": "11:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "雅安",
+      "arrive_time": "12:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 58.0,
+    "price_no_seat": 58.0
+  },
+  "fetched_at": "2026-05-01T00:57:51.923498"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "G9776",
+  "train_type": "G",
+  "depart_station": "吉首东",
+  "arrive_station": "长沙南",
+  "depart_time": "21:57",
+  "arrive_time": "23:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "吉首东",
+      "arrive_time": "21:57",
+      "depart_time": "21:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀化南",
+      "arrive_time": "22:32",
+      "depart_time": "22:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙南",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 837.0,
+    "price_first": 383.0,
+    "price_second": 240.0,
+    "price_no_seat": 240.0
+  },
+  "fetched_at": "2026-05-01T09:23:54.598440"
+}

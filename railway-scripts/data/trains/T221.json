@@ -1,0 +1,112 @@
+{
+  "train_no": "T221",
+  "train_type": "T",
+  "depart_station": "合肥",
+  "arrive_station": "广州东",
+  "depart_time": "18:50",
+  "arrive_time": "12:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桐城",
+      "arrive_time": "20:29",
+      "depart_time": "20:34",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "怀宁",
+      "arrive_time": "21:11",
+      "depart_time": "21:16",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "天柱山",
+      "arrive_time": "21:37",
+      "depart_time": "21:43",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "太湖",
+      "arrive_time": "22:09",
+      "depart_time": "22:14",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "九江",
+      "arrive_time": "23:55",
+      "depart_time": "00:02",
+      "stay_min": "1433"
+    },
+    {
+      "seq": 7,
+      "station_name": "南昌",
+      "arrive_time": "01:21",
+      "depart_time": "01:50",
+      "stay_min": "29"
+    },
+    {
+      "seq": 8,
+      "station_name": "吉安",
+      "arrive_time": "04:08",
+      "depart_time": "04:12",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "赣州",
+      "arrive_time": "06:05",
+      "depart_time": "06:39",
+      "stay_min": "34"
+    },
+    {
+      "seq": 10,
+      "station_name": "大余",
+      "arrive_time": "07:27",
+      "depart_time": "07:31",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "始兴",
+      "arrive_time": "08:27",
+      "depart_time": "08:33",
+      "stay_min": "6"
+    },
+    {
+      "seq": 12,
+      "station_name": "韶关东",
+      "arrive_time": "09:20",
+      "depart_time": "09:28",
+      "stay_min": "8"
+    },
+    {
+      "seq": 13,
+      "station_name": "广州白云",
+      "arrive_time": "12:04",
+      "depart_time": "12:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 14,
+      "station_name": "广州东",
+      "arrive_time": "12:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 156.5
+  },
+  "fetched_at": "2026-05-01T11:23:06.930169"
+}

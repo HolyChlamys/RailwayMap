@@ -1,0 +1,79 @@
+{
+  "train_no": "D1059",
+  "train_type": "D",
+  "depart_station": "清河",
+  "arrive_station": "巴彦淖尔",
+  "depart_time": "13:32",
+  "arrive_time": "18:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清河",
+      "arrive_time": "13:32",
+      "depart_time": "13:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀来",
+      "arrive_time": "14:16",
+      "depart_time": "14:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "张家口",
+      "arrive_time": "14:47",
+      "depart_time": "14:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "乌兰察布",
+      "arrive_time": "15:40",
+      "depart_time": "15:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "呼和浩特东",
+      "arrive_time": "16:25",
+      "depart_time": "16:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "察素齐",
+      "arrive_time": "16:52",
+      "depart_time": "16:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "包头",
+      "arrive_time": "17:40",
+      "depart_time": "17:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "乌拉特前旗",
+      "arrive_time": "18:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "18:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 622.0,
+    "price_second": 387.5,
+    "price_no_seat": 387.5
+  },
+  "fetched_at": "2026-05-01T02:56:51.646828"
+}

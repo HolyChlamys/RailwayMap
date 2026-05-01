@@ -1,0 +1,52 @@
+{
+  "train_no": "G4852",
+  "train_type": "G",
+  "depart_station": "南宁东",
+  "arrive_station": "贵阳北",
+  "depart_time": "21:10",
+  "arrive_time": "23:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "21:10",
+      "depart_time": "21:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁北",
+      "arrive_time": "21:30",
+      "depart_time": "21:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "都匀东",
+      "arrive_time": "22:58",
+      "depart_time": "22:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳",
+      "arrive_time": "23:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "23:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 965.0,
+    "price_first": 444.0,
+    "price_second": 277.0,
+    "price_no_seat": 277.0
+  },
+  "fetched_at": "2026-05-01T07:17:47.156791"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "C4406",
+  "train_type": "C",
+  "depart_station": "阆中",
+  "arrive_station": "成都东",
+  "depart_time": "23:10",
+  "arrive_time": "01:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阆中",
+      "arrive_time": "23:10",
+      "depart_time": "23:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南充北",
+      "arrive_time": "23:50",
+      "depart_time": "23:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "遂宁",
+      "arrive_time": "00:29",
+      "depart_time": "00:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "成都东",
+      "arrive_time": "01:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 153.0,
+    "price_second": 96.0,
+    "price_no_seat": 96.0
+  },
+  "fetched_at": "2026-05-01T01:15:01.879325"
+}

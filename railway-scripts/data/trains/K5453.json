@@ -1,0 +1,28 @@
+{
+  "train_no": "K5453",
+  "train_type": "K",
+  "depart_station": "安康",
+  "arrive_station": "宣汉",
+  "depart_time": "14:40",
+  "arrive_time": "14:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安康",
+      "arrive_time": "14:40",
+      "depart_time": "14:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宣汉",
+      "arrive_time": "14:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T10:10:50.848096"
+}

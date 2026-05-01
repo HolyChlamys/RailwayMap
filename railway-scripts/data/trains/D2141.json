@@ -1,0 +1,114 @@
+{
+  "train_no": "D2141",
+  "train_type": "D",
+  "depart_station": "济南西",
+  "arrive_station": "扬州",
+  "depart_time": "09:45",
+  "arrive_time": "16:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "09:45",
+      "depart_time": "09:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南",
+      "arrive_time": "10:01",
+      "depart_time": "10:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "淄博",
+      "arrive_time": "10:49",
+      "depart_time": "10:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "潍坊",
+      "arrive_time": "11:28",
+      "depart_time": "11:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "青岛西",
+      "arrive_time": "12:33",
+      "depart_time": "12:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "日照西",
+      "arrive_time": "13:04",
+      "depart_time": "13:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "连云港",
+      "arrive_time": "13:49",
+      "depart_time": "13:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "灌云",
+      "arrive_time": "14:15",
+      "depart_time": "14:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "灌南",
+      "arrive_time": "14:27",
+      "depart_time": "14:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "涟水",
+      "arrive_time": "14:42",
+      "depart_time": "14:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "淮安东",
+      "arrive_time": "14:56",
+      "depart_time": "14:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "宝应",
+      "arrive_time": "15:13",
+      "depart_time": "15:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "高邮北",
+      "arrive_time": "15:25",
+      "depart_time": "15:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "扬州",
+      "arrive_time": "16:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 556.0,
+    "price_second": 345.0,
+    "price_no_seat": 345.0
+  },
+  "fetched_at": "2026-05-01T03:10:45.394752"
+}

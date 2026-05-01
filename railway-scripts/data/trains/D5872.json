@@ -1,0 +1,93 @@
+{
+  "train_no": "D5872",
+  "train_type": "D",
+  "depart_station": "咸宁南",
+  "arrive_station": "阳新",
+  "depart_time": "08:36",
+  "arrive_time": "10:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "咸宁南",
+      "arrive_time": "08:36",
+      "depart_time": "08:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贺胜桥东",
+      "arrive_time": "08:46",
+      "depart_time": "08:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "山坡东",
+      "arrive_time": "08:54",
+      "depart_time": "08:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "纸坊东",
+      "arrive_time": "09:08",
+      "depart_time": "09:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "庙山",
+      "arrive_time": "09:16",
+      "depart_time": "09:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "武汉东",
+      "arrive_time": "09:32",
+      "depart_time": "09:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "鄂州",
+      "arrive_time": "09:59",
+      "depart_time": "10:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "黄石北",
+      "arrive_time": "10:14",
+      "depart_time": "10:23",
+      "stay_min": "9"
+    },
+    {
+      "seq": 9,
+      "station_name": "大冶北",
+      "arrive_time": "10:31",
+      "depart_time": "10:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "白沙铺",
+      "arrive_time": "10:42",
+      "depart_time": "10:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "阳新",
+      "arrive_time": "10:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 160.0,
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T04:12:55.352558"
+}

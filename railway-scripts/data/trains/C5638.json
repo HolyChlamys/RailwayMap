@@ -1,0 +1,73 @@
+{
+  "train_no": "C5638",
+  "train_type": "C",
+  "depart_station": "宜昌北",
+  "arrive_station": "汉口",
+  "depart_time": "18:52",
+  "arrive_time": "20:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌北",
+      "arrive_time": "18:52",
+      "depart_time": "18:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "当阳西",
+      "arrive_time": "19:05",
+      "depart_time": "19:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "荆门西",
+      "arrive_time": "19:21",
+      "depart_time": "19:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "钟祥南",
+      "arrive_time": "19:39",
+      "depart_time": "19:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "京山南",
+      "arrive_time": "19:55",
+      "depart_time": "19:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "天门",
+      "arrive_time": "20:08",
+      "depart_time": "20:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "汉川北",
+      "arrive_time": "20:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "汉口",
+      "arrive_time": "20:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 766.0,
+    "price_first": 350.0,
+    "price_second": 219.0,
+    "price_no_seat": 219.0
+  },
+  "fetched_at": "2026-05-01T01:36:11.781213"
+}

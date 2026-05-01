@@ -1,0 +1,44 @@
+{
+  "train_no": "C7848",
+  "train_type": "C",
+  "depart_station": "长沙",
+  "arrive_station": "常德",
+  "depart_time": "20:50",
+  "arrive_time": "21:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "20:50",
+      "depart_time": "20:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开福寺",
+      "arrive_time": "20:57",
+      "depart_time": "20:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "益阳南",
+      "arrive_time": "21:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "常德",
+      "arrive_time": "21:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 166.0,
+    "price_second": 103.0,
+    "price_no_seat": 103.0
+  },
+  "fetched_at": "2026-05-01T02:26:03.988040"
+}

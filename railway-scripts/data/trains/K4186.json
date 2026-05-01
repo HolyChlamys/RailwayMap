@@ -1,0 +1,63 @@
+{
+  "train_no": "K4186",
+  "train_type": "K",
+  "depart_station": "福州",
+  "arrive_station": "南充",
+  "depart_time": "07:56",
+  "arrive_time": "17:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三明北",
+      "arrive_time": "13:04",
+      "depart_time": "13:10",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌",
+      "arrive_time": "18:40",
+      "depart_time": "19:05",
+      "stay_min": "25"
+    },
+    {
+      "seq": 4,
+      "station_name": "安康",
+      "arrive_time": "12:05",
+      "depart_time": "12:13",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "达州",
+      "arrive_time": "15:43",
+      "depart_time": "15:53",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "土溪",
+      "arrive_time": "16:27",
+      "depart_time": "16:38",
+      "stay_min": "11"
+    },
+    {
+      "seq": 7,
+      "station_name": "南充",
+      "arrive_time": "17:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 240.0
+  },
+  "fetched_at": "2026-05-01T09:49:45.914968"
+}

@@ -1,0 +1,107 @@
+{
+  "train_no": "D2108",
+  "train_type": "D",
+  "depart_station": "济南东",
+  "arrive_station": "南京南",
+  "depart_time": "15:44",
+  "arrive_time": "21:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "15:44",
+      "depart_time": "15:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潍坊北",
+      "arrive_time": "16:35",
+      "depart_time": "16:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "青岛机场",
+      "arrive_time": "17:07",
+      "depart_time": "17:15",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "青岛西",
+      "arrive_time": "17:41",
+      "depart_time": "17:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "日照西",
+      "arrive_time": "18:13",
+      "depart_time": "18:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "赣榆",
+      "arrive_time": "18:43",
+      "depart_time": "18:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "连云港",
+      "arrive_time": "19:02",
+      "depart_time": "19:07",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "灌云",
+      "arrive_time": "19:29",
+      "depart_time": "19:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "灌南",
+      "arrive_time": "19:41",
+      "depart_time": "19:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "淮安东",
+      "arrive_time": "20:04",
+      "depart_time": "20:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "扬州东",
+      "arrive_time": "20:45",
+      "depart_time": "20:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "镇江",
+      "arrive_time": "21:17",
+      "depart_time": "21:23",
+      "stay_min": "6"
+    },
+    {
+      "seq": 13,
+      "station_name": "南京南",
+      "arrive_time": "21:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 654.0,
+    "price_second": 409.0,
+    "price_no_seat": 409.0
+  },
+  "fetched_at": "2026-05-01T03:10:10.515814"
+}

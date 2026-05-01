@@ -1,0 +1,57 @@
+{
+  "train_no": "C7644",
+  "train_type": "C",
+  "depart_station": "珠海",
+  "arrive_station": "三水南",
+  "depart_time": "12:30",
+  "arrive_time": "13:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海",
+      "arrive_time": "12:30",
+      "depart_time": "12:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "唐家湾",
+      "arrive_time": "12:46",
+      "depart_time": "12:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "小榄",
+      "arrive_time": "13:06",
+      "depart_time": "13:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "顺德",
+      "arrive_time": "13:21",
+      "depart_time": "13:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "13:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "三水南",
+      "arrive_time": "13:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 93.0,
+    "price_no_seat": 93.0
+  },
+  "fetched_at": "2026-05-01T02:20:02.597697"
+}

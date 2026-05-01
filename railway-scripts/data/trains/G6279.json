@@ -1,0 +1,38 @@
+{
+  "train_no": "G6279",
+  "train_type": "G",
+  "depart_station": "天津西",
+  "arrive_station": "邯郸东",
+  "depart_time": "05:40",
+  "arrive_time": "07:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津西",
+      "arrive_time": "05:40",
+      "depart_time": "05:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "07:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "邯郸东",
+      "arrive_time": "07:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 796.0,
+    "price_first": 374.5,
+    "price_second": 234.5,
+    "price_no_seat": 234.5
+  },
+  "fetched_at": "2026-05-01T07:54:05.371938"
+}

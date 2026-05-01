@@ -1,0 +1,52 @@
+{
+  "train_no": "G9110",
+  "train_type": "G",
+  "depart_station": "周口东",
+  "arrive_station": "郑州东",
+  "depart_time": "17:04",
+  "arrive_time": "18:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "周口东",
+      "arrive_time": "17:04",
+      "depart_time": "17:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西华",
+      "arrive_time": "17:16",
+      "depart_time": "17:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "许昌北",
+      "arrive_time": "17:46",
+      "depart_time": "17:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新郑机场",
+      "arrive_time": "18:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "18:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 245.0,
+    "price_first": 130.0,
+    "price_second": 82.0,
+    "price_no_seat": 82.0
+  },
+  "fetched_at": "2026-05-01T09:06:09.959886"
+}

@@ -1,0 +1,115 @@
+{
+  "train_no": "G501",
+  "train_type": "G",
+  "depart_station": "北京西",
+  "arrive_station": "长沙南",
+  "depart_time": "08:42",
+  "arrive_time": "15:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "08:42",
+      "depart_time": "08:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高碑店东",
+      "arrive_time": "09:30",
+      "depart_time": "09:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "定州东",
+      "arrive_time": "10:01",
+      "depart_time": "10:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "石家庄",
+      "arrive_time": "10:26",
+      "depart_time": "10:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "邯郸东",
+      "arrive_time": "11:07",
+      "depart_time": "11:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "鹤壁东",
+      "arrive_time": "11:37",
+      "depart_time": "11:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "新乡东",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "郑州东",
+      "arrive_time": "12:33",
+      "depart_time": "12:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "许昌东",
+      "arrive_time": "12:57",
+      "depart_time": "12:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "驻马店西",
+      "arrive_time": "13:29",
+      "depart_time": "13:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "武汉",
+      "arrive_time": "14:37",
+      "depart_time": "14:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "咸宁北",
+      "arrive_time": "15:03",
+      "depart_time": "15:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 13,
+      "station_name": "岳阳东",
+      "arrive_time": "15:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 14,
+      "station_name": "长沙南",
+      "arrive_time": "15:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2721.0,
+    "price_first": 1244.0,
+    "price_second": 778.0,
+    "price_no_seat": 778.0
+  },
+  "fetched_at": "2026-05-01T07:22:30.199174"
+}

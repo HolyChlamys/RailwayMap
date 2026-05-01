@@ -1,0 +1,80 @@
+{
+  "train_no": "C3143",
+  "train_type": "C",
+  "depart_station": "南京",
+  "arrive_station": "连云港",
+  "depart_time": "07:05",
+  "arrive_time": "10:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "07:05",
+      "depart_time": "07:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "镇江",
+      "arrive_time": "07:25",
+      "depart_time": "07:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "大港南",
+      "arrive_time": "07:43",
+      "depart_time": "07:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "扬州东",
+      "arrive_time": "08:03",
+      "depart_time": "08:21",
+      "stay_min": "18"
+    },
+    {
+      "seq": 5,
+      "station_name": "高邮",
+      "arrive_time": "08:36",
+      "depart_time": "08:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "淮安东",
+      "arrive_time": "09:08",
+      "depart_time": "09:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "涟水",
+      "arrive_time": "09:21",
+      "depart_time": "09:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "灌云",
+      "arrive_time": "09:43",
+      "depart_time": "09:49",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "连云港",
+      "arrive_time": "10:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 640.0,
+    "price_first": 306.0,
+    "price_second": 192.0,
+    "price_no_seat": 192.0
+  },
+  "fetched_at": "2026-05-01T00:52:16.398591"
+}

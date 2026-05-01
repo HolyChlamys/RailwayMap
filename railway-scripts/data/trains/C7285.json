@@ -1,0 +1,37 @@
+{
+  "train_no": "C7285",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "湛江西",
+  "depart_time": "22:29",
+  "arrive_time": "00:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "22:29",
+      "depart_time": "22:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阳江",
+      "arrive_time": "00:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "湛江西",
+      "arrive_time": "00:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 404.0,
+    "price_second": 260.0,
+    "price_no_seat": 260.0
+  },
+  "fetched_at": "2026-05-01T02:11:11.246372"
+}

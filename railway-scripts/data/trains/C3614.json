@@ -1,0 +1,66 @@
+{
+  "train_no": "C3614",
+  "train_type": "C",
+  "depart_station": "横店",
+  "arrive_station": "上海虹桥",
+  "depart_time": "07:48",
+  "arrive_time": "09:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "横店",
+      "arrive_time": "07:48",
+      "depart_time": "07:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "义乌",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "浦江",
+      "arrive_time": "08:16",
+      "depart_time": "08:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州西",
+      "arrive_time": "08:57",
+      "depart_time": "08:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "湖州东",
+      "arrive_time": "09:27",
+      "depart_time": "09:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "练塘",
+      "arrive_time": "09:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "上海虹桥",
+      "arrive_time": "09:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 842.0,
+    "price_first": 384.0,
+    "price_second": 242.0,
+    "price_no_seat": 242.0
+  },
+  "fetched_at": "2026-05-01T01:01:02.704560"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "D9629",
+  "train_type": "D",
+  "depart_station": "九江",
+  "arrive_station": "南昌西",
+  "depart_time": "20:17",
+  "arrive_time": "20:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "九江",
+      "arrive_time": "20:17",
+      "depart_time": "20:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "共青城",
+      "arrive_time": "20:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌西",
+      "arrive_time": "20:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 70.0,
+    "price_second": 44.0,
+    "price_no_seat": 44.0
+  },
+  "fetched_at": "2026-05-01T05:20:26.154224"
+}

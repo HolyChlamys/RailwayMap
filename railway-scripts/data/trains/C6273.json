@@ -1,0 +1,52 @@
+{
+  "train_no": "C6273",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "峨眉山",
+  "depart_time": "06:34",
+  "arrive_time": "07:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "06:34",
+      "depart_time": "06:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "双流机场",
+      "arrive_time": "06:51",
+      "depart_time": "06:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "眉山东",
+      "arrive_time": "07:13",
+      "depart_time": "07:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "乐山",
+      "arrive_time": "07:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "峨眉山",
+      "arrive_time": "07:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 194.0,
+    "price_first": 104.0,
+    "price_second": 65.0,
+    "price_no_seat": 65.0
+  },
+  "fetched_at": "2026-05-01T01:48:01.213832"
+}

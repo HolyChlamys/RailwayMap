@@ -1,0 +1,38 @@
+{
+  "train_no": "G4979",
+  "train_type": "G",
+  "depart_station": "杭州西",
+  "arrive_station": "九江",
+  "depart_time": "03:10",
+  "arrive_time": "04:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "03:10",
+      "depart_time": "03:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄山北",
+      "arrive_time": "04:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "九江",
+      "arrive_time": "04:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 805.0,
+    "price_first": 398.0,
+    "price_second": 249.0,
+    "price_no_seat": 249.0
+  },
+  "fetched_at": "2026-05-01T07:21:35.654256"
+}

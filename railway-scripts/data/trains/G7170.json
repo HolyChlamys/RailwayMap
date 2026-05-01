@@ -1,0 +1,73 @@
+{
+  "train_no": "G7170",
+  "train_type": "G",
+  "depart_station": "亳州南",
+  "arrive_station": "上海虹桥",
+  "depart_time": "19:07",
+  "arrive_time": "23:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "亳州南",
+      "arrive_time": "19:07",
+      "depart_time": "19:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阜阳西",
+      "arrive_time": "19:34",
+      "depart_time": "19:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "淮南南",
+      "arrive_time": "20:09",
+      "depart_time": "20:14",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥",
+      "arrive_time": "20:43",
+      "depart_time": "20:47",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "21:42",
+      "depart_time": "21:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "镇江",
+      "arrive_time": "22:10",
+      "depart_time": "22:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "苏州",
+      "arrive_time": "22:56",
+      "depart_time": "22:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "上海虹桥",
+      "arrive_time": "23:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1351.0,
+    "price_first": 670.0,
+    "price_second": 418.0,
+    "price_no_seat": 418.0
+  },
+  "fetched_at": "2026-05-01T08:19:30.556567"
+}

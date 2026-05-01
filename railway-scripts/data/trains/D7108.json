@@ -1,0 +1,65 @@
+{
+  "train_no": "D7108",
+  "train_type": "D",
+  "depart_station": "广州东",
+  "arrive_station": "潮汕",
+  "depart_time": "19:10",
+  "arrive_time": "21:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "19:35",
+      "depart_time": "19:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "罗浮山",
+      "arrive_time": "19:55",
+      "depart_time": "19:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "惠州南",
+      "arrive_time": "20:13",
+      "depart_time": "20:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "20:49",
+      "depart_time": "20:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "普宁",
+      "arrive_time": "21:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "潮汕",
+      "arrive_time": "21:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 356.0,
+    "price_second": 230.0,
+    "price_no_seat": 230.0
+  },
+  "fetched_at": "2026-05-01T04:33:19.681044"
+}

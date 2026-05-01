@@ -1,0 +1,66 @@
+{
+  "train_no": "C3141",
+  "train_type": "C",
+  "depart_station": "连云港",
+  "arrive_station": "南京",
+  "depart_time": "20:04",
+  "arrive_time": "22:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "连云港",
+      "arrive_time": "20:04",
+      "depart_time": "20:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "灌南",
+      "arrive_time": "20:32",
+      "depart_time": "20:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "涟水",
+      "arrive_time": "20:47",
+      "depart_time": "20:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "淮安东",
+      "arrive_time": "21:01",
+      "depart_time": "21:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "扬州东",
+      "arrive_time": "21:43",
+      "depart_time": "21:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "镇江",
+      "arrive_time": "22:15",
+      "depart_time": "22:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京",
+      "arrive_time": "22:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 640.0,
+    "price_first": 306.0,
+    "price_second": 192.0,
+    "price_no_seat": 192.0
+  },
+  "fetched_at": "2026-05-01T00:52:13.140197"
+}

@@ -1,0 +1,79 @@
+{
+  "train_no": "D5785",
+  "train_type": "D",
+  "depart_station": "宜昌东",
+  "arrive_station": "阳新",
+  "depart_time": "16:09",
+  "arrive_time": "19:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "16:09",
+      "depart_time": "16:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枝江北",
+      "arrive_time": "16:28",
+      "depart_time": "16:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "荆州",
+      "arrive_time": "16:49",
+      "depart_time": "16:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "仙桃西",
+      "arrive_time": "17:23",
+      "depart_time": "17:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汉口",
+      "arrive_time": "18:09",
+      "depart_time": "18:17",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "武汉",
+      "arrive_time": "18:42",
+      "depart_time": "18:50",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "黄石北",
+      "arrive_time": "19:20",
+      "depart_time": "19:28",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "大冶北",
+      "arrive_time": "19:36",
+      "depart_time": "19:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "阳新",
+      "arrive_time": "19:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 329.0,
+    "price_second": 206.0,
+    "price_no_seat": 206.0
+  },
+  "fetched_at": "2026-05-01T04:11:12.280128"
+}

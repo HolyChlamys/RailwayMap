@@ -1,0 +1,66 @@
+{
+  "train_no": "G9732",
+  "train_type": "G",
+  "depart_station": "广州",
+  "arrive_station": "广州南",
+  "depart_time": "15:05",
+  "arrive_time": "03:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "15:05",
+      "depart_time": "15:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州白云",
+      "arrive_time": "15:15",
+      "depart_time": "15:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "清远",
+      "arrive_time": "15:45",
+      "depart_time": "15:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "00:01",
+      "depart_time": "00:48",
+      "stay_min": "47"
+    },
+    {
+      "seq": 5,
+      "station_name": "韶关",
+      "arrive_time": "16:17",
+      "depart_time": "16:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "耒阳西",
+      "arrive_time": "01:32",
+      "depart_time": "01:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "广州南",
+      "arrive_time": "03:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 424.0,
+    "price_first": 190.0,
+    "price_second": 121.0,
+    "price_no_seat": 121.0
+  },
+  "fetched_at": "2026-05-01T09:22:32.811684"
+}

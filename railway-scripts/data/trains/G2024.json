@@ -1,0 +1,87 @@
+{
+  "train_no": "G2024",
+  "train_type": "G",
+  "depart_station": "兰州西",
+  "arrive_station": "郑州东",
+  "depart_time": "15:40",
+  "arrive_time": "20:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "15:40",
+      "depart_time": "15:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "定西北",
+      "arrive_time": "16:12",
+      "depart_time": "16:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "秦安",
+      "arrive_time": "16:58",
+      "depart_time": "16:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "天水南",
+      "arrive_time": "17:19",
+      "depart_time": "17:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宝鸡南",
+      "arrive_time": "18:01",
+      "depart_time": "18:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "岐山",
+      "arrive_time": "18:16",
+      "depart_time": "18:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "西安北",
+      "arrive_time": "19:05",
+      "depart_time": "19:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "灵宝西",
+      "arrive_time": "19:46",
+      "depart_time": "19:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "洛阳龙门",
+      "arrive_time": "20:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "郑州东",
+      "arrive_time": "20:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1841.0,
+    "price_first": 842.0,
+    "price_second": 526.0,
+    "price_no_seat": 526.0
+  },
+  "fetched_at": "2026-05-01T05:59:34.196558"
+}

@@ -1,0 +1,35 @@
+{
+  "train_no": "Y759",
+  "train_type": "Y",
+  "depart_station": "大理",
+  "arrive_station": "丽江",
+  "depart_time": "13:40",
+  "arrive_time": "17:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "13:40",
+      "depart_time": "13:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹤庆",
+      "arrive_time": "17:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "丽江",
+      "arrive_time": "17:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 23.5
+  },
+  "fetched_at": "2026-05-01T11:38:07.988223"
+}

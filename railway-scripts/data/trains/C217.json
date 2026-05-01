@@ -1,0 +1,44 @@
+{
+  "train_no": "C217",
+  "train_type": "C",
+  "depart_station": "马鞍",
+  "arrive_station": "成都东",
+  "depart_time": "15:22",
+  "arrive_time": "16:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "马鞍",
+      "arrive_time": "15:22",
+      "depart_time": "15:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "仪陇",
+      "arrive_time": "15:47",
+      "depart_time": "15:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "蓬溪",
+      "arrive_time": "16:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "成都东",
+      "arrive_time": "16:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 178.0,
+    "price_second": 111.0,
+    "price_no_seat": 111.0
+  },
+  "fetched_at": "2026-05-01T00:30:54.623602"
+}

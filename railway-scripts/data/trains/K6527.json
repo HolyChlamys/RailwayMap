@@ -1,0 +1,54 @@
+{
+  "train_no": "K6527",
+  "train_type": "K",
+  "depart_station": "广州白云",
+  "arrive_station": "娄底",
+  "depart_time": "23:42",
+  "arrive_time": "09:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "23:42",
+      "depart_time": "23:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衡阳",
+      "arrive_time": "05:32",
+      "depart_time": "05:38",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "株洲",
+      "arrive_time": "07:04",
+      "depart_time": "07:24",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "湘潭",
+      "arrive_time": "07:49",
+      "depart_time": "07:55",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "湘乡",
+      "arrive_time": "08:23",
+      "depart_time": "08:28",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "娄底",
+      "arrive_time": "09:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T10:21:49.209548"
+}

@@ -1,0 +1,73 @@
+{
+  "train_no": "G2768",
+  "train_type": "G",
+  "depart_station": "深圳",
+  "arrive_station": "婺源",
+  "depart_time": "14:41",
+  "arrive_time": "20:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "14:41",
+      "depart_time": "14:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠州北",
+      "arrive_time": "15:18",
+      "depart_time": "15:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "赣州西",
+      "arrive_time": "16:46",
+      "depart_time": "16:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "吉安西",
+      "arrive_time": "17:34",
+      "depart_time": "17:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌东",
+      "arrive_time": "18:44",
+      "depart_time": "18:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "鹰潭北",
+      "arrive_time": "19:33",
+      "depart_time": "19:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "上饶",
+      "arrive_time": "20:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "婺源",
+      "arrive_time": "20:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2239.5,
+    "price_first": 1068.5,
+    "price_second": 674.5,
+    "price_no_seat": 674.5
+  },
+  "fetched_at": "2026-05-01T06:19:47.178514"
+}

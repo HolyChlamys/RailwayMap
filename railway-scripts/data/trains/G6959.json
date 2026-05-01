@@ -1,0 +1,73 @@
+{
+  "train_no": "G6959",
+  "train_type": "G",
+  "depart_station": "济南西",
+  "arrive_station": "烟台",
+  "depart_time": "06:28",
+  "arrive_time": "08:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "06:28",
+      "depart_time": "06:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南东",
+      "arrive_time": "06:56",
+      "depart_time": "06:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莱州",
+      "arrive_time": "08:01",
+      "depart_time": "08:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "招远",
+      "arrive_time": "08:19",
+      "depart_time": "08:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "龙口市",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "蓬莱",
+      "arrive_time": "08:46",
+      "depart_time": "08:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "烟台西",
+      "arrive_time": "08:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "烟台",
+      "arrive_time": "08:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 890.0,
+    "price_first": 432.0,
+    "price_second": 269.0,
+    "price_no_seat": 269.0
+  },
+  "fetched_at": "2026-05-01T08:13:43.004234"
+}

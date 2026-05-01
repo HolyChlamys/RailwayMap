@@ -1,0 +1,52 @@
+{
+  "train_no": "G3665",
+  "train_type": "G",
+  "depart_station": "北京朝阳",
+  "arrive_station": "赤峰",
+  "depart_time": "09:42",
+  "arrive_time": "11:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京朝阳",
+      "arrive_time": "09:42",
+      "depart_time": "09:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴隆县西",
+      "arrive_time": "10:30",
+      "depart_time": "10:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "平泉北",
+      "arrive_time": "11:05",
+      "depart_time": "11:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宁城",
+      "arrive_time": "11:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "赤峰",
+      "arrive_time": "11:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 875.0,
+    "price_first": 415.0,
+    "price_second": 260.0,
+    "price_no_seat": 260.0
+  },
+  "fetched_at": "2026-05-01T06:44:19.207927"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "D6062",
+  "train_type": "D",
+  "depart_station": "聊城西",
+  "arrive_station": "荣成",
+  "depart_time": "17:37",
+  "arrive_time": "22:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "聊城西",
+      "arrive_time": "17:37",
+      "depart_time": "17:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南",
+      "arrive_time": "18:18",
+      "depart_time": "18:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "章丘",
+      "arrive_time": "18:46",
+      "depart_time": "18:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博",
+      "arrive_time": "19:11",
+      "depart_time": "19:20",
+      "stay_min": "9"
+    },
+    {
+      "seq": 5,
+      "station_name": "即墨北",
+      "arrive_time": "20:44",
+      "depart_time": "20:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "莱西",
+      "arrive_time": "21:02",
+      "depart_time": "21:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "海阳",
+      "arrive_time": "21:27",
+      "depart_time": "21:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "荣成",
+      "arrive_time": "22:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 479.0,
+    "price_second": 300.0,
+    "price_no_seat": 300.0
+  },
+  "fetched_at": "2026-05-01T04:16:04.666624"
+}

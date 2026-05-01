@@ -1,0 +1,28 @@
+{
+  "train_no": "K6640",
+  "train_type": "K",
+  "depart_station": "深圳",
+  "arrive_station": "衡阳",
+  "depart_time": "10:45",
+  "arrive_time": "10:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "10:45",
+      "depart_time": "10:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衡阳",
+      "arrive_time": "10:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 106.0
+  },
+  "fetched_at": "2026-05-01T10:24:34.795974"
+}

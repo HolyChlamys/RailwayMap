@@ -1,0 +1,49 @@
+{
+  "train_no": "K8373",
+  "train_type": "K",
+  "depart_station": "徐州",
+  "arrive_station": "连云港东",
+  "depart_time": "12:10",
+  "arrive_time": "14:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "徐州",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邳州东",
+      "arrive_time": "13:10",
+      "depart_time": "13:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新沂",
+      "arrive_time": "13:39",
+      "depart_time": "13:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "连云港",
+      "arrive_time": "14:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "连云港东",
+      "arrive_time": "14:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T10:38:57.398374"
+}

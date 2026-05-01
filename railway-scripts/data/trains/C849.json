@@ -1,0 +1,66 @@
+{
+  "train_no": "C849",
+  "train_type": "C",
+  "depart_station": "乌鲁木齐南",
+  "arrive_station": "伊宁",
+  "depart_time": "17:05",
+  "arrive_time": "21:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐南",
+      "arrive_time": "17:05",
+      "depart_time": "17:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "17:33",
+      "depart_time": "17:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石河子",
+      "arrive_time": "18:43",
+      "depart_time": "18:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沙湾市",
+      "arrive_time": "19:04",
+      "depart_time": "19:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "奎屯",
+      "arrive_time": "19:38",
+      "depart_time": "19:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "精河南",
+      "arrive_time": "21:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "伊宁",
+      "arrive_time": "21:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 519.0,
+    "price_first": 237.0,
+    "price_second": 148.0,
+    "price_no_seat": 148.0
+  },
+  "fetched_at": "2026-05-01T02:33:49.274420"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "G153",
+  "train_type": "G",
+  "depart_station": "北京朝阳",
+  "arrive_station": "沈阳南",
+  "depart_time": "17:27",
+  "arrive_time": "20:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京朝阳",
+      "arrive_time": "17:27",
+      "depart_time": "17:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "承德南",
+      "arrive_time": "18:18",
+      "depart_time": "18:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沈阳",
+      "arrive_time": "20:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳南",
+      "arrive_time": "20:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1378.0,
+    "price_first": 630.0,
+    "price_second": 394.0,
+    "price_no_seat": 394.0
+  },
+  "fetched_at": "2026-05-01T05:45:42.224666"
+}

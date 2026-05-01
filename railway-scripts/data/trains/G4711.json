@@ -1,0 +1,45 @@
+{
+  "train_no": "G4711",
+  "train_type": "G",
+  "depart_station": "北京西",
+  "arrive_station": "信阳东",
+  "depart_time": "23:45",
+  "arrive_time": "02:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "23:45",
+      "depart_time": "23:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "01:00",
+      "depart_time": "01:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "02:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "信阳东",
+      "arrive_time": "02:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1875.0,
+    "price_first": 857.0,
+    "price_second": 536.0,
+    "price_no_seat": 536.0
+  },
+  "fetched_at": "2026-05-01T07:13:27.837352"
+}

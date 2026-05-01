@@ -1,0 +1,49 @@
+{
+  "train_no": "K8034",
+  "train_type": "K",
+  "depart_station": "郑州",
+  "arrive_station": "商丘",
+  "depart_time": "10:58",
+  "arrive_time": "12:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州",
+      "arrive_time": "10:58",
+      "depart_time": "10:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开封",
+      "arrive_time": "11:47",
+      "depart_time": "11:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兰考",
+      "arrive_time": "12:19",
+      "depart_time": "12:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "民权",
+      "arrive_time": "12:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "商丘",
+      "arrive_time": "12:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:34:04.014268"
+}

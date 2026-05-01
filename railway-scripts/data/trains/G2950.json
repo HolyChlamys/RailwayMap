@@ -1,0 +1,45 @@
+{
+  "train_no": "G2950",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "桂林北",
+  "depart_time": "17:56",
+  "arrive_time": "19:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "17:56",
+      "depart_time": "17:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肇庆东",
+      "arrive_time": "18:32",
+      "depart_time": "18:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阳朔",
+      "arrive_time": "19:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "桂林北",
+      "arrive_time": "19:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 827.0,
+    "price_first": 378.0,
+    "price_second": 236.0,
+    "price_no_seat": 236.0
+  },
+  "fetched_at": "2026-05-01T06:24:36.302806"
+}

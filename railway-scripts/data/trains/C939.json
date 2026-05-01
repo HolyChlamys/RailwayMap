@@ -1,0 +1,43 @@
+{
+  "train_no": "C939",
+  "train_type": "C",
+  "depart_station": "榆林",
+  "arrive_station": "西安",
+  "depart_time": "23:51",
+  "arrive_time": "03:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "榆林",
+      "arrive_time": "23:51",
+      "depart_time": "23:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绥德",
+      "arrive_time": "00:49",
+      "depart_time": "00:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "延安",
+      "arrive_time": "03:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安",
+      "arrive_time": "03:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 184.0,
+    "price_no_seat": 184.0
+  },
+  "fetched_at": "2026-05-01T02:46:02.845613"
+}

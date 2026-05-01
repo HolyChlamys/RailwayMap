@@ -1,0 +1,51 @@
+{
+  "train_no": "D6880",
+  "train_type": "D",
+  "depart_station": "汉中",
+  "arrive_station": "西安北",
+  "depart_time": "08:16",
+  "arrive_time": "09:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉中",
+      "arrive_time": "08:16",
+      "depart_time": "08:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "城固北",
+      "arrive_time": "08:34",
+      "depart_time": "08:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄠邑",
+      "arrive_time": "09:27",
+      "depart_time": "09:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安西",
+      "arrive_time": "09:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西安北",
+      "arrive_time": "09:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 186.0,
+    "price_second": 116.0,
+    "price_no_seat": 116.0
+  },
+  "fetched_at": "2026-05-01T04:30:19.363962"
+}

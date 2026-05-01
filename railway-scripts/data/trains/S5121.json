@@ -1,0 +1,33 @@
+{
+  "train_no": "S5121",
+  "train_type": "S",
+  "depart_station": "犀浦",
+  "arrive_station": "离堆公园",
+  "depart_time": "17:02",
+  "arrive_time": "17:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "犀浦",
+      "arrive_time": "17:02",
+      "depart_time": "17:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "迎宾路",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "离堆公园",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:01:58.845879"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "D6344",
+  "train_type": "D",
+  "depart_station": "南昌西",
+  "arrive_station": "九江",
+  "depart_time": "07:28",
+  "arrive_time": "08:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "07:28",
+      "depart_time": "07:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "共青城",
+      "arrive_time": "07:58",
+      "depart_time": "07:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "德安",
+      "arrive_time": "08:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "九江",
+      "arrive_time": "08:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 70.0,
+    "price_second": 44.0,
+    "price_no_seat": 44.0
+  },
+  "fetched_at": "2026-05-01T04:21:32.226173"
+}

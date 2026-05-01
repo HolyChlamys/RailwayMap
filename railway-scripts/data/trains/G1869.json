@@ -1,0 +1,115 @@
+{
+  "train_no": "G1869",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "杭州",
+  "depart_time": "07:42",
+  "arrive_time": "13:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "07:42",
+      "depart_time": "07:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开封北",
+      "arrive_time": "08:02",
+      "depart_time": "08:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "民权北",
+      "arrive_time": "08:27",
+      "depart_time": "08:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "商丘",
+      "arrive_time": "08:45",
+      "depart_time": "08:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "亳州南",
+      "arrive_time": "09:10",
+      "depart_time": "09:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "阜阳西",
+      "arrive_time": "09:40",
+      "depart_time": "09:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "颍上北",
+      "arrive_time": "09:58",
+      "depart_time": "10:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "淮南南",
+      "arrive_time": "10:22",
+      "depart_time": "10:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "合肥南",
+      "arrive_time": "11:02",
+      "depart_time": "11:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "芜湖",
+      "arrive_time": "11:43",
+      "depart_time": "11:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "宣城",
+      "arrive_time": "12:11",
+      "depart_time": "12:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "安吉",
+      "arrive_time": "12:36",
+      "depart_time": "12:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "湖州",
+      "arrive_time": "12:56",
+      "depart_time": "12:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "杭州",
+      "arrive_time": "13:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1718.5,
+    "price_first": 877.5,
+    "price_second": 546.5,
+    "price_no_seat": 546.5
+  },
+  "fetched_at": "2026-05-01T05:55:10.775894"
+}

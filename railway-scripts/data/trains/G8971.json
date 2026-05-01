@@ -1,0 +1,80 @@
+{
+  "train_no": "G8971",
+  "train_type": "G",
+  "depart_station": "杭州西",
+  "arrive_station": "合肥南",
+  "depart_time": "07:37",
+  "arrive_time": "11:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "07:37",
+      "depart_time": "07:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "富阳西",
+      "arrive_time": "07:50",
+      "depart_time": "07:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "建德",
+      "arrive_time": "08:17",
+      "depart_time": "08:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "黄山北",
+      "arrive_time": "09:03",
+      "depart_time": "09:07",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "黄山西",
+      "arrive_time": "09:30",
+      "depart_time": "09:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "池州",
+      "arrive_time": "09:58",
+      "depart_time": "10:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "安庆",
+      "arrive_time": "10:18",
+      "depart_time": "10:23",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "庐江西",
+      "arrive_time": "10:54",
+      "depart_time": "10:57",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "合肥南",
+      "arrive_time": "11:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1097.0,
+    "price_first": 520.0,
+    "price_second": 325.0,
+    "price_no_seat": 325.0
+  },
+  "fetched_at": "2026-05-01T09:04:55.677275"
+}

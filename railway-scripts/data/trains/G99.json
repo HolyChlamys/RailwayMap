@@ -1,0 +1,101 @@
+{
+  "train_no": "G99",
+  "train_type": "G",
+  "depart_station": "长春西",
+  "arrive_station": "上海虹桥",
+  "depart_time": "11:10",
+  "arrive_time": "20:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春西",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "四平东",
+      "arrive_time": "11:36",
+      "depart_time": "11:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "铁岭西",
+      "arrive_time": "12:08",
+      "depart_time": "12:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳北",
+      "arrive_time": "12:27",
+      "depart_time": "12:30",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "盘锦北",
+      "arrive_time": "13:26",
+      "depart_time": "13:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "锦州南",
+      "arrive_time": "13:52",
+      "depart_time": "13:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "秦皇岛",
+      "arrive_time": "15:01",
+      "depart_time": "15:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "唐山",
+      "arrive_time": "15:42",
+      "depart_time": "15:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "天津西",
+      "arrive_time": "16:19",
+      "depart_time": "16:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "济南西",
+      "arrive_time": "17:26",
+      "depart_time": "17:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "南京南",
+      "arrive_time": "19:28",
+      "depart_time": "19:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "上海虹桥",
+      "arrive_time": "20:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3631.5,
+    "price_first": 1688.0,
+    "price_second": 1055.0,
+    "price_no_seat": 1055.0
+  },
+  "fetched_at": "2026-05-01T09:27:34.164969"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "C5076",
+  "train_type": "C",
+  "depart_station": "荆州",
+  "arrive_station": "汉口",
+  "depart_time": "07:59",
+  "arrive_time": "09:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荆州",
+      "arrive_time": "07:59",
+      "depart_time": "07:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潜江",
+      "arrive_time": "08:27",
+      "depart_time": "08:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "仙桃西",
+      "arrive_time": "08:39",
+      "depart_time": "08:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "天门南",
+      "arrive_time": "08:55",
+      "depart_time": "08:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汉川",
+      "arrive_time": "09:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "汉口",
+      "arrive_time": "09:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 317.0,
+    "price_first": 145.0,
+    "price_second": 91.0,
+    "price_no_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T01:25:58.273363"
+}

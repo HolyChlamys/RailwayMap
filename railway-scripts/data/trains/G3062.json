@@ -1,0 +1,87 @@
+{
+  "train_no": "G3062",
+  "train_type": "G",
+  "depart_station": "广州东",
+  "arrive_station": "九江",
+  "depart_time": "07:30",
+  "arrive_time": "12:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "07:54",
+      "depart_time": "07:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "08:24",
+      "depart_time": "08:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙川西",
+      "arrive_time": "08:59",
+      "depart_time": "08:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "信丰西",
+      "arrive_time": "09:42",
+      "depart_time": "09:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "赣州西",
+      "arrive_time": "10:05",
+      "depart_time": "10:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "吉安西",
+      "arrive_time": "10:53",
+      "depart_time": "10:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南昌西",
+      "arrive_time": "11:52",
+      "depart_time": "11:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "共青城",
+      "arrive_time": "12:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "九江",
+      "arrive_time": "12:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1864.5,
+    "price_first": 898.0,
+    "price_second": 569.0,
+    "price_no_seat": 569.0
+  },
+  "fetched_at": "2026-05-01T06:27:42.066776"
+}

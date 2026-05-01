@@ -1,0 +1,80 @@
+{
+  "train_no": "D1151",
+  "train_type": "D",
+  "depart_station": "清河",
+  "arrive_station": "石家庄",
+  "depart_time": "13:57",
+  "arrive_time": "19:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清河",
+      "arrive_time": "13:57",
+      "depart_time": "13:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东花园北",
+      "arrive_time": "14:25",
+      "depart_time": "14:31",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "怀来",
+      "arrive_time": "14:41",
+      "depart_time": "14:57",
+      "stay_min": "16"
+    },
+    {
+      "seq": 4,
+      "station_name": "下花园北",
+      "arrive_time": "15:08",
+      "depart_time": "15:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "宣化北",
+      "arrive_time": "15:21",
+      "depart_time": "15:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "张家口",
+      "arrive_time": "15:33",
+      "depart_time": "15:39",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "大同南",
+      "arrive_time": "16:34",
+      "depart_time": "16:39",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "太原",
+      "arrive_time": "18:03",
+      "depart_time": "18:23",
+      "stay_min": "20"
+    },
+    {
+      "seq": 9,
+      "station_name": "石家庄",
+      "arrive_time": "19:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1176.0,
+    "price_first": 583.0,
+    "price_second": 364.0,
+    "price_no_seat": 364.0
+  },
+  "fetched_at": "2026-05-01T02:58:09.132863"
+}

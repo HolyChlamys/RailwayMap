@@ -1,0 +1,38 @@
+{
+  "train_no": "G8706",
+  "train_type": "G",
+  "depart_station": "綦江东",
+  "arrive_station": "重庆北",
+  "depart_time": "22:54",
+  "arrive_time": "23:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "綦江东",
+      "arrive_time": "22:54",
+      "depart_time": "22:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "23:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "23:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 73.0,
+    "price_first": 39.0,
+    "price_second": 24.0,
+    "price_no_seat": 24.0
+  },
+  "fetched_at": "2026-05-01T08:58:14.584749"
+}

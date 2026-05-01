@@ -1,0 +1,133 @@
+{
+  "train_no": "K214",
+  "train_type": "K",
+  "depart_station": "西安",
+  "arrive_station": "天津",
+  "depart_time": "12:13",
+  "arrive_time": "04:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "12:13",
+      "depart_time": "12:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张桥",
+      "arrive_time": "13:05",
+      "depart_time": "13:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "蒲城东",
+      "arrive_time": "13:28",
+      "depart_time": "13:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄陵南",
+      "arrive_time": "14:22",
+      "depart_time": "14:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "富县东",
+      "arrive_time": "14:56",
+      "depart_time": "14:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "延安",
+      "arrive_time": "15:45",
+      "depart_time": "15:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "子长",
+      "arrive_time": "16:45",
+      "depart_time": "16:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "绥德",
+      "arrive_time": "18:22",
+      "depart_time": "18:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "吴堡",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "柳林南",
+      "arrive_time": "19:23",
+      "depart_time": "19:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "吕梁",
+      "arrive_time": "19:48",
+      "depart_time": "19:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "太原",
+      "arrive_time": "21:55",
+      "depart_time": "21:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 13,
+      "station_name": "石家庄北",
+      "arrive_time": "00:07",
+      "depart_time": "00:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 14,
+      "station_name": "衡水",
+      "arrive_time": "01:38",
+      "depart_time": "01:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 15,
+      "station_name": "德州",
+      "arrive_time": "03:38",
+      "depart_time": "03:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 16,
+      "station_name": "沧州",
+      "arrive_time": "04:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 17,
+      "station_name": "天津",
+      "arrive_time": "04:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 173.5
+  },
+  "fetched_at": "2026-05-01T09:40:20.912305"
+}

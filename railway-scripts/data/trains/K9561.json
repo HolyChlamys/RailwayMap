@@ -1,0 +1,42 @@
+{
+  "train_no": "K9561",
+  "train_type": "K",
+  "depart_station": "南充",
+  "arrive_station": "重庆北",
+  "depart_time": "18:20",
+  "arrive_time": "22:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南充",
+      "arrive_time": "18:20",
+      "depart_time": "18:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广安南",
+      "arrive_time": "20:07",
+      "depart_time": "20:12",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "高兴",
+      "arrive_time": "20:31",
+      "depart_time": "20:35",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆北",
+      "arrive_time": "22:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 33.5
+  },
+  "fetched_at": "2026-05-01T10:46:58.696270"
+}

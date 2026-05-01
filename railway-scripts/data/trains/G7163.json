@@ -1,0 +1,94 @@
+{
+  "train_no": "G7163",
+  "train_type": "G",
+  "depart_station": "亳州南",
+  "arrive_station": "上海虹桥",
+  "depart_time": "18:23",
+  "arrive_time": "23:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "亳州南",
+      "arrive_time": "18:23",
+      "depart_time": "18:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太和东",
+      "arrive_time": "18:42",
+      "depart_time": "18:50",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "阜阳西",
+      "arrive_time": "19:03",
+      "depart_time": "19:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "寿县",
+      "arrive_time": "19:34",
+      "depart_time": "19:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥",
+      "arrive_time": "20:08",
+      "depart_time": "20:11",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "21:06",
+      "depart_time": "21:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "镇江",
+      "arrive_time": "21:35",
+      "depart_time": "21:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "常州",
+      "arrive_time": "22:00",
+      "depart_time": "22:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "无锡",
+      "arrive_time": "22:17",
+      "depart_time": "22:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "苏州",
+      "arrive_time": "22:35",
+      "depart_time": "22:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "上海虹桥",
+      "arrive_time": "23:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1329.0,
+    "price_first": 664.0,
+    "price_second": 414.0,
+    "price_no_seat": 414.0
+  },
+  "fetched_at": "2026-05-01T08:19:16.778223"
+}

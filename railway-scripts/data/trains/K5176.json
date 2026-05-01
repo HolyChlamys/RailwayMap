@@ -1,0 +1,42 @@
+{
+  "train_no": "K5176",
+  "train_type": "K",
+  "depart_station": "海拉尔",
+  "arrive_station": "免渡河",
+  "depart_time": "16:47",
+  "arrive_time": "18:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "海拉尔",
+      "arrive_time": "16:47",
+      "depart_time": "16:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大雁",
+      "arrive_time": "17:40",
+      "depart_time": "17:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "牙克石",
+      "arrive_time": "18:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "免渡河",
+      "arrive_time": "18:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 18.5
+  },
+  "fetched_at": "2026-05-01T10:05:35.698748"
+}

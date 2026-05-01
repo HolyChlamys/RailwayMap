@@ -1,0 +1,42 @@
+{
+  "train_no": "K5864",
+  "train_type": "K",
+  "depart_station": "南昌",
+  "arrive_station": "鹰潭",
+  "depart_time": "20:50",
+  "arrive_time": "22:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "20:50",
+      "depart_time": "20:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "进贤",
+      "arrive_time": "21:48",
+      "depart_time": "21:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东乡",
+      "arrive_time": "22:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鹰潭",
+      "arrive_time": "22:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 23.5
+  },
+  "fetched_at": "2026-05-01T10:15:34.779510"
+}

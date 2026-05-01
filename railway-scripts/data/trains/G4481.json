@@ -1,0 +1,66 @@
+{
+  "train_no": "G4481",
+  "train_type": "G",
+  "depart_station": "南阳东",
+  "arrive_station": "上海虹桥",
+  "depart_time": "19:46",
+  "arrive_time": "01:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南阳东",
+      "arrive_time": "19:46",
+      "depart_time": "19:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "平顶山西",
+      "arrive_time": "20:15",
+      "depart_time": "20:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "21:04",
+      "depart_time": "21:29",
+      "stay_min": "25"
+    },
+    {
+      "seq": 4,
+      "station_name": "商丘",
+      "arrive_time": "22:18",
+      "depart_time": "22:23",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "徐州东",
+      "arrive_time": "23:08",
+      "depart_time": "23:12",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "00:25",
+      "depart_time": "00:31",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "上海虹桥",
+      "arrive_time": "01:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2140.0,
+    "price_first": 1037.5,
+    "price_second": 648.5,
+    "price_no_seat": 648.5
+  },
+  "fetched_at": "2026-05-01T07:06:40.987668"
+}

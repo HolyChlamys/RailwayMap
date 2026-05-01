@@ -1,0 +1,51 @@
+{
+  "train_no": "D8396",
+  "train_type": "D",
+  "depart_station": "陆川",
+  "arrive_station": "南宁东",
+  "depart_time": "11:09",
+  "arrive_time": "12:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "陆川",
+      "arrive_time": "11:09",
+      "depart_time": "11:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "玉林",
+      "arrive_time": "11:42",
+      "depart_time": "11:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兴业",
+      "arrive_time": "12:05",
+      "depart_time": "12:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵港",
+      "arrive_time": "12:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南宁东",
+      "arrive_time": "12:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 161.0,
+    "price_second": 100.5,
+    "price_no_seat": 100.5
+  },
+  "fetched_at": "2026-05-01T04:56:09.186510"
+}

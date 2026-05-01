@@ -1,0 +1,65 @@
+{
+  "train_no": "C78",
+  "train_type": "C",
+  "depart_station": "攀枝花南",
+  "arrive_station": "重庆北",
+  "depart_time": "14:28",
+  "arrive_time": "21:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "攀枝花南",
+      "arrive_time": "14:28",
+      "depart_time": "14:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "盐边",
+      "arrive_time": "14:47",
+      "depart_time": "14:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "西昌西",
+      "arrive_time": "16:01",
+      "depart_time": "16:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "成都东",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "潼南",
+      "arrive_time": "20:51",
+      "depart_time": "20:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "合川",
+      "arrive_time": "21:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "重庆北",
+      "arrive_time": "21:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 470.0,
+    "price_second": 293.0,
+    "price_no_seat": 293.0
+  },
+  "fetched_at": "2026-05-01T02:24:42.824127"
+}

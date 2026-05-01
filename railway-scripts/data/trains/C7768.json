@@ -1,0 +1,79 @@
+{
+  "train_no": "C7768",
+  "train_type": "C",
+  "depart_station": "长沙",
+  "arrive_station": "龙山北",
+  "depart_time": "08:06",
+  "arrive_time": "10:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "08:06",
+      "depart_time": "08:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开福寺",
+      "arrive_time": "08:13",
+      "depart_time": "08:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "尖山",
+      "arrive_time": "08:21",
+      "depart_time": "08:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "益阳南",
+      "arrive_time": "08:48",
+      "depart_time": "08:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汉寿",
+      "arrive_time": "09:10",
+      "depart_time": "09:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "常德",
+      "arrive_time": "09:26",
+      "depart_time": "09:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "张家界西",
+      "arrive_time": "10:21",
+      "depart_time": "10:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "桑植",
+      "arrive_time": "10:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "龙山北",
+      "arrive_time": "10:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 350.0,
+    "price_second": 218.0,
+    "price_no_seat": 218.0
+  },
+  "fetched_at": "2026-05-01T02:23:42.496482"
+}

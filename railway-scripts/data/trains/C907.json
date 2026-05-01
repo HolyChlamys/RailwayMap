@@ -1,0 +1,37 @@
+{
+  "train_no": "C907",
+  "train_type": "C",
+  "depart_station": "宣威",
+  "arrive_station": "昆明",
+  "depart_time": "19:14",
+  "arrive_time": "20:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宣威",
+      "arrive_time": "19:14",
+      "depart_time": "19:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲靖",
+      "arrive_time": "20:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "20:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 127.0,
+    "price_second": 80.0,
+    "price_no_seat": 80.0
+  },
+  "fetched_at": "2026-05-01T02:39:50.732901"
+}

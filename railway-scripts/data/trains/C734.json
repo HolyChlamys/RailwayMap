@@ -1,0 +1,58 @@
+{
+  "train_no": "C734",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "巴中",
+  "depart_time": "09:22",
+  "arrive_time": "14:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "09:22",
+      "depart_time": "09:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南充",
+      "arrive_time": "11:02",
+      "depart_time": "11:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "达州",
+      "arrive_time": "12:19",
+      "depart_time": "12:40",
+      "stay_min": "21"
+    },
+    {
+      "seq": 4,
+      "station_name": "平昌",
+      "arrive_time": "14:04",
+      "depart_time": "14:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "巴中东",
+      "arrive_time": "14:32",
+      "depart_time": "14:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "巴中",
+      "arrive_time": "14:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 222.0,
+    "price_second": 138.0,
+    "price_no_seat": 138.0
+  },
+  "fetched_at": "2026-05-01T02:12:48.477992"
+}

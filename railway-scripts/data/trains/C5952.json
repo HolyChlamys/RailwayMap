@@ -1,0 +1,37 @@
+{
+  "train_no": "C5952",
+  "train_type": "C",
+  "depart_station": "六盘水",
+  "arrive_station": "贵阳北",
+  "depart_time": "16:36",
+  "arrive_time": "17:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "六盘水",
+      "arrive_time": "16:36",
+      "depart_time": "16:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安顺西",
+      "arrive_time": "17:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "17:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 163.0,
+    "price_second": 102.0,
+    "price_no_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T01:41:58.338588"
+}

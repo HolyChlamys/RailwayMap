@@ -1,0 +1,58 @@
+{
+  "train_no": "C753",
+  "train_type": "C",
+  "depart_station": "营山",
+  "arrive_station": "成都东",
+  "depart_time": "06:45",
+  "arrive_time": "09:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "营山",
+      "arrive_time": "06:45",
+      "depart_time": "06:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南充",
+      "arrive_time": "07:16",
+      "depart_time": "07:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "遂宁",
+      "arrive_time": "07:53",
+      "depart_time": "07:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大英东",
+      "arrive_time": "08:24",
+      "depart_time": "08:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "淮口南",
+      "arrive_time": "09:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "成都东",
+      "arrive_time": "09:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 134.0,
+    "price_second": 84.0,
+    "price_no_seat": 84.0
+  },
+  "fetched_at": "2026-05-01T02:17:29.329606"
+}

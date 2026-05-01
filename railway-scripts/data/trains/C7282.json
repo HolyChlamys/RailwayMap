@@ -1,0 +1,59 @@
+{
+  "train_no": "C7282",
+  "train_type": "C",
+  "depart_station": "潮汕",
+  "arrive_station": "佛山西",
+  "depart_time": "23:39",
+  "arrive_time": "02:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潮汕",
+      "arrive_time": "23:39",
+      "depart_time": "23:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普宁",
+      "arrive_time": "23:56",
+      "depart_time": "23:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "陆丰",
+      "arrive_time": "00:18",
+      "depart_time": "00:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "01:22",
+      "depart_time": "01:28",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "01:57",
+      "depart_time": "02:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "佛山西",
+      "arrive_time": "02:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 242.0,
+    "price_first": 111.0,
+    "price_second": 69.0,
+    "price_no_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T02:11:06.320542"
+}

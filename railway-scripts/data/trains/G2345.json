@@ -1,0 +1,107 @@
+{
+  "train_no": "G2345",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "台州西",
+  "depart_time": "09:40",
+  "arrive_time": "15:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "09:40",
+      "depart_time": "09:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "萍乡北",
+      "arrive_time": "10:10",
+      "depart_time": "10:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "新余北",
+      "arrive_time": "10:40",
+      "depart_time": "10:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌西",
+      "arrive_time": "11:15",
+      "depart_time": "11:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "鹰潭北",
+      "arrive_time": "11:55",
+      "depart_time": "12:01",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "弋阳",
+      "arrive_time": "12:14",
+      "depart_time": "12:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "上饶",
+      "arrive_time": "12:33",
+      "depart_time": "12:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "衢州",
+      "arrive_time": "13:04",
+      "depart_time": "13:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "金华南",
+      "arrive_time": "13:34",
+      "depart_time": "13:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "缙云西",
+      "arrive_time": "14:02",
+      "depart_time": "14:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "丽水",
+      "arrive_time": "14:17",
+      "depart_time": "14:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "温州南",
+      "arrive_time": "14:55",
+      "depart_time": "15:12",
+      "stay_min": "17"
+    },
+    {
+      "seq": 13,
+      "station_name": "台州西",
+      "arrive_time": "15:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 854.5,
+    "price_second": 535.0,
+    "price_no_seat": 535.0
+  },
+  "fetched_at": "2026-05-01T06:07:51.344152"
+}

@@ -1,0 +1,70 @@
+{
+  "train_no": "K8203",
+  "train_type": "K",
+  "depart_station": "府谷",
+  "arrive_station": "西安",
+  "depart_time": "19:10",
+  "arrive_time": "02:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "府谷",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "神木北",
+      "arrive_time": "20:35",
+      "depart_time": "20:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "神木",
+      "arrive_time": "21:05",
+      "depart_time": "21:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "锦界",
+      "arrive_time": "22:12",
+      "depart_time": "22:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "榆林",
+      "arrive_time": "23:26",
+      "depart_time": "23:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "绥德",
+      "arrive_time": "00:27",
+      "depart_time": "00:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "延安",
+      "arrive_time": "02:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "西安",
+      "arrive_time": "02:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T10:36:50.126163"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "D9233",
+  "train_type": "D",
+  "depart_station": "大同南",
+  "arrive_station": "太原南",
+  "depart_time": "22:11",
+  "arrive_time": "23:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大同南",
+      "arrive_time": "22:11",
+      "depart_time": "22:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀仁东",
+      "arrive_time": "22:27",
+      "depart_time": "22:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "应县西",
+      "arrive_time": "22:48",
+      "depart_time": "22:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "朔州东",
+      "arrive_time": "23:07",
+      "depart_time": "23:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "雁门关",
+      "arrive_time": "23:25",
+      "depart_time": "23:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "原平西",
+      "arrive_time": "23:41",
+      "depart_time": "23:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "忻州西",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "太原南",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 214.0,
+    "price_second": 134.0,
+    "price_no_seat": 134.0
+  },
+  "fetched_at": "2026-05-01T05:10:40.991020"
+}

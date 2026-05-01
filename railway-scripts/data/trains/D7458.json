@@ -1,0 +1,58 @@
+{
+  "train_no": "D7458",
+  "train_type": "D",
+  "depart_station": "福田",
+  "arrive_station": "梅州西",
+  "depart_time": "22:59",
+  "arrive_time": "00:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福田",
+      "arrive_time": "22:59",
+      "depart_time": "22:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "23:11",
+      "depart_time": "23:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东莞南",
+      "arrive_time": "23:31",
+      "depart_time": "23:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "河源东",
+      "arrive_time": "00:08",
+      "depart_time": "00:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "兴宁南",
+      "arrive_time": "00:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "梅州西",
+      "arrive_time": "00:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 299.0,
+    "price_second": 191.0,
+    "price_no_seat": 191.0
+  },
+  "fetched_at": "2026-05-01T04:39:10.346739"
+}

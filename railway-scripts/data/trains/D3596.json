@@ -1,0 +1,66 @@
+{
+  "train_no": "D3596",
+  "train_type": "D",
+  "depart_station": "庆阳",
+  "arrive_station": "西安北",
+  "depart_time": "07:40",
+  "arrive_time": "09:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "庆阳",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁县",
+      "arrive_time": "07:57",
+      "depart_time": "07:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "彬州东",
+      "arrive_time": "08:18",
+      "depart_time": "08:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "永寿西",
+      "arrive_time": "08:35",
+      "depart_time": "08:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "礼泉南",
+      "arrive_time": "08:52",
+      "depart_time": "08:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "咸阳北",
+      "arrive_time": "09:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "西安北",
+      "arrive_time": "09:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 369.0,
+    "price_first": 169.0,
+    "price_second": 106.0,
+    "price_no_seat": 106.0
+  },
+  "fetched_at": "2026-05-01T03:35:17.283751"
+}

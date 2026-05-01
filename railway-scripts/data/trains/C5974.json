@@ -1,0 +1,44 @@
+{
+  "train_no": "C5974",
+  "train_type": "C",
+  "depart_station": "贵阳北",
+  "arrive_station": "成都东",
+  "depart_time": "06:29",
+  "arrive_time": "08:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "06:29",
+      "depart_time": "06:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴文",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜宾西",
+      "arrive_time": "08:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "成都东",
+      "arrive_time": "08:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 475.0,
+    "price_second": 297.0,
+    "price_no_seat": 297.0
+  },
+  "fetched_at": "2026-05-01T01:42:26.282177"
+}

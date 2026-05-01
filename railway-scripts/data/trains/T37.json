@@ -1,0 +1,105 @@
+{
+  "train_no": "T37",
+  "train_type": "T",
+  "depart_station": "郑州",
+  "arrive_station": "温州",
+  "depart_time": "15:16",
+  "arrive_time": "09:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州",
+      "arrive_time": "15:16",
+      "depart_time": "15:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开封",
+      "arrive_time": "16:00",
+      "depart_time": "16:04",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "兰考",
+      "arrive_time": "16:33",
+      "depart_time": "16:37",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "民权",
+      "arrive_time": "16:59",
+      "depart_time": "17:03",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "商丘",
+      "arrive_time": "17:36",
+      "depart_time": "17:41",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "阜阳",
+      "arrive_time": "19:22",
+      "depart_time": "19:29",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "合肥",
+      "arrive_time": "21:47",
+      "depart_time": "22:09",
+      "stay_min": "22"
+    },
+    {
+      "seq": 8,
+      "station_name": "杭州",
+      "arrive_time": "02:54",
+      "depart_time": "03:14",
+      "stay_min": "20"
+    },
+    {
+      "seq": 9,
+      "station_name": "金华南",
+      "arrive_time": "05:08",
+      "depart_time": "05:30",
+      "stay_min": "22"
+    },
+    {
+      "seq": 10,
+      "station_name": "永康南",
+      "arrive_time": "06:13",
+      "depart_time": "06:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "缙云",
+      "arrive_time": "06:43",
+      "depart_time": "06:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "丽水",
+      "arrive_time": "07:18",
+      "depart_time": "07:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "温州",
+      "arrive_time": "09:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 177.5
+  },
+  "fetched_at": "2026-05-01T11:24:51.399457"
+}

@@ -1,0 +1,79 @@
+{
+  "train_no": "C6032",
+  "train_type": "C",
+  "depart_station": "六盘水",
+  "arrive_station": "重庆西",
+  "depart_time": "11:29",
+  "arrive_time": "14:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "六盘水",
+      "arrive_time": "11:29",
+      "depart_time": "11:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "六盘水东",
+      "arrive_time": "11:45",
+      "depart_time": "11:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "六枝南",
+      "arrive_time": "12:11",
+      "depart_time": "12:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄桶北",
+      "arrive_time": "12:29",
+      "depart_time": "12:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "安顺西",
+      "arrive_time": "12:45",
+      "depart_time": "12:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳北",
+      "arrive_time": "13:25",
+      "depart_time": "13:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "遵义",
+      "arrive_time": "14:12",
+      "depart_time": "14:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "桐梓东",
+      "arrive_time": "14:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "重庆西",
+      "arrive_time": "14:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 385.0,
+    "price_second": 241.0,
+    "price_no_seat": 241.0
+  },
+  "fetched_at": "2026-05-01T01:43:30.759217"
+}

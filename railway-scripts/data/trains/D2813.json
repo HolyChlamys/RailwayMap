@@ -1,0 +1,100 @@
+{
+  "train_no": "D2813",
+  "train_type": "D",
+  "depart_station": "运城北",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "06:50",
+  "arrive_time": "12:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "运城北",
+      "arrive_time": "06:50",
+      "depart_time": "06:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "襄汾西",
+      "arrive_time": "07:19",
+      "depart_time": "07:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "临汾西",
+      "arrive_time": "07:34",
+      "depart_time": "07:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "灵石东",
+      "arrive_time": "08:10",
+      "depart_time": "08:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "太原南",
+      "arrive_time": "08:54",
+      "depart_time": "09:04",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "太原",
+      "arrive_time": "09:14",
+      "depart_time": "09:19",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "忻州西",
+      "arrive_time": "09:48",
+      "depart_time": "09:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "朔州东",
+      "arrive_time": "10:24",
+      "depart_time": "10:33",
+      "stay_min": "9"
+    },
+    {
+      "seq": 9,
+      "station_name": "应县西",
+      "arrive_time": "10:52",
+      "depart_time": "10:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "大同南",
+      "arrive_time": "11:15",
+      "depart_time": "11:22",
+      "stay_min": "7"
+    },
+    {
+      "seq": 11,
+      "station_name": "乌兰察布",
+      "arrive_time": "12:00",
+      "depart_time": "12:04",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "呼和浩特东",
+      "arrive_time": "12:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 598.0,
+    "price_second": 375.0,
+    "price_no_seat": 375.0
+  },
+  "fetched_at": "2026-05-01T03:23:49.878927"
+}

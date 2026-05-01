@@ -1,0 +1,58 @@
+{
+  "train_no": "D4927",
+  "train_type": "D",
+  "depart_station": "乌海",
+  "arrive_station": "银川",
+  "depart_time": "09:16",
+  "arrive_time": "10:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌海",
+      "arrive_time": "09:16",
+      "depart_time": "09:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌海南",
+      "arrive_time": "09:30",
+      "depart_time": "09:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠农南",
+      "arrive_time": "09:45",
+      "depart_time": "09:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "石嘴山",
+      "arrive_time": "10:02",
+      "depart_time": "10:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沙湖",
+      "arrive_time": "10:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "银川",
+      "arrive_time": "10:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 131.0,
+    "price_second": 82.0,
+    "price_no_seat": 82.0
+  },
+  "fetched_at": "2026-05-01T03:58:28.835486"
+}

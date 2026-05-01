@@ -1,0 +1,45 @@
+{
+  "train_no": "D9154",
+  "train_type": "D",
+  "depart_station": "大庆西",
+  "arrive_station": "哈尔滨",
+  "depart_time": "11:20",
+  "arrive_time": "12:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大庆西",
+      "arrive_time": "11:20",
+      "depart_time": "11:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大庆东",
+      "arrive_time": "11:32",
+      "depart_time": "11:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "肇东",
+      "arrive_time": "12:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨",
+      "arrive_time": "12:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 179.0,
+    "price_first": 95.0,
+    "price_second": 60.0,
+    "price_no_seat": 60.0
+  },
+  "fetched_at": "2026-05-01T05:08:33.768066"
+}

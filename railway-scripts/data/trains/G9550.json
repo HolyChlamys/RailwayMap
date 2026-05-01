@@ -1,0 +1,59 @@
+{
+  "train_no": "G9550",
+  "train_type": "G",
+  "depart_station": "怀化南",
+  "arrive_station": "广州南",
+  "depart_time": "21:56",
+  "arrive_time": "02:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "怀化南",
+      "arrive_time": "21:56",
+      "depart_time": "21:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "娄底南",
+      "arrive_time": "22:47",
+      "depart_time": "22:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙南",
+      "arrive_time": "23:23",
+      "depart_time": "23:44",
+      "stay_min": "21"
+    },
+    {
+      "seq": 4,
+      "station_name": "衡山西",
+      "arrive_time": "00:13",
+      "depart_time": "00:18",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "衡阳东",
+      "arrive_time": "00:31",
+      "depart_time": "00:34",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "02:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1960.0,
+    "price_first": 896.0,
+    "price_second": 560.0,
+    "price_no_seat": 560.0
+  },
+  "fetched_at": "2026-05-01T09:17:30.560674"
+}

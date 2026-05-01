@@ -1,0 +1,37 @@
+{
+  "train_no": "G9475",
+  "train_type": "G",
+  "depart_station": "徐州东",
+  "arrive_station": "上海",
+  "depart_time": "01:31",
+  "arrive_time": "02:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "徐州东",
+      "arrive_time": "01:31",
+      "depart_time": "01:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "02:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "上海",
+      "arrive_time": "02:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 549.0,
+    "price_second": 343.0,
+    "price_no_seat": 343.0
+  },
+  "fetched_at": "2026-05-01T09:15:11.780501"
+}

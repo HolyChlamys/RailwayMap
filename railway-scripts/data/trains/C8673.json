@@ -1,0 +1,44 @@
+{
+  "train_no": "C8673",
+  "train_type": "C",
+  "depart_station": "桂林北",
+  "arrive_station": "南宁东",
+  "depart_time": "09:17",
+  "arrive_time": "10:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "桂林北",
+      "arrive_time": "09:17",
+      "depart_time": "09:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桂林",
+      "arrive_time": "09:30",
+      "depart_time": "09:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "柳州",
+      "arrive_time": "10:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁东",
+      "arrive_time": "10:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 232.0,
+    "price_second": 144.5,
+    "price_no_seat": 144.5
+  },
+  "fetched_at": "2026-05-01T02:35:51.043321"
+}

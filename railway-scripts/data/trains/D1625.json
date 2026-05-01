@@ -1,0 +1,100 @@
+{
+  "train_no": "D1625",
+  "train_type": "D",
+  "depart_station": "石家庄",
+  "arrive_station": "烟台",
+  "depart_time": "16:34",
+  "arrive_time": "21:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石家庄",
+      "arrive_time": "16:34",
+      "depart_time": "16:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "藁城南",
+      "arrive_time": "16:55",
+      "depart_time": "16:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡水北",
+      "arrive_time": "17:22",
+      "depart_time": "17:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "景州",
+      "arrive_time": "17:41",
+      "depart_time": "17:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "德州东",
+      "arrive_time": "18:01",
+      "depart_time": "18:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "禹城东",
+      "arrive_time": "18:19",
+      "depart_time": "18:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "济南东",
+      "arrive_time": "18:51",
+      "depart_time": "18:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "淄博",
+      "arrive_time": "19:28",
+      "depart_time": "19:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "潍坊",
+      "arrive_time": "20:05",
+      "depart_time": "20:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "高密",
+      "arrive_time": "20:42",
+      "depart_time": "20:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "莱阳",
+      "arrive_time": "21:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "烟台",
+      "arrive_time": "21:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 489.0,
+    "price_second": 306.0,
+    "price_no_seat": 306.0
+  },
+  "fetched_at": "2026-05-01T03:01:25.506259"
+}

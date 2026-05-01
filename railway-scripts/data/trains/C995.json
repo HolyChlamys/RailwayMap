@@ -1,0 +1,44 @@
+{
+  "train_no": "C995",
+  "train_type": "C",
+  "depart_station": "哈密",
+  "arrive_station": "库尔勒",
+  "depart_time": "15:38",
+  "arrive_time": "20:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈密",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吐鲁番北",
+      "arrive_time": "18:32",
+      "depart_time": "18:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "焉耆",
+      "arrive_time": "20:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "库尔勒",
+      "arrive_time": "20:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 321.0,
+    "price_second": 201.0,
+    "price_no_seat": 201.0
+  },
+  "fetched_at": "2026-05-01T02:55:04.296667"
+}

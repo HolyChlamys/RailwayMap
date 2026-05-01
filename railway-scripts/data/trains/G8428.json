@@ -1,0 +1,94 @@
+{
+  "train_no": "G8428",
+  "train_type": "G",
+  "depart_station": "广州东",
+  "arrive_station": "汕头",
+  "depart_time": "13:10",
+  "arrive_time": "15:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "13:10",
+      "depart_time": "13:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "13:35",
+      "depart_time": "13:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "博罗",
+      "arrive_time": "14:00",
+      "depart_time": "14:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "惠州南",
+      "arrive_time": "14:13",
+      "depart_time": "14:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "惠东",
+      "arrive_time": "14:27",
+      "depart_time": "14:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "汕尾",
+      "arrive_time": "14:51",
+      "depart_time": "14:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "陆丰南",
+      "arrive_time": "15:04",
+      "depart_time": "15:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "陆丰东",
+      "arrive_time": "15:16",
+      "depart_time": "15:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "潮南",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "汕头南",
+      "arrive_time": "15:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "汕头",
+      "arrive_time": "15:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 928.0,
+    "price_first": 412.0,
+    "price_second": 265.0,
+    "price_no_seat": 265.0
+  },
+  "fetched_at": "2026-05-01T08:50:40.104447"
+}

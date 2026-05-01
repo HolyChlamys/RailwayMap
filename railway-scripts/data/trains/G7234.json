@@ -1,0 +1,93 @@
+{
+  "train_no": "G7234",
+  "train_type": "G",
+  "depart_station": "舒城东",
+  "arrive_station": "上海",
+  "depart_time": "12:35",
+  "arrive_time": "16:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "舒城东",
+      "arrive_time": "12:35",
+      "depart_time": "12:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肥西",
+      "arrive_time": "12:47",
+      "depart_time": "12:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "13:01",
+      "depart_time": "13:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "13:56",
+      "depart_time": "13:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "丹阳",
+      "arrive_time": "14:33",
+      "depart_time": "14:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "常州",
+      "arrive_time": "14:50",
+      "depart_time": "14:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "无锡",
+      "arrive_time": "15:06",
+      "depart_time": "15:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "苏州",
+      "arrive_time": "15:27",
+      "depart_time": "15:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "昆山南",
+      "arrive_time": "15:41",
+      "depart_time": "15:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "南翔北",
+      "arrive_time": "15:57",
+      "depart_time": "15:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "上海",
+      "arrive_time": "16:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 437.0,
+    "price_second": 274.0,
+    "price_no_seat": 274.0
+  },
+  "fetched_at": "2026-05-01T08:21:24.409533"
+}

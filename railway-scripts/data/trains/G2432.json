@@ -1,0 +1,86 @@
+{
+  "train_no": "G2432",
+  "train_type": "G",
+  "depart_station": "长沙",
+  "arrive_station": "重庆东",
+  "depart_time": "10:00",
+  "arrive_time": "14:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "10:00",
+      "depart_time": "10:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "益阳南",
+      "arrive_time": "10:34",
+      "depart_time": "10:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常德",
+      "arrive_time": "11:02",
+      "depart_time": "11:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "张家界西",
+      "arrive_time": "11:57",
+      "depart_time": "11:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "来凤",
+      "arrive_time": "12:44",
+      "depart_time": "12:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "咸丰",
+      "arrive_time": "13:01",
+      "depart_time": "13:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "彭水西",
+      "arrive_time": "13:39",
+      "depart_time": "13:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "水江西",
+      "arrive_time": "14:06",
+      "depart_time": "14:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "巴南",
+      "arrive_time": "14:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "重庆东",
+      "arrive_time": "14:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 662.0,
+    "price_second": 413.0,
+    "price_no_seat": 413.0
+  },
+  "fetched_at": "2026-05-01T06:10:08.799523"
+}

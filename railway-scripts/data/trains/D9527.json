@@ -1,0 +1,51 @@
+{
+  "train_no": "D9527",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "金寨",
+  "depart_time": "21:05",
+  "arrive_time": "23:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "21:05",
+      "depart_time": "21:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州南",
+      "arrive_time": "21:35",
+      "depart_time": "21:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "湖州南浔",
+      "arrive_time": "21:53",
+      "depart_time": "21:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥南",
+      "arrive_time": "23:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "金寨",
+      "arrive_time": "23:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 493.0,
+    "price_second": 308.0,
+    "price_no_seat": 308.0
+  },
+  "fetched_at": "2026-05-01T05:17:34.373334"
+}

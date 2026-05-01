@@ -1,0 +1,80 @@
+{
+  "train_no": "D1023",
+  "train_type": "D",
+  "depart_station": "北京北",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "06:10",
+  "arrive_time": "09:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京北",
+      "arrive_time": "06:10",
+      "depart_time": "06:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "清河",
+      "arrive_time": "06:44",
+      "depart_time": "06:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东花园北",
+      "arrive_time": "07:15",
+      "depart_time": "07:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宣化北",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "张家口",
+      "arrive_time": "07:52",
+      "depart_time": "07:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兴和北",
+      "arrive_time": "08:30",
+      "depart_time": "08:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "乌兰察布",
+      "arrive_time": "08:53",
+      "depart_time": "08:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "卓资东",
+      "arrive_time": "09:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "呼和浩特东",
+      "arrive_time": "09:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 589.0,
+    "price_first": 315.0,
+    "price_second": 196.0,
+    "price_no_seat": 196.0
+  },
+  "fetched_at": "2026-05-01T02:55:53.887949"
+}

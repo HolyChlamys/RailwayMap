@@ -1,0 +1,101 @@
+{
+  "train_no": "G2257",
+  "train_type": "G",
+  "depart_station": "银川",
+  "arrive_station": "郑州东",
+  "depart_time": "15:39",
+  "arrive_time": "21:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "15:39",
+      "depart_time": "15:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吴忠",
+      "arrive_time": "16:11",
+      "depart_time": "16:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "庆城",
+      "arrive_time": "17:23",
+      "depart_time": "17:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "庆阳",
+      "arrive_time": "17:42",
+      "depart_time": "17:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "宁县",
+      "arrive_time": "18:00",
+      "depart_time": "18:03",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "永寿西",
+      "arrive_time": "18:31",
+      "depart_time": "18:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "咸阳北",
+      "arrive_time": "18:55",
+      "depart_time": "18:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "西安北",
+      "arrive_time": "19:10",
+      "depart_time": "19:16",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "华山北",
+      "arrive_time": "19:46",
+      "depart_time": "19:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "渑池南",
+      "arrive_time": "20:27",
+      "depart_time": "20:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "郑州西",
+      "arrive_time": "21:07",
+      "depart_time": "21:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "郑州东",
+      "arrive_time": "21:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1959.0,
+    "price_first": 903.0,
+    "price_second": 564.0,
+    "price_no_seat": 564.0
+  },
+  "fetched_at": "2026-05-01T06:05:40.742802"
+}

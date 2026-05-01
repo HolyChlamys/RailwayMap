@@ -1,0 +1,44 @@
+{
+  "train_no": "D3516",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "银川",
+  "depart_time": "08:22",
+  "arrive_time": "11:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "08:22",
+      "depart_time": "08:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "庆阳",
+      "arrive_time": "09:32",
+      "depart_time": "09:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "河东机场",
+      "arrive_time": "11:10",
+      "depart_time": "11:14",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "银川",
+      "arrive_time": "11:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 422.0,
+    "price_second": 263.0,
+    "price_no_seat": 263.0
+  },
+  "fetched_at": "2026-05-01T03:33:50.955791"
+}

@@ -1,0 +1,65 @@
+{
+  "train_no": "D8519",
+  "train_type": "D",
+  "depart_station": "哈尔滨",
+  "arrive_station": "绥芬河",
+  "depart_time": "10:30",
+  "arrive_time": "13:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨",
+      "arrive_time": "10:30",
+      "depart_time": "10:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "尚志南",
+      "arrive_time": "11:25",
+      "depart_time": "11:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苇河西",
+      "arrive_time": "11:42",
+      "depart_time": "11:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "牡丹江",
+      "arrive_time": "12:23",
+      "depart_time": "12:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "穆棱",
+      "arrive_time": "12:55",
+      "depart_time": "12:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "绥阳",
+      "arrive_time": "13:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "绥芬河",
+      "arrive_time": "13:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 259.0,
+    "price_second": 162.0,
+    "price_no_seat": 162.0
+  },
+  "fetched_at": "2026-05-01T04:58:56.356068"
+}

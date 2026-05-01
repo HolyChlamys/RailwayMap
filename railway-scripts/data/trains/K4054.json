@@ -1,0 +1,105 @@
+{
+  "train_no": "K4054",
+  "train_type": "K",
+  "depart_station": "上海",
+  "arrive_station": "郑州",
+  "depart_time": "04:00",
+  "arrive_time": "18:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "04:00",
+      "depart_time": "04:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "04:54",
+      "depart_time": "04:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡",
+      "arrive_time": "05:26",
+      "depart_time": "05:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "常州",
+      "arrive_time": "06:18",
+      "depart_time": "06:23",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京",
+      "arrive_time": "08:24",
+      "depart_time": "08:32",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "蚌埠",
+      "arrive_time": "10:30",
+      "depart_time": "10:35",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "宿州",
+      "arrive_time": "11:31",
+      "depart_time": "11:35",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "徐州",
+      "arrive_time": "13:21",
+      "depart_time": "13:38",
+      "stay_min": "17"
+    },
+    {
+      "seq": 9,
+      "station_name": "商丘",
+      "arrive_time": "15:29",
+      "depart_time": "15:36",
+      "stay_min": "7"
+    },
+    {
+      "seq": 10,
+      "station_name": "民权",
+      "arrive_time": "16:14",
+      "depart_time": "16:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "兰考",
+      "arrive_time": "16:40",
+      "depart_time": "16:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "开封",
+      "arrive_time": "17:15",
+      "depart_time": "17:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 13,
+      "station_name": "郑州",
+      "arrive_time": "18:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 128.5
+  },
+  "fetched_at": "2026-05-01T09:46:31.221477"
+}

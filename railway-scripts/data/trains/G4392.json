@@ -1,0 +1,136 @@
+{
+  "train_no": "G4392",
+  "train_type": "G",
+  "depart_station": "福州南",
+  "arrive_station": "武汉",
+  "depart_time": "15:58",
+  "arrive_time": "22:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州南",
+      "arrive_time": "15:58",
+      "depart_time": "15:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福州",
+      "arrive_time": "16:13",
+      "depart_time": "16:17",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "闽清北",
+      "arrive_time": "16:36",
+      "depart_time": "16:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "古田北",
+      "arrive_time": "16:49",
+      "depart_time": "16:54",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "延平",
+      "arrive_time": "17:08",
+      "depart_time": "17:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "建瓯西",
+      "arrive_time": "17:26",
+      "depart_time": "17:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "南平市",
+      "arrive_time": "17:43",
+      "depart_time": "17:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "武夷山北",
+      "arrive_time": "17:58",
+      "depart_time": "18:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "上饶",
+      "arrive_time": "18:23",
+      "depart_time": "18:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "婺源",
+      "arrive_time": "18:50",
+      "depart_time": "18:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "九江",
+      "arrive_time": "20:24",
+      "depart_time": "20:27",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "枫林",
+      "arrive_time": "20:52",
+      "depart_time": "21:12",
+      "stay_min": "20"
+    },
+    {
+      "seq": 13,
+      "station_name": "阳新",
+      "arrive_time": "21:23",
+      "depart_time": "21:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "白沙铺",
+      "arrive_time": "21:35",
+      "depart_time": "21:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "大冶北",
+      "arrive_time": "21:46",
+      "depart_time": "21:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "黄石北",
+      "arrive_time": "21:55",
+      "depart_time": "21:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "武汉",
+      "arrive_time": "22:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1214.5,
+    "price_first": 644.5,
+    "price_second": 392.5,
+    "price_no_seat": 392.5
+  },
+  "fetched_at": "2026-05-01T07:04:10.762524"
+}

@@ -1,0 +1,30 @@
+{
+  "train_no": "D9854",
+  "train_type": "D",
+  "depart_station": "昆明南",
+  "arrive_station": "普者黑",
+  "depart_time": "06:20",
+  "arrive_time": "06:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "06:20",
+      "depart_time": "06:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普者黑",
+      "arrive_time": "06:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 120.5,
+    "price_second": 75.0,
+    "price_no_seat": 75.0
+  },
+  "fetched_at": "2026-05-01T05:26:30.155567"
+}

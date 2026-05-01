@@ -1,0 +1,72 @@
+{
+  "train_no": "G8304",
+  "train_type": "G",
+  "depart_station": "义乌",
+  "arrive_station": "扬州东",
+  "depart_time": "19:12",
+  "arrive_time": "22:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "义乌",
+      "arrive_time": "19:12",
+      "depart_time": "19:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州西",
+      "arrive_time": "19:59",
+      "depart_time": "19:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州南",
+      "arrive_time": "20:44",
+      "depart_time": "20:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "上海虹桥",
+      "arrive_time": "21:15",
+      "depart_time": "21:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "昆山南",
+      "arrive_time": "21:36",
+      "depart_time": "21:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "苏州",
+      "arrive_time": "21:49",
+      "depart_time": "21:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "无锡",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "扬州东",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 588.0,
+    "price_second": 369.0,
+    "price_no_seat": 369.0
+  },
+  "fetched_at": "2026-05-01T08:47:30.160572"
+}

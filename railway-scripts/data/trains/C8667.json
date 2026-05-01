@@ -1,0 +1,59 @@
+{
+  "train_no": "C8667",
+  "train_type": "C",
+  "depart_station": "贺州",
+  "arrive_station": "百色",
+  "depart_time": "17:50",
+  "arrive_time": "22:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贺州",
+      "arrive_time": "17:50",
+      "depart_time": "17:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桂林北",
+      "arrive_time": "18:38",
+      "depart_time": "18:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "柳州",
+      "arrive_time": "19:44",
+      "depart_time": "19:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁东",
+      "arrive_time": "20:46",
+      "depart_time": "20:52",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "南宁",
+      "arrive_time": "21:03",
+      "depart_time": "21:14",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "百色",
+      "arrive_time": "22:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1056.5,
+    "price_first": 513.0,
+    "price_second": 321.0,
+    "price_no_seat": 321.0
+  },
+  "fetched_at": "2026-05-01T02:35:39.356583"
+}

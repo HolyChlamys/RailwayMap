@@ -1,0 +1,72 @@
+{
+  "train_no": "D6539",
+  "train_type": "D",
+  "depart_station": "建宁县北",
+  "arrive_station": "厦门北",
+  "depart_time": "10:59",
+  "arrive_time": "13:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "建宁县北",
+      "arrive_time": "10:59",
+      "depart_time": "10:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰宁",
+      "arrive_time": "11:14",
+      "depart_time": "11:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "将乐",
+      "arrive_time": "11:33",
+      "depart_time": "11:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "三明北",
+      "arrive_time": "11:55",
+      "depart_time": "11:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "永泰",
+      "arrive_time": "12:45",
+      "depart_time": "12:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "莆田",
+      "arrive_time": "13:10",
+      "depart_time": "13:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "泉州",
+      "arrive_time": "13:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "厦门北",
+      "arrive_time": "13:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 287.0,
+    "price_second": 180.0,
+    "price_no_seat": 180.0
+  },
+  "fetched_at": "2026-05-01T04:24:36.403461"
+}

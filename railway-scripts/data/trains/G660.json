@@ -1,0 +1,94 @@
+{
+  "train_no": "G660",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "北京西",
+  "depart_time": "13:04",
+  "arrive_time": "18:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "13:04",
+      "depart_time": "13:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "华山北",
+      "arrive_time": "13:34",
+      "depart_time": "13:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "三门峡南",
+      "arrive_time": "14:02",
+      "depart_time": "14:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "洛阳龙门",
+      "arrive_time": "14:35",
+      "depart_time": "14:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "15:27",
+      "depart_time": "15:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "邯郸东",
+      "arrive_time": "16:23",
+      "depart_time": "16:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "邢台东",
+      "arrive_time": "16:41",
+      "depart_time": "16:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "石家庄",
+      "arrive_time": "17:12",
+      "depart_time": "17:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "保定东",
+      "arrive_time": "17:50",
+      "depart_time": "17:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "高碑店东",
+      "arrive_time": "18:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "北京西",
+      "arrive_time": "18:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2161.0,
+    "price_first": 988.0,
+    "price_second": 618.0,
+    "price_no_seat": 618.0
+  },
+  "fetched_at": "2026-05-01T08:03:37.484761"
+}

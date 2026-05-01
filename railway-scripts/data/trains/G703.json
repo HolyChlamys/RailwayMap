@@ -1,0 +1,72 @@
+{
+  "train_no": "G703",
+  "train_type": "G",
+  "depart_station": "大连北",
+  "arrive_station": "七台河西",
+  "depart_time": "07:01",
+  "arrive_time": "13:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "07:01",
+      "depart_time": "07:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳",
+      "arrive_time": "08:31",
+      "depart_time": "08:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长春西",
+      "arrive_time": "09:43",
+      "depart_time": "09:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨西",
+      "arrive_time": "10:43",
+      "depart_time": "10:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "尚志南",
+      "arrive_time": "11:38",
+      "depart_time": "11:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "牡丹江",
+      "arrive_time": "12:29",
+      "depart_time": "12:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "鸡西西",
+      "arrive_time": "13:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "七台河西",
+      "arrive_time": "13:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1092.0,
+    "price_second": 682.0,
+    "price_no_seat": 682.0
+  },
+  "fetched_at": "2026-05-01T08:15:59.628464"
+}

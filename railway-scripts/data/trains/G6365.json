@@ -1,0 +1,79 @@
+{
+  "train_no": "G6365",
+  "train_type": "G",
+  "depart_station": "张家界西",
+  "arrive_station": "长沙南",
+  "depart_time": "09:24",
+  "arrive_time": "12:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家界西",
+      "arrive_time": "09:24",
+      "depart_time": "09:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "古丈西",
+      "arrive_time": "09:52",
+      "depart_time": "09:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "吉首东",
+      "arrive_time": "10:10",
+      "depart_time": "10:14",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "凤凰古城",
+      "arrive_time": "10:24",
+      "depart_time": "10:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "怀化南",
+      "arrive_time": "10:54",
+      "depart_time": "11:02",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "新化南",
+      "arrive_time": "11:34",
+      "depart_time": "11:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "娄底南",
+      "arrive_time": "12:00",
+      "depart_time": "12:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "湘潭北",
+      "arrive_time": "12:28",
+      "depart_time": "12:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "长沙南",
+      "arrive_time": "12:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 509.0,
+    "price_second": 319.0,
+    "price_no_seat": 319.0
+  },
+  "fetched_at": "2026-05-01T07:56:37.357185"
+}

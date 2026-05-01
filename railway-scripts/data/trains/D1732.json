@@ -1,0 +1,79 @@
+{
+  "train_no": "D1732",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "重庆西",
+  "depart_time": "17:08",
+  "arrive_time": "21:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "17:08",
+      "depart_time": "17:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁北",
+      "arrive_time": "17:28",
+      "depart_time": "17:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "环江",
+      "arrive_time": "18:23",
+      "depart_time": "18:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "都匀东",
+      "arrive_time": "19:18",
+      "depart_time": "19:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "龙里北",
+      "arrive_time": "19:46",
+      "depart_time": "19:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳东",
+      "arrive_time": "20:09",
+      "depart_time": "20:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "遵义",
+      "arrive_time": "20:59",
+      "depart_time": "20:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "娄山关南",
+      "arrive_time": "21:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "重庆西",
+      "arrive_time": "21:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 633.0,
+    "price_second": 396.0,
+    "price_no_seat": 396.0
+  },
+  "fetched_at": "2026-05-01T03:04:02.413028"
+}

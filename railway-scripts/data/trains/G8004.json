@@ -1,0 +1,107 @@
+{
+  "train_no": "G8004",
+  "train_type": "G",
+  "depart_station": "吉林",
+  "arrive_station": "大连",
+  "depart_time": "06:04",
+  "arrive_time": "10:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "吉林",
+      "arrive_time": "06:04",
+      "depart_time": "06:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长春",
+      "arrive_time": "06:47",
+      "depart_time": "06:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "四平东",
+      "arrive_time": "07:22",
+      "depart_time": "07:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "昌图西",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "开原西",
+      "arrive_time": "07:52",
+      "depart_time": "07:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "铁岭西",
+      "arrive_time": "08:08",
+      "depart_time": "08:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "沈阳",
+      "arrive_time": "08:33",
+      "depart_time": "08:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "鞍山西",
+      "arrive_time": "09:04",
+      "depart_time": "09:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "海城西",
+      "arrive_time": "09:19",
+      "depart_time": "09:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "09:46",
+      "depart_time": "09:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "瓦房店西",
+      "arrive_time": "10:06",
+      "depart_time": "10:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "金普",
+      "arrive_time": "10:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 13,
+      "station_name": "大连",
+      "arrive_time": "10:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 661.0,
+    "price_second": 413.0,
+    "price_no_seat": 413.0
+  },
+  "fetched_at": "2026-05-01T08:42:22.160177"
+}

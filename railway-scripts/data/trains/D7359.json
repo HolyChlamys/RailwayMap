@@ -1,0 +1,59 @@
+{
+  "train_no": "D7359",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "揭阳",
+  "depart_time": "14:27",
+  "arrive_time": "16:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "14:27",
+      "depart_time": "14:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠州北",
+      "arrive_time": "14:58",
+      "depart_time": "15:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "河源东",
+      "arrive_time": "15:22",
+      "depart_time": "15:26",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "梅州西",
+      "arrive_time": "16:16",
+      "depart_time": "16:21",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "丰顺东",
+      "arrive_time": "16:41",
+      "depart_time": "16:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "揭阳",
+      "arrive_time": "16:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 770.0,
+    "price_first": 363.0,
+    "price_second": 229.0,
+    "price_no_seat": 229.0
+  },
+  "fetched_at": "2026-05-01T04:37:14.582254"
+}

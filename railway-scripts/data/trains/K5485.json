@@ -1,0 +1,40 @@
+{
+  "train_no": "K5485",
+  "train_type": "K",
+  "depart_station": "榆林",
+  "arrive_station": "西安",
+  "depart_time": "20:40",
+  "arrive_time": "01:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "榆林",
+      "arrive_time": "20:40",
+      "depart_time": "20:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绥德",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "延安",
+      "arrive_time": "01:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安",
+      "arrive_time": "01:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T10:11:43.426849"
+}

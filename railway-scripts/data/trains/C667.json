@@ -1,0 +1,65 @@
+{
+  "train_no": "C667",
+  "train_type": "C",
+  "depart_station": "济南",
+  "arrive_station": "日照",
+  "depart_time": "08:20",
+  "arrive_time": "12:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "08:20",
+      "depart_time": "08:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰山",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "磁窑",
+      "arrive_time": "09:31",
+      "depart_time": "09:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "兖州",
+      "arrive_time": "10:04",
+      "depart_time": "10:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "平邑",
+      "arrive_time": "11:07",
+      "depart_time": "11:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "临沂",
+      "arrive_time": "12:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "日照",
+      "arrive_time": "12:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 196.0,
+    "price_second": 122.0,
+    "price_no_seat": 122.0
+  },
+  "fetched_at": "2026-05-01T01:53:52.518262"
+}

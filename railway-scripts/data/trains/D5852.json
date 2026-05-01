@@ -1,0 +1,65 @@
+{
+  "train_no": "D5852",
+  "train_type": "D",
+  "depart_station": "阳新",
+  "arrive_station": "武汉东",
+  "depart_time": "11:11",
+  "arrive_time": "12:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阳新",
+      "arrive_time": "11:11",
+      "depart_time": "11:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "白沙铺",
+      "arrive_time": "11:22",
+      "depart_time": "11:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大冶北",
+      "arrive_time": "11:33",
+      "depart_time": "11:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "花湖",
+      "arrive_time": "11:43",
+      "depart_time": "11:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "鄂州东",
+      "arrive_time": "11:53",
+      "depart_time": "11:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "鄂州",
+      "arrive_time": "12:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "武汉东",
+      "arrive_time": "12:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 107.0,
+    "price_second": 68.0,
+    "price_no_seat": 68.0
+  },
+  "fetched_at": "2026-05-01T04:12:30.582253"
+}

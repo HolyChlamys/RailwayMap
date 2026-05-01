@@ -1,0 +1,44 @@
+{
+  "train_no": "D6127",
+  "train_type": "D",
+  "depart_station": "涪陵北",
+  "arrive_station": "潼南",
+  "depart_time": "06:43",
+  "arrive_time": "07:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "涪陵北",
+      "arrive_time": "06:43",
+      "depart_time": "06:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "07:28",
+      "depart_time": "07:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "合川",
+      "arrive_time": "07:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潼南",
+      "arrive_time": "07:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 118.0,
+    "price_second": 73.0,
+    "price_no_seat": 73.0
+  },
+  "fetched_at": "2026-05-01T04:17:23.042978"
+}

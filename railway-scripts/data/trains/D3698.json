@@ -1,0 +1,73 @@
+{
+  "train_no": "D3698",
+  "train_type": "D",
+  "depart_station": "中卫南",
+  "arrive_station": "西安北",
+  "depart_time": "08:37",
+  "arrive_time": "12:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "中卫南",
+      "arrive_time": "08:37",
+      "depart_time": "08:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "中宁东",
+      "arrive_time": "08:56",
+      "depart_time": "08:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吴忠",
+      "arrive_time": "09:43",
+      "depart_time": "09:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "环县",
+      "arrive_time": "10:39",
+      "depart_time": "10:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "庆阳",
+      "arrive_time": "11:17",
+      "depart_time": "11:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "永寿西",
+      "arrive_time": "11:58",
+      "depart_time": "11:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "咸阳北",
+      "arrive_time": "12:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "西安北",
+      "arrive_time": "12:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1037.0,
+    "price_first": 488.0,
+    "price_second": 305.0,
+    "price_no_seat": 305.0
+  },
+  "fetched_at": "2026-05-01T03:37:18.183534"
+}

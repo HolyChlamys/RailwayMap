@@ -1,0 +1,54 @@
+{
+  "train_no": "Y488",
+  "train_type": "Y",
+  "depart_station": "武昌",
+  "arrive_station": "西安",
+  "depart_time": "16:38",
+  "arrive_time": "10:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "16:38",
+      "depart_time": "16:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西安",
+      "arrive_time": "11:03",
+      "depart_time": "11:31",
+      "stay_min": "28"
+    },
+    {
+      "seq": 3,
+      "station_name": "兰州",
+      "arrive_time": "20:08",
+      "depart_time": "20:35",
+      "stay_min": "27"
+    },
+    {
+      "seq": 4,
+      "station_name": "哈密",
+      "arrive_time": "13:11",
+      "depart_time": "13:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "安康",
+      "arrive_time": "06:10",
+      "depart_time": "06:00",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "西安",
+      "arrive_time": "10:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:33:50.081430"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G4107",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "萍乡北",
+  "depart_time": "03:29",
+  "arrive_time": "06:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "03:29",
+      "depart_time": "03:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌西",
+      "arrive_time": "05:55",
+      "depart_time": "05:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新余北",
+      "arrive_time": "06:36",
+      "depart_time": "06:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宜春",
+      "arrive_time": "06:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "萍乡北",
+      "arrive_time": "06:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1515.0,
+    "price_first": 693.0,
+    "price_second": 433.0,
+    "price_no_seat": 433.0
+  },
+  "fetched_at": "2026-05-01T06:55:56.364992"
+}

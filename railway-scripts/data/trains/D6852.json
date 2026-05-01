@@ -1,0 +1,65 @@
+{
+  "train_no": "D6852",
+  "train_type": "D",
+  "depart_station": "汉中",
+  "arrive_station": "西安",
+  "depart_time": "07:33",
+  "arrive_time": "09:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉中",
+      "arrive_time": "07:33",
+      "depart_time": "07:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "城固北",
+      "arrive_time": "07:46",
+      "depart_time": "07:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "洋县西",
+      "arrive_time": "07:58",
+      "depart_time": "07:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "佛坪",
+      "arrive_time": "08:18",
+      "depart_time": "08:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "鄠邑",
+      "arrive_time": "08:53",
+      "depart_time": "08:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西安西",
+      "arrive_time": "09:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "西安",
+      "arrive_time": "09:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 188.0,
+    "price_second": 117.0,
+    "price_no_seat": 117.0
+  },
+  "fetched_at": "2026-05-01T04:29:44.636032"
+}

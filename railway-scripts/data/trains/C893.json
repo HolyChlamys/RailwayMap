@@ -1,0 +1,38 @@
+{
+  "train_no": "C893",
+  "train_type": "C",
+  "depart_station": "西宁",
+  "arrive_station": "格尔木",
+  "depart_time": "12:40",
+  "arrive_time": "16:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西宁",
+      "arrive_time": "12:40",
+      "depart_time": "12:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德令哈",
+      "arrive_time": "16:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "格尔木",
+      "arrive_time": "16:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1074.0,
+    "price_first": 491.0,
+    "price_second": 307.0,
+    "price_no_seat": 307.0
+  },
+  "fetched_at": "2026-05-01T02:38:49.678375"
+}

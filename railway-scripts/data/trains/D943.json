@@ -1,0 +1,78 @@
+{
+  "train_no": "D943",
+  "train_type": "D",
+  "depart_station": "珠海",
+  "arrive_station": "上海虹桥",
+  "depart_time": "18:08",
+  "arrive_time": "06:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海",
+      "arrive_time": "18:08",
+      "depart_time": "18:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "中山",
+      "arrive_time": "18:31",
+      "depart_time": "18:38",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "19:09",
+      "depart_time": "19:33",
+      "stay_min": "24"
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "20:05",
+      "depart_time": "20:15",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "潮汕",
+      "arrive_time": "21:50",
+      "depart_time": "21:56",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "厦门北",
+      "arrive_time": "23:09",
+      "depart_time": "23:13",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "宁波",
+      "arrive_time": "03:52",
+      "depart_time": "04:14",
+      "stay_min": "22"
+    },
+    {
+      "seq": 8,
+      "station_name": "杭州东",
+      "arrive_time": "05:34",
+      "depart_time": "05:52",
+      "stay_min": "18"
+    },
+    {
+      "seq": 9,
+      "station_name": "上海虹桥",
+      "arrive_time": "06:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 838.0,
+    "price_no_seat": 838.0
+  },
+  "fetched_at": "2026-05-01T05:15:42.190595"
+}

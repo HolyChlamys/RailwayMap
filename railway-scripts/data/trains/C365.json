@@ -1,0 +1,58 @@
+{
+  "train_no": "C365",
+  "train_type": "C",
+  "depart_station": "昆明南",
+  "arrive_station": "西双版纳",
+  "depart_time": "19:10",
+  "arrive_time": "21:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "玉溪",
+      "arrive_time": "19:51",
+      "depart_time": "19:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "峨山",
+      "arrive_time": "20:08",
+      "depart_time": "20:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宁洱",
+      "arrive_time": "21:38",
+      "depart_time": "21:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "普洱",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西双版纳",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 381.0,
+    "price_second": 239.0,
+    "price_no_seat": 239.0
+  },
+  "fetched_at": "2026-05-01T01:01:47.209856"
+}

@@ -1,0 +1,86 @@
+{
+  "train_no": "D3311",
+  "train_type": "D",
+  "depart_station": "福州南",
+  "arrive_station": "广州东",
+  "depart_time": "13:47",
+  "arrive_time": "19:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州南",
+      "arrive_time": "13:47",
+      "depart_time": "13:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莆田",
+      "arrive_time": "14:16",
+      "depart_time": "14:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "泉州",
+      "arrive_time": "14:44",
+      "depart_time": "14:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "厦门北",
+      "arrive_time": "15:12",
+      "depart_time": "15:18",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "潮汕",
+      "arrive_time": "16:26",
+      "depart_time": "16:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "汕尾",
+      "arrive_time": "17:10",
+      "depart_time": "17:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳坪山",
+      "arrive_time": "17:46",
+      "depart_time": "17:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "深圳北",
+      "arrive_time": "18:09",
+      "depart_time": "18:13",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "东莞南",
+      "arrive_time": "18:31",
+      "depart_time": "18:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "广州东",
+      "arrive_time": "19:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 628.0,
+    "price_second": 411.0,
+    "price_no_seat": 411.0
+  },
+  "fetched_at": "2026-05-01T03:31:48.449828"
+}

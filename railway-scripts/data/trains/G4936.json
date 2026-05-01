@@ -1,0 +1,59 @@
+{
+  "train_no": "G4936",
+  "train_type": "G",
+  "depart_station": "北京朝阳",
+  "arrive_station": "大连北",
+  "depart_time": "03:19",
+  "arrive_time": "07:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京朝阳",
+      "arrive_time": "03:19",
+      "depart_time": "03:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳",
+      "arrive_time": "05:54",
+      "depart_time": "05:57",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "营口东",
+      "arrive_time": "06:40",
+      "depart_time": "06:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "06:59",
+      "depart_time": "07:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "瓦房店西",
+      "arrive_time": "07:19",
+      "depart_time": "07:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "大连北",
+      "arrive_time": "07:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2067.0,
+    "price_first": 945.0,
+    "price_second": 591.0,
+    "price_no_seat": 591.0
+  },
+  "fetched_at": "2026-05-01T07:20:26.161763"
+}

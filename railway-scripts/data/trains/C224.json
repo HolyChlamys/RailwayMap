@@ -1,0 +1,51 @@
+{
+  "train_no": "C224",
+  "train_type": "C",
+  "depart_station": "石泉县",
+  "arrive_station": "西安",
+  "depart_time": "07:40",
+  "arrive_time": "11:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石泉县",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉阴",
+      "arrive_time": "08:02",
+      "depart_time": "08:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "安康",
+      "arrive_time": "08:42",
+      "depart_time": "08:48",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "旬阳",
+      "arrive_time": "09:23",
+      "depart_time": "09:39",
+      "stay_min": "16"
+    },
+    {
+      "seq": 5,
+      "station_name": "西安",
+      "arrive_time": "11:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 173.0,
+    "price_second": 108.0,
+    "price_no_seat": 108.0
+  },
+  "fetched_at": "2026-05-01T00:32:26.066420"
+}

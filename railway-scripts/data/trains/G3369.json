@@ -1,0 +1,38 @@
+{
+  "train_no": "G3369",
+  "train_type": "G",
+  "depart_station": "铜仁",
+  "arrive_station": "贵阳北",
+  "depart_time": "18:00",
+  "arrive_time": "19:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "铜仁",
+      "arrive_time": "18:00",
+      "depart_time": "18:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "凯里南",
+      "arrive_time": "19:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "19:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 595.0,
+    "price_first": 277.0,
+    "price_second": 172.0,
+    "price_no_seat": 172.0
+  },
+  "fetched_at": "2026-05-01T06:36:18.964108"
+}

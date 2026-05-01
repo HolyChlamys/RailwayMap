@@ -1,0 +1,94 @@
+{
+  "train_no": "G6072",
+  "train_type": "G",
+  "depart_station": "福田",
+  "arrive_station": "永州",
+  "depart_time": "07:18",
+  "arrive_time": "12:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福田",
+      "arrive_time": "07:18",
+      "depart_time": "07:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "光明城",
+      "arrive_time": "07:44",
+      "depart_time": "07:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "虎门",
+      "arrive_time": "07:59",
+      "depart_time": "08:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "08:18",
+      "depart_time": "08:22",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "清远",
+      "arrive_time": "08:44",
+      "depart_time": "08:58",
+      "stay_min": "14"
+    },
+    {
+      "seq": 6,
+      "station_name": "韶关",
+      "arrive_time": "09:27",
+      "depart_time": "09:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "郴州西",
+      "arrive_time": "09:59",
+      "depart_time": "10:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "衡阳东",
+      "arrive_time": "10:32",
+      "depart_time": "11:01",
+      "stay_min": "29"
+    },
+    {
+      "seq": 9,
+      "station_name": "祁东",
+      "arrive_time": "11:29",
+      "depart_time": "11:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "祁阳",
+      "arrive_time": "11:45",
+      "depart_time": "11:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "永州",
+      "arrive_time": "12:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1354.0,
+    "price_first": 639.0,
+    "price_second": 413.5,
+    "price_no_seat": 413.5
+  },
+  "fetched_at": "2026-05-01T07:47:59.937700"
+}

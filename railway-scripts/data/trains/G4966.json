@@ -1,0 +1,51 @@
+{
+  "train_no": "G4966",
+  "train_type": "G",
+  "depart_station": "南昌东",
+  "arrive_station": "上海虹桥",
+  "depart_time": "22:33",
+  "arrive_time": "01:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "22:33",
+      "depart_time": "22:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "景德镇北",
+      "arrive_time": "23:17",
+      "depart_time": "23:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄山北",
+      "arrive_time": "00:03",
+      "depart_time": "00:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州西",
+      "arrive_time": "01:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "上海虹桥",
+      "arrive_time": "01:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 678.0,
+    "price_second": 426.0,
+    "price_no_seat": 426.0
+  },
+  "fetched_at": "2026-05-01T07:21:14.094459"
+}

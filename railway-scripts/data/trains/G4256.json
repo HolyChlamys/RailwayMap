@@ -1,0 +1,30 @@
+{
+  "train_no": "G4256",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "赣州西",
+  "depart_time": "21:39",
+  "arrive_time": "21:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "21:39",
+      "depart_time": "21:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "赣州西",
+      "arrive_time": "21:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 422.0,
+    "price_second": 264.0,
+    "price_no_seat": 264.0
+  },
+  "fetched_at": "2026-05-01T07:00:19.702727"
+}

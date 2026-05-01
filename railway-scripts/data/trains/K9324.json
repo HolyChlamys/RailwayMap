@@ -1,0 +1,63 @@
+{
+  "train_no": "K9324",
+  "train_type": "K",
+  "depart_station": "博白",
+  "arrive_station": "南宁",
+  "depart_time": "15:58",
+  "arrive_time": "20:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "博白",
+      "arrive_time": "15:58",
+      "depart_time": "15:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "玉林",
+      "arrive_time": "16:36",
+      "depart_time": "16:46",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "兴业",
+      "arrive_time": "17:10",
+      "depart_time": "17:14",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵港",
+      "arrive_time": "17:52",
+      "depart_time": "17:56",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "黎塘",
+      "arrive_time": "18:41",
+      "depart_time": "18:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "南宁东",
+      "arrive_time": "20:04",
+      "depart_time": "20:10",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "南宁",
+      "arrive_time": "20:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 46.5
+  },
+  "fetched_at": "2026-05-01T10:44:00.051427"
+}

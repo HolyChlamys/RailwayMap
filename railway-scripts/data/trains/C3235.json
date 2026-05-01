@@ -1,0 +1,59 @@
+{
+  "train_no": "C3235",
+  "train_type": "C",
+  "depart_station": "合肥南",
+  "arrive_station": "杭州西",
+  "depart_time": "19:58",
+  "arrive_time": "22:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "19:58",
+      "depart_time": "19:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "芜湖",
+      "arrive_time": "20:37",
+      "depart_time": "20:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "宣城",
+      "arrive_time": "21:05",
+      "depart_time": "21:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "安吉",
+      "arrive_time": "21:30",
+      "depart_time": "21:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "湖州",
+      "arrive_time": "21:50",
+      "depart_time": "21:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州西",
+      "arrive_time": "22:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 677.0,
+    "price_first": 349.0,
+    "price_second": 218.0,
+    "price_no_seat": 218.0
+  },
+  "fetched_at": "2026-05-01T00:54:49.236976"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G5782",
+  "train_type": "G",
+  "depart_station": "盘州",
+  "arrive_station": "贵阳北",
+  "depart_time": "11:19",
+  "arrive_time": "13:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "盘州",
+      "arrive_time": "11:19",
+      "depart_time": "11:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安顺西",
+      "arrive_time": "12:14",
+      "depart_time": "12:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "贵安",
+      "arrive_time": "12:36",
+      "depart_time": "12:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "金阳",
+      "arrive_time": "12:52",
+      "depart_time": "12:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "13:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 503.0,
+    "price_first": 230.0,
+    "price_second": 144.0,
+    "price_no_seat": 144.0
+  },
+  "fetched_at": "2026-05-01T07:42:13.670639"
+}

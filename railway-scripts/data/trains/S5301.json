@@ -1,0 +1,64 @@
+{
+  "train_no": "S5301",
+  "train_type": "S",
+  "depart_station": "金阳南",
+  "arrive_station": "花溪大学城",
+  "depart_time": "07:45",
+  "arrive_time": "08:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "金阳南",
+      "arrive_time": "07:45",
+      "depart_time": "07:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳北",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳",
+      "arrive_time": "08:20",
+      "depart_time": "08:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "双龙南",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "孟关",
+      "arrive_time": "08:40",
+      "depart_time": "08:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "花溪南",
+      "arrive_time": "08:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "花溪大学城",
+      "arrive_time": "08:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 32.0,
+    "price_no_seat": 32.0
+  },
+  "fetched_at": "2026-05-01T11:05:19.813475"
+}

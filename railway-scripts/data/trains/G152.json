@@ -1,0 +1,31 @@
+{
+  "train_no": "G152",
+  "train_type": "G",
+  "depart_station": "沈阳北",
+  "arrive_station": "北京朝阳",
+  "depart_time": "15:10",
+  "arrive_time": "15:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "15:10",
+      "depart_time": "15:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北京朝阳",
+      "arrive_time": "15:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1341.0,
+    "price_first": 613.0,
+    "price_second": 383.0,
+    "price_no_seat": 383.0
+  },
+  "fetched_at": "2026-05-01T05:45:23.711096"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "C9559",
+  "train_type": "C",
+  "depart_station": "福鼎",
+  "arrive_station": "厦门北",
+  "depart_time": "20:53",
+  "arrive_time": "23:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福鼎",
+      "arrive_time": "20:53",
+      "depart_time": "20:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "霞浦",
+      "arrive_time": "21:16",
+      "depart_time": "21:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "福安",
+      "arrive_time": "21:36",
+      "depart_time": "21:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宁德",
+      "arrive_time": "21:55",
+      "depart_time": "21:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "连江",
+      "arrive_time": "22:19",
+      "depart_time": "22:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "福州南",
+      "arrive_time": "22:41",
+      "depart_time": "22:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "泉州",
+      "arrive_time": "23:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "厦门北",
+      "arrive_time": "23:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 302.0,
+    "price_second": 189.0,
+    "price_no_seat": 189.0
+  },
+  "fetched_at": "2026-05-01T02:49:10.546461"
+}

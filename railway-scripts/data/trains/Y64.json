@@ -1,0 +1,75 @@
+{
+  "train_no": "Y64",
+  "train_type": "Y",
+  "depart_station": "沈阳北",
+  "arrive_station": "长沙",
+  "depart_time": "22:16",
+  "arrive_time": "07:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "22:16",
+      "depart_time": "22:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天津",
+      "arrive_time": "09:43",
+      "depart_time": "10:20",
+      "stay_min": "37"
+    },
+    {
+      "seq": 3,
+      "station_name": "衡水",
+      "arrive_time": "13:44",
+      "depart_time": "13:52",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "聊城",
+      "arrive_time": "15:39",
+      "depart_time": "16:11",
+      "stay_min": "32"
+    },
+    {
+      "seq": 5,
+      "station_name": "阜阳",
+      "arrive_time": "21:42",
+      "depart_time": "22:07",
+      "stay_min": "25"
+    },
+    {
+      "seq": 6,
+      "station_name": "麻城",
+      "arrive_time": "01:07",
+      "depart_time": "01:16",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "武昌",
+      "arrive_time": "03:16",
+      "depart_time": "03:39",
+      "stay_min": "23"
+    },
+    {
+      "seq": 8,
+      "station_name": "岳阳",
+      "arrive_time": "05:58",
+      "depart_time": "06:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "长沙",
+      "arrive_time": "07:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:36:20.890658"
+}

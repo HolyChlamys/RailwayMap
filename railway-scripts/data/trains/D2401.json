@@ -1,0 +1,93 @@
+{
+  "train_no": "D2401",
+  "train_type": "D",
+  "depart_station": "东莞南",
+  "arrive_station": "厦门",
+  "depart_time": "12:30",
+  "arrive_time": "16:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东莞南",
+      "arrive_time": "12:30",
+      "depart_time": "12:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "12:51",
+      "depart_time": "12:59",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠阳",
+      "arrive_time": "13:21",
+      "depart_time": "13:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "惠东南",
+      "arrive_time": "13:35",
+      "depart_time": "13:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "13:58",
+      "depart_time": "14:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "葵潭",
+      "arrive_time": "14:21",
+      "depart_time": "14:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "潮阳",
+      "arrive_time": "14:42",
+      "depart_time": "14:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "潮汕",
+      "arrive_time": "14:57",
+      "depart_time": "14:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "漳浦",
+      "arrive_time": "15:38",
+      "depart_time": "15:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "漳州",
+      "arrive_time": "15:57",
+      "depart_time": "15:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "厦门",
+      "arrive_time": "16:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 399.0,
+    "price_second": 250.0,
+    "price_no_seat": 250.0
+  },
+  "fetched_at": "2026-05-01T03:16:32.722341"
+}

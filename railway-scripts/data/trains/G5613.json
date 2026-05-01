@@ -1,0 +1,45 @@
+{
+  "train_no": "G5613",
+  "train_type": "G",
+  "depart_station": "汕尾",
+  "arrive_station": "深圳北",
+  "depart_time": "09:59",
+  "arrive_time": "10:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕尾",
+      "arrive_time": "09:59",
+      "depart_time": "09:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠东南",
+      "arrive_time": "10:23",
+      "depart_time": "10:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠阳",
+      "arrive_time": "10:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "10:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 242.0,
+    "price_first": 111.0,
+    "price_second": 69.0,
+    "price_no_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T07:38:31.453421"
+}

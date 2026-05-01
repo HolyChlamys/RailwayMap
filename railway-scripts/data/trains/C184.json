@@ -1,0 +1,44 @@
+{
+  "train_no": "C184",
+  "train_type": "C",
+  "depart_station": "西安",
+  "arrive_station": "延安",
+  "depart_time": "10:39",
+  "arrive_time": "12:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "10:39",
+      "depart_time": "10:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蒲城东",
+      "arrive_time": "11:29",
+      "depart_time": "11:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "甘泉北",
+      "arrive_time": "12:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "延安",
+      "arrive_time": "12:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 161.0,
+    "price_second": 101.0,
+    "price_no_seat": 101.0
+  },
+  "fetched_at": "2026-05-01T00:27:38.456180"
+}

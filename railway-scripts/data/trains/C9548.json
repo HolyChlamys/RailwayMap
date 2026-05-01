@@ -1,0 +1,65 @@
+{
+  "train_no": "C9548",
+  "train_type": "C",
+  "depart_station": "厦门北",
+  "arrive_station": "南昌东",
+  "depart_time": "18:54",
+  "arrive_time": "22:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "18:54",
+      "depart_time": "18:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "19:15",
+      "depart_time": "19:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙岩",
+      "arrive_time": "20:04",
+      "depart_time": "20:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长汀南",
+      "arrive_time": "20:50",
+      "depart_time": "20:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "瑞金",
+      "arrive_time": "21:07",
+      "depart_time": "21:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "吉安西",
+      "arrive_time": "22:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南昌东",
+      "arrive_time": "22:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 150.0,
+    "price_second": 94.0,
+    "price_no_seat": 94.0
+  },
+  "fetched_at": "2026-05-01T02:48:50.797438"
+}

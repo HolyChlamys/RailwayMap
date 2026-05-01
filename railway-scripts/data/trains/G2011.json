@@ -1,0 +1,66 @@
+{
+  "train_no": "G2011",
+  "train_type": "G",
+  "depart_station": "荣成",
+  "arrive_station": "郑州东",
+  "depart_time": "13:07",
+  "arrive_time": "17:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荣成",
+      "arrive_time": "13:07",
+      "depart_time": "13:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海阳",
+      "arrive_time": "13:39",
+      "depart_time": "13:42",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "莱西",
+      "arrive_time": "14:04",
+      "depart_time": "14:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "潍坊北",
+      "arrive_time": "14:39",
+      "depart_time": "14:43",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "济南西",
+      "arrive_time": "15:47",
+      "depart_time": "15:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "新乡东",
+      "arrive_time": "17:12",
+      "depart_time": "17:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州东",
+      "arrive_time": "17:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1750.0,
+    "price_first": 825.0,
+    "price_second": 515.0,
+    "price_no_seat": 515.0
+  },
+  "fetched_at": "2026-05-01T05:59:10.936584"
+}

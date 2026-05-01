@@ -1,0 +1,37 @@
+{
+  "train_no": "D8484",
+  "train_type": "D",
+  "depart_station": "凭祥东",
+  "arrive_station": "南宁",
+  "depart_time": "06:52",
+  "arrive_time": "07:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "凭祥东",
+      "arrive_time": "06:52",
+      "depart_time": "06:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "崇左南",
+      "arrive_time": "07:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南宁",
+      "arrive_time": "07:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 188.0,
+    "price_second": 118.0,
+    "price_no_seat": 118.0
+  },
+  "fetched_at": "2026-05-01T04:58:21.700032"
+}

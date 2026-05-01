@@ -1,0 +1,38 @@
+{
+  "train_no": "G3991",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "昆明南",
+  "depart_time": "23:16",
+  "arrive_time": "23:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "23:16",
+      "depart_time": "23:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安顺西",
+      "arrive_time": "23:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明南",
+      "arrive_time": "23:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 891.0,
+    "price_first": 407.0,
+    "price_second": 255.0,
+    "price_no_seat": 255.0
+  },
+  "fetched_at": "2026-05-01T06:52:33.357144"
+}

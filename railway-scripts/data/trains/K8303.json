@@ -1,0 +1,77 @@
+{
+  "train_no": "K8303",
+  "train_type": "K",
+  "depart_station": "青岛北",
+  "arrive_station": "菏泽",
+  "depart_time": "05:50",
+  "arrive_time": "13:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "05:50",
+      "depart_time": "05:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潍坊",
+      "arrive_time": "07:29",
+      "depart_time": "07:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "淄博",
+      "arrive_time": "08:35",
+      "depart_time": "08:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "大明湖",
+      "arrive_time": "09:48",
+      "depart_time": "09:54",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "晏城",
+      "arrive_time": "10:34",
+      "depart_time": "10:40",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "聊城",
+      "arrive_time": "11:44",
+      "depart_time": "11:50",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "阳谷",
+      "arrive_time": "12:17",
+      "depart_time": "12:21",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "台前",
+      "arrive_time": "12:33",
+      "depart_time": "12:36",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "菏泽",
+      "arrive_time": "13:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T10:38:19.414858"
+}

@@ -1,0 +1,79 @@
+{
+  "train_no": "G7101",
+  "train_type": "G",
+  "depart_station": "南京",
+  "arrive_station": "上海虹桥",
+  "depart_time": "06:09",
+  "arrive_time": "08:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "06:09",
+      "depart_time": "06:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "镇江",
+      "arrive_time": "06:31",
+      "depart_time": "06:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "丹阳",
+      "arrive_time": "06:46",
+      "depart_time": "06:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "常州",
+      "arrive_time": "07:03",
+      "depart_time": "07:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "无锡",
+      "arrive_time": "07:19",
+      "depart_time": "07:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "苏州新区",
+      "arrive_time": "07:38",
+      "depart_time": "07:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "苏州",
+      "arrive_time": "07:47",
+      "depart_time": "07:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "昆山南",
+      "arrive_time": "08:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "上海虹桥",
+      "arrive_time": "08:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 265.0,
+    "price_second": 166.0,
+    "price_no_seat": 166.0
+  },
+  "fetched_at": "2026-05-01T08:17:53.140052"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "G8024",
+  "train_type": "G",
+  "depart_station": "吉林",
+  "arrive_station": "大连北",
+  "depart_time": "16:32",
+  "arrive_time": "19:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "吉林",
+      "arrive_time": "16:32",
+      "depart_time": "16:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长春",
+      "arrive_time": "17:15",
+      "depart_time": "17:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "四平东",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "铁岭西",
+      "arrive_time": "18:23",
+      "depart_time": "18:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳",
+      "arrive_time": "18:47",
+      "depart_time": "18:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "辽阳",
+      "arrive_time": "19:11",
+      "depart_time": "19:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "鞍山西",
+      "arrive_time": "19:24",
+      "depart_time": "19:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "19:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "大连北",
+      "arrive_time": "19:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1399.5,
+    "price_first": 648.0,
+    "price_second": 405.0,
+    "price_no_seat": 405.0
+  },
+  "fetched_at": "2026-05-01T08:42:53.456144"
+}

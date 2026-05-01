@@ -1,0 +1,94 @@
+{
+  "train_no": "G3573",
+  "train_type": "G",
+  "depart_station": "徐州东",
+  "arrive_station": "青岛",
+  "depart_time": "06:26",
+  "arrive_time": "11:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "徐州东",
+      "arrive_time": "06:26",
+      "depart_time": "06:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枣庄",
+      "arrive_time": "06:44",
+      "depart_time": "06:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "滕州东",
+      "arrive_time": "06:58",
+      "depart_time": "07:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "曲阜东",
+      "arrive_time": "07:17",
+      "depart_time": "07:22",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "泰安",
+      "arrive_time": "07:43",
+      "depart_time": "07:50",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南",
+      "arrive_time": "08:13",
+      "depart_time": "08:18",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "淄博",
+      "arrive_time": "09:01",
+      "depart_time": "09:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "青州市",
+      "arrive_time": "09:22",
+      "depart_time": "09:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "潍坊",
+      "arrive_time": "09:45",
+      "depart_time": "09:49",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "青岛北",
+      "arrive_time": "10:48",
+      "depart_time": "10:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "青岛",
+      "arrive_time": "11:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1046.0,
+    "price_first": 478.0,
+    "price_second": 299.0,
+    "price_no_seat": 299.0
+  },
+  "fetched_at": "2026-05-01T06:41:39.962910"
+}

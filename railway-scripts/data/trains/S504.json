@@ -1,0 +1,64 @@
+{
+  "train_no": "S504",
+  "train_type": "S",
+  "depart_station": "古北口",
+  "arrive_station": "北京北",
+  "depart_time": "17:20",
+  "arrive_time": "19:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "古北口",
+      "arrive_time": "17:20",
+      "depart_time": "17:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黑山寺",
+      "arrive_time": "18:08",
+      "depart_time": "18:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "怀柔北",
+      "arrive_time": "18:30",
+      "depart_time": "18:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "雁栖湖",
+      "arrive_time": "18:40",
+      "depart_time": "18:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "昌平北",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "清河",
+      "arrive_time": "19:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "北京北",
+      "arrive_time": "19:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 10.0,
+    "price_no_seat": 10.0
+  },
+  "fetched_at": "2026-05-01T10:59:50.593992"
+}

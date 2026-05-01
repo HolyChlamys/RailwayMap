@@ -1,0 +1,59 @@
+{
+  "train_no": "C3025",
+  "train_type": "C",
+  "depart_station": "合肥南",
+  "arrive_station": "上海南",
+  "depart_time": "09:00",
+  "arrive_time": "11:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "芜湖",
+      "arrive_time": "09:37",
+      "depart_time": "09:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "宣城",
+      "arrive_time": "10:06",
+      "depart_time": "10:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "盛泽",
+      "arrive_time": "11:00",
+      "depart_time": "11:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "苏州南",
+      "arrive_time": "11:13",
+      "depart_time": "11:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "上海南",
+      "arrive_time": "11:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 891.5,
+    "price_first": 447.0,
+    "price_second": 278.0,
+    "price_no_seat": 278.0
+  },
+  "fetched_at": "2026-05-01T00:49:00.307961"
+}

@@ -1,0 +1,65 @@
+{
+  "train_no": "D6538",
+  "train_type": "D",
+  "depart_station": "泰宁",
+  "arrive_station": "宁德",
+  "depart_time": "07:23",
+  "arrive_time": "10:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "泰宁",
+      "arrive_time": "07:23",
+      "depart_time": "07:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "将乐",
+      "arrive_time": "07:40",
+      "depart_time": "07:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "三明北",
+      "arrive_time": "08:01",
+      "depart_time": "08:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "永泰",
+      "arrive_time": "08:51",
+      "depart_time": "08:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "福州",
+      "arrive_time": "09:19",
+      "depart_time": "09:23",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "连江",
+      "arrive_time": "09:45",
+      "depart_time": "09:57",
+      "stay_min": "12"
+    },
+    {
+      "seq": 7,
+      "station_name": "宁德",
+      "arrive_time": "10:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 234.0,
+    "price_second": 146.0,
+    "price_no_seat": 146.0
+  },
+  "fetched_at": "2026-05-01T04:24:34.745770"
+}

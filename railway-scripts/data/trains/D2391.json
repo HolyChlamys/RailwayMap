@@ -1,0 +1,79 @@
+{
+  "train_no": "D2391",
+  "train_type": "D",
+  "depart_station": "梅州西",
+  "arrive_station": "厦门",
+  "depart_time": "07:50",
+  "arrive_time": "10:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梅州西",
+      "arrive_time": "07:50",
+      "depart_time": "07:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "揭阳",
+      "arrive_time": "08:17",
+      "depart_time": "08:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "揭阳机场",
+      "arrive_time": "08:31",
+      "depart_time": "08:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "潮汕",
+      "arrive_time": "08:42",
+      "depart_time": "08:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "诏安",
+      "arrive_time": "09:06",
+      "depart_time": "09:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "云霄",
+      "arrive_time": "09:22",
+      "depart_time": "09:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "漳浦",
+      "arrive_time": "09:36",
+      "depart_time": "09:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "漳州",
+      "arrive_time": "09:55",
+      "depart_time": "09:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "厦门",
+      "arrive_time": "10:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 269.0,
+    "price_second": 169.0,
+    "price_no_seat": 169.0
+  },
+  "fetched_at": "2026-05-01T03:16:19.548414"
+}

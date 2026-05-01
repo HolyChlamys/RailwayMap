@@ -1,0 +1,37 @@
+{
+  "train_no": "D9909",
+  "train_type": "D",
+  "depart_station": "西宁",
+  "arrive_station": "门源",
+  "depart_time": "08:55",
+  "arrive_time": "09:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西宁",
+      "arrive_time": "08:55",
+      "depart_time": "08:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大通西",
+      "arrive_time": "09:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "门源",
+      "arrive_time": "09:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 48.0,
+    "price_second": 30.0,
+    "price_no_seat": 30.0
+  },
+  "fetched_at": "2026-05-01T05:27:54.334007"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "C5110",
+  "train_type": "C",
+  "depart_station": "平潭",
+  "arrive_station": "福州",
+  "depart_time": "14:06",
+  "arrive_time": "14:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "平潭",
+      "arrive_time": "14:06",
+      "depart_time": "14:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长乐东",
+      "arrive_time": "14:28",
+      "depart_time": "14:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "福州南",
+      "arrive_time": "14:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福州",
+      "arrive_time": "14:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 79.0,
+    "price_second": 50.0,
+    "price_no_seat": 50.0
+  },
+  "fetched_at": "2026-05-01T01:26:53.024442"
+}

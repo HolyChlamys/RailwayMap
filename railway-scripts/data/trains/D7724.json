@@ -1,0 +1,51 @@
+{
+  "train_no": "D7724",
+  "train_type": "D",
+  "depart_station": "庄河北",
+  "arrive_station": "大连",
+  "depart_time": "07:07",
+  "arrive_time": "08:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "庄河北",
+      "arrive_time": "07:07",
+      "depart_time": "07:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "皮口",
+      "arrive_time": "07:32",
+      "depart_time": "07:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "登沙河",
+      "arrive_time": "07:49",
+      "depart_time": "07:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "金州",
+      "arrive_time": "08:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "大连",
+      "arrive_time": "08:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 98.5,
+    "price_second": 61.0,
+    "price_no_seat": 61.0
+  },
+  "fetched_at": "2026-05-01T04:43:39.265033"
+}

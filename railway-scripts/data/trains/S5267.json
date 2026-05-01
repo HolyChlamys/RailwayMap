@@ -1,0 +1,50 @@
+{
+  "train_no": "S5267",
+  "train_type": "S",
+  "depart_station": "邛崃",
+  "arrive_station": "成都东",
+  "depart_time": "19:31",
+  "arrive_time": "20:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邛崃",
+      "arrive_time": "19:31",
+      "depart_time": "19:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大邑",
+      "arrive_time": "19:40",
+      "depart_time": "19:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "崇州",
+      "arrive_time": "19:51",
+      "depart_time": "19:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "成都南",
+      "arrive_time": "20:15",
+      "depart_time": "20:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "20:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 39.0,
+    "price_no_seat": 39.0
+  },
+  "fetched_at": "2026-05-01T11:04:41.942187"
+}

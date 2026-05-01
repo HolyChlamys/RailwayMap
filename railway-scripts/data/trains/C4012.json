@@ -1,0 +1,50 @@
+{
+  "train_no": "C4012",
+  "train_type": "C",
+  "depart_station": "广州白云",
+  "arrive_station": "成都东",
+  "depart_time": "23:15",
+  "arrive_time": "01:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "23:15",
+      "depart_time": "23:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙",
+      "arrive_time": "07:05",
+      "depart_time": "07:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南充北",
+      "arrive_time": "23:48",
+      "depart_time": "23:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "遂宁",
+      "arrive_time": "00:28",
+      "depart_time": "00:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "01:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 217.0,
+    "price_no_seat": 217.0
+  },
+  "fetched_at": "2026-05-01T01:06:12.392939"
+}

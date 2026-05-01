@@ -1,0 +1,52 @@
+{
+  "train_no": "C8670",
+  "train_type": "C",
+  "depart_station": "贺州",
+  "arrive_station": "北海",
+  "depart_time": "14:26",
+  "arrive_time": "18:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贺州",
+      "arrive_time": "14:26",
+      "depart_time": "14:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桂林",
+      "arrive_time": "15:21",
+      "depart_time": "15:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "柳州",
+      "arrive_time": "16:21",
+      "depart_time": "16:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁东",
+      "arrive_time": "17:22",
+      "depart_time": "17:42",
+      "stay_min": "20"
+    },
+    {
+      "seq": 5,
+      "station_name": "北海",
+      "arrive_time": "18:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1098.0,
+    "price_first": 514.0,
+    "price_second": 320.5,
+    "price_no_seat": 320.5
+  },
+  "fetched_at": "2026-05-01T02:35:46.092134"
+}

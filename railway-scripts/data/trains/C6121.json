@@ -1,0 +1,30 @@
+{
+  "train_no": "C6121",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "自贡",
+  "depart_time": "22:10",
+  "arrive_time": "22:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "22:10",
+      "depart_time": "22:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "自贡",
+      "arrive_time": "22:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 142.0,
+    "price_second": 89.0,
+    "price_no_seat": 89.0
+  },
+  "fetched_at": "2026-05-01T01:44:58.011126"
+}

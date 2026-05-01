@@ -1,0 +1,43 @@
+{
+  "train_no": "C5949",
+  "train_type": "C",
+  "depart_station": "毕节",
+  "arrive_station": "贵阳北",
+  "depart_time": "17:51",
+  "arrive_time": "18:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "毕节",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大方",
+      "arrive_time": "18:03",
+      "depart_time": "18:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黔西",
+      "arrive_time": "18:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "18:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 77.0,
+    "price_no_seat": 77.0
+  },
+  "fetched_at": "2026-05-01T01:41:53.390932"
+}

@@ -1,0 +1,49 @@
+{
+  "train_no": "K5156",
+  "train_type": "K",
+  "depart_station": "宝清",
+  "arrive_station": "佳木斯",
+  "depart_time": "07:55",
+  "arrive_time": "10:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宝清",
+      "arrive_time": "07:55",
+      "depart_time": "07:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新友谊",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "红兴隆",
+      "arrive_time": "09:26",
+      "depart_time": "09:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福利屯",
+      "arrive_time": "10:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "佳木斯",
+      "arrive_time": "10:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.0
+  },
+  "fetched_at": "2026-05-01T10:05:02.625874"
+}

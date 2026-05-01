@@ -1,0 +1,44 @@
+{
+  "train_no": "D4021",
+  "train_type": "D",
+  "depart_station": "武汉",
+  "arrive_station": "苏州",
+  "depart_time": "22:23",
+  "arrive_time": "02:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "22:23",
+      "depart_time": "22:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "00:04",
+      "depart_time": "00:08",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "01:00",
+      "depart_time": "01:04",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "苏州",
+      "arrive_time": "02:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 522.5,
+    "price_second": 327.0,
+    "price_no_seat": 327.0
+  },
+  "fetched_at": "2026-05-01T03:42:47.308965"
+}

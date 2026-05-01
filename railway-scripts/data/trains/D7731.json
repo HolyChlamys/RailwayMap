@@ -1,0 +1,93 @@
+{
+  "train_no": "D7731",
+  "train_type": "D",
+  "depart_station": "沈阳",
+  "arrive_station": "大连北",
+  "depart_time": "07:56",
+  "arrive_time": "11:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "本溪",
+      "arrive_time": "08:27",
+      "depart_time": "08:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "通远堡西",
+      "arrive_time": "08:49",
+      "depart_time": "08:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "凤城东",
+      "arrive_time": "09:05",
+      "depart_time": "09:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "丹东",
+      "arrive_time": "09:24",
+      "depart_time": "09:42",
+      "stay_min": "18"
+    },
+    {
+      "seq": 6,
+      "station_name": "东港北",
+      "arrive_time": "10:01",
+      "depart_time": "10:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "大孤山",
+      "arrive_time": "10:21",
+      "depart_time": "10:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "庄河北",
+      "arrive_time": "10:46",
+      "depart_time": "10:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "皮口",
+      "arrive_time": "11:11",
+      "depart_time": "11:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "金州",
+      "arrive_time": "11:42",
+      "depart_time": "11:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "大连北",
+      "arrive_time": "11:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 288.5,
+    "price_second": 179.5,
+    "price_no_seat": 179.5
+  },
+  "fetched_at": "2026-05-01T04:43:47.536756"
+}

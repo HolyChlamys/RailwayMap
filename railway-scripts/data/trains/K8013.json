@@ -1,0 +1,35 @@
+{
+  "train_no": "K8013",
+  "train_type": "K",
+  "depart_station": "安阳",
+  "arrive_station": "红旗渠",
+  "depart_time": "16:07",
+  "arrive_time": "17:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安阳",
+      "arrive_time": "16:07",
+      "depart_time": "16:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汤阴",
+      "arrive_time": "16:24",
+      "depart_time": "16:52",
+      "stay_min": "28"
+    },
+    {
+      "seq": 3,
+      "station_name": "红旗渠",
+      "arrive_time": "17:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 14.5
+  },
+  "fetched_at": "2026-05-01T10:33:49.239470"
+}

@@ -1,0 +1,66 @@
+{
+  "train_no": "G356",
+  "train_type": "G",
+  "depart_station": "北京西",
+  "arrive_station": "银川",
+  "depart_time": "12:55",
+  "arrive_time": "20:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "12:55",
+      "depart_time": "12:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "13:56",
+      "depart_time": "13:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "15:14",
+      "depart_time": "15:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "西安北",
+      "arrive_time": "17:08",
+      "depart_time": "17:12",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "庆阳",
+      "arrive_time": "18:19",
+      "depart_time": "18:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "吴忠",
+      "arrive_time": "19:44",
+      "depart_time": "19:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "银川",
+      "arrive_time": "20:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3118.0,
+    "price_first": 1433.0,
+    "price_second": 896.0,
+    "price_no_seat": 896.0
+  },
+  "fetched_at": "2026-05-01T06:41:20.234843"
+}

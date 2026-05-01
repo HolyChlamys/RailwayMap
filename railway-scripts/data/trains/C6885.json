@@ -1,0 +1,36 @@
+{
+  "train_no": "C6885",
+  "train_type": "C",
+  "depart_station": "广州  白云",
+  "arrive_station": "清城",
+  "depart_time": "18:36",
+  "arrive_time": "18:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州  白云",
+      "arrive_time": "18:36",
+      "depart_time": "18:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "花都",
+      "arrive_time": "18:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "清城",
+      "arrive_time": "18:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 38.0,
+    "price_no_seat": 38.0
+  },
+  "fetched_at": "2026-05-01T01:59:25.046254"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "C8983",
+  "train_type": "C",
+  "depart_station": "延安",
+  "arrive_station": "西安北",
+  "depart_time": "17:30",
+  "arrive_time": "18:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "延安",
+      "arrive_time": "17:30",
+      "depart_time": "17:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "富县北",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜君",
+      "arrive_time": "18:16",
+      "depart_time": "18:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "铜川",
+      "arrive_time": "18:36",
+      "depart_time": "18:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "富平南",
+      "arrive_time": "18:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西安北",
+      "arrive_time": "18:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 836.0,
+    "price_first": 382.0,
+    "price_second": 239.0,
+    "price_no_seat": 239.0
+  },
+  "fetched_at": "2026-05-01T02:39:24.407536"
+}

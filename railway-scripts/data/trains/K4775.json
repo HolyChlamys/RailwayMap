@@ -1,0 +1,75 @@
+{
+  "train_no": "K4775",
+  "train_type": "K",
+  "depart_station": "洛阳",
+  "arrive_station": "信阳",
+  "depart_time": "09:10",
+  "arrive_time": "15:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "洛阳",
+      "arrive_time": "09:10",
+      "depart_time": "09:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "偃师",
+      "arrive_time": "09:34",
+      "depart_time": "09:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "巩义",
+      "arrive_time": "09:57",
+      "depart_time": "10:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州",
+      "arrive_time": "10:58",
+      "depart_time": "11:28",
+      "stay_min": "30"
+    },
+    {
+      "seq": 5,
+      "station_name": "许昌",
+      "arrive_time": "12:28",
+      "depart_time": "12:41",
+      "stay_min": "13"
+    },
+    {
+      "seq": 6,
+      "station_name": "漯河",
+      "arrive_time": "13:16",
+      "depart_time": "13:22",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "驻马店",
+      "arrive_time": "14:01",
+      "depart_time": "14:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "确山",
+      "arrive_time": "14:21",
+      "depart_time": "14:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "信阳",
+      "arrive_time": "15:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T09:59:04.169054"
+}

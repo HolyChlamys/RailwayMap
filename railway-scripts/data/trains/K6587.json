@@ -1,0 +1,49 @@
+{
+  "train_no": "K6587",
+  "train_type": "K",
+  "depart_station": "衡阳",
+  "arrive_station": "东莞东",
+  "depart_time": "08:29",
+  "arrive_time": "15:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "衡阳",
+      "arrive_time": "08:29",
+      "depart_time": "08:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郴州",
+      "arrive_time": "10:09",
+      "depart_time": "10:15",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "韶关东",
+      "arrive_time": "11:58",
+      "depart_time": "12:04",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州北",
+      "arrive_time": "14:03",
+      "depart_time": "14:08",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "东莞东",
+      "arrive_time": "15:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 96.0
+  },
+  "fetched_at": "2026-05-01T10:23:32.102962"
+}

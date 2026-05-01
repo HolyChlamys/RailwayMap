@@ -1,0 +1,35 @@
+{
+  "train_no": "K4175",
+  "train_type": "K",
+  "depart_station": "武昌",
+  "arrive_station": "深圳东",
+  "depart_time": "21:19",
+  "arrive_time": "22:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "21:19",
+      "depart_time": "21:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸宁",
+      "arrive_time": "22:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳东",
+      "arrive_time": "22:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 148.5
+  },
+  "fetched_at": "2026-05-01T09:49:32.481369"
+}

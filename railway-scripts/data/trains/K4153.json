@@ -1,0 +1,63 @@
+{
+  "train_no": "K4153",
+  "train_type": "K",
+  "depart_station": "武昌",
+  "arrive_station": "长沙",
+  "depart_time": "09:15",
+  "arrive_time": "13:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "09:15",
+      "depart_time": "09:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸宁",
+      "arrive_time": "10:07",
+      "depart_time": "10:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "赤壁",
+      "arrive_time": "10:57",
+      "depart_time": "10:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "岳阳",
+      "arrive_time": "12:12",
+      "depart_time": "12:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "岳阳南",
+      "arrive_time": "12:45",
+      "depart_time": "12:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "汨罗",
+      "arrive_time": "13:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙",
+      "arrive_time": "13:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 53.5
+  },
+  "fetched_at": "2026-05-01T09:49:01.089372"
+}

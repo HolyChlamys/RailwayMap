@@ -1,0 +1,59 @@
+{
+  "train_no": "G7419",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "黄山北",
+  "depart_time": "16:07",
+  "arrive_time": "17:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "16:07",
+      "depart_time": "16:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "铜陵北",
+      "arrive_time": "16:46",
+      "depart_time": "16:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泾县",
+      "arrive_time": "17:05",
+      "depart_time": "17:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绩溪北",
+      "arrive_time": "17:27",
+      "depart_time": "17:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "歙县北",
+      "arrive_time": "17:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黄山北",
+      "arrive_time": "17:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 443.5,
+    "price_first": 236.5,
+    "price_second": 140.5,
+    "price_no_seat": 140.5
+  },
+  "fetched_at": "2026-05-01T08:26:51.239821"
+}

@@ -1,0 +1,30 @@
+{
+  "train_no": "D4593",
+  "train_type": "D",
+  "depart_station": "宁波",
+  "arrive_station": "福州",
+  "depart_time": "01:15",
+  "arrive_time": "01:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "01:15",
+      "depart_time": "01:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福州",
+      "arrive_time": "01:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 405.0,
+    "price_second": 253.0,
+    "price_no_seat": 253.0
+  },
+  "fetched_at": "2026-05-01T03:53:55.134803"
+}

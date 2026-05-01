@@ -1,0 +1,122 @@
+{
+  "train_no": "G277",
+  "train_type": "G",
+  "depart_station": "昆明南",
+  "arrive_station": "青岛",
+  "depart_time": "13:46",
+  "arrive_time": "19:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "13:46",
+      "depart_time": "13:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲靖北",
+      "arrive_time": "14:25",
+      "depart_time": "14:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "盘州",
+      "arrive_time": "15:04",
+      "depart_time": "15:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺西",
+      "arrive_time": "16:02",
+      "depart_time": "16:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "16:36",
+      "depart_time": "16:42",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "修文县",
+      "arrive_time": "16:57",
+      "depart_time": "17:10",
+      "stay_min": "13"
+    },
+    {
+      "seq": 7,
+      "station_name": "遵义",
+      "arrive_time": "17:44",
+      "depart_time": "17:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "桐梓北",
+      "arrive_time": "18:18",
+      "depart_time": "18:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "綦江东",
+      "arrive_time": "18:49",
+      "depart_time": "18:57",
+      "stay_min": "8"
+    },
+    {
+      "seq": 10,
+      "station_name": "重庆西",
+      "arrive_time": "19:22",
+      "depart_time": "19:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "济南",
+      "arrive_time": "16:49",
+      "depart_time": "16:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "淄博",
+      "arrive_time": "17:34",
+      "depart_time": "17:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "潍坊",
+      "arrive_time": "18:11",
+      "depart_time": "18:16",
+      "stay_min": "5"
+    },
+    {
+      "seq": 14,
+      "station_name": "胶州北",
+      "arrive_time": "18:54",
+      "depart_time": "18:59",
+      "stay_min": "5"
+    },
+    {
+      "seq": 15,
+      "station_name": "青岛",
+      "arrive_time": "19:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1307.0,
+    "price_first": 629.0,
+    "price_second": 394.0,
+    "price_no_seat": 394.0
+  },
+  "fetched_at": "2026-05-01T06:19:48.840112"
+}

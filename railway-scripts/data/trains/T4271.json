@@ -1,0 +1,28 @@
+{
+  "train_no": "T4271",
+  "train_type": "T",
+  "depart_station": "郑州",
+  "arrive_station": "洛阳",
+  "depart_time": "08:13",
+  "arrive_time": "08:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州",
+      "arrive_time": "08:13",
+      "depart_time": "08:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛阳",
+      "arrive_time": "08:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 19.5
+  },
+  "fetched_at": "2026-05-01T11:25:32.494971"
+}

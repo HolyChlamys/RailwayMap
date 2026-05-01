@@ -1,0 +1,101 @@
+{
+  "train_no": "G1842",
+  "train_type": "G",
+  "depart_station": "济南东",
+  "arrive_station": "成都东",
+  "depart_time": "06:29",
+  "arrive_time": "14:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "06:29",
+      "depart_time": "06:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南",
+      "arrive_time": "06:46",
+      "depart_time": "06:52",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "泰安",
+      "arrive_time": "07:16",
+      "depart_time": "07:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "曲阜东",
+      "arrive_time": "07:38",
+      "depart_time": "07:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "菏泽东",
+      "arrive_time": "08:27",
+      "depart_time": "08:32",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州东",
+      "arrive_time": "09:26",
+      "depart_time": "09:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "洛阳龙门",
+      "arrive_time": "10:05",
+      "depart_time": "10:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "西安北",
+      "arrive_time": "11:25",
+      "depart_time": "11:30",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "广元",
+      "arrive_time": "13:18",
+      "depart_time": "13:22",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "江油",
+      "arrive_time": "13:59",
+      "depart_time": "14:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "绵阳",
+      "arrive_time": "14:18",
+      "depart_time": "14:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "成都东",
+      "arrive_time": "14:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3052.0,
+    "price_first": 1396.0,
+    "price_second": 872.0,
+    "price_no_seat": 872.0
+  },
+  "fetched_at": "2026-05-01T05:54:25.901179"
+}

@@ -1,0 +1,58 @@
+{
+  "train_no": "D4293",
+  "train_type": "D",
+  "depart_station": "成都东",
+  "arrive_station": "广州南",
+  "depart_time": "18:56",
+  "arrive_time": "23:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "18:56",
+      "depart_time": "18:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新津南",
+      "arrive_time": "19:25",
+      "depart_time": "19:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜宾西",
+      "arrive_time": "20:33",
+      "depart_time": "20:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳东",
+      "arrive_time": "22:25",
+      "depart_time": "22:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "都匀东",
+      "arrive_time": "23:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "23:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1143.0,
+    "price_second": 714.0,
+    "price_no_seat": 714.0
+  },
+  "fetched_at": "2026-05-01T03:47:06.349058"
+}

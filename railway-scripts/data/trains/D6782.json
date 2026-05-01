@@ -1,0 +1,30 @@
+{
+  "train_no": "D6782",
+  "train_type": "D",
+  "depart_station": "巴彦淖尔",
+  "arrive_station": "乌拉特前旗",
+  "depart_time": "17:46",
+  "arrive_time": "17:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "17:46",
+      "depart_time": "17:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌拉特前旗",
+      "arrive_time": "17:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 118.0,
+    "price_second": 73.0,
+    "price_no_seat": 73.0
+  },
+  "fetched_at": "2026-05-01T04:28:39.963704"
+}

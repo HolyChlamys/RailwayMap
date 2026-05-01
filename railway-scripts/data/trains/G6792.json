@@ -1,0 +1,52 @@
+{
+  "train_no": "G6792",
+  "train_type": "G",
+  "depart_station": "襄阳东",
+  "arrive_station": "汉口",
+  "depart_time": "08:03",
+  "arrive_time": "09:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳东",
+      "arrive_time": "08:03",
+      "depart_time": "08:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "随州南",
+      "arrive_time": "08:35",
+      "depart_time": "08:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "云梦东",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "孝感东",
+      "arrive_time": "09:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汉口",
+      "arrive_time": "09:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 451.0,
+    "price_first": 241.0,
+    "price_second": 150.0,
+    "price_no_seat": 150.0
+  },
+  "fetched_at": "2026-05-01T08:09:00.548609"
+}

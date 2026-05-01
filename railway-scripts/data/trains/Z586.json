@@ -1,0 +1,91 @@
+{
+  "train_no": "Z586",
+  "train_type": "Z",
+  "depart_station": "深圳东",
+  "arrive_station": "成都西",
+  "depart_time": "20:58",
+  "arrive_time": "18:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳东",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞",
+      "arrive_time": "21:36",
+      "depart_time": "21:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州北",
+      "arrive_time": "22:37",
+      "depart_time": "22:41",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "衡阳",
+      "arrive_time": "04:02",
+      "depart_time": "04:27",
+      "stay_min": "25"
+    },
+    {
+      "seq": 5,
+      "station_name": "怀化南",
+      "arrive_time": "07:31",
+      "depart_time": "07:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "铜仁",
+      "arrive_time": "09:11",
+      "depart_time": "09:17",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "秀山",
+      "arrive_time": "10:35",
+      "depart_time": "10:43",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "黔江",
+      "arrive_time": "12:01",
+      "depart_time": "12:09",
+      "stay_min": "8"
+    },
+    {
+      "seq": 9,
+      "station_name": "涪陵",
+      "arrive_time": "14:12",
+      "depart_time": "14:18",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "重庆北",
+      "arrive_time": "15:24",
+      "depart_time": "15:54",
+      "stay_min": "30"
+    },
+    {
+      "seq": 11,
+      "station_name": "成都西",
+      "arrive_time": "18:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 217.0
+  },
+  "fetched_at": "2026-05-01T11:50:23.123608"
+}

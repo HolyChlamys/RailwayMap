@@ -1,0 +1,52 @@
+{
+  "train_no": "G9283",
+  "train_type": "G",
+  "depart_station": "阜阳西",
+  "arrive_station": "合肥南",
+  "depart_time": "10:57",
+  "arrive_time": "12:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜阳西",
+      "arrive_time": "10:57",
+      "depart_time": "10:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "凤台南",
+      "arrive_time": "11:24",
+      "depart_time": "11:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "淮南南",
+      "arrive_time": "11:43",
+      "depart_time": "11:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥西",
+      "arrive_time": "12:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥南",
+      "arrive_time": "12:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 388.0,
+    "price_first": 206.5,
+    "price_second": 128.5,
+    "price_no_seat": 128.5
+  },
+  "fetched_at": "2026-05-01T09:10:16.310091"
+}

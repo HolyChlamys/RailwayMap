@@ -1,0 +1,44 @@
+{
+  "train_no": "C239",
+  "train_type": "C",
+  "depart_station": "西安",
+  "arrive_station": "万源",
+  "depart_time": "08:37",
+  "arrive_time": "13:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "08:37",
+      "depart_time": "08:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安康",
+      "arrive_time": "11:16",
+      "depart_time": "11:27",
+      "stay_min": "11"
+    },
+    {
+      "seq": 3,
+      "station_name": "紫阳",
+      "arrive_time": "12:07",
+      "depart_time": "12:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "万源",
+      "arrive_time": "13:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 193.0,
+    "price_second": 121.0,
+    "price_no_seat": 121.0
+  },
+  "fetched_at": "2026-05-01T00:37:53.873293"
+}

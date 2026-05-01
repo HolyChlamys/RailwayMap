@@ -1,0 +1,44 @@
+{
+  "train_no": "D9895",
+  "train_type": "D",
+  "depart_station": "泰宁",
+  "arrive_station": "厦门",
+  "depart_time": "20:37",
+  "arrive_time": "22:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "泰宁",
+      "arrive_time": "20:37",
+      "depart_time": "20:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三明北",
+      "arrive_time": "21:16",
+      "depart_time": "21:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泉州",
+      "arrive_time": "22:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "厦门",
+      "arrive_time": "22:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 288.0,
+    "price_second": 180.0,
+    "price_no_seat": 180.0
+  },
+  "fetched_at": "2026-05-01T05:27:32.967078"
+}

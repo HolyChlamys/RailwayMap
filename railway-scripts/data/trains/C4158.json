@@ -1,0 +1,51 @@
+{
+  "train_no": "C4158",
+  "train_type": "C",
+  "depart_station": "襄阳",
+  "arrive_station": "汉口",
+  "depart_time": "11:10",
+  "arrive_time": "12:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枣阳",
+      "arrive_time": "11:48",
+      "depart_time": "11:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "随州",
+      "arrive_time": "12:27",
+      "depart_time": "12:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安陆",
+      "arrive_time": "12:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汉口",
+      "arrive_time": "12:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 156.0,
+    "price_second": 97.0,
+    "price_no_seat": 97.0
+  },
+  "fetched_at": "2026-05-01T01:09:37.307047"
+}

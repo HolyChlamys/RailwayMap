@@ -1,0 +1,51 @@
+{
+  "train_no": "D1925",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "成都东",
+  "depart_time": "10:55",
+  "arrive_time": "14:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "10:55",
+      "depart_time": "10:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉中",
+      "arrive_time": "12:12",
+      "depart_time": "12:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广元",
+      "arrive_time": "13:01",
+      "depart_time": "13:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "罗江东",
+      "arrive_time": "14:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "14:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 506.0,
+    "price_second": 316.0,
+    "price_no_seat": 316.0
+  },
+  "fetched_at": "2026-05-01T03:07:54.909843"
+}

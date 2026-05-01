@@ -1,0 +1,70 @@
+{
+  "train_no": "K5151",
+  "train_type": "K",
+  "depart_station": "哈尔滨东",
+  "arrive_station": "北安",
+  "depart_time": "15:20",
+  "arrive_time": "19:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨东",
+      "arrive_time": "15:20",
+      "depart_time": "15:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绥化",
+      "arrive_time": "17:09",
+      "depart_time": "17:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "四方台",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绥棱",
+      "arrive_time": "18:24",
+      "depart_time": "18:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "海伦",
+      "arrive_time": "19:03",
+      "depart_time": "19:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "海北",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "通北",
+      "arrive_time": "19:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "北安",
+      "arrive_time": "19:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 50.5
+  },
+  "fetched_at": "2026-05-01T10:04:57.599675"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G9169",
+  "train_type": "G",
+  "depart_station": "沈阳北",
+  "arrive_station": "延吉西",
+  "depart_time": "20:16",
+  "arrive_time": "23:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "20:16",
+      "depart_time": "20:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚顺",
+      "arrive_time": "20:37",
+      "depart_time": "20:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "通化",
+      "arrive_time": "21:22",
+      "depart_time": "21:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长白山",
+      "arrive_time": "22:15",
+      "depart_time": "22:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "敦化",
+      "arrive_time": "23:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "延吉西",
+      "arrive_time": "23:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1483.5,
+    "price_first": 686.0,
+    "price_second": 429.0,
+    "price_no_seat": 429.0
+  },
+  "fetched_at": "2026-05-01T09:07:29.057370"
+}

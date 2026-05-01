@@ -1,0 +1,80 @@
+{
+  "train_no": "G8413",
+  "train_type": "G",
+  "depart_station": "汕头",
+  "arrive_station": "广州东",
+  "depart_time": "11:19",
+  "arrive_time": "13:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "11:19",
+      "depart_time": "11:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汕头南",
+      "arrive_time": "11:30",
+      "depart_time": "11:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潮南",
+      "arrive_time": "11:41",
+      "depart_time": "11:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "惠来",
+      "arrive_time": "11:55",
+      "depart_time": "11:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "陆丰东",
+      "arrive_time": "12:11",
+      "depart_time": "12:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "陆丰南",
+      "arrive_time": "12:23",
+      "depart_time": "12:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "汕尾",
+      "arrive_time": "12:36",
+      "depart_time": "12:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "广州新塘",
+      "arrive_time": "13:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "广州东",
+      "arrive_time": "13:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1026.0,
+    "price_first": 457.0,
+    "price_second": 293.0,
+    "price_no_seat": 293.0
+  },
+  "fetched_at": "2026-05-01T08:50:13.684272"
+}

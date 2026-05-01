@@ -1,0 +1,31 @@
+{
+  "train_no": "G9943",
+  "train_type": "G",
+  "depart_station": "曲靖北",
+  "arrive_station": "昆明南",
+  "depart_time": "10:00",
+  "arrive_time": "10:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "曲靖北",
+      "arrive_time": "10:00",
+      "depart_time": "10:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆明南",
+      "arrive_time": "10:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 246.0,
+    "price_first": 113.0,
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T09:28:33.565525"
+}

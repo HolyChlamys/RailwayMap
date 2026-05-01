@@ -1,0 +1,63 @@
+{
+  "train_no": "Z196",
+  "train_type": "Z",
+  "depart_station": "上海",
+  "arrive_station": "太原",
+  "depart_time": "18:00",
+  "arrive_time": "07:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "18:00",
+      "depart_time": "18:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "无锡",
+      "arrive_time": "19:08",
+      "depart_time": "19:12",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "常州",
+      "arrive_time": "19:34",
+      "depart_time": "19:38",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京",
+      "arrive_time": "20:48",
+      "depart_time": "20:54",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "德州",
+      "arrive_time": "03:40",
+      "depart_time": "03:48",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "石家庄北",
+      "arrive_time": "05:53",
+      "depart_time": "06:01",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "太原",
+      "arrive_time": "07:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 180.5
+  },
+  "fetched_at": "2026-05-01T11:44:42.935878"
+}

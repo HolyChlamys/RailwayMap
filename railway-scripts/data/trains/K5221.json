@@ -1,0 +1,49 @@
+{
+  "train_no": "K5221",
+  "train_type": "K",
+  "depart_station": "北京丰台",
+  "arrive_station": "清河城",
+  "depart_time": "06:59",
+  "arrive_time": "10:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京丰台",
+      "arrive_time": "06:59",
+      "depart_time": "06:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肃宁",
+      "arrive_time": "09:29",
+      "depart_time": "09:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深州",
+      "arrive_time": "10:08",
+      "depart_time": "10:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "衡水",
+      "arrive_time": "10:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "清河城",
+      "arrive_time": "10:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 51.5
+  },
+  "fetched_at": "2026-05-01T10:06:33.400127"
+}

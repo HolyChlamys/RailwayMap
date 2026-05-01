@@ -1,0 +1,86 @@
+{
+  "train_no": "D2520",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "太原南",
+  "depart_time": "13:38",
+  "arrive_time": "16:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "13:38",
+      "depart_time": "13:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "渭南北",
+      "arrive_time": "14:00",
+      "depart_time": "14:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大荔",
+      "arrive_time": "14:20",
+      "depart_time": "14:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "运城北",
+      "arrive_time": "14:57",
+      "depart_time": "14:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "闻喜西",
+      "arrive_time": "15:14",
+      "depart_time": "15:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "侯马西",
+      "arrive_time": "15:30",
+      "depart_time": "15:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "临汾西",
+      "arrive_time": "15:52",
+      "depart_time": "15:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "霍州东",
+      "arrive_time": "16:18",
+      "depart_time": "16:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "介休东",
+      "arrive_time": "16:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "太原南",
+      "arrive_time": "16:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 338.0,
+    "price_second": 211.0,
+    "price_no_seat": 211.0
+  },
+  "fetched_at": "2026-05-01T03:18:00.091067"
+}

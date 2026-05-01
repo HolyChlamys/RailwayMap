@@ -1,0 +1,61 @@
+{
+  "train_no": "K1231",
+  "train_type": "K",
+  "depart_station": "湛江",
+  "arrive_station": "深圳东",
+  "depart_time": "21:39",
+  "arrive_time": "08:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "湛江",
+      "arrive_time": "21:39",
+      "depart_time": "21:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遂溪",
+      "arrive_time": "22:00",
+      "depart_time": "22:05",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "廉江",
+      "arrive_time": "22:24",
+      "depart_time": "22:29",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "化州",
+      "arrive_time": "23:09",
+      "depart_time": "23:13",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "茂名西",
+      "arrive_time": "23:34",
+      "depart_time": "23:59",
+      "stay_min": "25"
+    },
+    {
+      "seq": 6,
+      "station_name": "广州",
+      "arrive_time": "05:06",
+      "depart_time": "05:31",
+      "stay_min": "25"
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳东",
+      "arrive_time": "08:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T09:33:03.089638"
+}

@@ -1,0 +1,107 @@
+{
+  "train_no": "D533",
+  "train_type": "D",
+  "depart_station": "双鸭山西",
+  "arrive_station": "珲春",
+  "depart_time": "07:45",
+  "arrive_time": "15:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "双鸭山西",
+      "arrive_time": "07:45",
+      "depart_time": "07:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佳木斯",
+      "arrive_time": "08:10",
+      "depart_time": "08:15",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "依兰",
+      "arrive_time": "08:49",
+      "depart_time": "08:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨",
+      "arrive_time": "10:19",
+      "depart_time": "10:24",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "扶余北",
+      "arrive_time": "10:59",
+      "depart_time": "11:11",
+      "stay_min": "12"
+    },
+    {
+      "seq": 6,
+      "station_name": "长春",
+      "arrive_time": "11:54",
+      "depart_time": "11:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "吉林",
+      "arrive_time": "12:38",
+      "depart_time": "12:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "蛟河西",
+      "arrive_time": "13:07",
+      "depart_time": "13:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "敦化",
+      "arrive_time": "13:41",
+      "depart_time": "13:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "安图西",
+      "arrive_time": "14:06",
+      "depart_time": "14:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "延吉西",
+      "arrive_time": "14:28",
+      "depart_time": "14:31",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "图们北",
+      "arrive_time": "14:46",
+      "depart_time": "14:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "珲春",
+      "arrive_time": "15:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 632.0,
+    "price_second": 395.0,
+    "price_no_seat": 395.0
+  },
+  "fetched_at": "2026-05-01T04:04:50.131507"
+}

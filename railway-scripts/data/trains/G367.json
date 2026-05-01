@@ -1,0 +1,59 @@
+{
+  "train_no": "G367",
+  "train_type": "G",
+  "depart_station": "北京西",
+  "arrive_station": "西安北",
+  "depart_time": "14:05",
+  "arrive_time": "17:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "14:05",
+      "depart_time": "14:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "15:07",
+      "depart_time": "15:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "安阳东",
+      "arrive_time": "15:55",
+      "depart_time": "15:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "16:35",
+      "depart_time": "16:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "三门峡南",
+      "arrive_time": "17:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西安北",
+      "arrive_time": "17:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2161.0,
+    "price_first": 988.0,
+    "price_second": 618.0,
+    "price_no_seat": 618.0
+  },
+  "fetched_at": "2026-05-01T06:44:27.418365"
+}

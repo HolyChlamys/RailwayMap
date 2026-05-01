@@ -1,0 +1,72 @@
+{
+  "train_no": "G3057",
+  "train_type": "G",
+  "depart_station": "南京南",
+  "arrive_station": "南昌东",
+  "depart_time": "12:38",
+  "arrive_time": "15:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "12:38",
+      "depart_time": "12:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马鞍山东",
+      "arrive_time": "12:56",
+      "depart_time": "12:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "芜湖",
+      "arrive_time": "13:15",
+      "depart_time": "13:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宣城",
+      "arrive_time": "13:45",
+      "depart_time": "13:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "黄山北",
+      "arrive_time": "14:37",
+      "depart_time": "14:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "祁门南",
+      "arrive_time": "15:00",
+      "depart_time": "15:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "景德镇北",
+      "arrive_time": "15:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南昌东",
+      "arrive_time": "15:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 542.0,
+    "price_second": 339.0,
+    "price_no_seat": 339.0
+  },
+  "fetched_at": "2026-05-01T06:27:31.600079"
+}

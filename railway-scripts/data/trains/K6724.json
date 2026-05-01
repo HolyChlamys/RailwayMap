@@ -1,0 +1,49 @@
+{
+  "train_no": "K6724",
+  "train_type": "K",
+  "depart_station": "库尔勒",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "23:05",
+  "arrive_time": "06:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "库尔勒",
+      "arrive_time": "23:05",
+      "depart_time": "23:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "焉耆",
+      "arrive_time": "23:45",
+      "depart_time": "23:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "和硕",
+      "arrive_time": "00:17",
+      "depart_time": "00:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "马兰",
+      "arrive_time": "00:48",
+      "depart_time": "00:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "06:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T10:25:16.693897"
+}

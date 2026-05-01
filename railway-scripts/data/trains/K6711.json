@@ -1,0 +1,49 @@
+{
+  "train_no": "K6711",
+  "train_type": "K",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "塔城",
+  "depart_time": "23:59",
+  "arrive_time": "09:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "23:59",
+      "depart_time": "23:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "奎屯",
+      "arrive_time": "03:51",
+      "depart_time": "03:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "克拉玛依",
+      "arrive_time": "06:20",
+      "depart_time": "06:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "额敏",
+      "arrive_time": "09:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "塔城",
+      "arrive_time": "09:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 93.0
+  },
+  "fetched_at": "2026-05-01T10:25:08.350268"
+}

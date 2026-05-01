@@ -1,0 +1,65 @@
+{
+  "train_no": "C4076",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "阆中",
+  "depart_time": "14:55",
+  "arrive_time": "18:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "14:55",
+      "depart_time": "14:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮口南",
+      "arrive_time": "15:21",
+      "depart_time": "15:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "大英东",
+      "arrive_time": "15:58",
+      "depart_time": "16:14",
+      "stay_min": "16"
+    },
+    {
+      "seq": 4,
+      "station_name": "遂宁",
+      "arrive_time": "16:31",
+      "depart_time": "16:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "南充北",
+      "arrive_time": "17:13",
+      "depart_time": "17:17",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "南部",
+      "arrive_time": "17:46",
+      "depart_time": "17:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "阆中",
+      "arrive_time": "18:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 153.0,
+    "price_second": 96.0,
+    "price_no_seat": 96.0
+  },
+  "fetched_at": "2026-05-01T01:07:58.932588"
+}

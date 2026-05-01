@@ -1,0 +1,86 @@
+{
+  "train_no": "G7136",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "黄山西",
+  "depart_time": "10:20",
+  "arrive_time": "14:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "10:20",
+      "depart_time": "10:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "10:49",
+      "depart_time": "10:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡",
+      "arrive_time": "11:06",
+      "depart_time": "11:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "丹阳",
+      "arrive_time": "11:35",
+      "depart_time": "11:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "12:12",
+      "depart_time": "12:20",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "马鞍山东",
+      "arrive_time": "12:36",
+      "depart_time": "12:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "芜湖",
+      "arrive_time": "12:55",
+      "depart_time": "12:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "池州",
+      "arrive_time": "13:39",
+      "depart_time": "13:59",
+      "stay_min": "20"
+    },
+    {
+      "seq": 9,
+      "station_name": "九华山",
+      "arrive_time": "14:13",
+      "depart_time": "14:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "黄山西",
+      "arrive_time": "14:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 497.0,
+    "price_second": 311.0,
+    "price_no_seat": 311.0
+  },
+  "fetched_at": "2026-05-01T08:18:33.841555"
+}

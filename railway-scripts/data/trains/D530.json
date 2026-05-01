@@ -1,0 +1,79 @@
+{
+  "train_no": "D530",
+  "train_type": "D",
+  "depart_station": "吉林",
+  "arrive_station": "齐齐哈尔南",
+  "depart_time": "12:45",
+  "arrive_time": "16:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "吉林",
+      "arrive_time": "12:45",
+      "depart_time": "12:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长春",
+      "arrive_time": "13:25",
+      "depart_time": "13:30",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "德惠西",
+      "arrive_time": "13:58",
+      "depart_time": "14:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨西",
+      "arrive_time": "14:44",
+      "depart_time": "14:49",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "肇东",
+      "arrive_time": "15:17",
+      "depart_time": "15:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "安达",
+      "arrive_time": "15:40",
+      "depart_time": "15:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "大庆西",
+      "arrive_time": "15:59",
+      "depart_time": "16:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "杜尔伯特",
+      "arrive_time": "16:16",
+      "depart_time": "16:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "齐齐哈尔南",
+      "arrive_time": "16:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 357.0,
+    "price_second": 223.0,
+    "price_no_seat": 223.0
+  },
+  "fetched_at": "2026-05-01T04:04:20.439565"
+}

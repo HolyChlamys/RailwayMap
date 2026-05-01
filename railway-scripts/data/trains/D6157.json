@@ -1,0 +1,30 @@
+{
+  "train_no": "D6157",
+  "train_type": "D",
+  "depart_station": "重庆北",
+  "arrive_station": "成都东",
+  "depart_time": "19:01",
+  "arrive_time": "19:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "19:01",
+      "depart_time": "19:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都东",
+      "arrive_time": "19:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 180.0,
+    "price_second": 113.0,
+    "price_no_seat": 113.0
+  },
+  "fetched_at": "2026-05-01T04:18:04.522219"
+}

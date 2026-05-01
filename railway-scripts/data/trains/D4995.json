@@ -1,0 +1,72 @@
+{
+  "train_no": "D4995",
+  "train_type": "D",
+  "depart_station": "包头",
+  "arrive_station": "银川",
+  "depart_time": "12:46",
+  "arrive_time": "15:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "包头",
+      "arrive_time": "12:46",
+      "depart_time": "12:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "白彦花西",
+      "arrive_time": "13:07",
+      "depart_time": "13:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乌拉特前旗",
+      "arrive_time": "13:27",
+      "depart_time": "13:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "14:02",
+      "depart_time": "14:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "磴口",
+      "arrive_time": "14:24",
+      "depart_time": "14:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "乌海",
+      "arrive_time": "14:52",
+      "depart_time": "14:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "惠农南",
+      "arrive_time": "15:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "银川",
+      "arrive_time": "15:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 509.0,
+    "price_second": 318.0,
+    "price_no_seat": 318.0
+  },
+  "fetched_at": "2026-05-01T03:59:39.817641"
+}

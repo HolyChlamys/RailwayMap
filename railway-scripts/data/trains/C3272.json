@@ -1,0 +1,45 @@
+{
+  "train_no": "C3272",
+  "train_type": "C",
+  "depart_station": "杭州西",
+  "arrive_station": "阜阳西",
+  "depart_time": "06:13",
+  "arrive_time": "08:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "06:13",
+      "depart_time": "06:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "08:08",
+      "depart_time": "08:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "淮南南",
+      "arrive_time": "08:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阜阳西",
+      "arrive_time": "08:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1046.5,
+    "price_first": 547.5,
+    "price_second": 339.5,
+    "price_no_seat": 339.5
+  },
+  "fetched_at": "2026-05-01T00:55:40.213555"
+}

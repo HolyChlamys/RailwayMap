@@ -1,0 +1,56 @@
+{
+  "train_no": "K5060",
+  "train_type": "K",
+  "depart_station": "沈阳",
+  "arrive_station": "盘锦",
+  "depart_time": "13:58",
+  "arrive_time": "15:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "13:58",
+      "depart_time": "13:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏家屯",
+      "arrive_time": "14:16",
+      "depart_time": "14:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "辽阳",
+      "arrive_time": "14:51",
+      "depart_time": "14:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鞍山",
+      "arrive_time": "15:12",
+      "depart_time": "15:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "海城",
+      "arrive_time": "15:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "盘锦",
+      "arrive_time": "15:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:02:58.917056"
+}

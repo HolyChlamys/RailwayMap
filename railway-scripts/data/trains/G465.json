@@ -1,0 +1,94 @@
+{
+  "train_no": "G465",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "兰州西",
+  "depart_time": "06:48",
+  "arrive_time": "16:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "06:48",
+      "depart_time": "06:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州北",
+      "arrive_time": "07:10",
+      "depart_time": "07:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "常州北",
+      "arrive_time": "07:32",
+      "depart_time": "07:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "08:08",
+      "depart_time": "08:12",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥",
+      "arrive_time": "09:03",
+      "depart_time": "09:08",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "商丘",
+      "arrive_time": "10:45",
+      "depart_time": "10:48",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州东",
+      "arrive_time": "11:39",
+      "depart_time": "11:44",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "洛阳龙门",
+      "arrive_time": "12:20",
+      "depart_time": "12:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "西安北",
+      "arrive_time": "13:40",
+      "depart_time": "13:48",
+      "stay_min": "8"
+    },
+    {
+      "seq": 10,
+      "station_name": "天水南",
+      "arrive_time": "15:09",
+      "depart_time": "15:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "兰州西",
+      "arrive_time": "16:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3617.0,
+    "price_first": 1716.0,
+    "price_second": 1071.0,
+    "price_no_seat": 1071.0
+  },
+  "fetched_at": "2026-05-01T07:11:33.247607"
+}

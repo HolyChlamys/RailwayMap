@@ -1,0 +1,35 @@
+{
+  "train_no": "K6812",
+  "train_type": "K",
+  "depart_station": "格尔木",
+  "arrive_station": "西宁",
+  "depart_time": "07:30",
+  "arrive_time": "10:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "格尔木",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德令哈",
+      "arrive_time": "10:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "西宁",
+      "arrive_time": "10:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T10:26:35.746800"
+}

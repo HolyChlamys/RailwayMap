@@ -1,0 +1,37 @@
+{
+  "train_no": "D6547",
+  "train_type": "D",
+  "depart_station": "南昌西",
+  "arrive_station": "南丰",
+  "depart_time": "06:33",
+  "arrive_time": "07:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "06:33",
+      "depart_time": "06:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚州",
+      "arrive_time": "07:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南丰",
+      "arrive_time": "07:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 107.0,
+    "price_second": 67.0,
+    "price_no_seat": 67.0
+  },
+  "fetched_at": "2026-05-01T04:24:46.396486"
+}

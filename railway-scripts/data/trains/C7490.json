@@ -1,0 +1,52 @@
+{
+  "train_no": "C7490",
+  "train_type": "C",
+  "depart_station": "潮汕",
+  "arrive_station": "福田",
+  "depart_time": "02:05",
+  "arrive_time": "04:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潮汕",
+      "arrive_time": "02:05",
+      "depart_time": "02:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "揭阳",
+      "arrive_time": "02:21",
+      "depart_time": "02:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "梅州西",
+      "arrive_time": "02:51",
+      "depart_time": "02:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "04:18",
+      "depart_time": "04:22",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "福田",
+      "arrive_time": "04:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 926.0,
+    "price_first": 440.0,
+    "price_second": 275.0,
+    "price_no_seat": 275.0
+  },
+  "fetched_at": "2026-05-01T02:16:33.106689"
+}

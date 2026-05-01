@@ -1,0 +1,38 @@
+{
+  "train_no": "C4282",
+  "train_type": "C",
+  "depart_station": "义乌",
+  "arrive_station": "杭州东",
+  "depart_time": "07:30",
+  "arrive_time": "07:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "义乌",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "诸暨",
+      "arrive_time": "07:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "07:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 157.0,
+    "price_first": 72.0,
+    "price_second": 45.0,
+    "price_no_seat": 45.0
+  },
+  "fetched_at": "2026-05-01T01:12:21.951655"
+}

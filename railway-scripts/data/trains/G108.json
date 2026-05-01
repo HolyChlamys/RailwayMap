@@ -1,0 +1,73 @@
+{
+  "train_no": "G108",
+  "train_type": "G",
+  "depart_station": "齐齐哈尔南",
+  "arrive_station": "北京朝阳",
+  "depart_time": "09:03",
+  "arrive_time": "12:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "齐齐哈尔南",
+      "arrive_time": "09:03",
+      "depart_time": "09:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大庆东",
+      "arrive_time": "09:44",
+      "depart_time": "09:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "哈尔滨",
+      "arrive_time": "10:32",
+      "depart_time": "10:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨西",
+      "arrive_time": "10:46",
+      "depart_time": "10:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "长春西",
+      "arrive_time": "11:44",
+      "depart_time": "11:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "铁岭西",
+      "arrive_time": "12:37",
+      "depart_time": "12:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "沈阳北",
+      "arrive_time": "12:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "北京朝阳",
+      "arrive_time": "12:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2675.0,
+    "price_first": 1246.0,
+    "price_second": 778.0,
+    "price_no_seat": 778.0
+  },
+  "fetched_at": "2026-05-01T05:32:21.504298"
+}

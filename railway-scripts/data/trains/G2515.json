@@ -1,0 +1,52 @@
+{
+  "train_no": "G2515",
+  "train_type": "G",
+  "depart_station": "北京北",
+  "arrive_station": "朔州东",
+  "depart_time": "07:09",
+  "arrive_time": "09:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京北",
+      "arrive_time": "07:09",
+      "depart_time": "07:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "清河",
+      "arrive_time": "07:25",
+      "depart_time": "07:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "张家口",
+      "arrive_time": "08:16",
+      "depart_time": "08:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大同南",
+      "arrive_time": "09:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "朔州东",
+      "arrive_time": "09:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 702.0,
+    "price_first": 361.0,
+    "price_second": 225.0,
+    "price_no_seat": 225.0
+  },
+  "fetched_at": "2026-05-01T06:12:34.303933"
+}

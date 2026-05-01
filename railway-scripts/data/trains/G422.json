@@ -1,0 +1,80 @@
+{
+  "train_no": "G422",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "深圳坪山",
+  "depart_time": "09:26",
+  "arrive_time": "15:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "09:26",
+      "depart_time": "09:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感北",
+      "arrive_time": "10:37",
+      "depart_time": "10:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "武汉",
+      "arrive_time": "11:08",
+      "depart_time": "11:11",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "12:22",
+      "depart_time": "12:27",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "衡阳东",
+      "arrive_time": "13:02",
+      "depart_time": "13:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "14:43",
+      "depart_time": "14:49",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "虎门",
+      "arrive_time": "15:06",
+      "depart_time": "15:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "深圳北",
+      "arrive_time": "15:27",
+      "depart_time": "15:34",
+      "stay_min": "7"
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳坪山",
+      "arrive_time": "15:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2995.5,
+    "price_first": 1378.5,
+    "price_second": 873.5,
+    "price_no_seat": 873.5
+  },
+  "fetched_at": "2026-05-01T06:59:15.030775"
+}

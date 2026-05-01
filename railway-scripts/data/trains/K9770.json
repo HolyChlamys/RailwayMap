@@ -1,0 +1,77 @@
+{
+  "train_no": "K9770",
+  "train_type": "K",
+  "depart_station": "喀什",
+  "arrive_station": "乌鲁木齐南",
+  "depart_time": "23:10",
+  "arrive_time": "17:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "喀什",
+      "arrive_time": "23:10",
+      "depart_time": "23:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阿克苏",
+      "arrive_time": "04:31",
+      "depart_time": "04:45",
+      "stay_min": "14"
+    },
+    {
+      "seq": 3,
+      "station_name": "新和",
+      "arrive_time": "06:33",
+      "depart_time": "06:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "库车",
+      "arrive_time": "07:04",
+      "depart_time": "07:12",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "轮台",
+      "arrive_time": "08:12",
+      "depart_time": "08:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "库尔勒",
+      "arrive_time": "10:01",
+      "depart_time": "10:21",
+      "stay_min": "20"
+    },
+    {
+      "seq": 7,
+      "station_name": "焉耆",
+      "arrive_time": "11:21",
+      "depart_time": "11:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "和硕",
+      "arrive_time": "11:51",
+      "depart_time": "11:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "乌鲁木齐南",
+      "arrive_time": "17:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 177.5
+  },
+  "fetched_at": "2026-05-01T10:48:56.966456"
+}

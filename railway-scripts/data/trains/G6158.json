@@ -1,0 +1,94 @@
+{
+  "train_no": "G6158",
+  "train_type": "G",
+  "depart_station": "怀化南",
+  "arrive_station": "珠海",
+  "depart_time": "07:47",
+  "arrive_time": "13:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "怀化南",
+      "arrive_time": "07:47",
+      "depart_time": "07:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "溆浦南",
+      "arrive_time": "08:07",
+      "depart_time": "08:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "新化南",
+      "arrive_time": "08:26",
+      "depart_time": "08:31",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "邵阳北",
+      "arrive_time": "08:44",
+      "depart_time": "08:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "娄底南",
+      "arrive_time": "09:02",
+      "depart_time": "09:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "湘潭北",
+      "arrive_time": "09:30",
+      "depart_time": "09:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙南",
+      "arrive_time": "09:45",
+      "depart_time": "10:03",
+      "stay_min": "18"
+    },
+    {
+      "seq": 8,
+      "station_name": "株洲西",
+      "arrive_time": "10:17",
+      "depart_time": "10:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "广州南",
+      "arrive_time": "12:19",
+      "depart_time": "12:23",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "中山",
+      "arrive_time": "12:52",
+      "depart_time": "12:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "珠海",
+      "arrive_time": "13:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2165.0,
+    "price_first": 986.0,
+    "price_second": 630.0,
+    "price_no_seat": 630.0
+  },
+  "fetched_at": "2026-05-01T07:50:35.442676"
+}

@@ -1,0 +1,29 @@
+{
+  "train_no": "S1015",
+  "train_type": "S",
+  "depart_station": "上海南",
+  "arrive_station": "金山卫",
+  "depart_time": "20:23",
+  "arrive_time": "20:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "20:23",
+      "depart_time": "20:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金山卫",
+      "arrive_time": "20:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 10.0,
+    "price_no_seat": 10.0
+  },
+  "fetched_at": "2026-05-01T10:50:26.671639"
+}

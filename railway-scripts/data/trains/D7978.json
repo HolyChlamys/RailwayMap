@@ -1,0 +1,45 @@
+{
+  "train_no": "D7978",
+  "train_type": "D",
+  "depart_station": "七台河西",
+  "arrive_station": "哈尔滨",
+  "depart_time": "20:15",
+  "arrive_time": "21:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "七台河西",
+      "arrive_time": "20:15",
+      "depart_time": "20:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鸡西西",
+      "arrive_time": "20:37",
+      "depart_time": "20:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "牡丹江",
+      "arrive_time": "21:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨",
+      "arrive_time": "21:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 290.0,
+    "price_first": 313.0,
+    "price_second": 195.0,
+    "price_no_seat": 195.0
+  },
+  "fetched_at": "2026-05-01T04:48:41.717931"
+}

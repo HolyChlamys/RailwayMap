@@ -1,0 +1,84 @@
+{
+  "train_no": "K2367",
+  "train_type": "K",
+  "depart_station": "长沙",
+  "arrive_station": "井冈山",
+  "depart_time": "10:16",
+  "arrive_time": "16:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "10:16",
+      "depart_time": "10:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲",
+      "arrive_time": "10:52",
+      "depart_time": "10:57",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "衡山",
+      "arrive_time": "11:46",
+      "depart_time": "11:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "衡阳",
+      "arrive_time": "12:24",
+      "depart_time": "12:46",
+      "stay_min": "22"
+    },
+    {
+      "seq": 5,
+      "station_name": "安仁",
+      "arrive_time": "13:45",
+      "depart_time": "13:49",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "攸县南",
+      "arrive_time": "14:01",
+      "depart_time": "14:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "茶陵南",
+      "arrive_time": "14:21",
+      "depart_time": "14:25",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "炎陵",
+      "arrive_time": "15:32",
+      "depart_time": "15:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "龙市",
+      "arrive_time": "15:57",
+      "depart_time": "16:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "井冈山",
+      "arrive_time": "16:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 62.5
+  },
+  "fetched_at": "2026-05-01T09:41:03.973891"
+}

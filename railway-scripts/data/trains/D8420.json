@@ -1,0 +1,65 @@
+{
+  "train_no": "D8420",
+  "train_type": "D",
+  "depart_station": "东兴市",
+  "arrive_station": "柳州",
+  "depart_time": "11:19",
+  "arrive_time": "14:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东兴市",
+      "arrive_time": "11:19",
+      "depart_time": "11:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "防城港北",
+      "arrive_time": "11:41",
+      "depart_time": "11:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南宁",
+      "arrive_time": "13:01",
+      "depart_time": "13:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁东",
+      "arrive_time": "13:15",
+      "depart_time": "13:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宾阳",
+      "arrive_time": "13:42",
+      "depart_time": "13:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "来宾北",
+      "arrive_time": "14:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "柳州",
+      "arrive_time": "14:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 283.0,
+    "price_second": 176.5,
+    "price_no_seat": 176.5
+  },
+  "fetched_at": "2026-05-01T04:56:40.786379"
+}

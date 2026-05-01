@@ -1,0 +1,86 @@
+{
+  "train_no": "D5405",
+  "train_type": "D",
+  "depart_station": "徐州东",
+  "arrive_station": "南京",
+  "depart_time": "09:08",
+  "arrive_time": "12:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "徐州东",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "观音机场",
+      "arrive_time": "09:23",
+      "depart_time": "09:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "睢宁",
+      "arrive_time": "09:38",
+      "depart_time": "09:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宿迁",
+      "arrive_time": "09:52",
+      "depart_time": "09:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "泗阳",
+      "arrive_time": "10:09",
+      "depart_time": "10:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "淮安东",
+      "arrive_time": "10:28",
+      "depart_time": "10:31",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "扬州东",
+      "arrive_time": "11:11",
+      "depart_time": "11:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "大港南",
+      "arrive_time": "11:30",
+      "depart_time": "11:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "镇江",
+      "arrive_time": "11:48",
+      "depart_time": "11:53",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "南京",
+      "arrive_time": "12:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 349.0,
+    "price_second": 219.0,
+    "price_no_seat": 219.0
+  },
+  "fetched_at": "2026-05-01T04:05:44.722562"
+}

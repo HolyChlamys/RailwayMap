@@ -1,0 +1,80 @@
+{
+  "train_no": "C3027",
+  "train_type": "C",
+  "depart_station": "上海南",
+  "arrive_station": "合肥南",
+  "depart_time": "12:18",
+  "arrive_time": "15:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "12:18",
+      "depart_time": "12:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "上海松江",
+      "arrive_time": "12:34",
+      "depart_time": "12:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "湖州南浔",
+      "arrive_time": "13:01",
+      "depart_time": "13:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "湖州东",
+      "arrive_time": "13:13",
+      "depart_time": "13:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "郎溪南",
+      "arrive_time": "13:50",
+      "depart_time": "13:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "芜湖南",
+      "arrive_time": "14:19",
+      "depart_time": "14:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "芜湖",
+      "arrive_time": "14:31",
+      "depart_time": "14:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "芜湖北",
+      "arrive_time": "14:42",
+      "depart_time": "14:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "合肥南",
+      "arrive_time": "15:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 891.5,
+    "price_first": 447.0,
+    "price_second": 278.0,
+    "price_no_seat": 278.0
+  },
+  "fetched_at": "2026-05-01T00:49:03.584409"
+}

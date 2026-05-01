@@ -1,0 +1,29 @@
+{
+  "train_no": "D4513",
+  "train_type": "D",
+  "depart_station": "北京南",
+  "arrive_station": "青岛北",
+  "depart_time": "01:19",
+  "arrive_time": "01:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京南",
+      "arrive_time": "01:19",
+      "depart_time": "01:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛北",
+      "arrive_time": "01:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 279.0,
+    "price_no_seat": 279.0
+  },
+  "fetched_at": "2026-05-01T03:52:14.788026"
+}

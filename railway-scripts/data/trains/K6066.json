@@ -1,0 +1,91 @@
+{
+  "train_no": "K6066",
+  "train_type": "K",
+  "depart_station": "攀枝花南",
+  "arrive_station": "绵阳",
+  "depart_time": "08:05",
+  "arrive_time": "18:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "攀枝花南",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "米易东",
+      "arrive_time": "09:10",
+      "depart_time": "09:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "西昌西",
+      "arrive_time": "10:39",
+      "depart_time": "10:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "金口河南",
+      "arrive_time": "12:55",
+      "depart_time": "12:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "峨边南",
+      "arrive_time": "13:48",
+      "depart_time": "13:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "沙湾南",
+      "arrive_time": "14:23",
+      "depart_time": "14:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "峨眉",
+      "arrive_time": "14:45",
+      "depart_time": "14:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "夹江",
+      "arrive_time": "15:11",
+      "depart_time": "15:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "成都西",
+      "arrive_time": "16:45",
+      "depart_time": "16:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "德阳",
+      "arrive_time": "18:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "绵阳",
+      "arrive_time": "18:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T10:17:23.723662"
+}

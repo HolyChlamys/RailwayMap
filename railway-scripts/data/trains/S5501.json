@@ -1,0 +1,44 @@
+{
+  "train_no": "S5501",
+  "train_type": "S",
+  "depart_station": "万州北",
+  "arrive_station": "重庆北",
+  "depart_time": "06:51",
+  "arrive_time": "07:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "万州北",
+      "arrive_time": "06:51",
+      "depart_time": "06:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "梁平南",
+      "arrive_time": "07:14",
+      "depart_time": "07:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长寿湖",
+      "arrive_time": "07:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆北",
+      "arrive_time": "07:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 188.0,
+    "price_second": 117.0,
+    "price_no_seat": 117.0
+  },
+  "fetched_at": "2026-05-01T11:07:20.020033"
+}

@@ -1,0 +1,86 @@
+{
+  "train_no": "C676",
+  "train_type": "C",
+  "depart_station": "曹县",
+  "arrive_station": "青岛",
+  "depart_time": "09:33",
+  "arrive_time": "16:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "曹县",
+      "arrive_time": "09:33",
+      "depart_time": "09:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "菏泽",
+      "arrive_time": "10:03",
+      "depart_time": "10:09",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "巨野",
+      "arrive_time": "10:47",
+      "depart_time": "10:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "嘉祥",
+      "arrive_time": "11:06",
+      "depart_time": "11:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "济宁",
+      "arrive_time": "11:26",
+      "depart_time": "11:31",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "兖州",
+      "arrive_time": "12:07",
+      "depart_time": "12:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "平邑",
+      "arrive_time": "13:06",
+      "depart_time": "13:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "临沂",
+      "arrive_time": "14:00",
+      "depart_time": "14:06",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "日照西",
+      "arrive_time": "15:23",
+      "depart_time": "15:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "青岛",
+      "arrive_time": "16:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 288.0,
+    "price_second": 179.0,
+    "price_no_seat": 179.0
+  },
+  "fetched_at": "2026-05-01T01:55:46.213437"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "C5766",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "黄胜关",
+  "depart_time": "14:39",
+  "arrive_time": "17:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "什邡西",
+      "arrive_time": "15:04",
+      "depart_time": "15:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "绵竹南",
+      "arrive_time": "15:16",
+      "depart_time": "15:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "安州",
+      "arrive_time": "15:30",
+      "depart_time": "15:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "茂县",
+      "arrive_time": "15:54",
+      "depart_time": "15:57",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "镇江关",
+      "arrive_time": "16:27",
+      "depart_time": "16:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "黄龙九寨",
+      "arrive_time": "16:49",
+      "depart_time": "16:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "黄胜关",
+      "arrive_time": "17:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 245.0,
+    "price_second": 153.0,
+    "price_no_seat": 153.0
+  },
+  "fetched_at": "2026-05-01T01:37:54.146491"
+}

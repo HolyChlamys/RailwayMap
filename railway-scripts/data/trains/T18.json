@@ -1,0 +1,56 @@
+{
+  "train_no": "T18",
+  "train_type": "T",
+  "depart_station": "牡丹江",
+  "arrive_station": "北京",
+  "depart_time": "16:50",
+  "arrive_time": "08:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "牡丹江",
+      "arrive_time": "16:50",
+      "depart_time": "16:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苇河",
+      "arrive_time": "19:06",
+      "depart_time": "19:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "哈尔滨",
+      "arrive_time": "22:06",
+      "depart_time": "22:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳北",
+      "arrive_time": "03:08",
+      "depart_time": "03:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "唐山北",
+      "arrive_time": "08:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "北京",
+      "arrive_time": "08:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 192.0
+  },
+  "fetched_at": "2026-05-01T11:22:38.191478"
+}

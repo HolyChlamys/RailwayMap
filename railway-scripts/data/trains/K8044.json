@@ -1,0 +1,49 @@
+{
+  "train_no": "K8044",
+  "train_type": "K",
+  "depart_station": "许昌",
+  "arrive_station": "洛阳",
+  "depart_time": "16:47",
+  "arrive_time": "20:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "许昌",
+      "arrive_time": "16:47",
+      "depart_time": "16:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长葛",
+      "arrive_time": "17:02",
+      "depart_time": "17:07",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州",
+      "arrive_time": "17:50",
+      "depart_time": "18:20",
+      "stay_min": "30"
+    },
+    {
+      "seq": 4,
+      "station_name": "偃师",
+      "arrive_time": "19:33",
+      "depart_time": "19:38",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "洛阳",
+      "arrive_time": "20:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:34:15.625275"
+}

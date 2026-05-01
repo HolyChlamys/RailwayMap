@@ -1,0 +1,101 @@
+{
+  "train_no": "G8273",
+  "train_type": "G",
+  "depart_station": "砀山南",
+  "arrive_station": "上海",
+  "depart_time": "09:06",
+  "arrive_time": "13:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "砀山南",
+      "arrive_time": "09:06",
+      "depart_time": "09:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永城北",
+      "arrive_time": "09:16",
+      "depart_time": "09:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "萧县北",
+      "arrive_time": "09:31",
+      "depart_time": "09:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "徐州东",
+      "arrive_time": "09:49",
+      "depart_time": "09:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "淮安东",
+      "arrive_time": "10:48",
+      "depart_time": "10:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州东",
+      "arrive_time": "11:30",
+      "depart_time": "11:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "大港南",
+      "arrive_time": "11:49",
+      "depart_time": "11:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "常州",
+      "arrive_time": "12:20",
+      "depart_time": "12:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "无锡",
+      "arrive_time": "12:37",
+      "depart_time": "12:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "苏州",
+      "arrive_time": "12:55",
+      "depart_time": "12:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "昆山南",
+      "arrive_time": "13:09",
+      "depart_time": "13:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "上海",
+      "arrive_time": "13:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1246.0,
+    "price_first": 591.0,
+    "price_second": 370.0,
+    "price_no_seat": 370.0
+  },
+  "fetched_at": "2026-05-01T08:46:38.923907"
+}

@@ -1,0 +1,98 @@
+{
+  "train_no": "Z4060",
+  "train_type": "Z",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "成都西",
+  "depart_time": "19:42",
+  "arrive_time": "23:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "19:42",
+      "depart_time": "19:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吐鲁番北",
+      "arrive_time": "21:23",
+      "depart_time": "21:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "鄯善北",
+      "arrive_time": "22:15",
+      "depart_time": "22:30",
+      "stay_min": "15"
+    },
+    {
+      "seq": 4,
+      "station_name": "吐哈",
+      "arrive_time": "22:53",
+      "depart_time": "23:18",
+      "stay_min": "25"
+    },
+    {
+      "seq": 5,
+      "station_name": "哈密",
+      "arrive_time": "01:42",
+      "depart_time": "02:02",
+      "stay_min": "20"
+    },
+    {
+      "seq": 6,
+      "station_name": "嘉峪关南",
+      "arrive_time": "06:48",
+      "depart_time": "06:57",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "张掖西",
+      "arrive_time": "08:29",
+      "depart_time": "08:35",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "西宁",
+      "arrive_time": "10:45",
+      "depart_time": "10:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "兰州",
+      "arrive_time": "13:04",
+      "depart_time": "13:30",
+      "stay_min": "26"
+    },
+    {
+      "seq": 10,
+      "station_name": "广元",
+      "arrive_time": "18:02",
+      "depart_time": "18:10",
+      "stay_min": "8"
+    },
+    {
+      "seq": 11,
+      "station_name": "绵阳",
+      "arrive_time": "21:36",
+      "depart_time": "21:41",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "成都西",
+      "arrive_time": "23:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 278.5
+  },
+  "fetched_at": "2026-05-01T11:49:02.148717"
+}

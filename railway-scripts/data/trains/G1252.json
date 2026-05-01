@@ -1,0 +1,150 @@
+{
+  "train_no": "G1252",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "大连北",
+  "depart_time": "11:10",
+  "arrive_time": "21:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州北",
+      "arrive_time": "11:33",
+      "depart_time": "11:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "12:27",
+      "depart_time": "12:32",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "滁州",
+      "arrive_time": "12:50",
+      "depart_time": "12:55",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "蚌埠南",
+      "arrive_time": "13:23",
+      "depart_time": "13:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "徐州东",
+      "arrive_time": "14:02",
+      "depart_time": "14:20",
+      "stay_min": "18"
+    },
+    {
+      "seq": 7,
+      "station_name": "泰安",
+      "arrive_time": "15:13",
+      "depart_time": "15:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "济南西",
+      "arrive_time": "15:32",
+      "depart_time": "15:37",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "沧州西",
+      "arrive_time": "16:23",
+      "depart_time": "16:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "天津西",
+      "arrive_time": "16:57",
+      "depart_time": "17:07",
+      "stay_min": "10"
+    },
+    {
+      "seq": 11,
+      "station_name": "滨海西",
+      "arrive_time": "17:28",
+      "depart_time": "17:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "唐山",
+      "arrive_time": "17:51",
+      "depart_time": "17:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "秦皇岛",
+      "arrive_time": "18:30",
+      "depart_time": "18:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "山海关",
+      "arrive_time": "18:46",
+      "depart_time": "18:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "葫芦岛北",
+      "arrive_time": "19:34",
+      "depart_time": "19:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "盘锦",
+      "arrive_time": "20:25",
+      "depart_time": "20:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "营口东",
+      "arrive_time": "20:53",
+      "depart_time": "21:03",
+      "stay_min": "10"
+    },
+    {
+      "seq": 18,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "21:20",
+      "depart_time": "21:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "大连北",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3539.0,
+    "price_first": 1635.0,
+    "price_second": 1021.5,
+    "price_no_seat": 1021.5
+  },
+  "fetched_at": "2026-05-01T05:37:34.044893"
+}

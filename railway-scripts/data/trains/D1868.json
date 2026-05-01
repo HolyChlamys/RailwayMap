@@ -1,0 +1,72 @@
+{
+  "train_no": "D1868",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "贵阳北",
+  "depart_time": "18:05",
+  "arrive_time": "21:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "18:05",
+      "depart_time": "18:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肇庆东",
+      "arrive_time": "18:43",
+      "depart_time": "18:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "怀集",
+      "arrive_time": "19:20",
+      "depart_time": "19:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贺州",
+      "arrive_time": "19:50",
+      "depart_time": "19:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "钟山西",
+      "arrive_time": "20:04",
+      "depart_time": "20:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "阳朔",
+      "arrive_time": "20:36",
+      "depart_time": "20:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "桂林西",
+      "arrive_time": "21:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "贵阳北",
+      "arrive_time": "21:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 668.0,
+    "price_second": 417.0,
+    "price_no_seat": 417.0
+  },
+  "fetched_at": "2026-05-01T03:06:33.804668"
+}

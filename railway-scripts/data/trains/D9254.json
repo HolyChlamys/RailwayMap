@@ -1,0 +1,65 @@
+{
+  "train_no": "D9254",
+  "train_type": "D",
+  "depart_station": "巴彦淖尔",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "18:06",
+  "arrive_time": "20:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "18:06",
+      "depart_time": "18:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "五原",
+      "arrive_time": "18:28",
+      "depart_time": "18:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乌拉特前旗",
+      "arrive_time": "18:47",
+      "depart_time": "18:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "白彦花西",
+      "arrive_time": "19:07",
+      "depart_time": "19:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "包头",
+      "arrive_time": "19:32",
+      "depart_time": "19:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "呼和浩特",
+      "arrive_time": "20:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "呼和浩特东",
+      "arrive_time": "20:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 310.0,
+    "price_second": 194.0,
+    "price_no_seat": 194.0
+  },
+  "fetched_at": "2026-05-01T05:11:15.939232"
+}

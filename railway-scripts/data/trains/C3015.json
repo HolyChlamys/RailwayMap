@@ -1,0 +1,45 @@
+{
+  "train_no": "C3015",
+  "train_type": "C",
+  "depart_station": "上海南",
+  "arrive_station": "宜兴",
+  "depart_time": "11:17",
+  "arrive_time": "12:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "11:17",
+      "depart_time": "11:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "湖州南浔",
+      "arrive_time": "11:53",
+      "depart_time": "11:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "湖州",
+      "arrive_time": "12:12",
+      "depart_time": "12:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宜兴",
+      "arrive_time": "12:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 474.0,
+    "price_first": 216.0,
+    "price_second": 136.0,
+    "price_no_seat": 136.0
+  },
+  "fetched_at": "2026-05-01T00:48:42.160521"
+}

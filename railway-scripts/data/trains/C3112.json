@@ -1,0 +1,80 @@
+{
+  "train_no": "C3112",
+  "train_type": "C",
+  "depart_station": "上海",
+  "arrive_station": "淮北",
+  "depart_time": "21:00",
+  "arrive_time": "01:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "21:00",
+      "depart_time": "21:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "21:19",
+      "depart_time": "21:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "21:32",
+      "depart_time": "21:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "21:49",
+      "depart_time": "21:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "22:06",
+      "depart_time": "22:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州东",
+      "arrive_time": "22:47",
+      "depart_time": "22:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "淮安东",
+      "arrive_time": "23:29",
+      "depart_time": "23:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "徐州东",
+      "arrive_time": "00:29",
+      "depart_time": "00:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "淮北",
+      "arrive_time": "01:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1157.0,
+    "price_first": 553.0,
+    "price_second": 347.0,
+    "price_no_seat": 347.0
+  },
+  "fetched_at": "2026-05-01T00:51:23.906569"
+}

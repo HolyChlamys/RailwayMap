@@ -1,0 +1,45 @@
+{
+  "train_no": "G4467",
+  "train_type": "G",
+  "depart_station": "北京西",
+  "arrive_station": "南阳东",
+  "depart_time": "23:20",
+  "arrive_time": "02:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "23:20",
+      "depart_time": "23:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "00:34",
+      "depart_time": "00:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "02:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南阳东",
+      "arrive_time": "02:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1734.0,
+    "price_first": 826.0,
+    "price_second": 517.0,
+    "price_no_seat": 517.0
+  },
+  "fetched_at": "2026-05-01T07:06:16.282203"
+}

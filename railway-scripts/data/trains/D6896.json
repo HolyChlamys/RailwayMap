@@ -1,0 +1,37 @@
+{
+  "train_no": "D6896",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "大荔",
+  "depart_time": "19:10",
+  "arrive_time": "19:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "渭南北",
+      "arrive_time": "19:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大荔",
+      "arrive_time": "19:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 64.0,
+    "price_second": 40.0,
+    "price_no_seat": 40.0
+  },
+  "fetched_at": "2026-05-01T04:30:26.343249"
+}

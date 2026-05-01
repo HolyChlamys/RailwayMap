@@ -1,0 +1,66 @@
+{
+  "train_no": "G4476",
+  "train_type": "G",
+  "depart_station": "三门峡南",
+  "arrive_station": "北京丰台",
+  "depart_time": "20:34",
+  "arrive_time": "23:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "三门峡南",
+      "arrive_time": "20:34",
+      "depart_time": "20:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛阳龙门",
+      "arrive_time": "21:06",
+      "depart_time": "21:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "21:47",
+      "depart_time": "21:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安阳东",
+      "arrive_time": "22:32",
+      "depart_time": "22:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "邯郸东",
+      "arrive_time": "22:52",
+      "depart_time": "22:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "邢台东",
+      "arrive_time": "23:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "北京丰台",
+      "arrive_time": "23:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1746.0,
+    "price_first": 798.0,
+    "price_second": 499.0,
+    "price_no_seat": 499.0
+  },
+  "fetched_at": "2026-05-01T07:06:31.131012"
+}

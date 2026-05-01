@@ -1,0 +1,38 @@
+{
+  "train_no": "G7933",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "三门峡南",
+  "depart_time": "16:45",
+  "arrive_time": "17:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "16:45",
+      "depart_time": "16:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛阳龙门",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "三门峡南",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 512.0,
+    "price_first": 234.0,
+    "price_second": 146.0,
+    "price_no_seat": 146.0
+  },
+  "fetched_at": "2026-05-01T08:40:32.297526"
+}

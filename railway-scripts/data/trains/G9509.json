@@ -1,0 +1,59 @@
+{
+  "train_no": "G9509",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "衢州",
+  "depart_time": "21:36",
+  "arrive_time": "23:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "21:36",
+      "depart_time": "21:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉兴南",
+      "arrive_time": "22:07",
+      "depart_time": "22:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "22:35",
+      "depart_time": "22:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "义乌",
+      "arrive_time": "23:10",
+      "depart_time": "23:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "金华",
+      "arrive_time": "23:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "衢州",
+      "arrive_time": "23:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 766.0,
+    "price_first": 350.0,
+    "price_second": 218.0,
+    "price_no_seat": 218.0
+  },
+  "fetched_at": "2026-05-01T09:16:14.614637"
+}

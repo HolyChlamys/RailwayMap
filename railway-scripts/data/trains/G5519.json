@@ -1,0 +1,45 @@
+{
+  "train_no": "G5519",
+  "train_type": "G",
+  "depart_station": "河池西",
+  "arrive_station": "南宁东",
+  "depart_time": "08:31",
+  "arrive_time": "09:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "河池西",
+      "arrive_time": "08:31",
+      "depart_time": "08:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "都安",
+      "arrive_time": "08:57",
+      "depart_time": "08:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南宁北",
+      "arrive_time": "09:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁东",
+      "arrive_time": "09:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 425.0,
+    "price_first": 194.0,
+    "price_second": 122.0,
+    "price_no_seat": 122.0
+  },
+  "fetched_at": "2026-05-01T07:35:45.330274"
+}

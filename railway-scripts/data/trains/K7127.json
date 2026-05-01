@@ -1,0 +1,63 @@
+{
+  "train_no": "K7127",
+  "train_type": "K",
+  "depart_station": "哈尔滨东",
+  "arrive_station": "伊春",
+  "depart_time": "09:05",
+  "arrive_time": "15:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨东",
+      "arrive_time": "09:05",
+      "depart_time": "09:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绥化",
+      "arrive_time": "10:44",
+      "depart_time": "10:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "庆安",
+      "arrive_time": "11:31",
+      "depart_time": "11:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "铁力",
+      "arrive_time": "12:14",
+      "depart_time": "12:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南岔",
+      "arrive_time": "14:00",
+      "depart_time": "14:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西林",
+      "arrive_time": "15:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "伊春",
+      "arrive_time": "15:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T10:28:27.131815"
+}

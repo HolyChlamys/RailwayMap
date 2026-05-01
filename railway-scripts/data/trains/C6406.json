@@ -1,0 +1,59 @@
+{
+  "train_no": "C6406",
+  "train_type": "C",
+  "depart_station": "黔江",
+  "arrive_station": "重庆东",
+  "depart_time": "07:08",
+  "arrive_time": "08:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黔江",
+      "arrive_time": "07:08",
+      "depart_time": "07:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "彭水西",
+      "arrive_time": "07:31",
+      "depart_time": "07:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武隆南",
+      "arrive_time": "07:44",
+      "depart_time": "07:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南川北",
+      "arrive_time": "08:09",
+      "depart_time": "08:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "巴南",
+      "arrive_time": "08:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆东",
+      "arrive_time": "08:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 508.0,
+    "price_first": 232.0,
+    "price_second": 145.0,
+    "price_no_seat": 145.0
+  },
+  "fetched_at": "2026-05-01T01:50:09.930133"
+}

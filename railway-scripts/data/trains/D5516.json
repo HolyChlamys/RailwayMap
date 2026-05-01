@@ -1,0 +1,72 @@
+{
+  "train_no": "D5516",
+  "train_type": "D",
+  "depart_station": "安庆",
+  "arrive_station": "徐州东",
+  "depart_time": "19:12",
+  "arrive_time": "23:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安庆",
+      "arrive_time": "19:12",
+      "depart_time": "19:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "芜湖",
+      "arrive_time": "20:06",
+      "depart_time": "20:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "马鞍山东",
+      "arrive_time": "20:25",
+      "depart_time": "20:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "20:44",
+      "depart_time": "20:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "镇江",
+      "arrive_time": "21:16",
+      "depart_time": "21:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州东",
+      "arrive_time": "21:49",
+      "depart_time": "21:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "淮安东",
+      "arrive_time": "22:30",
+      "depart_time": "22:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "徐州东",
+      "arrive_time": "23:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 539.0,
+    "price_second": 338.0,
+    "price_no_seat": 338.0
+  },
+  "fetched_at": "2026-05-01T04:08:21.547349"
+}

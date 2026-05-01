@@ -1,0 +1,80 @@
+{
+  "train_no": "G388",
+  "train_type": "G",
+  "depart_station": "香港西九龙",
+  "arrive_station": "武汉",
+  "depart_time": "07:20",
+  "arrive_time": "11:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香港西九龙",
+      "arrive_time": "07:20",
+      "depart_time": "07:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福田",
+      "arrive_time": "07:36",
+      "depart_time": "07:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "07:50",
+      "depart_time": "07:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "虎门",
+      "arrive_time": "08:10",
+      "depart_time": "08:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "衡阳东",
+      "arrive_time": "10:09",
+      "depart_time": "10:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙南",
+      "arrive_time": "10:48",
+      "depart_time": "10:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "岳阳东",
+      "arrive_time": "11:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "武汉",
+      "arrive_time": "11:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2580.0,
+    "price_first": 1229.0,
+    "price_second": 768.0,
+    "price_no_seat": 768.0
+  },
+  "fetched_at": "2026-05-01T06:49:36.462930"
+}

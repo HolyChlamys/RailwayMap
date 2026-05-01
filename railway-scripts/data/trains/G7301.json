@@ -1,0 +1,52 @@
+{
+  "train_no": "G7301",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "黄山北",
+  "depart_time": "14:27",
+  "arrive_time": "15:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "14:27",
+      "depart_time": "14:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "上海虹桥",
+      "arrive_time": "15:03",
+      "depart_time": "15:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "上海松江",
+      "arrive_time": "15:20",
+      "depart_time": "15:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "15:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "黄山北",
+      "arrive_time": "15:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 735.0,
+    "price_first": 361.0,
+    "price_second": 226.0,
+    "price_no_seat": 226.0
+  },
+  "fetched_at": "2026-05-01T08:23:32.799707"
+}

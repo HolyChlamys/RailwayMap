@@ -1,0 +1,44 @@
+{
+  "train_no": "D4247",
+  "train_type": "D",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "延吉西",
+  "depart_time": "01:43",
+  "arrive_time": "05:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "01:43",
+      "depart_time": "01:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长春",
+      "arrive_time": "02:51",
+      "depart_time": "02:56",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "吉林",
+      "arrive_time": "03:36",
+      "depart_time": "03:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "延吉西",
+      "arrive_time": "05:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 330.0,
+    "price_second": 206.0,
+    "price_no_seat": 206.0
+  },
+  "fetched_at": "2026-05-01T03:46:16.946578"
+}

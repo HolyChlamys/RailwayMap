@@ -1,0 +1,108 @@
+{
+  "train_no": "G3195",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "杭州西",
+  "depart_time": "07:35",
+  "arrive_time": "15:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "07:35",
+      "depart_time": "07:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三门峡南",
+      "arrive_time": "08:24",
+      "depart_time": "08:27",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "洛阳龙门",
+      "arrive_time": "08:58",
+      "depart_time": "09:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "09:37",
+      "depart_time": "09:41",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "商丘",
+      "arrive_time": "10:31",
+      "depart_time": "10:35",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "亳州南",
+      "arrive_time": "10:59",
+      "depart_time": "11:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "阜阳西",
+      "arrive_time": "11:29",
+      "depart_time": "11:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "合肥南",
+      "arrive_time": "12:42",
+      "depart_time": "12:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "芜湖",
+      "arrive_time": "13:23",
+      "depart_time": "13:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "宣城",
+      "arrive_time": "13:53",
+      "depart_time": "13:58",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "郎溪南",
+      "arrive_time": "14:11",
+      "depart_time": "14:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "湖州",
+      "arrive_time": "14:41",
+      "depart_time": "14:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "杭州西",
+      "arrive_time": "15:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2675.5,
+    "price_first": 1315.5,
+    "price_second": 818.5,
+    "price_no_seat": 818.5
+  },
+  "fetched_at": "2026-05-01T06:31:22.623359"
+}

@@ -1,0 +1,65 @@
+{
+  "train_no": "G3790",
+  "train_type": "G",
+  "depart_station": "南昌东",
+  "arrive_station": "上海南",
+  "depart_time": "08:03",
+  "arrive_time": "11:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "08:03",
+      "depart_time": "08:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "景德镇北",
+      "arrive_time": "08:47",
+      "depart_time": "08:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄山北",
+      "arrive_time": "09:33",
+      "depart_time": "09:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州西",
+      "arrive_time": "10:52",
+      "depart_time": "10:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "湖州南浔",
+      "arrive_time": "11:27",
+      "depart_time": "11:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "练塘",
+      "arrive_time": "11:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "上海南",
+      "arrive_time": "11:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 675.0,
+    "price_second": 424.0,
+    "price_no_seat": 424.0
+  },
+  "fetched_at": "2026-05-01T06:47:34.535080"
+}

@@ -1,0 +1,58 @@
+{
+  "train_no": "D8803",
+  "train_type": "D",
+  "depart_station": "哈密",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "10:10",
+  "arrive_time": "12:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈密",
+      "arrive_time": "10:10",
+      "depart_time": "10:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吐哈",
+      "arrive_time": "11:20",
+      "depart_time": "11:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄯善北",
+      "arrive_time": "11:35",
+      "depart_time": "11:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "吐鲁番北",
+      "arrive_time": "12:05",
+      "depart_time": "12:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乌鲁木齐南",
+      "arrive_time": "12:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "12:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 262.0,
+    "price_second": 163.5,
+    "price_no_seat": 163.5
+  },
+  "fetched_at": "2026-05-01T05:05:26.491821"
+}

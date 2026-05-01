@@ -1,0 +1,30 @@
+{
+  "train_no": "C6329",
+  "train_type": "C",
+  "depart_station": "广元",
+  "arrive_station": "成都东",
+  "depart_time": "00:13",
+  "arrive_time": "00:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广元",
+      "arrive_time": "00:13",
+      "depart_time": "00:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都东",
+      "arrive_time": "00:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 214.0,
+    "price_second": 133.0,
+    "price_no_seat": 133.0
+  },
+  "fetched_at": "2026-05-01T01:49:13.732005"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G3870",
+  "train_type": "G",
+  "depart_station": "张家界西",
+  "arrive_station": "重庆东",
+  "depart_time": "19:30",
+  "arrive_time": "21:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家界西",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙山北",
+      "arrive_time": "20:12",
+      "depart_time": "20:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黔江",
+      "arrive_time": "20:55",
+      "depart_time": "20:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武隆南",
+      "arrive_time": "21:25",
+      "depart_time": "21:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南川北",
+      "arrive_time": "21:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆东",
+      "arrive_time": "21:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 818.0,
+    "price_first": 395.0,
+    "price_second": 246.0,
+    "price_no_seat": 246.0
+  },
+  "fetched_at": "2026-05-01T06:49:21.546731"
+}

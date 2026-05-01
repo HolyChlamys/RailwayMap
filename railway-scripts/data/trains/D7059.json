@@ -1,0 +1,51 @@
+{
+  "train_no": "D7059",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "襄阳东",
+  "depart_time": "07:08",
+  "arrive_time": "09:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "07:08",
+      "depart_time": "07:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "08:21",
+      "depart_time": "08:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "荆门西",
+      "arrive_time": "08:52",
+      "depart_time": "08:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宜城",
+      "arrive_time": "09:21",
+      "depart_time": "09:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "襄阳东",
+      "arrive_time": "09:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 345.0,
+    "price_second": 215.0,
+    "price_no_seat": 215.0
+  },
+  "fetched_at": "2026-05-01T04:33:01.475645"
+}

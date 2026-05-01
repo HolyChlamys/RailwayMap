@@ -1,0 +1,77 @@
+{
+  "train_no": "K7920",
+  "train_type": "K",
+  "depart_station": "呼和浩特",
+  "arrive_station": "锡林浩特",
+  "depart_time": "08:26",
+  "arrive_time": "17:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特",
+      "arrive_time": "08:26",
+      "depart_time": "08:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "呼和浩特东",
+      "arrive_time": "08:38",
+      "depart_time": "08:43",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "卓资东",
+      "arrive_time": "09:37",
+      "depart_time": "09:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "集宁南",
+      "arrive_time": "10:16",
+      "depart_time": "10:41",
+      "stay_min": "25"
+    },
+    {
+      "seq": 5,
+      "station_name": "商都",
+      "arrive_time": "12:02",
+      "depart_time": "12:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "化德",
+      "arrive_time": "12:50",
+      "depart_time": "12:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "正镶白旗",
+      "arrive_time": "14:16",
+      "depart_time": "14:22",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "桑根达来",
+      "arrive_time": "15:31",
+      "depart_time": "15:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "锡林浩特",
+      "arrive_time": "17:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T10:32:57.948632"
+}

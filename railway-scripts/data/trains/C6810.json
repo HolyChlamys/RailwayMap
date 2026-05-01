@@ -1,0 +1,59 @@
+{
+  "train_no": "C6810",
+  "train_type": "C",
+  "depart_station": "深圳北",
+  "arrive_station": "汕尾",
+  "depart_time": "21:14",
+  "arrive_time": "22:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "21:14",
+      "depart_time": "21:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳坪山",
+      "arrive_time": "21:33",
+      "depart_time": "21:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠阳",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "惠东南",
+      "arrive_time": "22:07",
+      "depart_time": "22:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "鲘门",
+      "arrive_time": "22:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "汕尾",
+      "arrive_time": "22:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 242.0,
+    "price_first": 111.0,
+    "price_second": 69.0,
+    "price_no_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T01:57:15.684591"
+}

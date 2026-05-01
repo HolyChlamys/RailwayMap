@@ -1,0 +1,30 @@
+{
+  "train_no": "C8184",
+  "train_type": "C",
+  "depart_station": "安康",
+  "arrive_station": "西安",
+  "depart_time": "19:51",
+  "arrive_time": "22:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安康",
+      "arrive_time": "19:51",
+      "depart_time": "19:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西安",
+      "arrive_time": "22:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 89.0,
+    "price_second": 74.0,
+    "price_no_seat": 74.0
+  },
+  "fetched_at": "2026-05-01T02:32:18.628980"
+}

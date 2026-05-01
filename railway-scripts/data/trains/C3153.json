@@ -1,0 +1,100 @@
+{
+  "train_no": "C3153",
+  "train_type": "C",
+  "depart_station": "盐城",
+  "arrive_station": "上海",
+  "depart_time": "10:42",
+  "arrive_time": "14:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "盐城",
+      "arrive_time": "10:42",
+      "depart_time": "10:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "建湖",
+      "arrive_time": "10:56",
+      "depart_time": "10:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "阜宁南",
+      "arrive_time": "11:06",
+      "depart_time": "11:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宝应",
+      "arrive_time": "11:35",
+      "depart_time": "11:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "扬州东",
+      "arrive_time": "12:05",
+      "depart_time": "12:09",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "丹徒",
+      "arrive_time": "12:34",
+      "depart_time": "12:39",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "常州",
+      "arrive_time": "12:59",
+      "depart_time": "13:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "无锡",
+      "arrive_time": "13:15",
+      "depart_time": "13:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "苏州",
+      "arrive_time": "13:33",
+      "depart_time": "13:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "阳澄湖",
+      "arrive_time": "13:46",
+      "depart_time": "13:51",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "昆山南",
+      "arrive_time": "13:59",
+      "depart_time": "14:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "上海",
+      "arrive_time": "14:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 411.0,
+    "price_second": 257.0,
+    "price_no_seat": 257.0
+  },
+  "fetched_at": "2026-05-01T00:52:31.144490"
+}

@@ -1,0 +1,73 @@
+{
+  "train_no": "G5055",
+  "train_type": "G",
+  "depart_station": "南平市",
+  "arrive_station": "厦门北",
+  "depart_time": "18:54",
+  "arrive_time": "21:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南平市",
+      "arrive_time": "18:54",
+      "depart_time": "18:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延平西",
+      "arrive_time": "19:27",
+      "depart_time": "19:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "三明北",
+      "arrive_time": "19:46",
+      "depart_time": "19:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "三明",
+      "arrive_time": "20:01",
+      "depart_time": "20:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "永安南",
+      "arrive_time": "20:19",
+      "depart_time": "20:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "龙岩",
+      "arrive_time": "21:10",
+      "depart_time": "21:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "漳州",
+      "arrive_time": "21:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "厦门北",
+      "arrive_time": "21:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 607.0,
+    "price_first": 319.0,
+    "price_second": 197.5,
+    "price_no_seat": 197.5
+  },
+  "fetched_at": "2026-05-01T07:23:37.395363"
+}

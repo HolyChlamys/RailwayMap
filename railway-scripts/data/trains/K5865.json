@@ -1,0 +1,42 @@
+{
+  "train_no": "K5865",
+  "train_type": "K",
+  "depart_station": "赣州",
+  "arrive_station": "定南",
+  "depart_time": "12:17",
+  "arrive_time": "13:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州",
+      "arrive_time": "12:17",
+      "depart_time": "12:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "信丰",
+      "arrive_time": "13:02",
+      "depart_time": "13:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙南",
+      "arrive_time": "13:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "定南",
+      "arrive_time": "13:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 23.5
+  },
+  "fetched_at": "2026-05-01T10:15:36.417157"
+}

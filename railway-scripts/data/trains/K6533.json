@@ -1,0 +1,42 @@
+{
+  "train_no": "K6533",
+  "train_type": "K",
+  "depart_station": "娄底",
+  "arrive_station": "广州白云",
+  "depart_time": "22:10",
+  "arrive_time": "07:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "娄底",
+      "arrive_time": "22:10",
+      "depart_time": "22:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "湘乡",
+      "arrive_time": "22:50",
+      "depart_time": "22:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "湘潭",
+      "arrive_time": "23:26",
+      "depart_time": "23:31",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州白云",
+      "arrive_time": "07:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T10:21:57.481371"
+}

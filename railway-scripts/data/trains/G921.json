@@ -1,0 +1,94 @@
+{
+  "train_no": "G921",
+  "train_type": "G",
+  "depart_station": "厦门",
+  "arrive_station": "香港西九龙",
+  "depart_time": "10:15",
+  "arrive_time": "14:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "10:15",
+      "depart_time": "10:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "10:48",
+      "depart_time": "10:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "云霄",
+      "arrive_time": "11:15",
+      "depart_time": "11:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "饶平",
+      "arrive_time": "11:35",
+      "depart_time": "11:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "潮汕",
+      "arrive_time": "11:53",
+      "depart_time": "11:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "普宁",
+      "arrive_time": "12:12",
+      "depart_time": "12:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "汕尾",
+      "arrive_time": "12:43",
+      "depart_time": "12:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "惠州南",
+      "arrive_time": "13:15",
+      "depart_time": "13:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳北",
+      "arrive_time": "13:56",
+      "depart_time": "13:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "福田",
+      "arrive_time": "14:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "香港西九龙",
+      "arrive_time": "14:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1269.0,
+    "price_first": 596.0,
+    "price_second": 373.0,
+    "price_no_seat": 373.0
+  },
+  "fetched_at": "2026-05-01T09:08:13.725242"
+}

@@ -1,0 +1,64 @@
+{
+  "train_no": "S5414",
+  "train_type": "S",
+  "depart_station": "花溪大学城",
+  "arrive_station": "开阳",
+  "depart_time": "11:34",
+  "arrive_time": "13:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "花溪大学城",
+      "arrive_time": "11:34",
+      "depart_time": "11:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳",
+      "arrive_time": "11:52",
+      "depart_time": "11:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "12:06",
+      "depart_time": "12:12",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳东",
+      "arrive_time": "12:22",
+      "depart_time": "12:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "洛湾三江",
+      "arrive_time": "12:31",
+      "depart_time": "12:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南江",
+      "arrive_time": "12:51",
+      "depart_time": "12:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "开阳",
+      "arrive_time": "13:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 38.0,
+    "price_no_seat": 38.0
+  },
+  "fetched_at": "2026-05-01T11:05:59.441512"
+}

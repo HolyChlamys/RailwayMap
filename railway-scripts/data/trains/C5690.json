@@ -1,0 +1,52 @@
+{
+  "train_no": "C5690",
+  "train_type": "C",
+  "depart_station": "峨眉山",
+  "arrive_station": "成都东",
+  "depart_time": "16:32",
+  "arrive_time": "17:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "峨眉山",
+      "arrive_time": "16:32",
+      "depart_time": "16:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "峨眉",
+      "arrive_time": "16:42",
+      "depart_time": "16:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乐山",
+      "arrive_time": "16:56",
+      "depart_time": "16:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "彭山北",
+      "arrive_time": "17:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "17:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 194.0,
+    "price_first": 104.0,
+    "price_second": 65.0,
+    "price_no_seat": 65.0
+  },
+  "fetched_at": "2026-05-01T01:37:03.008796"
+}

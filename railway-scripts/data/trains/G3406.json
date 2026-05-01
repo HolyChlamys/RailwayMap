@@ -1,0 +1,87 @@
+{
+  "train_no": "G3406",
+  "train_type": "G",
+  "depart_station": "重庆北",
+  "arrive_station": "郑州东",
+  "depart_time": "13:57",
+  "arrive_time": "18:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "13:57",
+      "depart_time": "13:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "万州北",
+      "arrive_time": "15:09",
+      "depart_time": "15:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "巫山",
+      "arrive_time": "15:53",
+      "depart_time": "15:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "巴东",
+      "arrive_time": "16:11",
+      "depart_time": "16:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "兴山",
+      "arrive_time": "16:28",
+      "depart_time": "16:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "神农架",
+      "arrive_time": "16:50",
+      "depart_time": "16:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "襄阳东",
+      "arrive_time": "17:31",
+      "depart_time": "17:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "邓州东",
+      "arrive_time": "17:54",
+      "depart_time": "17:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "南阳东",
+      "arrive_time": "18:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "郑州东",
+      "arrive_time": "18:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1888.0,
+    "price_first": 912.0,
+    "price_second": 570.0,
+    "price_no_seat": 570.0
+  },
+  "fetched_at": "2026-05-01T06:37:12.042256"
+}

@@ -1,0 +1,93 @@
+{
+  "train_no": "G9260",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "徐州东",
+  "depart_time": "21:20",
+  "arrive_time": "00:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "21:20",
+      "depart_time": "21:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "22:03",
+      "depart_time": "22:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "苏州新区",
+      "arrive_time": "22:25",
+      "depart_time": "22:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "无锡",
+      "arrive_time": "22:39",
+      "depart_time": "22:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "常州",
+      "arrive_time": "22:55",
+      "depart_time": "22:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "丹阳",
+      "arrive_time": "23:13",
+      "depart_time": "23:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "扬州东",
+      "arrive_time": "23:44",
+      "depart_time": "23:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "淮安东",
+      "arrive_time": "00:25",
+      "depart_time": "00:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "宿迁",
+      "arrive_time": "00:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "徐州东",
+      "arrive_time": "00:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 496.0,
+    "price_second": 311.0,
+    "price_no_seat": 311.0
+  },
+  "fetched_at": "2026-05-01T09:09:34.540735"
+}

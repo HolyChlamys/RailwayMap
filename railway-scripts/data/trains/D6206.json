@@ -1,0 +1,30 @@
+{
+  "train_no": "D6206",
+  "train_type": "D",
+  "depart_station": "莆田",
+  "arrive_station": "福州南",
+  "depart_time": "21:44",
+  "arrive_time": "21:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "莆田",
+      "arrive_time": "21:44",
+      "depart_time": "21:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福州南",
+      "arrive_time": "21:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 61.0,
+    "price_second": 38.0,
+    "price_no_seat": 38.0
+  },
+  "fetched_at": "2026-05-01T04:19:05.270263"
+}

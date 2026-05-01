@@ -1,0 +1,65 @@
+{
+  "train_no": "C685",
+  "train_type": "C",
+  "depart_station": "姚渡",
+  "arrive_station": "兰州",
+  "depart_time": "16:43",
+  "arrive_time": "19:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "姚渡",
+      "arrive_time": "16:43",
+      "depart_time": "16:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "陇南",
+      "arrive_time": "17:29",
+      "depart_time": "17:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "哈达铺",
+      "arrive_time": "18:29",
+      "depart_time": "18:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "岷县",
+      "arrive_time": "18:47",
+      "depart_time": "18:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "漳县",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "渭源",
+      "arrive_time": "19:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "兰州",
+      "arrive_time": "19:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 171.0,
+    "price_second": 107.0,
+    "price_no_seat": 107.0
+  },
+  "fetched_at": "2026-05-01T01:58:25.222589"
+}

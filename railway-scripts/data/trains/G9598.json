@@ -1,0 +1,38 @@
+{
+  "train_no": "G9598",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "六盘水",
+  "depart_time": "19:19",
+  "arrive_time": "20:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "19:19",
+      "depart_time": "19:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "六枝南",
+      "arrive_time": "20:17",
+      "depart_time": "20:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "六盘水",
+      "arrive_time": "20:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 363.0,
+    "price_first": 179.0,
+    "price_second": 112.0,
+    "price_no_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T09:18:44.023597"
+}

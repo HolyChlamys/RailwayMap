@@ -1,0 +1,93 @@
+{
+  "train_no": "D674",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "厦门",
+  "depart_time": "07:05",
+  "arrive_time": "10:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "07:05",
+      "depart_time": "07:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳坪山",
+      "arrive_time": "07:28",
+      "depart_time": "07:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鲘门",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "葵潭",
+      "arrive_time": "08:28",
+      "depart_time": "08:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "潮阳",
+      "arrive_time": "08:49",
+      "depart_time": "08:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "潮汕",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "饶平",
+      "arrive_time": "09:25",
+      "depart_time": "09:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "云霄",
+      "arrive_time": "09:46",
+      "depart_time": "09:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "漳浦",
+      "arrive_time": "10:00",
+      "depart_time": "10:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "漳州",
+      "arrive_time": "10:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "厦门",
+      "arrive_time": "10:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 371.0,
+    "price_second": 232.0,
+    "price_no_seat": 232.0
+  },
+  "fetched_at": "2026-05-01T04:27:50.235647"
+}

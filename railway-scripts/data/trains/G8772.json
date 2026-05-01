@@ -1,0 +1,45 @@
+{
+  "train_no": "G8772",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "成都东",
+  "depart_time": "21:50",
+  "arrive_time": "23:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "21:50",
+      "depart_time": "21:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泸州",
+      "arrive_time": "22:27",
+      "depart_time": "22:32",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "自贡",
+      "arrive_time": "23:03",
+      "depart_time": "23:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "成都东",
+      "arrive_time": "23:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 758.0,
+    "price_first": 347.0,
+    "price_second": 217.0,
+    "price_no_seat": 217.0
+  },
+  "fetched_at": "2026-05-01T09:00:06.708489"
+}

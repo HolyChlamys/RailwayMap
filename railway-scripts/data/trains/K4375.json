@@ -1,0 +1,49 @@
+{
+  "train_no": "K4375",
+  "train_type": "K",
+  "depart_station": "深圳",
+  "arrive_station": "宜昌东",
+  "depart_time": "22:20",
+  "arrive_time": "14:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "22:20",
+      "depart_time": "22:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "益阳",
+      "arrive_time": "09:31",
+      "depart_time": "09:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "常德",
+      "arrive_time": "10:38",
+      "depart_time": "10:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "松滋西",
+      "arrive_time": "13:13",
+      "depart_time": "13:19",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "宜昌东",
+      "arrive_time": "14:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 156.5
+  },
+  "fetched_at": "2026-05-01T09:53:05.392866"
+}

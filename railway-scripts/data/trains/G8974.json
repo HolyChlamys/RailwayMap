@@ -1,0 +1,59 @@
+{
+  "train_no": "G8974",
+  "train_type": "G",
+  "depart_station": "太仓",
+  "arrive_station": "南京南",
+  "depart_time": "20:53",
+  "arrive_time": "22:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太仓",
+      "arrive_time": "20:53",
+      "depart_time": "20:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "常熟",
+      "arrive_time": "21:11",
+      "depart_time": "21:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "江阴",
+      "arrive_time": "21:31",
+      "depart_time": "21:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武进",
+      "arrive_time": "21:47",
+      "depart_time": "21:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "金坛",
+      "arrive_time": "22:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "22:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 529.0,
+    "price_first": 242.0,
+    "price_second": 151.0,
+    "price_no_seat": 151.0
+  },
+  "fetched_at": "2026-05-01T09:05:00.613727"
+}

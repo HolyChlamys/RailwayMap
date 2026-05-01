@@ -1,0 +1,42 @@
+{
+  "train_no": "T4532",
+  "train_type": "T",
+  "depart_station": "武昌",
+  "arrive_station": "广水",
+  "depart_time": "08:02",
+  "arrive_time": "09:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "08:02",
+      "depart_time": "08:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感",
+      "arrive_time": "09:03",
+      "depart_time": "09:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "花园",
+      "arrive_time": "09:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广水",
+      "arrive_time": "09:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 24.5
+  },
+  "fetched_at": "2026-05-01T11:26:06.656004"
+}

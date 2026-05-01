@@ -1,0 +1,70 @@
+{
+  "train_no": "K4022",
+  "train_type": "K",
+  "depart_station": "通辽",
+  "arrive_station": "北京",
+  "depart_time": "07:40",
+  "arrive_time": "17:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "通辽",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "治安",
+      "arrive_time": "08:35",
+      "depart_time": "08:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "奈曼",
+      "arrive_time": "10:03",
+      "depart_time": "10:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "敖汉",
+      "arrive_time": "11:12",
+      "depart_time": "11:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "赤峰南",
+      "arrive_time": "13:13",
+      "depart_time": "13:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "四合永",
+      "arrive_time": "15:51",
+      "depart_time": "15:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "隆化",
+      "arrive_time": "17:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "北京",
+      "arrive_time": "17:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T09:45:34.148095"
+}

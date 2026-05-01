@@ -1,0 +1,45 @@
+{
+  "train_no": "G160",
+  "train_type": "G",
+  "depart_station": "大连北",
+  "arrive_station": "北京朝阳",
+  "depart_time": "08:35",
+  "arrive_time": "12:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "08:35",
+      "depart_time": "08:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "营口东",
+      "arrive_time": "09:24",
+      "depart_time": "09:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "盘锦",
+      "arrive_time": "09:52",
+      "depart_time": "09:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "北京朝阳",
+      "arrive_time": "12:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1678.0,
+    "price_first": 770.0,
+    "price_second": 481.0,
+    "price_no_seat": 481.0
+  },
+  "fetched_at": "2026-05-01T05:47:43.625661"
+}

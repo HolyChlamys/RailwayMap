@@ -1,0 +1,31 @@
+{
+  "train_no": "G4425",
+  "train_type": "G",
+  "depart_station": "北京朝阳",
+  "arrive_station": "沈阳",
+  "depart_time": "01:30",
+  "arrive_time": "01:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京朝阳",
+      "arrive_time": "01:30",
+      "depart_time": "01:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳",
+      "arrive_time": "01:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1339.0,
+    "price_first": 612.0,
+    "price_second": 383.0,
+    "price_no_seat": 383.0
+  },
+  "fetched_at": "2026-05-01T07:05:11.669210"
+}

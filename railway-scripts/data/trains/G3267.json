@@ -1,0 +1,94 @@
+{
+  "train_no": "G3267",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "青岛",
+  "depart_time": "09:07",
+  "arrive_time": "14:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兰考南",
+      "arrive_time": "09:38",
+      "depart_time": "09:50",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "庄寨",
+      "arrive_time": "10:07",
+      "depart_time": "10:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "菏泽东",
+      "arrive_time": "10:22",
+      "depart_time": "10:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "济宁北",
+      "arrive_time": "10:52",
+      "depart_time": "10:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "曲阜东",
+      "arrive_time": "11:14",
+      "depart_time": "11:33",
+      "stay_min": "19"
+    },
+    {
+      "seq": 7,
+      "station_name": "临沂北",
+      "arrive_time": "12:10",
+      "depart_time": "12:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "日照西",
+      "arrive_time": "12:42",
+      "depart_time": "12:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "青岛西",
+      "arrive_time": "13:14",
+      "depart_time": "13:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "青岛北",
+      "arrive_time": "13:51",
+      "depart_time": "14:03",
+      "stay_min": "12"
+    },
+    {
+      "seq": 11,
+      "station_name": "青岛",
+      "arrive_time": "14:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1163.0,
+    "price_first": 568.0,
+    "price_second": 355.0,
+    "price_no_seat": 355.0
+  },
+  "fetched_at": "2026-05-01T06:33:22.378333"
+}

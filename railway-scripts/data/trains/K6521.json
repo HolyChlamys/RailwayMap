@@ -1,0 +1,49 @@
+{
+  "train_no": "K6521",
+  "train_type": "K",
+  "depart_station": "长沙",
+  "arrive_station": "广州白云",
+  "depart_time": "12:10",
+  "arrive_time": "18:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲",
+      "arrive_time": "13:03",
+      "depart_time": "13:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳",
+      "arrive_time": "14:33",
+      "depart_time": "14:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "韶关东",
+      "arrive_time": "18:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州白云",
+      "arrive_time": "18:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 98.0
+  },
+  "fetched_at": "2026-05-01T10:21:39.306021"
+}

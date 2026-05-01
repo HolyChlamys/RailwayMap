@@ -1,0 +1,42 @@
+{
+  "train_no": "K7601",
+  "train_type": "K",
+  "depart_station": "西宁",
+  "arrive_station": "格尔木",
+  "depart_time": "22:20",
+  "arrive_time": "03:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西宁",
+      "arrive_time": "22:20",
+      "depart_time": "22:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "柯柯",
+      "arrive_time": "02:16",
+      "depart_time": "02:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "德令哈",
+      "arrive_time": "03:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "格尔木",
+      "arrive_time": "03:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T10:30:49.112735"
+}

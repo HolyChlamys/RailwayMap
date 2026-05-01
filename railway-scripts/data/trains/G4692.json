@@ -1,0 +1,52 @@
+{
+  "train_no": "G4692",
+  "train_type": "G",
+  "depart_station": "怀化南",
+  "arrive_station": "上海南",
+  "depart_time": "21:28",
+  "arrive_time": "03:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "怀化南",
+      "arrive_time": "21:28",
+      "depart_time": "21:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "娄底南",
+      "arrive_time": "22:28",
+      "depart_time": "22:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙南",
+      "arrive_time": "23:08",
+      "depart_time": "23:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "03:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "上海南",
+      "arrive_time": "03:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2525.0,
+    "price_first": 1154.0,
+    "price_second": 721.0,
+    "price_no_seat": 721.0
+  },
+  "fetched_at": "2026-05-01T07:12:51.051606"
+}

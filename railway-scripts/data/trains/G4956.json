@@ -1,0 +1,73 @@
+{
+  "train_no": "G4956",
+  "train_type": "G",
+  "depart_station": "南京南",
+  "arrive_station": "兰州西",
+  "depart_time": "02:38",
+  "arrive_time": "10:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "02:38",
+      "depart_time": "02:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "徐州东",
+      "arrive_time": "03:52",
+      "depart_time": "03:57",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "05:26",
+      "depart_time": "05:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "西安北",
+      "arrive_time": "07:15",
+      "depart_time": "07:29",
+      "stay_min": "14"
+    },
+    {
+      "seq": 5,
+      "station_name": "杨陵南",
+      "arrive_time": "07:55",
+      "depart_time": "07:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "天水南",
+      "arrive_time": "08:59",
+      "depart_time": "09:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "定西北",
+      "arrive_time": "09:52",
+      "depart_time": "09:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "兰州西",
+      "arrive_time": "10:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3102.0,
+    "price_first": 1418.0,
+    "price_second": 887.0,
+    "price_no_seat": 887.0
+  },
+  "fetched_at": "2026-05-01T07:20:55.990342"
+}

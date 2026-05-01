@@ -1,0 +1,51 @@
+{
+  "train_no": "D1205",
+  "train_type": "D",
+  "depart_station": "兰州西",
+  "arrive_station": "包头",
+  "depart_time": "09:23",
+  "arrive_time": "14:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "09:23",
+      "depart_time": "09:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "中卫南",
+      "arrive_time": "10:57",
+      "depart_time": "10:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "银川",
+      "arrive_time": "12:08",
+      "depart_time": "12:15",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "13:41",
+      "depart_time": "13:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "包头",
+      "arrive_time": "14:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 841.0,
+    "price_second": 526.0,
+    "price_no_seat": 526.0
+  },
+  "fetched_at": "2026-05-01T02:59:29.988784"
+}

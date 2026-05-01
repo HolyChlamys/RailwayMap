@@ -1,0 +1,52 @@
+{
+  "train_no": "D6868",
+  "train_type": "D",
+  "depart_station": "汉中",
+  "arrive_station": "西安北",
+  "depart_time": "12:35",
+  "arrive_time": "13:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉中",
+      "arrive_time": "12:35",
+      "depart_time": "12:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "城固北",
+      "arrive_time": "12:48",
+      "depart_time": "12:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "洋县西",
+      "arrive_time": "13:05",
+      "depart_time": "13:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安西",
+      "arrive_time": "13:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西安北",
+      "arrive_time": "13:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 407.0,
+    "price_first": 186.0,
+    "price_second": 116.0,
+    "price_no_seat": 116.0
+  },
+  "fetched_at": "2026-05-01T04:30:04.579766"
+}

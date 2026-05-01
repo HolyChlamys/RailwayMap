@@ -1,0 +1,79 @@
+{
+  "train_no": "D3282",
+  "train_type": "D",
+  "depart_station": "景德镇北",
+  "arrive_station": "武汉",
+  "depart_time": "10:35",
+  "arrive_time": "13:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "景德镇北",
+      "arrive_time": "10:35",
+      "depart_time": "10:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄱阳北",
+      "arrive_time": "10:53",
+      "depart_time": "10:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "都昌",
+      "arrive_time": "11:16",
+      "depart_time": "11:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "湖口",
+      "arrive_time": "11:34",
+      "depart_time": "11:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "九江",
+      "arrive_time": "12:01",
+      "depart_time": "12:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "瑞昌西",
+      "arrive_time": "12:24",
+      "depart_time": "12:31",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "阳新",
+      "arrive_time": "12:49",
+      "depart_time": "12:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "黄石北",
+      "arrive_time": "13:09",
+      "depart_time": "13:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "武汉",
+      "arrive_time": "13:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 260.0,
+    "price_second": 163.0,
+    "price_no_seat": 163.0
+  },
+  "fetched_at": "2026-05-01T03:31:05.643280"
+}

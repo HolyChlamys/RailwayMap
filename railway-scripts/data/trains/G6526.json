@@ -1,0 +1,31 @@
+{
+  "train_no": "G6526",
+  "train_type": "G",
+  "depart_station": "香港西九龙",
+  "arrive_station": "广州南",
+  "depart_time": "17:01",
+  "arrive_time": "17:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香港西九龙",
+      "arrive_time": "17:01",
+      "depart_time": "17:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "17:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 645.0,
+    "price_first": 344.0,
+    "price_second": 215.0,
+    "price_no_seat": 215.0
+  },
+  "fetched_at": "2026-05-01T08:01:25.817361"
+}

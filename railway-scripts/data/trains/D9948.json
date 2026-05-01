@@ -1,0 +1,51 @@
+{
+  "train_no": "D9948",
+  "train_type": "D",
+  "depart_station": "从江",
+  "arrive_station": "贵阳北",
+  "depart_time": "23:23",
+  "arrive_time": "00:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "从江",
+      "arrive_time": "23:23",
+      "depart_time": "23:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "榕江",
+      "arrive_time": "23:43",
+      "depart_time": "23:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "都匀东",
+      "arrive_time": "00:13",
+      "depart_time": "00:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳",
+      "arrive_time": "00:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "00:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 166.0,
+    "price_second": 104.0,
+    "price_no_seat": 104.0
+  },
+  "fetched_at": "2026-05-01T05:28:43.073736"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "G2318",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "温州南",
+  "depart_time": "09:01",
+  "arrive_time": "13:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "09:01",
+      "depart_time": "09:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "萍乡北",
+      "arrive_time": "09:28",
+      "depart_time": "09:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "新余北",
+      "arrive_time": "09:58",
+      "depart_time": "10:04",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌西",
+      "arrive_time": "10:37",
+      "depart_time": "10:43",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "抚州东",
+      "arrive_time": "11:09",
+      "depart_time": "11:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "衢州",
+      "arrive_time": "12:08",
+      "depart_time": "12:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "永康南",
+      "arrive_time": "12:52",
+      "depart_time": "12:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "青田",
+      "arrive_time": "13:29",
+      "depart_time": "13:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "温州南",
+      "arrive_time": "13:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1644.5,
+    "price_first": 767.5,
+    "price_second": 480.0,
+    "price_no_seat": 480.0
+  },
+  "fetched_at": "2026-05-01T06:07:15.927944"
+}

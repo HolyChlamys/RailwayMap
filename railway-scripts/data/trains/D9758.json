@@ -1,0 +1,37 @@
+{
+  "train_no": "D9758",
+  "train_type": "D",
+  "depart_station": "深圳",
+  "arrive_station": "汕头",
+  "depart_time": "02:15",
+  "arrive_time": "03:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "02:15",
+      "depart_time": "02:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汕尾",
+      "arrive_time": "03:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汕头",
+      "arrive_time": "03:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 378.0,
+    "price_second": 246.0,
+    "price_no_seat": 246.0
+  },
+  "fetched_at": "2026-05-01T05:24:03.993560"
+}

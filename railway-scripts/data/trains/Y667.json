@@ -1,0 +1,49 @@
+{
+  "train_no": "Y667",
+  "train_type": "Y",
+  "depart_station": "兰州",
+  "arrive_station": "敦煌",
+  "depart_time": "17:53",
+  "arrive_time": "05:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州",
+      "arrive_time": "17:53",
+      "depart_time": "17:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武威",
+      "arrive_time": "21:01",
+      "depart_time": "21:07",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "张掖",
+      "arrive_time": "23:30",
+      "depart_time": "23:36",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "嘉峪关",
+      "arrive_time": "01:45",
+      "depart_time": "01:54",
+      "stay_min": "9"
+    },
+    {
+      "seq": 5,
+      "station_name": "敦煌",
+      "arrive_time": "05:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 141.5
+  },
+  "fetched_at": "2026-05-01T11:36:38.970755"
+}

@@ -1,0 +1,58 @@
+{
+  "train_no": "D5430",
+  "train_type": "D",
+  "depart_station": "南京",
+  "arrive_station": "连云港",
+  "depart_time": "14:12",
+  "arrive_time": "16:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "14:12",
+      "depart_time": "14:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "镇江",
+      "arrive_time": "14:35",
+      "depart_time": "14:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "扬州东",
+      "arrive_time": "15:06",
+      "depart_time": "15:14",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "高邮北",
+      "arrive_time": "15:35",
+      "depart_time": "15:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "淮安东",
+      "arrive_time": "15:59",
+      "depart_time": "16:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "连云港",
+      "arrive_time": "16:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 295.0,
+    "price_second": 185.0,
+    "price_no_seat": 185.0
+  },
+  "fetched_at": "2026-05-01T04:06:27.594700"
+}

@@ -1,0 +1,51 @@
+{
+  "train_no": "C5180",
+  "train_type": "C",
+  "depart_station": "诏安",
+  "arrive_station": "厦门北",
+  "depart_time": "07:38",
+  "arrive_time": "08:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "诏安",
+      "arrive_time": "07:38",
+      "depart_time": "07:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "云霄",
+      "arrive_time": "07:54",
+      "depart_time": "07:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "漳浦",
+      "arrive_time": "08:18",
+      "depart_time": "08:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "漳州",
+      "arrive_time": "08:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "厦门北",
+      "arrive_time": "08:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 107.0,
+    "price_second": 67.0,
+    "price_no_seat": 67.0
+  },
+  "fetched_at": "2026-05-01T01:28:50.257685"
+}

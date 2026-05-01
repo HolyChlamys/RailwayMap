@@ -1,0 +1,31 @@
+{
+  "train_no": "C2450",
+  "train_type": "C",
+  "depart_station": "合肥西",
+  "arrive_station": "五河",
+  "depart_time": "22:47",
+  "arrive_time": "22:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥西",
+      "arrive_time": "22:47",
+      "depart_time": "22:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "五河",
+      "arrive_time": "22:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 468.0,
+    "price_first": 214.0,
+    "price_second": 134.0,
+    "price_no_seat": 134.0
+  },
+  "fetched_at": "2026-05-01T00:39:40.267246"
+}

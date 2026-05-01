@@ -1,0 +1,28 @@
+{
+  "train_no": "K7782",
+  "train_type": "K",
+  "depart_station": "燕郊",
+  "arrive_station": "北京",
+  "depart_time": "06:19",
+  "arrive_time": "06:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "燕郊",
+      "arrive_time": "06:19",
+      "depart_time": "06:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北京",
+      "arrive_time": "06:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 9.0
+  },
+  "fetched_at": "2026-05-01T10:32:01.715333"
+}

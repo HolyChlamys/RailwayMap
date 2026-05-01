@@ -1,0 +1,31 @@
+{
+  "train_no": "D9731",
+  "train_type": "D",
+  "depart_station": "汕尾",
+  "arrive_station": "深圳北",
+  "depart_time": "22:29",
+  "arrive_time": "22:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕尾",
+      "arrive_time": "22:29",
+      "depart_time": "22:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "22:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 242.0,
+    "price_first": 111.0,
+    "price_second": 69.0,
+    "price_no_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T05:23:15.808801"
+}

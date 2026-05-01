@@ -1,0 +1,52 @@
+{
+  "train_no": "C638",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "香格里拉",
+  "depart_time": "07:50",
+  "arrive_time": "13:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "07:50",
+      "depart_time": "07:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "楚雄",
+      "arrive_time": "08:56",
+      "depart_time": "09:00",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "鹤庆",
+      "arrive_time": "11:08",
+      "depart_time": "11:22",
+      "stay_min": "14"
+    },
+    {
+      "seq": 4,
+      "station_name": "丽江",
+      "arrive_time": "11:59",
+      "depart_time": "12:05",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "香格里拉",
+      "arrive_time": "13:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 901.0,
+    "price_first": 462.0,
+    "price_second": 290.0,
+    "price_no_seat": 290.0
+  },
+  "fetched_at": "2026-05-01T01:49:59.961035"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "C6802",
+  "train_type": "C",
+  "depart_station": "广州东",
+  "arrive_station": "潮汕",
+  "depart_time": "21:35",
+  "arrive_time": "23:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "21:35",
+      "depart_time": "21:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "22:00",
+      "depart_time": "22:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "增城",
+      "arrive_time": "22:14",
+      "depart_time": "22:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "惠州南",
+      "arrive_time": "22:37",
+      "depart_time": "22:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "惠东",
+      "arrive_time": "22:57",
+      "depart_time": "22:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "汕尾",
+      "arrive_time": "23:22",
+      "depart_time": "23:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "陆丰",
+      "arrive_time": "23:37",
+      "depart_time": "23:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "普宁",
+      "arrive_time": "23:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "潮汕",
+      "arrive_time": "23:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 849.0,
+    "price_first": 376.0,
+    "price_second": 242.0,
+    "price_no_seat": 242.0
+  },
+  "fetched_at": "2026-05-01T01:57:00.695375"
+}

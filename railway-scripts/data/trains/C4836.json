@@ -1,0 +1,50 @@
+{
+  "train_no": "C4836",
+  "train_type": "C",
+  "depart_station": "佛山  西",
+  "arrive_station": "花都",
+  "depart_time": "14:12",
+  "arrive_time": "15:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佛山  西",
+      "arrive_time": "14:12",
+      "depart_time": "14:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "番禺",
+      "arrive_time": "14:35",
+      "depart_time": "14:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "白云机场东",
+      "arrive_time": "15:05",
+      "depart_time": "15:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "白云机场北",
+      "arrive_time": "15:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "花都",
+      "arrive_time": "15:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 77.0,
+    "price_no_seat": 77.0
+  },
+  "fetched_at": "2026-05-01T01:19:38.912368"
+}

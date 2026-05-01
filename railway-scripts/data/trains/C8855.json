@@ -1,0 +1,58 @@
+{
+  "train_no": "C8855",
+  "train_type": "C",
+  "depart_station": "河源东",
+  "arrive_station": "深圳北",
+  "depart_time": "08:51",
+  "arrive_time": "09:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "河源东",
+      "arrive_time": "08:51",
+      "depart_time": "08:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "博罗北",
+      "arrive_time": "09:04",
+      "depart_time": "09:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "09:20",
+      "depart_time": "09:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "仲恺",
+      "arrive_time": "09:31",
+      "depart_time": "09:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "东莞南",
+      "arrive_time": "09:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "09:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 124.0,
+    "price_second": 78.0,
+    "price_no_seat": 78.0
+  },
+  "fetched_at": "2026-05-01T02:36:47.017009"
+}

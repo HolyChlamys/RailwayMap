@@ -1,0 +1,31 @@
+{
+  "train_no": "D8590",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "遵义",
+  "depart_time": "08:21",
+  "arrive_time": "08:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "08:21",
+      "depart_time": "08:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遵义",
+      "arrive_time": "08:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 151.0,
+    "price_first": 81.0,
+    "price_second": 50.0,
+    "price_no_seat": 50.0
+  },
+  "fetched_at": "2026-05-01T05:00:22.103819"
+}

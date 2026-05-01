@@ -1,0 +1,58 @@
+{
+  "train_no": "D5371",
+  "train_type": "D",
+  "depart_station": "大同南",
+  "arrive_station": "武乡",
+  "depart_time": "15:29",
+  "arrive_time": "17:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大同南",
+      "arrive_time": "15:29",
+      "depart_time": "15:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "朔州东",
+      "arrive_time": "16:03",
+      "depart_time": "16:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "太原南",
+      "arrive_time": "17:13",
+      "depart_time": "17:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "晋中",
+      "arrive_time": "17:27",
+      "depart_time": "17:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太谷东",
+      "arrive_time": "17:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "武乡",
+      "arrive_time": "17:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 308.0,
+    "price_second": 193.0,
+    "price_no_seat": 193.0
+  },
+  "fetched_at": "2026-05-01T04:05:19.775997"
+}

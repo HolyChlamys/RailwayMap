@@ -1,0 +1,73 @@
+{
+  "train_no": "G4518",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "杭州东",
+  "depart_time": "19:27",
+  "arrive_time": "00:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "19:27",
+      "depart_time": "19:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "商丘",
+      "arrive_time": "20:16",
+      "depart_time": "20:28",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "砀山南",
+      "arrive_time": "20:46",
+      "depart_time": "20:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "永城北",
+      "arrive_time": "20:59",
+      "depart_time": "21:09",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "萧县北",
+      "arrive_time": "21:23",
+      "depart_time": "21:29",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "徐州东",
+      "arrive_time": "21:48",
+      "depart_time": "21:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京南",
+      "arrive_time": "23:05",
+      "depart_time": "23:09",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "杭州东",
+      "arrive_time": "00:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1652.0,
+    "price_first": 780.5,
+    "price_second": 488.5,
+    "price_no_seat": 488.5
+  },
+  "fetched_at": "2026-05-01T07:07:43.885712"
+}

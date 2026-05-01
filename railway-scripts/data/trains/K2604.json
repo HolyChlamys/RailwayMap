@@ -1,0 +1,84 @@
+{
+  "train_no": "K2604",
+  "train_type": "K",
+  "depart_station": "大同",
+  "arrive_station": "秦皇岛",
+  "depart_time": "20:53",
+  "arrive_time": "10:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大同",
+      "arrive_time": "20:53",
+      "depart_time": "20:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天镇",
+      "arrive_time": "21:58",
+      "depart_time": "22:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "柴沟堡",
+      "arrive_time": "22:46",
+      "depart_time": "22:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "张家口",
+      "arrive_time": "23:23",
+      "depart_time": "23:31",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "北京丰台",
+      "arrive_time": "03:17",
+      "depart_time": "03:55",
+      "stay_min": "38"
+    },
+    {
+      "seq": 6,
+      "station_name": "天津",
+      "arrive_time": "05:27",
+      "depart_time": "05:33",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "唐山",
+      "arrive_time": "07:23",
+      "depart_time": "07:34",
+      "stay_min": "11"
+    },
+    {
+      "seq": 8,
+      "station_name": "滦县",
+      "arrive_time": "08:44",
+      "depart_time": "08:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "北戴河",
+      "arrive_time": "09:37",
+      "depart_time": "09:45",
+      "stay_min": "8"
+    },
+    {
+      "seq": 10,
+      "station_name": "秦皇岛",
+      "arrive_time": "10:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T09:41:46.378533"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "G8101",
+  "train_type": "G",
+  "depart_station": "长春",
+  "arrive_station": "丹东",
+  "depart_time": "05:53",
+  "arrive_time": "08:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "05:53",
+      "depart_time": "05:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "四平东",
+      "arrive_time": "06:26",
+      "depart_time": "06:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "昌图西",
+      "arrive_time": "06:44",
+      "depart_time": "06:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳",
+      "arrive_time": "07:21",
+      "depart_time": "07:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "本溪",
+      "arrive_time": "07:55",
+      "depart_time": "07:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南芬北",
+      "arrive_time": "08:07",
+      "depart_time": "08:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "凤城东",
+      "arrive_time": "08:33",
+      "depart_time": "08:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "丹东",
+      "arrive_time": "08:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 393.0,
+    "price_second": 246.0,
+    "price_no_seat": 246.0
+  },
+  "fetched_at": "2026-05-01T08:44:21.932614"
+}

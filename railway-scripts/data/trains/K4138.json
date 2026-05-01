@@ -1,0 +1,35 @@
+{
+  "train_no": "K4138",
+  "train_type": "K",
+  "depart_station": "苏州",
+  "arrive_station": "常州",
+  "depart_time": "15:31",
+  "arrive_time": "16:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "苏州",
+      "arrive_time": "15:31",
+      "depart_time": "15:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "无锡",
+      "arrive_time": "16:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常州",
+      "arrive_time": "16:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 266.0
+  },
+  "fetched_at": "2026-05-01T09:48:39.439663"
+}

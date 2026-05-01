@@ -1,0 +1,63 @@
+{
+  "train_no": "T96",
+  "train_type": "T",
+  "depart_station": "深圳东",
+  "arrive_station": "武昌",
+  "depart_time": "17:30",
+  "arrive_time": "03:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳东",
+      "arrive_time": "17:30",
+      "depart_time": "17:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州北",
+      "arrive_time": "19:11",
+      "depart_time": "19:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "韶关东",
+      "arrive_time": "21:26",
+      "depart_time": "21:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郴州",
+      "arrive_time": "23:18",
+      "depart_time": "23:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡阳",
+      "arrive_time": "01:03",
+      "depart_time": "01:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙",
+      "arrive_time": "03:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "武昌",
+      "arrive_time": "03:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 148.5
+  },
+  "fetched_at": "2026-05-01T11:28:52.722674"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "G8733",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "成都东",
+  "depart_time": "08:35",
+  "arrive_time": "11:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "08:35",
+      "depart_time": "08:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泸州",
+      "arrive_time": "09:12",
+      "depart_time": "09:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "泸县",
+      "arrive_time": "09:31",
+      "depart_time": "09:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "富顺",
+      "arrive_time": "09:45",
+      "depart_time": "09:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "自贡",
+      "arrive_time": "09:57",
+      "depart_time": "10:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "内江北",
+      "arrive_time": "10:23",
+      "depart_time": "10:29",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "资中北",
+      "arrive_time": "10:40",
+      "depart_time": "10:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "成都东",
+      "arrive_time": "11:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 355.0,
+    "price_second": 222.0,
+    "price_no_seat": 222.0
+  },
+  "fetched_at": "2026-05-01T08:58:59.013979"
+}

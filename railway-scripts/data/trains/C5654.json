@@ -1,0 +1,37 @@
+{
+  "train_no": "C5654",
+  "train_type": "C",
+  "depart_station": "宜宾西",
+  "arrive_station": "成都东",
+  "depart_time": "09:00",
+  "arrive_time": "09:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜宾西",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "屏山",
+      "arrive_time": "09:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "成都东",
+      "arrive_time": "09:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 176.0,
+    "price_second": 110.0,
+    "price_no_seat": 110.0
+  },
+  "fetched_at": "2026-05-01T01:36:24.968164"
+}

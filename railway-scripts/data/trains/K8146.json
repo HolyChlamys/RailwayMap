@@ -1,0 +1,42 @@
+{
+  "train_no": "K8146",
+  "train_type": "K",
+  "depart_station": "周口",
+  "arrive_station": "信阳",
+  "depart_time": "11:06",
+  "arrive_time": "14:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "周口",
+      "arrive_time": "11:06",
+      "depart_time": "11:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漯河",
+      "arrive_time": "12:00",
+      "depart_time": "12:36",
+      "stay_min": "36"
+    },
+    {
+      "seq": 3,
+      "station_name": "驻马店",
+      "arrive_time": "13:15",
+      "depart_time": "13:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "信阳",
+      "arrive_time": "14:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T10:36:25.362561"
+}

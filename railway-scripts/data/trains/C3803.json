@@ -1,0 +1,65 @@
+{
+  "train_no": "C3803",
+  "train_type": "C",
+  "depart_station": "上海",
+  "arrive_station": "南通",
+  "depart_time": "15:46",
+  "arrive_time": "17:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "15:46",
+      "depart_time": "15:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安亭西",
+      "arrive_time": "16:11",
+      "depart_time": "16:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "太仓",
+      "arrive_time": "16:28",
+      "depart_time": "16:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "常熟",
+      "arrive_time": "16:49",
+      "depart_time": "16:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "张家港",
+      "arrive_time": "17:01",
+      "depart_time": "17:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南通西",
+      "arrive_time": "17:19",
+      "depart_time": "17:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "南通",
+      "arrive_time": "17:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 120.0,
+    "price_second": 75.5,
+    "price_no_seat": 75.5
+  },
+  "fetched_at": "2026-05-01T01:04:22.007605"
+}

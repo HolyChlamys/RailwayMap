@@ -1,0 +1,58 @@
+{
+  "train_no": "C355",
+  "train_type": "C",
+  "depart_station": "保山",
+  "arrive_station": "昆明",
+  "depart_time": "16:20",
+  "arrive_time": "20:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "保山",
+      "arrive_time": "16:20",
+      "depart_time": "16:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永平县",
+      "arrive_time": "16:47",
+      "depart_time": "16:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "漾濞",
+      "arrive_time": "17:18",
+      "depart_time": "17:22",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "大理",
+      "arrive_time": "17:50",
+      "depart_time": "18:06",
+      "stay_min": "16"
+    },
+    {
+      "seq": 5,
+      "station_name": "楚雄",
+      "arrive_time": "19:12",
+      "depart_time": "19:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明",
+      "arrive_time": "20:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 337.0,
+    "price_second": 212.0,
+    "price_no_seat": 212.0
+  },
+  "fetched_at": "2026-05-01T01:00:27.949220"
+}

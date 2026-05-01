@@ -1,0 +1,73 @@
+{
+  "train_no": "C867",
+  "train_type": "C",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "博乐",
+  "depart_time": "11:10",
+  "arrive_time": "15:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石河子",
+      "arrive_time": "12:22",
+      "depart_time": "12:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沙湾市",
+      "arrive_time": "12:43",
+      "depart_time": "12:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "奎屯",
+      "arrive_time": "13:17",
+      "depart_time": "13:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乌苏",
+      "arrive_time": "13:31",
+      "depart_time": "13:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "精河",
+      "arrive_time": "14:34",
+      "depart_time": "14:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "双河市",
+      "arrive_time": "15:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "博乐",
+      "arrive_time": "15:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 401.0,
+    "price_first": 183.0,
+    "price_second": 115.0,
+    "price_no_seat": 115.0
+  },
+  "fetched_at": "2026-05-01T02:35:44.432500"
+}

@@ -1,0 +1,73 @@
+{
+  "train_no": "G5544",
+  "train_type": "G",
+  "depart_station": "莘县",
+  "arrive_station": "烟台",
+  "depart_time": "17:03",
+  "arrive_time": "20:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "莘县",
+      "arrive_time": "17:03",
+      "depart_time": "17:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "聊城西",
+      "arrive_time": "17:14",
+      "depart_time": "17:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "茌平南",
+      "arrive_time": "17:30",
+      "depart_time": "17:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "长清",
+      "arrive_time": "17:47",
+      "depart_time": "17:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "济南西",
+      "arrive_time": "18:04",
+      "depart_time": "18:08",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南东",
+      "arrive_time": "18:30",
+      "depart_time": "18:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "潍坊北",
+      "arrive_time": "19:17",
+      "depart_time": "19:21",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "烟台",
+      "arrive_time": "20:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1161.0,
+    "price_first": 556.0,
+    "price_second": 347.0,
+    "price_no_seat": 347.0
+  },
+  "fetched_at": "2026-05-01T07:36:28.866044"
+}

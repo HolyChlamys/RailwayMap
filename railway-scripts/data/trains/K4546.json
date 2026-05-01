@@ -1,0 +1,28 @@
+{
+  "train_no": "K4546",
+  "train_type": "K",
+  "depart_station": "深圳东",
+  "arrive_station": "襄阳",
+  "depart_time": "21:57",
+  "arrive_time": "17:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳东",
+      "arrive_time": "21:57",
+      "depart_time": "21:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "襄阳",
+      "arrive_time": "17:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 180.5
+  },
+  "fetched_at": "2026-05-01T09:55:27.650640"
+}

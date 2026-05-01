@@ -1,0 +1,43 @@
+{
+  "train_no": "C2929",
+  "train_type": "C",
+  "depart_station": "开封",
+  "arrive_station": "郑州东",
+  "depart_time": "20:10",
+  "arrive_time": "20:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "开封",
+      "arrive_time": "20:10",
+      "depart_time": "20:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宋城路",
+      "arrive_time": "20:20",
+      "depart_time": "20:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贾鲁河",
+      "arrive_time": "20:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "20:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 29.0,
+    "price_no_seat": 29.0
+  },
+  "fetched_at": "2026-05-01T00:46:55.852424"
+}

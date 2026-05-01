@@ -1,0 +1,115 @@
+{
+  "train_no": "D111",
+  "train_type": "D",
+  "depart_station": "兰州",
+  "arrive_station": "齐齐哈尔南",
+  "depart_time": "04:40",
+  "arrive_time": "20:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州",
+      "arrive_time": "04:40",
+      "depart_time": "04:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "陇南",
+      "arrive_time": "07:29",
+      "depart_time": "07:35",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "广元",
+      "arrive_time": "08:42",
+      "depart_time": "08:48",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "阆中",
+      "arrive_time": "09:38",
+      "depart_time": "09:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南充北",
+      "arrive_time": "10:19",
+      "depart_time": "10:23",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "蓬溪",
+      "arrive_time": "10:47",
+      "depart_time": "10:55",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "遂宁",
+      "arrive_time": "11:09",
+      "depart_time": "11:18",
+      "stay_min": "9"
+    },
+    {
+      "seq": 8,
+      "station_name": "长春",
+      "arrive_time": "17:23",
+      "depart_time": "17:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "成都东",
+      "arrive_time": "12:27",
+      "depart_time": "12:40",
+      "stay_min": "13"
+    },
+    {
+      "seq": 10,
+      "station_name": "哈尔滨西",
+      "arrive_time": "18:34",
+      "depart_time": "18:40",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "成都南",
+      "arrive_time": "12:51",
+      "depart_time": "12:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "哈尔滨",
+      "arrive_time": "18:50",
+      "depart_time": "18:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 13,
+      "station_name": "大庆西",
+      "arrive_time": "19:43",
+      "depart_time": "19:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "齐齐哈尔南",
+      "arrive_time": "20:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 916.0,
+    "price_first": 420.0,
+    "price_second": 264.0,
+    "price_no_seat": 264.0
+  },
+  "fetched_at": "2026-05-01T02:57:37.845300"
+}

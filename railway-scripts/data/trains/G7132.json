@@ -1,0 +1,87 @@
+{
+  "train_no": "G7132",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "安庆",
+  "depart_time": "09:41",
+  "arrive_time": "13:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "09:41",
+      "depart_time": "09:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "10:08",
+      "depart_time": "10:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡",
+      "arrive_time": "10:25",
+      "depart_time": "10:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "常州",
+      "arrive_time": "10:41",
+      "depart_time": "10:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "镇江",
+      "arrive_time": "11:06",
+      "depart_time": "11:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "11:35",
+      "depart_time": "11:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "马鞍山东",
+      "arrive_time": "11:54",
+      "depart_time": "11:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "芜湖",
+      "arrive_time": "12:13",
+      "depart_time": "12:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "铜陵",
+      "arrive_time": "12:43",
+      "depart_time": "12:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "安庆",
+      "arrive_time": "13:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 998.0,
+    "price_first": 456.0,
+    "price_second": 285.0,
+    "price_no_seat": 285.0
+  },
+  "fetched_at": "2026-05-01T08:18:28.897043"
+}

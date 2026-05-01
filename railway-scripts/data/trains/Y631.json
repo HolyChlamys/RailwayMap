@@ -1,0 +1,31 @@
+{
+  "train_no": "Y631",
+  "train_type": "Y",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "伊宁",
+  "depart_time": "23:50",
+  "arrive_time": "23:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "23:50",
+      "depart_time": "23:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "伊宁",
+      "arrive_time": "23:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 0.5,
+    "price_first": 0.5,
+    "price_second": 0.5,
+    "price_no_seat": 0.5
+  },
+  "fetched_at": "2026-05-01T11:36:17.595161"
+}

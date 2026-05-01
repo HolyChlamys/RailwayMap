@@ -1,0 +1,30 @@
+{
+  "train_no": "D9353",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "荆州",
+  "depart_time": "00:15",
+  "arrive_time": "00:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "00:15",
+      "depart_time": "00:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "00:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 145.0,
+    "price_second": 91.0,
+    "price_no_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T05:14:02.903468"
+}

@@ -1,0 +1,93 @@
+{
+  "train_no": "D9873",
+  "train_type": "D",
+  "depart_station": "赣州",
+  "arrive_station": "泉州",
+  "depart_time": "19:51",
+  "arrive_time": "00:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州",
+      "arrive_time": "19:51",
+      "depart_time": "19:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "于都",
+      "arrive_time": "20:21",
+      "depart_time": "20:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "会昌北",
+      "arrive_time": "20:40",
+      "depart_time": "20:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "瑞金",
+      "arrive_time": "20:56",
+      "depart_time": "20:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "长汀南",
+      "arrive_time": "21:14",
+      "depart_time": "21:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "冠豸山南",
+      "arrive_time": "21:34",
+      "depart_time": "21:47",
+      "stay_min": "13"
+    },
+    {
+      "seq": 7,
+      "station_name": "古田会址",
+      "arrive_time": "22:03",
+      "depart_time": "22:09",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "龙岩",
+      "arrive_time": "22:25",
+      "depart_time": "22:33",
+      "stay_min": "8"
+    },
+    {
+      "seq": 9,
+      "station_name": "漳州",
+      "arrive_time": "23:15",
+      "depart_time": "23:19",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "厦门北",
+      "arrive_time": "23:39",
+      "depart_time": "23:44",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "泉州",
+      "arrive_time": "00:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 437.0,
+    "price_second": 273.5,
+    "price_no_seat": 273.5
+  },
+  "fetched_at": "2026-05-01T05:26:58.278644"
+}

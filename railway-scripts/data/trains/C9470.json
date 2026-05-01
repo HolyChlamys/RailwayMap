@@ -1,0 +1,37 @@
+{
+  "train_no": "C9470",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "黄龙九寨",
+  "depart_time": "08:12",
+  "arrive_time": "10:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "08:12",
+      "depart_time": "08:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三星堆",
+      "arrive_time": "08:30",
+      "depart_time": "08:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "黄龙九寨",
+      "arrive_time": "10:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 230.0,
+    "price_second": 143.0,
+    "price_no_seat": 143.0
+  },
+  "fetched_at": "2026-05-01T02:46:45.539033"
+}

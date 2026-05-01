@@ -1,0 +1,73 @@
+{
+  "train_no": "G6852",
+  "train_type": "G",
+  "depart_station": "巴东",
+  "arrive_station": "汉口",
+  "depart_time": "17:46",
+  "arrive_time": "20:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "巴东",
+      "arrive_time": "17:46",
+      "depart_time": "17:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴山",
+      "arrive_time": "18:03",
+      "depart_time": "18:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "襄阳东",
+      "arrive_time": "18:58",
+      "depart_time": "18:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "枣阳",
+      "arrive_time": "19:15",
+      "depart_time": "19:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "随州南",
+      "arrive_time": "19:37",
+      "depart_time": "19:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "安陆西",
+      "arrive_time": "19:55",
+      "depart_time": "19:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "孝感东",
+      "arrive_time": "20:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "汉口",
+      "arrive_time": "20:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 896.0,
+    "price_first": 444.0,
+    "price_second": 277.0,
+    "price_no_seat": 277.0
+  },
+  "fetched_at": "2026-05-01T08:10:48.524343"
+}

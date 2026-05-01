@@ -1,0 +1,58 @@
+{
+  "train_no": "D4156",
+  "train_type": "D",
+  "depart_station": "济南西",
+  "arrive_station": "石家庄",
+  "depart_time": "20:12",
+  "arrive_time": "21:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "20:12",
+      "depart_time": "20:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "齐河",
+      "arrive_time": "20:38",
+      "depart_time": "20:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "德州东",
+      "arrive_time": "21:04",
+      "depart_time": "21:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "景州",
+      "arrive_time": "21:22",
+      "depart_time": "21:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡水北",
+      "arrive_time": "21:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "石家庄",
+      "arrive_time": "21:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 177.0,
+    "price_second": 110.0,
+    "price_no_seat": 110.0
+  },
+  "fetched_at": "2026-05-01T03:44:42.720693"
+}

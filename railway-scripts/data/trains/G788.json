@@ -1,0 +1,93 @@
+{
+  "train_no": "G788",
+  "train_type": "G",
+  "depart_station": "丹东",
+  "arrive_station": "齐齐哈尔南",
+  "depart_time": "09:15",
+  "arrive_time": "14:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丹东",
+      "arrive_time": "09:15",
+      "depart_time": "09:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "凤城东",
+      "arrive_time": "09:31",
+      "depart_time": "09:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "本溪",
+      "arrive_time": "10:05",
+      "depart_time": "10:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳",
+      "arrive_time": "10:40",
+      "depart_time": "10:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "铁岭西",
+      "arrive_time": "11:04",
+      "depart_time": "11:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "四平东",
+      "arrive_time": "11:36",
+      "depart_time": "11:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "长春西",
+      "arrive_time": "12:05",
+      "depart_time": "12:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "哈尔滨西",
+      "arrive_time": "13:04",
+      "depart_time": "13:08",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "哈尔滨",
+      "arrive_time": "13:18",
+      "depart_time": "13:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "大庆东",
+      "arrive_time": "14:05",
+      "depart_time": "14:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "齐齐哈尔南",
+      "arrive_time": "14:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 751.0,
+    "price_second": 469.0,
+    "price_no_seat": 469.0
+  },
+  "fetched_at": "2026-05-01T08:39:02.966592"
+}

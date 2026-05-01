@@ -1,0 +1,66 @@
+{
+  "train_no": "C4131",
+  "train_type": "C",
+  "depart_station": "西安",
+  "arrive_station": "宝鸡",
+  "depart_time": "18:20",
+  "arrive_time": "19:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "18:20",
+      "depart_time": "18:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳",
+      "arrive_time": "18:38",
+      "depart_time": "18:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兴平",
+      "arrive_time": "18:55",
+      "depart_time": "18:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武功",
+      "arrive_time": "19:14",
+      "depart_time": "19:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杨陵",
+      "arrive_time": "19:26",
+      "depart_time": "19:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "蔡家坡",
+      "arrive_time": "19:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宝鸡",
+      "arrive_time": "19:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 187.0,
+    "price_first": 85.0,
+    "price_second": 53.0,
+    "price_no_seat": 53.0
+  },
+  "fetched_at": "2026-05-01T01:09:08.023903"
+}

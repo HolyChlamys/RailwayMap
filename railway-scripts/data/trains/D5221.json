@@ -1,0 +1,30 @@
+{
+  "train_no": "D5221",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "孝感东",
+  "depart_time": "06:15",
+  "arrive_time": "06:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "06:15",
+      "depart_time": "06:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感东",
+      "arrive_time": "06:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 47.0,
+    "price_second": 29.0,
+    "price_no_seat": 29.0
+  },
+  "fetched_at": "2026-05-01T04:02:33.049895"
+}

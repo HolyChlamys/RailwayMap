@@ -1,0 +1,58 @@
+{
+  "train_no": "D9287",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "宜昌东",
+  "depart_time": "16:02",
+  "arrive_time": "18:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "16:02",
+      "depart_time": "16:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天门南",
+      "arrive_time": "16:43",
+      "depart_time": "16:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潜江",
+      "arrive_time": "17:06",
+      "depart_time": "17:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "荆州",
+      "arrive_time": "17:34",
+      "depart_time": "17:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "枝江北",
+      "arrive_time": "18:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宜昌东",
+      "arrive_time": "18:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 207.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T05:12:12.421536"
+}

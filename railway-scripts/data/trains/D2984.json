@@ -1,0 +1,51 @@
+{
+  "train_no": "D2984",
+  "train_type": "D",
+  "depart_station": "广州",
+  "arrive_station": "桂林北",
+  "depart_time": "18:52",
+  "arrive_time": "21:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "18:52",
+      "depart_time": "18:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贺州",
+      "arrive_time": "20:29",
+      "depart_time": "20:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "恭城",
+      "arrive_time": "20:59",
+      "depart_time": "20:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阳朔",
+      "arrive_time": "21:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "桂林北",
+      "arrive_time": "21:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 352.0,
+    "price_second": 220.0,
+    "price_no_seat": 220.0
+  },
+  "fetched_at": "2026-05-01T03:26:20.477227"
+}

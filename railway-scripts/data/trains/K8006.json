@@ -1,0 +1,28 @@
+{
+  "train_no": "K8006",
+  "train_type": "K",
+  "depart_station": "洛阳",
+  "arrive_station": "郑州",
+  "depart_time": "16:57",
+  "arrive_time": "16:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "洛阳",
+      "arrive_time": "16:57",
+      "depart_time": "16:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州",
+      "arrive_time": "16:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 19.5
+  },
+  "fetched_at": "2026-05-01T10:33:37.657892"
+}

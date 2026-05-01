@@ -1,0 +1,73 @@
+{
+  "train_no": "G4669",
+  "train_type": "G",
+  "depart_station": "北京西",
+  "arrive_station": "武汉",
+  "depart_time": "01:50",
+  "arrive_time": "06:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "01:50",
+      "depart_time": "01:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "03:05",
+      "depart_time": "03:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "04:36",
+      "depart_time": "04:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "漯河西",
+      "arrive_time": "05:15",
+      "depart_time": "05:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "驻马店西",
+      "arrive_time": "05:45",
+      "depart_time": "05:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "信阳东",
+      "arrive_time": "06:12",
+      "depart_time": "06:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "孝感北",
+      "arrive_time": "06:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "武汉",
+      "arrive_time": "06:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2181.0,
+    "price_first": 997.0,
+    "price_second": 623.0,
+    "price_no_seat": 623.0
+  },
+  "fetched_at": "2026-05-01T07:12:08.050352"
+}

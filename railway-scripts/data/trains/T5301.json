@@ -1,0 +1,49 @@
+{
+  "train_no": "T5301",
+  "train_type": "T",
+  "depart_station": "长春",
+  "arrive_station": "榆树",
+  "depart_time": "06:28",
+  "arrive_time": "08:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "06:28",
+      "depart_time": "06:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德惠",
+      "arrive_time": "07:22",
+      "depart_time": "07:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "陶赖昭",
+      "arrive_time": "07:51",
+      "depart_time": "07:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "五棵树",
+      "arrive_time": "08:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "榆树",
+      "arrive_time": "08:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T11:26:19.912897"
+}

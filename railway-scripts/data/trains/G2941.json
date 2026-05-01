@@ -1,0 +1,66 @@
+{
+  "train_no": "G2941",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "深圳北",
+  "depart_time": "15:09",
+  "arrive_time": "22:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "15:09",
+      "depart_time": "15:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "16:29",
+      "depart_time": "16:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳东",
+      "arrive_time": "18:36",
+      "depart_time": "18:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "肇庆东",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "22:22",
+      "depart_time": "22:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "虎门",
+      "arrive_time": "22:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳北",
+      "arrive_time": "22:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2717.5,
+    "price_first": 1281.5,
+    "price_second": 813.5,
+    "price_no_seat": 813.5
+  },
+  "fetched_at": "2026-05-01T06:24:23.901328"
+}

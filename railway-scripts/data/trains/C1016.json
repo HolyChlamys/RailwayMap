@@ -1,0 +1,72 @@
+{
+  "train_no": "C1016",
+  "train_type": "C",
+  "depart_station": "延吉西",
+  "arrive_station": "长春",
+  "depart_time": "15:50",
+  "arrive_time": "18:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "延吉西",
+      "arrive_time": "15:50",
+      "depart_time": "15:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安图西",
+      "arrive_time": "16:11",
+      "depart_time": "16:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大石头南",
+      "arrive_time": "16:30",
+      "depart_time": "16:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "敦化",
+      "arrive_time": "16:42",
+      "depart_time": "16:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "蛟河西",
+      "arrive_time": "17:18",
+      "depart_time": "17:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "吉林",
+      "arrive_time": "17:48",
+      "depart_time": "17:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "龙嘉",
+      "arrive_time": "18:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "长春",
+      "arrive_time": "18:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 188.0,
+    "price_second": 117.0,
+    "price_no_seat": 117.0
+  },
+  "fetched_at": "2026-05-01T00:19:42.177801"
+}

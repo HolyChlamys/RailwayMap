@@ -1,0 +1,63 @@
+{
+  "train_no": "K4864",
+  "train_type": "K",
+  "depart_station": "萍乡",
+  "arrive_station": "广州白云",
+  "depart_time": "10:10",
+  "arrive_time": "03:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "萍乡",
+      "arrive_time": "10:10",
+      "depart_time": "10:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜春",
+      "arrive_time": "10:51",
+      "depart_time": "10:56",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "新余",
+      "arrive_time": "11:30",
+      "depart_time": "11:34",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "丰城",
+      "arrive_time": "12:41",
+      "depart_time": "12:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "吉安",
+      "arrive_time": "16:40",
+      "depart_time": "16:51",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "赣州",
+      "arrive_time": "19:10",
+      "depart_time": "19:15",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "广州白云",
+      "arrive_time": "03:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 168.5
+  },
+  "fetched_at": "2026-05-01T09:59:55.586713"
+}

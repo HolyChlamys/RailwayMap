@@ -1,0 +1,129 @@
+{
+  "train_no": "G2223",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "扬州",
+  "depart_time": "07:17",
+  "arrive_time": "14:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "07:17",
+      "depart_time": "07:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛阳龙门",
+      "arrive_time": "08:32",
+      "depart_time": "08:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州西",
+      "arrive_time": "08:59",
+      "depart_time": "09:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "09:20",
+      "depart_time": "09:30",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "开封北",
+      "arrive_time": "09:50",
+      "depart_time": "10:00",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "兰考南",
+      "arrive_time": "10:16",
+      "depart_time": "10:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "商丘",
+      "arrive_time": "10:41",
+      "depart_time": "10:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "永城北",
+      "arrive_time": "11:06",
+      "depart_time": "11:14",
+      "stay_min": "8"
+    },
+    {
+      "seq": 9,
+      "station_name": "萧县北",
+      "arrive_time": "11:27",
+      "depart_time": "11:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "徐州东",
+      "arrive_time": "11:47",
+      "depart_time": "11:52",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "睢宁",
+      "arrive_time": "12:16",
+      "depart_time": "12:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "宿迁",
+      "arrive_time": "12:30",
+      "depart_time": "12:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "淮安东",
+      "arrive_time": "13:00",
+      "depart_time": "13:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "高邮北",
+      "arrive_time": "13:24",
+      "depart_time": "13:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "高邮",
+      "arrive_time": "13:37",
+      "depart_time": "13:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "扬州",
+      "arrive_time": "14:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2132.0,
+    "price_first": 998.0,
+    "price_second": 624.0,
+    "price_no_seat": 624.0
+  },
+  "fetched_at": "2026-05-01T06:04:39.510300"
+}

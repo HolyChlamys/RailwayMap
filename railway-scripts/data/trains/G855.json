@@ -1,0 +1,87 @@
+{
+  "train_no": "G855",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "武汉",
+  "depart_time": "15:54",
+  "arrive_time": "20:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "15:54",
+      "depart_time": "15:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "华山北",
+      "arrive_time": "16:22",
+      "depart_time": "16:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "洛阳龙门",
+      "arrive_time": "17:16",
+      "depart_time": "17:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州",
+      "arrive_time": "17:55",
+      "depart_time": "17:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "许昌东",
+      "arrive_time": "18:30",
+      "depart_time": "18:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "漯河西",
+      "arrive_time": "18:48",
+      "depart_time": "18:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "驻马店西",
+      "arrive_time": "19:08",
+      "depart_time": "19:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "信阳东",
+      "arrive_time": "19:36",
+      "depart_time": "19:42",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "孝感北",
+      "arrive_time": "20:01",
+      "depart_time": "20:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "武汉",
+      "arrive_time": "20:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1906.0,
+    "price_first": 871.0,
+    "price_second": 545.0,
+    "price_no_seat": 545.0
+  },
+  "fetched_at": "2026-05-01T08:54:08.565361"
+}

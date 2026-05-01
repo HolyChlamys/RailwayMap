@@ -1,0 +1,58 @@
+{
+  "train_no": "D4413",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "南通",
+  "depart_time": "02:54",
+  "arrive_time": "07:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "02:54",
+      "depart_time": "02:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "04:40",
+      "depart_time": "04:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "扬州",
+      "arrive_time": "06:09",
+      "depart_time": "06:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "泰州",
+      "arrive_time": "06:42",
+      "depart_time": "06:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "海安",
+      "arrive_time": "07:07",
+      "depart_time": "07:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南通",
+      "arrive_time": "07:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 515.0,
+    "price_second": 322.0,
+    "price_no_seat": 322.0
+  },
+  "fetched_at": "2026-05-01T03:49:56.188508"
+}

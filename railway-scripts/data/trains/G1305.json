@@ -1,0 +1,87 @@
+{
+  "train_no": "G1305",
+  "train_type": "G",
+  "depart_station": "上海南",
+  "arrive_station": "广州东",
+  "depart_time": "06:51",
+  "arrive_time": "14:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "06:51",
+      "depart_time": "06:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州南",
+      "arrive_time": "07:19",
+      "depart_time": "07:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州西",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄山北",
+      "arrive_time": "09:24",
+      "depart_time": "09:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "鄱阳",
+      "arrive_time": "10:23",
+      "depart_time": "10:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南昌东",
+      "arrive_time": "10:52",
+      "depart_time": "10:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "赣州西",
+      "arrive_time": "12:27",
+      "depart_time": "12:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "惠州北",
+      "arrive_time": "13:47",
+      "depart_time": "13:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "广州新塘",
+      "arrive_time": "14:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "广州东",
+      "arrive_time": "14:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3069.0,
+    "price_first": 1471.0,
+    "price_second": 921.0,
+    "price_no_seat": 921.0
+  },
+  "fetched_at": "2026-05-01T05:39:11.411361"
+}

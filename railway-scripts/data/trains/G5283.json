@@ -1,0 +1,66 @@
+{
+  "train_no": "G5283",
+  "train_type": "G",
+  "depart_station": "济南",
+  "arrive_station": "威海",
+  "depart_time": "16:30",
+  "arrive_time": "19:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "16:30",
+      "depart_time": "16:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淄博",
+      "arrive_time": "17:15",
+      "depart_time": "17:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊",
+      "arrive_time": "17:52",
+      "depart_time": "17:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "高密",
+      "arrive_time": "18:29",
+      "depart_time": "18:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "胶州北",
+      "arrive_time": "18:46",
+      "depart_time": "18:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "即墨北",
+      "arrive_time": "19:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "威海",
+      "arrive_time": "19:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 967.0,
+    "price_first": 443.0,
+    "price_second": 276.0,
+    "price_no_seat": 276.0
+  },
+  "fetched_at": "2026-05-01T07:30:08.227264"
+}

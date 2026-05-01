@@ -1,0 +1,63 @@
+{
+  "train_no": "K5503",
+  "train_type": "K",
+  "depart_station": "济南",
+  "arrive_station": "枣庄西",
+  "depart_time": "13:58",
+  "arrive_time": "16:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "13:58",
+      "depart_time": "13:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰山",
+      "arrive_time": "14:51",
+      "depart_time": "14:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "磁窑",
+      "arrive_time": "15:20",
+      "depart_time": "15:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "兖州",
+      "arrive_time": "16:01",
+      "depart_time": "16:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "邹城",
+      "arrive_time": "16:20",
+      "depart_time": "16:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "滕州",
+      "arrive_time": "16:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "枣庄西",
+      "arrive_time": "16:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:12:11.417066"
+}

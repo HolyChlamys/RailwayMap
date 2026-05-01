@@ -1,0 +1,64 @@
+{
+  "train_no": "C4983",
+  "train_type": "C",
+  "depart_station": "广州长隆",
+  "arrive_station": "肇  庆",
+  "depart_time": "08:54",
+  "arrive_time": "10:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州长隆",
+      "arrive_time": "08:54",
+      "depart_time": "08:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "番禺",
+      "arrive_time": "08:59",
+      "depart_time": "09:03",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "顺德北",
+      "arrive_time": "09:12",
+      "depart_time": "09:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "佛山  西",
+      "arrive_time": "09:26",
+      "depart_time": "09:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "三水北",
+      "arrive_time": "09:42",
+      "depart_time": "09:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "鼎湖东",
+      "arrive_time": "10:00",
+      "depart_time": "10:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "肇  庆",
+      "arrive_time": "10:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 81.0,
+    "price_no_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T01:23:23.985422"
+}

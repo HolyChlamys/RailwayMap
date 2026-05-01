@@ -1,0 +1,30 @@
+{
+  "train_no": "C863",
+  "train_type": "C",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "博乐",
+  "depart_time": "13:50",
+  "arrive_time": "13:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "博乐",
+      "arrive_time": "13:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 183.0,
+    "price_second": 115.0,
+    "price_no_seat": 115.0
+  },
+  "fetched_at": "2026-05-01T02:34:51.883708"
+}

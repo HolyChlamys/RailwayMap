@@ -1,0 +1,59 @@
+{
+  "train_no": "G4504",
+  "train_type": "G",
+  "depart_station": "赣州西",
+  "arrive_station": "杭州东",
+  "depart_time": "21:28",
+  "arrive_time": "00:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州西",
+      "arrive_time": "21:28",
+      "depart_time": "21:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴国西",
+      "arrive_time": "22:03",
+      "depart_time": "22:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吉安西",
+      "arrive_time": "22:38",
+      "depart_time": "22:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌东",
+      "arrive_time": "23:48",
+      "depart_time": "23:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "鹰潭北",
+      "arrive_time": "00:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "00:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1781.0,
+    "price_first": 866.0,
+    "price_second": 541.0,
+    "price_no_seat": 541.0
+  },
+  "fetched_at": "2026-05-01T07:07:19.185635"
+}

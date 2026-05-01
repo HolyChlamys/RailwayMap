@@ -1,0 +1,73 @@
+{
+  "train_no": "G4158",
+  "train_type": "G",
+  "depart_station": "吉林",
+  "arrive_station": "北京朝阳",
+  "depart_time": "18:05",
+  "arrive_time": "22:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "吉林",
+      "arrive_time": "18:05",
+      "depart_time": "18:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长春",
+      "arrive_time": "18:48",
+      "depart_time": "18:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "公主岭南",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "昌图西",
+      "arrive_time": "19:48",
+      "depart_time": "19:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳北",
+      "arrive_time": "20:23",
+      "depart_time": "20:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "辽宁朝阳",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "承德南",
+      "arrive_time": "22:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "北京朝阳",
+      "arrive_time": "22:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2040.5,
+    "price_first": 941.0,
+    "price_second": 588.0,
+    "price_no_seat": 588.0
+  },
+  "fetched_at": "2026-05-01T06:57:27.476012"
+}

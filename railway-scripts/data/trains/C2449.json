@@ -1,0 +1,31 @@
+{
+  "train_no": "C2449",
+  "train_type": "C",
+  "depart_station": "合肥南",
+  "arrive_station": "安庆",
+  "depart_time": "22:46",
+  "arrive_time": "22:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "22:46",
+      "depart_time": "22:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安庆",
+      "arrive_time": "22:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 358.0,
+    "price_first": 164.0,
+    "price_second": 103.0,
+    "price_no_seat": 103.0
+  },
+  "fetched_at": "2026-05-01T00:39:36.990099"
+}

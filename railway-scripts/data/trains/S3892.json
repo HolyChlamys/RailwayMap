@@ -1,0 +1,57 @@
+{
+  "train_no": "S3892",
+  "train_type": "S",
+  "depart_station": "珠海机场",
+  "arrive_station": "珠海",
+  "depart_time": "18:38",
+  "arrive_time": "19:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海机场",
+      "arrive_time": "18:38",
+      "depart_time": "18:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三灶东",
+      "arrive_time": "18:45",
+      "depart_time": "18:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "珠海长隆",
+      "arrive_time": "18:59",
+      "depart_time": "18:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "横琴",
+      "arrive_time": "19:05",
+      "depart_time": "19:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "十字门",
+      "arrive_time": "19:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "珠海",
+      "arrive_time": "19:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 7.0,
+    "price_no_seat": 7.0
+  },
+  "fetched_at": "2026-05-01T10:53:19.944224"
+}

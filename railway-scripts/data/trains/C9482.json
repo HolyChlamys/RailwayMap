@@ -1,0 +1,44 @@
+{
+  "train_no": "C9482",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "松潘",
+  "depart_time": "08:27",
+  "arrive_time": "10:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "08:27",
+      "depart_time": "08:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "什邡西",
+      "arrive_time": "08:53",
+      "depart_time": "08:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "茂县",
+      "arrive_time": "09:32",
+      "depart_time": "09:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "松潘",
+      "arrive_time": "10:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 216.0,
+    "price_second": 135.0,
+    "price_no_seat": 135.0
+  },
+  "fetched_at": "2026-05-01T02:47:06.943644"
+}

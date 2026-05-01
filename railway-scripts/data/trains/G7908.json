@@ -1,0 +1,52 @@
+{
+  "train_no": "G7908",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "南乐",
+  "depart_time": "16:51",
+  "arrive_time": "17:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "16:51",
+      "depart_time": "16:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新乡东",
+      "arrive_time": "17:18",
+      "depart_time": "17:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "卫辉南",
+      "arrive_time": "17:29",
+      "depart_time": "17:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "濮阳东",
+      "arrive_time": "17:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南乐",
+      "arrive_time": "17:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 482.0,
+    "price_first": 220.0,
+    "price_second": 137.0,
+    "price_no_seat": 137.0
+  },
+  "fetched_at": "2026-05-01T08:39:49.465357"
+}

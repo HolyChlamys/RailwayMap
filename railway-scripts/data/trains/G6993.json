@@ -1,0 +1,66 @@
+{
+  "train_no": "G6993",
+  "train_type": "G",
+  "depart_station": "青岛",
+  "arrive_station": "临沂北",
+  "depart_time": "14:11",
+  "arrive_time": "18:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛",
+      "arrive_time": "14:11",
+      "depart_time": "14:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潍坊",
+      "arrive_time": "15:20",
+      "depart_time": "15:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "淄博",
+      "arrive_time": "16:01",
+      "depart_time": "16:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "章丘",
+      "arrive_time": "16:28",
+      "depart_time": "16:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "济南",
+      "arrive_time": "16:55",
+      "depart_time": "17:00",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "曲阜东",
+      "arrive_time": "17:39",
+      "depart_time": "17:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "临沂北",
+      "arrive_time": "18:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 984.0,
+    "price_first": 467.0,
+    "price_second": 293.0,
+    "price_no_seat": 293.0
+  },
+  "fetched_at": "2026-05-01T08:14:41.054633"
+}

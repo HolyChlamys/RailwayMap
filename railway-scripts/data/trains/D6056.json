@@ -1,0 +1,44 @@
+{
+  "train_no": "D6056",
+  "train_type": "D",
+  "depart_station": "威海",
+  "arrive_station": "济南西",
+  "depart_time": "17:44",
+  "arrive_time": "20:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "威海",
+      "arrive_time": "17:44",
+      "depart_time": "17:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "平度",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "济南东",
+      "arrive_time": "20:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "济南西",
+      "arrive_time": "20:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 389.0,
+    "price_second": 244.0,
+    "price_no_seat": 244.0
+  },
+  "fetched_at": "2026-05-01T04:15:57.544314"
+}

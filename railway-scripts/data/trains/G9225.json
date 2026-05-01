@@ -1,0 +1,45 @@
+{
+  "train_no": "G9225",
+  "train_type": "G",
+  "depart_station": "济南东",
+  "arrive_station": "青岛",
+  "depart_time": "11:09",
+  "arrive_time": "12:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "11:09",
+      "depart_time": "11:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邹平",
+      "arrive_time": "11:27",
+      "depart_time": "11:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊北",
+      "arrive_time": "12:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "青岛",
+      "arrive_time": "12:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 489.0,
+    "price_first": 254.0,
+    "price_second": 159.0,
+    "price_no_seat": 159.0
+  },
+  "fetched_at": "2026-05-01T09:08:30.322303"
+}

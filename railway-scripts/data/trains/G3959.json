@@ -1,0 +1,59 @@
+{
+  "train_no": "G3959",
+  "train_type": "G",
+  "depart_station": "汉口",
+  "arrive_station": "重庆北",
+  "depart_time": "22:25",
+  "arrive_time": "02:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "22:25",
+      "depart_time": "22:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感东",
+      "arrive_time": "22:52",
+      "depart_time": "22:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "随州南",
+      "arrive_time": "23:22",
+      "depart_time": "23:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "襄阳东",
+      "arrive_time": "00:12",
+      "depart_time": "00:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "万州北",
+      "arrive_time": "02:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆北",
+      "arrive_time": "02:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1697.0,
+    "price_first": 811.0,
+    "price_second": 506.0,
+    "price_no_seat": 506.0
+  },
+  "fetched_at": "2026-05-01T06:51:43.750063"
+}

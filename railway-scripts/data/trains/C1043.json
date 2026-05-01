@@ -1,0 +1,79 @@
+{
+  "train_no": "C1043",
+  "train_type": "C",
+  "depart_station": "长春",
+  "arrive_station": "珲春",
+  "depart_time": "12:26",
+  "arrive_time": "15:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "12:26",
+      "depart_time": "12:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙嘉",
+      "arrive_time": "12:42",
+      "depart_time": "12:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吉林",
+      "arrive_time": "13:22",
+      "depart_time": "13:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "蛟河西",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "敦化",
+      "arrive_time": "14:24",
+      "depart_time": "14:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "安图西",
+      "arrive_time": "14:49",
+      "depart_time": "14:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "延吉西",
+      "arrive_time": "15:12",
+      "depart_time": "15:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "图们北",
+      "arrive_time": "15:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "珲春",
+      "arrive_time": "15:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 233.0,
+    "price_second": 145.0,
+    "price_no_seat": 145.0
+  },
+  "fetched_at": "2026-05-01T00:20:20.015853"
+}

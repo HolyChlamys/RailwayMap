@@ -1,0 +1,58 @@
+{
+  "train_no": "D1893",
+  "train_type": "D",
+  "depart_station": "桂林北",
+  "arrive_station": "广州南",
+  "depart_time": "10:20",
+  "arrive_time": "12:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "桂林北",
+      "arrive_time": "10:20",
+      "depart_time": "10:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "恭城",
+      "arrive_time": "11:01",
+      "depart_time": "11:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贺州",
+      "arrive_time": "11:30",
+      "depart_time": "11:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀集",
+      "arrive_time": "12:01",
+      "depart_time": "12:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广宁",
+      "arrive_time": "12:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "12:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 285.0,
+    "price_second": 178.0,
+    "price_no_seat": 178.0
+  },
+  "fetched_at": "2026-05-01T03:07:10.233241"
+}

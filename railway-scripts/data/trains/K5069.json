@@ -1,0 +1,49 @@
+{
+  "train_no": "K5069",
+  "train_type": "K",
+  "depart_station": "沈阳北",
+  "arrive_station": "辽源",
+  "depart_time": "10:16",
+  "arrive_time": "12:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "10:16",
+      "depart_time": "10:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "铁岭",
+      "arrive_time": "10:59",
+      "depart_time": "10:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "开原",
+      "arrive_time": "11:25",
+      "depart_time": "11:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西丰",
+      "arrive_time": "12:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "辽源",
+      "arrive_time": "12:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:03:10.401891"
+}

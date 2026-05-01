@@ -1,0 +1,31 @@
+{
+  "train_no": "G7977",
+  "train_type": "G",
+  "depart_station": "商丘",
+  "arrive_station": "郑州东",
+  "depart_time": "20:37",
+  "arrive_time": "20:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "商丘",
+      "arrive_time": "20:37",
+      "depart_time": "20:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "20:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 366.0,
+    "price_first": 167.0,
+    "price_second": 105.0,
+    "price_no_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T08:41:39.393207"
+}

@@ -1,0 +1,33 @@
+{
+  "train_no": "Z62",
+  "train_type": "Z",
+  "depart_station": "长春",
+  "arrive_station": "北京西",
+  "depart_time": "22:30",
+  "arrive_time": "07:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "22:30",
+      "depart_time": "22:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北京",
+      "arrive_time": "07:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "北京西",
+      "arrive_time": "07:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:50:44.579589"
+}

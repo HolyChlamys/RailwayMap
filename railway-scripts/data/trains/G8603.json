@@ -1,0 +1,59 @@
+{
+  "train_no": "G8603",
+  "train_type": "G",
+  "depart_station": "重庆东",
+  "arrive_station": "黔江",
+  "depart_time": "15:58",
+  "arrive_time": "17:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆东",
+      "arrive_time": "15:58",
+      "depart_time": "15:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巴南",
+      "arrive_time": "16:12",
+      "depart_time": "16:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南川北",
+      "arrive_time": "16:29",
+      "depart_time": "16:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武隆南",
+      "arrive_time": "16:51",
+      "depart_time": "16:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "彭水西",
+      "arrive_time": "17:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黔江",
+      "arrive_time": "17:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 551.0,
+    "price_first": 252.0,
+    "price_second": 157.0,
+    "price_no_seat": 157.0
+  },
+  "fetched_at": "2026-05-01T08:55:34.482384"
+}

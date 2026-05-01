@@ -1,0 +1,80 @@
+{
+  "train_no": "D7896",
+  "train_type": "D",
+  "depart_station": "周口东",
+  "arrive_station": "南乐",
+  "depart_time": "15:48",
+  "arrive_time": "18:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "周口东",
+      "arrive_time": "15:48",
+      "depart_time": "15:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西华",
+      "arrive_time": "16:00",
+      "depart_time": "16:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "17:05",
+      "depart_time": "17:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新乡南",
+      "arrive_time": "17:26",
+      "depart_time": "17:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "新乡东",
+      "arrive_time": "17:41",
+      "depart_time": "17:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "滑浚",
+      "arrive_time": "18:03",
+      "depart_time": "18:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "内黄",
+      "arrive_time": "18:18",
+      "depart_time": "18:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "濮阳东",
+      "arrive_time": "18:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "南乐",
+      "arrive_time": "18:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 678.0,
+    "price_first": 328.0,
+    "price_second": 206.0,
+    "price_no_seat": 206.0
+  },
+  "fetched_at": "2026-05-01T04:47:06.143778"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "D4620",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "银川",
+  "depart_time": "23:58",
+  "arrive_time": "03:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "23:58",
+      "depart_time": "23:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳北",
+      "arrive_time": "00:11",
+      "depart_time": "00:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "庆阳",
+      "arrive_time": "01:15",
+      "depart_time": "01:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "银川",
+      "arrive_time": "03:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 957.0,
+    "price_first": 445.0,
+    "price_second": 278.0,
+    "price_no_seat": 278.0
+  },
+  "fetched_at": "2026-05-01T03:54:23.163598"
+}

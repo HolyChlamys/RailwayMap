@@ -1,0 +1,51 @@
+{
+  "train_no": "D8085",
+  "train_type": "D",
+  "depart_station": "大连北",
+  "arrive_station": "绥中北",
+  "depart_time": "11:31",
+  "arrive_time": "14:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "11:31",
+      "depart_time": "11:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "营口东",
+      "arrive_time": "12:29",
+      "depart_time": "12:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "锦州南",
+      "arrive_time": "13:33",
+      "depart_time": "13:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "葫芦岛北",
+      "arrive_time": "13:53",
+      "depart_time": "13:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "绥中北",
+      "arrive_time": "14:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 276.0,
+    "price_second": 173.0,
+    "price_no_seat": 173.0
+  },
+  "fetched_at": "2026-05-01T04:49:14.639867"
+}

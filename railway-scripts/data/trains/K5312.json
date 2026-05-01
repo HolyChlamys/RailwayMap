@@ -1,0 +1,35 @@
+{
+  "train_no": "K5312",
+  "train_type": "K",
+  "depart_station": "吕梁",
+  "arrive_station": "太原",
+  "depart_time": "15:37",
+  "arrive_time": "16:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "吕梁",
+      "arrive_time": "15:37",
+      "depart_time": "15:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "文水",
+      "arrive_time": "16:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "太原",
+      "arrive_time": "16:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T10:07:57.367434"
+}

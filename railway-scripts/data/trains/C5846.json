@@ -1,0 +1,43 @@
+{
+  "train_no": "C5846",
+  "train_type": "C",
+  "depart_station": "贵安",
+  "arrive_station": "花溪南",
+  "depart_time": "09:37",
+  "arrive_time": "10:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵安",
+      "arrive_time": "09:37",
+      "depart_time": "09:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "党武",
+      "arrive_time": "09:54",
+      "depart_time": "09:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "花溪大学城",
+      "arrive_time": "10:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "花溪南",
+      "arrive_time": "10:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 12.0,
+    "price_no_seat": 12.0
+  },
+  "fetched_at": "2026-05-01T01:40:03.078478"
+}

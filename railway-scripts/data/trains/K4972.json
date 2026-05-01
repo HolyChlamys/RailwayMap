@@ -1,0 +1,63 @@
+{
+  "train_no": "K4972",
+  "train_type": "K",
+  "depart_station": "石河子",
+  "arrive_station": "兰州",
+  "depart_time": "04:50",
+  "arrive_time": "08:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石河子",
+      "arrive_time": "04:50",
+      "depart_time": "04:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "07:15",
+      "depart_time": "07:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吐鲁番北",
+      "arrive_time": "09:34",
+      "depart_time": "09:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "哈密",
+      "arrive_time": "16:17",
+      "depart_time": "16:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "嘉峪关南",
+      "arrive_time": "23:39",
+      "depart_time": "23:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兰州西",
+      "arrive_time": "08:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "兰州",
+      "arrive_time": "08:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 217.0
+  },
+  "fetched_at": "2026-05-01T10:01:03.439785"
+}

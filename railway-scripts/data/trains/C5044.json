@@ -1,0 +1,65 @@
+{
+  "train_no": "C5044",
+  "train_type": "C",
+  "depart_station": "武汉",
+  "arrive_station": "利川",
+  "depart_time": "01:55",
+  "arrive_time": "08:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "01:55",
+      "depart_time": "01:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "02:17",
+      "depart_time": "02:45",
+      "stay_min": "28"
+    },
+    {
+      "seq": 3,
+      "station_name": "宜昌东",
+      "arrive_time": "04:40",
+      "depart_time": "04:50",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "高坪",
+      "arrive_time": "06:03",
+      "depart_time": "06:09",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "建始",
+      "arrive_time": "06:30",
+      "depart_time": "06:41",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "恩施",
+      "arrive_time": "07:02",
+      "depart_time": "07:23",
+      "stay_min": "21"
+    },
+    {
+      "seq": 7,
+      "station_name": "利川",
+      "arrive_time": "08:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 391.0,
+    "price_second": 245.0,
+    "price_no_seat": 245.0
+  },
+  "fetched_at": "2026-05-01T01:25:02.059778"
+}

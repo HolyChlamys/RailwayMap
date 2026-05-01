@@ -1,0 +1,86 @@
+{
+  "train_no": "C8868",
+  "train_type": "C",
+  "depart_station": "潮汕",
+  "arrive_station": "深圳北",
+  "depart_time": "08:13",
+  "arrive_time": "11:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潮汕",
+      "arrive_time": "08:13",
+      "depart_time": "08:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "揭阳机场",
+      "arrive_time": "08:22",
+      "depart_time": "08:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "揭阳",
+      "arrive_time": "08:35",
+      "depart_time": "08:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "丰顺东",
+      "arrive_time": "08:48",
+      "depart_time": "08:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "梅州西",
+      "arrive_time": "09:11",
+      "depart_time": "09:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "五华",
+      "arrive_time": "09:32",
+      "depart_time": "09:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "龙川西",
+      "arrive_time": "09:52",
+      "depart_time": "09:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "河源东",
+      "arrive_time": "10:14",
+      "depart_time": "10:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "惠州北",
+      "arrive_time": "10:37",
+      "depart_time": "10:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "深圳北",
+      "arrive_time": "11:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 394.0,
+    "price_second": 248.0,
+    "price_no_seat": 248.0
+  },
+  "fetched_at": "2026-05-01T02:37:10.085215"
+}

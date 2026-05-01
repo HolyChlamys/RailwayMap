@@ -1,0 +1,79 @@
+{
+  "train_no": "D7330",
+  "train_type": "D",
+  "depart_station": "深圳",
+  "arrive_station": "梅州西",
+  "depart_time": "10:52",
+  "arrive_time": "13:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "10:52",
+      "depart_time": "10:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "仲恺",
+      "arrive_time": "11:24",
+      "depart_time": "11:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "11:41",
+      "depart_time": "11:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "博罗北",
+      "arrive_time": "11:56",
+      "depart_time": "11:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "河源东",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "龙川西",
+      "arrive_time": "12:32",
+      "depart_time": "12:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "五华",
+      "arrive_time": "12:52",
+      "depart_time": "12:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "兴宁南",
+      "arrive_time": "13:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "梅州西",
+      "arrive_time": "13:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 293.0,
+    "price_second": 194.0,
+    "price_no_seat": 194.0
+  },
+  "fetched_at": "2026-05-01T04:36:26.511388"
+}

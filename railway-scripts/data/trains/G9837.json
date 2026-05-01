@@ -1,0 +1,45 @@
+{
+  "train_no": "G9837",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "厦门北",
+  "depart_time": "22:27",
+  "arrive_time": "01:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "22:27",
+      "depart_time": "22:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丰城东",
+      "arrive_time": "22:55",
+      "depart_time": "22:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙岩",
+      "arrive_time": "01:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "厦门北",
+      "arrive_time": "01:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1043.5,
+    "price_first": 549.0,
+    "price_second": 343.0,
+    "price_no_seat": 343.0
+  },
+  "fetched_at": "2026-05-01T09:25:42.925917"
+}

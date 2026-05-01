@@ -1,0 +1,79 @@
+{
+  "train_no": "D8556",
+  "train_type": "D",
+  "depart_station": "从江",
+  "arrive_station": "宜宾西",
+  "depart_time": "10:22",
+  "arrive_time": "14:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "从江",
+      "arrive_time": "10:22",
+      "depart_time": "10:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "榕江",
+      "arrive_time": "10:43",
+      "depart_time": "10:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "都匀东",
+      "arrive_time": "11:16",
+      "depart_time": "11:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙洞堡",
+      "arrive_time": "11:56",
+      "depart_time": "11:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳东",
+      "arrive_time": "12:11",
+      "depart_time": "12:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "毕节",
+      "arrive_time": "13:00",
+      "depart_time": "13:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "威信",
+      "arrive_time": "13:27",
+      "depart_time": "13:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "长宁",
+      "arrive_time": "14:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "宜宾西",
+      "arrive_time": "14:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 519.0,
+    "price_second": 325.0,
+    "price_no_seat": 325.0
+  },
+  "fetched_at": "2026-05-01T04:59:30.955458"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "G5538",
+  "train_type": "G",
+  "depart_station": "临沂北",
+  "arrive_station": "济南西",
+  "depart_time": "22:17",
+  "arrive_time": "23:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沂北",
+      "arrive_time": "22:17",
+      "depart_time": "22:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蒙山",
+      "arrive_time": "22:37",
+      "depart_time": "22:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "曲阜东",
+      "arrive_time": "23:00",
+      "depart_time": "23:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南西",
+      "arrive_time": "23:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 469.0,
+    "price_first": 232.0,
+    "price_second": 145.0,
+    "price_no_seat": 145.0
+  },
+  "fetched_at": "2026-05-01T07:36:17.324323"
+}

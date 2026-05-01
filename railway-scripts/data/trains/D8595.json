@@ -1,0 +1,72 @@
+{
+  "train_no": "D8595",
+  "train_type": "D",
+  "depart_station": "六盘水",
+  "arrive_station": "荔波",
+  "depart_time": "08:32",
+  "arrive_time": "11:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "六盘水",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "六枝南",
+      "arrive_time": "09:04",
+      "depart_time": "09:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "安顺西",
+      "arrive_time": "09:28",
+      "depart_time": "09:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "10:03",
+      "depart_time": "10:11",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "龙洞堡",
+      "arrive_time": "10:28",
+      "depart_time": "10:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "龙里北",
+      "arrive_time": "10:42",
+      "depart_time": "10:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "都匀东",
+      "arrive_time": "11:10",
+      "depart_time": "11:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "荔波",
+      "arrive_time": "11:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 342.0,
+    "price_second": 214.0,
+    "price_no_seat": 214.0
+  },
+  "fetched_at": "2026-05-01T05:00:30.331898"
+}

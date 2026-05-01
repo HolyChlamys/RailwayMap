@@ -1,0 +1,36 @@
+{
+  "train_no": "S4789",
+  "train_type": "S",
+  "depart_station": "番禺",
+  "arrive_station": "肇  庆",
+  "depart_time": "14:46",
+  "arrive_time": "15:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "番禺",
+      "arrive_time": "14:46",
+      "depart_time": "14:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山  西",
+      "arrive_time": "15:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "肇  庆",
+      "arrive_time": "15:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 77.0,
+    "price_no_seat": 77.0
+  },
+  "fetched_at": "2026-05-01T10:55:37.035017"
+}

@@ -1,0 +1,73 @@
+{
+  "train_no": "G9446",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "宿迁",
+  "depart_time": "22:44",
+  "arrive_time": "01:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "22:44",
+      "depart_time": "22:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "23:05",
+      "depart_time": "23:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "23:18",
+      "depart_time": "23:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "23:35",
+      "depart_time": "23:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "23:51",
+      "depart_time": "23:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州东",
+      "arrive_time": "00:33",
+      "depart_time": "00:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "淮安东",
+      "arrive_time": "01:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "宿迁",
+      "arrive_time": "01:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 894.0,
+    "price_first": 419.0,
+    "price_second": 263.0,
+    "price_no_seat": 263.0
+  },
+  "fetched_at": "2026-05-01T09:14:18.373947"
+}

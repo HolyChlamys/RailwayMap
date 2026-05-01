@@ -1,0 +1,66 @@
+{
+  "train_no": "G3084",
+  "train_type": "G",
+  "depart_station": "广州东",
+  "arrive_station": "南昌西",
+  "depart_time": "11:18",
+  "arrive_time": "14:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "11:18",
+      "depart_time": "11:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "11:42",
+      "depart_time": "11:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "12:12",
+      "depart_time": "12:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "河源东",
+      "arrive_time": "12:33",
+      "depart_time": "12:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "赣州西",
+      "arrive_time": "13:47",
+      "depart_time": "13:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "吉水西",
+      "arrive_time": "14:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南昌西",
+      "arrive_time": "14:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1733.0,
+    "price_first": 828.0,
+    "price_second": 525.0,
+    "price_no_seat": 525.0
+  },
+  "fetched_at": "2026-05-01T06:28:22.486108"
+}

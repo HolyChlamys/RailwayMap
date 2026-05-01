@@ -1,0 +1,73 @@
+{
+  "train_no": "G4461",
+  "train_type": "G",
+  "depart_station": "北京丰台",
+  "arrive_station": "西安",
+  "depart_time": "04:58",
+  "arrive_time": "09:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京丰台",
+      "arrive_time": "04:58",
+      "depart_time": "04:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "07:38",
+      "depart_time": "07:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "渑池南",
+      "arrive_time": "08:34",
+      "depart_time": "08:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "三门峡南",
+      "arrive_time": "08:53",
+      "depart_time": "08:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "灵宝西",
+      "arrive_time": "09:10",
+      "depart_time": "09:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "华山北",
+      "arrive_time": "09:29",
+      "depart_time": "09:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "渭南北",
+      "arrive_time": "09:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "西安",
+      "arrive_time": "09:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1937.5,
+    "price_first": 917.5,
+    "price_second": 573.5,
+    "price_no_seat": 573.5
+  },
+  "fetched_at": "2026-05-01T07:06:06.357649"
+}

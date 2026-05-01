@@ -1,0 +1,93 @@
+{
+  "train_no": "D2812",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "西安北",
+  "depart_time": "16:59",
+  "arrive_time": "23:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "16:59",
+      "depart_time": "16:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌兰察布",
+      "arrive_time": "17:38",
+      "depart_time": "17:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "丰镇北",
+      "arrive_time": "18:02",
+      "depart_time": "18:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "大同南",
+      "arrive_time": "18:27",
+      "depart_time": "18:34",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "太原",
+      "arrive_time": "19:57",
+      "depart_time": "20:03",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "太原南",
+      "arrive_time": "20:14",
+      "depart_time": "20:19",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "晋中",
+      "arrive_time": "20:30",
+      "depart_time": "20:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "临汾西",
+      "arrive_time": "21:35",
+      "depart_time": "21:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "侯马西",
+      "arrive_time": "21:58",
+      "depart_time": "22:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "运城北",
+      "arrive_time": "22:23",
+      "depart_time": "22:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "西安北",
+      "arrive_time": "23:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 725.0,
+    "price_second": 454.0,
+    "price_no_seat": 454.0
+  },
+  "fetched_at": "2026-05-01T03:23:48.221286"
+}

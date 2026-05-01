@@ -1,0 +1,45 @@
+{
+  "train_no": "D7893",
+  "train_type": "D",
+  "depart_station": "濮阳东",
+  "arrive_station": "周口东",
+  "depart_time": "13:14",
+  "arrive_time": "14:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "濮阳东",
+      "arrive_time": "13:14",
+      "depart_time": "13:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "14:16",
+      "depart_time": "14:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州航空港",
+      "arrive_time": "14:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "周口东",
+      "arrive_time": "14:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 611.0,
+    "price_first": 298.0,
+    "price_second": 187.0,
+    "price_no_seat": 187.0
+  },
+  "fetched_at": "2026-05-01T04:47:01.136769"
+}

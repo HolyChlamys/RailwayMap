@@ -1,0 +1,73 @@
+{
+  "train_no": "C9590",
+  "train_type": "C",
+  "depart_station": "厦门北",
+  "arrive_station": "三明北",
+  "depart_time": "17:38",
+  "arrive_time": "20:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "17:38",
+      "depart_time": "17:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "晋江",
+      "arrive_time": "17:58",
+      "depart_time": "17:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泉州",
+      "arrive_time": "18:12",
+      "depart_time": "18:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "仙游",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "莆田",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "永泰",
+      "arrive_time": "19:43",
+      "depart_time": "19:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "尤溪",
+      "arrive_time": "20:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "三明北",
+      "arrive_time": "20:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 471.0,
+    "price_first": 215.0,
+    "price_second": 135.0,
+    "price_no_seat": 135.0
+  },
+  "fetched_at": "2026-05-01T02:50:08.465138"
+}

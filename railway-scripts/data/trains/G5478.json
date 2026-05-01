@@ -1,0 +1,45 @@
+{
+  "train_no": "G5478",
+  "train_type": "G",
+  "depart_station": "福山",
+  "arrive_station": "济南东",
+  "depart_time": "22:00",
+  "arrive_time": "22:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福山",
+      "arrive_time": "22:00",
+      "depart_time": "22:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "烟台西",
+      "arrive_time": "22:12",
+      "depart_time": "22:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "蓬莱",
+      "arrive_time": "22:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "济南东",
+      "arrive_time": "22:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 789.0,
+    "price_first": 382.0,
+    "price_second": 239.0,
+    "price_no_seat": 239.0
+  },
+  "fetched_at": "2026-05-01T07:34:36.298448"
+}

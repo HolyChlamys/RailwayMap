@@ -1,0 +1,59 @@
+{
+  "train_no": "G6597",
+  "train_type": "G",
+  "depart_station": "广州",
+  "arrive_station": "揭阳",
+  "depart_time": "16:02",
+  "arrive_time": "18:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "16:02",
+      "depart_time": "16:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙川西",
+      "arrive_time": "17:29",
+      "depart_time": "17:35",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "五华",
+      "arrive_time": "17:52",
+      "depart_time": "17:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "兴宁南",
+      "arrive_time": "18:03",
+      "depart_time": "18:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "梅州西",
+      "arrive_time": "18:18",
+      "depart_time": "18:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "揭阳",
+      "arrive_time": "18:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1009.0,
+    "price_first": 461.0,
+    "price_second": 297.0,
+    "price_no_seat": 297.0
+  },
+  "fetched_at": "2026-05-01T08:03:30.937311"
+}

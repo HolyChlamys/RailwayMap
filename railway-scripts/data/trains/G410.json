@@ -1,0 +1,80 @@
+{
+  "train_no": "G410",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "西安北",
+  "depart_time": "15:05",
+  "arrive_time": "22:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "15:05",
+      "depart_time": "15:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郴州西",
+      "arrive_time": "16:16",
+      "depart_time": "16:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳东",
+      "arrive_time": "16:47",
+      "depart_time": "16:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "17:23",
+      "depart_time": "17:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "武汉",
+      "arrive_time": "18:38",
+      "depart_time": "18:42",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "信阳东",
+      "arrive_time": "19:21",
+      "depart_time": "19:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州",
+      "arrive_time": "20:32",
+      "depart_time": "20:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "洛阳龙门",
+      "arrive_time": "21:13",
+      "depart_time": "21:17",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "西安北",
+      "arrive_time": "22:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3410.0,
+    "price_first": 1559.0,
+    "price_second": 974.0,
+    "price_no_seat": 974.0
+  },
+  "fetched_at": "2026-05-01T06:55:44.690872"
+}

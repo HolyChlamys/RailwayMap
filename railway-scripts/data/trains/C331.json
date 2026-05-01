@@ -1,0 +1,66 @@
+{
+  "train_no": "C331",
+  "train_type": "C",
+  "depart_station": "蒲缥",
+  "arrive_station": "昆明",
+  "depart_time": "17:05",
+  "arrive_time": "21:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "蒲缥",
+      "arrive_time": "17:05",
+      "depart_time": "17:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "保山",
+      "arrive_time": "17:21",
+      "depart_time": "17:31",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "永平县",
+      "arrive_time": "17:58",
+      "depart_time": "18:04",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "漾濞",
+      "arrive_time": "18:32",
+      "depart_time": "18:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "大理",
+      "arrive_time": "19:02",
+      "depart_time": "19:08",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "楚雄",
+      "arrive_time": "20:14",
+      "depart_time": "20:30",
+      "stay_min": "16"
+    },
+    {
+      "seq": 7,
+      "station_name": "昆明",
+      "arrive_time": "21:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 706.0,
+    "price_first": 356.0,
+    "price_second": 223.0,
+    "price_no_seat": 223.0
+  },
+  "fetched_at": "2026-05-01T00:56:21.609914"
+}

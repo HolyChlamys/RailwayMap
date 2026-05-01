@@ -1,0 +1,63 @@
+{
+  "train_no": "K4880",
+  "train_type": "K",
+  "depart_station": "昆明",
+  "arrive_station": "成都西",
+  "depart_time": "19:03",
+  "arrive_time": "03:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "19:03",
+      "depart_time": "19:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "元谋西",
+      "arrive_time": "21:03",
+      "depart_time": "21:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "永仁",
+      "arrive_time": "21:48",
+      "depart_time": "21:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "攀枝花南",
+      "arrive_time": "23:02",
+      "depart_time": "23:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西昌西",
+      "arrive_time": "01:03",
+      "depart_time": "01:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "峨眉",
+      "arrive_time": "03:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "成都西",
+      "arrive_time": "03:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 119.0
+  },
+  "fetched_at": "2026-05-01T10:00:12.035781"
+}

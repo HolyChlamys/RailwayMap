@@ -1,0 +1,58 @@
+{
+  "train_no": "C996",
+  "train_type": "C",
+  "depart_station": "库尔勒",
+  "arrive_station": "哈密",
+  "depart_time": "09:00",
+  "arrive_time": "13:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "库尔勒",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "焉耆",
+      "arrive_time": "09:33",
+      "depart_time": "09:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "马兰",
+      "arrive_time": "10:15",
+      "depart_time": "10:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "吐鲁番北",
+      "arrive_time": "11:59",
+      "depart_time": "11:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "吐哈",
+      "arrive_time": "13:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "哈密",
+      "arrive_time": "13:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 321.0,
+    "price_second": 201.0,
+    "price_no_seat": 201.0
+  },
+  "fetched_at": "2026-05-01T02:55:15.870033"
+}

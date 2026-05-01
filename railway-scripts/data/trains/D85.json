@@ -1,0 +1,75 @@
+{
+  "train_no": "D85",
+  "train_type": "D",
+  "depart_station": "万象",
+  "arrive_station": "昆明",
+  "depart_time": "12:25",
+  "arrive_time": "22:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "万象",
+      "arrive_time": "12:25",
+      "depart_time": "12:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "万荣",
+      "arrive_time": "13:17",
+      "depart_time": "13:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "琅勃拉邦",
+      "arrive_time": "14:11",
+      "depart_time": "14:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "磨丁",
+      "arrive_time": "15:31",
+      "depart_time": "16:25",
+      "stay_min": "54"
+    },
+    {
+      "seq": 5,
+      "station_name": "磨憨",
+      "arrive_time": "16:37",
+      "depart_time": "17:29",
+      "stay_min": "52"
+    },
+    {
+      "seq": 6,
+      "station_name": "西双版纳",
+      "arrive_time": "18:28",
+      "depart_time": "18:34",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "普洱",
+      "arrive_time": "19:15",
+      "depart_time": "19:19",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "昆明南",
+      "arrive_time": "21:44",
+      "depart_time": "21:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "昆明",
+      "arrive_time": "22:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T04:58:43.151379"
+}

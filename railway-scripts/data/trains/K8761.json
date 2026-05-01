@@ -1,0 +1,42 @@
+{
+  "train_no": "K8761",
+  "train_type": "K",
+  "depart_station": "宁都",
+  "arrive_station": "赣州",
+  "depart_time": "08:25",
+  "arrive_time": "10:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁都",
+      "arrive_time": "08:25",
+      "depart_time": "08:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "于都北",
+      "arrive_time": "09:03",
+      "depart_time": "09:07",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "兴国",
+      "arrive_time": "09:31",
+      "depart_time": "09:58",
+      "stay_min": "27"
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州",
+      "arrive_time": "10:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 23.5
+  },
+  "fetched_at": "2026-05-01T10:41:23.528686"
+}

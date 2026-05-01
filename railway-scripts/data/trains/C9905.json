@@ -1,0 +1,51 @@
+{
+  "train_no": "C9905",
+  "train_type": "C",
+  "depart_station": "佛山西",
+  "arrive_station": "茂名",
+  "depart_time": "23:20",
+  "arrive_time": "01:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佛山西",
+      "arrive_time": "23:20",
+      "depart_time": "23:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "23:46",
+      "depart_time": "23:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "江门",
+      "arrive_time": "00:21",
+      "depart_time": "00:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阳江",
+      "arrive_time": "01:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "茂名",
+      "arrive_time": "01:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 227.0,
+    "price_second": 150.0,
+    "price_no_seat": 150.0
+  },
+  "fetched_at": "2026-05-01T02:53:48.255991"
+}

@@ -1,0 +1,107 @@
+{
+  "train_no": "D3947",
+  "train_type": "D",
+  "depart_station": "大理",
+  "arrive_station": "北海",
+  "depart_time": "12:01",
+  "arrive_time": "20:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "12:01",
+      "depart_time": "12:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "祥云",
+      "arrive_time": "12:22",
+      "depart_time": "12:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "楚雄",
+      "arrive_time": "13:04",
+      "depart_time": "13:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明",
+      "arrive_time": "14:05",
+      "depart_time": "14:10",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明南",
+      "arrive_time": "14:28",
+      "depart_time": "14:34",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "弥勒",
+      "arrive_time": "15:09",
+      "depart_time": "15:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "普者黑",
+      "arrive_time": "15:44",
+      "depart_time": "15:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "百色",
+      "arrive_time": "17:15",
+      "depart_time": "17:19",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "平果",
+      "arrive_time": "18:01",
+      "depart_time": "18:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "南宁",
+      "arrive_time": "18:44",
+      "depart_time": "18:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "南宁东",
+      "arrive_time": "18:59",
+      "depart_time": "19:06",
+      "stay_min": "7"
+    },
+    {
+      "seq": 12,
+      "station_name": "钦州东",
+      "arrive_time": "19:40",
+      "depart_time": "19:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "北海",
+      "arrive_time": "20:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 821.5,
+    "price_second": 514.0,
+    "price_no_seat": 514.0
+  },
+  "fetched_at": "2026-05-01T03:42:04.282574"
+}

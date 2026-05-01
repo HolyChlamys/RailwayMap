@@ -1,0 +1,59 @@
+{
+  "train_no": "G998",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "上海南",
+  "depart_time": "15:10",
+  "arrive_time": "21:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "15:10",
+      "depart_time": "15:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "赣州西",
+      "arrive_time": "17:04",
+      "depart_time": "17:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌东",
+      "arrive_time": "18:46",
+      "depart_time": "18:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄山北",
+      "arrive_time": "20:07",
+      "depart_time": "20:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州西",
+      "arrive_time": "21:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "上海南",
+      "arrive_time": "21:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3038.0,
+    "price_first": 1456.0,
+    "price_second": 912.0,
+    "price_no_seat": 912.0
+  },
+  "fetched_at": "2026-05-01T09:29:09.748430"
+}

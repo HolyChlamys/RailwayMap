@@ -1,0 +1,101 @@
+{
+  "train_no": "G2897",
+  "train_type": "G",
+  "depart_station": "深圳坪山",
+  "arrive_station": "桂林北",
+  "depart_time": "07:16",
+  "arrive_time": "13:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳坪山",
+      "arrive_time": "07:16",
+      "depart_time": "07:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "07:34",
+      "depart_time": "07:46",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "虎门",
+      "arrive_time": "08:03",
+      "depart_time": "08:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "08:22",
+      "depart_time": "08:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "云浮东",
+      "arrive_time": "09:19",
+      "depart_time": "09:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "梧州南",
+      "arrive_time": "09:53",
+      "depart_time": "09:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "平南南",
+      "arrive_time": "10:22",
+      "depart_time": "10:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "贵港",
+      "arrive_time": "10:52",
+      "depart_time": "10:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "柳州",
+      "arrive_time": "11:50",
+      "depart_time": "11:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "永福南",
+      "arrive_time": "12:37",
+      "depart_time": "12:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "桂林",
+      "arrive_time": "12:59",
+      "depart_time": "13:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "桂林北",
+      "arrive_time": "13:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1335.0,
+    "price_first": 630.5,
+    "price_second": 405.5,
+    "price_no_seat": 405.5
+  },
+  "fetched_at": "2026-05-01T06:23:17.660113"
+}

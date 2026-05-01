@@ -1,0 +1,91 @@
+{
+  "train_no": "K7527",
+  "train_type": "K",
+  "depart_station": "大连",
+  "arrive_station": "通辽",
+  "depart_time": "19:05",
+  "arrive_time": "04:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连",
+      "arrive_time": "19:05",
+      "depart_time": "19:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金州",
+      "arrive_time": "19:30",
+      "depart_time": "19:36",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "普兰店",
+      "arrive_time": "20:12",
+      "depart_time": "20:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "瓦房店",
+      "arrive_time": "20:37",
+      "depart_time": "20:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "熊岳城",
+      "arrive_time": "21:31",
+      "depart_time": "21:34",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "盖州",
+      "arrive_time": "21:55",
+      "depart_time": "21:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "大石桥",
+      "arrive_time": "22:25",
+      "depart_time": "22:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "海城",
+      "arrive_time": "22:52",
+      "depart_time": "22:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "鞍山",
+      "arrive_time": "23:21",
+      "depart_time": "23:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "沈阳",
+      "arrive_time": "00:29",
+      "depart_time": "00:58",
+      "stay_min": "29"
+    },
+    {
+      "seq": 11,
+      "station_name": "通辽",
+      "arrive_time": "04:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 98.0
+  },
+  "fetched_at": "2026-05-01T10:30:12.102262"
+}

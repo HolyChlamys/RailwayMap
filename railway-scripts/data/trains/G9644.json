@@ -1,0 +1,51 @@
+{
+  "train_no": "G9644",
+  "train_type": "G",
+  "depart_station": "张家界西",
+  "arrive_station": "广州南",
+  "depart_time": "22:35",
+  "arrive_time": "03:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家界西",
+      "arrive_time": "22:35",
+      "depart_time": "22:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉首东",
+      "arrive_time": "23:13",
+      "depart_time": "23:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "怀化南",
+      "arrive_time": "23:49",
+      "depart_time": "23:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "01:12",
+      "depart_time": "01:32",
+      "stay_min": "20"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "03:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1113.0,
+    "price_second": 696.0,
+    "price_no_seat": 696.0
+  },
+  "fetched_at": "2026-05-01T09:20:01.688149"
+}

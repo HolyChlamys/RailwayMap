@@ -1,0 +1,80 @@
+{
+  "train_no": "G6322",
+  "train_type": "G",
+  "depart_station": "汕头",
+  "arrive_station": "广州南",
+  "depart_time": "14:46",
+  "arrive_time": "17:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "14:46",
+      "depart_time": "14:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "15:09",
+      "depart_time": "15:14",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "潮阳",
+      "arrive_time": "15:25",
+      "depart_time": "15:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "葵潭",
+      "arrive_time": "15:45",
+      "depart_time": "15:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "16:08",
+      "depart_time": "16:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "惠阳",
+      "arrive_time": "16:39",
+      "depart_time": "16:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳北",
+      "arrive_time": "17:06",
+      "depart_time": "17:12",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "虎门",
+      "arrive_time": "17:29",
+      "depart_time": "17:35",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "广州南",
+      "arrive_time": "17:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 718.5,
+    "price_first": 336.5,
+    "price_second": 222.5,
+    "price_no_seat": 222.5
+  },
+  "fetched_at": "2026-05-01T07:55:22.886414"
+}

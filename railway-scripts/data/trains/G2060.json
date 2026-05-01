@@ -1,0 +1,73 @@
+{
+  "train_no": "G2060",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "临沂北",
+  "depart_time": "19:30",
+  "arrive_time": "21:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兰考南",
+      "arrive_time": "20:06",
+      "depart_time": "20:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "庄寨",
+      "arrive_time": "20:26",
+      "depart_time": "20:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "菏泽东",
+      "arrive_time": "20:41",
+      "depart_time": "20:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "巨野北",
+      "arrive_time": "21:01",
+      "depart_time": "21:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "济宁北",
+      "arrive_time": "21:19",
+      "depart_time": "21:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "蒙山",
+      "arrive_time": "21:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "临沂北",
+      "arrive_time": "21:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 883.0,
+    "price_first": 419.0,
+    "price_second": 263.0,
+    "price_no_seat": 263.0
+  },
+  "fetched_at": "2026-05-01T06:00:35.075683"
+}

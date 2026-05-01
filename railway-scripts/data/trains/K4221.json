@@ -1,0 +1,77 @@
+{
+  "train_no": "K4221",
+  "train_type": "K",
+  "depart_station": "信阳",
+  "arrive_station": "郑州",
+  "depart_time": "07:23",
+  "arrive_time": "11:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "信阳",
+      "arrive_time": "07:23",
+      "depart_time": "07:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "确山",
+      "arrive_time": "08:13",
+      "depart_time": "08:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "驻马店",
+      "arrive_time": "08:30",
+      "depart_time": "08:35",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "西平",
+      "arrive_time": "09:02",
+      "depart_time": "09:29",
+      "stay_min": "27"
+    },
+    {
+      "seq": 5,
+      "station_name": "格尔木",
+      "arrive_time": "16:34",
+      "depart_time": "16:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "漯河",
+      "arrive_time": "09:48",
+      "depart_time": "09:57",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "许昌",
+      "arrive_time": "10:39",
+      "depart_time": "10:42",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "长葛",
+      "arrive_time": "10:57",
+      "depart_time": "11:00",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "郑州",
+      "arrive_time": "11:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 46.5
+  },
+  "fetched_at": "2026-05-01T09:50:25.523858"
+}

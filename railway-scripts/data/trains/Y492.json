@@ -1,0 +1,33 @@
+{
+  "train_no": "Y492",
+  "train_type": "Y",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "太原",
+  "depart_time": "09:45",
+  "arrive_time": "07:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "09:45",
+      "depart_time": "09:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兰州",
+      "arrive_time": "07:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "太原",
+      "arrive_time": "07:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:33:56.716791"
+}

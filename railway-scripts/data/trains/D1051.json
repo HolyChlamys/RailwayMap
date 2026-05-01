@@ -1,0 +1,65 @@
+{
+  "train_no": "D1051",
+  "train_type": "D",
+  "depart_station": "清河",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "19:55",
+  "arrive_time": "22:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清河",
+      "arrive_time": "19:55",
+      "depart_time": "19:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昌平",
+      "arrive_time": "20:09",
+      "depart_time": "20:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东花园北",
+      "arrive_time": "20:31",
+      "depart_time": "20:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀来",
+      "arrive_time": "20:47",
+      "depart_time": "20:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "张家口",
+      "arrive_time": "21:15",
+      "depart_time": "21:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "乌兰察布",
+      "arrive_time": "22:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "呼和浩特东",
+      "arrive_time": "22:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 335.0,
+    "price_second": 209.0,
+    "price_no_seat": 209.0
+  },
+  "fetched_at": "2026-05-01T02:56:38.457942"
+}

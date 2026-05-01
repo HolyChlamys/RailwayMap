@@ -1,0 +1,31 @@
+{
+  "train_no": "G8068",
+  "train_type": "G",
+  "depart_station": "沈阳",
+  "arrive_station": "大连北",
+  "depart_time": "06:50",
+  "arrive_time": "06:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "06:50",
+      "depart_time": "06:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大连北",
+      "arrive_time": "06:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 728.0,
+    "price_first": 333.0,
+    "price_second": 208.0,
+    "price_no_seat": 208.0
+  },
+  "fetched_at": "2026-05-01T08:43:49.535942"
+}

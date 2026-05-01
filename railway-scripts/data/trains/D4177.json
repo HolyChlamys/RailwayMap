@@ -1,0 +1,72 @@
+{
+  "train_no": "D4177",
+  "train_type": "D",
+  "depart_station": "太原南",
+  "arrive_station": "西安北",
+  "depart_time": "19:07",
+  "arrive_time": "22:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "19:07",
+      "depart_time": "19:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "晋中",
+      "arrive_time": "19:28",
+      "depart_time": "19:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "太谷西",
+      "arrive_time": "19:44",
+      "depart_time": "19:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "介休东",
+      "arrive_time": "20:09",
+      "depart_time": "20:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "霍州东",
+      "arrive_time": "20:34",
+      "depart_time": "20:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "永济北",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "渭南北",
+      "arrive_time": "22:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "西安北",
+      "arrive_time": "22:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 286.0,
+    "price_second": 178.5,
+    "price_no_seat": 178.5
+  },
+  "fetched_at": "2026-05-01T03:44:59.254813"
+}

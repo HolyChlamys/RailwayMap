@@ -1,0 +1,56 @@
+{
+  "train_no": "K5611",
+  "train_type": "K",
+  "depart_station": "阜阳",
+  "arrive_station": "杭州",
+  "depart_time": "17:40",
+  "arrive_time": "22:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜阳",
+      "arrive_time": "17:40",
+      "depart_time": "17:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮南",
+      "arrive_time": "19:07",
+      "depart_time": "19:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥",
+      "arrive_time": "20:28",
+      "depart_time": "20:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖",
+      "arrive_time": "21:59",
+      "depart_time": "21:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宣城",
+      "arrive_time": "22:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州",
+      "arrive_time": "22:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T10:13:25.522923"
+}

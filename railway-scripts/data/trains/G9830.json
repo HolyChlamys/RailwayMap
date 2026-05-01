@@ -1,0 +1,45 @@
+{
+  "train_no": "G9830",
+  "train_type": "G",
+  "depart_station": "南昌",
+  "arrive_station": "玉山南",
+  "depart_time": "19:34",
+  "arrive_time": "21:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "19:34",
+      "depart_time": "19:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹰潭北",
+      "arrive_time": "20:35",
+      "depart_time": "20:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "上饶",
+      "arrive_time": "21:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "玉山南",
+      "arrive_time": "21:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 507.5,
+    "price_first": 234.0,
+    "price_second": 146.0,
+    "price_no_seat": 146.0
+  },
+  "fetched_at": "2026-05-01T09:25:34.671102"
+}

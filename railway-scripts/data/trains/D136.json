@@ -1,0 +1,57 @@
+{
+  "train_no": "D136",
+  "train_type": "D",
+  "depart_station": "南昌",
+  "arrive_station": "北京丰台",
+  "depart_time": "19:22",
+  "arrive_time": "05:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "19:22",
+      "depart_time": "19:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "九江",
+      "arrive_time": "20:33",
+      "depart_time": "20:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄州",
+      "arrive_time": "22:08",
+      "depart_time": "22:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阜阳",
+      "arrive_time": "00:41",
+      "depart_time": "00:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "肃宁",
+      "arrive_time": "05:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "北京丰台",
+      "arrive_time": "05:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 339.0,
+    "price_no_seat": 339.0
+  },
+  "fetched_at": "2026-05-01T03:00:14.655330"
+}

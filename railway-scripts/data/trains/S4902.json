@@ -1,0 +1,43 @@
+{
+  "train_no": "S4902",
+  "train_type": "S",
+  "depart_station": "竹料",
+  "arrive_station": "白云机场北",
+  "depart_time": "06:30",
+  "arrive_time": "06:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "竹料",
+      "arrive_time": "06:30",
+      "depart_time": "06:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "白云机场东",
+      "arrive_time": "06:36",
+      "depart_time": "06:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "白云机场南",
+      "arrive_time": "06:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "白云机场北",
+      "arrive_time": "06:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 6.0,
+    "price_no_seat": 6.0
+  },
+  "fetched_at": "2026-05-01T10:57:00.798217"
+}

@@ -1,0 +1,56 @@
+{
+  "train_no": "Z9206",
+  "train_type": "Z",
+  "depart_station": "柳林南",
+  "arrive_station": "太原",
+  "depart_time": "19:50",
+  "arrive_time": "21:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "柳林南",
+      "arrive_time": "19:50",
+      "depart_time": "19:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吕梁",
+      "arrive_time": "20:13",
+      "depart_time": "20:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汾阳",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "文水",
+      "arrive_time": "21:14",
+      "depart_time": "21:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "交城",
+      "arrive_time": "21:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "太原",
+      "arrive_time": "21:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T11:52:15.499785"
+}

@@ -1,0 +1,50 @@
+{
+  "train_no": "C6647",
+  "train_type": "C",
+  "depart_station": "成都西",
+  "arrive_station": "雅安",
+  "depart_time": "19:33",
+  "arrive_time": "20:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都西",
+      "arrive_time": "19:33",
+      "depart_time": "19:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "崇州",
+      "arrive_time": "19:51",
+      "depart_time": "19:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大邑",
+      "arrive_time": "20:02",
+      "depart_time": "20:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "邛崃",
+      "arrive_time": "20:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "雅安",
+      "arrive_time": "20:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 52.0,
+    "price_no_seat": 52.0
+  },
+  "fetched_at": "2026-05-01T01:53:44.361550"
+}

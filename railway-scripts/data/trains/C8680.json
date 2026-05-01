@@ -1,0 +1,58 @@
+{
+  "train_no": "C8680",
+  "train_type": "C",
+  "depart_station": "防城港北",
+  "arrive_station": "桂林北",
+  "depart_time": "18:07",
+  "arrive_time": "21:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "防城港北",
+      "arrive_time": "18:07",
+      "depart_time": "18:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁",
+      "arrive_time": "19:16",
+      "depart_time": "19:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南宁东",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "柳州",
+      "arrive_time": "20:36",
+      "depart_time": "20:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "桂林",
+      "arrive_time": "21:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "桂林北",
+      "arrive_time": "21:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 322.0,
+    "price_second": 200.5,
+    "price_no_seat": 200.5
+  },
+  "fetched_at": "2026-05-01T02:36:04.278238"
+}

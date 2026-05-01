@@ -1,0 +1,44 @@
+{
+  "train_no": "C8089",
+  "train_type": "C",
+  "depart_station": "张家界西",
+  "arrive_station": "长沙",
+  "depart_time": "22:35",
+  "arrive_time": "23:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家界西",
+      "arrive_time": "22:35",
+      "depart_time": "22:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "常德",
+      "arrive_time": "23:28",
+      "depart_time": "23:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "益阳南",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 268.0,
+    "price_second": 166.0,
+    "price_no_seat": 166.0
+  },
+  "fetched_at": "2026-05-01T02:31:52.118175"
+}

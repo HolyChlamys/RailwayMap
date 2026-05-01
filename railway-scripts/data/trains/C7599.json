@@ -1,0 +1,43 @@
+{
+  "train_no": "C7599",
+  "train_type": "C",
+  "depart_station": "白云机场北",
+  "arrive_station": "竹料",
+  "depart_time": "19:12",
+  "arrive_time": "19:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "白云机场北",
+      "arrive_time": "19:12",
+      "depart_time": "19:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "白云机场南",
+      "arrive_time": "19:17",
+      "depart_time": "19:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "白云机场东",
+      "arrive_time": "19:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "竹料",
+      "arrive_time": "19:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 6.0,
+    "price_no_seat": 6.0
+  },
+  "fetched_at": "2026-05-01T02:18:37.762433"
+}

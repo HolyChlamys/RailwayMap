@@ -1,0 +1,107 @@
+{
+  "train_no": "D4238",
+  "train_type": "D",
+  "depart_station": "北海",
+  "arrive_station": "江门",
+  "depart_time": "17:32",
+  "arrive_time": "23:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北海",
+      "arrive_time": "17:32",
+      "depart_time": "17:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合浦",
+      "arrive_time": "17:44",
+      "depart_time": "17:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "钦州东",
+      "arrive_time": "18:09",
+      "depart_time": "18:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁东",
+      "arrive_time": "18:48",
+      "depart_time": "19:08",
+      "stay_min": "20"
+    },
+    {
+      "seq": 5,
+      "station_name": "宾阳",
+      "arrive_time": "19:33",
+      "depart_time": "19:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "贵港",
+      "arrive_time": "19:54",
+      "depart_time": "19:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "平南南",
+      "arrive_time": "20:24",
+      "depart_time": "20:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "梧州南",
+      "arrive_time": "20:53",
+      "depart_time": "20:56",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "南江口",
+      "arrive_time": "21:21",
+      "depart_time": "21:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "肇庆东",
+      "arrive_time": "21:53",
+      "depart_time": "21:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "佛山西",
+      "arrive_time": "22:15",
+      "depart_time": "22:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "广州南",
+      "arrive_time": "22:40",
+      "depart_time": "22:58",
+      "stay_min": "18"
+    },
+    {
+      "seq": 13,
+      "station_name": "江门",
+      "arrive_time": "23:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 619.0,
+    "price_second": 394.0,
+    "price_no_seat": 394.0
+  },
+  "fetched_at": "2026-05-01T03:46:06.961009"
+}

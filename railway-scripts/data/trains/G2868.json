@@ -1,0 +1,73 @@
+{
+  "train_no": "G2868",
+  "train_type": "G",
+  "depart_station": "昆明南",
+  "arrive_station": "重庆西",
+  "depart_time": "09:30",
+  "arrive_time": "13:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "09:30",
+      "depart_time": "09:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嵩明",
+      "arrive_time": "09:53",
+      "depart_time": "09:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "曲靖北",
+      "arrive_time": "10:22",
+      "depart_time": "10:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺西",
+      "arrive_time": "11:50",
+      "depart_time": "11:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "12:26",
+      "depart_time": "12:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "息烽",
+      "arrive_time": "12:55",
+      "depart_time": "12:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "遵义",
+      "arrive_time": "13:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "重庆西",
+      "arrive_time": "13:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 654.5,
+    "price_first": 629.0,
+    "price_second": 394.0,
+    "price_no_seat": 394.0
+  },
+  "fetched_at": "2026-05-01T06:22:30.959221"
+}

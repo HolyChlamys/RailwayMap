@@ -1,0 +1,31 @@
+{
+  "train_no": "G9322",
+  "train_type": "G",
+  "depart_station": "烟台",
+  "arrive_station": "济南东",
+  "depart_time": "21:39",
+  "arrive_time": "21:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "烟台",
+      "arrive_time": "21:39",
+      "depart_time": "21:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南东",
+      "arrive_time": "21:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 667.0,
+    "price_first": 326.0,
+    "price_second": 204.0,
+    "price_no_seat": 204.0
+  },
+  "fetched_at": "2026-05-01T09:11:31.851954"
+}

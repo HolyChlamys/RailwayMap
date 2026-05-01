@@ -1,0 +1,84 @@
+{
+  "train_no": "K5095",
+  "train_type": "K",
+  "depart_station": "山海关",
+  "arrive_station": "大连",
+  "depart_time": "05:30",
+  "arrive_time": "13:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "山海关",
+      "arrive_time": "05:30",
+      "depart_time": "05:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绥中",
+      "arrive_time": "06:14",
+      "depart_time": "06:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "兴城",
+      "arrive_time": "06:46",
+      "depart_time": "06:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "葫芦岛",
+      "arrive_time": "07:07",
+      "depart_time": "07:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "锦州",
+      "arrive_time": "07:51",
+      "depart_time": "07:57",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "沟帮子",
+      "arrive_time": "08:38",
+      "depart_time": "08:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "盘锦",
+      "arrive_time": "09:04",
+      "depart_time": "09:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "大石桥",
+      "arrive_time": "10:19",
+      "depart_time": "10:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "瓦房店",
+      "arrive_time": "11:44",
+      "depart_time": "11:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "大连",
+      "arrive_time": "13:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 86.0
+  },
+  "fetched_at": "2026-05-01T10:03:49.884771"
+}

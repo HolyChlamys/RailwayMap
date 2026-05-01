@@ -1,0 +1,93 @@
+{
+  "train_no": "G8103",
+  "train_type": "G",
+  "depart_station": "东港北",
+  "arrive_station": "吉林",
+  "depart_time": "06:45",
+  "arrive_time": "11:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东港北",
+      "arrive_time": "06:45",
+      "depart_time": "06:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丹东",
+      "arrive_time": "07:04",
+      "depart_time": "07:27",
+      "stay_min": "23"
+    },
+    {
+      "seq": 3,
+      "station_name": "凤城东",
+      "arrive_time": "07:43",
+      "depart_time": "07:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "通远堡西",
+      "arrive_time": "07:59",
+      "depart_time": "08:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "本溪",
+      "arrive_time": "08:22",
+      "depart_time": "08:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "本溪新城",
+      "arrive_time": "08:36",
+      "depart_time": "08:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "沈阳南",
+      "arrive_time": "08:55",
+      "depart_time": "08:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "沈阳北",
+      "arrive_time": "09:13",
+      "depart_time": "09:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "四平东",
+      "arrive_time": "09:58",
+      "depart_time": "10:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "长春",
+      "arrive_time": "10:32",
+      "depart_time": "10:38",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "吉林",
+      "arrive_time": "11:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 470.5,
+    "price_second": 294.0,
+    "price_no_seat": 294.0
+  },
+  "fetched_at": "2026-05-01T08:44:25.213995"
+}

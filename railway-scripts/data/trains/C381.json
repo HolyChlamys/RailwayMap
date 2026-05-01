@@ -1,0 +1,52 @@
+{
+  "train_no": "C381",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "磨憨",
+  "depart_time": "08:08",
+  "arrive_time": "12:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "08:08",
+      "depart_time": "08:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆明南",
+      "arrive_time": "08:27",
+      "depart_time": "08:33",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "西双版纳",
+      "arrive_time": "11:37",
+      "depart_time": "11:45",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "勐腊",
+      "arrive_time": "12:33",
+      "depart_time": "12:37",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "磨憨",
+      "arrive_time": "12:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1109.0,
+    "price_first": 518.0,
+    "price_second": 324.0,
+    "price_no_seat": 324.0
+  },
+  "fetched_at": "2026-05-01T01:04:28.568808"
+}

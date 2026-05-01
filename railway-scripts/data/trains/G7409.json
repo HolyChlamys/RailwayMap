@@ -1,0 +1,86 @@
+{
+  "train_no": "G7409",
+  "train_type": "G",
+  "depart_station": "淮北",
+  "arrive_station": "六安",
+  "depart_time": "06:45",
+  "arrive_time": "10:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "淮北",
+      "arrive_time": "06:45",
+      "depart_time": "06:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮北北",
+      "arrive_time": "06:56",
+      "depart_time": "06:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "萧县北",
+      "arrive_time": "07:12",
+      "depart_time": "07:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "徐州东",
+      "arrive_time": "07:32",
+      "depart_time": "07:40",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "宿州东",
+      "arrive_time": "07:58",
+      "depart_time": "08:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "蚌埠南",
+      "arrive_time": "08:23",
+      "depart_time": "08:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "淮南东",
+      "arrive_time": "08:41",
+      "depart_time": "08:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "水家湖",
+      "arrive_time": "08:52",
+      "depart_time": "08:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "合肥",
+      "arrive_time": "09:18",
+      "depart_time": "09:37",
+      "stay_min": "19"
+    },
+    {
+      "seq": 10,
+      "station_name": "六安",
+      "arrive_time": "10:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 361.0,
+    "price_second": 223.5,
+    "price_no_seat": 223.5
+  },
+  "fetched_at": "2026-05-01T08:26:34.599757"
+}

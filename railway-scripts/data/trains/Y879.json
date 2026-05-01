@@ -1,0 +1,40 @@
+{
+  "train_no": "Y879",
+  "train_type": "Y",
+  "depart_station": "临沧",
+  "arrive_station": "丽江",
+  "depart_time": "18:15",
+  "arrive_time": "08:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沧",
+      "arrive_time": "18:15",
+      "depart_time": "18:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大理",
+      "arrive_time": "20:48",
+      "depart_time": "21:46",
+      "stay_min": "58"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "04:31",
+      "depart_time": "05:10",
+      "stay_min": "39"
+    },
+    {
+      "seq": 4,
+      "station_name": "丽江",
+      "arrive_time": "08:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:40:40.016968"
+}

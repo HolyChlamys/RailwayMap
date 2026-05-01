@@ -1,0 +1,37 @@
+{
+  "train_no": "D3351",
+  "train_type": "D",
+  "depart_station": "太原南",
+  "arrive_station": "郑州",
+  "depart_time": "12:37",
+  "arrive_time": "14:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "12:37",
+      "depart_time": "12:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "晋城东",
+      "arrive_time": "14:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州",
+      "arrive_time": "14:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 354.0,
+    "price_second": 221.0,
+    "price_no_seat": 221.0
+  },
+  "fetched_at": "2026-05-01T03:32:32.936555"
+}

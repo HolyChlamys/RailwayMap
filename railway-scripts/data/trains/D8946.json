@@ -1,0 +1,58 @@
+{
+  "train_no": "D8946",
+  "train_type": "D",
+  "depart_station": "兰州",
+  "arrive_station": "银川",
+  "depart_time": "19:30",
+  "arrive_time": "22:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兰州西",
+      "arrive_time": "19:41",
+      "depart_time": "19:48",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "白银南",
+      "arrive_time": "20:36",
+      "depart_time": "20:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "靖远北",
+      "arrive_time": "20:55",
+      "depart_time": "20:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "中卫南",
+      "arrive_time": "21:34",
+      "depart_time": "21:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "银川",
+      "arrive_time": "22:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 337.0,
+    "price_second": 211.0,
+    "price_no_seat": 211.0
+  },
+  "fetched_at": "2026-05-01T05:06:48.788823"
+}

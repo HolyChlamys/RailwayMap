@@ -1,0 +1,73 @@
+{
+  "train_no": "G9178",
+  "train_type": "G",
+  "depart_station": "长白山",
+  "arrive_station": "阜新",
+  "depart_time": "18:40",
+  "arrive_time": "21:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长白山",
+      "arrive_time": "18:40",
+      "depart_time": "18:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长白山西",
+      "arrive_time": "19:01",
+      "depart_time": "19:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "白山东",
+      "arrive_time": "19:27",
+      "depart_time": "19:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "通化",
+      "arrive_time": "19:46",
+      "depart_time": "19:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "抚顺",
+      "arrive_time": "20:31",
+      "depart_time": "20:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "沈阳北",
+      "arrive_time": "21:01",
+      "depart_time": "21:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "新民北",
+      "arrive_time": "21:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "阜新",
+      "arrive_time": "21:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1508.0,
+    "price_first": 689.0,
+    "price_second": 431.0,
+    "price_no_seat": 431.0
+  },
+  "fetched_at": "2026-05-01T09:07:45.565393"
+}

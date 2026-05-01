@@ -1,0 +1,93 @@
+{
+  "train_no": "D8405",
+  "train_type": "D",
+  "depart_station": "桂林北",
+  "arrive_station": "北海",
+  "depart_time": "11:10",
+  "arrive_time": "15:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "桂林北",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桂林",
+      "arrive_time": "11:22",
+      "depart_time": "11:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "永福南",
+      "arrive_time": "11:43",
+      "depart_time": "11:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鹿寨北",
+      "arrive_time": "12:06",
+      "depart_time": "12:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "柳州",
+      "arrive_time": "12:40",
+      "depart_time": "12:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "来宾北",
+      "arrive_time": "13:07",
+      "depart_time": "13:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宾阳",
+      "arrive_time": "13:29",
+      "depart_time": "13:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南宁东",
+      "arrive_time": "14:18",
+      "depart_time": "14:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "钦州东",
+      "arrive_time": "14:55",
+      "depart_time": "14:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "合浦",
+      "arrive_time": "15:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "北海",
+      "arrive_time": "15:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 372.0,
+    "price_second": 231.5,
+    "price_no_seat": 231.5
+  },
+  "fetched_at": "2026-05-01T04:56:20.869401"
+}

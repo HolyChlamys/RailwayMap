@@ -1,0 +1,30 @@
+{
+  "train_no": "C5512",
+  "train_type": "C",
+  "depart_station": "恩施",
+  "arrive_station": "宜昌东",
+  "depart_time": "07:50",
+  "arrive_time": "07:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "恩施",
+      "arrive_time": "07:50",
+      "depart_time": "07:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜昌东",
+      "arrive_time": "07:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 127.0,
+    "price_second": 79.0,
+    "price_no_seat": 79.0
+  },
+  "fetched_at": "2026-05-01T01:33:52.728227"
+}

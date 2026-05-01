@@ -1,0 +1,122 @@
+{
+  "train_no": "G8432",
+  "train_type": "G",
+  "depart_station": "广州东",
+  "arrive_station": "深圳",
+  "depart_time": "07:00",
+  "arrive_time": "12:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "07:23",
+      "depart_time": "07:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州南",
+      "arrive_time": "07:52",
+      "depart_time": "07:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "08:23",
+      "depart_time": "08:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "惠来",
+      "arrive_time": "08:50",
+      "depart_time": "08:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "汕头",
+      "arrive_time": "09:12",
+      "depart_time": "09:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "潮汕",
+      "arrive_time": "09:40",
+      "depart_time": "09:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "揭阳机场",
+      "arrive_time": "09:53",
+      "depart_time": "09:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "揭阳",
+      "arrive_time": "10:06",
+      "depart_time": "10:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "丰顺东",
+      "arrive_time": "10:20",
+      "depart_time": "10:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "建桥",
+      "arrive_time": "10:30",
+      "depart_time": "10:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "梅州西",
+      "arrive_time": "10:50",
+      "depart_time": "10:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "五华",
+      "arrive_time": "11:09",
+      "depart_time": "11:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "河源东",
+      "arrive_time": "11:42",
+      "depart_time": "11:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "深圳",
+      "arrive_time": "12:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2051.0,
+    "price_first": 927.0,
+    "price_second": 597.0,
+    "price_no_seat": 597.0
+  },
+  "fetched_at": "2026-05-01T08:50:48.306534"
+}

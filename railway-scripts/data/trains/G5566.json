@@ -1,0 +1,73 @@
+{
+  "train_no": "G5566",
+  "train_type": "G",
+  "depart_station": "莘县",
+  "arrive_station": "青岛",
+  "depart_time": "18:17",
+  "arrive_time": "22:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "莘县",
+      "arrive_time": "18:17",
+      "depart_time": "18:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "聊城西",
+      "arrive_time": "18:28",
+      "depart_time": "18:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "长清",
+      "arrive_time": "18:53",
+      "depart_time": "18:56",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南",
+      "arrive_time": "19:15",
+      "depart_time": "19:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "章丘",
+      "arrive_time": "19:40",
+      "depart_time": "19:48",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "淄博",
+      "arrive_time": "20:11",
+      "depart_time": "20:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "潍坊",
+      "arrive_time": "20:48",
+      "depart_time": "20:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "青岛",
+      "arrive_time": "22:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 810.0,
+    "price_first": 371.0,
+    "price_second": 232.0,
+    "price_no_seat": 232.0
+  },
+  "fetched_at": "2026-05-01T07:37:07.504923"
+}

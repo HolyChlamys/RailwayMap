@@ -1,0 +1,63 @@
+{
+  "train_no": "K4275",
+  "train_type": "K",
+  "depart_station": "洛阳",
+  "arrive_station": "广州白云",
+  "depart_time": "00:57",
+  "arrive_time": "00:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "洛阳",
+      "arrive_time": "00:57",
+      "depart_time": "00:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南阳",
+      "arrive_time": "05:36",
+      "depart_time": "05:44",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "邓州",
+      "arrive_time": "06:31",
+      "depart_time": "06:36",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "襄阳",
+      "arrive_time": "07:39",
+      "depart_time": "08:05",
+      "stay_min": "26"
+    },
+    {
+      "seq": 5,
+      "station_name": "松滋西",
+      "arrive_time": "11:13",
+      "depart_time": "11:19",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "石门县北",
+      "arrive_time": "12:21",
+      "depart_time": "12:29",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "广州白云",
+      "arrive_time": "00:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 198.0
+  },
+  "fetched_at": "2026-05-01T09:51:29.983325"
+}

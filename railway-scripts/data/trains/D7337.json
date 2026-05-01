@@ -1,0 +1,37 @@
+{
+  "train_no": "D7337",
+  "train_type": "D",
+  "depart_station": "梅州西",
+  "arrive_station": "深圳",
+  "depart_time": "15:05",
+  "arrive_time": "15:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梅州西",
+      "arrive_time": "15:05",
+      "depart_time": "15:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "河源东",
+      "arrive_time": "15:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳",
+      "arrive_time": "15:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 293.0,
+    "price_second": 194.0,
+    "price_no_seat": 194.0
+  },
+  "fetched_at": "2026-05-01T04:36:38.151413"
+}

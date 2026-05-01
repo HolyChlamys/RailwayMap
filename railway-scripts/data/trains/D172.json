@@ -1,0 +1,86 @@
+{
+  "train_no": "D172",
+  "train_type": "D",
+  "depart_station": "九江",
+  "arrive_station": "上海南",
+  "depart_time": "16:02",
+  "arrive_time": "21:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "九江",
+      "arrive_time": "16:02",
+      "depart_time": "16:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "都昌",
+      "arrive_time": "16:39",
+      "depart_time": "16:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄱阳北",
+      "arrive_time": "17:04",
+      "depart_time": "17:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "景德镇北",
+      "arrive_time": "17:27",
+      "depart_time": "17:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "婺源",
+      "arrive_time": "18:02",
+      "depart_time": "18:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "常山",
+      "arrive_time": "18:55",
+      "depart_time": "18:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "衢州",
+      "arrive_time": "19:24",
+      "depart_time": "19:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "金华",
+      "arrive_time": "20:15",
+      "depart_time": "20:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "杭州东",
+      "arrive_time": "21:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "上海南",
+      "arrive_time": "21:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 419.0,
+    "price_second": 262.0,
+    "price_no_seat": 262.0
+  },
+  "fetched_at": "2026-05-01T03:03:42.600121"
+}

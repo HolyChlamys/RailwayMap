@@ -1,0 +1,52 @@
+{
+  "train_no": "G5284",
+  "train_type": "G",
+  "depart_station": "烟台",
+  "arrive_station": "济南",
+  "depart_time": "10:36",
+  "arrive_time": "13:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "烟台",
+      "arrive_time": "10:36",
+      "depart_time": "10:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莱西",
+      "arrive_time": "11:23",
+      "depart_time": "11:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊",
+      "arrive_time": "12:31",
+      "depart_time": "12:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博",
+      "arrive_time": "13:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "济南",
+      "arrive_time": "13:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 693.0,
+    "price_first": 317.0,
+    "price_second": 198.0,
+    "price_no_seat": 198.0
+  },
+  "fetched_at": "2026-05-01T07:30:09.940214"
+}

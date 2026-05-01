@@ -1,0 +1,70 @@
+{
+  "train_no": "Z8009",
+  "train_type": "Z",
+  "depart_station": "常德",
+  "arrive_station": "深圳东",
+  "depart_time": "11:16",
+  "arrive_time": "21:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "常德",
+      "arrive_time": "11:16",
+      "depart_time": "11:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "益阳",
+      "arrive_time": "12:19",
+      "depart_time": "12:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙",
+      "arrive_time": "13:54",
+      "depart_time": "13:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "株洲",
+      "arrive_time": "14:35",
+      "depart_time": "14:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡阳",
+      "arrive_time": "16:01",
+      "depart_time": "16:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "郴州",
+      "arrive_time": "17:45",
+      "depart_time": "17:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州北",
+      "arrive_time": "21:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "深圳东",
+      "arrive_time": "21:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 169.5
+  },
+  "fetched_at": "2026-05-01T11:51:40.889351"
+}

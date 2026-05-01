@@ -1,0 +1,33 @@
+{
+  "train_no": "K6585",
+  "train_type": "K",
+  "depart_station": "衡阳",
+  "arrive_station": "深圳",
+  "depart_time": "08:35",
+  "arrive_time": "10:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "衡阳",
+      "arrive_time": "08:35",
+      "depart_time": "08:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郴州",
+      "arrive_time": "10:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳",
+      "arrive_time": "10:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T10:23:28.810721"
+}

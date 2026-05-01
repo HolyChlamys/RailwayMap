@@ -1,0 +1,38 @@
+{
+  "train_no": "D9274",
+  "train_type": "D",
+  "depart_station": "太子城",
+  "arrive_station": "清河",
+  "depart_time": "11:21",
+  "arrive_time": "12:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太子城",
+      "arrive_time": "11:21",
+      "depart_time": "11:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "八达岭长城",
+      "arrive_time": "12:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "清河",
+      "arrive_time": "12:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 224.0,
+    "price_first": 119.0,
+    "price_second": 74.0,
+    "price_no_seat": 74.0
+  },
+  "fetched_at": "2026-05-01T05:11:48.846816"
+}

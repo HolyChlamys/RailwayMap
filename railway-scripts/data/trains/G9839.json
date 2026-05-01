@@ -1,0 +1,38 @@
+{
+  "train_no": "G9839",
+  "train_type": "G",
+  "depart_station": "武夷山北",
+  "arrive_station": "福州",
+  "depart_time": "22:20",
+  "arrive_time": "22:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武夷山北",
+      "arrive_time": "22:20",
+      "depart_time": "22:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延平",
+      "arrive_time": "22:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "福州",
+      "arrive_time": "22:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 377.0,
+    "price_first": 201.0,
+    "price_second": 119.5,
+    "price_no_seat": 119.5
+  },
+  "fetched_at": "2026-05-01T09:25:46.260498"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "C5610",
+  "train_type": "C",
+  "depart_station": "利川",
+  "arrive_station": "汉口",
+  "depart_time": "23:23",
+  "arrive_time": "02:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "利川",
+      "arrive_time": "23:23",
+      "depart_time": "23:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "恩施",
+      "arrive_time": "00:06",
+      "depart_time": "00:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜昌东",
+      "arrive_time": "02:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "02:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 370.0,
+    "price_second": 232.0,
+    "price_no_seat": 232.0
+  },
+  "fetched_at": "2026-05-01T01:35:35.359498"
+}

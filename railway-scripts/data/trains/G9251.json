@@ -1,0 +1,38 @@
+{
+  "train_no": "G9251",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "合肥南",
+  "depart_time": "03:41",
+  "arrive_time": "06:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "03:41",
+      "depart_time": "03:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "05:09",
+      "depart_time": "05:17",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "06:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 827.0,
+    "price_first": 388.0,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T09:09:18.168799"
+}

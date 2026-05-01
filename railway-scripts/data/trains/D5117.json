@@ -1,0 +1,51 @@
+{
+  "train_no": "D5117",
+  "train_type": "D",
+  "depart_station": "丰都",
+  "arrive_station": "成都东",
+  "depart_time": "19:48",
+  "arrive_time": "21:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丰都",
+      "arrive_time": "19:48",
+      "depart_time": "19:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "涪陵北",
+      "arrive_time": "20:20",
+      "depart_time": "20:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "21:06",
+      "depart_time": "21:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合川",
+      "arrive_time": "21:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "21:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 259.0,
+    "price_second": 163.0,
+    "price_no_seat": 163.0
+  },
+  "fetched_at": "2026-05-01T04:00:48.836311"
+}

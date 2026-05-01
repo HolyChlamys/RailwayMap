@@ -1,0 +1,58 @@
+{
+  "train_no": "D6962",
+  "train_type": "D",
+  "depart_station": "巴彦淖尔",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "21:33",
+  "arrive_time": "23:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "21:33",
+      "depart_time": "21:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "五原",
+      "arrive_time": "21:55",
+      "depart_time": "21:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乌拉特前旗",
+      "arrive_time": "22:14",
+      "depart_time": "22:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "包头",
+      "arrive_time": "22:52",
+      "depart_time": "22:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "呼和浩特",
+      "arrive_time": "23:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "呼和浩特东",
+      "arrive_time": "23:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 315.0,
+    "price_second": 196.5,
+    "price_no_seat": 196.5
+  },
+  "fetched_at": "2026-05-01T04:31:43.977839"
+}

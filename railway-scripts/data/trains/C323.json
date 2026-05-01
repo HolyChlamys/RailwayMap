@@ -1,0 +1,51 @@
+{
+  "train_no": "C323",
+  "train_type": "C",
+  "depart_station": "西双版纳",
+  "arrive_station": "昆明",
+  "depart_time": "20:35",
+  "arrive_time": "00:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西双版纳",
+      "arrive_time": "20:35",
+      "depart_time": "20:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普洱",
+      "arrive_time": "21:15",
+      "depart_time": "21:19",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "玉溪",
+      "arrive_time": "23:10",
+      "depart_time": "23:14",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明南",
+      "arrive_time": "23:53",
+      "depart_time": "23:59",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明",
+      "arrive_time": "00:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 381.0,
+    "price_second": 239.0,
+    "price_no_seat": 239.0
+  },
+  "fetched_at": "2026-05-01T00:54:39.440026"
+}

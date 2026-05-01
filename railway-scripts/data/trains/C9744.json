@@ -1,0 +1,58 @@
+{
+  "train_no": "C9744",
+  "train_type": "C",
+  "depart_station": "安庆",
+  "arrive_station": "太仓",
+  "depart_time": "20:28",
+  "arrive_time": "23:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安庆",
+      "arrive_time": "20:28",
+      "depart_time": "20:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "21:48",
+      "depart_time": "21:53",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "句容",
+      "arrive_time": "22:10",
+      "depart_time": "22:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "金坛",
+      "arrive_time": "22:28",
+      "depart_time": "22:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "武进",
+      "arrive_time": "22:44",
+      "depart_time": "22:52",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "太仓",
+      "arrive_time": "23:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 402.0,
+    "price_second": 252.0,
+    "price_no_seat": 252.0
+  },
+  "fetched_at": "2026-05-01T02:52:18.884841"
+}

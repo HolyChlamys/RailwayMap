@@ -1,0 +1,85 @@
+{
+  "train_no": "C202",
+  "train_type": "C",
+  "depart_station": "西安",
+  "arrive_station": "神木",
+  "depart_time": "15:41",
+  "arrive_time": "21:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "15:41",
+      "depart_time": "15:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蒲城东",
+      "arrive_time": "16:32",
+      "depart_time": "16:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "延安",
+      "arrive_time": "18:03",
+      "depart_time": "18:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "子长",
+      "arrive_time": "18:56",
+      "depart_time": "18:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "清涧县",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "绥德",
+      "arrive_time": "19:54",
+      "depart_time": "19:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "米脂",
+      "arrive_time": "20:11",
+      "depart_time": "20:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "榆林",
+      "arrive_time": "20:57",
+      "depart_time": "20:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "锦界",
+      "arrive_time": "21:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "神木",
+      "arrive_time": "21:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 221.0,
+    "price_no_seat": 221.0
+  },
+  "fetched_at": "2026-05-01T00:28:42.459032"
+}

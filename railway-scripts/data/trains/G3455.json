@@ -1,0 +1,87 @@
+{
+  "train_no": "G3455",
+  "train_type": "G",
+  "depart_station": "汉口",
+  "arrive_station": "重庆北",
+  "depart_time": "12:30",
+  "arrive_time": "16:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "12:30",
+      "depart_time": "12:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感东",
+      "arrive_time": "12:57",
+      "depart_time": "12:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "随州南",
+      "arrive_time": "13:27",
+      "depart_time": "13:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "襄阳东",
+      "arrive_time": "14:00",
+      "depart_time": "14:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南漳",
+      "arrive_time": "14:18",
+      "depart_time": "14:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兴山",
+      "arrive_time": "14:56",
+      "depart_time": "14:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "巫山",
+      "arrive_time": "15:24",
+      "depart_time": "15:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "奉节",
+      "arrive_time": "15:46",
+      "depart_time": "15:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "万州北",
+      "arrive_time": "16:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "重庆北",
+      "arrive_time": "16:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1697.0,
+    "price_first": 811.0,
+    "price_second": 506.0,
+    "price_no_seat": 506.0
+  },
+  "fetched_at": "2026-05-01T06:38:21.756252"
+}

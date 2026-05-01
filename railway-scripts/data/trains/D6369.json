@@ -1,0 +1,65 @@
+{
+  "train_no": "D6369",
+  "train_type": "D",
+  "depart_station": "厦门北",
+  "arrive_station": "武平",
+  "depart_time": "07:06",
+  "arrive_time": "09:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "07:06",
+      "depart_time": "07:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "07:25",
+      "depart_time": "07:32",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "南靖",
+      "arrive_time": "07:47",
+      "depart_time": "07:55",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "龙岩",
+      "arrive_time": "08:27",
+      "depart_time": "08:36",
+      "stay_min": "9"
+    },
+    {
+      "seq": 5,
+      "station_name": "古田会址",
+      "arrive_time": "08:52",
+      "depart_time": "08:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "上杭",
+      "arrive_time": "09:10",
+      "depart_time": "09:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "武平",
+      "arrive_time": "09:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 153.5,
+    "price_second": 96.5,
+    "price_no_seat": 96.5
+  },
+  "fetched_at": "2026-05-01T04:22:05.143718"
+}

@@ -1,0 +1,94 @@
+{
+  "train_no": "D7974",
+  "train_type": "D",
+  "depart_station": "七台河西",
+  "arrive_station": "齐齐哈尔南",
+  "depart_time": "07:49",
+  "arrive_time": "12:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "七台河西",
+      "arrive_time": "07:49",
+      "depart_time": "07:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鸡西西",
+      "arrive_time": "08:08",
+      "depart_time": "08:11",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "林口南",
+      "arrive_time": "08:26",
+      "depart_time": "08:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "牡丹江",
+      "arrive_time": "08:59",
+      "depart_time": "09:04",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "亚布力西",
+      "arrive_time": "09:34",
+      "depart_time": "09:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "尚志南",
+      "arrive_time": "09:56",
+      "depart_time": "09:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "哈尔滨",
+      "arrive_time": "10:45",
+      "depart_time": "11:05",
+      "stay_min": "20"
+    },
+    {
+      "seq": 8,
+      "station_name": "哈尔滨",
+      "arrive_time": "10:45",
+      "depart_time": "10:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "安达",
+      "arrive_time": "11:42",
+      "depart_time": "11:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "大庆西",
+      "arrive_time": "12:00",
+      "depart_time": "12:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "齐齐哈尔南",
+      "arrive_time": "12:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 628.0,
+    "price_first": 313.0,
+    "price_second": 195.0,
+    "price_no_seat": 195.0
+  },
+  "fetched_at": "2026-05-01T04:48:35.153593"
+}

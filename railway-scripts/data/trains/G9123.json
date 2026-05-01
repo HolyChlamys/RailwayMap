@@ -1,0 +1,38 @@
+{
+  "train_no": "G9123",
+  "train_type": "G",
+  "depart_station": "鞍山西",
+  "arrive_station": "沈阳",
+  "depart_time": "11:45",
+  "arrive_time": "11:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "鞍山西",
+      "arrive_time": "11:45",
+      "depart_time": "11:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "辽阳",
+      "arrive_time": "11:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沈阳",
+      "arrive_time": "11:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 183.0,
+    "price_first": 84.0,
+    "price_second": 52.0,
+    "price_no_seat": 52.0
+  },
+  "fetched_at": "2026-05-01T09:06:28.131773"
+}

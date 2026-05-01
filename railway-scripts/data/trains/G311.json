@@ -1,0 +1,80 @@
+{
+  "train_no": "G311",
+  "train_type": "G",
+  "depart_station": "北京西",
+  "arrive_station": "南宁东",
+  "depart_time": "11:05",
+  "arrive_time": "20:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "11:05",
+      "depart_time": "11:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "12:08",
+      "depart_time": "12:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "邯郸东",
+      "arrive_time": "12:44",
+      "depart_time": "12:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "13:37",
+      "depart_time": "13:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武汉",
+      "arrive_time": "15:14",
+      "depart_time": "15:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙南",
+      "arrive_time": "16:28",
+      "depart_time": "16:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "桂林",
+      "arrive_time": "19:06",
+      "depart_time": "19:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "柳州",
+      "arrive_time": "20:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "南宁东",
+      "arrive_time": "20:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3750.0,
+    "price_first": 1750.0,
+    "price_second": 1093.5,
+    "price_no_seat": 1093.5
+  },
+  "fetched_at": "2026-05-01T06:29:03.832771"
+}

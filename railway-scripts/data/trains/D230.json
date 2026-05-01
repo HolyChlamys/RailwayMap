@@ -1,0 +1,57 @@
+{
+  "train_no": "D230",
+  "train_type": "D",
+  "depart_station": "宁波",
+  "arrive_station": "郑州",
+  "depart_time": "19:00",
+  "arrive_time": "08:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州",
+      "arrive_time": "21:19",
+      "depart_time": "21:25",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥",
+      "arrive_time": "02:06",
+      "depart_time": "02:14",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "商丘",
+      "arrive_time": "06:13",
+      "depart_time": "06:19",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "开封",
+      "arrive_time": "07:24",
+      "depart_time": "07:28",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州",
+      "arrive_time": "08:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 376.0,
+    "price_no_seat": 376.0
+  },
+  "fetched_at": "2026-05-01T03:14:28.547959"
+}

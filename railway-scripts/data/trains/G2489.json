@@ -1,0 +1,59 @@
+{
+  "train_no": "G2489",
+  "train_type": "G",
+  "depart_station": "清河",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "09:07",
+  "arrive_time": "11:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清河",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀来",
+      "arrive_time": "09:44",
+      "depart_time": "09:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "张家口",
+      "arrive_time": "10:12",
+      "depart_time": "10:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "乌兰察布",
+      "arrive_time": "11:02",
+      "depart_time": "11:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "卓资东",
+      "arrive_time": "11:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "呼和浩特东",
+      "arrive_time": "11:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 627.0,
+    "price_first": 335.0,
+    "price_second": 209.0,
+    "price_no_seat": 209.0
+  },
+  "fetched_at": "2026-05-01T06:11:51.473611"
+}

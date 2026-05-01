@@ -1,0 +1,28 @@
+{
+  "train_no": "K6586",
+  "train_type": "K",
+  "depart_station": "深圳东",
+  "arrive_station": "衡阳",
+  "depart_time": "00:20",
+  "arrive_time": "00:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳东",
+      "arrive_time": "00:20",
+      "depart_time": "00:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衡阳",
+      "arrive_time": "00:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T10:23:30.451844"
+}

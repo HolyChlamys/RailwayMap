@@ -1,0 +1,73 @@
+{
+  "train_no": "C951",
+  "train_type": "C",
+  "depart_station": "达州",
+  "arrive_station": "西昌西",
+  "depart_time": "08:54",
+  "arrive_time": "14:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "达州",
+      "arrive_time": "08:54",
+      "depart_time": "08:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都东",
+      "arrive_time": "11:51",
+      "depart_time": "11:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "夹江",
+      "arrive_time": "12:55",
+      "depart_time": "12:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "峨眉",
+      "arrive_time": "13:11",
+      "depart_time": "13:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沙湾南",
+      "arrive_time": "13:27",
+      "depart_time": "13:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "甘洛南",
+      "arrive_time": "14:14",
+      "depart_time": "14:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "越西",
+      "arrive_time": "14:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "西昌西",
+      "arrive_time": "14:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 948.0,
+    "price_first": 436.0,
+    "price_second": 272.0,
+    "price_no_seat": 272.0
+  },
+  "fetched_at": "2026-05-01T02:47:43.163503"
+}

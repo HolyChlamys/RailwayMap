@@ -1,0 +1,73 @@
+{
+  "train_no": "D5526",
+  "train_type": "D",
+  "depart_station": "安庆",
+  "arrive_station": "东台",
+  "depart_time": "14:42",
+  "arrive_time": "18:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安庆",
+      "arrive_time": "14:42",
+      "depart_time": "14:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "铜陵",
+      "arrive_time": "15:12",
+      "depart_time": "15:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "芜湖",
+      "arrive_time": "15:42",
+      "depart_time": "15:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "马鞍山东",
+      "arrive_time": "16:01",
+      "depart_time": "16:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "16:20",
+      "depart_time": "16:26",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "镇江",
+      "arrive_time": "16:54",
+      "depart_time": "16:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "盐城",
+      "arrive_time": "18:29",
+      "depart_time": "18:35",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "东台",
+      "arrive_time": "18:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1068.0,
+    "price_first": 499.0,
+    "price_second": 312.0,
+    "price_no_seat": 312.0
+  },
+  "fetched_at": "2026-05-01T04:08:26.518779"
+}

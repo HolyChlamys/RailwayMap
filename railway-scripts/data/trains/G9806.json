@@ -1,0 +1,59 @@
+{
+  "train_no": "G9806",
+  "train_type": "G",
+  "depart_station": "南昌东",
+  "arrive_station": "福州",
+  "depart_time": "22:01",
+  "arrive_time": "01:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "22:01",
+      "depart_time": "22:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "余干",
+      "arrive_time": "22:20",
+      "depart_time": "22:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "景德镇北",
+      "arrive_time": "22:50",
+      "depart_time": "22:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "婺源",
+      "arrive_time": "23:18",
+      "depart_time": "23:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "上饶",
+      "arrive_time": "23:45",
+      "depart_time": "23:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "福州",
+      "arrive_time": "01:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 771.5,
+    "price_first": 388.5,
+    "price_second": 243.5,
+    "price_no_seat": 243.5
+  },
+  "fetched_at": "2026-05-01T09:24:47.408370"
+}

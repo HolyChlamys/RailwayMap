@@ -1,0 +1,38 @@
+{
+  "train_no": "C8857",
+  "train_type": "C",
+  "depart_station": "惠州北",
+  "arrive_station": "深圳北",
+  "depart_time": "10:24",
+  "arrive_time": "10:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "惠州北",
+      "arrive_time": "10:24",
+      "depart_time": "10:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞南",
+      "arrive_time": "10:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "10:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 185.0,
+    "price_first": 85.0,
+    "price_second": 53.0,
+    "price_no_seat": 53.0
+  },
+  "fetched_at": "2026-05-01T02:36:50.331088"
+}

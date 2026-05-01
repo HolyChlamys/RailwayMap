@@ -1,0 +1,49 @@
+{
+  "train_no": "K9422",
+  "train_type": "K",
+  "depart_station": "成都西",
+  "arrive_station": "梁平",
+  "depart_time": "04:34",
+  "arrive_time": "10:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都西",
+      "arrive_time": "04:34",
+      "depart_time": "04:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南充",
+      "arrive_time": "08:45",
+      "depart_time": "08:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "营山",
+      "arrive_time": "09:26",
+      "depart_time": "09:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "达州",
+      "arrive_time": "10:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "梁平",
+      "arrive_time": "10:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 89.0
+  },
+  "fetched_at": "2026-05-01T10:45:19.508463"
+}

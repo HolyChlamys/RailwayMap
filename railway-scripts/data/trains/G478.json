@@ -1,0 +1,73 @@
+{
+  "train_no": "G478",
+  "train_type": "G",
+  "depart_station": "佛山西",
+  "arrive_station": "潼南",
+  "depart_time": "06:05",
+  "arrive_time": "13:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佛山西",
+      "arrive_time": "06:05",
+      "depart_time": "06:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀集",
+      "arrive_time": "06:54",
+      "depart_time": "07:02",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "桂林西",
+      "arrive_time": "08:07",
+      "depart_time": "08:11",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳东",
+      "arrive_time": "09:59",
+      "depart_time": "10:05",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "遵义",
+      "arrive_time": "10:53",
+      "depart_time": "10:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆西",
+      "arrive_time": "12:12",
+      "depart_time": "12:22",
+      "stay_min": "10"
+    },
+    {
+      "seq": 7,
+      "station_name": "合川",
+      "arrive_time": "12:49",
+      "depart_time": "12:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "潼南",
+      "arrive_time": "13:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2022.0,
+    "price_first": 958.0,
+    "price_second": 600.0,
+    "price_no_seat": 600.0
+  },
+  "fetched_at": "2026-05-01T07:15:34.096657"
+}

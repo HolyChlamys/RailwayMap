@@ -1,0 +1,66 @@
+{
+  "train_no": "C6764",
+  "train_type": "C",
+  "depart_station": "潮汕",
+  "arrive_station": "广州南",
+  "depart_time": "10:08",
+  "arrive_time": "12:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潮汕",
+      "arrive_time": "10:08",
+      "depart_time": "10:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普宁",
+      "arrive_time": "10:25",
+      "depart_time": "10:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠阳",
+      "arrive_time": "11:22",
+      "depart_time": "11:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "11:51",
+      "depart_time": "11:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "虎门",
+      "arrive_time": "12:12",
+      "depart_time": "12:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "南沙北",
+      "arrive_time": "12:25",
+      "depart_time": "12:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "广州南",
+      "arrive_time": "12:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 673.5,
+    "price_first": 316.5,
+    "price_second": 209.5,
+    "price_no_seat": 209.5
+  },
+  "fetched_at": "2026-05-01T01:55:54.502175"
+}

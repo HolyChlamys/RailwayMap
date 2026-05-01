@@ -1,0 +1,65 @@
+{
+  "train_no": "C8211",
+  "train_type": "C",
+  "depart_station": "惠农南",
+  "arrive_station": "中卫南",
+  "depart_time": "13:55",
+  "arrive_time": "15:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "惠农南",
+      "arrive_time": "13:55",
+      "depart_time": "13:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石嘴山",
+      "arrive_time": "14:12",
+      "depart_time": "14:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沙湖",
+      "arrive_time": "14:24",
+      "depart_time": "14:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "银川",
+      "arrive_time": "14:45",
+      "depart_time": "14:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "河东机场",
+      "arrive_time": "15:07",
+      "depart_time": "15:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "红寺堡北",
+      "arrive_time": "15:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "中卫南",
+      "arrive_time": "15:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 219.0,
+    "price_second": 137.0,
+    "price_no_seat": 137.0
+  },
+  "fetched_at": "2026-05-01T02:32:53.329320"
+}

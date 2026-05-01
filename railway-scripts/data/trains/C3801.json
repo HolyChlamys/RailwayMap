@@ -1,0 +1,51 @@
+{
+  "train_no": "C3801",
+  "train_type": "C",
+  "depart_station": "南通",
+  "arrive_station": "上海",
+  "depart_time": "05:53",
+  "arrive_time": "07:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南通",
+      "arrive_time": "05:53",
+      "depart_time": "05:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张家港",
+      "arrive_time": "06:18",
+      "depart_time": "06:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "常熟",
+      "arrive_time": "06:30",
+      "depart_time": "06:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "太仓",
+      "arrive_time": "06:51",
+      "depart_time": "06:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "上海",
+      "arrive_time": "07:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 135.0,
+    "price_second": 84.5,
+    "price_no_seat": 84.5
+  },
+  "fetched_at": "2026-05-01T01:04:18.734243"
+}

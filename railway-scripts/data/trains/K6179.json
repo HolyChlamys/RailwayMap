@@ -1,0 +1,35 @@
+{
+  "train_no": "K6179",
+  "train_type": "K",
+  "depart_station": "随州",
+  "arrive_station": "襄阳",
+  "depart_time": "10:04",
+  "arrive_time": "11:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "随州",
+      "arrive_time": "10:04",
+      "depart_time": "10:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枣阳",
+      "arrive_time": "11:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "襄阳",
+      "arrive_time": "11:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 23.5
+  },
+  "fetched_at": "2026-05-01T10:19:29.206441"
+}

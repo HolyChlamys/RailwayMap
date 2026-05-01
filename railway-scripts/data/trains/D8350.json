@@ -1,0 +1,30 @@
+{
+  "train_no": "D8350",
+  "train_type": "D",
+  "depart_station": "防城港北",
+  "arrive_station": "南宁东",
+  "depart_time": "13:06",
+  "arrive_time": "13:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "防城港北",
+      "arrive_time": "13:06",
+      "depart_time": "13:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁东",
+      "arrive_time": "13:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 94.0,
+    "price_second": 58.5,
+    "price_no_seat": 58.5
+  },
+  "fetched_at": "2026-05-01T04:54:59.950061"
+}

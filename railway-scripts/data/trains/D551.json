@@ -1,0 +1,93 @@
+{
+  "train_no": "D551",
+  "train_type": "D",
+  "depart_station": "通化",
+  "arrive_station": "齐齐哈尔南",
+  "depart_time": "06:25",
+  "arrive_time": "12:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "通化",
+      "arrive_time": "06:25",
+      "depart_time": "06:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长白山",
+      "arrive_time": "07:26",
+      "depart_time": "07:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "敦化",
+      "arrive_time": "08:06",
+      "depart_time": "08:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "吉林",
+      "arrive_time": "09:03",
+      "depart_time": "09:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "长春",
+      "arrive_time": "09:46",
+      "depart_time": "09:51",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "扶余北",
+      "arrive_time": "10:34",
+      "depart_time": "10:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "哈尔滨西",
+      "arrive_time": "11:06",
+      "depart_time": "11:14",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "哈尔滨",
+      "arrive_time": "11:24",
+      "depart_time": "11:28",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "哈尔滨北",
+      "arrive_time": "11:37",
+      "depart_time": "11:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "大庆东",
+      "arrive_time": "12:19",
+      "depart_time": "12:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "齐齐哈尔南",
+      "arrive_time": "12:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 746.0,
+    "price_second": 466.0,
+    "price_no_seat": 466.0
+  },
+  "fetched_at": "2026-05-01T04:08:18.220665"
+}

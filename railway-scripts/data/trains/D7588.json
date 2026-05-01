@@ -1,0 +1,100 @@
+{
+  "train_no": "D7588",
+  "train_type": "D",
+  "depart_station": "佛山西",
+  "arrive_station": "汕头",
+  "depart_time": "06:05",
+  "arrive_time": "10:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佛山西",
+      "arrive_time": "06:05",
+      "depart_time": "06:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州",
+      "arrive_time": "06:26",
+      "depart_time": "06:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州新塘",
+      "arrive_time": "07:07",
+      "depart_time": "07:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "博罗",
+      "arrive_time": "07:31",
+      "depart_time": "07:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "惠州南",
+      "arrive_time": "07:45",
+      "depart_time": "07:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "惠东",
+      "arrive_time": "07:59",
+      "depart_time": "08:06",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "汕尾",
+      "arrive_time": "08:31",
+      "depart_time": "08:34",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "陆丰东",
+      "arrive_time": "08:51",
+      "depart_time": "09:10",
+      "stay_min": "19"
+    },
+    {
+      "seq": 9,
+      "station_name": "惠来",
+      "arrive_time": "09:25",
+      "depart_time": "09:35",
+      "stay_min": "10"
+    },
+    {
+      "seq": 10,
+      "station_name": "潮南",
+      "arrive_time": "09:47",
+      "depart_time": "09:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "汕头南",
+      "arrive_time": "09:58",
+      "depart_time": "10:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "汕头",
+      "arrive_time": "10:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 436.0,
+    "price_second": 281.0,
+    "price_no_seat": 281.0
+  },
+  "fetched_at": "2026-05-01T04:41:10.250461"
+}

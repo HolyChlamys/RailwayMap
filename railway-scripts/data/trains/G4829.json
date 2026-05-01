@@ -1,0 +1,38 @@
+{
+  "train_no": "G4829",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "西安北",
+  "depart_time": "03:46",
+  "arrive_time": "04:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "03:46",
+      "depart_time": "03:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛阳龙门",
+      "arrive_time": "04:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "西安北",
+      "arrive_time": "04:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1002.0,
+    "price_first": 458.0,
+    "price_second": 286.0,
+    "price_no_seat": 286.0
+  },
+  "fetched_at": "2026-05-01T07:17:05.760380"
+}

@@ -1,0 +1,31 @@
+{
+  "train_no": "C9536",
+  "train_type": "C",
+  "depart_station": "高安",
+  "arrive_station": "南昌西",
+  "depart_time": "09:35",
+  "arrive_time": "09:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "高安",
+      "arrive_time": "09:35",
+      "depart_time": "09:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌西",
+      "arrive_time": "09:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 90.0,
+    "price_first": 41.0,
+    "price_second": 26.0,
+    "price_no_seat": 26.0
+  },
+  "fetched_at": "2026-05-01T02:48:30.949165"
+}

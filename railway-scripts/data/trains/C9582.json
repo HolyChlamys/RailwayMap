@@ -1,0 +1,87 @@
+{
+  "train_no": "C9582",
+  "train_type": "C",
+  "depart_station": "南昌西",
+  "arrive_station": "福州",
+  "depart_time": "08:57",
+  "arrive_time": "12:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "08:57",
+      "depart_time": "08:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹰潭北",
+      "arrive_time": "09:32",
+      "depart_time": "09:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "弋阳",
+      "arrive_time": "09:47",
+      "depart_time": "09:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "上饶",
+      "arrive_time": "10:12",
+      "depart_time": "10:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "武夷山北",
+      "arrive_time": "10:37",
+      "depart_time": "10:43",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "南平市",
+      "arrive_time": "10:55",
+      "depart_time": "11:00",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "建瓯西",
+      "arrive_time": "11:16",
+      "depart_time": "11:22",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "延平",
+      "arrive_time": "11:38",
+      "depart_time": "11:59",
+      "stay_min": "21"
+    },
+    {
+      "seq": 9,
+      "station_name": "古田北",
+      "arrive_time": "12:14",
+      "depart_time": "12:32",
+      "stay_min": "18"
+    },
+    {
+      "seq": 10,
+      "station_name": "福州",
+      "arrive_time": "12:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 957.0,
+    "price_first": 475.0,
+    "price_second": 289.0,
+    "price_no_seat": 289.0
+  },
+  "fetched_at": "2026-05-01T02:49:53.507220"
+}

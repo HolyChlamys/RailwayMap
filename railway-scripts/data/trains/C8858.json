@@ -1,0 +1,38 @@
+{
+  "train_no": "C8858",
+  "train_type": "C",
+  "depart_station": "深圳北",
+  "arrive_station": "惠州北",
+  "depart_time": "18:49",
+  "arrive_time": "19:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "18:49",
+      "depart_time": "18:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "仲恺",
+      "arrive_time": "19:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "19:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 185.0,
+    "price_first": 85.0,
+    "price_second": 53.0,
+    "price_no_seat": 53.0
+  },
+  "fetched_at": "2026-05-01T02:36:51.955772"
+}

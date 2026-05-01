@@ -1,0 +1,56 @@
+{
+  "train_no": "K8224",
+  "train_type": "K",
+  "depart_station": "汉中",
+  "arrive_station": "安康",
+  "depart_time": "11:40",
+  "arrive_time": "13:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉中",
+      "arrive_time": "11:40",
+      "depart_time": "11:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "治江",
+      "arrive_time": "11:58",
+      "depart_time": "11:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "城固",
+      "arrive_time": "12:09",
+      "depart_time": "12:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西乡",
+      "arrive_time": "12:57",
+      "depart_time": "12:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "石泉县",
+      "arrive_time": "13:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "安康",
+      "arrive_time": "13:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T10:37:08.311552"
+}

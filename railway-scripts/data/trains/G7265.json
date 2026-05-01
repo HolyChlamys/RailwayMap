@@ -1,0 +1,59 @@
+{
+  "train_no": "G7265",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "合肥南",
+  "depart_time": "11:20",
+  "arrive_time": "13:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "11:20",
+      "depart_time": "11:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "11:45",
+      "depart_time": "11:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡",
+      "arrive_time": "12:02",
+      "depart_time": "12:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "常州",
+      "arrive_time": "12:18",
+      "depart_time": "12:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "13:06",
+      "depart_time": "13:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "合肥南",
+      "arrive_time": "13:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 827.0,
+    "price_first": 388.0,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T08:22:23.517385"
+}

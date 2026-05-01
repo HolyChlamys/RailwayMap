@@ -1,0 +1,94 @@
+{
+  "train_no": "G1242",
+  "train_type": "G",
+  "depart_station": "沈阳",
+  "arrive_station": "济南西",
+  "depart_time": "17:06",
+  "arrive_time": "22:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "17:06",
+      "depart_time": "17:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "辽中",
+      "arrive_time": "17:37",
+      "depart_time": "17:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "锦州南",
+      "arrive_time": "18:32",
+      "depart_time": "18:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "葫芦岛北",
+      "arrive_time": "18:51",
+      "depart_time": "18:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "山海关",
+      "arrive_time": "19:34",
+      "depart_time": "19:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "秦皇岛",
+      "arrive_time": "19:51",
+      "depart_time": "19:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "北戴河",
+      "arrive_time": "20:05",
+      "depart_time": "20:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "唐山",
+      "arrive_time": "20:38",
+      "depart_time": "20:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "天津西",
+      "arrive_time": "21:16",
+      "depart_time": "21:24",
+      "stay_min": "8"
+    },
+    {
+      "seq": 10,
+      "station_name": "德州东",
+      "arrive_time": "22:17",
+      "depart_time": "22:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "济南西",
+      "arrive_time": "22:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1474.5,
+    "price_first": 703.0,
+    "price_second": 439.5,
+    "price_no_seat": 439.5
+  },
+  "fetched_at": "2026-05-01T05:37:15.920608"
+}

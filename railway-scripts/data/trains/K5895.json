@@ -1,0 +1,49 @@
+{
+  "train_no": "K5895",
+  "train_type": "K",
+  "depart_station": "鹰潭",
+  "arrive_station": "萍乡",
+  "depart_time": "05:51",
+  "arrive_time": "08:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "鹰潭",
+      "arrive_time": "05:51",
+      "depart_time": "05:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丰城",
+      "arrive_time": "07:25",
+      "depart_time": "07:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "樟树",
+      "arrive_time": "07:45",
+      "depart_time": "07:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新余",
+      "arrive_time": "08:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "萍乡",
+      "arrive_time": "08:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 53.5
+  },
+  "fetched_at": "2026-05-01T10:16:11.087799"
+}

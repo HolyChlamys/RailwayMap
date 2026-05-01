@@ -1,0 +1,66 @@
+{
+  "train_no": "G9538",
+  "train_type": "G",
+  "depart_station": "福田",
+  "arrive_station": "揭阳",
+  "depart_time": "19:53",
+  "arrive_time": "22:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福田",
+      "arrive_time": "19:53",
+      "depart_time": "19:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "20:01",
+      "depart_time": "20:06",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "河源东",
+      "arrive_time": "20:47",
+      "depart_time": "20:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "龙川西",
+      "arrive_time": "21:08",
+      "depart_time": "21:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "兴宁南",
+      "arrive_time": "21:31",
+      "depart_time": "21:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "梅州西",
+      "arrive_time": "21:46",
+      "depart_time": "21:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "揭阳",
+      "arrive_time": "22:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 909.0,
+    "price_first": 429.0,
+    "price_second": 271.0,
+    "price_no_seat": 271.0
+  },
+  "fetched_at": "2026-05-01T09:17:07.164778"
+}

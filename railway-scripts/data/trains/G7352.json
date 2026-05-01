@@ -1,0 +1,72 @@
+{
+  "train_no": "G7352",
+  "train_type": "G",
+  "depart_station": "开化",
+  "arrive_station": "杭州东",
+  "depart_time": "08:34",
+  "arrive_time": "10:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "开化",
+      "arrive_time": "08:34",
+      "depart_time": "08:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "常山",
+      "arrive_time": "08:47",
+      "depart_time": "08:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衢州西",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙游北",
+      "arrive_time": "09:23",
+      "depart_time": "09:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "建德南",
+      "arrive_time": "09:37",
+      "depart_time": "09:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "建德",
+      "arrive_time": "09:50",
+      "depart_time": "09:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "桐庐",
+      "arrive_time": "10:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "杭州东",
+      "arrive_time": "10:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 272.0,
+    "price_second": 170.0,
+    "price_no_seat": 170.0
+  },
+  "fetched_at": "2026-05-01T08:25:04.233330"
+}

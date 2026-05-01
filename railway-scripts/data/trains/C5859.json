@@ -1,0 +1,43 @@
+{
+  "train_no": "C5859",
+  "train_type": "C",
+  "depart_station": "遵义",
+  "arrive_station": "荔波",
+  "depart_time": "12:13",
+  "arrive_time": "13:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "遵义",
+      "arrive_time": "12:13",
+      "depart_time": "12:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳北",
+      "arrive_time": "13:02",
+      "depart_time": "13:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳",
+      "arrive_time": "13:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "荔波",
+      "arrive_time": "13:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 154.0,
+    "price_no_seat": 154.0
+  },
+  "fetched_at": "2026-05-01T01:40:26.221086"
+}

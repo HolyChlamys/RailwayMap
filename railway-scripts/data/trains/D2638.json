@@ -1,0 +1,79 @@
+{
+  "train_no": "D2638",
+  "train_type": "D",
+  "depart_station": "武威东",
+  "arrive_station": "西安北",
+  "depart_time": "09:36",
+  "arrive_time": "14:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武威东",
+      "arrive_time": "09:36",
+      "depart_time": "09:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "古浪北",
+      "arrive_time": "09:57",
+      "depart_time": "09:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天祝西",
+      "arrive_time": "10:23",
+      "depart_time": "10:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "兰州新区",
+      "arrive_time": "10:53",
+      "depart_time": "10:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "兰州西",
+      "arrive_time": "11:33",
+      "depart_time": "11:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "天水南",
+      "arrive_time": "12:52",
+      "depart_time": "12:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宝鸡南",
+      "arrive_time": "13:41",
+      "depart_time": "13:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "杨陵南",
+      "arrive_time": "14:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "西安北",
+      "arrive_time": "14:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 553.0,
+    "price_second": 346.0,
+    "price_no_seat": 346.0
+  },
+  "fetched_at": "2026-05-01T03:19:28.815294"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "D9869",
+  "train_type": "D",
+  "depart_station": "南昌西",
+  "arrive_station": "南城",
+  "depart_time": "08:25",
+  "arrive_time": "09:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "08:25",
+      "depart_time": "08:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚州",
+      "arrive_time": "09:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南城",
+      "arrive_time": "09:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 88.0,
+    "price_second": 55.0,
+    "price_no_seat": 55.0
+  },
+  "fetched_at": "2026-05-01T05:26:50.003662"
+}

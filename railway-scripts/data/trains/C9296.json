@@ -1,0 +1,45 @@
+{
+  "train_no": "C9296",
+  "train_type": "C",
+  "depart_station": "荆门西",
+  "arrive_station": "汉口",
+  "depart_time": "17:25",
+  "arrive_time": "18:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荆门西",
+      "arrive_time": "17:25",
+      "depart_time": "17:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "钟祥南",
+      "arrive_time": "17:43",
+      "depart_time": "17:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天门",
+      "arrive_time": "18:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "18:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 582.0,
+    "price_first": 266.0,
+    "price_second": 167.0,
+    "price_no_seat": 167.0
+  },
+  "fetched_at": "2026-05-01T02:44:30.569734"
+}

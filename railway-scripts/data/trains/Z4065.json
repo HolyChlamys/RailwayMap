@@ -1,0 +1,35 @@
+{
+  "train_no": "Z4065",
+  "train_type": "Z",
+  "depart_station": "长春",
+  "arrive_station": "哈尔滨西",
+  "depart_time": "19:33",
+  "arrive_time": "20:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "19:33",
+      "depart_time": "19:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德惠",
+      "arrive_time": "20:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "哈尔滨西",
+      "arrive_time": "20:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T11:49:07.176349"
+}

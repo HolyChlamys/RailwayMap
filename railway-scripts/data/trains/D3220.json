@@ -1,0 +1,86 @@
+{
+  "train_no": "D3220",
+  "train_type": "D",
+  "depart_station": "厦门北",
+  "arrive_station": "宁波",
+  "depart_time": "17:43",
+  "arrive_time": "21:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "17:43",
+      "depart_time": "17:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "晋江",
+      "arrive_time": "18:03",
+      "depart_time": "18:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泉州",
+      "arrive_time": "18:18",
+      "depart_time": "18:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "莆田",
+      "arrive_time": "18:47",
+      "depart_time": "18:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福清",
+      "arrive_time": "19:08",
+      "depart_time": "19:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "福州南",
+      "arrive_time": "19:29",
+      "depart_time": "19:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "罗源",
+      "arrive_time": "19:56",
+      "depart_time": "19:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "霞浦",
+      "arrive_time": "20:27",
+      "depart_time": "20:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "温州南",
+      "arrive_time": "21:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "宁波",
+      "arrive_time": "21:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 565.0,
+    "price_second": 353.0,
+    "price_no_seat": 353.0
+  },
+  "fetched_at": "2026-05-01T03:30:10.639012"
+}

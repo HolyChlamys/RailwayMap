@@ -1,0 +1,37 @@
+{
+  "train_no": "C662",
+  "train_type": "C",
+  "depart_station": "日照",
+  "arrive_station": "青岛北",
+  "depart_time": "09:07",
+  "arrive_time": "09:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "日照",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "董家口",
+      "arrive_time": "09:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "青岛北",
+      "arrive_time": "09:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 94.0,
+    "price_second": 59.0,
+    "price_no_seat": 59.0
+  },
+  "fetched_at": "2026-05-01T01:53:13.040728"
+}

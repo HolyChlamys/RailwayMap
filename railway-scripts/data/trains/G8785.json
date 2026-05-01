@@ -1,0 +1,31 @@
+{
+  "train_no": "G8785",
+  "train_type": "G",
+  "depart_station": "永川东",
+  "arrive_station": "重庆北",
+  "depart_time": "06:31",
+  "arrive_time": "06:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "永川东",
+      "arrive_time": "06:31",
+      "depart_time": "06:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "06:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 142.0,
+    "price_first": 65.0,
+    "price_second": 41.0,
+    "price_no_seat": 41.0
+  },
+  "fetched_at": "2026-05-01T09:00:26.536592"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "C5813",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "松潘",
+  "depart_time": "11:15",
+  "arrive_time": "13:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "11:15",
+      "depart_time": "11:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三星堆",
+      "arrive_time": "11:33",
+      "depart_time": "11:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "什邡西",
+      "arrive_time": "11:46",
+      "depart_time": "11:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "松潘",
+      "arrive_time": "13:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 216.0,
+    "price_second": 135.0,
+    "price_no_seat": 135.0
+  },
+  "fetched_at": "2026-05-01T01:39:05.276185"
+}

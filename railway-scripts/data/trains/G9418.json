@@ -1,0 +1,31 @@
+{
+  "train_no": "G9418",
+  "train_type": "G",
+  "depart_station": "天津西",
+  "arrive_station": "北京南",
+  "depart_time": "23:22",
+  "arrive_time": "23:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津西",
+      "arrive_time": "23:22",
+      "depart_time": "23:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北京南",
+      "arrive_time": "23:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 235.0,
+    "price_first": 107.0,
+    "price_second": 67.0,
+    "price_no_seat": 67.0
+  },
+  "fetched_at": "2026-05-01T09:13:33.116910"
+}

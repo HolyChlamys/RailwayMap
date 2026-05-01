@@ -1,0 +1,45 @@
+{
+  "train_no": "C5059",
+  "train_type": "C",
+  "depart_station": "武汉",
+  "arrive_station": "宜昌北",
+  "depart_time": "23:22",
+  "arrive_time": "01:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "23:22",
+      "depart_time": "23:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "23:43",
+      "depart_time": "23:47",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "宜昌东",
+      "arrive_time": "01:30",
+      "depart_time": "01:34",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "宜昌北",
+      "arrive_time": "01:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 547.0,
+    "price_first": 252.0,
+    "price_second": 158.0,
+    "price_no_seat": 158.0
+  },
+  "fetched_at": "2026-05-01T01:25:28.647345"
+}

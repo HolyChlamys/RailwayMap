@@ -1,0 +1,70 @@
+{
+  "train_no": "K7938",
+  "train_type": "K",
+  "depart_station": "乌海西",
+  "arrive_station": "呼和浩特",
+  "depart_time": "17:22",
+  "arrive_time": "23:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌海西",
+      "arrive_time": "17:22",
+      "depart_time": "17:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌海",
+      "arrive_time": "17:49",
+      "depart_time": "17:55",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "19:22",
+      "depart_time": "19:29",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "刘召",
+      "arrive_time": "20:06",
+      "depart_time": "20:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "锡林浩特",
+      "arrive_time": "08:08",
+      "depart_time": "08:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "乌拉山西",
+      "arrive_time": "20:43",
+      "depart_time": "20:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "包头",
+      "arrive_time": "21:59",
+      "depart_time": "22:06",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "呼和浩特",
+      "arrive_time": "23:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 78.0
+  },
+  "fetched_at": "2026-05-01T10:33:19.404365"
+}

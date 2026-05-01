@@ -1,0 +1,45 @@
+{
+  "train_no": "D8757",
+  "train_type": "D",
+  "depart_station": "大理",
+  "arrive_station": "昆明南",
+  "depart_time": "21:27",
+  "arrive_time": "23:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "21:27",
+      "depart_time": "21:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广通北",
+      "arrive_time": "22:34",
+      "depart_time": "22:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "23:27",
+      "depart_time": "23:32",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明南",
+      "arrive_time": "23:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 464.0,
+    "price_first": 247.5,
+    "price_second": 155.5,
+    "price_no_seat": 155.5
+  },
+  "fetched_at": "2026-05-01T05:04:30.273141"
+}

@@ -1,0 +1,40 @@
+{
+  "train_no": "Y450",
+  "train_type": "Y",
+  "depart_station": "库尔勒",
+  "arrive_station": "兰州",
+  "depart_time": "08:10",
+  "arrive_time": "16:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "库尔勒",
+      "arrive_time": "08:10",
+      "depart_time": "08:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吐鲁番",
+      "arrive_time": "11:40",
+      "depart_time": "11:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "哈密",
+      "arrive_time": "16:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "兰州",
+      "arrive_time": "16:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:32:45.287570"
+}

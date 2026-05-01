@@ -1,0 +1,79 @@
+{
+  "train_no": "G4634",
+  "train_type": "G",
+  "depart_station": "广州东",
+  "arrive_station": "景德镇北",
+  "depart_time": "03:48",
+  "arrive_time": "08:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "03:48",
+      "depart_time": "03:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "04:13",
+      "depart_time": "04:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "04:43",
+      "depart_time": "04:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州西",
+      "arrive_time": "06:08",
+      "depart_time": "06:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "丰城东",
+      "arrive_time": "07:28",
+      "depart_time": "07:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南昌东",
+      "arrive_time": "07:55",
+      "depart_time": "07:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "进贤北",
+      "arrive_time": "08:15",
+      "depart_time": "08:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "鄱阳",
+      "arrive_time": "08:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "景德镇北",
+      "arrive_time": "08:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 983.0,
+    "price_second": 622.0,
+    "price_no_seat": 622.0
+  },
+  "fetched_at": "2026-05-01T07:11:05.019307"
+}

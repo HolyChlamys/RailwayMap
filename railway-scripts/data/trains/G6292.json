@@ -1,0 +1,108 @@
+{
+  "train_no": "G6292",
+  "train_type": "G",
+  "depart_station": "邯郸东",
+  "arrive_station": "秦皇岛",
+  "depart_time": "12:37",
+  "arrive_time": "17:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邯郸东",
+      "arrive_time": "12:37",
+      "depart_time": "12:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邢台东",
+      "arrive_time": "12:53",
+      "depart_time": "13:15",
+      "stay_min": "22"
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "13:42",
+      "depart_time": "13:47",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "保定东",
+      "arrive_time": "14:24",
+      "depart_time": "14:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "白沟",
+      "arrive_time": "14:47",
+      "depart_time": "14:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "霸州西",
+      "arrive_time": "15:01",
+      "depart_time": "15:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "胜芳",
+      "arrive_time": "15:21",
+      "depart_time": "15:30",
+      "stay_min": "9"
+    },
+    {
+      "seq": 8,
+      "station_name": "天津西",
+      "arrive_time": "15:45",
+      "depart_time": "15:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "滨海西",
+      "arrive_time": "16:13",
+      "depart_time": "16:29",
+      "stay_min": "16"
+    },
+    {
+      "seq": 10,
+      "station_name": "滨海北",
+      "arrive_time": "16:38",
+      "depart_time": "16:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "唐山",
+      "arrive_time": "16:58",
+      "depart_time": "17:03",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "滦河",
+      "arrive_time": "17:20",
+      "depart_time": "17:31",
+      "stay_min": "11"
+    },
+    {
+      "seq": 13,
+      "station_name": "秦皇岛",
+      "arrive_time": "17:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1308.0,
+    "price_first": 608.5,
+    "price_second": 380.5,
+    "price_no_seat": 380.5
+  },
+  "fetched_at": "2026-05-01T07:54:30.110042"
+}

@@ -1,0 +1,56 @@
+{
+  "train_no": "K8724",
+  "train_type": "K",
+  "depart_station": "赣州",
+  "arrive_station": "南昌",
+  "depart_time": "09:12",
+  "arrive_time": "12:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州",
+      "arrive_time": "09:12",
+      "depart_time": "09:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴国",
+      "arrive_time": "10:04",
+      "depart_time": "10:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泰和",
+      "arrive_time": "10:59",
+      "depart_time": "10:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "吉安",
+      "arrive_time": "11:27",
+      "depart_time": "11:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "新干",
+      "arrive_time": "12:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南昌",
+      "arrive_time": "12:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 62.5
+  },
+  "fetched_at": "2026-05-01T10:40:43.610878"
+}

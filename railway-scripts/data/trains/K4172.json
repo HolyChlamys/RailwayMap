@@ -1,0 +1,63 @@
+{
+  "train_no": "K4172",
+  "train_type": "K",
+  "depart_station": "西安",
+  "arrive_station": "鄂尔多斯",
+  "depart_time": "20:48",
+  "arrive_time": "03:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "20:48",
+      "depart_time": "20:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蒲城东",
+      "arrive_time": "22:05",
+      "depart_time": "22:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄陵南",
+      "arrive_time": "23:03",
+      "depart_time": "23:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "延安",
+      "arrive_time": "00:25",
+      "depart_time": "00:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "绥德",
+      "arrive_time": "02:23",
+      "depart_time": "02:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "榆林",
+      "arrive_time": "03:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "鄂尔多斯",
+      "arrive_time": "03:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T09:49:27.485666"
+}

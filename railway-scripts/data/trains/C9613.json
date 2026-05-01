@@ -1,0 +1,45 @@
+{
+  "train_no": "C9613",
+  "train_type": "C",
+  "depart_station": "南昌西",
+  "arrive_station": "吉安西",
+  "depart_time": "22:12",
+  "arrive_time": "22:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "22:12",
+      "depart_time": "22:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丰城东",
+      "arrive_time": "22:40",
+      "depart_time": "22:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新干东",
+      "arrive_time": "22:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "吉安西",
+      "arrive_time": "22:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 333.0,
+    "price_first": 174.0,
+    "price_second": 109.0,
+    "price_no_seat": 109.0
+  },
+  "fetched_at": "2026-05-01T02:50:49.698092"
+}

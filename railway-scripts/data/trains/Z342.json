@@ -1,0 +1,84 @@
+{
+  "train_no": "Z342",
+  "train_type": "Z",
+  "depart_station": "郑州",
+  "arrive_station": "厦门北",
+  "depart_time": "18:51",
+  "arrive_time": "12:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州",
+      "arrive_time": "18:51",
+      "depart_time": "18:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开封",
+      "arrive_time": "19:30",
+      "depart_time": "19:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "商丘",
+      "arrive_time": "20:35",
+      "depart_time": "20:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "阜阳",
+      "arrive_time": "22:10",
+      "depart_time": "22:20",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "潢川",
+      "arrive_time": "23:20",
+      "depart_time": "23:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "赣州",
+      "arrive_time": "08:21",
+      "depart_time": "08:47",
+      "stay_min": "26"
+    },
+    {
+      "seq": 7,
+      "station_name": "瑞金",
+      "arrive_time": "09:50",
+      "depart_time": "09:55",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "长汀南",
+      "arrive_time": "10:14",
+      "depart_time": "10:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "龙岩",
+      "arrive_time": "11:09",
+      "depart_time": "11:14",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "厦门北",
+      "arrive_time": "12:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 201.0
+  },
+  "fetched_at": "2026-05-01T11:47:32.863201"
+}

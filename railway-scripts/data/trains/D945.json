@@ -1,0 +1,64 @@
+{
+  "train_no": "D945",
+  "train_type": "D",
+  "depart_station": "珠海",
+  "arrive_station": "成都东",
+  "depart_time": "17:55",
+  "arrive_time": "08:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海",
+      "arrive_time": "17:55",
+      "depart_time": "17:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "中山",
+      "arrive_time": "18:18",
+      "depart_time": "18:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "18:50",
+      "depart_time": "19:01",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "桂林西",
+      "arrive_time": "21:13",
+      "depart_time": "21:17",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳东",
+      "arrive_time": "23:21",
+      "depart_time": "23:25",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆西",
+      "arrive_time": "06:01",
+      "depart_time": "06:06",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "成都东",
+      "arrive_time": "08:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 648.0,
+    "price_no_seat": 648.0
+  },
+  "fetched_at": "2026-05-01T05:15:52.100204"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "G226",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "上海虹桥",
+  "depart_time": "09:20",
+  "arrive_time": "12:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "09:20",
+      "depart_time": "09:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌西",
+      "arrive_time": "10:34",
+      "depart_time": "10:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "12:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "上海虹桥",
+      "arrive_time": "12:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2003.0,
+    "price_first": 916.0,
+    "price_second": 572.0,
+    "price_no_seat": 572.0
+  },
+  "fetched_at": "2026-05-01T06:05:45.743218"
+}

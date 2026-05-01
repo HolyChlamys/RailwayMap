@@ -1,0 +1,58 @@
+{
+  "train_no": "D6112",
+  "train_type": "D",
+  "depart_station": "潼南",
+  "arrive_station": "石柱县",
+  "depart_time": "19:20",
+  "arrive_time": "21:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潼南",
+      "arrive_time": "19:20",
+      "depart_time": "19:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合川",
+      "arrive_time": "19:46",
+      "depart_time": "19:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "20:19",
+      "depart_time": "20:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长寿北",
+      "arrive_time": "20:51",
+      "depart_time": "20:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "丰都",
+      "arrive_time": "21:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "石柱县",
+      "arrive_time": "21:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 171.0,
+    "price_second": 107.0,
+    "price_no_seat": 107.0
+  },
+  "fetched_at": "2026-05-01T04:16:58.046976"
+}

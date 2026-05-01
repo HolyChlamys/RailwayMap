@@ -1,0 +1,44 @@
+{
+  "train_no": "C5043",
+  "train_type": "C",
+  "depart_station": "宜昌东",
+  "arrive_station": "武汉",
+  "depart_time": "22:58",
+  "arrive_time": "01:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "22:58",
+      "depart_time": "22:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "23:32",
+      "depart_time": "23:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "汉口",
+      "arrive_time": "01:03",
+      "depart_time": "01:07",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "武汉",
+      "arrive_time": "01:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 207.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T01:25:00.414005"
+}

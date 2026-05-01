@@ -1,0 +1,57 @@
+{
+  "train_no": "C6143",
+  "train_type": "C",
+  "depart_station": "遂宁",
+  "arrive_station": "自贡",
+  "depart_time": "14:11",
+  "arrive_time": "17:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "遂宁",
+      "arrive_time": "14:11",
+      "depart_time": "14:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大英东",
+      "arrive_time": "14:29",
+      "depart_time": "14:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "成都东",
+      "arrive_time": "15:39",
+      "depart_time": "15:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "资中西",
+      "arrive_time": "16:37",
+      "depart_time": "16:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "威远",
+      "arrive_time": "17:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "自贡",
+      "arrive_time": "17:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 143.0,
+    "price_no_seat": 143.0
+  },
+  "fetched_at": "2026-05-01T01:45:30.967427"
+}

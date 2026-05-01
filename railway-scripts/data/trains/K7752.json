@@ -1,0 +1,70 @@
+{
+  "train_no": "K7752",
+  "train_type": "K",
+  "depart_station": "石家庄",
+  "arrive_station": "承德",
+  "depart_time": "19:22",
+  "arrive_time": "05:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石家庄",
+      "arrive_time": "19:22",
+      "depart_time": "19:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "正定",
+      "arrive_time": "19:38",
+      "depart_time": "19:46",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "定州",
+      "arrive_time": "20:20",
+      "depart_time": "20:26",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "保定",
+      "arrive_time": "21:03",
+      "depart_time": "21:13",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "高碑店",
+      "arrive_time": "21:50",
+      "depart_time": "21:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "涿州",
+      "arrive_time": "22:10",
+      "depart_time": "22:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "北京丰台",
+      "arrive_time": "23:01",
+      "depart_time": "23:40",
+      "stay_min": "39"
+    },
+    {
+      "seq": 8,
+      "station_name": "承德",
+      "arrive_time": "05:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 75.0
+  },
+  "fetched_at": "2026-05-01T10:31:51.853817"
+}

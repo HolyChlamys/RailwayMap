@@ -1,0 +1,93 @@
+{
+  "train_no": "D5533",
+  "train_type": "D",
+  "depart_station": "阜阳西",
+  "arrive_station": "宁波",
+  "depart_time": "14:20",
+  "arrive_time": "19:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜阳西",
+      "arrive_time": "14:20",
+      "depart_time": "14:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "寿县",
+      "arrive_time": "15:06",
+      "depart_time": "15:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "15:59",
+      "depart_time": "15:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "巢湖东",
+      "arrive_time": "16:23",
+      "depart_time": "16:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "芜湖",
+      "arrive_time": "16:48",
+      "depart_time": "16:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宣城",
+      "arrive_time": "17:16",
+      "depart_time": "17:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广德南",
+      "arrive_time": "17:49",
+      "depart_time": "17:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "安吉",
+      "arrive_time": "18:07",
+      "depart_time": "18:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "杭州东",
+      "arrive_time": "18:49",
+      "depart_time": "18:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "余姚北",
+      "arrive_time": "19:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "宁波",
+      "arrive_time": "19:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 543.5,
+    "price_second": 340.5,
+    "price_no_seat": 340.5
+  },
+  "fetched_at": "2026-05-01T04:08:34.848318"
+}

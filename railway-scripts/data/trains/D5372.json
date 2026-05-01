@@ -1,0 +1,44 @@
+{
+  "train_no": "D5372",
+  "train_type": "D",
+  "depart_station": "武乡",
+  "arrive_station": "太原",
+  "depart_time": "18:30",
+  "arrive_time": "19:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武乡",
+      "arrive_time": "18:30",
+      "depart_time": "18:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太谷东",
+      "arrive_time": "18:57",
+      "depart_time": "18:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "太原南",
+      "arrive_time": "19:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "太原",
+      "arrive_time": "19:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 94.0,
+    "price_second": 59.0,
+    "price_no_seat": 59.0
+  },
+  "fetched_at": "2026-05-01T04:05:21.412983"
+}

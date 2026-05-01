@@ -1,0 +1,38 @@
+{
+  "train_no": "G9710",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "佛山西",
+  "depart_time": "02:10",
+  "arrive_time": "02:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "02:10",
+      "depart_time": "02:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "02:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "佛山西",
+      "arrive_time": "02:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 250.5,
+    "price_first": 122.5,
+    "price_second": 89.5,
+    "price_no_seat": 89.5
+  },
+  "fetched_at": "2026-05-01T09:21:56.123633"
+}

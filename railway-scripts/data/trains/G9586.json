@@ -1,0 +1,38 @@
+{
+  "train_no": "G9586",
+  "train_type": "G",
+  "depart_station": "黔江",
+  "arrive_station": "重庆东",
+  "depart_time": "11:31",
+  "arrive_time": "12:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黔江",
+      "arrive_time": "11:31",
+      "depart_time": "11:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武隆南",
+      "arrive_time": "12:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆东",
+      "arrive_time": "12:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 551.0,
+    "price_first": 252.0,
+    "price_second": 157.0,
+    "price_no_seat": 157.0
+  },
+  "fetched_at": "2026-05-01T09:18:27.540487"
+}

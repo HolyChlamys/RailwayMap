@@ -1,0 +1,70 @@
+{
+  "train_no": "K4013",
+  "train_type": "K",
+  "depart_station": "郑州",
+  "arrive_station": "信阳",
+  "depart_time": "12:01",
+  "arrive_time": "15:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州",
+      "arrive_time": "12:01",
+      "depart_time": "12:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "许昌",
+      "arrive_time": "13:04",
+      "depart_time": "13:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "临颍",
+      "arrive_time": "13:27",
+      "depart_time": "13:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "漯河",
+      "arrive_time": "13:57",
+      "depart_time": "13:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西平",
+      "arrive_time": "14:17",
+      "depart_time": "14:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "驻马店",
+      "arrive_time": "14:49",
+      "depart_time": "14:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "确山",
+      "arrive_time": "15:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "信阳",
+      "arrive_time": "15:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 46.5
+  },
+  "fetched_at": "2026-05-01T09:45:17.202767"
+}

@@ -1,0 +1,84 @@
+{
+  "train_no": "K4231",
+  "train_type": "K",
+  "depart_station": "达州",
+  "arrive_station": "广州白云",
+  "depart_time": "03:04",
+  "arrive_time": "07:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "达州",
+      "arrive_time": "03:04",
+      "depart_time": "03:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广安",
+      "arrive_time": "04:24",
+      "depart_time": "04:29",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "06:09",
+      "depart_time": "06:41",
+      "stay_min": "32"
+    },
+    {
+      "seq": 4,
+      "station_name": "涪陵",
+      "arrive_time": "07:49",
+      "depart_time": "07:54",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "彭水",
+      "arrive_time": "09:23",
+      "depart_time": "09:29",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "黔江",
+      "arrive_time": "10:12",
+      "depart_time": "10:18",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "酉阳",
+      "arrive_time": "11:13",
+      "depart_time": "11:18",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "秀山",
+      "arrive_time": "11:49",
+      "depart_time": "11:55",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "怀化",
+      "arrive_time": "14:55",
+      "depart_time": "15:03",
+      "stay_min": "8"
+    },
+    {
+      "seq": 10,
+      "station_name": "广州白云",
+      "arrive_time": "07:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 217.0
+  },
+  "fetched_at": "2026-05-01T09:50:42.114016"
+}

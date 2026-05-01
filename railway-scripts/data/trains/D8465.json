@@ -1,0 +1,51 @@
+{
+  "train_no": "D8465",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "崇左南",
+  "depart_time": "18:16",
+  "arrive_time": "19:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "18:16",
+      "depart_time": "18:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁",
+      "arrive_time": "18:30",
+      "depart_time": "18:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吴圩机场",
+      "arrive_time": "18:48",
+      "depart_time": "18:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "扶绥南",
+      "arrive_time": "19:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "崇左南",
+      "arrive_time": "19:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 111.0,
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T04:57:55.106451"
+}

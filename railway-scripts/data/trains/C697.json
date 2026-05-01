@@ -1,0 +1,45 @@
+{
+  "train_no": "C697",
+  "train_type": "C",
+  "depart_station": "宁波",
+  "arrive_station": "金华",
+  "depart_time": "13:29",
+  "arrive_time": "15:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "13:29",
+      "depart_time": "13:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嵊州新昌",
+      "arrive_time": "14:32",
+      "depart_time": "14:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "义乌",
+      "arrive_time": "15:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "金华",
+      "arrive_time": "15:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 329.0,
+    "price_first": 151.0,
+    "price_second": 94.0,
+    "price_no_seat": 94.0
+  },
+  "fetched_at": "2026-05-01T02:01:53.392530"
+}

@@ -1,0 +1,66 @@
+{
+  "train_no": "G1729",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "大冶北",
+  "depart_time": "16:55",
+  "arrive_time": "21:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "16:55",
+      "depart_time": "16:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "17:56",
+      "depart_time": "17:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "18:46",
+      "depart_time": "18:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "武汉",
+      "arrive_time": "20:29",
+      "depart_time": "20:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "鄂州",
+      "arrive_time": "20:57",
+      "depart_time": "20:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "黄石北",
+      "arrive_time": "21:10",
+      "depart_time": "21:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "大冶北",
+      "arrive_time": "21:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1319.0,
+    "price_first": 656.0,
+    "price_second": 411.0,
+    "price_no_seat": 411.0
+  },
+  "fetched_at": "2026-05-01T05:51:07.574062"
+}

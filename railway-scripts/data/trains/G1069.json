@@ -1,0 +1,94 @@
+{
+  "train_no": "G1069",
+  "train_type": "G",
+  "depart_station": "北京南",
+  "arrive_station": "青岛",
+  "depart_time": "12:31",
+  "arrive_time": "17:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京南",
+      "arrive_time": "12:31",
+      "depart_time": "12:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "廊坊",
+      "arrive_time": "12:54",
+      "depart_time": "12:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天津南",
+      "arrive_time": "13:14",
+      "depart_time": "13:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "济南西",
+      "arrive_time": "14:21",
+      "depart_time": "14:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "济南",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "大明湖",
+      "arrive_time": "14:49",
+      "depart_time": "14:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "淄博",
+      "arrive_time": "15:31",
+      "depart_time": "15:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "潍坊",
+      "arrive_time": "16:11",
+      "depart_time": "16:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "高密",
+      "arrive_time": "16:46",
+      "depart_time": "16:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "青岛北",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "青岛",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1329.0,
+    "price_first": 608.0,
+    "price_second": 380.0,
+    "price_no_seat": 380.0
+  },
+  "fetched_at": "2026-05-01T05:32:03.288494"
+}

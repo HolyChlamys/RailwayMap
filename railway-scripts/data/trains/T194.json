@@ -1,0 +1,77 @@
+{
+  "train_no": "T194",
+  "train_type": "T",
+  "depart_station": "沈阳北",
+  "arrive_station": "太原",
+  "depart_time": "17:43",
+  "arrive_time": "07:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "17:43",
+      "depart_time": "17:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "锦州南",
+      "arrive_time": "19:38",
+      "depart_time": "19:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "葫芦岛北",
+      "arrive_time": "20:04",
+      "depart_time": "20:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "山海关",
+      "arrive_time": "21:21",
+      "depart_time": "21:29",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "秦皇岛",
+      "arrive_time": "21:49",
+      "depart_time": "21:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "唐山",
+      "arrive_time": "23:23",
+      "depart_time": "23:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "天津",
+      "arrive_time": "00:40",
+      "depart_time": "00:46",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "石家庄北",
+      "arrive_time": "05:04",
+      "depart_time": "05:14",
+      "stay_min": "10"
+    },
+    {
+      "seq": 9,
+      "station_name": "太原",
+      "arrive_time": "07:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 163.5
+  },
+  "fetched_at": "2026-05-01T11:22:53.150359"
+}

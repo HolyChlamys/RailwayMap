@@ -1,0 +1,42 @@
+{
+  "train_no": "K5026",
+  "train_type": "K",
+  "depart_station": "庄河北",
+  "arrive_station": "大连",
+  "depart_time": "13:55",
+  "arrive_time": "15:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "庄河北",
+      "arrive_time": "13:55",
+      "depart_time": "13:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "皮口",
+      "arrive_time": "14:41",
+      "depart_time": "14:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金州",
+      "arrive_time": "15:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大连",
+      "arrive_time": "15:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 24.5
+  },
+  "fetched_at": "2026-05-01T10:02:07.762721"
+}

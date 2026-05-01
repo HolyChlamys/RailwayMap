@@ -1,0 +1,52 @@
+{
+  "train_no": "C52",
+  "train_type": "C",
+  "depart_station": "攀枝花南",
+  "arrive_station": "成都南",
+  "depart_time": "18:32",
+  "arrive_time": "20:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "攀枝花南",
+      "arrive_time": "18:32",
+      "depart_time": "18:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "盐边",
+      "arrive_time": "18:51",
+      "depart_time": "18:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "米易东",
+      "arrive_time": "19:14",
+      "depart_time": "19:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西昌西",
+      "arrive_time": "20:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都南",
+      "arrive_time": "20:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 670.0,
+    "price_first": 307.0,
+    "price_second": 191.0,
+    "price_no_seat": 191.0
+  },
+  "fetched_at": "2026-05-01T01:29:23.281394"
+}

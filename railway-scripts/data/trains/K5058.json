@@ -1,0 +1,42 @@
+{
+  "train_no": "K5058",
+  "train_type": "K",
+  "depart_station": "昌图",
+  "arrive_station": "沈阳",
+  "depart_time": "09:17",
+  "arrive_time": "10:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昌图",
+      "arrive_time": "09:17",
+      "depart_time": "09:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开原",
+      "arrive_time": "09:40",
+      "depart_time": "09:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "铁岭",
+      "arrive_time": "10:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳",
+      "arrive_time": "10:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 21.5
+  },
+  "fetched_at": "2026-05-01T10:02:55.632595"
+}

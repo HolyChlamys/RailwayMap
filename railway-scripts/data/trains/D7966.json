@@ -1,0 +1,80 @@
+{
+  "train_no": "D7966",
+  "train_type": "D",
+  "depart_station": "佳木斯",
+  "arrive_station": "哈尔滨",
+  "depart_time": "12:10",
+  "arrive_time": "15:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佳木斯",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "双鸭山西",
+      "arrive_time": "12:37",
+      "depart_time": "12:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "七台河西",
+      "arrive_time": "13:18",
+      "depart_time": "13:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鸡西西",
+      "arrive_time": "13:41",
+      "depart_time": "13:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "牡丹江",
+      "arrive_time": "14:29",
+      "depart_time": "14:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "海林北",
+      "arrive_time": "14:42",
+      "depart_time": "14:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "亚布力西",
+      "arrive_time": "15:08",
+      "depart_time": "15:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "尚志南",
+      "arrive_time": "15:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "哈尔滨",
+      "arrive_time": "15:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 919.0,
+    "price_first": 446.0,
+    "price_second": 278.0,
+    "price_no_seat": 278.0
+  },
+  "fetched_at": "2026-05-01T04:48:25.273134"
+}

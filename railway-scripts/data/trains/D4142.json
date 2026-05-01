@@ -1,0 +1,79 @@
+{
+  "train_no": "D4142",
+  "train_type": "D",
+  "depart_station": "佛山西",
+  "arrive_station": "南宁东",
+  "depart_time": "19:05",
+  "arrive_time": "21:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佛山西",
+      "arrive_time": "19:05",
+      "depart_time": "19:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三水南",
+      "arrive_time": "19:32",
+      "depart_time": "19:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "肇庆东",
+      "arrive_time": "19:49",
+      "depart_time": "19:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南江口",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "梧州南",
+      "arrive_time": "20:52",
+      "depart_time": "20:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "平南南",
+      "arrive_time": "21:20",
+      "depart_time": "21:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "桂平",
+      "arrive_time": "21:36",
+      "depart_time": "21:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "贵港",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "南宁东",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 376.0,
+    "price_second": 235.0,
+    "price_no_seat": 235.0
+  },
+  "fetched_at": "2026-05-01T03:44:24.564816"
+}

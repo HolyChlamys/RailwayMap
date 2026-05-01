@@ -1,0 +1,33 @@
+{
+  "train_no": "Z4191",
+  "train_type": "Z",
+  "depart_station": "武昌",
+  "arrive_station": "长沙",
+  "depart_time": "10:30",
+  "arrive_time": "12:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "10:30",
+      "depart_time": "10:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "岳阳",
+      "arrive_time": "12:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙",
+      "arrive_time": "12:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:49:22.192948"
+}

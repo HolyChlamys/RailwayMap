@@ -1,0 +1,73 @@
+{
+  "train_no": "G4862",
+  "train_type": "G",
+  "depart_station": "福州",
+  "arrive_station": "上海南",
+  "depart_time": "20:29",
+  "arrive_time": "23:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "20:29",
+      "depart_time": "20:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延平",
+      "arrive_time": "21:07",
+      "depart_time": "21:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "建瓯西",
+      "arrive_time": "21:25",
+      "depart_time": "21:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南平市",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武夷山北",
+      "arrive_time": "22:01",
+      "depart_time": "22:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "金华",
+      "arrive_time": "23:08",
+      "depart_time": "23:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "杭州东",
+      "arrive_time": "23:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "上海南",
+      "arrive_time": "23:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1451.0,
+    "price_first": 701.0,
+    "price_second": 430.0,
+    "price_no_seat": 430.0
+  },
+  "fetched_at": "2026-05-01T07:18:05.267811"
+}

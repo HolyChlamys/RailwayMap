@@ -1,0 +1,66 @@
+{
+  "train_no": "G2996",
+  "train_type": "G",
+  "depart_station": "六盘水",
+  "arrive_station": "铜仁",
+  "depart_time": "12:28",
+  "arrive_time": "15:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "六盘水",
+      "arrive_time": "12:28",
+      "depart_time": "12:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "冷坝",
+      "arrive_time": "12:50",
+      "depart_time": "12:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长箐",
+      "arrive_time": "13:01",
+      "depart_time": "13:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "六枝南",
+      "arrive_time": "13:14",
+      "depart_time": "13:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "14:13",
+      "depart_time": "14:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "铜仁南",
+      "arrive_time": "15:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "铜仁",
+      "arrive_time": "15:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 959.0,
+    "price_first": 455.0,
+    "price_second": 284.0,
+    "price_no_seat": 284.0
+  },
+  "fetched_at": "2026-05-01T06:25:54.953758"
+}

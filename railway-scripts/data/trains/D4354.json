@@ -1,0 +1,72 @@
+{
+  "train_no": "D4354",
+  "train_type": "D",
+  "depart_station": "北海",
+  "arrive_station": "广州南",
+  "depart_time": "22:23",
+  "arrive_time": "02:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北海",
+      "arrive_time": "22:23",
+      "depart_time": "22:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁东",
+      "arrive_time": "23:21",
+      "depart_time": "23:41",
+      "stay_min": "20"
+    },
+    {
+      "seq": 3,
+      "station_name": "宾阳",
+      "arrive_time": "00:06",
+      "depart_time": "00:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵港",
+      "arrive_time": "00:28",
+      "depart_time": "00:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "桂平",
+      "arrive_time": "00:49",
+      "depart_time": "00:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "平南南",
+      "arrive_time": "01:04",
+      "depart_time": "01:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "梧州南",
+      "arrive_time": "01:33",
+      "depart_time": "01:37",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "02:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 540.0,
+    "price_second": 337.0,
+    "price_no_seat": 337.0
+  },
+  "fetched_at": "2026-05-01T03:48:35.464244"
+}

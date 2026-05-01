@@ -1,0 +1,44 @@
+{
+  "train_no": "D4362",
+  "train_type": "D",
+  "depart_station": "珠海",
+  "arrive_station": "梧州南",
+  "depart_time": "02:46",
+  "arrive_time": "04:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海",
+      "arrive_time": "02:46",
+      "depart_time": "02:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "03:49",
+      "depart_time": "03:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "佛山西",
+      "arrive_time": "04:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "梧州南",
+      "arrive_time": "04:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 265.0,
+    "price_second": 179.0,
+    "price_no_seat": 179.0
+  },
+  "fetched_at": "2026-05-01T03:48:48.571041"
+}

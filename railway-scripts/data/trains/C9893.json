@@ -1,0 +1,57 @@
+{
+  "train_no": "C9893",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "阳江",
+  "depart_time": "12:09",
+  "arrive_time": "13:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "12:09",
+      "depart_time": "12:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新会",
+      "arrive_time": "12:39",
+      "depart_time": "12:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "江门",
+      "arrive_time": "12:47",
+      "depart_time": "12:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "双水镇",
+      "arrive_time": "13:01",
+      "depart_time": "13:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "恩平",
+      "arrive_time": "13:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "阳江",
+      "arrive_time": "13:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 135.0,
+    "price_no_seat": 135.0
+  },
+  "fetched_at": "2026-05-01T02:53:26.763417"
+}

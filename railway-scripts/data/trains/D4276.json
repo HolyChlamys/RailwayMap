@@ -1,0 +1,45 @@
+{
+  "train_no": "D4276",
+  "train_type": "D",
+  "depart_station": "晋城东",
+  "arrive_station": "太原南",
+  "depart_time": "22:28",
+  "arrive_time": "23:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "晋城东",
+      "arrive_time": "22:28",
+      "depart_time": "22:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长治东",
+      "arrive_time": "23:00",
+      "depart_time": "23:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "榆社西",
+      "arrive_time": "23:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "太原南",
+      "arrive_time": "23:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 520.0,
+    "price_first": 238.0,
+    "price_second": 149.0,
+    "price_no_seat": 149.0
+  },
+  "fetched_at": "2026-05-01T03:46:43.227182"
+}

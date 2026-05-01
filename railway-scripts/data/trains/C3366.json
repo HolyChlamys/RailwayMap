@@ -1,0 +1,57 @@
+{
+  "train_no": "C3366",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "雅安",
+  "depart_time": "14:45",
+  "arrive_time": "16:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "14:45",
+      "depart_time": "14:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都南",
+      "arrive_time": "14:55",
+      "depart_time": "14:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "温江",
+      "arrive_time": "15:17",
+      "depart_time": "15:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "大邑",
+      "arrive_time": "15:31",
+      "depart_time": "15:34",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "朝阳湖",
+      "arrive_time": "15:53",
+      "depart_time": "15:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "雅安",
+      "arrive_time": "16:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 66.0,
+    "price_no_seat": 66.0
+  },
+  "fetched_at": "2026-05-01T00:57:37.169850"
+}

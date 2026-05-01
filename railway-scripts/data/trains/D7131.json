@@ -1,0 +1,36 @@
+{
+  "train_no": "D7131",
+  "train_type": "D",
+  "depart_station": "佛山西",
+  "arrive_station": "珠海",
+  "depart_time": "13:26",
+  "arrive_time": "13:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佛山西",
+      "arrive_time": "13:26",
+      "depart_time": "13:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "13:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "珠海",
+      "arrive_time": "13:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 85.0,
+    "price_no_seat": 85.0
+  },
+  "fetched_at": "2026-05-01T04:33:57.775672"
+}

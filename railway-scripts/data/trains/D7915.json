@@ -1,0 +1,51 @@
+{
+  "train_no": "D7915",
+  "train_type": "D",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "双鸭山西",
+  "depart_time": "05:42",
+  "arrive_time": "08:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "05:42",
+      "depart_time": "05:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "哈尔滨",
+      "arrive_time": "05:52",
+      "depart_time": "05:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "依兰",
+      "arrive_time": "07:23",
+      "depart_time": "07:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "佳木斯",
+      "arrive_time": "07:59",
+      "depart_time": "08:04",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "双鸭山西",
+      "arrive_time": "08:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 257.0,
+    "price_second": 161.0,
+    "price_no_seat": 161.0
+  },
+  "fetched_at": "2026-05-01T04:47:27.537058"
+}

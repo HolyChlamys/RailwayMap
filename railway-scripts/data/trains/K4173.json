@@ -1,0 +1,42 @@
+{
+  "train_no": "K4173",
+  "train_type": "K",
+  "depart_station": "杭州",
+  "arrive_station": "衢州",
+  "depart_time": "22:52",
+  "arrive_time": "01:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州",
+      "arrive_time": "22:52",
+      "depart_time": "22:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "义乌",
+      "arrive_time": "00:30",
+      "depart_time": "00:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金华",
+      "arrive_time": "01:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "衢州",
+      "arrive_time": "01:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T09:49:29.140251"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "G2731",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "深圳北",
+  "depart_time": "09:16",
+  "arrive_time": "13:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "09:16",
+      "depart_time": "09:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "樟树东",
+      "arrive_time": "09:50",
+      "depart_time": "09:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吉安西",
+      "arrive_time": "10:20",
+      "depart_time": "10:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泰和",
+      "arrive_time": "10:34",
+      "depart_time": "10:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "赣州西",
+      "arrive_time": "11:17",
+      "depart_time": "11:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "信丰西",
+      "arrive_time": "11:36",
+      "depart_time": "11:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "仲恺",
+      "arrive_time": "12:55",
+      "depart_time": "12:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "光明城",
+      "arrive_time": "13:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳北",
+      "arrive_time": "13:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1593.0,
+    "price_first": 776.0,
+    "price_second": 485.0,
+    "price_no_seat": 485.0
+  },
+  "fetched_at": "2026-05-01T06:18:47.683563"
+}

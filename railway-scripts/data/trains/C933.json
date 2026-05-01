@@ -1,0 +1,30 @@
+{
+  "train_no": "C933",
+  "train_type": "C",
+  "depart_station": "太原南",
+  "arrive_station": "吕梁",
+  "depart_time": "10:50",
+  "arrive_time": "10:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "10:50",
+      "depart_time": "10:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吕梁",
+      "arrive_time": "10:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 102.0,
+    "price_second": 64.0,
+    "price_no_seat": 64.0
+  },
+  "fetched_at": "2026-05-01T02:45:28.096543"
+}

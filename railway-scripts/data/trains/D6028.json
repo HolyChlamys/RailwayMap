@@ -1,0 +1,59 @@
+{
+  "train_no": "D6028",
+  "train_type": "D",
+  "depart_station": "青岛",
+  "arrive_station": "济南东",
+  "depart_time": "13:39",
+  "arrive_time": "15:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛",
+      "arrive_time": "13:39",
+      "depart_time": "13:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高密",
+      "arrive_time": "14:34",
+      "depart_time": "14:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊",
+      "arrive_time": "15:11",
+      "depart_time": "15:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "昌乐",
+      "arrive_time": "15:26",
+      "depart_time": "15:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "淄博",
+      "arrive_time": "15:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "济南东",
+      "arrive_time": "15:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 490.0,
+    "price_first": 226.0,
+    "price_second": 141.0,
+    "price_no_seat": 141.0
+  },
+  "fetched_at": "2026-05-01T04:15:20.949269"
+}

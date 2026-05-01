@@ -1,0 +1,87 @@
+{
+  "train_no": "G9237",
+  "train_type": "G",
+  "depart_station": "徐州东",
+  "arrive_station": "上海虹桥",
+  "depart_time": "08:36",
+  "arrive_time": "12:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "徐州东",
+      "arrive_time": "08:36",
+      "depart_time": "08:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "观音机场",
+      "arrive_time": "08:53",
+      "depart_time": "08:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宿迁",
+      "arrive_time": "09:16",
+      "depart_time": "09:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "淮安东",
+      "arrive_time": "09:48",
+      "depart_time": "09:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "扬州东",
+      "arrive_time": "10:30",
+      "depart_time": "10:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "常州",
+      "arrive_time": "11:11",
+      "depart_time": "11:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "无锡新区",
+      "arrive_time": "11:32",
+      "depart_time": "11:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "苏州",
+      "arrive_time": "11:47",
+      "depart_time": "11:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "昆山南",
+      "arrive_time": "12:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "上海虹桥",
+      "arrive_time": "12:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1038.0,
+    "price_first": 496.0,
+    "price_second": 311.0,
+    "price_no_seat": 311.0
+  },
+  "fetched_at": "2026-05-01T09:08:51.739459"
+}

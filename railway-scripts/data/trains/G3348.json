@@ -1,0 +1,80 @@
+{
+  "train_no": "G3348",
+  "train_type": "G",
+  "depart_station": "襄阳东",
+  "arrive_station": "深圳",
+  "depart_time": "06:40",
+  "arrive_time": "14:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳东",
+      "arrive_time": "06:40",
+      "depart_time": "06:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜城",
+      "arrive_time": "06:53",
+      "depart_time": "06:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "荆门西",
+      "arrive_time": "07:19",
+      "depart_time": "07:39",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "天门",
+      "arrive_time": "08:10",
+      "depart_time": "08:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汉口",
+      "arrive_time": "08:49",
+      "depart_time": "08:58",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "武汉",
+      "arrive_time": "09:21",
+      "depart_time": "09:28",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "南昌西",
+      "arrive_time": "11:14",
+      "depart_time": "11:20",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "赣州西",
+      "arrive_time": "12:57",
+      "depart_time": "13:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳",
+      "arrive_time": "14:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2997.0,
+    "price_first": 1437.0,
+    "price_second": 908.0,
+    "price_no_seat": 908.0
+  },
+  "fetched_at": "2026-05-01T06:35:35.477323"
+}

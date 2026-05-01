@@ -1,0 +1,66 @@
+{
+  "train_no": "G8307",
+  "train_type": "G",
+  "depart_station": "淮北",
+  "arrive_station": "连云港",
+  "depart_time": "17:14",
+  "arrive_time": "19:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "淮北",
+      "arrive_time": "17:14",
+      "depart_time": "17:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "萧县北",
+      "arrive_time": "17:36",
+      "depart_time": "17:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "17:55",
+      "depart_time": "18:00",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "邳州东",
+      "arrive_time": "18:22",
+      "depart_time": "18:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "新沂南",
+      "arrive_time": "18:35",
+      "depart_time": "18:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "东海县",
+      "arrive_time": "18:52",
+      "depart_time": "18:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "连云港",
+      "arrive_time": "19:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 475.0,
+    "price_first": 220.0,
+    "price_second": 138.0,
+    "price_no_seat": 138.0
+  },
+  "fetched_at": "2026-05-01T08:47:35.109779"
+}

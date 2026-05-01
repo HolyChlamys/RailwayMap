@@ -1,0 +1,35 @@
+{
+  "train_no": "K9320",
+  "train_type": "K",
+  "depart_station": "金城江",
+  "arrive_station": "柳州",
+  "depart_time": "15:58",
+  "arrive_time": "16:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "金城江",
+      "arrive_time": "15:58",
+      "depart_time": "15:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜州",
+      "arrive_time": "16:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "柳州",
+      "arrive_time": "16:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 24.5
+  },
+  "fetched_at": "2026-05-01T10:43:52.755273"
+}

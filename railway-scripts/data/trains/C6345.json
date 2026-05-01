@@ -1,0 +1,85 @@
+{
+  "train_no": "C6345",
+  "train_type": "C",
+  "depart_station": "峨眉山",
+  "arrive_station": "青城山",
+  "depart_time": "18:01",
+  "arrive_time": "20:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "峨眉山",
+      "arrive_time": "18:01",
+      "depart_time": "18:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乐山",
+      "arrive_time": "18:17",
+      "depart_time": "18:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "成都东",
+      "arrive_time": "11:35",
+      "depart_time": "11:44",
+      "stay_min": "9"
+    },
+    {
+      "seq": 4,
+      "station_name": "成都南",
+      "arrive_time": "19:06",
+      "depart_time": "19:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "新津",
+      "arrive_time": "12:04",
+      "depart_time": "12:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "成都东",
+      "arrive_time": "19:18",
+      "depart_time": "19:22",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "乐山",
+      "arrive_time": "12:36",
+      "depart_time": "12:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "犀浦",
+      "arrive_time": "19:48",
+      "depart_time": "19:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "都江堰",
+      "arrive_time": "20:09",
+      "depart_time": "20:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "青城山",
+      "arrive_time": "20:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 88.0,
+    "price_no_seat": 88.0
+  },
+  "fetched_at": "2026-05-01T01:49:41.835922"
+}

@@ -1,0 +1,91 @@
+{
+  "train_no": "K6736",
+  "train_type": "K",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "和田",
+  "depart_time": "19:14",
+  "arrive_time": "20:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "19:14",
+      "depart_time": "19:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "和硕",
+      "arrive_time": "23:33",
+      "depart_time": "23:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "库尔勒",
+      "arrive_time": "01:04",
+      "depart_time": "01:29",
+      "stay_min": "25"
+    },
+    {
+      "seq": 4,
+      "station_name": "库车",
+      "arrive_time": "04:40",
+      "depart_time": "04:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "阿克苏",
+      "arrive_time": "08:38",
+      "depart_time": "08:52",
+      "stay_min": "14"
+    },
+    {
+      "seq": 6,
+      "station_name": "巴楚",
+      "arrive_time": "11:08",
+      "depart_time": "11:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "喀什",
+      "arrive_time": "14:00",
+      "depart_time": "14:25",
+      "stay_min": "25"
+    },
+    {
+      "seq": 8,
+      "station_name": "莎车",
+      "arrive_time": "16:16",
+      "depart_time": "16:23",
+      "stay_min": "7"
+    },
+    {
+      "seq": 9,
+      "station_name": "泽普",
+      "arrive_time": "16:40",
+      "depart_time": "17:10",
+      "stay_min": "30"
+    },
+    {
+      "seq": 10,
+      "station_name": "墨玉",
+      "arrive_time": "20:12",
+      "depart_time": "20:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "和田",
+      "arrive_time": "20:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 217.0
+  },
+  "fetched_at": "2026-05-01T10:25:34.810793"
+}

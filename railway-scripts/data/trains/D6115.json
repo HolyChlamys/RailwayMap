@@ -1,0 +1,37 @@
+{
+  "train_no": "D6115",
+  "train_type": "D",
+  "depart_station": "石柱县",
+  "arrive_station": "重庆北",
+  "depart_time": "21:01",
+  "arrive_time": "21:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石柱县",
+      "arrive_time": "21:01",
+      "depart_time": "21:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "涪陵北",
+      "arrive_time": "21:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "21:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 108.0,
+    "price_second": 68.0,
+    "price_no_seat": 68.0
+  },
+  "fetched_at": "2026-05-01T04:17:03.057539"
+}

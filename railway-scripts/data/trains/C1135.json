@@ -1,0 +1,37 @@
+{
+  "train_no": "C1135",
+  "train_type": "C",
+  "depart_station": "沈阳",
+  "arrive_station": "通辽",
+  "depart_time": "10:53",
+  "arrive_time": "12:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "10:53",
+      "depart_time": "10:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "甘旗卡",
+      "arrive_time": "11:54",
+      "depart_time": "11:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "通辽",
+      "arrive_time": "12:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 159.0,
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T00:22:01.865647"
+}

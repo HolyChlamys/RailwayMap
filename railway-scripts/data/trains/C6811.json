@@ -1,0 +1,36 @@
+{
+  "train_no": "C6811",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "江门",
+  "depart_time": "22:34",
+  "arrive_time": "23:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "22:34",
+      "depart_time": "22:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江门东",
+      "arrive_time": "23:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "江门",
+      "arrive_time": "23:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 40.0,
+    "price_no_seat": 40.0
+  },
+  "fetched_at": "2026-05-01T01:57:17.321649"
+}

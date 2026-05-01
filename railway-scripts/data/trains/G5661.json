@@ -1,0 +1,33 @@
+{
+  "train_no": "G5661",
+  "train_type": "G",
+  "depart_station": "广州",
+  "arrive_station": "湛江北",
+  "depart_time": "00:28",
+  "arrive_time": "01:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "00:28",
+      "depart_time": "00:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "茂名南",
+      "arrive_time": "01:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "湛江北",
+      "arrive_time": "01:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T07:39:57.840434"
+}

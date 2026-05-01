@@ -1,0 +1,71 @@
+{
+  "train_no": "C7231",
+  "train_type": "C",
+  "depart_station": "海口",
+  "arrive_station": "三亚",
+  "depart_time": "06:25",
+  "arrive_time": "08:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "海口",
+      "arrive_time": "06:25",
+      "depart_time": "06:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东方",
+      "arrive_time": "07:33",
+      "depart_time": "07:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "尖峰",
+      "arrive_time": "07:54",
+      "depart_time": "07:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄流",
+      "arrive_time": "08:03",
+      "depart_time": "08:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乐东",
+      "arrive_time": "08:13",
+      "depart_time": "08:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "崖州",
+      "arrive_time": "08:31",
+      "depart_time": "08:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "凤凰机场",
+      "arrive_time": "08:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "三亚",
+      "arrive_time": "08:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 129.0,
+    "price_no_seat": 129.0
+  },
+  "fetched_at": "2026-05-01T02:09:42.194709"
+}

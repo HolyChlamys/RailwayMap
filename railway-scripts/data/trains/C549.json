@@ -1,0 +1,51 @@
+{
+  "train_no": "C549",
+  "train_type": "C",
+  "depart_station": "大连",
+  "arrive_station": "沈阳",
+  "depart_time": "17:46",
+  "arrive_time": "21:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连",
+      "arrive_time": "17:46",
+      "depart_time": "17:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "瓦房店",
+      "arrive_time": "18:57",
+      "depart_time": "18:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大石桥",
+      "arrive_time": "20:28",
+      "depart_time": "20:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鞍山",
+      "arrive_time": "21:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳",
+      "arrive_time": "21:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 235.0,
+    "price_second": 147.0,
+    "price_no_seat": 147.0
+  },
+  "fetched_at": "2026-05-01T01:33:36.131487"
+}

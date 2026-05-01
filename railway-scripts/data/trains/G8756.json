@@ -1,0 +1,58 @@
+{
+  "train_no": "G8756",
+  "train_type": "G",
+  "depart_station": "安顺西",
+  "arrive_station": "重庆西",
+  "depart_time": "07:27",
+  "arrive_time": "10:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安顺西",
+      "arrive_time": "07:27",
+      "depart_time": "07:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳北",
+      "arrive_time": "08:03",
+      "depart_time": "08:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "息烽",
+      "arrive_time": "08:29",
+      "depart_time": "08:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "遵义",
+      "arrive_time": "09:01",
+      "depart_time": "09:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "綦江东",
+      "arrive_time": "10:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆西",
+      "arrive_time": "10:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 311.0,
+    "price_second": 195.0,
+    "price_no_seat": 195.0
+  },
+  "fetched_at": "2026-05-01T08:59:37.056181"
+}

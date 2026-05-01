@@ -1,0 +1,49 @@
+{
+  "train_no": "T4321",
+  "train_type": "T",
+  "depart_station": "南昌",
+  "arrive_station": "宜春",
+  "depart_time": "18:48",
+  "arrive_time": "20:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "18:48",
+      "depart_time": "18:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丰城",
+      "arrive_time": "19:49",
+      "depart_time": "19:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "樟树",
+      "arrive_time": "20:10",
+      "depart_time": "20:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新余",
+      "arrive_time": "20:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜春",
+      "arrive_time": "20:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T11:25:37.146297"
+}

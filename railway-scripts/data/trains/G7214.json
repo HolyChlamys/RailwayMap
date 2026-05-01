@@ -1,0 +1,37 @@
+{
+  "train_no": "G7214",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "苏州",
+  "depart_time": "21:20",
+  "arrive_time": "21:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "21:20",
+      "depart_time": "21:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "21:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "21:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 74.0,
+    "price_second": 46.0,
+    "price_no_seat": 46.0
+  },
+  "fetched_at": "2026-05-01T08:20:48.460227"
+}

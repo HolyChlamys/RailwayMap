@@ -1,0 +1,44 @@
+{
+  "train_no": "S5505",
+  "train_type": "S",
+  "depart_station": "万州北",
+  "arrive_station": "重庆北",
+  "depart_time": "08:32",
+  "arrive_time": "09:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "万州北",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "垫江",
+      "arrive_time": "09:09",
+      "depart_time": "09:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长寿北",
+      "arrive_time": "09:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆北",
+      "arrive_time": "09:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 188.0,
+    "price_second": 117.0,
+    "price_no_seat": 117.0
+  },
+  "fetched_at": "2026-05-01T11:07:26.762566"
+}

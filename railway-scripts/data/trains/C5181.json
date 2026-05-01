@@ -1,0 +1,45 @@
+{
+  "train_no": "C5181",
+  "train_type": "C",
+  "depart_station": "鹰潭北",
+  "arrive_station": "南昌西",
+  "depart_time": "07:48",
+  "arrive_time": "08:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "鹰潭北",
+      "arrive_time": "07:48",
+      "depart_time": "07:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚州东",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "进贤南",
+      "arrive_time": "08:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌西",
+      "arrive_time": "08:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 270.0,
+    "price_first": 123.0,
+    "price_second": 77.0,
+    "price_no_seat": 77.0
+  },
+  "fetched_at": "2026-05-01T01:28:51.921837"
+}

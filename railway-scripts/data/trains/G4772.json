@@ -1,0 +1,31 @@
+{
+  "train_no": "G4772",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "郑州东",
+  "depart_time": "03:06",
+  "arrive_time": "03:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "03:06",
+      "depart_time": "03:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "03:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2387.5,
+    "price_first": 1152.5,
+    "price_second": 720.0,
+    "price_no_seat": 720.0
+  },
+  "fetched_at": "2026-05-01T07:15:17.405226"
+}

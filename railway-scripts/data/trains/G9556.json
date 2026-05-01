@@ -1,0 +1,44 @@
+{
+  "train_no": "G9556",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "天府机场",
+  "depart_time": "06:30",
+  "arrive_time": "08:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "06:30",
+      "depart_time": "06:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泸州",
+      "arrive_time": "07:07",
+      "depart_time": "07:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "自贡",
+      "arrive_time": "07:40",
+      "depart_time": "07:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "天府机场",
+      "arrive_time": "08:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 293.0,
+    "price_second": 183.0,
+    "price_no_seat": 183.0
+  },
+  "fetched_at": "2026-05-01T09:17:40.592015"
+}

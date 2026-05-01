@@ -1,0 +1,59 @@
+{
+  "train_no": "G6920",
+  "train_type": "G",
+  "depart_station": "青岛",
+  "arrive_station": "济南东",
+  "depart_time": "17:59",
+  "arrive_time": "19:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛",
+      "arrive_time": "17:59",
+      "depart_time": "17:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛北",
+      "arrive_time": "18:19",
+      "depart_time": "18:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "高密北",
+      "arrive_time": "18:49",
+      "depart_time": "18:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潍坊北",
+      "arrive_time": "19:11",
+      "depart_time": "19:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "临淄北",
+      "arrive_time": "19:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "济南东",
+      "arrive_time": "19:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 489.0,
+    "price_first": 254.0,
+    "price_second": 159.0,
+    "price_no_seat": 159.0
+  },
+  "fetched_at": "2026-05-01T08:12:48.586948"
+}

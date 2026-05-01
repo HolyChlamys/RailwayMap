@@ -1,0 +1,42 @@
+{
+  "train_no": "K6623",
+  "train_type": "K",
+  "depart_station": "广州白云",
+  "arrive_station": "深圳东",
+  "depart_time": "14:07",
+  "arrive_time": "16:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "14:07",
+      "depart_time": "14:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州",
+      "arrive_time": "14:28",
+      "depart_time": "14:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东莞",
+      "arrive_time": "16:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳东",
+      "arrive_time": "16:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 52.5
+  },
+  "fetched_at": "2026-05-01T10:24:26.541036"
+}

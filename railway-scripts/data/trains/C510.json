@@ -1,0 +1,58 @@
+{
+  "train_no": "C510",
+  "train_type": "C",
+  "depart_station": "白城",
+  "arrive_station": "长春",
+  "depart_time": "15:03",
+  "arrive_time": "17:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "白城",
+      "arrive_time": "15:03",
+      "depart_time": "15:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "到保",
+      "arrive_time": "15:26",
+      "depart_time": "15:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "安广",
+      "arrive_time": "15:52",
+      "depart_time": "15:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "松原",
+      "arrive_time": "16:43",
+      "depart_time": "16:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "农安",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长春",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 197.0,
+    "price_second": 123.0,
+    "price_no_seat": 123.0
+  },
+  "fetched_at": "2026-05-01T01:26:36.262660"
+}

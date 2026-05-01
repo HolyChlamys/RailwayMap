@@ -1,0 +1,114 @@
+{
+  "train_no": "D2346",
+  "train_type": "D",
+  "depart_station": "福州南",
+  "arrive_station": "东莞南",
+  "depart_time": "12:03",
+  "arrive_time": "17:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州南",
+      "arrive_time": "12:03",
+      "depart_time": "12:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福清",
+      "arrive_time": "12:17",
+      "depart_time": "12:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "莆田",
+      "arrive_time": "12:38",
+      "depart_time": "12:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "仙游",
+      "arrive_time": "12:52",
+      "depart_time": "12:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "泉州",
+      "arrive_time": "13:12",
+      "depart_time": "13:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "厦门北",
+      "arrive_time": "13:39",
+      "depart_time": "13:43",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "云霄",
+      "arrive_time": "14:25",
+      "depart_time": "14:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "饶平",
+      "arrive_time": "14:45",
+      "depart_time": "14:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "潮汕",
+      "arrive_time": "15:02",
+      "depart_time": "15:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "普宁",
+      "arrive_time": "15:21",
+      "depart_time": "15:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "鲘门",
+      "arrive_time": "16:00",
+      "depart_time": "16:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "惠阳",
+      "arrive_time": "16:23",
+      "depart_time": "16:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "深圳北",
+      "arrive_time": "16:51",
+      "depart_time": "16:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "东莞南",
+      "arrive_time": "17:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 553.0,
+    "price_second": 346.0,
+    "price_no_seat": 346.0
+  },
+  "fetched_at": "2026-05-01T03:15:28.111072"
+}

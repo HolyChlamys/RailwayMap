@@ -1,0 +1,51 @@
+{
+  "train_no": "G8784",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "成都东",
+  "depart_time": "07:44",
+  "arrive_time": "08:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "07:44",
+      "depart_time": "07:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "璧山",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "荣昌北",
+      "arrive_time": "08:27",
+      "depart_time": "08:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "内江北",
+      "arrive_time": "08:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "08:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 266.0,
+    "price_second": 166.0,
+    "price_no_seat": 166.0
+  },
+  "fetched_at": "2026-05-01T09:00:24.887499"
+}

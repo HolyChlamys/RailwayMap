@@ -1,0 +1,64 @@
+{
+  "train_no": "C2906",
+  "train_type": "C",
+  "depart_station": "新郑机场",
+  "arrive_station": "开封",
+  "depart_time": "16:09",
+  "arrive_time": "17:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "新郑机场",
+      "arrive_time": "16:09",
+      "depart_time": "16:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孟庄",
+      "arrive_time": "16:18",
+      "depart_time": "16:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南曹",
+      "arrive_time": "16:33",
+      "depart_time": "16:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "16:46",
+      "depart_time": "16:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "绿博园",
+      "arrive_time": "16:58",
+      "depart_time": "16:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宋城路",
+      "arrive_time": "17:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "开封",
+      "arrive_time": "17:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 43.0,
+    "price_no_seat": 43.0
+  },
+  "fetched_at": "2026-05-01T00:46:31.282580"
+}

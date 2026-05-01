@@ -1,0 +1,31 @@
+{
+  "train_no": "C5182",
+  "train_type": "C",
+  "depart_station": "南昌西",
+  "arrive_station": "鹰潭北",
+  "depart_time": "06:49",
+  "arrive_time": "06:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "06:49",
+      "depart_time": "06:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹰潭北",
+      "arrive_time": "06:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 270.0,
+    "price_first": 123.0,
+    "price_second": 77.0,
+    "price_no_seat": 77.0
+  },
+  "fetched_at": "2026-05-01T01:28:53.560296"
+}

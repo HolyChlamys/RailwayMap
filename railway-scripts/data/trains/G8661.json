@@ -1,0 +1,66 @@
+{
+  "train_no": "G8661",
+  "train_type": "G",
+  "depart_station": "德阳",
+  "arrive_station": "沙坪坝",
+  "depart_time": "11:12",
+  "arrive_time": "13:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "德阳",
+      "arrive_time": "11:12",
+      "depart_time": "11:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广汉北",
+      "arrive_time": "11:23",
+      "depart_time": "11:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "成都东",
+      "arrive_time": "11:46",
+      "depart_time": "11:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "内江北",
+      "arrive_time": "12:23",
+      "depart_time": "12:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "隆昌北",
+      "arrive_time": "12:41",
+      "depart_time": "12:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "大足南",
+      "arrive_time": "13:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "沙坪坝",
+      "arrive_time": "13:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 687.0,
+    "price_first": 314.0,
+    "price_second": 196.0,
+    "price_no_seat": 196.0
+  },
+  "fetched_at": "2026-05-01T08:57:11.975968"
+}

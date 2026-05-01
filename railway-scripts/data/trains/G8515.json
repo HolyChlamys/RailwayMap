@@ -1,0 +1,30 @@
+{
+  "train_no": "G8515",
+  "train_type": "G",
+  "depart_station": "永川东",
+  "arrive_station": "沙坪坝",
+  "depart_time": "07:32",
+  "arrive_time": "07:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "永川东",
+      "arrive_time": "07:32",
+      "depart_time": "07:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沙坪坝",
+      "arrive_time": "07:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 48.0,
+    "price_second": 30.0,
+    "price_no_seat": 30.0
+  },
+  "fetched_at": "2026-05-01T08:53:15.807046"
+}

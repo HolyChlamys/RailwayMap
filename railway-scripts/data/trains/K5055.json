@@ -1,0 +1,42 @@
+{
+  "train_no": "K5055",
+  "train_type": "K",
+  "depart_station": "阜新南",
+  "arrive_station": "沈阳",
+  "depart_time": "16:46",
+  "arrive_time": "17:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜新南",
+      "arrive_time": "16:46",
+      "depart_time": "16:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新邱",
+      "arrive_time": "17:06",
+      "depart_time": "17:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新立屯",
+      "arrive_time": "17:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳",
+      "arrive_time": "17:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T10:02:50.700841"
+}

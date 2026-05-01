@@ -1,0 +1,44 @@
+{
+  "train_no": "C3147",
+  "train_type": "C",
+  "depart_station": "南京",
+  "arrive_station": "徐州东",
+  "depart_time": "04:19",
+  "arrive_time": "06:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "04:19",
+      "depart_time": "04:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮安东",
+      "arrive_time": "05:40",
+      "depart_time": "05:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "宿迁",
+      "arrive_time": "06:12",
+      "depart_time": "06:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "徐州东",
+      "arrive_time": "06:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 360.0,
+    "price_second": 226.0,
+    "price_no_seat": 226.0
+  },
+  "fetched_at": "2026-05-01T00:52:21.310511"
+}

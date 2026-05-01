@@ -1,0 +1,28 @@
+{
+  "train_no": "K4561",
+  "train_type": "K",
+  "depart_station": "安康",
+  "arrive_station": "广州白云",
+  "depart_time": "13:51",
+  "arrive_time": "12:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安康",
+      "arrive_time": "13:51",
+      "depart_time": "13:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州白云",
+      "arrive_time": "12:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 198.0
+  },
+  "fetched_at": "2026-05-01T09:55:35.909523"
+}

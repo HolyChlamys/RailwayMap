@@ -1,0 +1,77 @@
+{
+  "train_no": "K5295",
+  "train_type": "K",
+  "depart_station": "天津",
+  "arrive_station": "邯郸",
+  "depart_time": "10:27",
+  "arrive_time": "17:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津",
+      "arrive_time": "10:27",
+      "depart_time": "10:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "保定",
+      "arrive_time": "13:17",
+      "depart_time": "13:22",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "保定",
+      "arrive_time": "13:12",
+      "depart_time": "13:17",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "石家庄",
+      "arrive_time": "14:47",
+      "depart_time": "14:59",
+      "stay_min": "12"
+    },
+    {
+      "seq": 5,
+      "station_name": "石家庄",
+      "arrive_time": "14:43",
+      "depart_time": "14:58",
+      "stay_min": "15"
+    },
+    {
+      "seq": 6,
+      "station_name": "邢台",
+      "arrive_time": "16:23",
+      "depart_time": "16:27",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "邢台",
+      "arrive_time": "16:25",
+      "depart_time": "16:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "邯郸",
+      "arrive_time": "17:05",
+      "depart_time": "17:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "邯郸",
+      "arrive_time": "17:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T10:07:47.444320"
+}

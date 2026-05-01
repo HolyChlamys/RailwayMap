@@ -1,0 +1,42 @@
+{
+  "train_no": "K7157",
+  "train_type": "K",
+  "depart_station": "鸡西",
+  "arrive_station": "虎林",
+  "depart_time": "18:55",
+  "arrive_time": "20:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "鸡西",
+      "arrive_time": "18:55",
+      "depart_time": "18:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东海",
+      "arrive_time": "19:34",
+      "depart_time": "19:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "密山",
+      "arrive_time": "20:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "虎林",
+      "arrive_time": "20:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T10:28:48.567534"
+}

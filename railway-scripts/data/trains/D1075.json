@@ -1,0 +1,79 @@
+{
+  "train_no": "D1075",
+  "train_type": "D",
+  "depart_station": "清河",
+  "arrive_station": "包头",
+  "depart_time": "18:08",
+  "arrive_time": "21:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清河",
+      "arrive_time": "18:08",
+      "depart_time": "18:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀来",
+      "arrive_time": "18:43",
+      "depart_time": "18:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "张家口",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "兴和北",
+      "arrive_time": "19:47",
+      "depart_time": "19:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乌兰察布",
+      "arrive_time": "20:09",
+      "depart_time": "20:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "呼和浩特",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "察素齐",
+      "arrive_time": "21:21",
+      "depart_time": "21:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "包头东",
+      "arrive_time": "21:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "包头",
+      "arrive_time": "21:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 385.0,
+    "price_second": 239.5,
+    "price_no_seat": 239.5
+  },
+  "fetched_at": "2026-05-01T02:57:17.975502"
+}

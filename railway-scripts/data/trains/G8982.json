@@ -1,0 +1,115 @@
+{
+  "train_no": "G8982",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "上海南",
+  "depart_time": "14:28",
+  "arrive_time": "19:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "14:28",
+      "depart_time": "14:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "上海西",
+      "arrive_time": "14:34",
+      "depart_time": "14:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州园区",
+      "arrive_time": "14:57",
+      "depart_time": "14:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "苏州",
+      "arrive_time": "15:06",
+      "depart_time": "15:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "戚墅堰",
+      "arrive_time": "15:30",
+      "depart_time": "15:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "丹阳",
+      "arrive_time": "15:52",
+      "depart_time": "15:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "镇江",
+      "arrive_time": "16:06",
+      "depart_time": "16:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "南京南",
+      "arrive_time": "16:35",
+      "depart_time": "16:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "马鞍山东",
+      "arrive_time": "16:53",
+      "depart_time": "16:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "芜湖",
+      "arrive_time": "17:12",
+      "depart_time": "17:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "宣城",
+      "arrive_time": "17:43",
+      "depart_time": "17:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "湖州南浔",
+      "arrive_time": "18:33",
+      "depart_time": "18:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "练塘",
+      "arrive_time": "18:55",
+      "depart_time": "18:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "上海南",
+      "arrive_time": "19:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1318.0,
+    "price_first": 627.0,
+    "price_second": 391.0,
+    "price_no_seat": 391.0
+  },
+  "fetched_at": "2026-05-01T09:05:08.910571"
+}

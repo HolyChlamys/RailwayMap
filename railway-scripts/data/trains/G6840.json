@@ -1,0 +1,59 @@
+{
+  "train_no": "G6840",
+  "train_type": "G",
+  "depart_station": "襄阳东",
+  "arrive_station": "汉口",
+  "depart_time": "07:41",
+  "arrive_time": "09:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳东",
+      "arrive_time": "07:41",
+      "depart_time": "07:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枣阳",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "随州南",
+      "arrive_time": "08:24",
+      "depart_time": "08:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "云梦东",
+      "arrive_time": "08:50",
+      "depart_time": "08:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "孝感东",
+      "arrive_time": "09:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "汉口",
+      "arrive_time": "09:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 451.0,
+    "price_first": 241.0,
+    "price_second": 150.0,
+    "price_no_seat": 150.0
+  },
+  "fetched_at": "2026-05-01T08:10:27.008401"
+}

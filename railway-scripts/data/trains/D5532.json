@@ -1,0 +1,72 @@
+{
+  "train_no": "D5532",
+  "train_type": "D",
+  "depart_station": "杭州东",
+  "arrive_station": "阜阳西",
+  "depart_time": "10:37",
+  "arrive_time": "13:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "10:37",
+      "depart_time": "10:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "湖州",
+      "arrive_time": "11:01",
+      "depart_time": "11:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宣城",
+      "arrive_time": "11:42",
+      "depart_time": "11:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖",
+      "arrive_time": "12:12",
+      "depart_time": "12:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥南",
+      "arrive_time": "13:01",
+      "depart_time": "13:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "合肥西",
+      "arrive_time": "13:16",
+      "depart_time": "13:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "淮南南",
+      "arrive_time": "13:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "阜阳西",
+      "arrive_time": "13:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 433.5,
+    "price_second": 271.5,
+    "price_no_seat": 271.5
+  },
+  "fetched_at": "2026-05-01T04:08:33.160975"
+}

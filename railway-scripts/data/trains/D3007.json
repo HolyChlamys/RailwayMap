@@ -1,0 +1,128 @@
+{
+  "train_no": "D3007",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "宜昌东",
+  "depart_time": "13:53",
+  "arrive_time": "21:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "13:53",
+      "depart_time": "13:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "14:12",
+      "depart_time": "14:18",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "14:31",
+      "depart_time": "14:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "14:49",
+      "depart_time": "14:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "15:06",
+      "depart_time": "15:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "15:59",
+      "depart_time": "16:05",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "全椒",
+      "arrive_time": "16:25",
+      "depart_time": "16:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "合肥南",
+      "arrive_time": "16:59",
+      "depart_time": "17:03",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "六安",
+      "arrive_time": "17:27",
+      "depart_time": "17:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "金寨",
+      "arrive_time": "17:49",
+      "depart_time": "17:57",
+      "stay_min": "8"
+    },
+    {
+      "seq": 11,
+      "station_name": "麻城北",
+      "arrive_time": "18:30",
+      "depart_time": "18:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "汉口",
+      "arrive_time": "19:17",
+      "depart_time": "19:35",
+      "stay_min": "18"
+    },
+    {
+      "seq": 13,
+      "station_name": "天门南",
+      "arrive_time": "20:10",
+      "depart_time": "20:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "潜江",
+      "arrive_time": "20:32",
+      "depart_time": "20:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "荆州",
+      "arrive_time": "21:00",
+      "depart_time": "21:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "宜昌东",
+      "arrive_time": "21:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 797.0,
+    "price_second": 499.0,
+    "price_no_seat": 499.0
+  },
+  "fetched_at": "2026-05-01T03:26:34.024813"
+}

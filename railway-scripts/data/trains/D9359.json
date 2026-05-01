@@ -1,0 +1,30 @@
+{
+  "train_no": "D9359",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "仙桃",
+  "depart_time": "04:35",
+  "arrive_time": "04:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "04:35",
+      "depart_time": "04:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "仙桃",
+      "arrive_time": "04:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 65.0,
+    "price_second": 42.0,
+    "price_no_seat": 42.0
+  },
+  "fetched_at": "2026-05-01T05:14:12.883714"
+}

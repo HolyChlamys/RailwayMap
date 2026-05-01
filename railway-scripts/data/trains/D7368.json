@@ -1,0 +1,65 @@
+{
+  "train_no": "D7368",
+  "train_type": "D",
+  "depart_station": "东莞南",
+  "arrive_station": "汕尾",
+  "depart_time": "16:09",
+  "arrive_time": "17:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东莞南",
+      "arrive_time": "16:09",
+      "depart_time": "16:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "16:31",
+      "depart_time": "16:40",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳坪山",
+      "arrive_time": "16:57",
+      "depart_time": "16:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "惠阳",
+      "arrive_time": "17:08",
+      "depart_time": "17:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "惠东南",
+      "arrive_time": "17:22",
+      "depart_time": "17:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "鲘门",
+      "arrive_time": "17:38",
+      "depart_time": "17:45",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "汕尾",
+      "arrive_time": "17:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 115.0,
+    "price_second": 73.0,
+    "price_no_seat": 73.0
+  },
+  "fetched_at": "2026-05-01T04:37:29.592343"
+}

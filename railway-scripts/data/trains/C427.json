@@ -1,0 +1,79 @@
+{
+  "train_no": "C427",
+  "train_type": "C",
+  "depart_station": "启东",
+  "arrive_station": "南京",
+  "depart_time": "13:58",
+  "arrive_time": "17:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "启东",
+      "arrive_time": "13:58",
+      "depart_time": "13:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海门",
+      "arrive_time": "14:20",
+      "depart_time": "14:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南通",
+      "arrive_time": "14:43",
+      "depart_time": "14:49",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "如皋",
+      "arrive_time": "15:15",
+      "depart_time": "15:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "海安",
+      "arrive_time": "15:28",
+      "depart_time": "15:31",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "泰州",
+      "arrive_time": "15:57",
+      "depart_time": "16:00",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "江都",
+      "arrive_time": "16:19",
+      "depart_time": "16:30",
+      "stay_min": "11"
+    },
+    {
+      "seq": 8,
+      "station_name": "扬州",
+      "arrive_time": "16:48",
+      "depart_time": "16:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "南京",
+      "arrive_time": "17:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 200.0,
+    "price_second": 126.0,
+    "price_no_seat": 126.0
+  },
+  "fetched_at": "2026-05-01T01:12:08.829737"
+}

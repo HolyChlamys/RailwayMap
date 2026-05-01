@@ -1,0 +1,40 @@
+{
+  "train_no": "G5421",
+  "train_type": "G",
+  "depart_station": "威远",
+  "arrive_station": "重庆西",
+  "depart_time": "22:28",
+  "arrive_time": "23:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "威远",
+      "arrive_time": "22:28",
+      "depart_time": "22:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "自贡",
+      "arrive_time": "22:39",
+      "depart_time": "22:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "泸州",
+      "arrive_time": "23:09",
+      "depart_time": "23:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆西",
+      "arrive_time": "23:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T07:33:33.922365"
+}

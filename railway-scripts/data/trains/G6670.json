@@ -1,0 +1,59 @@
+{
+  "train_no": "G6670",
+  "train_type": "G",
+  "depart_station": "周口东",
+  "arrive_station": "郑州东",
+  "depart_time": "11:27",
+  "arrive_time": "12:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "周口东",
+      "arrive_time": "11:27",
+      "depart_time": "11:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西华",
+      "arrive_time": "11:39",
+      "depart_time": "11:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄢陵",
+      "arrive_time": "12:03",
+      "depart_time": "12:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州航空港",
+      "arrive_time": "12:27",
+      "depart_time": "12:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "新郑机场",
+      "arrive_time": "12:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州东",
+      "arrive_time": "12:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 245.0,
+    "price_first": 130.0,
+    "price_second": 82.0,
+    "price_no_seat": 82.0
+  },
+  "fetched_at": "2026-05-01T08:05:28.346060"
+}

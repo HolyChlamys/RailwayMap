@@ -1,0 +1,77 @@
+{
+  "train_no": "K5141",
+  "train_type": "K",
+  "depart_station": "依安",
+  "arrive_station": "哈尔滨东",
+  "depart_time": "03:53",
+  "arrive_time": "11:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "依安",
+      "arrive_time": "03:53",
+      "depart_time": "03:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北安",
+      "arrive_time": "05:12",
+      "depart_time": "05:20",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "扎音河",
+      "arrive_time": "06:38",
+      "depart_time": "06:49",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "海伦",
+      "arrive_time": "07:05",
+      "depart_time": "07:10",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "绥棱",
+      "arrive_time": "07:39",
+      "depart_time": "07:47",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "四方台",
+      "arrive_time": "08:34",
+      "depart_time": "08:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "秦家",
+      "arrive_time": "08:52",
+      "depart_time": "09:10",
+      "stay_min": "18"
+    },
+    {
+      "seq": 8,
+      "station_name": "绥化",
+      "arrive_time": "09:35",
+      "depart_time": "09:41",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "哈尔滨东",
+      "arrive_time": "11:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 64.5
+  },
+  "fetched_at": "2026-05-01T10:04:44.332428"
+}

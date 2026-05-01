@@ -1,0 +1,136 @@
+{
+  "train_no": "G2069",
+  "train_type": "G",
+  "depart_station": "青岛",
+  "arrive_station": "郑州航空港",
+  "depart_time": "15:25",
+  "arrive_time": "22:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛",
+      "arrive_time": "15:25",
+      "depart_time": "15:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛北",
+      "arrive_time": "15:44",
+      "depart_time": "15:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "淄博北",
+      "arrive_time": "16:50",
+      "depart_time": "16:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南东",
+      "arrive_time": "17:15",
+      "depart_time": "17:19",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "禹城东",
+      "arrive_time": "17:39",
+      "depart_time": "17:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "德州东",
+      "arrive_time": "17:57",
+      "depart_time": "18:06",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "衡水北",
+      "arrive_time": "18:33",
+      "depart_time": "18:37",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "辛集南",
+      "arrive_time": "18:53",
+      "depart_time": "18:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "石家庄东",
+      "arrive_time": "19:14",
+      "depart_time": "19:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "石家庄",
+      "arrive_time": "19:31",
+      "depart_time": "19:41",
+      "stay_min": "10"
+    },
+    {
+      "seq": 11,
+      "station_name": "高邑西",
+      "arrive_time": "19:57",
+      "depart_time": "19:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "邢台东",
+      "arrive_time": "20:17",
+      "depart_time": "20:28",
+      "stay_min": "11"
+    },
+    {
+      "seq": 13,
+      "station_name": "邯郸东",
+      "arrive_time": "20:44",
+      "depart_time": "20:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "安阳东",
+      "arrive_time": "21:04",
+      "depart_time": "21:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "鹤壁东",
+      "arrive_time": "21:21",
+      "depart_time": "21:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "郑州东",
+      "arrive_time": "21:55",
+      "depart_time": "22:00",
+      "stay_min": "5"
+    },
+    {
+      "seq": 17,
+      "station_name": "郑州航空港",
+      "arrive_time": "22:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1695.0,
+    "price_first": 842.0,
+    "price_second": 526.0,
+    "price_no_seat": 526.0
+  },
+  "fetched_at": "2026-05-01T06:00:49.940932"
+}

@@ -1,0 +1,122 @@
+{
+  "train_no": "G2757",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "张家港",
+  "depart_time": "07:23",
+  "arrive_time": "14:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "07:23",
+      "depart_time": "07:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "醴陵东",
+      "arrive_time": "07:45",
+      "depart_time": "07:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "萍乡北",
+      "arrive_time": "08:01",
+      "depart_time": "08:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌西",
+      "arrive_time": "08:59",
+      "depart_time": "09:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "抚州东",
+      "arrive_time": "09:28",
+      "depart_time": "09:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "鹰潭北",
+      "arrive_time": "09:44",
+      "depart_time": "09:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "上饶",
+      "arrive_time": "10:16",
+      "depart_time": "10:34",
+      "stay_min": "18"
+    },
+    {
+      "seq": 8,
+      "station_name": "黄山北",
+      "arrive_time": "11:16",
+      "depart_time": "11:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "宣城",
+      "arrive_time": "12:02",
+      "depart_time": "12:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "芜湖",
+      "arrive_time": "12:29",
+      "depart_time": "12:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "南京南",
+      "arrive_time": "13:03",
+      "depart_time": "13:16",
+      "stay_min": "13"
+    },
+    {
+      "seq": 12,
+      "station_name": "句容",
+      "arrive_time": "13:33",
+      "depart_time": "13:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "武进",
+      "arrive_time": "13:57",
+      "depart_time": "13:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "江阴",
+      "arrive_time": "14:13",
+      "depart_time": "14:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "张家港",
+      "arrive_time": "14:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2313.5,
+    "price_first": 1088.0,
+    "price_second": 675.0,
+    "price_no_seat": 675.0
+  },
+  "fetched_at": "2026-05-01T06:19:30.628261"
+}

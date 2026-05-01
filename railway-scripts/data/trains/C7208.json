@@ -1,0 +1,73 @@
+{
+  "train_no": "C7208",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "饶平",
+  "depart_time": "16:18",
+  "arrive_time": "19:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "16:18",
+      "depart_time": "16:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门",
+      "arrive_time": "16:35",
+      "depart_time": "16:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "16:54",
+      "depart_time": "16:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳坪山",
+      "arrive_time": "17:16",
+      "depart_time": "17:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "17:52",
+      "depart_time": "17:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "潮阳",
+      "arrive_time": "18:30",
+      "depart_time": "18:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "潮汕",
+      "arrive_time": "18:45",
+      "depart_time": "18:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "饶平",
+      "arrive_time": "19:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 736.5,
+    "price_first": 345.5,
+    "price_second": 228.5,
+    "price_no_seat": 228.5
+  },
+  "fetched_at": "2026-05-01T02:09:01.085944"
+}

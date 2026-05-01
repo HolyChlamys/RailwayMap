@@ -1,0 +1,35 @@
+{
+  "train_no": "Y555",
+  "train_type": "Y",
+  "depart_station": "西安",
+  "arrive_station": "万源",
+  "depart_time": "08:00",
+  "arrive_time": "13:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安康",
+      "arrive_time": "11:33",
+      "depart_time": "11:50",
+      "stay_min": "17"
+    },
+    {
+      "seq": 3,
+      "station_name": "万源",
+      "arrive_time": "13:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 21.5
+  },
+  "fetched_at": "2026-05-01T11:35:11.099072"
+}

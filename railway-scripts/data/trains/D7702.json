@@ -1,0 +1,45 @@
+{
+  "train_no": "D7702",
+  "train_type": "D",
+  "depart_station": "庄河北",
+  "arrive_station": "大连北",
+  "depart_time": "10:28",
+  "arrive_time": "11:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "庄河北",
+      "arrive_time": "10:28",
+      "depart_time": "10:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "皮口",
+      "arrive_time": "10:53",
+      "depart_time": "10:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金州",
+      "arrive_time": "11:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大连北",
+      "arrive_time": "11:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 162.0,
+    "price_first": 86.5,
+    "price_second": 54.0,
+    "price_no_seat": 54.0
+  },
+  "fetched_at": "2026-05-01T04:43:04.392571"
+}

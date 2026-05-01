@@ -1,0 +1,56 @@
+{
+  "train_no": "T4354",
+  "train_type": "T",
+  "depart_station": "乌苏",
+  "arrive_station": "乌鲁木齐南",
+  "depart_time": "19:28",
+  "arrive_time": "22:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌苏",
+      "arrive_time": "19:28",
+      "depart_time": "19:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "奎屯",
+      "arrive_time": "19:42",
+      "depart_time": "19:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沙湾市",
+      "arrive_time": "20:15",
+      "depart_time": "20:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "石河子",
+      "arrive_time": "20:43",
+      "depart_time": "20:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "22:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "乌鲁木齐南",
+      "arrive_time": "22:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T11:25:45.412918"
+}

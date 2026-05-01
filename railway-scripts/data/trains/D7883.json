@@ -1,0 +1,43 @@
+{
+  "train_no": "D7883",
+  "train_type": "D",
+  "depart_station": "焦作西",
+  "arrive_station": "郑州",
+  "depart_time": "14:49",
+  "arrive_time": "15:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "焦作西",
+      "arrive_time": "14:49",
+      "depart_time": "14:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "焦作",
+      "arrive_time": "15:04",
+      "depart_time": "15:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "修武西",
+      "arrive_time": "15:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州",
+      "arrive_time": "15:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 52.0,
+    "price_no_seat": 52.0
+  },
+  "fetched_at": "2026-05-01T04:46:44.603929"
+}

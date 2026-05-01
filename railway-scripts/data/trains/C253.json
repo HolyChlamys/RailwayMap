@@ -1,0 +1,44 @@
+{
+  "train_no": "C253",
+  "train_type": "C",
+  "depart_station": "曹妃甸港",
+  "arrive_station": "唐山",
+  "depart_time": "20:27",
+  "arrive_time": "21:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "曹妃甸港",
+      "arrive_time": "20:27",
+      "depart_time": "20:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "唐海南",
+      "arrive_time": "20:44",
+      "depart_time": "20:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "南堡北",
+      "arrive_time": "20:59",
+      "depart_time": "21:15",
+      "stay_min": "16"
+    },
+    {
+      "seq": 4,
+      "station_name": "唐山",
+      "arrive_time": "21:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 43.0,
+    "price_second": 27.0,
+    "price_no_seat": 27.0
+  },
+  "fetched_at": "2026-05-01T00:39:53.425145"
+}

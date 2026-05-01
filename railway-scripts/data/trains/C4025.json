@@ -1,0 +1,37 @@
+{
+  "train_no": "C4025",
+  "train_type": "C",
+  "depart_station": "达州",
+  "arrive_station": "成都南",
+  "depart_time": "03:20",
+  "arrive_time": "06:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "达州",
+      "arrive_time": "03:20",
+      "depart_time": "03:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都东",
+      "arrive_time": "06:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "成都南",
+      "arrive_time": "06:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 184.0,
+    "price_second": 115.0,
+    "price_no_seat": 115.0
+  },
+  "fetched_at": "2026-05-01T01:06:23.959912"
+}

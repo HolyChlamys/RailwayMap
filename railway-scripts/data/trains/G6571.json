@@ -1,0 +1,73 @@
+{
+  "train_no": "G6571",
+  "train_type": "G",
+  "depart_station": "香港西九龙",
+  "arrive_station": "汕头",
+  "depart_time": "11:58",
+  "arrive_time": "14:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香港西九龙",
+      "arrive_time": "11:58",
+      "depart_time": "11:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "12:16",
+      "depart_time": "12:29",
+      "stay_min": "13"
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳坪山",
+      "arrive_time": "12:46",
+      "depart_time": "12:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "惠阳",
+      "arrive_time": "12:57",
+      "depart_time": "12:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "13:28",
+      "depart_time": "13:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "潮阳",
+      "arrive_time": "14:06",
+      "depart_time": "14:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "潮汕",
+      "arrive_time": "14:20",
+      "depart_time": "14:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "汕头",
+      "arrive_time": "14:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 745.0,
+    "price_first": 357.0,
+    "price_second": 223.0,
+    "price_no_seat": 223.0
+  },
+  "fetched_at": "2026-05-01T08:02:44.898813"
+}

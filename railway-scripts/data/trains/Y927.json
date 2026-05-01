@@ -1,0 +1,28 @@
+{
+  "train_no": "Y927",
+  "train_type": "Y",
+  "depart_station": "西宁",
+  "arrive_station": "茶卡",
+  "depart_time": "09:00",
+  "arrive_time": "09:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西宁",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "茶卡",
+      "arrive_time": "09:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 62.5
+  },
+  "fetched_at": "2026-05-01T11:41:44.370865"
+}

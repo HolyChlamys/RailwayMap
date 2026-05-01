@@ -1,0 +1,59 @@
+{
+  "train_no": "G6017",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "深圳北",
+  "depart_time": "03:28",
+  "arrive_time": "06:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "03:28",
+      "depart_time": "03:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "清远",
+      "arrive_time": "05:30",
+      "depart_time": "05:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "06:07",
+      "depart_time": "06:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南沙北",
+      "arrive_time": "06:22",
+      "depart_time": "06:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "虎门",
+      "arrive_time": "06:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "06:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1520.5,
+    "price_first": 703.5,
+    "price_second": 451.5,
+    "price_no_seat": 451.5
+  },
+  "fetched_at": "2026-05-01T07:46:19.298151"
+}

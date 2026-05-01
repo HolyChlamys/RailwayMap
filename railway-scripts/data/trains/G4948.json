@@ -1,0 +1,58 @@
+{
+  "train_no": "G4948",
+  "train_type": "G",
+  "depart_station": "张家界西",
+  "arrive_station": "重庆东",
+  "depart_time": "08:00",
+  "arrive_time": "09:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家界西",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "来凤",
+      "arrive_time": "08:47",
+      "depart_time": "08:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "咸丰",
+      "arrive_time": "09:04",
+      "depart_time": "09:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黔江",
+      "arrive_time": "09:26",
+      "depart_time": "09:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武隆南",
+      "arrive_time": "09:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆东",
+      "arrive_time": "09:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 395.0,
+    "price_second": 246.0,
+    "price_no_seat": 246.0
+  },
+  "fetched_at": "2026-05-01T07:20:47.651872"
+}

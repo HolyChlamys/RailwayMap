@@ -1,0 +1,86 @@
+{
+  "train_no": "C1360",
+  "train_type": "C",
+  "depart_station": "长春",
+  "arrive_station": "通化",
+  "depart_time": "15:27",
+  "arrive_time": "19:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "15:27",
+      "depart_time": "15:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙嘉",
+      "arrive_time": "15:41",
+      "depart_time": "15:44",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "九台南",
+      "arrive_time": "15:51",
+      "depart_time": "15:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "吉林",
+      "arrive_time": "16:20",
+      "depart_time": "16:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "蛟河西",
+      "arrive_time": "16:49",
+      "depart_time": "16:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "敦化",
+      "arrive_time": "17:23",
+      "depart_time": "17:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "长白山",
+      "arrive_time": "18:04",
+      "depart_time": "18:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "长白山西",
+      "arrive_time": "18:28",
+      "depart_time": "18:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "白山东",
+      "arrive_time": "18:58",
+      "depart_time": "19:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "通化",
+      "arrive_time": "19:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 444.0,
+    "price_second": 277.0,
+    "price_no_seat": 277.0
+  },
+  "fetched_at": "2026-05-01T00:25:31.500586"
+}

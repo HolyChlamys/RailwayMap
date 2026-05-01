@@ -1,0 +1,80 @@
+{
+  "train_no": "G4750",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "武汉",
+  "depart_time": "19:08",
+  "arrive_time": "22:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "19:08",
+      "depart_time": "19:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "光明城",
+      "arrive_time": "19:20",
+      "depart_time": "19:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "19:55",
+      "depart_time": "19:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "英德西",
+      "arrive_time": "20:31",
+      "depart_time": "20:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "韶关",
+      "arrive_time": "20:52",
+      "depart_time": "20:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "郴州西",
+      "arrive_time": "21:25",
+      "depart_time": "21:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "衡阳东",
+      "arrive_time": "21:56",
+      "depart_time": "21:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "长沙南",
+      "arrive_time": "22:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "武汉",
+      "arrive_time": "22:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2134.5,
+    "price_first": 984.5,
+    "price_second": 627.5,
+    "price_no_seat": 627.5
+  },
+  "fetched_at": "2026-05-01T07:14:37.614180"
+}

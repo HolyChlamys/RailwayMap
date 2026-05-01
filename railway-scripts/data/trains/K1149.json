@@ -1,0 +1,91 @@
+{
+  "train_no": "K1149",
+  "train_type": "K",
+  "depart_station": "新乡",
+  "arrive_station": "昆山",
+  "depart_time": "18:19",
+  "arrive_time": "08:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "新乡",
+      "arrive_time": "18:19",
+      "depart_time": "18:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州",
+      "arrive_time": "19:15",
+      "depart_time": "19:50",
+      "stay_min": "35"
+    },
+    {
+      "seq": 3,
+      "station_name": "开封",
+      "arrive_time": "20:35",
+      "depart_time": "20:40",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "商丘",
+      "arrive_time": "22:03",
+      "depart_time": "22:11",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "徐州",
+      "arrive_time": "23:50",
+      "depart_time": "00:01",
+      "stay_min": "1429"
+    },
+    {
+      "seq": 6,
+      "station_name": "蚌埠",
+      "arrive_time": "02:02",
+      "depart_time": "02:07",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京",
+      "arrive_time": "04:20",
+      "depart_time": "04:26",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "常州",
+      "arrive_time": "06:51",
+      "depart_time": "06:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "无锡",
+      "arrive_time": "07:22",
+      "depart_time": "07:26",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "苏州",
+      "arrive_time": "07:54",
+      "depart_time": "08:04",
+      "stay_min": "10"
+    },
+    {
+      "seq": 11,
+      "station_name": "昆山",
+      "arrive_time": "08:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 135.5
+  },
+  "fetched_at": "2026-05-01T09:31:53.638157"
+}

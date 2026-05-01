@@ -1,0 +1,36 @@
+{
+  "train_no": "S5257",
+  "train_type": "S",
+  "depart_station": "邛崃",
+  "arrive_station": "成都南",
+  "depart_time": "16:41",
+  "arrive_time": "17:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邛崃",
+      "arrive_time": "16:41",
+      "depart_time": "16:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大邑",
+      "arrive_time": "16:50",
+      "depart_time": "16:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "成都南",
+      "arrive_time": "17:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 31.0,
+    "price_no_seat": 31.0
+  },
+  "fetched_at": "2026-05-01T11:04:25.505373"
+}

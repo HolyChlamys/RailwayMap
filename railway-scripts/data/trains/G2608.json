@@ -1,0 +1,101 @@
+{
+  "train_no": "G2608",
+  "train_type": "G",
+  "depart_station": "秦皇岛",
+  "arrive_station": "太原南",
+  "depart_time": "14:06",
+  "arrive_time": "19:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "秦皇岛",
+      "arrive_time": "14:06",
+      "depart_time": "14:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北戴河",
+      "arrive_time": "14:17",
+      "depart_time": "14:23",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "滦河",
+      "arrive_time": "14:41",
+      "depart_time": "14:51",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "唐山",
+      "arrive_time": "15:09",
+      "depart_time": "15:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "天津",
+      "arrive_time": "15:43",
+      "depart_time": "15:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "天津西",
+      "arrive_time": "15:53",
+      "depart_time": "15:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "白沟",
+      "arrive_time": "16:34",
+      "depart_time": "16:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "白洋淀",
+      "arrive_time": "16:47",
+      "depart_time": "16:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "保定东",
+      "arrive_time": "17:06",
+      "depart_time": "17:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "石家庄",
+      "arrive_time": "17:43",
+      "depart_time": "17:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "阳泉北",
+      "arrive_time": "18:27",
+      "depart_time": "18:30",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "太原南",
+      "arrive_time": "19:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1273.0,
+    "price_first": 591.5,
+    "price_second": 369.5,
+    "price_no_seat": 369.5
+  },
+  "fetched_at": "2026-05-01T06:15:07.935370"
+}

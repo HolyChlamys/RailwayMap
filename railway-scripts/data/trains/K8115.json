@@ -1,0 +1,28 @@
+{
+  "train_no": "K8115",
+  "train_type": "K",
+  "depart_station": "应城",
+  "arrive_station": "武昌",
+  "depart_time": "15:10",
+  "arrive_time": "16:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "应城",
+      "arrive_time": "15:10",
+      "depart_time": "15:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武昌",
+      "arrive_time": "16:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 15.5
+  },
+  "fetched_at": "2026-05-01T10:35:48.827064"
+}

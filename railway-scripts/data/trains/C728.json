@@ -1,0 +1,65 @@
+{
+  "train_no": "C728",
+  "train_type": "C",
+  "depart_station": "巴中东",
+  "arrive_station": "重庆西",
+  "depart_time": "19:03",
+  "arrive_time": "22:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "巴中东",
+      "arrive_time": "19:03",
+      "depart_time": "19:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巴中西",
+      "arrive_time": "19:17",
+      "depart_time": "19:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "马鞍",
+      "arrive_time": "19:37",
+      "depart_time": "19:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "仪陇",
+      "arrive_time": "20:02",
+      "depart_time": "20:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南充北",
+      "arrive_time": "20:34",
+      "depart_time": "20:40",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "合川",
+      "arrive_time": "21:31",
+      "depart_time": "21:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "重庆西",
+      "arrive_time": "22:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 202.0,
+    "price_second": 127.0,
+    "price_no_seat": 127.0
+  },
+  "fetched_at": "2026-05-01T02:11:01.356217"
+}

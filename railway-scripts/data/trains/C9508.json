@@ -1,0 +1,59 @@
+{
+  "train_no": "C9508",
+  "train_type": "C",
+  "depart_station": "临沧",
+  "arrive_station": "昆明",
+  "depart_time": "12:54",
+  "arrive_time": "17:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沧",
+      "arrive_time": "12:54",
+      "depart_time": "12:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "云县",
+      "arrive_time": "13:20",
+      "depart_time": "13:26",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "巍山",
+      "arrive_time": "14:17",
+      "depart_time": "14:21",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "大理",
+      "arrive_time": "14:45",
+      "depart_time": "14:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "广通北",
+      "arrive_time": "16:08",
+      "depart_time": "16:11",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明",
+      "arrive_time": "17:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 785.0,
+    "price_first": 392.0,
+    "price_second": 246.0,
+    "price_no_seat": 246.0
+  },
+  "fetched_at": "2026-05-01T02:47:39.853058"
+}

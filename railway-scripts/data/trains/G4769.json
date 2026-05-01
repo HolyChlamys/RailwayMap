@@ -1,0 +1,66 @@
+{
+  "train_no": "G4769",
+  "train_type": "G",
+  "depart_station": "厦门",
+  "arrive_station": "广州东",
+  "depart_time": "21:17",
+  "arrive_time": "00:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "21:17",
+      "depart_time": "21:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "22:00",
+      "depart_time": "22:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "云霄",
+      "arrive_time": "22:27",
+      "depart_time": "22:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "饶平",
+      "arrive_time": "22:55",
+      "depart_time": "22:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汕头",
+      "arrive_time": "23:32",
+      "depart_time": "23:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "汕尾",
+      "arrive_time": "00:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州东",
+      "arrive_time": "00:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1392.0,
+    "price_first": 624.0,
+    "price_second": 398.0,
+    "price_no_seat": 398.0
+  },
+  "fetched_at": "2026-05-01T07:15:10.768613"
+}

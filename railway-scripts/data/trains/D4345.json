@@ -1,0 +1,51 @@
+{
+  "train_no": "D4345",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "佛山西",
+  "depart_time": "01:00",
+  "arrive_time": "02:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "01:00",
+      "depart_time": "01:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵港",
+      "arrive_time": "01:42",
+      "depart_time": "01:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "平南南",
+      "arrive_time": "02:12",
+      "depart_time": "02:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "梧州南",
+      "arrive_time": "02:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "佛山西",
+      "arrive_time": "02:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 376.0,
+    "price_second": 235.0,
+    "price_no_seat": 235.0
+  },
+  "fetched_at": "2026-05-01T03:48:20.530834"
+}

@@ -1,0 +1,42 @@
+{
+  "train_no": "K4152",
+  "train_type": "K",
+  "depart_station": "兴义",
+  "arrive_station": "广州",
+  "depart_time": "12:58",
+  "arrive_time": "02:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兴义",
+      "arrive_time": "12:58",
+      "depart_time": "12:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁",
+      "arrive_time": "20:38",
+      "depart_time": "20:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "茂名西",
+      "arrive_time": "02:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州",
+      "arrive_time": "02:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 163.5
+  },
+  "fetched_at": "2026-05-01T09:48:59.418508"
+}

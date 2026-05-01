@@ -1,0 +1,52 @@
+{
+  "train_no": "D5264",
+  "train_type": "D",
+  "depart_station": "宁强南",
+  "arrive_station": "西安北",
+  "depart_time": "13:04",
+  "arrive_time": "14:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁强南",
+      "arrive_time": "13:04",
+      "depart_time": "13:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉中",
+      "arrive_time": "13:32",
+      "depart_time": "13:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄠邑",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安西",
+      "arrive_time": "14:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西安北",
+      "arrive_time": "14:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 534.0,
+    "price_first": 244.0,
+    "price_second": 153.0,
+    "price_no_seat": 153.0
+  },
+  "fetched_at": "2026-05-01T04:03:25.924841"
+}

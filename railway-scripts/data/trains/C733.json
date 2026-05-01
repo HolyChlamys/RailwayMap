@@ -1,0 +1,51 @@
+{
+  "train_no": "C733",
+  "train_type": "C",
+  "depart_station": "达州",
+  "arrive_station": "重庆北",
+  "depart_time": "13:13",
+  "arrive_time": "14:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "达州",
+      "arrive_time": "13:13",
+      "depart_time": "13:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "渠县",
+      "arrive_time": "13:54",
+      "depart_time": "13:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广安",
+      "arrive_time": "14:23",
+      "depart_time": "14:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "高兴",
+      "arrive_time": "14:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "重庆北",
+      "arrive_time": "14:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 114.0,
+    "price_second": 71.0,
+    "price_no_seat": 71.0
+  },
+  "fetched_at": "2026-05-01T02:12:30.308137"
+}

@@ -1,0 +1,35 @@
+{
+  "train_no": "Y562",
+  "train_type": "Y",
+  "depart_station": "温州",
+  "arrive_station": "杭州",
+  "depart_time": "21:45",
+  "arrive_time": "05:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "温州",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金华",
+      "arrive_time": "05:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州",
+      "arrive_time": "05:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T11:35:22.756337"
+}

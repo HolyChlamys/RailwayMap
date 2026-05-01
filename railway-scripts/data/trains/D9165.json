@@ -1,0 +1,37 @@
+{
+  "train_no": "D9165",
+  "train_type": "D",
+  "depart_station": "哈尔滨",
+  "arrive_station": "牡丹江",
+  "depart_time": "21:01",
+  "arrive_time": "22:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨",
+      "arrive_time": "21:01",
+      "depart_time": "21:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "亚布力西",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "牡丹江",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 178.0,
+    "price_second": 111.0,
+    "price_no_seat": 111.0
+  },
+  "fetched_at": "2026-05-01T05:08:50.225423"
+}

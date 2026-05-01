@@ -1,0 +1,38 @@
+{
+  "train_no": "D9138",
+  "train_type": "D",
+  "depart_station": "齐齐哈尔南",
+  "arrive_station": "哈尔滨",
+  "depart_time": "21:10",
+  "arrive_time": "21:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "齐齐哈尔南",
+      "arrive_time": "21:10",
+      "depart_time": "21:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安达",
+      "arrive_time": "21:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "哈尔滨",
+      "arrive_time": "21:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 294.0,
+    "price_first": 157.0,
+    "price_second": 98.0,
+    "price_no_seat": 98.0
+  },
+  "fetched_at": "2026-05-01T05:08:10.651105"
+}

@@ -1,0 +1,31 @@
+{
+  "train_no": "G9138",
+  "train_type": "G",
+  "depart_station": "沈阳北",
+  "arrive_station": "大连北",
+  "depart_time": "04:55",
+  "arrive_time": "04:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "04:55",
+      "depart_time": "04:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大连北",
+      "arrive_time": "04:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 737.0,
+    "price_first": 337.0,
+    "price_second": 211.0,
+    "price_no_seat": 211.0
+  },
+  "fetched_at": "2026-05-01T09:06:54.547966"
+}

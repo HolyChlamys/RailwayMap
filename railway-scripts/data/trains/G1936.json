@@ -1,0 +1,100 @@
+{
+  "train_no": "G1936",
+  "train_type": "G",
+  "depart_station": "广州白云",
+  "arrive_station": "西安北",
+  "depart_time": "16:15",
+  "arrive_time": "22:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "16:15",
+      "depart_time": "16:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肇庆东",
+      "arrive_time": "16:52",
+      "depart_time": "16:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "桂林西",
+      "arrive_time": "18:22",
+      "depart_time": "18:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳东",
+      "arrive_time": "20:10",
+      "depart_time": "20:15",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "遵义",
+      "arrive_time": "21:02",
+      "depart_time": "21:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆西",
+      "arrive_time": "22:22",
+      "depart_time": "22:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "徐州东",
+      "arrive_time": "19:00",
+      "depart_time": "19:04",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "永城北",
+      "arrive_time": "19:30",
+      "depart_time": "19:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "开封北",
+      "arrive_time": "20:26",
+      "depart_time": "20:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "郑州东",
+      "arrive_time": "20:49",
+      "depart_time": "20:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "三门峡南",
+      "arrive_time": "21:54",
+      "depart_time": "21:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "西安北",
+      "arrive_time": "22:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 930.0,
+    "price_second": 582.0,
+    "price_no_seat": 582.0
+  },
+  "fetched_at": "2026-05-01T05:57:03.335990"
+}

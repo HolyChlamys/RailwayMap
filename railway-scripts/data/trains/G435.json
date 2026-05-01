@@ -1,0 +1,108 @@
+{
+  "train_no": "G435",
+  "train_type": "G",
+  "depart_station": "上海南",
+  "arrive_station": "福州",
+  "depart_time": "11:20",
+  "arrive_time": "17:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "11:20",
+      "depart_time": "11:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉兴南",
+      "arrive_time": "11:50",
+      "depart_time": "11:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "临平南",
+      "arrive_time": "12:17",
+      "depart_time": "12:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "12:38",
+      "depart_time": "12:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "余姚北",
+      "arrive_time": "13:11",
+      "depart_time": "13:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宁波",
+      "arrive_time": "13:40",
+      "depart_time": "13:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宁海",
+      "arrive_time": "14:10",
+      "depart_time": "14:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "台州西",
+      "arrive_time": "14:42",
+      "depart_time": "14:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "温岭",
+      "arrive_time": "14:55",
+      "depart_time": "14:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "温州南",
+      "arrive_time": "15:40",
+      "depart_time": "15:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "福鼎",
+      "arrive_time": "16:27",
+      "depart_time": "16:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "宁德",
+      "arrive_time": "17:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 13,
+      "station_name": "福州",
+      "arrive_time": "17:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1486.0,
+    "price_first": 679.0,
+    "price_second": 424.0,
+    "price_no_seat": 424.0
+  },
+  "fetched_at": "2026-05-01T07:02:56.557175"
+}

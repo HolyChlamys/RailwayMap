@@ -1,0 +1,87 @@
+{
+  "train_no": "G2770",
+  "train_type": "G",
+  "depart_station": "深圳",
+  "arrive_station": "九江",
+  "depart_time": "18:14",
+  "arrive_time": "22:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "18:14",
+      "depart_time": "18:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠州北",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙南东",
+      "arrive_time": "19:49",
+      "depart_time": "19:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "信丰西",
+      "arrive_time": "20:07",
+      "depart_time": "20:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "赣州西",
+      "arrive_time": "20:26",
+      "depart_time": "20:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "吉安西",
+      "arrive_time": "21:14",
+      "depart_time": "21:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南昌",
+      "arrive_time": "22:17",
+      "depart_time": "22:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "永修",
+      "arrive_time": "22:44",
+      "depart_time": "22:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "共青城",
+      "arrive_time": "22:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "九江",
+      "arrive_time": "22:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1776.5,
+    "price_first": 857.0,
+    "price_second": 545.5,
+    "price_no_seat": 545.5
+  },
+  "fetched_at": "2026-05-01T06:19:50.494990"
+}

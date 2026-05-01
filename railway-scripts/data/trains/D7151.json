@@ -1,0 +1,79 @@
+{
+  "train_no": "D7151",
+  "train_type": "D",
+  "depart_station": "汕头",
+  "arrive_station": "广州东",
+  "depart_time": "10:05",
+  "arrive_time": "13:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "10:05",
+      "depart_time": "10:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "10:27",
+      "depart_time": "10:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "普宁",
+      "arrive_time": "10:46",
+      "depart_time": "10:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "葵潭",
+      "arrive_time": "11:00",
+      "depart_time": "11:06",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "惠东",
+      "arrive_time": "11:50",
+      "depart_time": "12:01",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "惠州南",
+      "arrive_time": "12:13",
+      "depart_time": "12:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "罗浮山",
+      "arrive_time": "12:31",
+      "depart_time": "12:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州新塘",
+      "arrive_time": "12:51",
+      "depart_time": "12:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "广州东",
+      "arrive_time": "13:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 339.0,
+    "price_second": 212.0,
+    "price_no_seat": 212.0
+  },
+  "fetched_at": "2026-05-01T04:34:31.046535"
+}

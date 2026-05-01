@@ -1,0 +1,87 @@
+{
+  "train_no": "G9628",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "长沙南",
+  "depart_time": "19:08",
+  "arrive_time": "22:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "19:08",
+      "depart_time": "19:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "光明城",
+      "arrive_time": "19:20",
+      "depart_time": "19:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "19:49",
+      "depart_time": "19:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州北",
+      "arrive_time": "20:05",
+      "depart_time": "20:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "英德西",
+      "arrive_time": "20:31",
+      "depart_time": "20:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "韶关",
+      "arrive_time": "20:52",
+      "depart_time": "20:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "郴州西",
+      "arrive_time": "21:25",
+      "depart_time": "21:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "衡阳东",
+      "arrive_time": "21:56",
+      "depart_time": "21:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "株洲西",
+      "arrive_time": "22:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "长沙南",
+      "arrive_time": "22:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1520.5,
+    "price_first": 703.5,
+    "price_second": 451.5,
+    "price_no_seat": 451.5
+  },
+  "fetched_at": "2026-05-01T09:19:31.882346"
+}

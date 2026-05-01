@@ -1,0 +1,93 @@
+{
+  "train_no": "D5745",
+  "train_type": "D",
+  "depart_station": "宜昌东",
+  "arrive_station": "阳新",
+  "depart_time": "09:54",
+  "arrive_time": "14:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "09:54",
+      "depart_time": "09:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "10:28",
+      "depart_time": "10:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "仙桃西",
+      "arrive_time": "11:05",
+      "depart_time": "11:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "天门南",
+      "arrive_time": "11:20",
+      "depart_time": "11:25",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "武昌",
+      "arrive_time": "12:11",
+      "depart_time": "12:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "南湖东",
+      "arrive_time": "12:27",
+      "depart_time": "12:33",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "武汉东",
+      "arrive_time": "12:42",
+      "depart_time": "12:55",
+      "stay_min": "13"
+    },
+    {
+      "seq": 8,
+      "station_name": "鄂州",
+      "arrive_time": "13:16",
+      "depart_time": "13:22",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "黄石北",
+      "arrive_time": "13:34",
+      "depart_time": "13:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "大冶北",
+      "arrive_time": "13:44",
+      "depart_time": "13:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "阳新",
+      "arrive_time": "14:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 333.0,
+    "price_second": 208.0,
+    "price_no_seat": 208.0
+  },
+  "fetched_at": "2026-05-01T04:10:09.126965"
+}

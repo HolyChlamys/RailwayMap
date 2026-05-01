@@ -1,0 +1,72 @@
+{
+  "train_no": "D4497",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "深圳北",
+  "depart_time": "21:35",
+  "arrive_time": "00:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "21:35",
+      "depart_time": "21:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福清",
+      "arrive_time": "22:08",
+      "depart_time": "22:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莆田",
+      "arrive_time": "22:29",
+      "depart_time": "22:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泉州",
+      "arrive_time": "22:57",
+      "depart_time": "22:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "厦门北",
+      "arrive_time": "23:27",
+      "depart_time": "23:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "潮汕",
+      "arrive_time": "00:40",
+      "depart_time": "00:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "普宁",
+      "arrive_time": "00:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "深圳北",
+      "arrive_time": "00:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 537.0,
+    "price_second": 335.0,
+    "price_no_seat": 335.0
+  },
+  "fetched_at": "2026-05-01T03:51:58.308900"
+}

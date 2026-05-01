@@ -1,0 +1,38 @@
+{
+  "train_no": "G7870",
+  "train_type": "G",
+  "depart_station": "宝坻",
+  "arrive_station": "北京通州",
+  "depart_time": "06:55",
+  "arrive_time": "07:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宝坻",
+      "arrive_time": "06:55",
+      "depart_time": "06:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "燕郊",
+      "arrive_time": "07:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "北京通州",
+      "arrive_time": "07:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 145.0,
+    "price_first": 66.0,
+    "price_second": 41.0,
+    "price_no_seat": 41.0
+  },
+  "fetched_at": "2026-05-01T08:38:47.905730"
+}

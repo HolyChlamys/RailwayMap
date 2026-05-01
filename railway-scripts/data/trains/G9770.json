@@ -1,0 +1,45 @@
+{
+  "train_no": "G9770",
+  "train_type": "G",
+  "depart_station": "韶关",
+  "arrive_station": "潮汕",
+  "depart_time": "23:50",
+  "arrive_time": "02:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "韶关",
+      "arrive_time": "23:50",
+      "depart_time": "23:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "00:42",
+      "depart_time": "00:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "01:15",
+      "depart_time": "01:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "潮汕",
+      "arrive_time": "02:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1110.5,
+    "price_first": 516.5,
+    "price_second": 334.5,
+    "price_no_seat": 334.5
+  },
+  "fetched_at": "2026-05-01T09:23:44.717129"
+}

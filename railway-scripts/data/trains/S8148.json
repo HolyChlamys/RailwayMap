@@ -1,0 +1,50 @@
+{
+  "train_no": "S8148",
+  "train_type": "S",
+  "depart_station": "海口东",
+  "arrive_station": "海口",
+  "depart_time": "08:50",
+  "arrive_time": "09:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "海口东",
+      "arrive_time": "08:50",
+      "depart_time": "08:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "城西",
+      "arrive_time": "08:54",
+      "depart_time": "08:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "秀英",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长流",
+      "arrive_time": "09:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "海口",
+      "arrive_time": "09:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 8.0,
+    "price_no_seat": 8.0
+  },
+  "fetched_at": "2026-05-01T11:19:52.628676"
+}

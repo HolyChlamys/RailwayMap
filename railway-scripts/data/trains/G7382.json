@@ -1,0 +1,87 @@
+{
+  "train_no": "G7382",
+  "train_type": "G",
+  "depart_station": "衢州",
+  "arrive_station": "上海虹桥",
+  "depart_time": "07:10",
+  "arrive_time": "09:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "衢州",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙游",
+      "arrive_time": "07:23",
+      "depart_time": "07:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金华",
+      "arrive_time": "07:41",
+      "depart_time": "07:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "义乌",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "诸暨",
+      "arrive_time": "08:22",
+      "depart_time": "08:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州南",
+      "arrive_time": "08:40",
+      "depart_time": "08:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "杭州东",
+      "arrive_time": "08:53",
+      "depart_time": "08:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "海宁西",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "嘉善南",
+      "arrive_time": "09:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "上海虹桥",
+      "arrive_time": "09:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 766.0,
+    "price_first": 350.0,
+    "price_second": 218.0,
+    "price_no_seat": 218.0
+  },
+  "fetched_at": "2026-05-01T08:25:54.571156"
+}

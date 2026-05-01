@@ -1,0 +1,65 @@
+{
+  "train_no": "D4678",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "武汉",
+  "depart_time": "04:20",
+  "arrive_time": "06:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "04:20",
+      "depart_time": "04:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "04:38",
+      "depart_time": "04:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "04:11",
+      "depart_time": "04:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥南",
+      "arrive_time": "05:01",
+      "depart_time": "05:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "梧州南",
+      "arrive_time": "05:47",
+      "depart_time": "05:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "麻城北",
+      "arrive_time": "06:13",
+      "depart_time": "06:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "武汉",
+      "arrive_time": "06:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 175.0,
+    "price_second": 109.0,
+    "price_no_seat": 109.0
+  },
+  "fetched_at": "2026-05-01T03:55:09.128274"
+}

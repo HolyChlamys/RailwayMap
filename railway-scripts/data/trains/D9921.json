@@ -1,0 +1,38 @@
+{
+  "train_no": "D9921",
+  "train_type": "D",
+  "depart_station": "成都东",
+  "arrive_station": "贵阳北",
+  "depart_time": "00:10",
+  "arrive_time": "01:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "00:10",
+      "depart_time": "00:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜宾西",
+      "arrive_time": "01:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "01:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 892.0,
+    "price_first": 475.0,
+    "price_second": 297.0,
+    "price_no_seat": 297.0
+  },
+  "fetched_at": "2026-05-01T05:28:08.466961"
+}

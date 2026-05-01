@@ -1,0 +1,66 @@
+{
+  "train_no": "D9516",
+  "train_type": "D",
+  "depart_station": "上海",
+  "arrive_station": "淮安东",
+  "depart_time": "20:31",
+  "arrive_time": "22:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "20:31",
+      "depart_time": "20:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "21:10",
+      "depart_time": "21:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "21:24",
+      "depart_time": "21:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "21:41",
+      "depart_time": "21:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "21:58",
+      "depart_time": "21:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州东",
+      "arrive_time": "22:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "淮安东",
+      "arrive_time": "22:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 104.0,
+    "price_first": 55.0,
+    "price_second": 35.0,
+    "price_no_seat": 35.0
+  },
+  "fetched_at": "2026-05-01T05:17:17.730888"
+}

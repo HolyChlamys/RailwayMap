@@ -1,0 +1,38 @@
+{
+  "train_no": "G9422",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "南京南",
+  "depart_time": "22:04",
+  "arrive_time": "22:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "22:04",
+      "depart_time": "22:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "溧阳",
+      "arrive_time": "22:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "22:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 493.0,
+    "price_first": 225.0,
+    "price_second": 141.0,
+    "price_no_seat": 141.0
+  },
+  "fetched_at": "2026-05-01T09:13:36.541664"
+}

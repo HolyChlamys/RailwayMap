@@ -1,0 +1,49 @@
+{
+  "train_no": "K6703",
+  "train_type": "K",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "伊宁",
+  "depart_time": "19:20",
+  "arrive_time": "22:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "19:20",
+      "depart_time": "19:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石河子",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沙湾市",
+      "arrive_time": "21:25",
+      "depart_time": "21:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "奎屯",
+      "arrive_time": "22:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "伊宁",
+      "arrive_time": "22:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T10:24:58.457061"
+}

@@ -1,0 +1,36 @@
+{
+  "train_no": "S5255",
+  "train_type": "S",
+  "depart_station": "成都东",
+  "arrive_station": "邛崃",
+  "depart_time": "09:38",
+  "arrive_time": "10:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "09:38",
+      "depart_time": "09:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "崇州",
+      "arrive_time": "10:08",
+      "depart_time": "10:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "邛崃",
+      "arrive_time": "10:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 39.0,
+    "price_no_seat": 39.0
+  },
+  "fetched_at": "2026-05-01T11:04:22.198609"
+}

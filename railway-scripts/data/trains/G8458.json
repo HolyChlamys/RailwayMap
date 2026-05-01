@@ -1,0 +1,80 @@
+{
+  "train_no": "G8458",
+  "train_type": "G",
+  "depart_station": "福田",
+  "arrive_station": "揭阳",
+  "depart_time": "13:14",
+  "arrive_time": "15:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福田",
+      "arrive_time": "13:14",
+      "depart_time": "13:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "13:22",
+      "depart_time": "13:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "东莞南",
+      "arrive_time": "13:42",
+      "depart_time": "13:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "惠州北",
+      "arrive_time": "14:01",
+      "depart_time": "14:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "河源东",
+      "arrive_time": "14:22",
+      "depart_time": "14:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "龙川西",
+      "arrive_time": "14:43",
+      "depart_time": "14:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "兴宁南",
+      "arrive_time": "15:05",
+      "depart_time": "15:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "梅州西",
+      "arrive_time": "15:20",
+      "depart_time": "15:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "揭阳",
+      "arrive_time": "15:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 909.0,
+    "price_first": 429.0,
+    "price_second": 271.0,
+    "price_no_seat": 271.0
+  },
+  "fetched_at": "2026-05-01T08:51:34.602764"
+}

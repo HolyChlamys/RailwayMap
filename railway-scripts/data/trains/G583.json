@@ -1,0 +1,136 @@
+{
+  "train_no": "G583",
+  "train_type": "G",
+  "depart_station": "宁波",
+  "arrive_station": "宜昌北",
+  "depart_time": "15:42",
+  "arrive_time": "23:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "15:42",
+      "depart_time": "15:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绍兴东",
+      "arrive_time": "16:11",
+      "depart_time": "16:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "16:37",
+      "depart_time": "16:43",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "湖州",
+      "arrive_time": "17:04",
+      "depart_time": "17:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "宣城",
+      "arrive_time": "17:43",
+      "depart_time": "17:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "芜湖",
+      "arrive_time": "18:10",
+      "depart_time": "18:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "巢湖东",
+      "arrive_time": "18:33",
+      "depart_time": "18:37",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "合肥南",
+      "arrive_time": "19:02",
+      "depart_time": "19:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "六安",
+      "arrive_time": "19:30",
+      "depart_time": "19:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "金寨",
+      "arrive_time": "19:51",
+      "depart_time": "19:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "麻城北",
+      "arrive_time": "20:31",
+      "depart_time": "20:35",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "汉口",
+      "arrive_time": "21:25",
+      "depart_time": "21:29",
+      "stay_min": "4"
+    },
+    {
+      "seq": 13,
+      "station_name": "汉川",
+      "arrive_time": "21:53",
+      "depart_time": "21:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "仙桃西",
+      "arrive_time": "22:20",
+      "depart_time": "22:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "荆州",
+      "arrive_time": "22:54",
+      "depart_time": "22:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "宜昌东",
+      "arrive_time": "23:30",
+      "depart_time": "23:34",
+      "stay_min": "4"
+    },
+    {
+      "seq": 17,
+      "station_name": "宜昌北",
+      "arrive_time": "23:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2044.0,
+    "price_first": 972.0,
+    "price_second": 608.0,
+    "price_no_seat": 608.0
+  },
+  "fetched_at": "2026-05-01T07:43:35.963443"
+}

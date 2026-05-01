@@ -1,0 +1,38 @@
+{
+  "train_no": "C9602",
+  "train_type": "C",
+  "depart_station": "福州",
+  "arrive_station": "延平",
+  "depart_time": "21:51",
+  "arrive_time": "22:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "21:51",
+      "depart_time": "21:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "古田北",
+      "arrive_time": "22:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "延平",
+      "arrive_time": "22:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 175.5,
+    "price_first": 93.5,
+    "price_second": 55.5,
+    "price_no_seat": 55.5
+  },
+  "fetched_at": "2026-05-01T02:50:29.985006"
+}

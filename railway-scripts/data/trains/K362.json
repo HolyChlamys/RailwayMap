@@ -1,0 +1,196 @@
+{
+  "train_no": "K362",
+  "train_type": "K",
+  "depart_station": "银川",
+  "arrive_station": "上海",
+  "depart_time": "20:35",
+  "arrive_time": "05:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "20:35",
+      "depart_time": "20:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青铜峡",
+      "arrive_time": "21:37",
+      "depart_time": "21:44",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "中宁",
+      "arrive_time": "22:47",
+      "depart_time": "22:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "中卫",
+      "arrive_time": "23:32",
+      "depart_time": "23:47",
+      "stay_min": "15"
+    },
+    {
+      "seq": 5,
+      "station_name": "同心",
+      "arrive_time": "00:58",
+      "depart_time": "01:02",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "固原",
+      "arrive_time": "02:57",
+      "depart_time": "03:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "平凉",
+      "arrive_time": "04:38",
+      "depart_time": "04:46",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "陇县",
+      "arrive_time": "06:35",
+      "depart_time": "06:40",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "咸阳",
+      "arrive_time": "09:28",
+      "depart_time": "09:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "西安",
+      "arrive_time": "09:55",
+      "depart_time": "10:17",
+      "stay_min": "22"
+    },
+    {
+      "seq": 11,
+      "station_name": "渭南",
+      "arrive_time": "10:56",
+      "depart_time": "11:06",
+      "stay_min": "10"
+    },
+    {
+      "seq": 12,
+      "station_name": "华山",
+      "arrive_time": "11:51",
+      "depart_time": "11:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "三门峡西",
+      "arrive_time": "13:32",
+      "depart_time": "13:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "三门峡",
+      "arrive_time": "13:57",
+      "depart_time": "14:00",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "洛阳",
+      "arrive_time": "15:43",
+      "depart_time": "15:47",
+      "stay_min": "4"
+    },
+    {
+      "seq": 16,
+      "station_name": "郑州",
+      "arrive_time": "17:19",
+      "depart_time": "17:28",
+      "stay_min": "9"
+    },
+    {
+      "seq": 17,
+      "station_name": "开封",
+      "arrive_time": "18:14",
+      "depart_time": "18:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 18,
+      "station_name": "兰考",
+      "arrive_time": "18:46",
+      "depart_time": "18:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 19,
+      "station_name": "民权",
+      "arrive_time": "19:12",
+      "depart_time": "19:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 20,
+      "station_name": "宁陵县",
+      "arrive_time": "19:31",
+      "depart_time": "19:48",
+      "stay_min": "17"
+    },
+    {
+      "seq": 21,
+      "station_name": "商丘",
+      "arrive_time": "20:16",
+      "depart_time": "20:27",
+      "stay_min": "11"
+    },
+    {
+      "seq": 22,
+      "station_name": "徐州",
+      "arrive_time": "22:03",
+      "depart_time": "22:11",
+      "stay_min": "8"
+    },
+    {
+      "seq": 23,
+      "station_name": "南京",
+      "arrive_time": "01:49",
+      "depart_time": "01:56",
+      "stay_min": "7"
+    },
+    {
+      "seq": 24,
+      "station_name": "常州",
+      "arrive_time": "03:17",
+      "depart_time": "03:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 25,
+      "station_name": "无锡",
+      "arrive_time": "03:47",
+      "depart_time": "03:52",
+      "stay_min": "5"
+    },
+    {
+      "seq": 26,
+      "station_name": "上海",
+      "arrive_time": "05:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 251.0
+  },
+  "fetched_at": "2026-05-01T09:44:25.217275"
+}

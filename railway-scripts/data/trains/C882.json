@@ -1,0 +1,59 @@
+{
+  "train_no": "C882",
+  "train_type": "C",
+  "depart_station": "林芝",
+  "arrive_station": "拉萨",
+  "depart_time": "12:25",
+  "arrive_time": "15:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "林芝",
+      "arrive_time": "12:25",
+      "depart_time": "12:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "米林",
+      "arrive_time": "12:52",
+      "depart_time": "12:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "朗县",
+      "arrive_time": "13:54",
+      "depart_time": "13:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "加查",
+      "arrive_time": "14:25",
+      "depart_time": "14:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "山南",
+      "arrive_time": "15:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "拉萨",
+      "arrive_time": "15:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 565.0,
+    "price_first": 258.0,
+    "price_second": 161.0,
+    "price_no_seat": 161.0
+  },
+  "fetched_at": "2026-05-01T02:36:33.873557"
+}

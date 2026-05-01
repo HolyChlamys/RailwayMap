@@ -1,0 +1,70 @@
+{
+  "train_no": "K881",
+  "train_type": "K",
+  "depart_station": "太原",
+  "arrive_station": "青岛北",
+  "depart_time": "21:41",
+  "arrive_time": "07:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原",
+      "arrive_time": "21:41",
+      "depart_time": "21:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄北",
+      "arrive_time": "23:44",
+      "depart_time": "23:53",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "衡水",
+      "arrive_time": "01:19",
+      "depart_time": "01:24",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "德州",
+      "arrive_time": "02:34",
+      "depart_time": "02:40",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "大明湖",
+      "arrive_time": "04:05",
+      "depart_time": "04:12",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "青州市",
+      "arrive_time": "05:35",
+      "depart_time": "05:40",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "潍坊",
+      "arrive_time": "06:12",
+      "depart_time": "06:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "青岛北",
+      "arrive_time": "07:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 119.0
+  },
+  "fetched_at": "2026-05-01T10:41:31.780031"
+}

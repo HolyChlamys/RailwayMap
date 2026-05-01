@@ -1,0 +1,72 @@
+{
+  "train_no": "C6219",
+  "train_type": "C",
+  "depart_station": "广元",
+  "arrive_station": "成都东",
+  "depart_time": "11:24",
+  "arrive_time": "14:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广元",
+      "arrive_time": "11:24",
+      "depart_time": "11:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "剑门关",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "江油北",
+      "arrive_time": "12:52",
+      "depart_time": "12:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "江油",
+      "arrive_time": "13:08",
+      "depart_time": "13:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "绵阳",
+      "arrive_time": "13:30",
+      "depart_time": "13:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "德阳",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广汉北",
+      "arrive_time": "14:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "成都东",
+      "arrive_time": "14:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 214.0,
+    "price_second": 133.0,
+    "price_no_seat": 133.0
+  },
+  "fetched_at": "2026-05-01T01:46:58.663928"
+}

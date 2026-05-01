@@ -1,0 +1,80 @@
+{
+  "train_no": "G9620",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "怀化南",
+  "depart_time": "15:16",
+  "arrive_time": "18:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "15:16",
+      "depart_time": "15:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "韶山南",
+      "arrive_time": "15:39",
+      "depart_time": "15:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "娄底南",
+      "arrive_time": "15:58",
+      "depart_time": "16:02",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "双峰北",
+      "arrive_time": "16:13",
+      "depart_time": "16:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "邵东",
+      "arrive_time": "16:35",
+      "depart_time": "16:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "邵阳",
+      "arrive_time": "16:52",
+      "depart_time": "16:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "隆回",
+      "arrive_time": "17:15",
+      "depart_time": "17:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "洞口",
+      "arrive_time": "17:35",
+      "depart_time": "17:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "怀化南",
+      "arrive_time": "18:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 542.0,
+    "price_first": 270.0,
+    "price_second": 169.5,
+    "price_no_seat": 169.5
+  },
+  "fetched_at": "2026-05-01T09:19:23.632236"
+}

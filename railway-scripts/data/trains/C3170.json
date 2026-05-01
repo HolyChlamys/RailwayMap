@@ -1,0 +1,66 @@
+{
+  "train_no": "C3170",
+  "train_type": "C",
+  "depart_station": "上海虹桥",
+  "arrive_station": "阜阳西",
+  "depart_time": "20:54",
+  "arrive_time": "00:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "20:54",
+      "depart_time": "20:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州北",
+      "arrive_time": "21:17",
+      "depart_time": "21:23",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡东",
+      "arrive_time": "21:33",
+      "depart_time": "21:39",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "常州北",
+      "arrive_time": "21:56",
+      "depart_time": "21:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "22:31",
+      "depart_time": "22:35",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "合肥",
+      "arrive_time": "23:32",
+      "depart_time": "23:45",
+      "stay_min": "13"
+    },
+    {
+      "seq": 7,
+      "station_name": "阜阳西",
+      "arrive_time": "00:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1149.0,
+    "price_first": 564.0,
+    "price_second": 352.0,
+    "price_no_seat": 352.0
+  },
+  "fetched_at": "2026-05-01T00:53:00.882581"
+}

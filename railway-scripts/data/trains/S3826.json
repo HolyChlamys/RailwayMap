@@ -1,0 +1,50 @@
+{
+  "train_no": "S3826",
+  "train_type": "S",
+  "depart_station": "珠海机场",
+  "arrive_station": "珠海",
+  "depart_time": "07:30",
+  "arrive_time": "08:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海机场",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "珠海长隆",
+      "arrive_time": "07:46",
+      "depart_time": "07:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "横琴",
+      "arrive_time": "07:52",
+      "depart_time": "07:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "十字门",
+      "arrive_time": "08:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "珠海",
+      "arrive_time": "08:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 26.0,
+    "price_no_seat": 26.0
+  },
+  "fetched_at": "2026-05-01T10:51:36.298752"
+}

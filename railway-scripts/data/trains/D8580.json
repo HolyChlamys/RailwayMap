@@ -1,0 +1,51 @@
+{
+  "train_no": "D8580",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "重庆西",
+  "depart_time": "08:32",
+  "arrive_time": "10:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桐梓北",
+      "arrive_time": "09:47",
+      "depart_time": "09:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "赶水东",
+      "arrive_time": "10:08",
+      "depart_time": "10:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "綦江东",
+      "arrive_time": "10:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "重庆西",
+      "arrive_time": "10:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 222.0,
+    "price_second": 139.0,
+    "price_no_seat": 139.0
+  },
+  "fetched_at": "2026-05-01T05:00:07.299741"
+}

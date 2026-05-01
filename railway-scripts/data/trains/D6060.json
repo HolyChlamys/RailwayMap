@@ -1,0 +1,86 @@
+{
+  "train_no": "D6060",
+  "train_type": "D",
+  "depart_station": "威海",
+  "arrive_station": "聊城西",
+  "depart_time": "11:10",
+  "arrive_time": "16:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "威海",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高密",
+      "arrive_time": "13:03",
+      "depart_time": "13:07",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊",
+      "arrive_time": "13:57",
+      "depart_time": "14:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "青州市",
+      "arrive_time": "14:23",
+      "depart_time": "14:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "淄博",
+      "arrive_time": "14:43",
+      "depart_time": "14:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "章丘",
+      "arrive_time": "15:09",
+      "depart_time": "15:18",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "济南",
+      "arrive_time": "15:46",
+      "depart_time": "15:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "长清",
+      "arrive_time": "16:08",
+      "depart_time": "16:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "茌平南",
+      "arrive_time": "16:27",
+      "depart_time": "16:30",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "聊城西",
+      "arrive_time": "16:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 504.0,
+    "price_second": 315.0,
+    "price_no_seat": 315.0
+  },
+  "fetched_at": "2026-05-01T04:16:00.835176"
+}

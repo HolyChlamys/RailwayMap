@@ -1,0 +1,45 @@
+{
+  "train_no": "G8907",
+  "train_type": "G",
+  "depart_station": "北京通州",
+  "arrive_station": "北辰",
+  "depart_time": "11:00",
+  "arrive_time": "11:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京通州",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "燕郊",
+      "arrive_time": "11:13",
+      "depart_time": "11:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宝坻",
+      "arrive_time": "11:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "北辰",
+      "arrive_time": "11:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 240.0,
+    "price_first": 109.0,
+    "price_second": 68.0,
+    "price_no_seat": 68.0
+  },
+  "fetched_at": "2026-05-01T09:03:24.661794"
+}

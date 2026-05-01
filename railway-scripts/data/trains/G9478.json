@@ -1,0 +1,37 @@
+{
+  "train_no": "G9478",
+  "train_type": "G",
+  "depart_station": "南京南",
+  "arrive_station": "徐州东",
+  "depart_time": "22:38",
+  "arrive_time": "23:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "22:38",
+      "depart_time": "22:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蚌埠南",
+      "arrive_time": "23:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "23:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 291.0,
+    "price_second": 182.0,
+    "price_no_seat": 182.0
+  },
+  "fetched_at": "2026-05-01T09:15:16.713576"
+}

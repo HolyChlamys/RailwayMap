@@ -1,0 +1,77 @@
+{
+  "train_no": "K9801",
+  "train_type": "K",
+  "depart_station": "拉萨",
+  "arrive_station": "林芝",
+  "depart_time": "08:40",
+  "arrive_time": "13:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "拉萨",
+      "arrive_time": "08:40",
+      "depart_time": "08:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贡嘎",
+      "arrive_time": "09:20",
+      "depart_time": "09:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "扎囊",
+      "arrive_time": "09:45",
+      "depart_time": "09:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "山南",
+      "arrive_time": "10:19",
+      "depart_time": "10:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "桑日",
+      "arrive_time": "10:42",
+      "depart_time": "10:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "加查",
+      "arrive_time": "11:23",
+      "depart_time": "11:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "朗县",
+      "arrive_time": "11:59",
+      "depart_time": "11:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "米林",
+      "arrive_time": "13:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "林芝",
+      "arrive_time": "13:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 64.5
+  },
+  "fetched_at": "2026-05-01T10:49:35.398236"
+}

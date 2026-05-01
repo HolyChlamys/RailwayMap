@@ -1,0 +1,58 @@
+{
+  "train_no": "C9132",
+  "train_type": "C",
+  "depart_station": "三亚",
+  "arrive_station": "海口东",
+  "depart_time": "07:50",
+  "arrive_time": "09:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "三亚",
+      "arrive_time": "07:50",
+      "depart_time": "07:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "陵水",
+      "arrive_time": "08:13",
+      "depart_time": "08:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "琼海",
+      "arrive_time": "08:44",
+      "depart_time": "08:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "文昌",
+      "arrive_time": "09:02",
+      "depart_time": "09:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "美兰",
+      "arrive_time": "09:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "海口东",
+      "arrive_time": "09:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 181.0,
+    "price_second": 113.0,
+    "price_no_seat": 113.0
+  },
+  "fetched_at": "2026-05-01T02:40:44.993475"
+}

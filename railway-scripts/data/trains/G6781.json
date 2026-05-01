@@ -1,0 +1,59 @@
+{
+  "train_no": "G6781",
+  "train_type": "G",
+  "depart_station": "襄阳东",
+  "arrive_station": "巴东",
+  "depart_time": "08:13",
+  "arrive_time": "09:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳东",
+      "arrive_time": "08:13",
+      "depart_time": "08:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南漳",
+      "arrive_time": "08:31",
+      "depart_time": "08:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "保康县",
+      "arrive_time": "08:52",
+      "depart_time": "08:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "神农架",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "兴山",
+      "arrive_time": "09:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "巴东",
+      "arrive_time": "09:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 445.0,
+    "price_first": 203.0,
+    "price_second": 127.0,
+    "price_no_seat": 127.0
+  },
+  "fetched_at": "2026-05-01T08:08:40.683814"
+}

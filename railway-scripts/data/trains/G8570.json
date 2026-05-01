@@ -1,0 +1,52 @@
+{
+  "train_no": "G8570",
+  "train_type": "G",
+  "depart_station": "宜宾",
+  "arrive_station": "重庆西",
+  "depart_time": "17:03",
+  "arrive_time": "18:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜宾",
+      "arrive_time": "17:03",
+      "depart_time": "17:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泸州",
+      "arrive_time": "17:32",
+      "depart_time": "17:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "永川南",
+      "arrive_time": "17:54",
+      "depart_time": "17:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "江津北",
+      "arrive_time": "18:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "重庆西",
+      "arrive_time": "18:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 476.0,
+    "price_first": 218.0,
+    "price_second": 136.0,
+    "price_no_seat": 136.0
+  },
+  "fetched_at": "2026-05-01T08:54:44.784612"
+}

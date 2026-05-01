@@ -1,0 +1,73 @@
+{
+  "train_no": "G7709",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "祁门南",
+  "depart_time": "07:10",
+  "arrive_time": "09:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巢湖东",
+      "arrive_time": "07:33",
+      "depart_time": "07:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南陵",
+      "arrive_time": "08:02",
+      "depart_time": "08:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泾县",
+      "arrive_time": "08:14",
+      "depart_time": "08:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "绩溪北",
+      "arrive_time": "08:36",
+      "depart_time": "08:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黄山北",
+      "arrive_time": "08:54",
+      "depart_time": "08:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "黟县东",
+      "arrive_time": "09:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "祁门南",
+      "arrive_time": "09:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 567.5,
+    "price_first": 293.5,
+    "price_second": 175.5,
+    "price_no_seat": 175.5
+  },
+  "fetched_at": "2026-05-01T08:34:32.797676"
+}

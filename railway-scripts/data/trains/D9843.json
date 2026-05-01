@@ -1,0 +1,58 @@
+{
+  "train_no": "D9843",
+  "train_type": "D",
+  "depart_station": "红河",
+  "arrive_station": "昆明南",
+  "depart_time": "08:59",
+  "arrive_time": "10:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "红河",
+      "arrive_time": "08:59",
+      "depart_time": "08:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开远南",
+      "arrive_time": "09:13",
+      "depart_time": "09:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "竹园",
+      "arrive_time": "09:34",
+      "depart_time": "09:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "弥勒",
+      "arrive_time": "09:52",
+      "depart_time": "09:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "石林西",
+      "arrive_time": "10:13",
+      "depart_time": "10:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明南",
+      "arrive_time": "10:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 139.5,
+    "price_second": 87.0,
+    "price_no_seat": 87.0
+  },
+  "fetched_at": "2026-05-01T05:26:07.985071"
+}

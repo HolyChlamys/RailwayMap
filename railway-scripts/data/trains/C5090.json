@@ -1,0 +1,30 @@
+{
+  "train_no": "C5090",
+  "train_type": "C",
+  "depart_station": "利川",
+  "arrive_station": "恩施",
+  "depart_time": "07:10",
+  "arrive_time": "07:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "利川",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "恩施",
+      "arrive_time": "07:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 36.0,
+    "price_second": 23.0,
+    "price_no_seat": 23.0
+  },
+  "fetched_at": "2026-05-01T01:26:23.053226"
+}

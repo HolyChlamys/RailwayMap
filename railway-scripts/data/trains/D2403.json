@@ -1,0 +1,86 @@
+{
+  "train_no": "D2403",
+  "train_type": "D",
+  "depart_station": "厦门",
+  "arrive_station": "东莞南",
+  "depart_time": "06:28",
+  "arrive_time": "10:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "06:28",
+      "depart_time": "06:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "07:01",
+      "depart_time": "07:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "云霄",
+      "arrive_time": "07:29",
+      "depart_time": "07:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "诏安",
+      "arrive_time": "07:45",
+      "depart_time": "07:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "潮汕",
+      "arrive_time": "08:06",
+      "depart_time": "08:10",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "普宁",
+      "arrive_time": "08:27",
+      "depart_time": "08:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "汕尾",
+      "arrive_time": "08:58",
+      "depart_time": "09:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "惠阳",
+      "arrive_time": "09:29",
+      "depart_time": "09:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳北",
+      "arrive_time": "09:59",
+      "depart_time": "10:04",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "东莞南",
+      "arrive_time": "10:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 399.0,
+    "price_second": 250.0,
+    "price_no_seat": 250.0
+  },
+  "fetched_at": "2026-05-01T03:16:36.029857"
+}

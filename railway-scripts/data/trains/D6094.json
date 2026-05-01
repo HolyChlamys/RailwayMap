@@ -1,0 +1,44 @@
+{
+  "train_no": "D6094",
+  "train_type": "D",
+  "depart_station": "青岛北",
+  "arrive_station": "潍坊",
+  "depart_time": "20:17",
+  "arrive_time": "20:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "20:17",
+      "depart_time": "20:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "胶州北",
+      "arrive_time": "20:40",
+      "depart_time": "20:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "高密",
+      "arrive_time": "20:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潍坊",
+      "arrive_time": "20:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 100.0,
+    "price_second": 62.0,
+    "price_no_seat": 62.0
+  },
+  "fetched_at": "2026-05-01T04:16:31.736445"
+}

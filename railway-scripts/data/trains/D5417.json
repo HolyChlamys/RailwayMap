@@ -1,0 +1,65 @@
+{
+  "train_no": "D5417",
+  "train_type": "D",
+  "depart_station": "宿迁",
+  "arrive_station": "南京",
+  "depart_time": "14:59",
+  "arrive_time": "17:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宿迁",
+      "arrive_time": "14:59",
+      "depart_time": "14:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮安东",
+      "arrive_time": "15:27",
+      "depart_time": "15:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "宝应",
+      "arrive_time": "15:44",
+      "depart_time": "15:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "高邮",
+      "arrive_time": "16:03",
+      "depart_time": "16:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "大港南",
+      "arrive_time": "16:33",
+      "depart_time": "16:36",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "镇江",
+      "arrive_time": "16:52",
+      "depart_time": "16:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京",
+      "arrive_time": "17:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 272.0,
+    "price_second": 171.0,
+    "price_no_seat": 171.0
+  },
+  "fetched_at": "2026-05-01T04:06:06.102063"
+}

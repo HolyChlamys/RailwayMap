@@ -1,0 +1,45 @@
+{
+  "train_no": "G4942",
+  "train_type": "G",
+  "depart_station": "昆明南",
+  "arrive_station": "贵阳北",
+  "depart_time": "19:56",
+  "arrive_time": "20:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "19:56",
+      "depart_time": "19:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲靖北",
+      "arrive_time": "20:37",
+      "depart_time": "20:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "富源北",
+      "arrive_time": "20:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "20:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 891.0,
+    "price_first": 407.0,
+    "price_second": 255.0,
+    "price_no_seat": 255.0
+  },
+  "fetched_at": "2026-05-01T07:20:37.754437"
+}

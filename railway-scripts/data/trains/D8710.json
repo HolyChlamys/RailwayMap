@@ -1,0 +1,58 @@
+{
+  "train_no": "D8710",
+  "train_type": "D",
+  "depart_station": "昆明南",
+  "arrive_station": "大理",
+  "depart_time": "07:41",
+  "arrive_time": "10:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "07:41",
+      "depart_time": "07:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆明",
+      "arrive_time": "07:59",
+      "depart_time": "08:04",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "广通北",
+      "arrive_time": "08:57",
+      "depart_time": "08:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "楚雄",
+      "arrive_time": "09:13",
+      "depart_time": "09:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "云南驿",
+      "arrive_time": "09:49",
+      "depart_time": "09:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "大理",
+      "arrive_time": "10:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 247.5,
+    "price_second": 155.5,
+    "price_no_seat": 155.5
+  },
+  "fetched_at": "2026-05-01T05:03:22.341244"
+}

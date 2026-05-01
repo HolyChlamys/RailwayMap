@@ -1,0 +1,121 @@
+{
+  "train_no": "D4459",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "利川",
+  "depart_time": "02:19",
+  "arrive_time": "13:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "02:19",
+      "depart_time": "02:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "04:07",
+      "depart_time": "04:16",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "安庆",
+      "arrive_time": "05:36",
+      "depart_time": "05:41",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "武穴北",
+      "arrive_time": "06:37",
+      "depart_time": "06:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "蕲春南",
+      "arrive_time": "06:52",
+      "depart_time": "06:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "浠水南",
+      "arrive_time": "07:05",
+      "depart_time": "07:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "黄冈西",
+      "arrive_time": "07:26",
+      "depart_time": "07:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "武汉",
+      "arrive_time": "07:54",
+      "depart_time": "07:59",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "汉口",
+      "arrive_time": "08:18",
+      "depart_time": "08:40",
+      "stay_min": "22"
+    },
+    {
+      "seq": 10,
+      "station_name": "潜江",
+      "arrive_time": "09:33",
+      "depart_time": "09:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "荆州",
+      "arrive_time": "10:01",
+      "depart_time": "10:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "宜昌东",
+      "arrive_time": "10:40",
+      "depart_time": "10:58",
+      "stay_min": "18"
+    },
+    {
+      "seq": 13,
+      "station_name": "野三关",
+      "arrive_time": "11:53",
+      "depart_time": "12:01",
+      "stay_min": "8"
+    },
+    {
+      "seq": 14,
+      "station_name": "恩施",
+      "arrive_time": "12:57",
+      "depart_time": "13:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "利川",
+      "arrive_time": "13:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1077.0,
+    "price_second": 674.0,
+    "price_no_seat": 674.0
+  },
+  "fetched_at": "2026-05-01T03:51:08.706331"
+}

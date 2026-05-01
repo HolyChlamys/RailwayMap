@@ -1,0 +1,31 @@
+{
+  "train_no": "D5097",
+  "train_type": "D",
+  "depart_station": "大荔",
+  "arrive_station": "西安北",
+  "depart_time": "23:10",
+  "arrive_time": "23:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大荔",
+      "arrive_time": "23:10",
+      "depart_time": "23:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西安北",
+      "arrive_time": "23:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 107.5,
+    "price_first": 57.0,
+    "price_second": 36.0,
+    "price_no_seat": 36.0
+  },
+  "fetched_at": "2026-05-01T04:00:17.583877"
+}

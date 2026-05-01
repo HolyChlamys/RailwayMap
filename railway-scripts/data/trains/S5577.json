@@ -1,0 +1,30 @@
+{
+  "train_no": "S5577",
+  "train_type": "S",
+  "depart_station": "梁平南",
+  "arrive_station": "重庆北",
+  "depart_time": "01:36",
+  "arrive_time": "01:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梁平南",
+      "arrive_time": "01:36",
+      "depart_time": "01:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "01:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 138.0,
+    "price_second": 86.0,
+    "price_no_seat": 86.0
+  },
+  "fetched_at": "2026-05-01T11:09:08.678414"
+}

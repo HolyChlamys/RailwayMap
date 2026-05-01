@@ -1,0 +1,107 @@
+{
+  "train_no": "D2128",
+  "train_type": "D",
+  "depart_station": "青岛",
+  "arrive_station": "宁波",
+  "depart_time": "15:10",
+  "arrive_time": "22:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛",
+      "arrive_time": "15:10",
+      "depart_time": "15:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛北",
+      "arrive_time": "15:28",
+      "depart_time": "15:38",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "红岛",
+      "arrive_time": "15:53",
+      "depart_time": "16:01",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "岚山西",
+      "arrive_time": "17:00",
+      "depart_time": "17:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "连云港",
+      "arrive_time": "17:33",
+      "depart_time": "17:37",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "盐城",
+      "arrive_time": "18:48",
+      "depart_time": "18:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "海安",
+      "arrive_time": "19:19",
+      "depart_time": "19:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "张家港",
+      "arrive_time": "19:53",
+      "depart_time": "19:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "太仓",
+      "arrive_time": "20:19",
+      "depart_time": "20:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "上海虹桥",
+      "arrive_time": "20:52",
+      "depart_time": "21:04",
+      "stay_min": "12"
+    },
+    {
+      "seq": 11,
+      "station_name": "嘉兴南",
+      "arrive_time": "21:33",
+      "depart_time": "21:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "杭州东",
+      "arrive_time": "22:00",
+      "depart_time": "22:03",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "宁波",
+      "arrive_time": "22:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 741.0,
+    "price_second": 465.0,
+    "price_no_seat": 465.0
+  },
+  "fetched_at": "2026-05-01T03:10:27.071816"
+}

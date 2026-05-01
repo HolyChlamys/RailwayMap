@@ -1,0 +1,78 @@
+{
+  "train_no": "D148",
+  "train_type": "D",
+  "depart_station": "深圳东",
+  "arrive_station": "郑州",
+  "depart_time": "18:34",
+  "arrive_time": "13:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳东",
+      "arrive_time": "18:34",
+      "depart_time": "18:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞东",
+      "arrive_time": "19:03",
+      "depart_time": "19:08",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州",
+      "arrive_time": "19:49",
+      "depart_time": "19:54",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州",
+      "arrive_time": "00:14",
+      "depart_time": "00:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "九江",
+      "arrive_time": "05:50",
+      "depart_time": "05:58",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "阜阳",
+      "arrive_time": "09:53",
+      "depart_time": "09:59",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "商丘",
+      "arrive_time": "11:30",
+      "depart_time": "11:35",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "开封",
+      "arrive_time": "12:44",
+      "depart_time": "12:49",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "郑州",
+      "arrive_time": "13:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 583.0,
+    "price_no_seat": 583.0
+  },
+  "fetched_at": "2026-05-01T03:00:31.111895"
+}

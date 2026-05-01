@@ -1,0 +1,115 @@
+{
+  "train_no": "G1447",
+  "train_type": "G",
+  "depart_station": "杭州西",
+  "arrive_station": "武汉",
+  "depart_time": "07:49",
+  "arrive_time": "12:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "07:49",
+      "depart_time": "07:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桐庐东",
+      "arrive_time": "08:08",
+      "depart_time": "08:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "千岛湖",
+      "arrive_time": "08:37",
+      "depart_time": "08:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "黄山北",
+      "arrive_time": "09:15",
+      "depart_time": "09:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "黟县东",
+      "arrive_time": "09:29",
+      "depart_time": "09:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "黄山西",
+      "arrive_time": "09:47",
+      "depart_time": "09:51",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "九华山",
+      "arrive_time": "10:06",
+      "depart_time": "10:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "安庆",
+      "arrive_time": "10:35",
+      "depart_time": "10:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "宿松东",
+      "arrive_time": "11:12",
+      "depart_time": "11:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "武穴北",
+      "arrive_time": "11:34",
+      "depart_time": "11:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "蕲春南",
+      "arrive_time": "11:48",
+      "depart_time": "11:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "浠水南",
+      "arrive_time": "12:01",
+      "depart_time": "12:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "黄冈西",
+      "arrive_time": "12:21",
+      "depart_time": "12:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "武汉",
+      "arrive_time": "12:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1352.0,
+    "price_first": 644.0,
+    "price_second": 402.0,
+    "price_no_seat": 402.0
+  },
+  "fetched_at": "2026-05-01T05:43:17.875884"
+}

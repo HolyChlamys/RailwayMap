@@ -1,0 +1,79 @@
+{
+  "train_no": "C7145",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "茂名",
+  "depart_time": "18:16",
+  "arrive_time": "20:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "18:16",
+      "depart_time": "18:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "古镇",
+      "arrive_time": "18:39",
+      "depart_time": "18:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "江门东",
+      "arrive_time": "18:47",
+      "depart_time": "18:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新会",
+      "arrive_time": "18:53",
+      "depart_time": "18:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "江门",
+      "arrive_time": "19:01",
+      "depart_time": "19:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "台山",
+      "arrive_time": "19:22",
+      "depart_time": "19:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "阳东",
+      "arrive_time": "19:54",
+      "depart_time": "19:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "阳江",
+      "arrive_time": "20:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "茂名",
+      "arrive_time": "20:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 316.0,
+    "price_second": 205.0,
+    "price_no_seat": 205.0
+  },
+  "fetched_at": "2026-05-01T02:07:13.652306"
+}

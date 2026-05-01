@@ -1,0 +1,51 @@
+{
+  "train_no": "D5976",
+  "train_type": "D",
+  "depart_station": "宜昌东",
+  "arrive_station": "汉口",
+  "depart_time": "10:53",
+  "arrive_time": "12:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "10:53",
+      "depart_time": "10:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "11:29",
+      "depart_time": "11:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天门南",
+      "arrive_time": "12:13",
+      "depart_time": "12:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉川",
+      "arrive_time": "12:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汉口",
+      "arrive_time": "12:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 173.0,
+    "price_second": 108.0,
+    "price_no_seat": 108.0
+  },
+  "fetched_at": "2026-05-01T04:14:03.825906"
+}

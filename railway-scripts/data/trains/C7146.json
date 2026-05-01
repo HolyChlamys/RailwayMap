@@ -1,0 +1,65 @@
+{
+  "train_no": "C7146",
+  "train_type": "C",
+  "depart_station": "茂名",
+  "arrive_station": "佛山西",
+  "depart_time": "21:25",
+  "arrive_time": "23:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "茂名",
+      "arrive_time": "21:25",
+      "depart_time": "21:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马踏",
+      "arrive_time": "21:50",
+      "depart_time": "21:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阳江",
+      "arrive_time": "22:17",
+      "depart_time": "22:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "开平南",
+      "arrive_time": "22:53",
+      "depart_time": "22:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "江门",
+      "arrive_time": "23:22",
+      "depart_time": "23:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "23:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "佛山西",
+      "arrive_time": "23:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 339.0,
+    "price_second": 220.0,
+    "price_no_seat": 220.0
+  },
+  "fetched_at": "2026-05-01T02:07:15.278775"
+}

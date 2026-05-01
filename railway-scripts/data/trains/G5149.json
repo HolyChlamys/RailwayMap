@@ -1,0 +1,80 @@
+{
+  "train_no": "G5149",
+  "train_type": "G",
+  "depart_station": "深圳",
+  "arrive_station": "湛江北",
+  "depart_time": "12:42",
+  "arrive_time": "16:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "12:42",
+      "depart_time": "12:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "13:27",
+      "depart_time": "13:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州",
+      "arrive_time": "13:54",
+      "depart_time": "14:05",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "新兴南",
+      "arrive_time": "14:46",
+      "depart_time": "14:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "阳春东",
+      "arrive_time": "15:06",
+      "depart_time": "15:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "阳江北",
+      "arrive_time": "15:19",
+      "depart_time": "15:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "茂名南",
+      "arrive_time": "15:44",
+      "depart_time": "15:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "吴川",
+      "arrive_time": "15:56",
+      "depart_time": "16:01",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "湛江北",
+      "arrive_time": "16:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1424.0,
+    "price_first": 622.5,
+    "price_second": 406.5,
+    "price_no_seat": 406.5
+  },
+  "fetched_at": "2026-05-01T07:26:03.636649"
+}

@@ -1,0 +1,42 @@
+{
+  "train_no": "K6182",
+  "train_type": "K",
+  "depart_station": "襄阳",
+  "arrive_station": "安陆",
+  "depart_time": "19:08",
+  "arrive_time": "20:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳",
+      "arrive_time": "19:08",
+      "depart_time": "19:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枣阳",
+      "arrive_time": "19:53",
+      "depart_time": "19:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "随州",
+      "arrive_time": "20:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安陆",
+      "arrive_time": "20:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:19:35.825183"
+}

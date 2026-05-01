@@ -1,0 +1,52 @@
+{
+  "train_no": "C3037",
+  "train_type": "C",
+  "depart_station": "徐州东",
+  "arrive_station": "扬州东",
+  "depart_time": "19:06",
+  "arrive_time": "20:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "徐州东",
+      "arrive_time": "19:06",
+      "depart_time": "19:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宿迁",
+      "arrive_time": "19:40",
+      "depart_time": "19:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泗阳",
+      "arrive_time": "20:04",
+      "depart_time": "20:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "淮安东",
+      "arrive_time": "20:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "扬州东",
+      "arrive_time": "20:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 741.0,
+    "price_first": 360.0,
+    "price_second": 226.0,
+    "price_no_seat": 226.0
+  },
+  "fetched_at": "2026-05-01T00:49:21.806599"
+}

@@ -1,0 +1,57 @@
+{
+  "train_no": "S6709",
+  "train_type": "S",
+  "depart_station": "崖州",
+  "arrive_station": "三亚",
+  "depart_time": "16:50",
+  "arrive_time": "17:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "崖州",
+      "arrive_time": "16:50",
+      "depart_time": "16:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "崖州湾",
+      "arrive_time": "16:56",
+      "depart_time": "16:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南山北",
+      "arrive_time": "17:04",
+      "depart_time": "17:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "天涯海角",
+      "arrive_time": "17:14",
+      "depart_time": "17:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "凤凰机场",
+      "arrive_time": "17:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "三亚",
+      "arrive_time": "17:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 3.0,
+    "price_no_seat": 3.0
+  },
+  "fetched_at": "2026-05-01T11:09:43.254086"
+}

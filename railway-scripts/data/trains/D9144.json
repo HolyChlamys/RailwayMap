@@ -1,0 +1,30 @@
+{
+  "train_no": "D9144",
+  "train_type": "D",
+  "depart_station": "齐齐哈尔",
+  "arrive_station": "哈尔滨",
+  "depart_time": "21:57",
+  "arrive_time": "21:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "齐齐哈尔",
+      "arrive_time": "21:57",
+      "depart_time": "21:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "哈尔滨",
+      "arrive_time": "21:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 160.0,
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T05:08:22.190625"
+}

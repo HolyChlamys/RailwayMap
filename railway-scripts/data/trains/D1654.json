@@ -1,0 +1,79 @@
+{
+  "train_no": "D1654",
+  "train_type": "D",
+  "depart_station": "太原南",
+  "arrive_station": "烟台",
+  "depart_time": "12:36",
+  "arrive_time": "18:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "12:36",
+      "depart_time": "12:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "13:57",
+      "depart_time": "14:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "衡水北",
+      "arrive_time": "14:42",
+      "depart_time": "14:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "德州东",
+      "arrive_time": "15:11",
+      "depart_time": "15:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "平原东",
+      "arrive_time": "15:24",
+      "depart_time": "15:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南东",
+      "arrive_time": "15:51",
+      "depart_time": "15:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "淄博北",
+      "arrive_time": "16:18",
+      "depart_time": "16:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "潍坊北",
+      "arrive_time": "16:51",
+      "depart_time": "16:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "烟台",
+      "arrive_time": "18:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 615.0,
+    "price_second": 386.0,
+    "price_no_seat": 386.0
+  },
+  "fetched_at": "2026-05-01T03:02:18.330988"
+}

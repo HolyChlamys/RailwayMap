@@ -1,0 +1,94 @@
+{
+  "train_no": "C6177",
+  "train_type": "C",
+  "depart_station": "峨眉山",
+  "arrive_station": "绵阳",
+  "depart_time": "13:03",
+  "arrive_time": "15:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "峨眉山",
+      "arrive_time": "13:03",
+      "depart_time": "13:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "峨眉",
+      "arrive_time": "13:11",
+      "depart_time": "13:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "三星堆",
+      "arrive_time": "15:14",
+      "depart_time": "15:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "茂县",
+      "arrive_time": "16:14",
+      "depart_time": "16:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "乐山",
+      "arrive_time": "13:25",
+      "depart_time": "13:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "松潘",
+      "arrive_time": "17:08",
+      "depart_time": "17:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "眉山东",
+      "arrive_time": "13:46",
+      "depart_time": "13:53",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "新津南",
+      "arrive_time": "14:05",
+      "depart_time": "14:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "成都东",
+      "arrive_time": "14:32",
+      "depart_time": "14:39",
+      "stay_min": "7"
+    },
+    {
+      "seq": 10,
+      "station_name": "德阳",
+      "arrive_time": "15:03",
+      "depart_time": "15:08",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "绵阳",
+      "arrive_time": "15:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 468.0,
+    "price_first": 214.0,
+    "price_second": 134.0,
+    "price_no_seat": 134.0
+  },
+  "fetched_at": "2026-05-01T01:46:20.464828"
+}

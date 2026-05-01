@@ -1,0 +1,58 @@
+{
+  "train_no": "D8613",
+  "train_type": "D",
+  "depart_station": "昆明南",
+  "arrive_station": "红河",
+  "depart_time": "12:30",
+  "arrive_time": "14:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "12:30",
+      "depart_time": "12:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石林西",
+      "arrive_time": "12:54",
+      "depart_time": "12:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "弥勒",
+      "arrive_time": "13:13",
+      "depart_time": "13:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "朋普",
+      "arrive_time": "13:34",
+      "depart_time": "13:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "开远南",
+      "arrive_time": "13:51",
+      "depart_time": "13:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "红河",
+      "arrive_time": "14:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 139.5,
+    "price_second": 87.0,
+    "price_no_seat": 87.0
+  },
+  "fetched_at": "2026-05-01T05:00:55.024897"
+}

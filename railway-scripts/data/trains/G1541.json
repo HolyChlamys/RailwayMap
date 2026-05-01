@@ -1,0 +1,143 @@
+{
+  "train_no": "G1541",
+  "train_type": "G",
+  "depart_station": "张家港",
+  "arrive_station": "昆明南",
+  "depart_time": "07:46",
+  "arrive_time": "20:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家港",
+      "arrive_time": "07:46",
+      "depart_time": "07:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江阴",
+      "arrive_time": "08:00",
+      "depart_time": "08:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "武进",
+      "arrive_time": "08:16",
+      "depart_time": "08:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "08:51",
+      "depart_time": "09:08",
+      "stay_min": "17"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥南",
+      "arrive_time": "09:56",
+      "depart_time": "10:05",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "武汉",
+      "arrive_time": "11:49",
+      "depart_time": "11:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "岳阳东",
+      "arrive_time": "12:43",
+      "depart_time": "12:57",
+      "stay_min": "14"
+    },
+    {
+      "seq": 8,
+      "station_name": "长沙南",
+      "arrive_time": "13:33",
+      "depart_time": "13:37",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "韶山南",
+      "arrive_time": "14:00",
+      "depart_time": "14:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "邵阳北",
+      "arrive_time": "14:30",
+      "depart_time": "14:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "怀化南",
+      "arrive_time": "15:13",
+      "depart_time": "15:17",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "凯里南",
+      "arrive_time": "16:16",
+      "depart_time": "16:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "贵定北",
+      "arrive_time": "16:38",
+      "depart_time": "16:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "贵阳北",
+      "arrive_time": "17:00",
+      "depart_time": "17:05",
+      "stay_min": "5"
+    },
+    {
+      "seq": 15,
+      "station_name": "安顺西",
+      "arrive_time": "17:36",
+      "depart_time": "17:41",
+      "stay_min": "5"
+    },
+    {
+      "seq": 16,
+      "station_name": "盘州",
+      "arrive_time": "18:38",
+      "depart_time": "18:42",
+      "stay_min": "4"
+    },
+    {
+      "seq": 17,
+      "station_name": "曲靖北",
+      "arrive_time": "19:20",
+      "depart_time": "19:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "昆明南",
+      "arrive_time": "20:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3992.0,
+    "price_first": 1835.0,
+    "price_second": 1147.0,
+    "price_no_seat": 1147.0
+  },
+  "fetched_at": "2026-05-01T05:46:03.737470"
+}

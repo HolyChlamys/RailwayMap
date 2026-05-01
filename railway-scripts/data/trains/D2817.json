@@ -1,0 +1,65 @@
+{
+  "train_no": "D2817",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "太原南",
+  "depart_time": "19:56",
+  "arrive_time": "23:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "19:56",
+      "depart_time": "19:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌兰察布",
+      "arrive_time": "20:35",
+      "depart_time": "20:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "丰镇北",
+      "arrive_time": "20:58",
+      "depart_time": "21:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "大同南",
+      "arrive_time": "21:23",
+      "depart_time": "21:33",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "山阴南",
+      "arrive_time": "21:58",
+      "depart_time": "22:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "朔州东",
+      "arrive_time": "22:13",
+      "depart_time": "22:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "太原南",
+      "arrive_time": "23:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 387.0,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T03:23:56.557943"
+}

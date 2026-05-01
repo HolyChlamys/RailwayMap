@@ -1,0 +1,80 @@
+{
+  "train_no": "G7723",
+  "train_type": "G",
+  "depart_station": "界首南",
+  "arrive_station": "安庆",
+  "depart_time": "12:03",
+  "arrive_time": "14:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "界首南",
+      "arrive_time": "12:03",
+      "depart_time": "12:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "临泉",
+      "arrive_time": "12:16",
+      "depart_time": "12:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阜阳西",
+      "arrive_time": "12:36",
+      "depart_time": "12:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "颍上北",
+      "arrive_time": "12:55",
+      "depart_time": "12:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥西",
+      "arrive_time": "13:43",
+      "depart_time": "13:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "合肥南",
+      "arrive_time": "14:01",
+      "depart_time": "14:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "无为",
+      "arrive_time": "14:32",
+      "depart_time": "14:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "铜陵",
+      "arrive_time": "14:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "安庆",
+      "arrive_time": "14:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 879.5,
+    "price_first": 455.0,
+    "price_second": 280.5,
+    "price_no_seat": 280.5
+  },
+  "fetched_at": "2026-05-01T08:34:57.503250"
+}

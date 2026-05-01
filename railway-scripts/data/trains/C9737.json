@@ -1,0 +1,58 @@
+{
+  "train_no": "C9737",
+  "train_type": "C",
+  "depart_station": "徐州东",
+  "arrive_station": "南京",
+  "depart_time": "22:13",
+  "arrive_time": "00:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "徐州东",
+      "arrive_time": "22:13",
+      "depart_time": "22:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宿迁",
+      "arrive_time": "22:45",
+      "depart_time": "22:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "淮安东",
+      "arrive_time": "23:15",
+      "depart_time": "23:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "扬州东",
+      "arrive_time": "23:57",
+      "depart_time": "23:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "镇江",
+      "arrive_time": "00:28",
+      "depart_time": "00:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京",
+      "arrive_time": "00:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 342.0,
+    "price_second": 215.0,
+    "price_no_seat": 215.0
+  },
+  "fetched_at": "2026-05-01T02:52:12.319100"
+}

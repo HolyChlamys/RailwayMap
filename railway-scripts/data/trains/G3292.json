@@ -1,0 +1,192 @@
+{
+  "train_no": "G3292",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "泸州",
+  "depart_time": "08:24",
+  "arrive_time": "22:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "08:24",
+      "depart_time": "08:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "常熟",
+      "arrive_time": "09:09",
+      "depart_time": "09:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "如皋",
+      "arrive_time": "09:49",
+      "depart_time": "09:54",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "姜堰",
+      "arrive_time": "10:21",
+      "depart_time": "10:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "泰州",
+      "arrive_time": "10:34",
+      "depart_time": "10:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "江都",
+      "arrive_time": "10:53",
+      "depart_time": "10:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "淮安东",
+      "arrive_time": "11:40",
+      "depart_time": "11:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "睢宁",
+      "arrive_time": "12:19",
+      "depart_time": "12:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "徐州东",
+      "arrive_time": "12:46",
+      "depart_time": "12:52",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "郑州东",
+      "arrive_time": "14:21",
+      "depart_time": "14:27",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "洛阳龙门",
+      "arrive_time": "15:03",
+      "depart_time": "15:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "三门峡南",
+      "arrive_time": "15:36",
+      "depart_time": "15:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "西安北",
+      "arrive_time": "16:32",
+      "depart_time": "16:39",
+      "stay_min": "7"
+    },
+    {
+      "seq": 14,
+      "station_name": "西安西",
+      "arrive_time": "16:50",
+      "depart_time": "16:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "佛坪",
+      "arrive_time": "17:27",
+      "depart_time": "17:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "汉中",
+      "arrive_time": "18:00",
+      "depart_time": "18:03",
+      "stay_min": "3"
+    },
+    {
+      "seq": 17,
+      "station_name": "宁强南",
+      "arrive_time": "18:28",
+      "depart_time": "18:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "广元",
+      "arrive_time": "18:54",
+      "depart_time": "18:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 19,
+      "station_name": "绵阳",
+      "arrive_time": "19:48",
+      "depart_time": "19:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 20,
+      "station_name": "德阳",
+      "arrive_time": "20:07",
+      "depart_time": "20:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 21,
+      "station_name": "成都东",
+      "arrive_time": "20:33",
+      "depart_time": "20:43",
+      "stay_min": "10"
+    },
+    {
+      "seq": 22,
+      "station_name": "资中北",
+      "arrive_time": "21:17",
+      "depart_time": "21:24",
+      "stay_min": "7"
+    },
+    {
+      "seq": 23,
+      "station_name": "内江北",
+      "arrive_time": "21:35",
+      "depart_time": "21:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 24,
+      "station_name": "自贡",
+      "arrive_time": "22:00",
+      "depart_time": "22:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 25,
+      "station_name": "泸州",
+      "arrive_time": "22:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 4111.0,
+    "price_first": 1931.0,
+    "price_second": 1208.0,
+    "price_no_seat": 1208.0
+  },
+  "fetched_at": "2026-05-01T06:33:55.605213"
+}

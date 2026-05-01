@@ -1,0 +1,52 @@
+{
+  "train_no": "G9566",
+  "train_type": "G",
+  "depart_station": "荔波",
+  "arrive_station": "兴义南",
+  "depart_time": "14:57",
+  "arrive_time": "18:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荔波",
+      "arrive_time": "14:57",
+      "depart_time": "14:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳北",
+      "arrive_time": "16:03",
+      "depart_time": "16:07",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "安顺西",
+      "arrive_time": "16:37",
+      "depart_time": "16:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "盘州",
+      "arrive_time": "17:35",
+      "depart_time": "17:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "兴义南",
+      "arrive_time": "18:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1160.0,
+    "price_first": 531.0,
+    "price_second": 331.0,
+    "price_no_seat": 331.0
+  },
+  "fetched_at": "2026-05-01T09:17:56.461473"
+}

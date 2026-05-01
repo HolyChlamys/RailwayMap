@@ -1,0 +1,38 @@
+{
+  "train_no": "G8775",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "巴南",
+  "depart_time": "21:27",
+  "arrive_time": "22:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "21:27",
+      "depart_time": "21:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆东",
+      "arrive_time": "22:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "巴南",
+      "arrive_time": "22:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 135.0,
+    "price_first": 64.0,
+    "price_second": 40.0,
+    "price_no_seat": 40.0
+  },
+  "fetched_at": "2026-05-01T09:00:11.650420"
+}

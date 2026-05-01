@@ -1,0 +1,73 @@
+{
+  "train_no": "G3426",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "郑州东",
+  "depart_time": "15:18",
+  "arrive_time": "21:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "15:18",
+      "depart_time": "15:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "隆昌北",
+      "arrive_time": "16:02",
+      "depart_time": "16:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "16:54",
+      "depart_time": "17:00",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "万州北",
+      "arrive_time": "18:09",
+      "depart_time": "18:14",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "襄阳东",
+      "arrive_time": "20:00",
+      "depart_time": "20:05",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "南阳东",
+      "arrive_time": "20:39",
+      "depart_time": "20:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州航空港",
+      "arrive_time": "21:36",
+      "depart_time": "21:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "郑州东",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2436.0,
+    "price_first": 1158.0,
+    "price_second": 723.0,
+    "price_no_seat": 723.0
+  },
+  "fetched_at": "2026-05-01T06:37:42.181163"
+}

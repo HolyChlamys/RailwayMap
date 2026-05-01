@@ -1,0 +1,38 @@
+{
+  "train_no": "G5410",
+  "train_type": "G",
+  "depart_station": "重庆北",
+  "arrive_station": "奉节",
+  "depart_time": "04:19",
+  "arrive_time": "05:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "04:19",
+      "depart_time": "04:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "万州北",
+      "arrive_time": "05:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "奉节",
+      "arrive_time": "05:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 605.0,
+    "price_first": 277.0,
+    "price_second": 173.0,
+    "price_no_seat": 173.0
+  },
+  "fetched_at": "2026-05-01T07:33:17.201213"
+}

@@ -1,0 +1,66 @@
+{
+  "train_no": "G9842",
+  "train_type": "G",
+  "depart_station": "厦门",
+  "arrive_station": "福州",
+  "depart_time": "16:07",
+  "arrive_time": "18:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "16:07",
+      "depart_time": "16:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "厦门北",
+      "arrive_time": "16:32",
+      "depart_time": "16:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泉州南",
+      "arrive_time": "16:54",
+      "depart_time": "16:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "莆田",
+      "arrive_time": "17:20",
+      "depart_time": "17:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福清西",
+      "arrive_time": "17:43",
+      "depart_time": "17:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "福州南",
+      "arrive_time": "18:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "福州",
+      "arrive_time": "18:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 489.0,
+    "price_first": 224.0,
+    "price_second": 140.0,
+    "price_no_seat": 140.0
+  },
+  "fetched_at": "2026-05-01T09:25:52.860397"
+}

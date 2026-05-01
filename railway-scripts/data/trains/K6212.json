@@ -1,0 +1,49 @@
+{
+  "train_no": "K6212",
+  "train_type": "K",
+  "depart_station": "定南",
+  "arrive_station": "南昌",
+  "depart_time": "09:30",
+  "arrive_time": "13:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "定南",
+      "arrive_time": "09:30",
+      "depart_time": "09:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "信丰",
+      "arrive_time": "10:31",
+      "depart_time": "10:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "赣州",
+      "arrive_time": "11:18",
+      "depart_time": "11:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "吉安",
+      "arrive_time": "13:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌",
+      "arrive_time": "13:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 78.0
+  },
+  "fetched_at": "2026-05-01T10:20:03.864923"
+}

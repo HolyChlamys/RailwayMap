@@ -1,0 +1,87 @@
+{
+  "train_no": "G9655",
+  "train_type": "G",
+  "depart_station": "清远",
+  "arrive_station": "张家界西",
+  "depart_time": "20:07",
+  "arrive_time": "13:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清远",
+      "arrive_time": "20:07",
+      "depart_time": "20:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州北",
+      "arrive_time": "20:22",
+      "depart_time": "20:26",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "20:45",
+      "depart_time": "20:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀化南",
+      "arrive_time": "11:44",
+      "depart_time": "11:49",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "麻阳西",
+      "arrive_time": "12:09",
+      "depart_time": "12:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "凤凰古城",
+      "arrive_time": "12:21",
+      "depart_time": "12:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "吉首东",
+      "arrive_time": "12:34",
+      "depart_time": "12:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "古丈西",
+      "arrive_time": "12:51",
+      "depart_time": "12:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "芙蓉镇",
+      "arrive_time": "13:04",
+      "depart_time": "13:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "张家界西",
+      "arrive_time": "13:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 69.0,
+    "price_first": 32.0,
+    "price_second": 20.0,
+    "price_no_seat": 20.0
+  },
+  "fetched_at": "2026-05-01T09:20:21.675370"
+}

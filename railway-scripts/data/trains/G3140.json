@@ -1,0 +1,94 @@
+{
+  "train_no": "G3140",
+  "train_type": "G",
+  "depart_station": "内江北",
+  "arrive_station": "太原南",
+  "depart_time": "15:00",
+  "arrive_time": "21:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "内江北",
+      "arrive_time": "15:00",
+      "depart_time": "15:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "资阳北",
+      "arrive_time": "15:22",
+      "depart_time": "15:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "简阳南",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "成都东",
+      "arrive_time": "16:02",
+      "depart_time": "16:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "德阳",
+      "arrive_time": "16:28",
+      "depart_time": "16:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广元",
+      "arrive_time": "17:36",
+      "depart_time": "17:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "汉中",
+      "arrive_time": "18:23",
+      "depart_time": "18:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "西安北",
+      "arrive_time": "19:42",
+      "depart_time": "19:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "运城北",
+      "arrive_time": "20:47",
+      "depart_time": "20:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "临汾西",
+      "arrive_time": "21:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "太原南",
+      "arrive_time": "21:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2140.0,
+    "price_first": 979.0,
+    "price_second": 611.0,
+    "price_no_seat": 611.0
+  },
+  "fetched_at": "2026-05-01T06:29:50.220242"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "G9244",
+  "train_type": "G",
+  "depart_station": "南京",
+  "arrive_station": "扬州东",
+  "depart_time": "21:16",
+  "arrive_time": "22:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "21:16",
+      "depart_time": "21:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "镇江",
+      "arrive_time": "21:36",
+      "depart_time": "21:41",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "扬州东",
+      "arrive_time": "22:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 115.0,
+    "price_second": 72.0,
+    "price_no_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T09:09:04.968204"
+}

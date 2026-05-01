@@ -1,0 +1,52 @@
+{
+  "train_no": "G6678",
+  "train_type": "G",
+  "depart_station": "沈丘北",
+  "arrive_station": "郑州东",
+  "depart_time": "06:41",
+  "arrive_time": "07:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈丘北",
+      "arrive_time": "06:41",
+      "depart_time": "06:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮阳南",
+      "arrive_time": "06:52",
+      "depart_time": "06:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "周口东",
+      "arrive_time": "07:04",
+      "depart_time": "07:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "扶沟南",
+      "arrive_time": "07:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "07:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 365.0,
+    "price_first": 194.0,
+    "price_second": 122.0,
+    "price_no_seat": 122.0
+  },
+  "fetched_at": "2026-05-01T08:05:41.515590"
+}

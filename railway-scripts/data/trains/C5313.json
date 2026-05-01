@@ -1,0 +1,51 @@
+{
+  "train_no": "C5313",
+  "train_type": "C",
+  "depart_station": "黄冈东",
+  "arrive_station": "天门南",
+  "depart_time": "21:15",
+  "arrive_time": "23:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄冈东",
+      "arrive_time": "21:15",
+      "depart_time": "21:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉",
+      "arrive_time": "21:47",
+      "depart_time": "22:00",
+      "stay_min": "13"
+    },
+    {
+      "seq": 3,
+      "station_name": "汉口",
+      "arrive_time": "22:23",
+      "depart_time": "22:27",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "汉川",
+      "arrive_time": "22:50",
+      "depart_time": "22:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "天门南",
+      "arrive_time": "23:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 130.0,
+    "price_second": 81.0,
+    "price_no_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T01:32:41.638295"
+}

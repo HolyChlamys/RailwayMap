@@ -1,0 +1,101 @@
+{
+  "train_no": "G6970",
+  "train_type": "G",
+  "depart_station": "烟台",
+  "arrive_station": "济南西",
+  "depart_time": "08:42",
+  "arrive_time": "11:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "烟台",
+      "arrive_time": "08:42",
+      "depart_time": "08:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福山",
+      "arrive_time": "09:02",
+      "depart_time": "09:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "烟台西",
+      "arrive_time": "09:15",
+      "depart_time": "09:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "蓬莱",
+      "arrive_time": "09:27",
+      "depart_time": "09:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "龙口市",
+      "arrive_time": "09:41",
+      "depart_time": "09:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "莱州",
+      "arrive_time": "10:04",
+      "depart_time": "10:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "灰埠",
+      "arrive_time": "10:17",
+      "depart_time": "10:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "潍坊北",
+      "arrive_time": "10:38",
+      "depart_time": "10:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "临淄北",
+      "arrive_time": "11:04",
+      "depart_time": "11:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "淄博北",
+      "arrive_time": "11:17",
+      "depart_time": "11:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "济南东",
+      "arrive_time": "11:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "济南西",
+      "arrive_time": "11:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 890.0,
+    "price_first": 432.0,
+    "price_second": 269.0,
+    "price_no_seat": 269.0
+  },
+  "fetched_at": "2026-05-01T08:14:01.386075"
+}

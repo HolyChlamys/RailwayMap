@@ -1,0 +1,87 @@
+{
+  "train_no": "G4084",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "重庆西",
+  "depart_time": "06:03",
+  "arrive_time": "11:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "06:03",
+      "depart_time": "06:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肇庆东",
+      "arrive_time": "06:42",
+      "depart_time": "06:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桂林西",
+      "arrive_time": "08:17",
+      "depart_time": "08:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "从江",
+      "arrive_time": "09:03",
+      "depart_time": "09:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "榕江",
+      "arrive_time": "09:23",
+      "depart_time": "09:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "都匀东",
+      "arrive_time": "09:53",
+      "depart_time": "09:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "贵阳",
+      "arrive_time": "10:32",
+      "depart_time": "10:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "贵阳北",
+      "arrive_time": "10:53",
+      "depart_time": "10:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "遵义",
+      "arrive_time": "11:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "重庆西",
+      "arrive_time": "11:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1918.0,
+    "price_first": 912.0,
+    "price_second": 570.0,
+    "price_no_seat": 570.0
+  },
+  "fetched_at": "2026-05-01T06:55:19.838555"
+}

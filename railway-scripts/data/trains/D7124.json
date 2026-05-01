@@ -1,0 +1,66 @@
+{
+  "train_no": "D7124",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "郁南",
+  "depart_time": "20:00",
+  "arrive_time": "21:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "20:00",
+      "depart_time": "20:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "20:20",
+      "depart_time": "20:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "三水南",
+      "arrive_time": "20:50",
+      "depart_time": "20:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "肇庆东",
+      "arrive_time": "21:05",
+      "depart_time": "21:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "云浮东",
+      "arrive_time": "21:32",
+      "depart_time": "21:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南江口",
+      "arrive_time": "21:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "郁南",
+      "arrive_time": "21:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 334.0,
+    "price_first": 153.0,
+    "price_second": 95.0,
+    "price_no_seat": 95.0
+  },
+  "fetched_at": "2026-05-01T04:33:46.248939"
+}

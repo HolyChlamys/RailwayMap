@@ -1,0 +1,58 @@
+{
+  "train_no": "D5885",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "武穴北",
+  "depart_time": "07:02",
+  "arrive_time": "09:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "07:02",
+      "depart_time": "07:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉",
+      "arrive_time": "07:28",
+      "depart_time": "07:45",
+      "stay_min": "17"
+    },
+    {
+      "seq": 3,
+      "station_name": "黄冈东",
+      "arrive_time": "08:17",
+      "depart_time": "08:26",
+      "stay_min": "9"
+    },
+    {
+      "seq": 4,
+      "station_name": "浠水南",
+      "arrive_time": "08:42",
+      "depart_time": "08:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "蕲春南",
+      "arrive_time": "08:55",
+      "depart_time": "08:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "武穴北",
+      "arrive_time": "09:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 141.0,
+    "price_second": 88.0,
+    "price_no_seat": 88.0
+  },
+  "fetched_at": "2026-05-01T04:13:02.037183"
+}

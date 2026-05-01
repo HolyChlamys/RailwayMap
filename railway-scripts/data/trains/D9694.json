@@ -1,0 +1,30 @@
+{
+  "train_no": "D9694",
+  "train_type": "D",
+  "depart_station": "北海",
+  "arrive_station": "南宁东",
+  "depart_time": "20:11",
+  "arrive_time": "20:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北海",
+      "arrive_time": "20:11",
+      "depart_time": "20:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁东",
+      "arrive_time": "20:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 140.0,
+    "price_second": 87.0,
+    "price_no_seat": 87.0
+  },
+  "fetched_at": "2026-05-01T05:22:11.590113"
+}

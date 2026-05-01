@@ -1,0 +1,44 @@
+{
+  "train_no": "D7851",
+  "train_type": "D",
+  "depart_station": "焦作",
+  "arrive_station": "郑州东",
+  "depart_time": "16:14",
+  "arrive_time": "17:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "焦作",
+      "arrive_time": "16:14",
+      "depart_time": "16:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄河景区",
+      "arrive_time": "16:38",
+      "depart_time": "16:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州",
+      "arrive_time": "16:56",
+      "depart_time": "16:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "17:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 68.0,
+    "price_second": 42.0,
+    "price_no_seat": 42.0
+  },
+  "fetched_at": "2026-05-01T04:45:51.639687"
+}

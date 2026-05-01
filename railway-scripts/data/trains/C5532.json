@@ -1,0 +1,45 @@
+{
+  "train_no": "C5532",
+  "train_type": "C",
+  "depart_station": "武穴北",
+  "arrive_station": "武汉",
+  "depart_time": "15:29",
+  "arrive_time": "15:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武穴北",
+      "arrive_time": "15:29",
+      "depart_time": "15:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蕲春南",
+      "arrive_time": "15:44",
+      "depart_time": "15:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "浠水南",
+      "arrive_time": "15:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武汉",
+      "arrive_time": "15:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 281.0,
+    "price_first": 135.0,
+    "price_second": 84.0,
+    "price_no_seat": 84.0
+  },
+  "fetched_at": "2026-05-01T01:34:22.151469"
+}

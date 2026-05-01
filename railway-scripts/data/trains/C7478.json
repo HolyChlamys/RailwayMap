@@ -1,0 +1,51 @@
+{
+  "train_no": "C7478",
+  "train_type": "C",
+  "depart_station": "广州东",
+  "arrive_station": "汕头",
+  "depart_time": "23:02",
+  "arrive_time": "00:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "23:02",
+      "depart_time": "23:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "23:26",
+      "depart_time": "23:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汕尾",
+      "arrive_time": "00:26",
+      "depart_time": "00:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "惠来",
+      "arrive_time": "00:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汕头",
+      "arrive_time": "00:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 421.0,
+    "price_second": 271.0,
+    "price_no_seat": 271.0
+  },
+  "fetched_at": "2026-05-01T02:16:09.942822"
+}

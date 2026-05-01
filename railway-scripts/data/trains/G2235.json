@@ -1,0 +1,59 @@
+{
+  "train_no": "G2235",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "杭州西",
+  "depart_time": "08:18",
+  "arrive_time": "14:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "08:18",
+      "depart_time": "08:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "10:07",
+      "depart_time": "10:11",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "商丘",
+      "arrive_time": "11:01",
+      "depart_time": "11:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥南",
+      "arrive_time": "12:50",
+      "depart_time": "12:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "芜湖",
+      "arrive_time": "13:31",
+      "depart_time": "13:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州西",
+      "arrive_time": "14:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2675.5,
+    "price_first": 1315.5,
+    "price_second": 818.5,
+    "price_no_seat": 818.5
+  },
+  "fetched_at": "2026-05-01T06:05:01.041819"
+}

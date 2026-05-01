@@ -1,0 +1,122 @@
+{
+  "train_no": "G5582",
+  "train_type": "G",
+  "depart_station": "菏泽东",
+  "arrive_station": "龙口市",
+  "depart_time": "08:22",
+  "arrive_time": "13:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "菏泽东",
+      "arrive_time": "08:22",
+      "depart_time": "08:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉祥北",
+      "arrive_time": "08:44",
+      "depart_time": "08:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "济宁东",
+      "arrive_time": "08:59",
+      "depart_time": "09:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "曲阜东",
+      "arrive_time": "09:20",
+      "depart_time": "09:38",
+      "stay_min": "18"
+    },
+    {
+      "seq": 5,
+      "station_name": "蒙山",
+      "arrive_time": "09:59",
+      "depart_time": "10:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "临沂北",
+      "arrive_time": "10:21",
+      "depart_time": "10:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "日照西",
+      "arrive_time": "10:52",
+      "depart_time": "10:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "青岛西",
+      "arrive_time": "11:25",
+      "depart_time": "11:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "即墨北",
+      "arrive_time": "12:09",
+      "depart_time": "12:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "莱阳",
+      "arrive_time": "12:34",
+      "depart_time": "12:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "芝罘",
+      "arrive_time": "13:03",
+      "depart_time": "13:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "福山",
+      "arrive_time": "13:19",
+      "depart_time": "13:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "烟台西",
+      "arrive_time": "13:32",
+      "depart_time": "13:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "蓬莱",
+      "arrive_time": "13:45",
+      "depart_time": "13:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "龙口市",
+      "arrive_time": "13:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1308.0,
+    "price_first": 640.0,
+    "price_second": 400.0,
+    "price_no_seat": 400.0
+  },
+  "fetched_at": "2026-05-01T07:37:35.659371"
+}

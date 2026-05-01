@@ -1,0 +1,49 @@
+{
+  "train_no": "S601",
+  "train_type": "S",
+  "depart_station": "通州西",
+  "arrive_station": "密云北",
+  "depart_time": "18:00",
+  "arrive_time": "19:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "通州西",
+      "arrive_time": "18:00",
+      "depart_time": "18:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "顺义",
+      "arrive_time": "18:33",
+      "depart_time": "18:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "牛栏山",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀柔",
+      "arrive_time": "19:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "密云北",
+      "arrive_time": "19:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 8.0
+  },
+  "fetched_at": "2026-05-01T11:09:20.150204"
+}

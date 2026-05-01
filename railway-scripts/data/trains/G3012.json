@@ -1,0 +1,143 @@
+{
+  "train_no": "G3012",
+  "train_type": "G",
+  "depart_station": "青岛",
+  "arrive_station": "武汉",
+  "depart_time": "15:39",
+  "arrive_time": "23:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛",
+      "arrive_time": "15:39",
+      "depart_time": "15:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛北",
+      "arrive_time": "15:57",
+      "depart_time": "16:00",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "日照西",
+      "arrive_time": "17:00",
+      "depart_time": "17:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "连云港",
+      "arrive_time": "17:44",
+      "depart_time": "17:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "东海县",
+      "arrive_time": "18:01",
+      "depart_time": "18:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "新沂南",
+      "arrive_time": "18:18",
+      "depart_time": "18:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "邳州东",
+      "arrive_time": "18:31",
+      "depart_time": "18:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "徐州东",
+      "arrive_time": "18:55",
+      "depart_time": "18:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "萧县北",
+      "arrive_time": "19:15",
+      "depart_time": "19:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "永城北",
+      "arrive_time": "19:33",
+      "depart_time": "19:38",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "商丘",
+      "arrive_time": "20:02",
+      "depart_time": "20:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "民权北",
+      "arrive_time": "20:20",
+      "depart_time": "20:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "郑州东",
+      "arrive_time": "21:01",
+      "depart_time": "21:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "许昌东",
+      "arrive_time": "21:26",
+      "depart_time": "21:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "漯河西",
+      "arrive_time": "21:45",
+      "depart_time": "21:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 16,
+      "station_name": "驻马店西",
+      "arrive_time": "22:09",
+      "depart_time": "22:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "信阳东",
+      "arrive_time": "22:40",
+      "depart_time": "22:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "武汉",
+      "arrive_time": "23:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2312.0,
+    "price_first": 1079.0,
+    "price_second": 674.0,
+    "price_no_seat": 674.0
+  },
+  "fetched_at": "2026-05-01T06:26:23.296182"
+}

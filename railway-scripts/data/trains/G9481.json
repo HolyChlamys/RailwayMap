@@ -1,0 +1,31 @@
+{
+  "train_no": "G9481",
+  "train_type": "G",
+  "depart_station": "阜阳西",
+  "arrive_station": "合肥南",
+  "depart_time": "23:38",
+  "arrive_time": "23:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜阳西",
+      "arrive_time": "23:38",
+      "depart_time": "23:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "23:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 349.0,
+    "price_first": 162.0,
+    "price_second": 101.0,
+    "price_no_seat": 101.0
+  },
+  "fetched_at": "2026-05-01T09:15:23.394382"
+}

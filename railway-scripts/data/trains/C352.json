@@ -1,0 +1,52 @@
+{
+  "train_no": "C352",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "保山",
+  "depart_time": "08:42",
+  "arrive_time": "12:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "08:42",
+      "depart_time": "08:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大理",
+      "arrive_time": "10:55",
+      "depart_time": "11:01",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "漾濞",
+      "arrive_time": "11:39",
+      "depart_time": "11:43",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "永平县",
+      "arrive_time": "12:12",
+      "depart_time": "12:17",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "保山",
+      "arrive_time": "12:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 666.0,
+    "price_first": 337.0,
+    "price_second": 212.0,
+    "price_no_seat": 212.0
+  },
+  "fetched_at": "2026-05-01T01:00:23.047859"
+}

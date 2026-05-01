@@ -1,0 +1,49 @@
+{
+  "train_no": "K9351",
+  "train_type": "K",
+  "depart_station": "营山",
+  "arrive_station": "成都西",
+  "depart_time": "19:44",
+  "arrive_time": "22:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "营山",
+      "arrive_time": "19:44",
+      "depart_time": "19:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蓬安",
+      "arrive_time": "20:01",
+      "depart_time": "20:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南充",
+      "arrive_time": "20:55",
+      "depart_time": "20:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "遂宁",
+      "arrive_time": "22:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都西",
+      "arrive_time": "22:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:44:06.668921"
+}

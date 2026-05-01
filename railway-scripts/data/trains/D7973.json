@@ -1,0 +1,38 @@
+{
+  "train_no": "D7973",
+  "train_type": "D",
+  "depart_station": "哈尔滨",
+  "arrive_station": "鸡西西",
+  "depart_time": "16:00",
+  "arrive_time": "17:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨",
+      "arrive_time": "16:00",
+      "depart_time": "16:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "牡丹江",
+      "arrive_time": "17:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鸡西西",
+      "arrive_time": "17:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 544.0,
+    "price_first": 274.0,
+    "price_second": 171.0,
+    "price_no_seat": 171.0
+  },
+  "fetched_at": "2026-05-01T04:48:33.531259"
+}

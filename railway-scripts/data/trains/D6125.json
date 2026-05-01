@@ -1,0 +1,30 @@
+{
+  "train_no": "D6125",
+  "train_type": "D",
+  "depart_station": "重庆北",
+  "arrive_station": "合川",
+  "depart_time": "14:06",
+  "arrive_time": "14:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "14:06",
+      "depart_time": "14:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合川",
+      "arrive_time": "14:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 33.0,
+    "price_second": 21.0,
+    "price_no_seat": 21.0
+  },
+  "fetched_at": "2026-05-01T04:17:19.756953"
+}

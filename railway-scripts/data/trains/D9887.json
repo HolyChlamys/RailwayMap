@@ -1,0 +1,93 @@
+{
+  "train_no": "D9887",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "长汀南",
+  "depart_time": "08:38",
+  "arrive_time": "12:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "08:38",
+      "depart_time": "08:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "闽清北",
+      "arrive_time": "08:57",
+      "depart_time": "09:09",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "延平",
+      "arrive_time": "09:33",
+      "depart_time": "09:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "三明北",
+      "arrive_time": "09:57",
+      "depart_time": "10:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "三明",
+      "arrive_time": "10:15",
+      "depart_time": "10:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "永安南",
+      "arrive_time": "10:33",
+      "depart_time": "10:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "双洋",
+      "arrive_time": "10:51",
+      "depart_time": "10:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "漳平西",
+      "arrive_time": "11:07",
+      "depart_time": "11:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "龙岩",
+      "arrive_time": "11:33",
+      "depart_time": "11:50",
+      "stay_min": "17"
+    },
+    {
+      "seq": 10,
+      "station_name": "古田会址",
+      "arrive_time": "12:06",
+      "depart_time": "12:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "长汀南",
+      "arrive_time": "12:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 283.5,
+    "price_second": 177.5,
+    "price_no_seat": 177.5
+  },
+  "fetched_at": "2026-05-01T05:27:23.024622"
+}

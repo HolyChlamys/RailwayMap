@@ -1,0 +1,52 @@
+{
+  "train_no": "G5477",
+  "train_type": "G",
+  "depart_station": "济南",
+  "arrive_station": "福山",
+  "depart_time": "19:30",
+  "arrive_time": "21:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南东",
+      "arrive_time": "19:49",
+      "depart_time": "19:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莱州",
+      "arrive_time": "20:55",
+      "depart_time": "20:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "招远",
+      "arrive_time": "21:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福山",
+      "arrive_time": "21:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 815.0,
+    "price_first": 394.0,
+    "price_second": 246.0,
+    "price_no_seat": 246.0
+  },
+  "fetched_at": "2026-05-01T07:34:34.665994"
+}

@@ -1,0 +1,43 @@
+{
+  "train_no": "D7318",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "汕尾",
+  "depart_time": "08:50",
+  "arrive_time": "09:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "08:50",
+      "depart_time": "08:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳坪山",
+      "arrive_time": "09:09",
+      "depart_time": "09:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠阳",
+      "arrive_time": "09:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "09:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 69.0,
+    "price_no_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T04:36:06.692802"
+}

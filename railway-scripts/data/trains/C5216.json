@@ -1,0 +1,59 @@
+{
+  "train_no": "C5216",
+  "train_type": "C",
+  "depart_station": "诏安",
+  "arrive_station": "莆田",
+  "depart_time": "21:19",
+  "arrive_time": "22:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "诏安",
+      "arrive_time": "21:19",
+      "depart_time": "21:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳浦",
+      "arrive_time": "21:51",
+      "depart_time": "21:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "漳州",
+      "arrive_time": "22:10",
+      "depart_time": "22:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "厦门北",
+      "arrive_time": "22:30",
+      "depart_time": "22:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "泉州南",
+      "arrive_time": "22:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "莆田",
+      "arrive_time": "22:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 456.0,
+    "price_first": 209.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T01:29:51.336478"
+}

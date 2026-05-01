@@ -1,0 +1,44 @@
+{
+  "train_no": "C8678",
+  "train_type": "C",
+  "depart_station": "崇左南",
+  "arrive_station": "柳州",
+  "depart_time": "10:01",
+  "arrive_time": "10:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "崇左南",
+      "arrive_time": "10:01",
+      "depart_time": "10:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁",
+      "arrive_time": "10:44",
+      "depart_time": "10:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南宁东",
+      "arrive_time": "10:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "柳州",
+      "arrive_time": "10:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 255.0,
+    "price_second": 160.0,
+    "price_no_seat": 160.0
+  },
+  "fetched_at": "2026-05-01T02:35:59.328844"
+}

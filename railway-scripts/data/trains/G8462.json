@@ -1,0 +1,59 @@
+{
+  "train_no": "G8462",
+  "train_type": "G",
+  "depart_station": "广州",
+  "arrive_station": "梅州西",
+  "depart_time": "07:37",
+  "arrive_time": "09:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "07:37",
+      "depart_time": "07:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "08:12",
+      "depart_time": "08:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "08:43",
+      "depart_time": "08:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "河源东",
+      "arrive_time": "09:04",
+      "depart_time": "09:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "龙川西",
+      "arrive_time": "09:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "梅州西",
+      "arrive_time": "09:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 851.0,
+    "price_first": 377.0,
+    "price_second": 244.0,
+    "price_no_seat": 244.0
+  },
+  "fetched_at": "2026-05-01T08:51:42.919606"
+}

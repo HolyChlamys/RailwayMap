@@ -1,0 +1,66 @@
+{
+  "train_no": "G4929",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "贵阳北",
+  "depart_time": "22:03",
+  "arrive_time": "04:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "22:03",
+      "depart_time": "22:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "22:53",
+      "depart_time": "22:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金华",
+      "arrive_time": "23:40",
+      "depart_time": "23:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌西",
+      "arrive_time": "01:26",
+      "depart_time": "01:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "长沙南",
+      "arrive_time": "02:56",
+      "depart_time": "02:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "怀化南",
+      "arrive_time": "04:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "贵阳北",
+      "arrive_time": "04:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3080.0,
+    "price_first": 1408.0,
+    "price_second": 880.0,
+    "price_no_seat": 880.0
+  },
+  "fetched_at": "2026-05-01T07:20:12.891809"
+}

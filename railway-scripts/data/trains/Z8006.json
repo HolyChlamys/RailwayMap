@@ -1,0 +1,77 @@
+{
+  "train_no": "Z8006",
+  "train_type": "Z",
+  "depart_station": "深圳东",
+  "arrive_station": "三亚",
+  "depart_time": "18:02",
+  "arrive_time": "13:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳东",
+      "arrive_time": "18:02",
+      "depart_time": "18:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞",
+      "arrive_time": "18:40",
+      "depart_time": "18:51",
+      "stay_min": "11"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州白云",
+      "arrive_time": "19:59",
+      "depart_time": "20:24",
+      "stay_min": "25"
+    },
+    {
+      "seq": 4,
+      "station_name": "茂名",
+      "arrive_time": "00:08",
+      "depart_time": "00:14",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "湛江西",
+      "arrive_time": "01:12",
+      "depart_time": "01:42",
+      "stay_min": "30"
+    },
+    {
+      "seq": 6,
+      "station_name": "海口",
+      "arrive_time": "08:48",
+      "depart_time": "09:38",
+      "stay_min": "50"
+    },
+    {
+      "seq": 7,
+      "station_name": "东方",
+      "arrive_time": "11:15",
+      "depart_time": "11:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "乐东",
+      "arrive_time": "12:00",
+      "depart_time": "12:04",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "三亚",
+      "arrive_time": "13:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 277.5
+  },
+  "fetched_at": "2026-05-01T11:51:35.876066"
+}

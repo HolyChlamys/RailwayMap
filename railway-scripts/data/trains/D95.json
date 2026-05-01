@@ -1,0 +1,64 @@
+{
+  "train_no": "D95",
+  "train_type": "D",
+  "depart_station": "北京西",
+  "arrive_station": "重庆北",
+  "depart_time": "17:53",
+  "arrive_time": "08:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "17:53",
+      "depart_time": "17:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "20:24",
+      "depart_time": "20:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州",
+      "arrive_time": "23:59",
+      "depart_time": "23:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "04:29",
+      "depart_time": "04:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜昌东",
+      "arrive_time": "06:43",
+      "depart_time": "06:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "恩施",
+      "arrive_time": "08:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "重庆北",
+      "arrive_time": "08:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 633.0,
+    "price_no_seat": 633.0
+  },
+  "fetched_at": "2026-05-01T05:16:49.593583"
+}

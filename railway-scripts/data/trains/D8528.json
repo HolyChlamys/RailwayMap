@@ -1,0 +1,30 @@
+{
+  "train_no": "D8528",
+  "train_type": "D",
+  "depart_station": "牡丹江",
+  "arrive_station": "哈尔滨",
+  "depart_time": "21:42",
+  "arrive_time": "21:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "牡丹江",
+      "arrive_time": "21:42",
+      "depart_time": "21:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "哈尔滨",
+      "arrive_time": "21:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 178.0,
+    "price_second": 111.0,
+    "price_no_seat": 111.0
+  },
+  "fetched_at": "2026-05-01T04:59:06.290219"
+}

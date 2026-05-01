@@ -1,0 +1,86 @@
+{
+  "train_no": "C4029",
+  "train_type": "C",
+  "depart_station": "重庆北",
+  "arrive_station": "成都东",
+  "depart_time": "16:32",
+  "arrive_time": "23:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "16:32",
+      "depart_time": "16:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高兴",
+      "arrive_time": "17:32",
+      "depart_time": "17:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "广安",
+      "arrive_time": "17:57",
+      "depart_time": "18:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "南充北",
+      "arrive_time": "20:51",
+      "depart_time": "20:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "渠县",
+      "arrive_time": "18:26",
+      "depart_time": "18:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "遂宁",
+      "arrive_time": "21:29",
+      "depart_time": "21:40",
+      "stay_min": "11"
+    },
+    {
+      "seq": 7,
+      "station_name": "达州",
+      "arrive_time": "19:09",
+      "depart_time": "19:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "大英东",
+      "arrive_time": "21:58",
+      "depart_time": "22:11",
+      "stay_min": "13"
+    },
+    {
+      "seq": 9,
+      "station_name": "淮口南",
+      "arrive_time": "22:44",
+      "depart_time": "23:00",
+      "stay_min": "16"
+    },
+    {
+      "seq": 10,
+      "station_name": "成都东",
+      "arrive_time": "23:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 114.0,
+    "price_second": 71.0,
+    "price_no_seat": 71.0
+  },
+  "fetched_at": "2026-05-01T01:06:30.564422"
+}

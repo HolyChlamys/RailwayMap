@@ -1,0 +1,42 @@
+{
+  "train_no": "K7160",
+  "train_type": "K",
+  "depart_station": "虎林",
+  "arrive_station": "鸡西",
+  "depart_time": "17:10",
+  "arrive_time": "19:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "虎林",
+      "arrive_time": "17:10",
+      "depart_time": "17:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "密山",
+      "arrive_time": "18:44",
+      "depart_time": "18:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鸡东",
+      "arrive_time": "19:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鸡西",
+      "arrive_time": "19:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T10:28:55.178835"
+}

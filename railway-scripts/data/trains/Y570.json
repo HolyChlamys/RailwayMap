@@ -1,0 +1,40 @@
+{
+  "train_no": "Y570",
+  "train_type": "Y",
+  "depart_station": "武昌",
+  "arrive_station": "驻马店",
+  "depart_time": "15:57",
+  "arrive_time": "19:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "15:57",
+      "depart_time": "15:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "信阳",
+      "arrive_time": "18:37",
+      "depart_time": "18:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "确山",
+      "arrive_time": "19:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "驻马店",
+      "arrive_time": "19:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:35:34.306922"
+}

@@ -1,0 +1,64 @@
+{
+  "train_no": "D934",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "佛山西",
+  "depart_time": "20:00",
+  "arrive_time": "07:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "20:00",
+      "depart_time": "20:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "20:54",
+      "depart_time": "20:59",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "宁波",
+      "arrive_time": "21:51",
+      "depart_time": "21:58",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "06:23",
+      "depart_time": "06:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "虎门",
+      "arrive_time": "06:44",
+      "depart_time": "06:49",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "07:07",
+      "depart_time": "07:12",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "佛山西",
+      "arrive_time": "07:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 783.0,
+    "price_no_seat": 783.0
+  },
+  "fetched_at": "2026-05-01T05:13:43.085033"
+}

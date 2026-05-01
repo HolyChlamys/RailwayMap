@@ -1,0 +1,91 @@
+{
+  "train_no": "K7322",
+  "train_type": "K",
+  "depart_station": "沈阳北",
+  "arrive_station": "大连",
+  "depart_time": "06:48",
+  "arrive_time": "12:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "06:48",
+      "depart_time": "06:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳",
+      "arrive_time": "07:08",
+      "depart_time": "07:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏家屯",
+      "arrive_time": "07:31",
+      "depart_time": "07:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "辽阳",
+      "arrive_time": "08:10",
+      "depart_time": "08:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "鞍山",
+      "arrive_time": "08:35",
+      "depart_time": "08:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "海城",
+      "arrive_time": "09:06",
+      "depart_time": "09:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "大石桥",
+      "arrive_time": "09:39",
+      "depart_time": "09:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "熊岳城",
+      "arrive_time": "10:19",
+      "depart_time": "10:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "瓦房店",
+      "arrive_time": "11:09",
+      "depart_time": "11:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "金州",
+      "arrive_time": "12:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "大连",
+      "arrive_time": "12:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 54.5
+  },
+  "fetched_at": "2026-05-01T10:29:26.771327"
+}

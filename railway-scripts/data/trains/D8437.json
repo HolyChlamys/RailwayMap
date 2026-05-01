@@ -1,0 +1,44 @@
+{
+  "train_no": "D8437",
+  "train_type": "D",
+  "depart_station": "桂林",
+  "arrive_station": "南宁东",
+  "depart_time": "23:01",
+  "arrive_time": "00:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "桂林",
+      "arrive_time": "23:01",
+      "depart_time": "23:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "柳州",
+      "arrive_time": "00:05",
+      "depart_time": "00:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "来宾北",
+      "arrive_time": "00:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁东",
+      "arrive_time": "00:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 228.0,
+    "price_second": 142.0,
+    "price_no_seat": 142.0
+  },
+  "fetched_at": "2026-05-01T04:57:07.267788"
+}

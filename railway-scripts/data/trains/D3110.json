@@ -1,0 +1,51 @@
+{
+  "train_no": "D3110",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "温州南",
+  "depart_time": "20:39",
+  "arrive_time": "22:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "20:39",
+      "depart_time": "20:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁德",
+      "arrive_time": "21:20",
+      "depart_time": "21:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "霞浦",
+      "arrive_time": "21:44",
+      "depart_time": "21:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福鼎",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "温州南",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 210.0,
+    "price_second": 131.0,
+    "price_no_seat": 131.0
+  },
+  "fetched_at": "2026-05-01T03:28:10.750691"
+}

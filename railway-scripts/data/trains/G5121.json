@@ -1,0 +1,59 @@
+{
+  "train_no": "G5121",
+  "train_type": "G",
+  "depart_station": "福州",
+  "arrive_station": "厦门",
+  "depart_time": "19:13",
+  "arrive_time": "20:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福州南",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莆田",
+      "arrive_time": "19:56",
+      "depart_time": "19:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泉州南",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "厦门北",
+      "arrive_time": "20:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "厦门",
+      "arrive_time": "20:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 561.0,
+    "price_first": 256.0,
+    "price_second": 160.0,
+    "price_no_seat": 160.0
+  },
+  "fetched_at": "2026-05-01T07:25:21.079700"
+}

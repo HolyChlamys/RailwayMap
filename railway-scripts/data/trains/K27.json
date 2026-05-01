@@ -1,0 +1,70 @@
+{
+  "train_no": "K27",
+  "train_type": "K",
+  "depart_station": "北京",
+  "arrive_station": "丹东",
+  "depart_time": "17:26",
+  "arrive_time": "06:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京",
+      "arrive_time": "17:26",
+      "depart_time": "17:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天津",
+      "arrive_time": "19:09",
+      "depart_time": "19:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "唐山",
+      "arrive_time": "20:32",
+      "depart_time": "20:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "山海关",
+      "arrive_time": "22:42",
+      "depart_time": "22:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳",
+      "arrive_time": "03:40",
+      "depart_time": "03:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "本溪",
+      "arrive_time": "04:52",
+      "depart_time": "04:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "凤凰城",
+      "arrive_time": "06:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "丹东",
+      "arrive_time": "06:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 141.5
+  },
+  "fetched_at": "2026-05-01T09:42:19.362086"
+}

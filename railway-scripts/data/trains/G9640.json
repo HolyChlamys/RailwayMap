@@ -1,0 +1,51 @@
+{
+  "train_no": "G9640",
+  "train_type": "G",
+  "depart_station": "吉首东",
+  "arrive_station": "广州白云",
+  "depart_time": "22:40",
+  "arrive_time": "03:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "吉首东",
+      "arrive_time": "22:40",
+      "depart_time": "22:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀化南",
+      "arrive_time": "23:12",
+      "depart_time": "23:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙南",
+      "arrive_time": "00:36",
+      "depart_time": "00:56",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "耒阳西",
+      "arrive_time": "01:45",
+      "depart_time": "01:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州白云",
+      "arrive_time": "03:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 967.0,
+    "price_second": 605.0,
+    "price_no_seat": 605.0
+  },
+  "fetched_at": "2026-05-01T09:19:55.064740"
+}

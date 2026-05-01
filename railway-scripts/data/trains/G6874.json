@@ -1,0 +1,52 @@
+{
+  "train_no": "G6874",
+  "train_type": "G",
+  "depart_station": "襄阳东",
+  "arrive_station": "汉口",
+  "depart_time": "10:30",
+  "arrive_time": "12:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳东",
+      "arrive_time": "10:30",
+      "depart_time": "10:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜城",
+      "arrive_time": "10:43",
+      "depart_time": "10:50",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "荆门西",
+      "arrive_time": "11:13",
+      "depart_time": "11:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "荆州",
+      "arrive_time": "11:40",
+      "depart_time": "11:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汉口",
+      "arrive_time": "12:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 809.0,
+    "price_first": 370.0,
+    "price_second": 231.0,
+    "price_no_seat": 231.0
+  },
+  "fetched_at": "2026-05-01T08:11:28.095668"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "C3246",
+  "train_type": "C",
+  "depart_station": "横店",
+  "arrive_station": "阜阳西",
+  "depart_time": "21:05",
+  "arrive_time": "23:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "横店",
+      "arrive_time": "21:05",
+      "depart_time": "21:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "义乌",
+      "arrive_time": "21:22",
+      "depart_time": "21:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州西",
+      "arrive_time": "21:58",
+      "depart_time": "21:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥南",
+      "arrive_time": "23:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "阜阳西",
+      "arrive_time": "23:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1404.5,
+    "price_first": 711.5,
+    "price_second": 442.5,
+    "price_no_seat": 442.5
+  },
+  "fetched_at": "2026-05-01T00:55:02.434649"
+}

@@ -1,0 +1,129 @@
+{
+  "train_no": "G1185",
+  "train_type": "G",
+  "depart_station": "洛阳龙门",
+  "arrive_station": "深圳北",
+  "depart_time": "07:18",
+  "arrive_time": "15:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "洛阳龙门",
+      "arrive_time": "07:18",
+      "depart_time": "07:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巩义南",
+      "arrive_time": "07:32",
+      "depart_time": "07:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "08:03",
+      "depart_time": "08:24",
+      "stay_min": "21"
+    },
+    {
+      "seq": 4,
+      "station_name": "许昌东",
+      "arrive_time": "08:46",
+      "depart_time": "08:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "漯河西",
+      "arrive_time": "09:04",
+      "depart_time": "09:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "驻马店西",
+      "arrive_time": "09:24",
+      "depart_time": "09:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "信阳东",
+      "arrive_time": "09:51",
+      "depart_time": "09:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "武汉",
+      "arrive_time": "10:38",
+      "depart_time": "10:45",
+      "stay_min": "7"
+    },
+    {
+      "seq": 9,
+      "station_name": "岳阳东",
+      "arrive_time": "11:35",
+      "depart_time": "11:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "长沙南",
+      "arrive_time": "12:12",
+      "depart_time": "12:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "衡阳东",
+      "arrive_time": "12:52",
+      "depart_time": "12:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "耒阳西",
+      "arrive_time": "13:12",
+      "depart_time": "13:25",
+      "stay_min": "13"
+    },
+    {
+      "seq": 13,
+      "station_name": "韶关",
+      "arrive_time": "14:12",
+      "depart_time": "14:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "广州北",
+      "arrive_time": "14:53",
+      "depart_time": "14:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "广州南",
+      "arrive_time": "15:13",
+      "depart_time": "15:23",
+      "stay_min": "10"
+    },
+    {
+      "seq": 16,
+      "station_name": "深圳北",
+      "arrive_time": "15:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3132.5,
+    "price_first": 1440.5,
+    "price_second": 912.5,
+    "price_no_seat": 912.5
+  },
+  "fetched_at": "2026-05-01T05:35:35.495029"
+}

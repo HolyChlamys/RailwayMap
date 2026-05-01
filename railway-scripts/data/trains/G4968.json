@@ -1,0 +1,44 @@
+{
+  "train_no": "G4968",
+  "train_type": "G",
+  "depart_station": "南昌东",
+  "arrive_station": "南京南",
+  "depart_time": "23:50",
+  "arrive_time": "02:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "23:50",
+      "depart_time": "23:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄山北",
+      "arrive_time": "01:11",
+      "depart_time": "01:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州西",
+      "arrive_time": "02:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "02:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 681.0,
+    "price_second": 427.0,
+    "price_no_seat": 427.0
+  },
+  "fetched_at": "2026-05-01T07:21:17.400986"
+}

@@ -1,0 +1,86 @@
+{
+  "train_no": "D630",
+  "train_type": "D",
+  "depart_station": "重庆北",
+  "arrive_station": "汉口",
+  "depart_time": "14:25",
+  "arrive_time": "20:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "14:25",
+      "depart_time": "14:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石柱县",
+      "arrive_time": "15:36",
+      "depart_time": "15:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄水",
+      "arrive_time": "15:56",
+      "depart_time": "15:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "利川",
+      "arrive_time": "16:21",
+      "depart_time": "16:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "恩施",
+      "arrive_time": "17:05",
+      "depart_time": "17:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "高坪",
+      "arrive_time": "17:46",
+      "depart_time": "17:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宜昌东",
+      "arrive_time": "19:02",
+      "depart_time": "19:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "荆州",
+      "arrive_time": "19:38",
+      "depart_time": "19:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "汉川",
+      "arrive_time": "20:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "汉口",
+      "arrive_time": "20:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 535.0,
+    "price_second": 335.0,
+    "price_no_seat": 335.0
+  },
+  "fetched_at": "2026-05-01T04:20:34.694047"
+}

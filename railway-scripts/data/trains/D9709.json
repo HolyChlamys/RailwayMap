@@ -1,0 +1,72 @@
+{
+  "train_no": "D9709",
+  "train_type": "D",
+  "depart_station": "饶平",
+  "arrive_station": "深圳北",
+  "depart_time": "21:05",
+  "arrive_time": "23:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "饶平",
+      "arrive_time": "21:05",
+      "depart_time": "21:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "21:23",
+      "depart_time": "21:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潮阳",
+      "arrive_time": "21:36",
+      "depart_time": "21:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "普宁",
+      "arrive_time": "21:48",
+      "depart_time": "21:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "22:19",
+      "depart_time": "22:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "惠阳",
+      "arrive_time": "22:50",
+      "depart_time": "22:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳坪山",
+      "arrive_time": "23:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "深圳北",
+      "arrive_time": "23:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 246.0,
+    "price_second": 154.0,
+    "price_no_seat": 154.0
+  },
+  "fetched_at": "2026-05-01T05:22:34.655955"
+}

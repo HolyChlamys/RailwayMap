@@ -1,0 +1,70 @@
+{
+  "train_no": "K5891",
+  "train_type": "K",
+  "depart_station": "南昌",
+  "arrive_station": "萍乡",
+  "depart_time": "09:00",
+  "arrive_time": "12:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "向塘",
+      "arrive_time": "09:35",
+      "depart_time": "09:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "丰城",
+      "arrive_time": "10:16",
+      "depart_time": "10:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "樟树",
+      "arrive_time": "10:40",
+      "depart_time": "10:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "新余",
+      "arrive_time": "11:46",
+      "depart_time": "11:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "分宜",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宜春",
+      "arrive_time": "12:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "萍乡",
+      "arrive_time": "12:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T10:16:06.096799"
+}

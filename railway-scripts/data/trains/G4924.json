@@ -1,0 +1,59 @@
+{
+  "train_no": "G4924",
+  "train_type": "G",
+  "depart_station": "厦门北",
+  "arrive_station": "杭州东",
+  "depart_time": "20:57",
+  "arrive_time": "22:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "20:57",
+      "depart_time": "20:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泉州",
+      "arrive_time": "21:26",
+      "depart_time": "21:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "仙游",
+      "arrive_time": "21:48",
+      "depart_time": "21:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "莆田",
+      "arrive_time": "22:01",
+      "depart_time": "22:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福州",
+      "arrive_time": "22:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "22:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1526.0,
+    "price_first": 735.0,
+    "price_second": 451.0,
+    "price_no_seat": 451.0
+  },
+  "fetched_at": "2026-05-01T07:20:04.544363"
+}

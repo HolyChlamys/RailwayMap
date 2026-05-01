@@ -1,0 +1,79 @@
+{
+  "train_no": "D9355",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "襄阳东",
+  "depart_time": "04:02",
+  "arrive_time": "17:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "04:02",
+      "depart_time": "04:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "16:14",
+      "depart_time": "16:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "潜江",
+      "arrive_time": "04:53",
+      "depart_time": "04:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "沙洋西",
+      "arrive_time": "16:37",
+      "depart_time": "16:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "荆州",
+      "arrive_time": "05:21",
+      "depart_time": "05:38",
+      "stay_min": "17"
+    },
+    {
+      "seq": 6,
+      "station_name": "荆门西",
+      "arrive_time": "16:58",
+      "depart_time": "17:05",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "宜昌东",
+      "arrive_time": "06:12",
+      "depart_time": "06:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "宜城",
+      "arrive_time": "17:32",
+      "depart_time": "17:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "襄阳东",
+      "arrive_time": "17:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 207.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T05:14:06.175559"
+}

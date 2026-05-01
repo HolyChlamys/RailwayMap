@@ -1,0 +1,59 @@
+{
+  "train_no": "G5471",
+  "train_type": "G",
+  "depart_station": "济南",
+  "arrive_station": "烟台",
+  "depart_time": "07:24",
+  "arrive_time": "09:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "07:24",
+      "depart_time": "07:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南东",
+      "arrive_time": "07:43",
+      "depart_time": "07:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "灰埠",
+      "arrive_time": "08:43",
+      "depart_time": "08:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "莱州",
+      "arrive_time": "08:56",
+      "depart_time": "08:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "招远",
+      "arrive_time": "09:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "烟台",
+      "arrive_time": "09:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 867.0,
+    "price_first": 418.0,
+    "price_second": 260.0,
+    "price_no_seat": 260.0
+  },
+  "fetched_at": "2026-05-01T07:34:24.800565"
+}

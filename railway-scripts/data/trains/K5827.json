@@ -1,0 +1,63 @@
+{
+  "train_no": "K5827",
+  "train_type": "K",
+  "depart_station": "蚌埠",
+  "arrive_station": "上海",
+  "depart_time": "13:35",
+  "arrive_time": "18:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "蚌埠",
+      "arrive_time": "13:35",
+      "depart_time": "13:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "滁州北",
+      "arrive_time": "14:58",
+      "depart_time": "14:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南京",
+      "arrive_time": "15:50",
+      "depart_time": "15:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "常州",
+      "arrive_time": "17:20",
+      "depart_time": "17:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "无锡",
+      "arrive_time": "17:52",
+      "depart_time": "17:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "苏州",
+      "arrive_time": "18:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "上海",
+      "arrive_time": "18:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T10:14:40.161013"
+}

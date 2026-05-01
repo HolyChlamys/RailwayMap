@@ -1,0 +1,93 @@
+{
+  "train_no": "C3852",
+  "train_type": "C",
+  "depart_station": "上海",
+  "arrive_station": "南京",
+  "depart_time": "07:50",
+  "arrive_time": "11:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "07:50",
+      "depart_time": "07:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "上海西",
+      "arrive_time": "07:57",
+      "depart_time": "07:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "安亭西",
+      "arrive_time": "08:20",
+      "depart_time": "08:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "太仓",
+      "arrive_time": "08:37",
+      "depart_time": "08:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "常熟",
+      "arrive_time": "08:58",
+      "depart_time": "09:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "如皋",
+      "arrive_time": "09:38",
+      "depart_time": "09:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "海安",
+      "arrive_time": "09:51",
+      "depart_time": "09:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "姜堰",
+      "arrive_time": "10:12",
+      "depart_time": "10:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "泰州",
+      "arrive_time": "10:25",
+      "depart_time": "10:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "扬州",
+      "arrive_time": "10:58",
+      "depart_time": "11:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "南京",
+      "arrive_time": "11:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 284.0,
+    "price_second": 177.0,
+    "price_no_seat": 177.0
+  },
+  "fetched_at": "2026-05-01T01:04:48.962630"
+}

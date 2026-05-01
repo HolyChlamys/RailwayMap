@@ -1,0 +1,37 @@
+{
+  "train_no": "D6171",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "荔波",
+  "depart_time": "06:10",
+  "arrive_time": "06:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "06:10",
+      "depart_time": "06:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳",
+      "arrive_time": "06:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "荔波",
+      "arrive_time": "06:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 166.0,
+    "price_second": 104.0,
+    "price_no_seat": 104.0
+  },
+  "fetched_at": "2026-05-01T04:18:21.305238"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "D6948",
+  "train_type": "D",
+  "depart_station": "大庆东",
+  "arrive_station": "哈尔滨西",
+  "depart_time": "14:13",
+  "arrive_time": "15:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大庆东",
+      "arrive_time": "14:13",
+      "depart_time": "14:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "哈尔滨",
+      "arrive_time": "15:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "哈尔滨西",
+      "arrive_time": "15:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 156.0,
+    "price_first": 83.0,
+    "price_second": 52.0,
+    "price_no_seat": 52.0
+  },
+  "fetched_at": "2026-05-01T04:31:27.445200"
+}

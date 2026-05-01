@@ -1,0 +1,73 @@
+{
+  "train_no": "G562",
+  "train_type": "G",
+  "depart_station": "三门峡南",
+  "arrive_station": "北京丰台",
+  "depart_time": "16:18",
+  "arrive_time": "19:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "三门峡南",
+      "arrive_time": "16:18",
+      "depart_time": "16:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛阳龙门",
+      "arrive_time": "16:51",
+      "depart_time": "16:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "17:37",
+      "depart_time": "17:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鹤壁东",
+      "arrive_time": "18:10",
+      "depart_time": "18:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "安阳东",
+      "arrive_time": "18:27",
+      "depart_time": "18:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "石家庄",
+      "arrive_time": "19:20",
+      "depart_time": "19:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "保定东",
+      "arrive_time": "19:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "北京丰台",
+      "arrive_time": "19:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1746.0,
+    "price_first": 798.0,
+    "price_second": 499.0,
+    "price_no_seat": 499.0
+  },
+  "fetched_at": "2026-05-01T07:38:43.011972"
+}

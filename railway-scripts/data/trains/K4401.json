@@ -1,0 +1,91 @@
+{
+  "train_no": "K4401",
+  "train_type": "K",
+  "depart_station": "南昌",
+  "arrive_station": "温州",
+  "depart_time": "19:24",
+  "arrive_time": "09:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "19:24",
+      "depart_time": "19:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "向塘",
+      "arrive_time": "19:46",
+      "depart_time": "19:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "进贤",
+      "arrive_time": "20:17",
+      "depart_time": "20:21",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "东乡",
+      "arrive_time": "20:46",
+      "depart_time": "20:59",
+      "stay_min": "13"
+    },
+    {
+      "seq": 5,
+      "station_name": "鹰潭",
+      "arrive_time": "21:28",
+      "depart_time": "21:48",
+      "stay_min": "20"
+    },
+    {
+      "seq": 6,
+      "station_name": "上饶",
+      "arrive_time": "23:02",
+      "depart_time": "23:07",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "衢州",
+      "arrive_time": "01:50",
+      "depart_time": "01:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "金华",
+      "arrive_time": "03:14",
+      "depart_time": "03:46",
+      "stay_min": "32"
+    },
+    {
+      "seq": 9,
+      "station_name": "永康南",
+      "arrive_time": "05:44",
+      "depart_time": "05:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "丽水",
+      "arrive_time": "06:43",
+      "depart_time": "06:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "温州",
+      "arrive_time": "09:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 52.0
+  },
+  "fetched_at": "2026-05-01T09:53:27.036126"
+}

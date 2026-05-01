@@ -1,0 +1,35 @@
+{
+  "train_no": "K9463",
+  "train_type": "K",
+  "depart_station": "都匀",
+  "arrive_station": "成都西",
+  "depart_time": "21:40",
+  "arrive_time": "07:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "都匀",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳",
+      "arrive_time": "23:39",
+      "depart_time": "23:58",
+      "stay_min": "19"
+    },
+    {
+      "seq": 3,
+      "station_name": "成都西",
+      "arrive_time": "07:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T10:45:45.915037"
+}

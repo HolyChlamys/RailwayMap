@@ -1,0 +1,57 @@
+{
+  "train_no": "C5885",
+  "train_type": "C",
+  "depart_station": "花溪大学城",
+  "arrive_station": "遵义",
+  "depart_time": "16:15",
+  "arrive_time": "17:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "花溪大学城",
+      "arrive_time": "16:15",
+      "depart_time": "16:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "党武",
+      "arrive_time": "16:19",
+      "depart_time": "16:20",
+      "stay_min": "1"
+    },
+    {
+      "seq": 3,
+      "station_name": "天河潭",
+      "arrive_time": "16:24",
+      "depart_time": "16:25",
+      "stay_min": "1"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵安",
+      "arrive_time": "16:36",
+      "depart_time": "16:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "16:54",
+      "depart_time": "17:04",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "遵义",
+      "arrive_time": "17:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 73.0,
+    "price_no_seat": 73.0
+  },
+  "fetched_at": "2026-05-01T01:41:10.526794"
+}

@@ -1,0 +1,51 @@
+{
+  "train_no": "D8536",
+  "train_type": "D",
+  "depart_station": "绥芬河",
+  "arrive_station": "哈尔滨西",
+  "depart_time": "18:49",
+  "arrive_time": "21:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "绥芬河",
+      "arrive_time": "18:49",
+      "depart_time": "18:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "穆棱",
+      "arrive_time": "19:25",
+      "depart_time": "19:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "牡丹江",
+      "arrive_time": "20:02",
+      "depart_time": "20:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨",
+      "arrive_time": "21:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "哈尔滨西",
+      "arrive_time": "21:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 270.0,
+    "price_second": 169.0,
+    "price_no_seat": 169.0
+  },
+  "fetched_at": "2026-05-01T04:59:17.786852"
+}

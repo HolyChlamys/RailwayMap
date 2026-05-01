@@ -1,0 +1,66 @@
+{
+  "train_no": "C633",
+  "train_type": "C",
+  "depart_station": "宁波",
+  "arrive_station": "衢州",
+  "depart_time": "19:47",
+  "arrive_time": "22:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "19:47",
+      "depart_time": "19:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "奉化",
+      "arrive_time": "20:14",
+      "depart_time": "20:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "嵊州新昌",
+      "arrive_time": "20:55",
+      "depart_time": "20:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "东阳北",
+      "arrive_time": "21:30",
+      "depart_time": "21:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "义乌",
+      "arrive_time": "21:56",
+      "depart_time": "21:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "金华",
+      "arrive_time": "22:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "衢州",
+      "arrive_time": "22:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 422.0,
+    "price_first": 193.0,
+    "price_second": 120.0,
+    "price_no_seat": 120.0
+  },
+  "fetched_at": "2026-05-01T01:49:15.386246"
+}

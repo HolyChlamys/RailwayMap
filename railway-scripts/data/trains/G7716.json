@@ -1,0 +1,59 @@
+{
+  "train_no": "G7716",
+  "train_type": "G",
+  "depart_station": "温岭",
+  "arrive_station": "杭州东",
+  "depart_time": "18:06",
+  "arrive_time": "19:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "温岭",
+      "arrive_time": "18:06",
+      "depart_time": "18:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "台州",
+      "arrive_time": "18:18",
+      "depart_time": "18:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天台山",
+      "arrive_time": "18:41",
+      "depart_time": "18:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "嵊州新昌",
+      "arrive_time": "18:58",
+      "depart_time": "18:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "绍兴北",
+      "arrive_time": "19:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "19:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 512.0,
+    "price_first": 234.0,
+    "price_second": 147.0,
+    "price_no_seat": 147.0
+  },
+  "fetched_at": "2026-05-01T08:34:46.031485"
+}

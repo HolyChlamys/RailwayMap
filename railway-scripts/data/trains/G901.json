@@ -1,0 +1,94 @@
+{
+  "train_no": "G901",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "香港西九龙",
+  "depart_time": "13:50",
+  "arrive_time": "21:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州南",
+      "arrive_time": "14:18",
+      "depart_time": "14:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州西",
+      "arrive_time": "15:05",
+      "depart_time": "15:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄山北",
+      "arrive_time": "16:21",
+      "depart_time": "16:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "景德镇北",
+      "arrive_time": "17:04",
+      "depart_time": "17:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南昌东",
+      "arrive_time": "17:56",
+      "depart_time": "17:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "赣州西",
+      "arrive_time": "19:32",
+      "depart_time": "19:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "惠州北",
+      "arrive_time": "20:53",
+      "depart_time": "20:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "东莞南",
+      "arrive_time": "21:11",
+      "depart_time": "21:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "深圳北",
+      "arrive_time": "21:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "香港西九龙",
+      "arrive_time": "21:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3271.0,
+    "price_first": 1579.0,
+    "price_second": 989.0,
+    "price_no_seat": 989.0
+  },
+  "fetched_at": "2026-05-01T09:05:36.959329"
+}

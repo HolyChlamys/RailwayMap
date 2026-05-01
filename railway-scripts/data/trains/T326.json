@@ -1,0 +1,112 @@
+{
+  "train_no": "T326",
+  "train_type": "T",
+  "depart_station": "宁波",
+  "arrive_station": "郑州",
+  "depart_time": "14:07",
+  "arrive_time": "05:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "14:07",
+      "depart_time": "14:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "余姚",
+      "arrive_time": "14:47",
+      "depart_time": "14:51",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "绍兴",
+      "arrive_time": "15:41",
+      "depart_time": "15:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州",
+      "arrive_time": "16:57",
+      "depart_time": "17:16",
+      "stay_min": "19"
+    },
+    {
+      "seq": 5,
+      "station_name": "德清西",
+      "arrive_time": "18:02",
+      "depart_time": "18:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "长兴南",
+      "arrive_time": "18:43",
+      "depart_time": "18:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "广德",
+      "arrive_time": "19:13",
+      "depart_time": "19:19",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "宣城",
+      "arrive_time": "19:55",
+      "depart_time": "19:59",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "合肥",
+      "arrive_time": "22:25",
+      "depart_time": "22:43",
+      "stay_min": "18"
+    },
+    {
+      "seq": 10,
+      "station_name": "阜阳",
+      "arrive_time": "01:10",
+      "depart_time": "01:24",
+      "stay_min": "14"
+    },
+    {
+      "seq": 11,
+      "station_name": "商丘",
+      "arrive_time": "03:21",
+      "depart_time": "03:26",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "兰考",
+      "arrive_time": "04:22",
+      "depart_time": "04:27",
+      "stay_min": "5"
+    },
+    {
+      "seq": 13,
+      "station_name": "开封",
+      "arrive_time": "04:56",
+      "depart_time": "05:00",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "郑州",
+      "arrive_time": "05:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 152.5
+  },
+  "fetched_at": "2026-05-01T11:24:31.492871"
+}

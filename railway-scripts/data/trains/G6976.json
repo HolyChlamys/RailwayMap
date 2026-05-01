@@ -1,0 +1,115 @@
+{
+  "train_no": "G6976",
+  "train_type": "G",
+  "depart_station": "青岛北",
+  "arrive_station": "青  岛北",
+  "depart_time": "14:30",
+  "arrive_time": "20:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "14:30",
+      "depart_time": "14:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛机场",
+      "arrive_time": "14:52",
+      "depart_time": "14:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "高密北",
+      "arrive_time": "15:08",
+      "depart_time": "15:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "潍坊北",
+      "arrive_time": "15:29",
+      "depart_time": "15:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "章丘北",
+      "arrive_time": "16:08",
+      "depart_time": "16:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南东",
+      "arrive_time": "16:22",
+      "depart_time": "16:39",
+      "stay_min": "17"
+    },
+    {
+      "seq": 7,
+      "station_name": "济南西",
+      "arrive_time": "17:03",
+      "depart_time": "17:11",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "曲阜东",
+      "arrive_time": "17:43",
+      "depart_time": "17:52",
+      "stay_min": "9"
+    },
+    {
+      "seq": 9,
+      "station_name": "蒙山",
+      "arrive_time": "18:15",
+      "depart_time": "18:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "临沂北",
+      "arrive_time": "18:37",
+      "depart_time": "18:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "厉家寨",
+      "arrive_time": "18:59",
+      "depart_time": "19:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "日照西",
+      "arrive_time": "19:15",
+      "depart_time": "19:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "青岛西",
+      "arrive_time": "19:46",
+      "depart_time": "19:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "青  岛北",
+      "arrive_time": "20:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1261.0,
+    "price_first": 668.0,
+    "price_second": 417.0,
+    "price_no_seat": 417.0
+  },
+  "fetched_at": "2026-05-01T08:14:11.322823"
+}

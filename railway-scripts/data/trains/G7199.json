@@ -1,0 +1,45 @@
+{
+  "train_no": "G7199",
+  "train_type": "G",
+  "depart_station": "无锡东",
+  "arrive_station": "上海虹桥",
+  "depart_time": "06:30",
+  "arrive_time": "06:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "无锡东",
+      "arrive_time": "06:30",
+      "depart_time": "06:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州北",
+      "arrive_time": "06:42",
+      "depart_time": "06:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "昆山南",
+      "arrive_time": "06:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "上海虹桥",
+      "arrive_time": "06:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 208.0,
+    "price_first": 95.0,
+    "price_second": 59.0,
+    "price_no_seat": 59.0
+  },
+  "fetched_at": "2026-05-01T08:20:15.890635"
+}

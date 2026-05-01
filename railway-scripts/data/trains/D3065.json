@@ -1,0 +1,107 @@
+{
+  "train_no": "D3065",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "汉口",
+  "depart_time": "09:20",
+  "arrive_time": "16:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "09:20",
+      "depart_time": "09:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太仓",
+      "arrive_time": "09:50",
+      "depart_time": "09:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "常熟",
+      "arrive_time": "10:11",
+      "depart_time": "10:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南通西",
+      "arrive_time": "10:38",
+      "depart_time": "10:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "如皋",
+      "arrive_time": "11:00",
+      "depart_time": "11:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "海安",
+      "arrive_time": "11:13",
+      "depart_time": "11:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "泰州",
+      "arrive_time": "11:41",
+      "depart_time": "11:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "扬州",
+      "arrive_time": "12:16",
+      "depart_time": "12:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "合肥南",
+      "arrive_time": "13:43",
+      "depart_time": "13:58",
+      "stay_min": "15"
+    },
+    {
+      "seq": 10,
+      "station_name": "六安",
+      "arrive_time": "14:22",
+      "depart_time": "14:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "金寨",
+      "arrive_time": "14:44",
+      "depart_time": "14:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "麻城北",
+      "arrive_time": "15:21",
+      "depart_time": "15:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "汉口",
+      "arrive_time": "16:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 633.0,
+    "price_second": 397.0,
+    "price_no_seat": 397.0
+  },
+  "fetched_at": "2026-05-01T03:27:30.927716"
+}

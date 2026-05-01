@@ -1,0 +1,42 @@
+{
+  "train_no": "T8727",
+  "train_type": "T",
+  "depart_station": "融安",
+  "arrive_station": "柳州",
+  "depart_time": "07:55",
+  "arrive_time": "08:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "融安",
+      "arrive_time": "07:55",
+      "depart_time": "07:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "融水",
+      "arrive_time": "08:20",
+      "depart_time": "08:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "罗城",
+      "arrive_time": "08:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "柳州",
+      "arrive_time": "08:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 21.5
+  },
+  "fetched_at": "2026-05-01T11:28:07.673922"
+}

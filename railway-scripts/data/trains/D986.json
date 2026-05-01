@@ -1,0 +1,85 @@
+{
+  "train_no": "D986",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "成都东",
+  "depart_time": "18:44",
+  "arrive_time": "08:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "18:44",
+      "depart_time": "18:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "20:32",
+      "depart_time": "20:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "安庆",
+      "arrive_time": "21:56",
+      "depart_time": "22:00",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "武昌",
+      "arrive_time": "23:57",
+      "depart_time": "00:03",
+      "stay_min": "1434"
+    },
+    {
+      "seq": 5,
+      "station_name": "万州北",
+      "arrive_time": "04:16",
+      "depart_time": "04:20",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆北",
+      "arrive_time": "05:30",
+      "depart_time": "05:34",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "重庆西",
+      "arrive_time": "06:00",
+      "depart_time": "06:05",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "泸州",
+      "arrive_time": "06:46",
+      "depart_time": "06:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "自贡",
+      "arrive_time": "07:20",
+      "depart_time": "07:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "成都东",
+      "arrive_time": "08:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 1120.0,
+    "price_no_seat": 1120.0
+  },
+  "fetched_at": "2026-05-01T05:26:33.435730"
+}

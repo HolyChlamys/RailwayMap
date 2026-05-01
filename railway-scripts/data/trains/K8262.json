@@ -1,0 +1,49 @@
+{
+  "train_no": "K8262",
+  "train_type": "K",
+  "depart_station": "威海",
+  "arrive_station": "济南",
+  "depart_time": "22:06",
+  "arrive_time": "05:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "威海",
+      "arrive_time": "22:06",
+      "depart_time": "22:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "文登",
+      "arrive_time": "22:48",
+      "depart_time": "22:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乳山",
+      "arrive_time": "23:47",
+      "depart_time": "23:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博",
+      "arrive_time": "05:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "济南",
+      "arrive_time": "05:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 88.0
+  },
+  "fetched_at": "2026-05-01T10:37:32.486418"
+}

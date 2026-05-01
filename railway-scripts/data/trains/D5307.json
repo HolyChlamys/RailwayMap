@@ -1,0 +1,73 @@
+{
+  "train_no": "D5307",
+  "train_type": "D",
+  "depart_station": "大同南",
+  "arrive_station": "运城北",
+  "depart_time": "14:38",
+  "arrive_time": "18:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大同南",
+      "arrive_time": "14:38",
+      "depart_time": "14:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "原平西",
+      "arrive_time": "15:32",
+      "depart_time": "15:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "忻州西",
+      "arrive_time": "15:46",
+      "depart_time": "15:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "太原",
+      "arrive_time": "16:22",
+      "depart_time": "16:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太原南",
+      "arrive_time": "16:42",
+      "depart_time": "16:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "平遥古城",
+      "arrive_time": "17:16",
+      "depart_time": "17:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "临汾西",
+      "arrive_time": "18:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "运城北",
+      "arrive_time": "18:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 901.0,
+    "price_first": 425.0,
+    "price_second": 266.0,
+    "price_no_seat": 266.0
+  },
+  "fetched_at": "2026-05-01T04:04:30.339004"
+}

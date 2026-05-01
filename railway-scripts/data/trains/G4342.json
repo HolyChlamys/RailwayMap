@@ -1,0 +1,31 @@
+{
+  "train_no": "G4342",
+  "train_type": "G",
+  "depart_station": "北京朝阳",
+  "arrive_station": "大连北",
+  "depart_time": "00:17",
+  "arrive_time": "03:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京朝阳",
+      "arrive_time": "00:17",
+      "depart_time": "00:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大连北",
+      "arrive_time": "03:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1678.0,
+    "price_first": 770.0,
+    "price_second": 481.0,
+    "price_no_seat": 481.0
+  },
+  "fetched_at": "2026-05-01T07:02:43.371966"
+}

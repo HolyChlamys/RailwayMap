@@ -1,0 +1,58 @@
+{
+  "train_no": "D1851",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "广州南",
+  "depart_time": "06:19",
+  "arrive_time": "10:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "06:19",
+      "depart_time": "06:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "榕江",
+      "arrive_time": "07:31",
+      "depart_time": "07:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "从江",
+      "arrive_time": "07:57",
+      "depart_time": "07:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "桂林西",
+      "arrive_time": "08:46",
+      "depart_time": "08:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广宁",
+      "arrive_time": "10:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "10:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 668.0,
+    "price_second": 417.0,
+    "price_no_seat": 417.0
+  },
+  "fetched_at": "2026-05-01T03:06:13.973326"
+}

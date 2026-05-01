@@ -1,0 +1,31 @@
+{
+  "train_no": "C4410",
+  "train_type": "C",
+  "depart_station": "营山",
+  "arrive_station": "达州",
+  "depart_time": "21:23",
+  "arrive_time": "21:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "营山",
+      "arrive_time": "21:23",
+      "depart_time": "21:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "达州",
+      "arrive_time": "21:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 109.0,
+    "price_first": 50.0,
+    "price_second": 31.0,
+    "price_no_seat": 31.0
+  },
+  "fetched_at": "2026-05-01T01:15:07.087821"
+}

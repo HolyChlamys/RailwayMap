@@ -1,0 +1,58 @@
+{
+  "train_no": "D4273",
+  "train_type": "D",
+  "depart_station": "太原南",
+  "arrive_station": "长治东",
+  "depart_time": "20:48",
+  "arrive_time": "22:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "20:48",
+      "depart_time": "20:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "晋中",
+      "arrive_time": "21:03",
+      "depart_time": "21:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "太谷东",
+      "arrive_time": "21:19",
+      "depart_time": "21:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武乡",
+      "arrive_time": "21:47",
+      "depart_time": "21:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "襄垣东",
+      "arrive_time": "22:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长治东",
+      "arrive_time": "22:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 167.0,
+    "price_second": 105.0,
+    "price_no_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T03:46:38.313295"
+}

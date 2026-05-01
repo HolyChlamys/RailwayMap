@@ -1,0 +1,51 @@
+{
+  "train_no": "C9182",
+  "train_type": "C",
+  "depart_station": "贵阳北",
+  "arrive_station": "成都东",
+  "depart_time": "18:43",
+  "arrive_time": "21:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "18:43",
+      "depart_time": "18:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黔西",
+      "arrive_time": "19:14",
+      "depart_time": "19:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜宾西",
+      "arrive_time": "20:40",
+      "depart_time": "20:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "乐山",
+      "arrive_time": "21:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "21:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 475.0,
+    "price_second": 297.0,
+    "price_no_seat": 297.0
+  },
+  "fetched_at": "2026-05-01T02:42:03.941097"
+}

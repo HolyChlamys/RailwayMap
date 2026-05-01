@@ -1,0 +1,45 @@
+{
+  "train_no": "G5547",
+  "train_type": "G",
+  "depart_station": "聊城西",
+  "arrive_station": "济南东",
+  "depart_time": "20:00",
+  "arrive_time": "21:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "聊城西",
+      "arrive_time": "20:00",
+      "depart_time": "20:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "茌平南",
+      "arrive_time": "20:13",
+      "depart_time": "20:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "济南西",
+      "arrive_time": "20:39",
+      "depart_time": "20:45",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南东",
+      "arrive_time": "21:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 259.0,
+    "price_first": 122.0,
+    "price_second": 76.0,
+    "price_no_seat": 76.0
+  },
+  "fetched_at": "2026-05-01T07:36:33.812140"
+}

@@ -1,0 +1,35 @@
+{
+  "train_no": "K5175",
+  "train_type": "K",
+  "depart_station": "免渡河",
+  "arrive_station": "海拉尔",
+  "depart_time": "21:19",
+  "arrive_time": "21:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "免渡河",
+      "arrive_time": "21:19",
+      "depart_time": "21:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "牙克石",
+      "arrive_time": "21:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "海拉尔",
+      "arrive_time": "21:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 18.5
+  },
+  "fetched_at": "2026-05-01T10:05:34.057394"
+}

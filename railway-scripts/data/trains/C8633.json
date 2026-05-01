@@ -1,0 +1,44 @@
+{
+  "train_no": "C8633",
+  "train_type": "C",
+  "depart_station": "南宁东",
+  "arrive_station": "百色",
+  "depart_time": "18:05",
+  "arrive_time": "19:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "18:05",
+      "depart_time": "18:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁",
+      "arrive_time": "18:30",
+      "depart_time": "18:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "平果",
+      "arrive_time": "19:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "百色",
+      "arrive_time": "19:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 146.0,
+    "price_second": 91.5,
+    "price_no_seat": 91.5
+  },
+  "fetched_at": "2026-05-01T02:34:58.476094"
+}

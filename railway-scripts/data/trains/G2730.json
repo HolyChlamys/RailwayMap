@@ -1,0 +1,87 @@
+{
+  "train_no": "G2730",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "南昌西",
+  "depart_time": "10:44",
+  "arrive_time": "14:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "10:44",
+      "depart_time": "10:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠州北",
+      "arrive_time": "11:16",
+      "depart_time": "11:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "河源东",
+      "arrive_time": "11:37",
+      "depart_time": "11:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "河源北",
+      "arrive_time": "11:51",
+      "depart_time": "11:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "龙川西",
+      "arrive_time": "12:04",
+      "depart_time": "12:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "定南南",
+      "arrive_time": "12:31",
+      "depart_time": "12:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "赣州西",
+      "arrive_time": "13:07",
+      "depart_time": "13:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "万安县",
+      "arrive_time": "13:41",
+      "depart_time": "13:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "吉水西",
+      "arrive_time": "14:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "南昌西",
+      "arrive_time": "14:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1593.0,
+    "price_first": 776.0,
+    "price_second": 485.0,
+    "price_no_seat": 485.0
+  },
+  "fetched_at": "2026-05-01T06:18:46.042809"
+}

@@ -1,0 +1,78 @@
+{
+  "train_no": "D190",
+  "train_type": "D",
+  "depart_station": "广州白云",
+  "arrive_station": "郑州",
+  "depart_time": "15:45",
+  "arrive_time": "07:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "15:45",
+      "depart_time": "15:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衡阳",
+      "arrive_time": "21:20",
+      "depart_time": "21:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙",
+      "arrive_time": "23:24",
+      "depart_time": "23:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武昌",
+      "arrive_time": "02:51",
+      "depart_time": "02:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "信阳",
+      "arrive_time": "05:15",
+      "depart_time": "05:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "驻马店",
+      "arrive_time": "06:06",
+      "depart_time": "06:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "漯河",
+      "arrive_time": "06:45",
+      "depart_time": "06:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "许昌",
+      "arrive_time": "07:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "郑州",
+      "arrive_time": "07:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 494.0,
+    "price_no_seat": 494.0
+  },
+  "fetched_at": "2026-05-01T03:07:20.143198"
+}

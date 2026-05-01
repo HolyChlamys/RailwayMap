@@ -1,0 +1,192 @@
+{
+  "train_no": "G2654",
+  "train_type": "G",
+  "depart_station": "烟台",
+  "arrive_station": "沈阳",
+  "depart_time": "10:53",
+  "arrive_time": "20:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "烟台",
+      "arrive_time": "10:53",
+      "depart_time": "10:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福山",
+      "arrive_time": "11:12",
+      "depart_time": "11:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "烟台西",
+      "arrive_time": "11:24",
+      "depart_time": "11:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "蓬莱",
+      "arrive_time": "11:37",
+      "depart_time": "11:41",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "龙口市",
+      "arrive_time": "11:53",
+      "depart_time": "11:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "招远",
+      "arrive_time": "12:06",
+      "depart_time": "12:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "莱州",
+      "arrive_time": "12:24",
+      "depart_time": "12:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "潍坊北",
+      "arrive_time": "12:50",
+      "depart_time": "12:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "淄博北",
+      "arrive_time": "13:20",
+      "depart_time": "13:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "济南东",
+      "arrive_time": "13:45",
+      "depart_time": "13:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "平原东",
+      "arrive_time": "14:13",
+      "depart_time": "14:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "德州东",
+      "arrive_time": "14:27",
+      "depart_time": "14:35",
+      "stay_min": "8"
+    },
+    {
+      "seq": 13,
+      "station_name": "天津南",
+      "arrive_time": "15:18",
+      "depart_time": "15:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "天津西",
+      "arrive_time": "15:32",
+      "depart_time": "15:37",
+      "stay_min": "5"
+    },
+    {
+      "seq": 15,
+      "station_name": "唐山",
+      "arrive_time": "16:14",
+      "depart_time": "16:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 16,
+      "station_name": "秦皇岛",
+      "arrive_time": "16:54",
+      "depart_time": "16:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 17,
+      "station_name": "山海关",
+      "arrive_time": "17:12",
+      "depart_time": "17:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 18,
+      "station_name": "绥中北",
+      "arrive_time": "17:40",
+      "depart_time": "17:46",
+      "stay_min": "6"
+    },
+    {
+      "seq": 19,
+      "station_name": "葫芦岛北",
+      "arrive_time": "18:07",
+      "depart_time": "18:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 20,
+      "station_name": "锦州南",
+      "arrive_time": "18:27",
+      "depart_time": "18:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 21,
+      "station_name": "盘锦",
+      "arrive_time": "19:03",
+      "depart_time": "19:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 22,
+      "station_name": "海城西",
+      "arrive_time": "19:28",
+      "depart_time": "19:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 23,
+      "station_name": "鞍山西",
+      "arrive_time": "19:44",
+      "depart_time": "19:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 24,
+      "station_name": "辽阳",
+      "arrive_time": "19:57",
+      "depart_time": "19:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 25,
+      "station_name": "沈阳",
+      "arrive_time": "20:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2545.0,
+    "price_first": 1211.0,
+    "price_second": 756.5,
+    "price_no_seat": 756.5
+  },
+  "fetched_at": "2026-05-01T06:16:29.790172"
+}

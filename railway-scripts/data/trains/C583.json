@@ -1,0 +1,30 @@
+{
+  "train_no": "C583",
+  "train_type": "C",
+  "depart_station": "曲靖",
+  "arrive_station": "昆明",
+  "depart_time": "11:10",
+  "arrive_time": "11:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "曲靖",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆明",
+      "arrive_time": "11:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 78.0,
+    "price_second": 48.0,
+    "price_no_seat": 48.0
+  },
+  "fetched_at": "2026-05-01T01:39:33.330922"
+}

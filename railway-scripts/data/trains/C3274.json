@@ -1,0 +1,80 @@
+{
+  "train_no": "C3274",
+  "train_type": "C",
+  "depart_station": "上海虹桥",
+  "arrive_station": "亳州南",
+  "depart_time": "20:21",
+  "arrive_time": "01:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "20:21",
+      "depart_time": "20:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张家港",
+      "arrive_time": "21:09",
+      "depart_time": "21:27",
+      "stay_min": "18"
+    },
+    {
+      "seq": 3,
+      "station_name": "武进",
+      "arrive_time": "21:50",
+      "depart_time": "21:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "金坛",
+      "arrive_time": "22:05",
+      "depart_time": "22:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "22:32",
+      "depart_time": "22:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "全椒",
+      "arrive_time": "22:55",
+      "depart_time": "22:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "合肥",
+      "arrive_time": "23:33",
+      "depart_time": "23:44",
+      "stay_min": "11"
+    },
+    {
+      "seq": 8,
+      "station_name": "阜阳西",
+      "arrive_time": "00:40",
+      "depart_time": "00:55",
+      "stay_min": "15"
+    },
+    {
+      "seq": 9,
+      "station_name": "亳州南",
+      "arrive_time": "01:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1373.0,
+    "price_first": 685.0,
+    "price_second": 428.0,
+    "price_no_seat": 428.0
+  },
+  "fetched_at": "2026-05-01T00:55:43.574808"
+}

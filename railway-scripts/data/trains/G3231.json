@@ -1,0 +1,122 @@
+{
+  "train_no": "G3231",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "十堰东",
+  "depart_time": "06:42",
+  "arrive_time": "14:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "06:42",
+      "depart_time": "06:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "07:01",
+      "depart_time": "07:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡",
+      "arrive_time": "07:29",
+      "depart_time": "07:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "常州",
+      "arrive_time": "07:47",
+      "depart_time": "07:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "丹阳",
+      "arrive_time": "08:05",
+      "depart_time": "08:16",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "镇江",
+      "arrive_time": "08:29",
+      "depart_time": "08:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京南",
+      "arrive_time": "08:59",
+      "depart_time": "09:03",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "合肥南",
+      "arrive_time": "09:51",
+      "depart_time": "10:00",
+      "stay_min": "9"
+    },
+    {
+      "seq": 9,
+      "station_name": "六安",
+      "arrive_time": "10:24",
+      "depart_time": "10:36",
+      "stay_min": "12"
+    },
+    {
+      "seq": 10,
+      "station_name": "汉口",
+      "arrive_time": "12:05",
+      "depart_time": "12:25",
+      "stay_min": "20"
+    },
+    {
+      "seq": 11,
+      "station_name": "襄阳东",
+      "arrive_time": "13:39",
+      "depart_time": "13:42",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "谷城北",
+      "arrive_time": "14:05",
+      "depart_time": "14:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "丹江口",
+      "arrive_time": "14:18",
+      "depart_time": "14:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "武当山西",
+      "arrive_time": "14:33",
+      "depart_time": "14:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "十堰东",
+      "arrive_time": "14:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2131.0,
+    "price_first": 1041.0,
+    "price_second": 650.0,
+    "price_no_seat": 650.0
+  },
+  "fetched_at": "2026-05-01T06:32:22.184714"
+}

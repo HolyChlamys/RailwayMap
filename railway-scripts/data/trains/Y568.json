@@ -1,0 +1,47 @@
+{
+  "train_no": "Y568",
+  "train_type": "Y",
+  "depart_station": "十堰",
+  "arrive_station": "钟祥",
+  "depart_time": "00:01",
+  "arrive_time": "06:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "十堰",
+      "arrive_time": "00:01",
+      "depart_time": "00:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "谷城",
+      "arrive_time": "01:09",
+      "depart_time": "01:13",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "襄阳",
+      "arrive_time": "02:20",
+      "depart_time": "02:45",
+      "stay_min": "25"
+    },
+    {
+      "seq": 4,
+      "station_name": "荆门",
+      "arrive_time": "04:30",
+      "depart_time": "05:15",
+      "stay_min": "45"
+    },
+    {
+      "seq": 5,
+      "station_name": "钟祥",
+      "arrive_time": "06:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:35:29.319497"
+}

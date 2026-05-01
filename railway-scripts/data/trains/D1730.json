@@ -1,0 +1,79 @@
+{
+  "train_no": "D1730",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "重庆西",
+  "depart_time": "10:41",
+  "arrive_time": "15:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "10:41",
+      "depart_time": "10:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁北",
+      "arrive_time": "11:07",
+      "depart_time": "11:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "荔波",
+      "arrive_time": "12:26",
+      "depart_time": "12:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "独山东",
+      "arrive_time": "12:57",
+      "depart_time": "12:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "都匀东",
+      "arrive_time": "13:13",
+      "depart_time": "13:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳东",
+      "arrive_time": "13:59",
+      "depart_time": "13:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "修文县",
+      "arrive_time": "14:22",
+      "depart_time": "14:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "遵义",
+      "arrive_time": "15:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "重庆西",
+      "arrive_time": "15:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 638.0,
+    "price_second": 399.0,
+    "price_no_seat": 399.0
+  },
+  "fetched_at": "2026-05-01T03:03:59.114681"
+}

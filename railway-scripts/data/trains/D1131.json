@@ -1,0 +1,80 @@
+{
+  "train_no": "D1131",
+  "train_type": "D",
+  "depart_station": "清河",
+  "arrive_station": "太原南",
+  "depart_time": "13:52",
+  "arrive_time": "16:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清河",
+      "arrive_time": "13:52",
+      "depart_time": "13:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宣化北",
+      "arrive_time": "14:49",
+      "depart_time": "14:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "张家口",
+      "arrive_time": "15:02",
+      "depart_time": "15:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀安",
+      "arrive_time": "15:23",
+      "depart_time": "15:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "天镇",
+      "arrive_time": "15:44",
+      "depart_time": "15:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "大同南",
+      "arrive_time": "16:17",
+      "depart_time": "16:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "山阴南",
+      "arrive_time": "16:44",
+      "depart_time": "16:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "朔州东",
+      "arrive_time": "16:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "太原南",
+      "arrive_time": "16:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 875.0,
+    "price_first": 446.0,
+    "price_second": 278.0,
+    "price_no_seat": 278.0
+  },
+  "fetched_at": "2026-05-01T02:58:02.526016"
+}

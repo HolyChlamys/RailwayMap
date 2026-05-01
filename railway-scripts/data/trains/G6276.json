@@ -1,0 +1,52 @@
+{
+  "train_no": "G6276",
+  "train_type": "G",
+  "depart_station": "邯郸东",
+  "arrive_station": "天津西",
+  "depart_time": "20:46",
+  "arrive_time": "22:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邯郸东",
+      "arrive_time": "20:46",
+      "depart_time": "20:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邢台东",
+      "arrive_time": "21:18",
+      "depart_time": "21:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "21:47",
+      "depart_time": "21:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "保定东",
+      "arrive_time": "22:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "天津西",
+      "arrive_time": "22:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 796.0,
+    "price_first": 374.5,
+    "price_second": 234.5,
+    "price_no_seat": 234.5
+  },
+  "fetched_at": "2026-05-01T07:54:00.394751"
+}

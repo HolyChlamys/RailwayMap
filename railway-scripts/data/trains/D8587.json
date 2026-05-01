@@ -1,0 +1,72 @@
+{
+  "train_no": "D8587",
+  "train_type": "D",
+  "depart_station": "遵义",
+  "arrive_station": "六盘水",
+  "depart_time": "10:02",
+  "arrive_time": "12:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "遵义",
+      "arrive_time": "10:02",
+      "depart_time": "10:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳北",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵安",
+      "arrive_time": "11:16",
+      "depart_time": "11:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺西",
+      "arrive_time": "11:40",
+      "depart_time": "11:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "黄桶北",
+      "arrive_time": "11:54",
+      "depart_time": "11:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "六枝南",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "六盘水东",
+      "arrive_time": "12:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "六盘水",
+      "arrive_time": "12:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 229.0,
+    "price_second": 143.0,
+    "price_no_seat": 143.0
+  },
+  "fetched_at": "2026-05-01T05:00:17.139604"
+}

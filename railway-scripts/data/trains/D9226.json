@@ -1,0 +1,59 @@
+{
+  "train_no": "D9226",
+  "train_type": "D",
+  "depart_station": "运城北",
+  "arrive_station": "太原南",
+  "depart_time": "21:50",
+  "arrive_time": "23:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "运城北",
+      "arrive_time": "21:50",
+      "depart_time": "21:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "闻喜西",
+      "arrive_time": "22:07",
+      "depart_time": "22:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "临汾西",
+      "arrive_time": "22:37",
+      "depart_time": "22:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "洪洞西",
+      "arrive_time": "22:52",
+      "depart_time": "22:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "平遥古城",
+      "arrive_time": "23:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "太原南",
+      "arrive_time": "23:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 329.5,
+    "price_first": 176.0,
+    "price_second": 110.0,
+    "price_no_seat": 110.0
+  },
+  "fetched_at": "2026-05-01T05:10:27.669967"
+}

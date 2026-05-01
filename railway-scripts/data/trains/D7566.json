@@ -1,0 +1,66 @@
+{
+  "train_no": "D7566",
+  "train_type": "D",
+  "depart_station": "福田",
+  "arrive_station": "广州东",
+  "depart_time": "21:50",
+  "arrive_time": "23:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福田",
+      "arrive_time": "21:50",
+      "depart_time": "21:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "22:02",
+      "depart_time": "22:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东莞南",
+      "arrive_time": "22:22",
+      "depart_time": "22:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "常平",
+      "arrive_time": "22:36",
+      "depart_time": "22:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "东莞",
+      "arrive_time": "22:47",
+      "depart_time": "22:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州新塘",
+      "arrive_time": "23:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州东",
+      "arrive_time": "23:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 279.0,
+    "price_first": 105.0,
+    "price_second": 83.0,
+    "price_no_seat": 83.0
+  },
+  "fetched_at": "2026-05-01T04:40:31.581175"
+}

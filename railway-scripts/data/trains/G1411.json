@@ -1,0 +1,52 @@
+{
+  "train_no": "G1411",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "福州",
+  "depart_time": "17:58",
+  "arrive_time": "20:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "17:58",
+      "depart_time": "17:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州南",
+      "arrive_time": "18:26",
+      "depart_time": "18:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州西",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "温州南",
+      "arrive_time": "20:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福州",
+      "arrive_time": "20:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1680.0,
+    "price_first": 767.0,
+    "price_second": 481.0,
+    "price_no_seat": 481.0
+  },
+  "fetched_at": "2026-05-01T05:42:13.027686"
+}

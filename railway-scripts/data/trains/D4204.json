@@ -1,0 +1,51 @@
+{
+  "train_no": "D4204",
+  "train_type": "D",
+  "depart_station": "朔州东",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "09:06",
+  "arrive_time": "11:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "朔州东",
+      "arrive_time": "09:06",
+      "depart_time": "09:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "应县西",
+      "arrive_time": "09:24",
+      "depart_time": "09:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "大同南",
+      "arrive_time": "09:47",
+      "depart_time": "09:53",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "乌兰察布",
+      "arrive_time": "10:31",
+      "depart_time": "10:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "呼和浩特东",
+      "arrive_time": "11:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 264.0,
+    "price_second": 166.0,
+    "price_no_seat": 166.0
+  },
+  "fetched_at": "2026-05-01T03:45:19.066179"
+}

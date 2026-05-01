@@ -1,0 +1,66 @@
+{
+  "train_no": "G2518",
+  "train_type": "G",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "清河",
+  "depart_time": "14:10",
+  "arrive_time": "16:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "14:10",
+      "depart_time": "14:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "卓资东",
+      "arrive_time": "14:35",
+      "depart_time": "14:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乌兰察布",
+      "arrive_time": "14:54",
+      "depart_time": "14:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "张家口",
+      "arrive_time": "15:44",
+      "depart_time": "15:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宣化北",
+      "arrive_time": "15:56",
+      "depart_time": "15:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "八达岭长城",
+      "arrive_time": "16:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "清河",
+      "arrive_time": "16:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 627.0,
+    "price_first": 335.0,
+    "price_second": 209.0,
+    "price_no_seat": 209.0
+  },
+  "fetched_at": "2026-05-01T06:12:39.296305"
+}

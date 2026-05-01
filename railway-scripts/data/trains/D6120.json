@@ -1,0 +1,31 @@
+{
+  "train_no": "D6120",
+  "train_type": "D",
+  "depart_station": "重庆北",
+  "arrive_station": "复盛",
+  "depart_time": "19:17",
+  "arrive_time": "19:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "19:17",
+      "depart_time": "19:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "复盛",
+      "arrive_time": "19:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 36.0,
+    "price_first": 17.0,
+    "price_second": 10.0,
+    "price_no_seat": 10.0
+  },
+  "fetched_at": "2026-05-01T04:17:11.432581"
+}

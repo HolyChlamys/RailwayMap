@@ -1,0 +1,71 @@
+{
+  "train_no": "C5893",
+  "train_type": "C",
+  "depart_station": "毕节",
+  "arrive_station": "花溪大学城",
+  "depart_time": "11:38",
+  "arrive_time": "13:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "毕节",
+      "arrive_time": "11:38",
+      "depart_time": "11:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黔西",
+      "arrive_time": "12:04",
+      "depart_time": "12:18",
+      "stay_min": "14"
+    },
+    {
+      "seq": 3,
+      "station_name": "白云北",
+      "arrive_time": "12:45",
+      "depart_time": "12:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "12:59",
+      "depart_time": "13:16",
+      "stay_min": "17"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵安",
+      "arrive_time": "13:31",
+      "depart_time": "13:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "芦官",
+      "arrive_time": "13:39",
+      "depart_time": "13:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "湖潮东",
+      "arrive_time": "13:45",
+      "depart_time": "13:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "花溪大学城",
+      "arrive_time": "13:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T01:41:25.365837"
+}

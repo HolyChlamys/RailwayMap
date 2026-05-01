@@ -1,0 +1,59 @@
+{
+  "train_no": "G3219",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "武汉",
+  "depart_time": "08:57",
+  "arrive_time": "10:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "08:57",
+      "depart_time": "08:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漯河西",
+      "arrive_time": "09:35",
+      "depart_time": "09:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "驻马店西",
+      "arrive_time": "09:55",
+      "depart_time": "09:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "明港东",
+      "arrive_time": "10:19",
+      "depart_time": "10:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "信阳东",
+      "arrive_time": "10:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "武汉",
+      "arrive_time": "10:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1025.0,
+    "price_first": 469.0,
+    "price_second": 293.0,
+    "price_no_seat": 293.0
+  },
+  "fetched_at": "2026-05-01T06:31:59.045007"
+}

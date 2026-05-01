@@ -1,0 +1,72 @@
+{
+  "train_no": "D4112",
+  "train_type": "D",
+  "depart_station": "杭州",
+  "arrive_station": "宜昌东",
+  "depart_time": "12:36",
+  "arrive_time": "18:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州",
+      "arrive_time": "12:36",
+      "depart_time": "12:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宣城",
+      "arrive_time": "13:39",
+      "depart_time": "13:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "14:51",
+      "depart_time": "14:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "16:41",
+      "depart_time": "16:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "汉川",
+      "arrive_time": "17:08",
+      "depart_time": "17:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "仙桃西",
+      "arrive_time": "17:36",
+      "depart_time": "17:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "潜江",
+      "arrive_time": "17:48",
+      "depart_time": "17:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "宜昌东",
+      "arrive_time": "18:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 760.0,
+    "price_second": 475.0,
+    "price_no_seat": 475.0
+  },
+  "fetched_at": "2026-05-01T03:44:07.882233"
+}

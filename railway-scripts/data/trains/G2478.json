@@ -1,0 +1,66 @@
+{
+  "train_no": "G2478",
+  "train_type": "G",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "北京北",
+  "depart_time": "19:37",
+  "arrive_time": "21:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "19:37",
+      "depart_time": "19:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌兰察布",
+      "arrive_time": "20:16",
+      "depart_time": "20:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兴和北",
+      "arrive_time": "20:43",
+      "depart_time": "20:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "张家口",
+      "arrive_time": "21:19",
+      "depart_time": "21:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宣化北",
+      "arrive_time": "21:31",
+      "depart_time": "21:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "下花园北",
+      "arrive_time": "21:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "北京北",
+      "arrive_time": "21:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 646.0,
+    "price_first": 345.0,
+    "price_second": 215.0,
+    "price_no_seat": 215.0
+  },
+  "fetched_at": "2026-05-01T06:11:31.600712"
+}

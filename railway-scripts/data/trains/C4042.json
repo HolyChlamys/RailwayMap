@@ -1,0 +1,58 @@
+{
+  "train_no": "C4042",
+  "train_type": "C",
+  "depart_station": "攀枝花南",
+  "arrive_station": "成都南",
+  "depart_time": "06:10",
+  "arrive_time": "08:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "攀枝花南",
+      "arrive_time": "06:10",
+      "depart_time": "06:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西昌西",
+      "arrive_time": "07:37",
+      "depart_time": "07:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "冕宁",
+      "arrive_time": "08:04",
+      "depart_time": "08:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "越西",
+      "arrive_time": "08:33",
+      "depart_time": "08:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "甘洛南",
+      "arrive_time": "08:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "成都南",
+      "arrive_time": "08:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 307.0,
+    "price_second": 191.0,
+    "price_no_seat": 191.0
+  },
+  "fetched_at": "2026-05-01T01:06:55.306537"
+}

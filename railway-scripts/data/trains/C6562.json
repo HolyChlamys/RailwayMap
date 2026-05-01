@@ -1,0 +1,44 @@
+{
+  "train_no": "C6562",
+  "train_type": "C",
+  "depart_station": "烟台",
+  "arrive_station": "青岛北",
+  "depart_time": "12:59",
+  "arrive_time": "14:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "烟台",
+      "arrive_time": "12:59",
+      "depart_time": "12:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莱西",
+      "arrive_time": "13:43",
+      "depart_time": "13:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "即墨北",
+      "arrive_time": "14:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "青岛北",
+      "arrive_time": "14:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 118.0,
+    "price_second": 74.0,
+    "price_no_seat": 74.0
+  },
+  "fetched_at": "2026-05-01T01:52:00.271387"
+}

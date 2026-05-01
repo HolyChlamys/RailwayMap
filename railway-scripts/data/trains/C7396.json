@@ -1,0 +1,38 @@
+{
+  "train_no": "C7396",
+  "train_type": "C",
+  "depart_station": "深圳北",
+  "arrive_station": "普宁",
+  "depart_time": "03:12",
+  "arrive_time": "04:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "03:12",
+      "depart_time": "03:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汕尾",
+      "arrive_time": "04:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "普宁",
+      "arrive_time": "04:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 391.0,
+    "price_first": 179.0,
+    "price_second": 112.0,
+    "price_no_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T02:14:02.866208"
+}

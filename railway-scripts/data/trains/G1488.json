@@ -1,0 +1,122 @@
+{
+  "train_no": "G1488",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "厦门",
+  "depart_time": "11:44",
+  "arrive_time": "18:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "11:44",
+      "depart_time": "11:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "醴陵东",
+      "arrive_time": "12:07",
+      "depart_time": "12:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "新余北",
+      "arrive_time": "12:42",
+      "depart_time": "12:47",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌西",
+      "arrive_time": "13:20",
+      "depart_time": "13:26",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "鹰潭北",
+      "arrive_time": "14:01",
+      "depart_time": "14:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "上饶",
+      "arrive_time": "14:34",
+      "depart_time": "14:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "武夷山北",
+      "arrive_time": "14:58",
+      "depart_time": "15:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "南平市",
+      "arrive_time": "15:12",
+      "depart_time": "15:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "延平",
+      "arrive_time": "15:41",
+      "depart_time": "15:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "福州",
+      "arrive_time": "16:23",
+      "depart_time": "16:28",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "福州南",
+      "arrive_time": "16:43",
+      "depart_time": "16:47",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "福清西",
+      "arrive_time": "17:01",
+      "depart_time": "17:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "泉州南",
+      "arrive_time": "17:37",
+      "depart_time": "17:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "厦门北",
+      "arrive_time": "17:58",
+      "depart_time": "18:02",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "厦门",
+      "arrive_time": "18:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2160.0,
+    "price_first": 1025.0,
+    "price_second": 632.0,
+    "price_no_seat": 632.0
+  },
+  "fetched_at": "2026-05-01T05:44:32.465606"
+}

@@ -1,0 +1,94 @@
+{
+  "train_no": "G8098",
+  "train_type": "G",
+  "depart_station": "大连北",
+  "arrive_station": "赤峰",
+  "depart_time": "13:10",
+  "arrive_time": "17:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "13:10",
+      "depart_time": "13:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "13:47",
+      "depart_time": "13:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "营口东",
+      "arrive_time": "14:06",
+      "depart_time": "14:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "凌海南",
+      "arrive_time": "14:54",
+      "depart_time": "14:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "锦州北",
+      "arrive_time": "15:08",
+      "depart_time": "15:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "辽宁朝阳",
+      "arrive_time": "15:34",
+      "depart_time": "15:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "喀左",
+      "arrive_time": "15:57",
+      "depart_time": "15:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "建平",
+      "arrive_time": "16:15",
+      "depart_time": "16:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "宁城",
+      "arrive_time": "16:31",
+      "depart_time": "16:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "平庄",
+      "arrive_time": "16:48",
+      "depart_time": "16:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "赤峰",
+      "arrive_time": "17:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1207.0,
+    "price_first": 570.0,
+    "price_second": 356.0,
+    "price_no_seat": 356.0
+  },
+  "fetched_at": "2026-05-01T08:44:17.002352"
+}

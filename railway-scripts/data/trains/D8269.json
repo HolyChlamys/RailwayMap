@@ -1,0 +1,79 @@
+{
+  "train_no": "D8269",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "贺州",
+  "depart_time": "13:00",
+  "arrive_time": "16:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "13:00",
+      "depart_time": "13:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宾阳",
+      "arrive_time": "13:25",
+      "depart_time": "13:31",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "来宾北",
+      "arrive_time": "13:51",
+      "depart_time": "13:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "柳州",
+      "arrive_time": "14:19",
+      "depart_time": "14:26",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "桂林",
+      "arrive_time": "15:26",
+      "depart_time": "15:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "桂林北",
+      "arrive_time": "15:39",
+      "depart_time": "15:46",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "阳朔",
+      "arrive_time": "16:10",
+      "depart_time": "16:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "恭城",
+      "arrive_time": "16:26",
+      "depart_time": "16:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "贺州",
+      "arrive_time": "16:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 374.0,
+    "price_second": 233.5,
+    "price_no_seat": 233.5
+  },
+  "fetched_at": "2026-05-01T04:52:47.867768"
+}

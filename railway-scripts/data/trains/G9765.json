@@ -1,0 +1,52 @@
+{
+  "train_no": "G9765",
+  "train_type": "G",
+  "depart_station": "株洲西",
+  "arrive_station": "福田",
+  "depart_time": "22:50",
+  "arrive_time": "01:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "株洲西",
+      "arrive_time": "22:50",
+      "depart_time": "22:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衡阳东",
+      "arrive_time": "23:22",
+      "depart_time": "23:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "01:11",
+      "depart_time": "01:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "01:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福田",
+      "arrive_time": "01:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1446.0,
+    "price_first": 671.0,
+    "price_second": 434.0,
+    "price_no_seat": 434.0
+  },
+  "fetched_at": "2026-05-01T09:23:34.855364"
+}

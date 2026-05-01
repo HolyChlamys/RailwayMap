@@ -1,0 +1,42 @@
+{
+  "train_no": "K6104",
+  "train_type": "K",
+  "depart_station": "昆明",
+  "arrive_station": "红果",
+  "depart_time": "15:41",
+  "arrive_time": "19:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "15:41",
+      "depart_time": "15:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲靖",
+      "arrive_time": "17:46",
+      "depart_time": "17:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "富源",
+      "arrive_time": "19:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "红果",
+      "arrive_time": "19:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 41.5
+  },
+  "fetched_at": "2026-05-01T10:17:38.614991"
+}

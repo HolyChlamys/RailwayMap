@@ -1,0 +1,45 @@
+{
+  "train_no": "G2953",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "柳州",
+  "depart_time": "10:43",
+  "arrive_time": "14:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "10:43",
+      "depart_time": "10:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贺州",
+      "arrive_time": "11:59",
+      "depart_time": "12:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "桂林北",
+      "arrive_time": "12:52",
+      "depart_time": "12:57",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "柳州",
+      "arrive_time": "14:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 979.0,
+    "price_first": 459.0,
+    "price_second": 286.5,
+    "price_no_seat": 286.5
+  },
+  "fetched_at": "2026-05-01T06:24:41.284467"
+}

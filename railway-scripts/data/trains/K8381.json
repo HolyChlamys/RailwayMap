@@ -1,0 +1,70 @@
+{
+  "train_no": "K8381",
+  "train_type": "K",
+  "depart_station": "合肥",
+  "arrive_station": "黄山",
+  "depart_time": "07:25",
+  "arrive_time": "14:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥",
+      "arrive_time": "07:25",
+      "depart_time": "07:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巢湖",
+      "arrive_time": "08:16",
+      "depart_time": "08:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "芜湖",
+      "arrive_time": "09:11",
+      "depart_time": "09:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宣城",
+      "arrive_time": "10:08",
+      "depart_time": "10:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宁国南",
+      "arrive_time": "11:12",
+      "depart_time": "11:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "绩溪县",
+      "arrive_time": "13:25",
+      "depart_time": "13:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "歙县",
+      "arrive_time": "14:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "黄山",
+      "arrive_time": "14:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 54.5
+  },
+  "fetched_at": "2026-05-01T10:39:02.343962"
+}

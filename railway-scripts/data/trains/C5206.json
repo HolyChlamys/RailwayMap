@@ -1,0 +1,72 @@
+{
+  "train_no": "C5206",
+  "train_type": "C",
+  "depart_station": "福州南",
+  "arrive_station": "南昌东",
+  "depart_time": "22:41",
+  "arrive_time": "02:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州南",
+      "arrive_time": "22:41",
+      "depart_time": "22:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福州",
+      "arrive_time": "22:56",
+      "depart_time": "23:00",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "延平",
+      "arrive_time": "23:34",
+      "depart_time": "23:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南平市",
+      "arrive_time": "00:02",
+      "depart_time": "00:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "上饶",
+      "arrive_time": "00:35",
+      "depart_time": "00:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "婺源",
+      "arrive_time": "01:00",
+      "depart_time": "01:04",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "景德镇北",
+      "arrive_time": "01:33",
+      "depart_time": "01:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "南昌东",
+      "arrive_time": "02:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 534.5,
+    "price_second": 324.5,
+    "price_no_seat": 324.5
+  },
+  "fetched_at": "2026-05-01T01:29:33.164994"
+}

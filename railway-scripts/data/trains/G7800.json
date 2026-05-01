@@ -1,0 +1,31 @@
+{
+  "train_no": "G7800",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "宜兴",
+  "depart_time": "22:37",
+  "arrive_time": "22:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "22:37",
+      "depart_time": "22:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜兴",
+      "arrive_time": "22:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 244.0,
+    "price_first": 112.0,
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T08:36:52.870886"
+}

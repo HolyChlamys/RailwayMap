@@ -1,0 +1,72 @@
+{
+  "train_no": "D9991",
+  "train_type": "D",
+  "depart_station": "宁德",
+  "arrive_station": "厦门北",
+  "depart_time": "19:30",
+  "arrive_time": "21:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁德",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "连江",
+      "arrive_time": "19:53",
+      "depart_time": "19:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "福州南",
+      "arrive_time": "20:14",
+      "depart_time": "20:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福清",
+      "arrive_time": "20:31",
+      "depart_time": "20:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "涵江",
+      "arrive_time": "20:46",
+      "depart_time": "20:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "莆田",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "泉州",
+      "arrive_time": "21:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "厦门北",
+      "arrive_time": "21:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 223.0,
+    "price_second": 139.0,
+    "price_no_seat": 139.0
+  },
+  "fetched_at": "2026-05-01T05:29:54.478582"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G3979",
+  "train_type": "G",
+  "depart_station": "上海南",
+  "arrive_station": "福州南",
+  "depart_time": "23:48",
+  "arrive_time": "04:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "23:48",
+      "depart_time": "23:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州西",
+      "arrive_time": "00:56",
+      "depart_time": "00:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄山北",
+      "arrive_time": "02:15",
+      "depart_time": "02:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福州",
+      "arrive_time": "04:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福州南",
+      "arrive_time": "04:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1568.0,
+    "price_first": 789.5,
+    "price_second": 481.5,
+    "price_no_seat": 481.5
+  },
+  "fetched_at": "2026-05-01T06:52:11.927479"
+}

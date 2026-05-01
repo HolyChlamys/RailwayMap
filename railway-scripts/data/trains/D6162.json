@@ -1,0 +1,43 @@
+{
+  "train_no": "D6162",
+  "train_type": "D",
+  "depart_station": "荔波",
+  "arrive_station": "贵阳北",
+  "depart_time": "13:31",
+  "arrive_time": "14:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荔波",
+      "arrive_time": "13:31",
+      "depart_time": "13:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "都匀东",
+      "arrive_time": "14:05",
+      "depart_time": "14:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳",
+      "arrive_time": "14:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "14:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T04:18:09.786064"
+}

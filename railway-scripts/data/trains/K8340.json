@@ -1,0 +1,35 @@
+{
+  "train_no": "K8340",
+  "train_type": "K",
+  "depart_station": "东营",
+  "arrive_station": "济南",
+  "depart_time": "18:43",
+  "arrive_time": "20:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东营",
+      "arrive_time": "18:43",
+      "depart_time": "18:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淄博",
+      "arrive_time": "20:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "济南",
+      "arrive_time": "20:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:38:34.279195"
+}

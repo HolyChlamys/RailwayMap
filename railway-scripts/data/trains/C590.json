@@ -1,0 +1,37 @@
+{
+  "train_no": "C590",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "宣威",
+  "depart_time": "19:05",
+  "arrive_time": "20:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "19:05",
+      "depart_time": "19:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲靖",
+      "arrive_time": "20:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宣威",
+      "arrive_time": "20:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 127.0,
+    "price_second": 80.0,
+    "price_no_seat": 80.0
+  },
+  "fetched_at": "2026-05-01T01:41:38.517909"
+}

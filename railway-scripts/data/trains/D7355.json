@@ -1,0 +1,59 @@
+{
+  "train_no": "D7355",
+  "train_type": "D",
+  "depart_station": "梅州西",
+  "arrive_station": "深圳北",
+  "depart_time": "12:04",
+  "arrive_time": "13:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梅州西",
+      "arrive_time": "12:04",
+      "depart_time": "12:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴宁南",
+      "arrive_time": "12:18",
+      "depart_time": "12:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "五华",
+      "arrive_time": "12:29",
+      "depart_time": "12:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙川西",
+      "arrive_time": "12:49",
+      "depart_time": "12:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "惠州北",
+      "arrive_time": "13:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "13:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 612.0,
+    "price_first": 279.0,
+    "price_second": 176.0,
+    "price_no_seat": 176.0
+  },
+  "fetched_at": "2026-05-01T04:37:07.942679"
+}

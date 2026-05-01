@@ -1,0 +1,52 @@
+{
+  "train_no": "G6238",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "肇庆东",
+  "depart_time": "20:58",
+  "arrive_time": "21:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门",
+      "arrive_time": "21:17",
+      "depart_time": "21:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "21:37",
+      "depart_time": "21:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "佛山西",
+      "arrive_time": "21:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "肇庆东",
+      "arrive_time": "21:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 317.5,
+    "price_first": 153.5,
+    "price_second": 108.5,
+    "price_no_seat": 108.5
+  },
+  "fetched_at": "2026-05-01T07:52:50.854034"
+}

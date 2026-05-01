@@ -1,0 +1,52 @@
+{
+  "train_no": "G7847",
+  "train_type": "G",
+  "depart_station": "北京北",
+  "arrive_station": "张家口",
+  "depart_time": "10:36",
+  "arrive_time": "11:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京北",
+      "arrive_time": "10:36",
+      "depart_time": "10:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "清河",
+      "arrive_time": "10:52",
+      "depart_time": "10:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东花园北",
+      "arrive_time": "11:20",
+      "depart_time": "11:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀来",
+      "arrive_time": "11:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "张家口",
+      "arrive_time": "11:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 289.0,
+    "price_first": 154.0,
+    "price_second": 96.0,
+    "price_no_seat": 96.0
+  },
+  "fetched_at": "2026-05-01T08:38:08.287646"
+}

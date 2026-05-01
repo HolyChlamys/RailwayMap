@@ -1,0 +1,72 @@
+{
+  "train_no": "D6195",
+  "train_type": "D",
+  "depart_station": "重庆北",
+  "arrive_station": "邛崃",
+  "depart_time": "16:09",
+  "arrive_time": "19:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "16:09",
+      "depart_time": "16:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合川",
+      "arrive_time": "16:35",
+      "depart_time": "16:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "潼南",
+      "arrive_time": "17:01",
+      "depart_time": "17:14",
+      "stay_min": "13"
+    },
+    {
+      "seq": 4,
+      "station_name": "大英东",
+      "arrive_time": "17:49",
+      "depart_time": "17:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "18:39",
+      "depart_time": "18:44",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "崇州",
+      "arrive_time": "19:14",
+      "depart_time": "19:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "大邑",
+      "arrive_time": "19:26",
+      "depart_time": "19:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "邛崃",
+      "arrive_time": "19:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 243.0,
+    "price_second": 152.0,
+    "price_no_seat": 152.0
+  },
+  "fetched_at": "2026-05-01T04:18:48.681611"
+}

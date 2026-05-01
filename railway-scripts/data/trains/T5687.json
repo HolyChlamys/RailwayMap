@@ -1,0 +1,77 @@
+{
+  "train_no": "T5687",
+  "train_type": "T",
+  "depart_station": "北京",
+  "arrive_station": "秦皇岛",
+  "depart_time": "09:21",
+  "arrive_time": "12:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京",
+      "arrive_time": "09:21",
+      "depart_time": "09:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "燕郊",
+      "arrive_time": "09:52",
+      "depart_time": "09:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "蓟州",
+      "arrive_time": "10:27",
+      "depart_time": "10:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "玉田县",
+      "arrive_time": "10:49",
+      "depart_time": "10:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "唐山北",
+      "arrive_time": "11:19",
+      "depart_time": "11:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "滦县",
+      "arrive_time": "11:54",
+      "depart_time": "11:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "昌黎",
+      "arrive_time": "12:19",
+      "depart_time": "12:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "北戴河",
+      "arrive_time": "12:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "秦皇岛",
+      "arrive_time": "12:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T11:26:47.205693"
+}

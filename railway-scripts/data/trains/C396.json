@@ -1,0 +1,101 @@
+{
+  "train_no": "C396",
+  "train_type": "C",
+  "depart_station": "丽江",
+  "arrive_station": "西双版纳",
+  "depart_time": "09:10",
+  "arrive_time": "17:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丽江",
+      "arrive_time": "09:10",
+      "depart_time": "09:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹤庆",
+      "arrive_time": "09:29",
+      "depart_time": "09:34",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "南华",
+      "arrive_time": "12:11",
+      "depart_time": "12:19",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "楚雄",
+      "arrive_time": "12:35",
+      "depart_time": "12:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明",
+      "arrive_time": "13:44",
+      "depart_time": "13:52",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明南",
+      "arrive_time": "14:11",
+      "depart_time": "14:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "玉溪",
+      "arrive_time": "14:52",
+      "depart_time": "14:56",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "元江",
+      "arrive_time": "15:36",
+      "depart_time": "15:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "墨江",
+      "arrive_time": "16:04",
+      "depart_time": "16:08",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "宁洱",
+      "arrive_time": "16:48",
+      "depart_time": "16:52",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "普洱",
+      "arrive_time": "17:09",
+      "depart_time": "17:13",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "西双版纳",
+      "arrive_time": "17:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1503.0,
+    "price_first": 749.0,
+    "price_second": 469.0,
+    "price_no_seat": 469.0
+  },
+  "fetched_at": "2026-05-01T01:06:00.802909"
+}

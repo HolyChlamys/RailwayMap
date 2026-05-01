@@ -1,0 +1,30 @@
+{
+  "train_no": "C774",
+  "train_type": "C",
+  "depart_station": "松潘",
+  "arrive_station": "茂县",
+  "depart_time": "21:04",
+  "arrive_time": "21:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "松潘",
+      "arrive_time": "21:04",
+      "depart_time": "21:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "茂县",
+      "arrive_time": "21:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 230.0,
+    "price_second": 144.0,
+    "price_no_seat": 144.0
+  },
+  "fetched_at": "2026-05-01T02:23:00.516104"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G4011",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "杭州东",
+  "depart_time": "22:07",
+  "arrive_time": "02:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "22:07",
+      "depart_time": "22:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开封北",
+      "arrive_time": "22:27",
+      "depart_time": "22:32",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "23:47",
+      "depart_time": "23:51",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "01:04",
+      "depart_time": "01:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州东",
+      "arrive_time": "02:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1823.0,
+    "price_first": 833.0,
+    "price_second": 521.0,
+    "price_no_seat": 521.0
+  },
+  "fetched_at": "2026-05-01T06:53:07.958535"
+}

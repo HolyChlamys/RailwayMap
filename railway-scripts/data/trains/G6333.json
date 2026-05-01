@@ -1,0 +1,52 @@
+{
+  "train_no": "G6333",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "珠海",
+  "depart_time": "09:50",
+  "arrive_time": "11:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "09:50",
+      "depart_time": "09:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门",
+      "arrive_time": "10:07",
+      "depart_time": "10:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "10:27",
+      "depart_time": "10:46",
+      "stay_min": "19"
+    },
+    {
+      "seq": 4,
+      "station_name": "中山",
+      "arrive_time": "11:15",
+      "depart_time": "11:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "珠海",
+      "arrive_time": "11:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 404.5,
+    "price_first": 189.5,
+    "price_second": 144.5,
+    "price_no_seat": 144.5
+  },
+  "fetched_at": "2026-05-01T07:55:42.808434"
+}

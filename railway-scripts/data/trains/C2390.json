@@ -1,0 +1,52 @@
+{
+  "train_no": "C2390",
+  "train_type": "C",
+  "depart_station": "六安",
+  "arrive_station": "五河",
+  "depart_time": "18:40",
+  "arrive_time": "20:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "六安",
+      "arrive_time": "18:40",
+      "depart_time": "18:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥西",
+      "arrive_time": "19:25",
+      "depart_time": "19:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "定远东",
+      "arrive_time": "19:59",
+      "depart_time": "19:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "明光西",
+      "arrive_time": "20:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "五河",
+      "arrive_time": "20:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 594.0,
+    "price_first": 272.0,
+    "price_second": 170.0,
+    "price_no_seat": 170.0
+  },
+  "fetched_at": "2026-05-01T00:37:55.496203"
+}

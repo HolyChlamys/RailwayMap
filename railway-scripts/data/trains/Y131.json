@@ -1,0 +1,47 @@
+{
+  "train_no": "Y131",
+  "train_type": "Y",
+  "depart_station": "宜春",
+  "arrive_station": "成都西",
+  "depart_time": "14:45",
+  "arrive_time": "15:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜春",
+      "arrive_time": "14:45",
+      "depart_time": "14:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "秀山",
+      "arrive_time": "04:31",
+      "depart_time": "04:39",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "10:07",
+      "depart_time": "10:55",
+      "stay_min": "48"
+    },
+    {
+      "seq": 4,
+      "station_name": "大英东",
+      "arrive_time": "13:06",
+      "depart_time": "13:24",
+      "stay_min": "18"
+    },
+    {
+      "seq": 5,
+      "station_name": "成都西",
+      "arrive_time": "15:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:29:27.894156"
+}

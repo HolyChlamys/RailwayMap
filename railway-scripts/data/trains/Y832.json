@@ -1,0 +1,56 @@
+{
+  "train_no": "Y832",
+  "train_type": "Y",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "喀什",
+  "depart_time": "14:30",
+  "arrive_time": "07:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "14:30",
+      "depart_time": "14:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吐鲁番",
+      "arrive_time": "16:24",
+      "depart_time": "16:44",
+      "stay_min": "20"
+    },
+    {
+      "seq": 3,
+      "station_name": "库尔勒",
+      "arrive_time": "20:05",
+      "depart_time": "20:30",
+      "stay_min": "25"
+    },
+    {
+      "seq": 4,
+      "station_name": "库车",
+      "arrive_time": "23:09",
+      "depart_time": "23:15",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "阿克苏",
+      "arrive_time": "05:50",
+      "depart_time": "05:58",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "喀什",
+      "arrive_time": "07:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 20.5
+  },
+  "fetched_at": "2026-05-01T11:39:32.260315"
+}

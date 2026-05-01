@@ -1,0 +1,63 @@
+{
+  "train_no": "K9382",
+  "train_type": "K",
+  "depart_station": "秀山",
+  "arrive_station": "重庆北",
+  "depart_time": "20:05",
+  "arrive_time": "00:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "秀山",
+      "arrive_time": "20:05",
+      "depart_time": "20:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "酉阳",
+      "arrive_time": "20:40",
+      "depart_time": "20:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黔江",
+      "arrive_time": "21:41",
+      "depart_time": "21:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "彭水",
+      "arrive_time": "22:28",
+      "depart_time": "22:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武隆",
+      "arrive_time": "23:04",
+      "depart_time": "23:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "涪陵",
+      "arrive_time": "00:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "重庆北",
+      "arrive_time": "00:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 62.5
+  },
+  "fetched_at": "2026-05-01T10:44:44.728441"
+}

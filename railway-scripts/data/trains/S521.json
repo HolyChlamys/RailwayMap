@@ -1,0 +1,43 @@
+{
+  "train_no": "S521",
+  "train_type": "S",
+  "depart_station": "清河",
+  "arrive_station": "怀柔北",
+  "depart_time": "09:24",
+  "arrive_time": "10:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清河",
+      "arrive_time": "09:24",
+      "depart_time": "09:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昌平北",
+      "arrive_time": "09:48",
+      "depart_time": "09:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "雁栖湖",
+      "arrive_time": "10:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀柔北",
+      "arrive_time": "10:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 9.0,
+    "price_no_seat": 9.0
+  },
+  "fetched_at": "2026-05-01T11:03:12.930310"
+}

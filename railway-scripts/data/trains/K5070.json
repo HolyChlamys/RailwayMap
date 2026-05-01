@@ -1,0 +1,42 @@
+{
+  "train_no": "K5070",
+  "train_type": "K",
+  "depart_station": "辽源",
+  "arrive_station": "沈阳北",
+  "depart_time": "16:00",
+  "arrive_time": "18:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "辽源",
+      "arrive_time": "16:00",
+      "depart_time": "16:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西丰",
+      "arrive_time": "16:53",
+      "depart_time": "16:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "开原",
+      "arrive_time": "18:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳北",
+      "arrive_time": "18:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:03:13.693853"
+}

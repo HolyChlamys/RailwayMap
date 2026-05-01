@@ -1,0 +1,43 @@
+{
+  "train_no": "C2924",
+  "train_type": "C",
+  "depart_station": "郑州航空港",
+  "arrive_station": "开封",
+  "depart_time": "10:49",
+  "arrive_time": "11:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州航空港",
+      "arrive_time": "10:49",
+      "depart_time": "10:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "11:16",
+      "depart_time": "11:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贾鲁河",
+      "arrive_time": "11:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "开封",
+      "arrive_time": "11:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 48.0,
+    "price_no_seat": 48.0
+  },
+  "fetched_at": "2026-05-01T00:46:47.662168"
+}

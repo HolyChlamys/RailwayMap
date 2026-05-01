@@ -1,0 +1,50 @@
+{
+  "train_no": "S8162",
+  "train_type": "S",
+  "depart_station": "海口东",
+  "arrive_station": "海口",
+  "depart_time": "17:34",
+  "arrive_time": "17:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "海口东",
+      "arrive_time": "17:34",
+      "depart_time": "17:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "城西",
+      "arrive_time": "17:38",
+      "depart_time": "17:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "秀英",
+      "arrive_time": "17:44",
+      "depart_time": "17:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长流",
+      "arrive_time": "17:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "海口",
+      "arrive_time": "17:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 8.0,
+    "price_no_seat": 8.0
+  },
+  "fetched_at": "2026-05-01T11:20:18.008932"
+}

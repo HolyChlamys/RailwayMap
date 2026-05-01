@@ -1,0 +1,87 @@
+{
+  "train_no": "G3791",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "珠海",
+  "depart_time": "09:18",
+  "arrive_time": "17:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "09:18",
+      "depart_time": "09:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "自贡",
+      "arrive_time": "10:12",
+      "depart_time": "10:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜宾",
+      "arrive_time": "10:44",
+      "depart_time": "10:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "毕节",
+      "arrive_time": "11:49",
+      "depart_time": "11:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳东",
+      "arrive_time": "12:40",
+      "depart_time": "12:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "都匀东",
+      "arrive_time": "13:18",
+      "depart_time": "13:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "桂林西",
+      "arrive_time": "14:40",
+      "depart_time": "14:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "16:50",
+      "depart_time": "16:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "中山",
+      "arrive_time": "17:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "珠海",
+      "arrive_time": "17:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2788.0,
+    "price_first": 1313.0,
+    "price_second": 835.0,
+    "price_no_seat": 835.0
+  },
+  "fetched_at": "2026-05-01T06:47:36.162534"
+}

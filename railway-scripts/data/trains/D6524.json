@@ -1,0 +1,44 @@
+{
+  "train_no": "D6524",
+  "train_type": "D",
+  "depart_station": "厦门北",
+  "arrive_station": "三明北",
+  "depart_time": "16:23",
+  "arrive_time": "18:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "16:23",
+      "depart_time": "16:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泉州",
+      "arrive_time": "16:52",
+      "depart_time": "16:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "尤溪",
+      "arrive_time": "18:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "三明北",
+      "arrive_time": "18:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 215.0,
+    "price_second": 135.0,
+    "price_no_seat": 135.0
+  },
+  "fetched_at": "2026-05-01T04:24:13.995102"
+}

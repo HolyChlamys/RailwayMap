@@ -1,0 +1,79 @@
+{
+  "train_no": "G7287",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "盐城",
+  "depart_time": "19:44",
+  "arrive_time": "23:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "19:44",
+      "depart_time": "19:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "20:05",
+      "depart_time": "20:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "20:18",
+      "depart_time": "20:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "20:35",
+      "depart_time": "20:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "20:51",
+      "depart_time": "20:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "丹阳",
+      "arrive_time": "21:09",
+      "depart_time": "21:15",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "扬州东",
+      "arrive_time": "21:44",
+      "depart_time": "21:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "淮安东",
+      "arrive_time": "22:25",
+      "depart_time": "22:42",
+      "stay_min": "17"
+    },
+    {
+      "seq": 9,
+      "station_name": "盐城",
+      "arrive_time": "23:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 427.0,
+    "price_second": 268.0,
+    "price_no_seat": 268.0
+  },
+  "fetched_at": "2026-05-01T08:23:04.926650"
+}

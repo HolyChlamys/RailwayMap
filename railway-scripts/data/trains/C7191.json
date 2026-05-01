@@ -1,0 +1,59 @@
+{
+  "train_no": "C7191",
+  "train_type": "C",
+  "depart_station": "梅州西",
+  "arrive_station": "深圳北",
+  "depart_time": "18:20",
+  "arrive_time": "19:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梅州西",
+      "arrive_time": "18:20",
+      "depart_time": "18:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴宁南",
+      "arrive_time": "18:34",
+      "depart_time": "18:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "五华",
+      "arrive_time": "18:45",
+      "depart_time": "18:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "惠州北",
+      "arrive_time": "19:32",
+      "depart_time": "19:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "东莞南",
+      "arrive_time": "19:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "19:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 711.0,
+    "price_first": 325.0,
+    "price_second": 203.0,
+    "price_no_seat": 203.0
+  },
+  "fetched_at": "2026-05-01T02:08:29.691511"
+}

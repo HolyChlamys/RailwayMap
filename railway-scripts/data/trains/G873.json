@@ -1,0 +1,80 @@
+{
+  "train_no": "G873",
+  "train_type": "G",
+  "depart_station": "天津西",
+  "arrive_station": "上海",
+  "depart_time": "09:00",
+  "arrive_time": "14:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津西",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沧州西",
+      "arrive_time": "09:48",
+      "depart_time": "09:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "济南西",
+      "arrive_time": "10:42",
+      "depart_time": "10:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "曲阜东",
+      "arrive_time": "11:18",
+      "depart_time": "11:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "蚌埠南",
+      "arrive_time": "12:30",
+      "depart_time": "12:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "13:18",
+      "depart_time": "13:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "镇江南",
+      "arrive_time": "13:51",
+      "depart_time": "13:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "常州北",
+      "arrive_time": "14:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "上海",
+      "arrive_time": "14:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2201.0,
+    "price_first": 1006.0,
+    "price_second": 629.0,
+    "price_no_seat": 629.0
+  },
+  "fetched_at": "2026-05-01T08:58:52.478891"
+}

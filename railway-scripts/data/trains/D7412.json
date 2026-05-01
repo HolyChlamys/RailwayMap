@@ -1,0 +1,58 @@
+{
+  "train_no": "D7412",
+  "train_type": "D",
+  "depart_station": "广州东",
+  "arrive_station": "普宁",
+  "depart_time": "20:38",
+  "arrive_time": "22:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "20:38",
+      "depart_time": "20:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "21:03",
+      "depart_time": "21:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州南",
+      "arrive_time": "21:35",
+      "depart_time": "21:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "22:11",
+      "depart_time": "22:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "葵潭",
+      "arrive_time": "22:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "普宁",
+      "arrive_time": "22:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 318.0,
+    "price_second": 207.0,
+    "price_no_seat": 207.0
+  },
+  "fetched_at": "2026-05-01T04:38:07.532268"
+}

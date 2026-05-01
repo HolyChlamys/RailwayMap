@@ -1,0 +1,37 @@
+{
+  "train_no": "C5286",
+  "train_type": "C",
+  "depart_station": "诏安",
+  "arrive_station": "厦门北",
+  "depart_time": "08:14",
+  "arrive_time": "08:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "诏安",
+      "arrive_time": "08:14",
+      "depart_time": "08:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "云霄",
+      "arrive_time": "08:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "厦门北",
+      "arrive_time": "08:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 107.0,
+    "price_second": 67.0,
+    "price_no_seat": 67.0
+  },
+  "fetched_at": "2026-05-01T01:32:02.117966"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "G3535",
+  "train_type": "G",
+  "depart_station": "北京朝阳",
+  "arrive_station": "长春西",
+  "depart_time": "09:05",
+  "arrive_time": "13:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京朝阳",
+      "arrive_time": "09:05",
+      "depart_time": "09:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴隆县西",
+      "arrive_time": "09:44",
+      "depart_time": "09:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "承德南",
+      "arrive_time": "10:07",
+      "depart_time": "10:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "辽宁朝阳",
+      "arrive_time": "11:02",
+      "depart_time": "11:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "北票",
+      "arrive_time": "11:32",
+      "depart_time": "11:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "新民北",
+      "arrive_time": "12:23",
+      "depart_time": "12:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "沈阳北",
+      "arrive_time": "12:50",
+      "depart_time": "12:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "昌图西",
+      "arrive_time": "13:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "长春西",
+      "arrive_time": "13:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1915.0,
+    "price_first": 875.0,
+    "price_second": 547.0,
+    "price_no_seat": 547.0
+  },
+  "fetched_at": "2026-05-01T06:40:40.246230"
+}

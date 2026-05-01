@@ -1,0 +1,87 @@
+{
+  "train_no": "G4624",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "上海南",
+  "depart_time": "03:40",
+  "arrive_time": "08:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "03:40",
+      "depart_time": "03:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌西",
+      "arrive_time": "05:05",
+      "depart_time": "05:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙游",
+      "arrive_time": "06:33",
+      "depart_time": "06:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "金华",
+      "arrive_time": "06:52",
+      "depart_time": "06:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "义乌",
+      "arrive_time": "07:11",
+      "depart_time": "07:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "诸暨",
+      "arrive_time": "07:28",
+      "depart_time": "07:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "杭州东",
+      "arrive_time": "07:54",
+      "depart_time": "07:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "临平南",
+      "arrive_time": "08:06",
+      "depart_time": "08:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "嘉兴南",
+      "arrive_time": "08:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "上海南",
+      "arrive_time": "08:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2201.0,
+    "price_first": 1045.0,
+    "price_second": 660.0,
+    "price_no_seat": 660.0
+  },
+  "fetched_at": "2026-05-01T07:10:46.708718"
+}

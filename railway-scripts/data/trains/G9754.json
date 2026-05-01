@@ -1,0 +1,59 @@
+{
+  "train_no": "G9754",
+  "train_type": "G",
+  "depart_station": "韶关",
+  "arrive_station": "汕头",
+  "depart_time": "23:20",
+  "arrive_time": "02:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "韶关",
+      "arrive_time": "23:20",
+      "depart_time": "23:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "00:12",
+      "depart_time": "00:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "00:45",
+      "depart_time": "00:50",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "普宁",
+      "arrive_time": "02:06",
+      "depart_time": "02:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "潮汕",
+      "arrive_time": "02:27",
+      "depart_time": "02:30",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "汕头",
+      "arrive_time": "02:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1155.5,
+    "price_first": 536.5,
+    "price_second": 347.5,
+    "price_no_seat": 347.5
+  },
+  "fetched_at": "2026-05-01T09:23:15.053081"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "G2134",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "铜仁",
+  "depart_time": "15:42",
+  "arrive_time": "19:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "15:42",
+      "depart_time": "15:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "湘潭北",
+      "arrive_time": "15:56",
+      "depart_time": "15:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "娄底南",
+      "arrive_time": "16:24",
+      "depart_time": "16:33",
+      "stay_min": "9"
+    },
+    {
+      "seq": 4,
+      "station_name": "新化南",
+      "arrive_time": "16:57",
+      "depart_time": "16:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "怀化南",
+      "arrive_time": "17:32",
+      "depart_time": "17:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "新晃西",
+      "arrive_time": "17:59",
+      "depart_time": "18:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "铜仁南",
+      "arrive_time": "18:10",
+      "depart_time": "18:31",
+      "stay_min": "21"
+    },
+    {
+      "seq": 8,
+      "station_name": "朱砂古镇",
+      "arrive_time": "18:45",
+      "depart_time": "18:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "铜仁",
+      "arrive_time": "19:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 880.0,
+    "price_first": 407.0,
+    "price_second": 254.0,
+    "price_no_seat": 254.0
+  },
+  "fetched_at": "2026-05-01T06:02:30.528954"
+}

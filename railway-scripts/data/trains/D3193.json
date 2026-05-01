@@ -1,0 +1,114 @@
+{
+  "train_no": "D3193",
+  "train_type": "D",
+  "depart_station": "太仓",
+  "arrive_station": "南昌西",
+  "depart_time": "16:13",
+  "arrive_time": "21:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太仓",
+      "arrive_time": "16:13",
+      "depart_time": "16:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江阴",
+      "arrive_time": "16:47",
+      "depart_time": "16:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "武进",
+      "arrive_time": "17:03",
+      "depart_time": "17:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "17:46",
+      "depart_time": "17:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "马鞍山东",
+      "arrive_time": "18:06",
+      "depart_time": "18:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "芜湖",
+      "arrive_time": "18:25",
+      "depart_time": "18:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "铜陵",
+      "arrive_time": "18:55",
+      "depart_time": "18:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "安庆",
+      "arrive_time": "19:28",
+      "depart_time": "19:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "潜山",
+      "arrive_time": "19:53",
+      "depart_time": "19:56",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "太湖南",
+      "arrive_time": "20:08",
+      "depart_time": "20:11",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "庐山",
+      "arrive_time": "20:44",
+      "depart_time": "20:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "德安",
+      "arrive_time": "21:02",
+      "depart_time": "21:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "永修",
+      "arrive_time": "21:19",
+      "depart_time": "21:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "南昌西",
+      "arrive_time": "21:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 614.0,
+    "price_second": 385.0,
+    "price_no_seat": 385.0
+  },
+  "fetched_at": "2026-05-01T03:29:36.036778"
+}

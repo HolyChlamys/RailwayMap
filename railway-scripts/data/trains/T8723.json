@@ -1,0 +1,56 @@
+{
+  "train_no": "T8723",
+  "train_type": "T",
+  "depart_station": "贵港",
+  "arrive_station": "湛江",
+  "depart_time": "21:13",
+  "arrive_time": "23:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵港",
+      "arrive_time": "21:13",
+      "depart_time": "21:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴业",
+      "arrive_time": "21:57",
+      "depart_time": "21:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "玉林",
+      "arrive_time": "22:35",
+      "depart_time": "22:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "陆川",
+      "arrive_time": "23:06",
+      "depart_time": "23:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "文地",
+      "arrive_time": "23:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "湛江",
+      "arrive_time": "23:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 41.5
+  },
+  "fetched_at": "2026-05-01T11:28:01.033611"
+}

@@ -1,0 +1,79 @@
+{
+  "train_no": "D4732",
+  "train_type": "D",
+  "depart_station": "雅安",
+  "arrive_station": "汉口",
+  "depart_time": "15:51",
+  "arrive_time": "23:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "雅安",
+      "arrive_time": "15:51",
+      "depart_time": "15:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大邑",
+      "arrive_time": "16:29",
+      "depart_time": "16:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "成都东",
+      "arrive_time": "17:10",
+      "depart_time": "17:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合川",
+      "arrive_time": "18:47",
+      "depart_time": "18:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "重庆北",
+      "arrive_time": "19:18",
+      "depart_time": "19:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黄水",
+      "arrive_time": "20:45",
+      "depart_time": "20:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "恩施",
+      "arrive_time": "21:50",
+      "depart_time": "21:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "宜昌东",
+      "arrive_time": "23:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "汉口",
+      "arrive_time": "23:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 821.0,
+    "price_second": 514.0,
+    "price_no_seat": 514.0
+  },
+  "fetched_at": "2026-05-01T03:56:16.841195"
+}

@@ -1,0 +1,66 @@
+{
+  "train_no": "C5218",
+  "train_type": "C",
+  "depart_station": "高安",
+  "arrive_station": "南昌东",
+  "depart_time": "07:37",
+  "arrive_time": "16:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "高安",
+      "arrive_time": "07:37",
+      "depart_time": "07:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌西",
+      "arrive_time": "07:53",
+      "depart_time": "07:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "婺源",
+      "arrive_time": "14:52",
+      "depart_time": "15:02",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "景德镇北",
+      "arrive_time": "15:30",
+      "depart_time": "15:35",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "鄱阳",
+      "arrive_time": "15:56",
+      "depart_time": "15:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "余干",
+      "arrive_time": "16:09",
+      "depart_time": "16:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "南昌东",
+      "arrive_time": "16:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 90.0,
+    "price_first": 41.0,
+    "price_second": 26.0,
+    "price_no_seat": 26.0
+  },
+  "fetched_at": "2026-05-01T01:29:54.617029"
+}

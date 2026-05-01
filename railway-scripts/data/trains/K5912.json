@@ -1,0 +1,49 @@
+{
+  "train_no": "K5912",
+  "train_type": "K",
+  "depart_station": "南宁",
+  "arrive_station": "湛江",
+  "depart_time": "20:38",
+  "arrive_time": "02:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁",
+      "arrive_time": "20:38",
+      "depart_time": "20:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黎塘",
+      "arrive_time": "22:21",
+      "depart_time": "22:26",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "贵港",
+      "arrive_time": "23:08",
+      "depart_time": "23:13",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "玉林",
+      "arrive_time": "00:17",
+      "depart_time": "00:27",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "湛江",
+      "arrive_time": "02:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 98.0
+  },
+  "fetched_at": "2026-05-01T10:16:34.146876"
+}

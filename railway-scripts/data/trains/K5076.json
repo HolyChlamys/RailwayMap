@@ -1,0 +1,49 @@
+{
+  "train_no": "K5076",
+  "train_type": "K",
+  "depart_station": "榆树",
+  "arrive_station": "长春",
+  "depart_time": "14:40",
+  "arrive_time": "16:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "榆树",
+      "arrive_time": "14:40",
+      "depart_time": "14:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "五棵树",
+      "arrive_time": "15:17",
+      "depart_time": "15:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "陶赖昭",
+      "arrive_time": "15:44",
+      "depart_time": "15:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "德惠",
+      "arrive_time": "16:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "长春",
+      "arrive_time": "16:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T10:03:23.590638"
+}

@@ -1,0 +1,57 @@
+{
+  "train_no": "D53",
+  "train_type": "D",
+  "depart_station": "天津",
+  "arrive_station": "长沙",
+  "depart_time": "18:47",
+  "arrive_time": "10:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津",
+      "arrive_time": "18:47",
+      "depart_time": "18:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北京丰台",
+      "arrive_time": "19:55",
+      "depart_time": "20:25",
+      "stay_min": "30"
+    },
+    {
+      "seq": 3,
+      "station_name": "保定",
+      "arrive_time": "21:30",
+      "depart_time": "21:40",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "石家庄",
+      "arrive_time": "22:56",
+      "depart_time": "23:02",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "武昌",
+      "arrive_time": "07:15",
+      "depart_time": "07:21",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙",
+      "arrive_time": "10:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 524.0,
+    "price_no_seat": 524.0
+  },
+  "fetched_at": "2026-05-01T04:04:18.735637"
+}

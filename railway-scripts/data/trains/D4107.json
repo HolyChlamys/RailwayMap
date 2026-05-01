@@ -1,0 +1,72 @@
+{
+  "train_no": "D4107",
+  "train_type": "D",
+  "depart_station": "合肥南",
+  "arrive_station": "广州南",
+  "depart_time": "19:40",
+  "arrive_time": "23:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "19:40",
+      "depart_time": "19:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "六安",
+      "arrive_time": "20:04",
+      "depart_time": "20:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "金寨",
+      "arrive_time": "20:25",
+      "depart_time": "20:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "麻城北",
+      "arrive_time": "21:00",
+      "depart_time": "21:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汉口",
+      "arrive_time": "21:47",
+      "depart_time": "21:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "22:43",
+      "depart_time": "22:55",
+      "stay_min": "12"
+    },
+    {
+      "seq": 7,
+      "station_name": "虎门",
+      "arrive_time": "23:13",
+      "depart_time": "23:22",
+      "stay_min": "9"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "23:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 255.0,
+    "price_second": 159.0,
+    "price_no_seat": 159.0
+  },
+  "fetched_at": "2026-05-01T03:43:59.603743"
+}

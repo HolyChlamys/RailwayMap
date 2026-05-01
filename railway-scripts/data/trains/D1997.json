@@ -1,0 +1,66 @@
+{
+  "train_no": "D1997",
+  "train_type": "D",
+  "depart_station": "银川",
+  "arrive_station": "成都东",
+  "depart_time": "16:27",
+  "arrive_time": "23:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "16:27",
+      "depart_time": "16:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "庆阳",
+      "arrive_time": "18:19",
+      "depart_time": "18:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "西安北",
+      "arrive_time": "19:28",
+      "depart_time": "19:49",
+      "stay_min": "21"
+    },
+    {
+      "seq": 4,
+      "station_name": "汉中",
+      "arrive_time": "20:58",
+      "depart_time": "21:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "广元",
+      "arrive_time": "21:45",
+      "depart_time": "21:52",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "绵阳",
+      "arrive_time": "22:41",
+      "depart_time": "22:44",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "成都东",
+      "arrive_time": "23:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2062.0,
+    "price_first": 951.0,
+    "price_second": 594.0,
+    "price_no_seat": 594.0
+  },
+  "fetched_at": "2026-05-01T03:09:28.975626"
+}

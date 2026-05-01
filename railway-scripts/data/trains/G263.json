@@ -1,0 +1,87 @@
+{
+  "train_no": "G263",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "南宁东",
+  "depart_time": "11:00",
+  "arrive_time": "19:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "11:48",
+      "depart_time": "11:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌西",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "15:18",
+      "depart_time": "15:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡阳东",
+      "arrive_time": "16:00",
+      "depart_time": "16:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "祁东",
+      "arrive_time": "16:31",
+      "depart_time": "16:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "永州",
+      "arrive_time": "17:00",
+      "depart_time": "17:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "桂林",
+      "arrive_time": "18:23",
+      "depart_time": "18:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "柳州",
+      "arrive_time": "19:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "南宁东",
+      "arrive_time": "19:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3134.0,
+    "price_first": 1469.0,
+    "price_second": 916.5,
+    "price_no_seat": 916.5
+  },
+  "fetched_at": "2026-05-01T06:15:47.999363"
+}

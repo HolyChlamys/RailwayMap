@@ -1,0 +1,87 @@
+{
+  "train_no": "G2745",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "深圳北",
+  "depart_time": "15:20",
+  "arrive_time": "19:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "15:20",
+      "depart_time": "15:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丰城东",
+      "arrive_time": "15:49",
+      "depart_time": "15:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新干东",
+      "arrive_time": "16:08",
+      "depart_time": "16:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泰和",
+      "arrive_time": "16:39",
+      "depart_time": "16:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "兴国西",
+      "arrive_time": "17:05",
+      "depart_time": "17:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "赣州西",
+      "arrive_time": "17:30",
+      "depart_time": "17:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "龙南东",
+      "arrive_time": "17:59",
+      "depart_time": "17:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "河源东",
+      "arrive_time": "18:43",
+      "depart_time": "18:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "惠州北",
+      "arrive_time": "19:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "深圳北",
+      "arrive_time": "19:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1593.0,
+    "price_first": 776.0,
+    "price_second": 485.0,
+    "price_no_seat": 485.0
+  },
+  "fetched_at": "2026-05-01T06:19:10.802224"
+}

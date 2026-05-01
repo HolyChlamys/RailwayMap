@@ -1,0 +1,58 @@
+{
+  "train_no": "D1174",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "兰州西",
+  "depart_time": "08:28",
+  "arrive_time": "15:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "08:28",
+      "depart_time": "08:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "包头",
+      "arrive_time": "09:32",
+      "depart_time": "09:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "乌海",
+      "arrive_time": "11:16",
+      "depart_time": "11:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "银川",
+      "arrive_time": "12:07",
+      "depart_time": "12:17",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "中卫南",
+      "arrive_time": "13:26",
+      "depart_time": "13:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "兰州西",
+      "arrive_time": "15:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 927.0,
+    "price_second": 579.5,
+    "price_no_seat": 579.5
+  },
+  "fetched_at": "2026-05-01T02:58:40.434064"
+}

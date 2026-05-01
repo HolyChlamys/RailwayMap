@@ -1,0 +1,43 @@
+{
+  "train_no": "D138",
+  "train_type": "D",
+  "depart_station": "南昌",
+  "arrive_station": "北京丰台",
+  "depart_time": "19:38",
+  "arrive_time": "05:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "19:38",
+      "depart_time": "19:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "九江",
+      "arrive_time": "20:46",
+      "depart_time": "20:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡水",
+      "arrive_time": "05:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "北京丰台",
+      "arrive_time": "05:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 339.0,
+    "price_no_seat": 339.0
+  },
+  "fetched_at": "2026-05-01T03:00:17.954516"
+}

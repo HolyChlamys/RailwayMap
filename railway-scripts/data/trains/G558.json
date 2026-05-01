@@ -1,0 +1,66 @@
+{
+  "train_no": "G558",
+  "train_type": "G",
+  "depart_station": "北京西",
+  "arrive_station": "高平东",
+  "depart_time": "06:14",
+  "arrive_time": "10:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "06:14",
+      "depart_time": "06:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "07:25",
+      "depart_time": "07:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "邯郸东",
+      "arrive_time": "08:07",
+      "depart_time": "08:11",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "09:05",
+      "depart_time": "09:21",
+      "stay_min": "16"
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州",
+      "arrive_time": "09:36",
+      "depart_time": "09:41",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "晋城东",
+      "arrive_time": "10:33",
+      "depart_time": "10:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "高平东",
+      "arrive_time": "10:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1589.0,
+    "price_first": 734.0,
+    "price_second": 459.0,
+    "price_no_seat": 459.0
+  },
+  "fetched_at": "2026-05-01T07:37:32.370439"
+}

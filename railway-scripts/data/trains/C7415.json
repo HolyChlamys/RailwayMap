@@ -1,0 +1,80 @@
+{
+  "train_no": "C7415",
+  "train_type": "C",
+  "depart_station": "海口东",
+  "arrive_station": "崖州",
+  "depart_time": "15:05",
+  "arrive_time": "17:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "海口东",
+      "arrive_time": "15:05",
+      "depart_time": "15:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "美兰",
+      "arrive_time": "15:13",
+      "depart_time": "15:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "文昌",
+      "arrive_time": "15:34",
+      "depart_time": "15:35",
+      "stay_min": "1"
+    },
+    {
+      "seq": 4,
+      "station_name": "万宁",
+      "arrive_time": "16:06",
+      "depart_time": "16:07",
+      "stay_min": "1"
+    },
+    {
+      "seq": 5,
+      "station_name": "陵水",
+      "arrive_time": "16:23",
+      "depart_time": "16:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "亚龙湾",
+      "arrive_time": "16:43",
+      "depart_time": "16:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "三亚",
+      "arrive_time": "16:53",
+      "depart_time": "16:56",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "凤凰机场",
+      "arrive_time": "17:04",
+      "depart_time": "17:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "崖州",
+      "arrive_time": "17:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 431.0,
+    "price_first": 197.0,
+    "price_second": 123.0,
+    "price_no_seat": 123.0
+  },
+  "fetched_at": "2026-05-01T02:14:39.147883"
+}

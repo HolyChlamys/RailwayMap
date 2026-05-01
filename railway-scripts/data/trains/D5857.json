@@ -1,0 +1,79 @@
+{
+  "train_no": "D5857",
+  "train_type": "D",
+  "depart_station": "宜昌东",
+  "arrive_station": "武穴北",
+  "depart_time": "09:59",
+  "arrive_time": "14:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "09:59",
+      "depart_time": "09:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "10:33",
+      "depart_time": "10:37",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "潜江",
+      "arrive_time": "11:03",
+      "depart_time": "11:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "11:56",
+      "depart_time": "12:09",
+      "stay_min": "13"
+    },
+    {
+      "seq": 5,
+      "station_name": "武汉",
+      "arrive_time": "12:35",
+      "depart_time": "12:41",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "黄冈东",
+      "arrive_time": "13:12",
+      "depart_time": "13:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "浠水南",
+      "arrive_time": "13:32",
+      "depart_time": "13:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "蕲春南",
+      "arrive_time": "13:45",
+      "depart_time": "13:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "武穴北",
+      "arrive_time": "14:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 348.0,
+    "price_second": 218.0,
+    "price_no_seat": 218.0
+  },
+  "fetched_at": "2026-05-01T04:12:38.828951"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G401",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "深圳北",
+  "depart_time": "18:09",
+  "arrive_time": "22:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "18:09",
+      "depart_time": "18:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙南",
+      "arrive_time": "19:25",
+      "depart_time": "19:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳东",
+      "arrive_time": "20:01",
+      "depart_time": "20:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "21:43",
+      "depart_time": "21:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "虎门",
+      "arrive_time": "22:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "22:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2134.5,
+    "price_first": 984.5,
+    "price_second": 627.5,
+    "price_no_seat": 627.5
+  },
+  "fetched_at": "2026-05-01T06:53:04.693761"
+}

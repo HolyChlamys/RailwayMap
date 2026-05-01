@@ -1,0 +1,94 @@
+{
+  "train_no": "G7060",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "安庆",
+  "depart_time": "10:41",
+  "arrive_time": "14:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "10:41",
+      "depart_time": "10:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州园区",
+      "arrive_time": "11:05",
+      "depart_time": "11:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州新区",
+      "arrive_time": "11:17",
+      "depart_time": "11:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "11:31",
+      "depart_time": "11:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "11:47",
+      "depart_time": "11:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "镇江",
+      "arrive_time": "12:12",
+      "depart_time": "12:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京南",
+      "arrive_time": "12:41",
+      "depart_time": "12:46",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "马鞍山东",
+      "arrive_time": "13:02",
+      "depart_time": "13:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "当涂东",
+      "arrive_time": "13:12",
+      "depart_time": "13:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "芜湖",
+      "arrive_time": "13:27",
+      "depart_time": "13:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "安庆",
+      "arrive_time": "14:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 998.0,
+    "price_first": 456.0,
+    "price_second": 285.0,
+    "price_no_seat": 285.0
+  },
+  "fetched_at": "2026-05-01T08:16:31.178047"
+}

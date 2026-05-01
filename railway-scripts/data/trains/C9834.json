@@ -1,0 +1,65 @@
+{
+  "train_no": "C9834",
+  "train_type": "C",
+  "depart_station": "武威东",
+  "arrive_station": "兰州西",
+  "depart_time": "15:37",
+  "arrive_time": "17:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武威东",
+      "arrive_time": "15:37",
+      "depart_time": "15:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "古浪北",
+      "arrive_time": "15:58",
+      "depart_time": "15:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天祝西",
+      "arrive_time": "16:24",
+      "depart_time": "16:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "永登北",
+      "arrive_time": "16:38",
+      "depart_time": "16:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "中川机场东",
+      "arrive_time": "16:59",
+      "depart_time": "16:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兰州新区",
+      "arrive_time": "17:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "兰州西",
+      "arrive_time": "17:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 138.0,
+    "price_second": 86.0,
+    "price_no_seat": 86.0
+  },
+  "fetched_at": "2026-05-01T02:52:35.474217"
+}

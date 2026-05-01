@@ -1,0 +1,94 @@
+{
+  "train_no": "C80",
+  "train_type": "C",
+  "depart_station": "西昌西",
+  "arrive_station": "成都南",
+  "depart_time": "16:40",
+  "arrive_time": "20:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西昌西",
+      "arrive_time": "16:40",
+      "depart_time": "16:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "喜德西",
+      "arrive_time": "17:12",
+      "depart_time": "17:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "越西",
+      "arrive_time": "17:36",
+      "depart_time": "17:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "甘洛南",
+      "arrive_time": "18:04",
+      "depart_time": "18:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "峨边南",
+      "arrive_time": "18:37",
+      "depart_time": "18:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "沙湾南",
+      "arrive_time": "18:58",
+      "depart_time": "18:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "峨眉",
+      "arrive_time": "19:27",
+      "depart_time": "19:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "夹江",
+      "arrive_time": "19:48",
+      "depart_time": "19:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "眉山",
+      "arrive_time": "20:12",
+      "depart_time": "20:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "彭山",
+      "arrive_time": "20:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "成都南",
+      "arrive_time": "20:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 522.0,
+    "price_first": 239.0,
+    "price_second": 149.0,
+    "price_no_seat": 149.0
+  },
+  "fetched_at": "2026-05-01T02:29:48.361394"
+}

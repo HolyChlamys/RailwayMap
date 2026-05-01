@@ -1,0 +1,65 @@
+{
+  "train_no": "G8728",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "重庆西",
+  "depart_time": "22:00",
+  "arrive_time": "00:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "22:00",
+      "depart_time": "22:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "清镇西",
+      "arrive_time": "22:21",
+      "depart_time": "22:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黔西",
+      "arrive_time": "22:37",
+      "depart_time": "22:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "毕节",
+      "arrive_time": "23:03",
+      "depart_time": "23:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜宾",
+      "arrive_time": "00:10",
+      "depart_time": "00:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "泸州",
+      "arrive_time": "00:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "重庆西",
+      "arrive_time": "00:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 516.0,
+    "price_second": 323.0,
+    "price_no_seat": 323.0
+  },
+  "fetched_at": "2026-05-01T08:58:49.180985"
+}

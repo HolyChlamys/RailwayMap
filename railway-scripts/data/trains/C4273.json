@@ -1,0 +1,37 @@
+{
+  "train_no": "C4273",
+  "train_type": "C",
+  "depart_station": "兰州西",
+  "arrive_station": "中川机场东",
+  "depart_time": "12:27",
+  "arrive_time": "13:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "12:27",
+      "depart_time": "12:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兰州新区",
+      "arrive_time": "13:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "中川机场东",
+      "arrive_time": "13:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 48.0,
+    "price_second": 30.0,
+    "price_no_seat": 30.0
+  },
+  "fetched_at": "2026-05-01T01:12:15.398293"
+}

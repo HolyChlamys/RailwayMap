@@ -1,0 +1,38 @@
+{
+  "train_no": "C9258",
+  "train_type": "C",
+  "depart_station": "十堰东",
+  "arrive_station": "汉口",
+  "depart_time": "03:35",
+  "arrive_time": "04:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "十堰东",
+      "arrive_time": "03:35",
+      "depart_time": "03:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "襄阳东",
+      "arrive_time": "04:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汉口",
+      "arrive_time": "04:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 746.0,
+    "price_first": 398.0,
+    "price_second": 248.0,
+    "price_no_seat": 248.0
+  },
+  "fetched_at": "2026-05-01T02:43:29.789120"
+}

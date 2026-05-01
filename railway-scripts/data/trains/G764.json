@@ -1,0 +1,80 @@
+{
+  "train_no": "G764",
+  "train_type": "G",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "盘锦",
+  "depart_time": "13:34",
+  "arrive_time": "16:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "13:34",
+      "depart_time": "13:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "扶余北",
+      "arrive_time": "14:02",
+      "depart_time": "14:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长春西",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "四平东",
+      "arrive_time": "15:07",
+      "depart_time": "15:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "开原西",
+      "arrive_time": "15:30",
+      "depart_time": "15:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "沈阳北",
+      "arrive_time": "16:00",
+      "depart_time": "16:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "鞍山西",
+      "arrive_time": "16:43",
+      "depart_time": "16:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "海城西",
+      "arrive_time": "16:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "盘锦",
+      "arrive_time": "16:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1383.0,
+    "price_first": 632.0,
+    "price_second": 395.0,
+    "price_no_seat": 395.0
+  },
+  "fetched_at": "2026-05-01T08:32:48.967370"
+}

@@ -1,0 +1,77 @@
+{
+  "train_no": "K590",
+  "train_type": "K",
+  "depart_station": "洛阳",
+  "arrive_station": "北京西",
+  "depart_time": "21:45",
+  "arrive_time": "06:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "洛阳",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济源",
+      "arrive_time": "22:58",
+      "depart_time": "22:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "焦作",
+      "arrive_time": "00:02",
+      "depart_time": "00:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新乡",
+      "arrive_time": "01:01",
+      "depart_time": "01:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "邯郸",
+      "arrive_time": "03:18",
+      "depart_time": "03:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "石家庄",
+      "arrive_time": "05:03",
+      "depart_time": "05:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "定州",
+      "arrive_time": "05:52",
+      "depart_time": "05:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "保定",
+      "arrive_time": "06:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "北京西",
+      "arrive_time": "06:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T10:16:19.312292"
+}

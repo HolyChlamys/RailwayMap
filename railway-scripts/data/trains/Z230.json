@@ -1,0 +1,126 @@
+{
+  "train_no": "Z230",
+  "train_type": "Z",
+  "depart_station": "深圳东",
+  "arrive_station": "西宁",
+  "depart_time": "09:33",
+  "arrive_time": "19:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳东",
+      "arrive_time": "09:33",
+      "depart_time": "09:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州北",
+      "arrive_time": "11:06",
+      "depart_time": "11:10",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "韶关东",
+      "arrive_time": "13:07",
+      "depart_time": "13:12",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "郴州",
+      "arrive_time": "14:51",
+      "depart_time": "14:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "衡阳",
+      "arrive_time": "16:33",
+      "depart_time": "16:39",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "株洲",
+      "arrive_time": "18:04",
+      "depart_time": "18:09",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙",
+      "arrive_time": "18:44",
+      "depart_time": "18:54",
+      "stay_min": "10"
+    },
+    {
+      "seq": 8,
+      "station_name": "岳阳",
+      "arrive_time": "20:12",
+      "depart_time": "20:17",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "武昌",
+      "arrive_time": "22:27",
+      "depart_time": "22:54",
+      "stay_min": "27"
+    },
+    {
+      "seq": 10,
+      "station_name": "南阳",
+      "arrive_time": "03:25",
+      "depart_time": "03:55",
+      "stay_min": "30"
+    },
+    {
+      "seq": 11,
+      "station_name": "西安",
+      "arrive_time": "08:56",
+      "depart_time": "09:05",
+      "stay_min": "9"
+    },
+    {
+      "seq": 12,
+      "station_name": "宝鸡",
+      "arrive_time": "10:37",
+      "depart_time": "10:58",
+      "stay_min": "21"
+    },
+    {
+      "seq": 13,
+      "station_name": "天水",
+      "arrive_time": "12:30",
+      "depart_time": "12:42",
+      "stay_min": "12"
+    },
+    {
+      "seq": 14,
+      "station_name": "兰州",
+      "arrive_time": "16:23",
+      "depart_time": "16:43",
+      "stay_min": "20"
+    },
+    {
+      "seq": 15,
+      "station_name": "乐都",
+      "arrive_time": "18:38",
+      "depart_time": "18:42",
+      "stay_min": "4"
+    },
+    {
+      "seq": 16,
+      "station_name": "西宁",
+      "arrive_time": "19:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 302.5
+  },
+  "fetched_at": "2026-05-01T11:45:24.136055"
+}

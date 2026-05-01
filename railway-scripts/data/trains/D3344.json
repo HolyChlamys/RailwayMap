@@ -1,0 +1,142 @@
+{
+  "train_no": "D3344",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "平潭",
+  "depart_time": "15:10",
+  "arrive_time": "21:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "15:10",
+      "depart_time": "15:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳坪山",
+      "arrive_time": "15:27",
+      "depart_time": "15:30",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠阳",
+      "arrive_time": "15:39",
+      "depart_time": "15:42",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "16:12",
+      "depart_time": "16:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "潮阳",
+      "arrive_time": "16:51",
+      "depart_time": "16:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "潮汕",
+      "arrive_time": "17:06",
+      "depart_time": "17:11",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "饶平",
+      "arrive_time": "17:28",
+      "depart_time": "17:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "云霄",
+      "arrive_time": "17:48",
+      "depart_time": "17:52",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "漳州",
+      "arrive_time": "18:18",
+      "depart_time": "18:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "厦门北",
+      "arrive_time": "18:40",
+      "depart_time": "18:45",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "晋江",
+      "arrive_time": "19:03",
+      "depart_time": "19:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "泉州",
+      "arrive_time": "19:17",
+      "depart_time": "19:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "仙游",
+      "arrive_time": "19:39",
+      "depart_time": "19:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "莆田",
+      "arrive_time": "19:52",
+      "depart_time": "19:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "福州南",
+      "arrive_time": "20:26",
+      "depart_time": "20:44",
+      "stay_min": "18"
+    },
+    {
+      "seq": 16,
+      "station_name": "长乐",
+      "arrive_time": "20:53",
+      "depart_time": "20:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "长乐东",
+      "arrive_time": "21:03",
+      "depart_time": "21:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "平潭",
+      "arrive_time": "21:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 591.0,
+    "price_second": 370.0,
+    "price_no_seat": 370.0
+  },
+  "fetched_at": "2026-05-01T03:32:24.740705"
+}

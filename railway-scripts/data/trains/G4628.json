@@ -1,0 +1,44 @@
+{
+  "train_no": "G4628",
+  "train_type": "G",
+  "depart_station": "广州东",
+  "arrive_station": "吉安西",
+  "depart_time": "23:20",
+  "arrive_time": "01:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "23:20",
+      "depart_time": "23:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "23:45",
+      "depart_time": "23:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "赣州西",
+      "arrive_time": "01:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "吉安西",
+      "arrive_time": "01:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 654.0,
+    "price_second": 416.0,
+    "price_no_seat": 416.0
+  },
+  "fetched_at": "2026-05-01T07:10:53.372233"
+}

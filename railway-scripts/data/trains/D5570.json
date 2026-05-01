@@ -1,0 +1,51 @@
+{
+  "train_no": "D5570",
+  "train_type": "D",
+  "depart_station": "武进",
+  "arrive_station": "南京南",
+  "depart_time": "06:49",
+  "arrive_time": "07:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武进",
+      "arrive_time": "06:49",
+      "depart_time": "06:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金坛",
+      "arrive_time": "07:05",
+      "depart_time": "07:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "句容",
+      "arrive_time": "07:22",
+      "depart_time": "07:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "江宁",
+      "arrive_time": "07:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "07:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 104.0,
+    "price_second": 65.0,
+    "price_no_seat": 65.0
+  },
+  "fetched_at": "2026-05-01T04:08:51.367021"
+}

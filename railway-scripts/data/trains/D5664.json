@@ -1,0 +1,65 @@
+{
+  "train_no": "D5664",
+  "train_type": "D",
+  "depart_station": "黄山北",
+  "arrive_station": "江阴",
+  "depart_time": "06:18",
+  "arrive_time": "09:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄山北",
+      "arrive_time": "06:18",
+      "depart_time": "06:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁国南",
+      "arrive_time": "06:52",
+      "depart_time": "06:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "宣城",
+      "arrive_time": "07:10",
+      "depart_time": "07:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖",
+      "arrive_time": "07:39",
+      "depart_time": "07:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "08:12",
+      "depart_time": "08:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "武进",
+      "arrive_time": "08:55",
+      "depart_time": "08:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "江阴",
+      "arrive_time": "09:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 379.0,
+    "price_second": 237.0,
+    "price_no_seat": 237.0
+  },
+  "fetched_at": "2026-05-01T04:09:47.486802"
+}

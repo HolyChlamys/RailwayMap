@@ -1,0 +1,38 @@
+{
+  "train_no": "G4113",
+  "train_type": "G",
+  "depart_station": "上海南",
+  "arrive_station": "南昌",
+  "depart_time": "03:10",
+  "arrive_time": "04:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "03:10",
+      "depart_time": "03:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "04:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌",
+      "arrive_time": "04:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1388.5,
+    "price_first": 637.0,
+    "price_second": 398.0,
+    "price_no_seat": 398.0
+  },
+  "fetched_at": "2026-05-01T06:56:08.018482"
+}

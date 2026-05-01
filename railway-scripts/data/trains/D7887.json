@@ -1,0 +1,29 @@
+{
+  "train_no": "D7887",
+  "train_type": "D",
+  "depart_station": "焦作",
+  "arrive_station": "郑州",
+  "depart_time": "14:18",
+  "arrive_time": "14:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "焦作",
+      "arrive_time": "14:18",
+      "depart_time": "14:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州",
+      "arrive_time": "14:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 42.0,
+    "price_no_seat": 42.0
+  },
+  "fetched_at": "2026-05-01T04:46:51.208395"
+}

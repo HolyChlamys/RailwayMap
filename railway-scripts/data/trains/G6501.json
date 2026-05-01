@@ -1,0 +1,59 @@
+{
+  "train_no": "G6501",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "香港西九龙",
+  "depart_time": "06:32",
+  "arrive_time": "07:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "06:32",
+      "depart_time": "06:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门",
+      "arrive_time": "06:51",
+      "depart_time": "06:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "光明城",
+      "arrive_time": "07:09",
+      "depart_time": "07:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "07:22",
+      "depart_time": "07:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福田",
+      "arrive_time": "07:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "香港西九龙",
+      "arrive_time": "07:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 645.0,
+    "price_first": 344.0,
+    "price_second": 215.0,
+    "price_no_seat": 215.0
+  },
+  "fetched_at": "2026-05-01T08:00:41.345139"
+}

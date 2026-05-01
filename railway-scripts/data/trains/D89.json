@@ -1,0 +1,78 @@
+{
+  "train_no": "D89",
+  "train_type": "D",
+  "depart_station": "石家庄",
+  "arrive_station": "广州白云",
+  "depart_time": "16:45",
+  "arrive_time": "08:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石家庄",
+      "arrive_time": "16:45",
+      "depart_time": "16:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邢台",
+      "arrive_time": "17:41",
+      "depart_time": "17:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "邯郸",
+      "arrive_time": "18:18",
+      "depart_time": "18:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州",
+      "arrive_time": "20:40",
+      "depart_time": "20:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "许昌",
+      "arrive_time": "21:24",
+      "depart_time": "21:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "武昌",
+      "arrive_time": "01:33",
+      "depart_time": "01:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙",
+      "arrive_time": "04:55",
+      "depart_time": "04:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "郴州",
+      "arrive_time": "08:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "广州白云",
+      "arrive_time": "08:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 620.0,
+    "price_no_seat": 620.0
+  },
+  "fetched_at": "2026-05-01T05:06:09.135928"
+}

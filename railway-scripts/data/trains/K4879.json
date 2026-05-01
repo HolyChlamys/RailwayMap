@@ -1,0 +1,56 @@
+{
+  "train_no": "K4879",
+  "train_type": "K",
+  "depart_station": "成都西",
+  "arrive_station": "昆明",
+  "depart_time": "06:53",
+  "arrive_time": "16:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都西",
+      "arrive_time": "06:53",
+      "depart_time": "06:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "夹江",
+      "arrive_time": "09:39",
+      "depart_time": "09:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "峨眉",
+      "arrive_time": "10:03",
+      "depart_time": "10:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西昌西",
+      "arrive_time": "13:23",
+      "depart_time": "13:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "攀枝花南",
+      "arrive_time": "16:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明",
+      "arrive_time": "16:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 119.0
+  },
+  "fetched_at": "2026-05-01T10:00:08.751330"
+}

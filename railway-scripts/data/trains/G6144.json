@@ -1,0 +1,52 @@
+{
+  "train_no": "G6144",
+  "train_type": "G",
+  "depart_station": "凤凰古城",
+  "arrive_station": "广州",
+  "depart_time": "19:24",
+  "arrive_time": "23:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "凤凰古城",
+      "arrive_time": "19:24",
+      "depart_time": "19:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀化南",
+      "arrive_time": "19:51",
+      "depart_time": "19:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "娄底南",
+      "arrive_time": "20:45",
+      "depart_time": "20:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "21:21",
+      "depart_time": "21:41",
+      "stay_min": "20"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2100.0,
+    "price_first": 956.0,
+    "price_second": 600.0,
+    "price_no_seat": 600.0
+  },
+  "fetched_at": "2026-05-01T07:50:10.581372"
+}

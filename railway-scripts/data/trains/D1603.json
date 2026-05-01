@@ -1,0 +1,51 @@
+{
+  "train_no": "D1603",
+  "train_type": "D",
+  "depart_station": "石家庄",
+  "arrive_station": "济南西",
+  "depart_time": "14:27",
+  "arrive_time": "15:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石家庄",
+      "arrive_time": "14:27",
+      "depart_time": "14:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "辛集南",
+      "arrive_time": "14:56",
+      "depart_time": "14:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡水北",
+      "arrive_time": "15:15",
+      "depart_time": "15:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "德州东",
+      "arrive_time": "15:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "济南西",
+      "arrive_time": "15:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 177.0,
+    "price_second": 110.0,
+    "price_no_seat": 110.0
+  },
+  "fetched_at": "2026-05-01T03:00:52.543869"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G8396",
+  "train_type": "G",
+  "depart_station": "宿松东",
+  "arrive_station": "合肥南",
+  "depart_time": "12:05",
+  "arrive_time": "12:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宿松东",
+      "arrive_time": "12:05",
+      "depart_time": "12:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太湖南",
+      "arrive_time": "12:19",
+      "depart_time": "12:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潜山",
+      "arrive_time": "12:32",
+      "depart_time": "12:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安庆西",
+      "arrive_time": "12:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥南",
+      "arrive_time": "12:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 497.0,
+    "price_first": 227.0,
+    "price_second": 142.0,
+    "price_no_seat": 142.0
+  },
+  "fetched_at": "2026-05-01T08:49:44.070763"
+}

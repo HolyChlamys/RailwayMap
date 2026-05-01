@@ -1,0 +1,51 @@
+{
+  "train_no": "D9952",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "霞浦",
+  "depart_time": "07:02",
+  "arrive_time": "07:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "07:02",
+      "depart_time": "07:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "连江",
+      "arrive_time": "07:26",
+      "depart_time": "07:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "罗源",
+      "arrive_time": "07:42",
+      "depart_time": "07:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宁德",
+      "arrive_time": "07:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "霞浦",
+      "arrive_time": "07:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 106.0,
+    "price_second": 66.0,
+    "price_no_seat": 66.0
+  },
+  "fetched_at": "2026-05-01T05:28:48.029047"
+}

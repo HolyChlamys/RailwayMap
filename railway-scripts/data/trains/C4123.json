@@ -1,0 +1,29 @@
+{
+  "train_no": "C4123",
+  "train_type": "C",
+  "depart_station": "郴州",
+  "arrive_station": "广州白云",
+  "depart_time": "15:48",
+  "arrive_time": "15:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郴州",
+      "arrive_time": "15:48",
+      "depart_time": "15:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州白云",
+      "arrive_time": "15:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 114.0,
+    "price_no_seat": 114.0
+  },
+  "fetched_at": "2026-05-01T01:09:03.084152"
+}

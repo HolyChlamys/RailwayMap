@@ -1,0 +1,86 @@
+{
+  "train_no": "G3703",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "广州白云",
+  "depart_time": "08:11",
+  "arrive_time": "15:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "08:11",
+      "depart_time": "08:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜宾西",
+      "arrive_time": "09:39",
+      "depart_time": "09:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳东",
+      "arrive_time": "11:26",
+      "depart_time": "11:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "从江",
+      "arrive_time": "12:40",
+      "depart_time": "12:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "桂林西",
+      "arrive_time": "13:20",
+      "depart_time": "13:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "恭城",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "怀集",
+      "arrive_time": "14:41",
+      "depart_time": "14:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "肇庆东",
+      "arrive_time": "15:10",
+      "depart_time": "15:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "佛山西",
+      "arrive_time": "15:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "广州白云",
+      "arrive_time": "15:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1184.0,
+    "price_second": 740.0,
+    "price_no_seat": 740.0
+  },
+  "fetched_at": "2026-05-01T06:45:20.213547"
+}

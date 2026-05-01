@@ -1,0 +1,44 @@
+{
+  "train_no": "D9566",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "阜阳西",
+  "depart_time": "03:06",
+  "arrive_time": "06:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "03:06",
+      "depart_time": "03:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "04:43",
+      "depart_time": "04:53",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥",
+      "arrive_time": "05:44",
+      "depart_time": "05:50",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "阜阳西",
+      "arrive_time": "06:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 488.0,
+    "price_second": 305.0,
+    "price_no_seat": 305.0
+  },
+  "fetched_at": "2026-05-01T05:18:35.458492"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "D8476",
+  "train_type": "D",
+  "depart_station": "凭祥东",
+  "arrive_station": "南宁东",
+  "depart_time": "18:10",
+  "arrive_time": "19:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "凭祥东",
+      "arrive_time": "18:10",
+      "depart_time": "18:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙州",
+      "arrive_time": "18:24",
+      "depart_time": "18:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁明东",
+      "arrive_time": "18:39",
+      "depart_time": "18:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "崇左南",
+      "arrive_time": "18:52",
+      "depart_time": "18:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "扶绥南",
+      "arrive_time": "19:15",
+      "depart_time": "19:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "吴圩机场",
+      "arrive_time": "19:29",
+      "depart_time": "19:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南宁",
+      "arrive_time": "19:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南宁东",
+      "arrive_time": "19:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 188.0,
+    "price_second": 118.0,
+    "price_no_seat": 118.0
+  },
+  "fetched_at": "2026-05-01T04:58:11.670324"
+}

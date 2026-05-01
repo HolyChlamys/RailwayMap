@@ -1,0 +1,37 @@
+{
+  "train_no": "C7127",
+  "train_type": "C",
+  "depart_station": "陆丰",
+  "arrive_station": "广州东",
+  "depart_time": "03:00",
+  "arrive_time": "05:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "陆丰",
+      "arrive_time": "03:00",
+      "depart_time": "03:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "04:12",
+      "depart_time": "04:21",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州东",
+      "arrive_time": "05:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 239.0,
+    "price_second": 168.0,
+    "price_no_seat": 168.0
+  },
+  "fetched_at": "2026-05-01T02:06:42.271452"
+}

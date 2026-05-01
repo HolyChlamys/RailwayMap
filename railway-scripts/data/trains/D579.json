@@ -1,0 +1,44 @@
+{
+  "train_no": "D579",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "东兴市",
+  "depart_time": "18:11",
+  "arrive_time": "22:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "18:11",
+      "depart_time": "18:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁东",
+      "arrive_time": "20:57",
+      "depart_time": "21:16",
+      "stay_min": "19"
+    },
+    {
+      "seq": 3,
+      "station_name": "防城港北",
+      "arrive_time": "22:09",
+      "depart_time": "22:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "东兴市",
+      "arrive_time": "22:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 532.0,
+    "price_second": 332.5,
+    "price_no_seat": 332.5
+  },
+  "fetched_at": "2026-05-01T04:11:18.995791"
+}

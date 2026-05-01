@@ -1,0 +1,87 @@
+{
+  "train_no": "G1530",
+  "train_type": "G",
+  "depart_station": "南昌东",
+  "arrive_station": "杭州西",
+  "depart_time": "08:26",
+  "arrive_time": "11:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "08:26",
+      "depart_time": "08:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "余干",
+      "arrive_time": "08:47",
+      "depart_time": "08:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄱阳",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "景德镇北",
+      "arrive_time": "09:25",
+      "depart_time": "09:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "浮梁东",
+      "arrive_time": "09:43",
+      "depart_time": "09:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黟县东",
+      "arrive_time": "10:12",
+      "depart_time": "10:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "黄山北",
+      "arrive_time": "10:28",
+      "depart_time": "10:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "千岛湖",
+      "arrive_time": "11:05",
+      "depart_time": "11:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "富阳西",
+      "arrive_time": "11:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "杭州西",
+      "arrive_time": "11:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 965.0,
+    "price_first": 458.0,
+    "price_second": 287.0,
+    "price_no_seat": 287.0
+  },
+  "fetched_at": "2026-05-01T05:45:43.850751"
+}

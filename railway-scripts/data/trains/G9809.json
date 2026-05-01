@@ -1,0 +1,52 @@
+{
+  "train_no": "G9809",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "长汀南",
+  "depart_time": "23:15",
+  "arrive_time": "21:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "23:15",
+      "depart_time": "23:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "赣州西",
+      "arrive_time": "00:52",
+      "depart_time": "00:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "漳州",
+      "arrive_time": "19:31",
+      "depart_time": "19:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "龙岩",
+      "arrive_time": "20:16",
+      "depart_time": "20:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "长汀南",
+      "arrive_time": "21:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1164.0,
+    "price_first": 574.0,
+    "price_second": 353.5,
+    "price_no_seat": 353.5
+  },
+  "fetched_at": "2026-05-01T09:24:52.374664"
+}

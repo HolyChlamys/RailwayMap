@@ -1,0 +1,51 @@
+{
+  "train_no": "D9253",
+  "train_type": "D",
+  "depart_station": "包头",
+  "arrive_station": "巴彦淖尔",
+  "depart_time": "14:43",
+  "arrive_time": "15:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "包头",
+      "arrive_time": "14:43",
+      "depart_time": "14:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "白彦花西",
+      "arrive_time": "15:04",
+      "depart_time": "15:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乌拉特前旗",
+      "arrive_time": "15:24",
+      "depart_time": "15:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "五原",
+      "arrive_time": "15:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "15:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 229.0,
+    "price_second": 143.0,
+    "price_no_seat": 143.0
+  },
+  "fetched_at": "2026-05-01T05:11:14.262835"
+}

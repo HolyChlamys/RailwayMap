@@ -1,0 +1,29 @@
+{
+  "train_no": "S960",
+  "train_type": "S",
+  "depart_station": "阳泉东",
+  "arrive_station": "阳泉北",
+  "depart_time": "15:05",
+  "arrive_time": "15:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阳泉东",
+      "arrive_time": "15:05",
+      "depart_time": "15:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阳泉北",
+      "arrive_time": "15:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 16.0,
+    "price_no_seat": 16.0
+  },
+  "fetched_at": "2026-05-01T11:21:10.241632"
+}

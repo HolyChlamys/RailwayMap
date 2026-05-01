@@ -1,0 +1,164 @@
+{
+  "train_no": "G1951",
+  "train_type": "G",
+  "depart_station": "运城北",
+  "arrive_station": "嘉兴南",
+  "depart_time": "10:02",
+  "arrive_time": "21:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "运城北",
+      "arrive_time": "10:02",
+      "depart_time": "10:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "闻喜西",
+      "arrive_time": "10:16",
+      "depart_time": "10:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "侯马西",
+      "arrive_time": "10:32",
+      "depart_time": "10:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "临汾西",
+      "arrive_time": "10:54",
+      "depart_time": "10:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "介休东",
+      "arrive_time": "11:36",
+      "depart_time": "11:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "太原南",
+      "arrive_time": "12:15",
+      "depart_time": "12:26",
+      "stay_min": "11"
+    },
+    {
+      "seq": 7,
+      "station_name": "石家庄",
+      "arrive_time": "13:51",
+      "depart_time": "14:16",
+      "stay_min": "25"
+    },
+    {
+      "seq": 8,
+      "station_name": "邯郸东",
+      "arrive_time": "14:54",
+      "depart_time": "14:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "鹤壁东",
+      "arrive_time": "15:23",
+      "depart_time": "15:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "新乡东",
+      "arrive_time": "15:41",
+      "depart_time": "15:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "郑州东",
+      "arrive_time": "16:05",
+      "depart_time": "16:09",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "许昌北",
+      "arrive_time": "16:37",
+      "depart_time": "16:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "周口东",
+      "arrive_time": "17:06",
+      "depart_time": "17:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "阜阳西",
+      "arrive_time": "17:44",
+      "depart_time": "17:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "合肥",
+      "arrive_time": "18:43",
+      "depart_time": "18:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 16,
+      "station_name": "南京南",
+      "arrive_time": "19:41",
+      "depart_time": "19:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 17,
+      "station_name": "镇江南",
+      "arrive_time": "20:05",
+      "depart_time": "20:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "无锡东",
+      "arrive_time": "20:36",
+      "depart_time": "20:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "苏州北",
+      "arrive_time": "20:49",
+      "depart_time": "20:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 20,
+      "station_name": "上海虹桥",
+      "arrive_time": "21:14",
+      "depart_time": "21:31",
+      "stay_min": "17"
+    },
+    {
+      "seq": 21,
+      "station_name": "嘉兴南",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3387.0,
+    "price_first": 1627.0,
+    "price_second": 1017.0,
+    "price_no_seat": 1017.0
+  },
+  "fetched_at": "2026-05-01T05:57:29.904474"
+}

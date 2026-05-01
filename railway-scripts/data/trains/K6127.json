@@ -1,0 +1,49 @@
+{
+  "train_no": "K6127",
+  "train_type": "K",
+  "depart_station": "昆明",
+  "arrive_station": "河口北",
+  "depart_time": "15:09",
+  "arrive_time": "21:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "15:09",
+      "depart_time": "15:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "玉溪",
+      "arrive_time": "16:29",
+      "depart_time": "16:36",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "建水",
+      "arrive_time": "18:46",
+      "depart_time": "18:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "蒙自",
+      "arrive_time": "19:56",
+      "depart_time": "20:01",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "河口北",
+      "arrive_time": "21:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 54.5
+  },
+  "fetched_at": "2026-05-01T10:18:11.671990"
+}

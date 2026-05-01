@@ -1,0 +1,54 @@
+{
+  "train_no": "Y56",
+  "train_type": "Y",
+  "depart_station": "长沙",
+  "arrive_station": "西安",
+  "depart_time": "20:58",
+  "arrive_time": "15:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "岳阳",
+      "arrive_time": "23:02",
+      "depart_time": "23:08",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "武昌",
+      "arrive_time": "01:48",
+      "depart_time": "02:11",
+      "stay_min": "23"
+    },
+    {
+      "seq": 4,
+      "station_name": "信阳",
+      "arrive_time": "05:44",
+      "depart_time": "06:09",
+      "stay_min": "25"
+    },
+    {
+      "seq": 5,
+      "station_name": "南阳西",
+      "arrive_time": "08:54",
+      "depart_time": "09:14",
+      "stay_min": "20"
+    },
+    {
+      "seq": 6,
+      "station_name": "西安",
+      "arrive_time": "15:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:35:19.424139"
+}

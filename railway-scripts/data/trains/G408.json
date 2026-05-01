@@ -1,0 +1,94 @@
+{
+  "train_no": "G408",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "太原南",
+  "depart_time": "10:13",
+  "arrive_time": "17:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "10:13",
+      "depart_time": "10:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "10:48",
+      "depart_time": "10:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳东",
+      "arrive_time": "12:24",
+      "depart_time": "12:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "13:06",
+      "depart_time": "13:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "岳阳东",
+      "arrive_time": "13:41",
+      "depart_time": "13:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "武汉",
+      "arrive_time": "14:32",
+      "depart_time": "14:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州",
+      "arrive_time": "16:18",
+      "depart_time": "16:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "焦作",
+      "arrive_time": "16:53",
+      "depart_time": "16:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "晋城东",
+      "arrive_time": "17:18",
+      "depart_time": "17:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "长治东",
+      "arrive_time": "17:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "太原南",
+      "arrive_time": "17:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3694.5,
+    "price_first": 1704.5,
+    "price_second": 1077.5,
+    "price_no_seat": 1077.5
+  },
+  "fetched_at": "2026-05-01T06:55:11.590263"
+}

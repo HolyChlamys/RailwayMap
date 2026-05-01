@@ -1,0 +1,121 @@
+{
+  "train_no": "D175",
+  "train_type": "D",
+  "depart_station": "西宁",
+  "arrive_station": "攀枝花南",
+  "depart_time": "08:05",
+  "arrive_time": "22:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西宁",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海东",
+      "arrive_time": "08:33",
+      "depart_time": "08:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "兰州西",
+      "arrive_time": "09:36",
+      "depart_time": "09:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "兰州",
+      "arrive_time": "09:51",
+      "depart_time": "10:02",
+      "stay_min": "11"
+    },
+    {
+      "seq": 5,
+      "station_name": "渭源",
+      "arrive_time": "11:05",
+      "depart_time": "11:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "漳县",
+      "arrive_time": "11:32",
+      "depart_time": "11:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "岷县",
+      "arrive_time": "11:56",
+      "depart_time": "11:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "陇南",
+      "arrive_time": "13:19",
+      "depart_time": "13:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "广元",
+      "arrive_time": "14:28",
+      "depart_time": "14:34",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "苍溪",
+      "arrive_time": "15:15",
+      "depart_time": "15:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "遂宁",
+      "arrive_time": "16:39",
+      "depart_time": "16:42",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "成都东",
+      "arrive_time": "17:49",
+      "depart_time": "18:03",
+      "stay_min": "14"
+    },
+    {
+      "seq": 13,
+      "station_name": "成都南",
+      "arrive_time": "18:13",
+      "depart_time": "18:21",
+      "stay_min": "8"
+    },
+    {
+      "seq": 14,
+      "station_name": "西昌西",
+      "arrive_time": "21:18",
+      "depart_time": "21:23",
+      "stay_min": "5"
+    },
+    {
+      "seq": 15,
+      "station_name": "攀枝花南",
+      "arrive_time": "22:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 825.0,
+    "price_second": 516.0,
+    "price_no_seat": 516.0
+  },
+  "fetched_at": "2026-05-01T03:04:22.124090"
+}

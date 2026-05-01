@@ -1,0 +1,79 @@
+{
+  "train_no": "C6969",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "湛江西",
+  "depart_time": "16:32",
+  "arrive_time": "19:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "16:32",
+      "depart_time": "16:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江门东",
+      "arrive_time": "17:00",
+      "depart_time": "17:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新会",
+      "arrive_time": "17:07",
+      "depart_time": "17:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "江门",
+      "arrive_time": "17:15",
+      "depart_time": "17:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "台山",
+      "arrive_time": "17:35",
+      "depart_time": "17:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "开平南",
+      "arrive_time": "17:46",
+      "depart_time": "17:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "阳西",
+      "arrive_time": "18:32",
+      "depart_time": "18:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "茂名",
+      "arrive_time": "19:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "湛江西",
+      "arrive_time": "19:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 404.0,
+    "price_second": 260.0,
+    "price_no_seat": 260.0
+  },
+  "fetched_at": "2026-05-01T02:01:51.766009"
+}

@@ -1,0 +1,94 @@
+{
+  "train_no": "G1108",
+  "train_type": "G",
+  "depart_station": "广州",
+  "arrive_station": "武汉",
+  "depart_time": "11:25",
+  "arrive_time": "16:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "11:25",
+      "depart_time": "11:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州白云",
+      "arrive_time": "11:38",
+      "depart_time": "11:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "清远",
+      "arrive_time": "12:04",
+      "depart_time": "12:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郴州西",
+      "arrive_time": "13:05",
+      "depart_time": "13:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡山西",
+      "arrive_time": "13:58",
+      "depart_time": "13:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "株洲西",
+      "arrive_time": "14:18",
+      "depart_time": "14:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙南",
+      "arrive_time": "14:40",
+      "depart_time": "14:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "岳阳东",
+      "arrive_time": "15:17",
+      "depart_time": "15:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "赤壁北",
+      "arrive_time": "15:41",
+      "depart_time": "15:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "咸宁北",
+      "arrive_time": "16:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "武汉",
+      "arrive_time": "16:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1932.0,
+    "price_first": 879.0,
+    "price_second": 552.0,
+    "price_no_seat": 552.0
+  },
+  "fetched_at": "2026-05-01T05:33:12.716928"
+}

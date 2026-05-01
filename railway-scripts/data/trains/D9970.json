@@ -1,0 +1,51 @@
+{
+  "train_no": "D9970",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "福鼎",
+  "depart_time": "17:37",
+  "arrive_time": "18:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "17:37",
+      "depart_time": "17:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "罗源",
+      "arrive_time": "18:11",
+      "depart_time": "18:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁德",
+      "arrive_time": "18:24",
+      "depart_time": "18:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "霞浦",
+      "arrive_time": "18:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福鼎",
+      "arrive_time": "18:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 143.0,
+    "price_second": 90.0,
+    "price_no_seat": 90.0
+  },
+  "fetched_at": "2026-05-01T05:29:21.361027"
+}

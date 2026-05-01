@@ -1,0 +1,52 @@
+{
+  "train_no": "G7989",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "沈丘北",
+  "depart_time": "12:53",
+  "arrive_time": "14:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "12:53",
+      "depart_time": "12:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州航空港",
+      "arrive_time": "13:17",
+      "depart_time": "13:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "周口东",
+      "arrive_time": "13:59",
+      "depart_time": "13:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "淮阳南",
+      "arrive_time": "14:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沈丘北",
+      "arrive_time": "14:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 354.0,
+    "price_first": 189.0,
+    "price_second": 118.0,
+    "price_no_seat": 118.0
+  },
+  "fetched_at": "2026-05-01T08:41:57.536226"
+}

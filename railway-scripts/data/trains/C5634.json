@@ -1,0 +1,45 @@
+{
+  "train_no": "C5634",
+  "train_type": "C",
+  "depart_station": "荆门西",
+  "arrive_station": "汉口",
+  "depart_time": "09:36",
+  "arrive_time": "10:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荆门西",
+      "arrive_time": "09:36",
+      "depart_time": "09:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "钟祥南",
+      "arrive_time": "09:54",
+      "depart_time": "09:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天门",
+      "arrive_time": "10:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "10:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 158.0,
+    "price_first": 79.0,
+    "price_second": 49.0,
+    "price_no_seat": 49.0
+  },
+  "fetched_at": "2026-05-01T01:36:05.170013"
+}

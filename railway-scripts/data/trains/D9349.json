@@ -1,0 +1,45 @@
+{
+  "train_no": "D9349",
+  "train_type": "D",
+  "depart_station": "襄阳东",
+  "arrive_station": "沙洋西",
+  "depart_time": "12:05",
+  "arrive_time": "12:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳东",
+      "arrive_time": "12:05",
+      "depart_time": "12:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜城",
+      "arrive_time": "12:21",
+      "depart_time": "12:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "荆门西",
+      "arrive_time": "12:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沙洋西",
+      "arrive_time": "12:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 664.0,
+    "price_first": 321.0,
+    "price_second": 200.0,
+    "price_no_seat": 200.0
+  },
+  "fetched_at": "2026-05-01T05:13:54.603380"
+}

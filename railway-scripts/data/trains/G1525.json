@@ -1,0 +1,73 @@
+{
+  "train_no": "G1525",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "昆明南",
+  "depart_time": "08:41",
+  "arrive_time": "15:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "08:41",
+      "depart_time": "08:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙南",
+      "arrive_time": "10:02",
+      "depart_time": "10:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "怀化南",
+      "arrive_time": "11:28",
+      "depart_time": "11:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "凯里南",
+      "arrive_time": "12:31",
+      "depart_time": "12:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "13:11",
+      "depart_time": "13:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "富源北",
+      "arrive_time": "14:53",
+      "depart_time": "14:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "曲靖北",
+      "arrive_time": "15:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "昆明南",
+      "arrive_time": "15:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2786.0,
+    "price_first": 1274.0,
+    "price_second": 796.0,
+    "price_no_seat": 796.0
+  },
+  "fetched_at": "2026-05-01T05:45:33.909390"
+}

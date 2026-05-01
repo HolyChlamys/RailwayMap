@@ -1,0 +1,42 @@
+{
+  "train_no": "K7341",
+  "train_type": "K",
+  "depart_station": "锦州",
+  "arrive_station": "沈阳",
+  "depart_time": "06:23",
+  "arrive_time": "07:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "锦州",
+      "arrive_time": "06:23",
+      "depart_time": "06:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沟帮子",
+      "arrive_time": "07:08",
+      "depart_time": "07:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大虎山",
+      "arrive_time": "07:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳",
+      "arrive_time": "07:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:29:35.213353"
+}

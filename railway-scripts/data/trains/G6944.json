@@ -1,0 +1,66 @@
+{
+  "train_no": "G6944",
+  "train_type": "G",
+  "depart_station": "聊城西",
+  "arrive_station": "烟台",
+  "depart_time": "19:35",
+  "arrive_time": "22:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "聊城西",
+      "arrive_time": "19:35",
+      "depart_time": "19:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "茌平南",
+      "arrive_time": "19:48",
+      "depart_time": "19:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "济南西",
+      "arrive_time": "20:14",
+      "depart_time": "20:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南东",
+      "arrive_time": "20:39",
+      "depart_time": "20:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "潍坊北",
+      "arrive_time": "21:26",
+      "depart_time": "21:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "平度",
+      "arrive_time": "21:50",
+      "depart_time": "21:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "烟台",
+      "arrive_time": "22:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 926.0,
+    "price_first": 448.0,
+    "price_second": 280.0,
+    "price_no_seat": 280.0
+  },
+  "fetched_at": "2026-05-01T08:13:19.829867"
+}

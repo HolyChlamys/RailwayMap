@@ -1,0 +1,91 @@
+{
+  "train_no": "K1172",
+  "train_type": "K",
+  "depart_station": "惠州",
+  "arrive_station": "重庆东",
+  "depart_time": "10:50",
+  "arrive_time": "07:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "惠州",
+      "arrive_time": "10:50",
+      "depart_time": "10:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞东",
+      "arrive_time": "11:34",
+      "depart_time": "11:41",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州北",
+      "arrive_time": "13:00",
+      "depart_time": "13:08",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "韶关东",
+      "arrive_time": "15:09",
+      "depart_time": "15:15",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "郴州",
+      "arrive_time": "17:00",
+      "depart_time": "17:05",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "衡阳",
+      "arrive_time": "18:52",
+      "depart_time": "19:27",
+      "stay_min": "35"
+    },
+    {
+      "seq": 7,
+      "station_name": "邵阳",
+      "arrive_time": "21:10",
+      "depart_time": "21:15",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "怀化南",
+      "arrive_time": "22:54",
+      "depart_time": "23:09",
+      "stay_min": "15"
+    },
+    {
+      "seq": 9,
+      "station_name": "铜仁",
+      "arrive_time": "00:40",
+      "depart_time": "00:46",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "涪陵",
+      "arrive_time": "06:37",
+      "depart_time": "06:43",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "重庆东",
+      "arrive_time": "07:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 203.5
+  },
+  "fetched_at": "2026-05-01T09:32:19.946095"
+}

@@ -1,0 +1,70 @@
+{
+  "train_no": "K86",
+  "train_type": "K",
+  "depart_station": "九江",
+  "arrive_station": "广州白云",
+  "depart_time": "18:39",
+  "arrive_time": "08:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "九江",
+      "arrive_time": "18:39",
+      "depart_time": "18:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌",
+      "arrive_time": "19:59",
+      "depart_time": "20:11",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "向塘",
+      "arrive_time": "20:33",
+      "depart_time": "20:37",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "吉安",
+      "arrive_time": "22:34",
+      "depart_time": "22:39",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "赣州",
+      "arrive_time": "00:32",
+      "depart_time": "00:37",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "惠州",
+      "arrive_time": "05:18",
+      "depart_time": "05:23",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "东莞东",
+      "arrive_time": "06:07",
+      "depart_time": "06:13",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州白云",
+      "arrive_time": "08:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 158.5
+  },
+  "fetched_at": "2026-05-01T10:40:15.459154"
+}

@@ -1,0 +1,31 @@
+{
+  "train_no": "G5750",
+  "train_type": "G",
+  "depart_station": "泸州",
+  "arrive_station": "重庆西",
+  "depart_time": "07:08",
+  "arrive_time": "07:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "泸州",
+      "arrive_time": "07:08",
+      "depart_time": "07:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "07:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 280.0,
+    "price_first": 128.0,
+    "price_second": 80.0,
+    "price_no_seat": 80.0
+  },
+  "fetched_at": "2026-05-01T07:41:19.204782"
+}

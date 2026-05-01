@@ -1,0 +1,77 @@
+{
+  "train_no": "K7041",
+  "train_type": "K",
+  "depart_station": "哈尔滨",
+  "arrive_station": "漠河",
+  "depart_time": "20:35",
+  "arrive_time": "09:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨",
+      "arrive_time": "20:35",
+      "depart_time": "20:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大庆西",
+      "arrive_time": "22:18",
+      "depart_time": "22:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "齐齐哈尔",
+      "arrive_time": "23:50",
+      "depart_time": "23:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "嫩江",
+      "arrive_time": "03:27",
+      "depart_time": "03:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "加格达奇",
+      "arrive_time": "06:11",
+      "depart_time": "06:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "小扬气",
+      "arrive_time": "07:03",
+      "depart_time": "07:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "新林",
+      "arrive_time": "08:38",
+      "depart_time": "08:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "塔河",
+      "arrive_time": "09:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "漠河",
+      "arrive_time": "09:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 148.5
+  },
+  "fetched_at": "2026-05-01T10:27:44.396122"
+}

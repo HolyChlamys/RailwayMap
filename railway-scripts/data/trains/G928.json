@@ -1,0 +1,66 @@
+{
+  "train_no": "G928",
+  "train_type": "G",
+  "depart_station": "香港西九龙",
+  "arrive_station": "南宁东",
+  "depart_time": "15:34",
+  "arrive_time": "18:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香港西九龙",
+      "arrive_time": "15:34",
+      "depart_time": "15:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "15:57",
+      "depart_time": "15:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "虎门",
+      "arrive_time": "16:16",
+      "depart_time": "16:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "16:36",
+      "depart_time": "16:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "佛山西",
+      "arrive_time": "16:57",
+      "depart_time": "16:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "梧州南",
+      "arrive_time": "18:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南宁东",
+      "arrive_time": "18:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1520.0,
+    "price_first": 744.0,
+    "price_second": 465.0,
+    "price_no_seat": 465.0
+  },
+  "fetched_at": "2026-05-01T09:10:09.697041"
+}

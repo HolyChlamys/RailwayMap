@@ -1,0 +1,86 @@
+{
+  "train_no": "D9675",
+  "train_type": "D",
+  "depart_station": "桂林北",
+  "arrive_station": "百色",
+  "depart_time": "08:29",
+  "arrive_time": "12:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "桂林北",
+      "arrive_time": "08:29",
+      "depart_time": "08:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桂林",
+      "arrive_time": "08:46",
+      "depart_time": "08:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "柳州",
+      "arrive_time": "09:50",
+      "depart_time": "09:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "来宾北",
+      "arrive_time": "10:21",
+      "depart_time": "10:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南宁东",
+      "arrive_time": "11:06",
+      "depart_time": "11:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南宁",
+      "arrive_time": "11:21",
+      "depart_time": "11:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南宁西",
+      "arrive_time": "11:49",
+      "depart_time": "11:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "隆安东",
+      "arrive_time": "12:12",
+      "depart_time": "12:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "平果",
+      "arrive_time": "12:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "百色",
+      "arrive_time": "12:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 371.0,
+    "price_second": 232.0,
+    "price_no_seat": 232.0
+  },
+  "fetched_at": "2026-05-01T05:21:41.939597"
+}

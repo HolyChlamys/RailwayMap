@@ -1,0 +1,94 @@
+{
+  "train_no": "C3258",
+  "train_type": "C",
+  "depart_station": "赣榆",
+  "arrive_station": "黄山北",
+  "depart_time": "11:47",
+  "arrive_time": "16:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣榆",
+      "arrive_time": "11:47",
+      "depart_time": "11:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "连云港",
+      "arrive_time": "12:03",
+      "depart_time": "12:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "淮安东",
+      "arrive_time": "12:51",
+      "depart_time": "12:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "扬州东",
+      "arrive_time": "13:32",
+      "depart_time": "13:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "大港南",
+      "arrive_time": "13:52",
+      "depart_time": "13:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "镇江",
+      "arrive_time": "14:10",
+      "depart_time": "14:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京南",
+      "arrive_time": "14:42",
+      "depart_time": "14:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "马鞍山东",
+      "arrive_time": "15:02",
+      "depart_time": "15:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "芜湖",
+      "arrive_time": "15:21",
+      "depart_time": "15:25",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "宣城",
+      "arrive_time": "15:52",
+      "depart_time": "15:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "黄山北",
+      "arrive_time": "16:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1256.0,
+    "price_first": 602.0,
+    "price_second": 377.0,
+    "price_no_seat": 377.0
+  },
+  "fetched_at": "2026-05-01T00:55:22.131740"
+}

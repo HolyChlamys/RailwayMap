@@ -1,0 +1,94 @@
+{
+  "train_no": "G691",
+  "train_type": "G",
+  "depart_station": "太原南",
+  "arrive_station": "武汉",
+  "depart_time": "17:45",
+  "arrive_time": "22:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "17:45",
+      "depart_time": "17:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太谷东",
+      "arrive_time": "18:10",
+      "depart_time": "18:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "榆社西",
+      "arrive_time": "18:30",
+      "depart_time": "18:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长治东",
+      "arrive_time": "19:08",
+      "depart_time": "19:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "晋城东",
+      "arrive_time": "19:39",
+      "depart_time": "19:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "焦作",
+      "arrive_time": "20:03",
+      "depart_time": "20:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州",
+      "arrive_time": "20:42",
+      "depart_time": "20:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "许昌东",
+      "arrive_time": "21:17",
+      "depart_time": "21:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "驻马店西",
+      "arrive_time": "21:48",
+      "depart_time": "21:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "信阳东",
+      "arrive_time": "22:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "武汉",
+      "arrive_time": "22:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1786.0,
+    "price_first": 824.0,
+    "price_second": 515.0,
+    "price_no_seat": 515.0
+  },
+  "fetched_at": "2026-05-01T08:12:33.650904"
+}

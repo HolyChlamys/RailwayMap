@@ -1,0 +1,45 @@
+{
+  "train_no": "G6532",
+  "train_type": "G",
+  "depart_station": "香港西九龙",
+  "arrive_station": "广州南",
+  "depart_time": "21:05",
+  "arrive_time": "21:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香港西九龙",
+      "arrive_time": "21:05",
+      "depart_time": "21:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "21:27",
+      "depart_time": "21:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "虎门",
+      "arrive_time": "21:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "21:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 645.0,
+    "price_first": 344.0,
+    "price_second": 215.0,
+    "price_no_seat": 215.0
+  },
+  "fetched_at": "2026-05-01T08:01:37.424492"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G9517",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "安庆",
+  "depart_time": "19:25",
+  "arrive_time": "20:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "19:25",
+      "depart_time": "19:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肥西",
+      "arrive_time": "19:39",
+      "depart_time": "19:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "庐江西",
+      "arrive_time": "20:00",
+      "depart_time": "20:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "桐城东",
+      "arrive_time": "20:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "安庆",
+      "arrive_time": "20:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 358.0,
+    "price_first": 164.0,
+    "price_second": 103.0,
+    "price_no_seat": 103.0
+  },
+  "fetched_at": "2026-05-01T09:16:29.540087"
+}

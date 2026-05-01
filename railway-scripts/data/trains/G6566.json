@@ -1,0 +1,58 @@
+{
+  "train_no": "G6566",
+  "train_type": "G",
+  "depart_station": "香港西九龙",
+  "arrive_station": "广州东",
+  "depart_time": "07:41",
+  "arrive_time": "08:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香港西九龙",
+      "arrive_time": "07:41",
+      "depart_time": "07:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "08:02",
+      "depart_time": "08:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东莞南",
+      "arrive_time": "08:22",
+      "depart_time": "08:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "东莞",
+      "arrive_time": "08:43",
+      "depart_time": "08:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州新塘",
+      "arrive_time": "08:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州东",
+      "arrive_time": "08:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 296.0,
+    "price_second": 185.0,
+    "price_no_seat": 185.0
+  },
+  "fetched_at": "2026-05-01T08:02:35.041207"
+}

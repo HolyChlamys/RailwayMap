@@ -1,0 +1,66 @@
+{
+  "train_no": "G5542",
+  "train_type": "G",
+  "depart_station": "青岛",
+  "arrive_station": "莘县",
+  "depart_time": "12:29",
+  "arrive_time": "16:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛",
+      "arrive_time": "12:29",
+      "depart_time": "12:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昌乐",
+      "arrive_time": "13:48",
+      "depart_time": "13:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "淄博",
+      "arrive_time": "14:18",
+      "depart_time": "14:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南",
+      "arrive_time": "15:05",
+      "depart_time": "15:17",
+      "stay_min": "12"
+    },
+    {
+      "seq": 5,
+      "station_name": "长清",
+      "arrive_time": "15:37",
+      "depart_time": "15:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "聊城西",
+      "arrive_time": "16:02",
+      "depart_time": "16:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "莘县",
+      "arrive_time": "16:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 810.0,
+    "price_first": 371.0,
+    "price_second": 232.0,
+    "price_no_seat": 232.0
+  },
+  "fetched_at": "2026-05-01T07:36:25.570504"
+}

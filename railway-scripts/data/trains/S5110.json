@@ -1,0 +1,40 @@
+{
+  "train_no": "S5110",
+  "train_type": "S",
+  "depart_station": "离堆公园",
+  "arrive_station": "犀浦",
+  "depart_time": "11:41",
+  "arrive_time": "12:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "离堆公园",
+      "arrive_time": "11:41",
+      "depart_time": "11:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "迎宾路",
+      "arrive_time": "11:47",
+      "depart_time": "11:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郫县",
+      "arrive_time": "12:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "犀浦",
+      "arrive_time": "12:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:01:39.069234"
+}

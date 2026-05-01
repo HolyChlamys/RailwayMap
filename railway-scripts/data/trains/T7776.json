@@ -1,0 +1,47 @@
+{
+  "train_no": "T7776",
+  "train_type": "T",
+  "depart_station": "南京",
+  "arrive_station": "盐城",
+  "depart_time": "18:50",
+  "arrive_time": "22:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "扬州",
+      "arrive_time": "19:46",
+      "depart_time": "19:52",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "泰州",
+      "arrive_time": "20:28",
+      "depart_time": "20:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "东台",
+      "arrive_time": "21:26",
+      "depart_time": "21:31",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "盐城",
+      "arrive_time": "22:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:27:25.326669"
+}

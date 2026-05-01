@@ -1,0 +1,65 @@
+{
+  "train_no": "D8203",
+  "train_type": "D",
+  "depart_station": "桂林",
+  "arrive_station": "南宁东",
+  "depart_time": "10:20",
+  "arrive_time": "12:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "桂林",
+      "arrive_time": "10:20",
+      "depart_time": "10:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永福南",
+      "arrive_time": "10:45",
+      "depart_time": "10:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鹿寨北",
+      "arrive_time": "11:08",
+      "depart_time": "11:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "柳州",
+      "arrive_time": "11:40",
+      "depart_time": "11:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "来宾北",
+      "arrive_time": "12:07",
+      "depart_time": "12:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宾阳",
+      "arrive_time": "12:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南宁东",
+      "arrive_time": "12:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 228.0,
+    "price_second": 142.0,
+    "price_no_seat": 142.0
+  },
+  "fetched_at": "2026-05-01T04:51:06.997734"
+}

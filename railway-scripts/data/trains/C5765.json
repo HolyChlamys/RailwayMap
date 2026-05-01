@@ -1,0 +1,65 @@
+{
+  "train_no": "C5765",
+  "train_type": "C",
+  "depart_station": "黄胜关",
+  "arrive_station": "成都东",
+  "depart_time": "17:27",
+  "arrive_time": "19:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄胜关",
+      "arrive_time": "17:27",
+      "depart_time": "17:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄龙九寨",
+      "arrive_time": "17:38",
+      "depart_time": "17:45",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "松潘",
+      "arrive_time": "17:55",
+      "depart_time": "17:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "高川",
+      "arrive_time": "18:49",
+      "depart_time": "18:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "安州",
+      "arrive_time": "19:01",
+      "depart_time": "19:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "三星堆",
+      "arrive_time": "19:29",
+      "depart_time": "19:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "成都东",
+      "arrive_time": "19:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 245.0,
+    "price_second": 153.0,
+    "price_no_seat": 153.0
+  },
+  "fetched_at": "2026-05-01T01:37:52.499103"
+}

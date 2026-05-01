@@ -1,0 +1,40 @@
+{
+  "train_no": "Y956",
+  "train_type": "Y",
+  "depart_station": "邯郸",
+  "arrive_station": "北京",
+  "depart_time": "14:40",
+  "arrive_time": "16:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邯郸",
+      "arrive_time": "14:40",
+      "depart_time": "14:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邢台",
+      "arrive_time": "15:21",
+      "depart_time": "15:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "16:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "北京",
+      "arrive_time": "16:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:42:09.302058"
+}

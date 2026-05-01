@@ -1,0 +1,51 @@
+{
+  "train_no": "D5328",
+  "train_type": "D",
+  "depart_station": "运城北",
+  "arrive_station": "太原南",
+  "depart_time": "19:31",
+  "arrive_time": "21:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "运城北",
+      "arrive_time": "19:31",
+      "depart_time": "19:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洪洞西",
+      "arrive_time": "20:16",
+      "depart_time": "20:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "祁县东",
+      "arrive_time": "21:03",
+      "depart_time": "21:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "晋中",
+      "arrive_time": "21:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太原南",
+      "arrive_time": "21:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 211.0,
+    "price_second": 132.0,
+    "price_no_seat": 132.0
+  },
+  "fetched_at": "2026-05-01T04:04:48.488124"
+}

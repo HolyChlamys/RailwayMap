@@ -1,0 +1,40 @@
+{
+  "train_no": "Y957",
+  "train_type": "Y",
+  "depart_station": "北京",
+  "arrive_station": "张家口",
+  "depart_time": "08:28",
+  "arrive_time": "12:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京",
+      "arrive_time": "08:28",
+      "depart_time": "08:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沙城",
+      "arrive_time": "11:28",
+      "depart_time": "11:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宣化",
+      "arrive_time": "12:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "张家口",
+      "arrive_time": "12:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:42:10.976819"
+}

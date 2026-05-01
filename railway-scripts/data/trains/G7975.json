@@ -1,0 +1,31 @@
+{
+  "train_no": "G7975",
+  "train_type": "G",
+  "depart_station": "新乡东",
+  "arrive_station": "郑州东",
+  "depart_time": "08:53",
+  "arrive_time": "08:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "新乡东",
+      "arrive_time": "08:53",
+      "depart_time": "08:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "08:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 166.0,
+    "price_first": 76.0,
+    "price_second": 47.0,
+    "price_no_seat": 47.0
+  },
+  "fetched_at": "2026-05-01T08:41:35.828279"
+}

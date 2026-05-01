@@ -1,0 +1,87 @@
+{
+  "train_no": "G8771",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "成都东",
+  "depart_time": "13:44",
+  "arrive_time": "16:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "13:44",
+      "depart_time": "13:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江津北",
+      "arrive_time": "14:00",
+      "depart_time": "14:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "泸州东",
+      "arrive_time": "14:22",
+      "depart_time": "14:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "泸州",
+      "arrive_time": "14:35",
+      "depart_time": "14:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "泸县",
+      "arrive_time": "14:56",
+      "depart_time": "14:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "富顺",
+      "arrive_time": "15:09",
+      "depart_time": "15:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "自贡",
+      "arrive_time": "15:21",
+      "depart_time": "15:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "内江东",
+      "arrive_time": "15:37",
+      "depart_time": "15:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "内江北",
+      "arrive_time": "15:54",
+      "depart_time": "15:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "成都东",
+      "arrive_time": "16:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 777.0,
+    "price_first": 355.0,
+    "price_second": 222.0,
+    "price_no_seat": 222.0
+  },
+  "fetched_at": "2026-05-01T09:00:05.076966"
+}

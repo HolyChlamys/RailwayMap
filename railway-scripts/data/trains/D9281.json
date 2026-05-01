@@ -1,0 +1,65 @@
+{
+  "train_no": "D9281",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "利川",
+  "depart_time": "06:04",
+  "arrive_time": "10:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "06:04",
+      "depart_time": "06:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "07:19",
+      "depart_time": "07:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜昌东",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "野三关",
+      "arrive_time": "08:59",
+      "depart_time": "08:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "高坪",
+      "arrive_time": "09:17",
+      "depart_time": "09:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "恩施",
+      "arrive_time": "10:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "利川",
+      "arrive_time": "10:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 370.0,
+    "price_second": 232.0,
+    "price_no_seat": 232.0
+  },
+  "fetched_at": "2026-05-01T05:12:02.434255"
+}

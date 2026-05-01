@@ -1,0 +1,51 @@
+{
+  "train_no": "C275",
+  "train_type": "C",
+  "depart_station": "西双版纳",
+  "arrive_station": "昆明",
+  "depart_time": "15:25",
+  "arrive_time": "19:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西双版纳",
+      "arrive_time": "15:25",
+      "depart_time": "15:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普洱",
+      "arrive_time": "16:05",
+      "depart_time": "16:09",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "化念",
+      "arrive_time": "17:41",
+      "depart_time": "17:44",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明南",
+      "arrive_time": "18:42",
+      "depart_time": "18:50",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明",
+      "arrive_time": "19:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 381.0,
+    "price_second": 239.0,
+    "price_no_seat": 239.0
+  },
+  "fetched_at": "2026-05-01T00:44:10.321166"
+}

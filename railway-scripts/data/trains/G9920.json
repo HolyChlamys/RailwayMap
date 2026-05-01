@@ -1,0 +1,52 @@
+{
+  "train_no": "G9920",
+  "train_type": "G",
+  "depart_station": "邯郸东",
+  "arrive_station": "北京西",
+  "depart_time": "02:36",
+  "arrive_time": "03:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邯郸东",
+      "arrive_time": "02:36",
+      "depart_time": "02:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邢台东",
+      "arrive_time": "03:00",
+      "depart_time": "03:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "03:35",
+      "depart_time": "03:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "正定机场",
+      "arrive_time": "03:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "北京西",
+      "arrive_time": "03:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 878.0,
+    "price_first": 401.0,
+    "price_second": 251.0,
+    "price_no_seat": 251.0
+  },
+  "fetched_at": "2026-05-01T09:28:12.082985"
+}

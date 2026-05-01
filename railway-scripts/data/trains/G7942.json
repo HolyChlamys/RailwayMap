@@ -1,0 +1,66 @@
+{
+  "train_no": "G7942",
+  "train_type": "G",
+  "depart_station": "南阳东",
+  "arrive_station": "郑州东",
+  "depart_time": "11:55",
+  "arrive_time": "13:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南阳东",
+      "arrive_time": "11:55",
+      "depart_time": "11:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郏县",
+      "arrive_time": "12:30",
+      "depart_time": "12:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "禹州",
+      "arrive_time": "12:45",
+      "depart_time": "12:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长葛北",
+      "arrive_time": "13:01",
+      "depart_time": "13:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州航空港",
+      "arrive_time": "13:19",
+      "depart_time": "13:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "新郑机场",
+      "arrive_time": "13:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州东",
+      "arrive_time": "13:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 388.0,
+    "price_first": 207.0,
+    "price_second": 129.0,
+    "price_no_seat": 129.0
+  },
+  "fetched_at": "2026-05-01T08:40:48.773941"
+}

@@ -1,0 +1,58 @@
+{
+  "train_no": "D4431",
+  "train_type": "D",
+  "depart_station": "杭州东",
+  "arrive_station": "宜昌东",
+  "depart_time": "02:49",
+  "arrive_time": "08:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "02:49",
+      "depart_time": "02:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "04:01",
+      "depart_time": "04:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "04:53",
+      "depart_time": "04:58",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "06:46",
+      "depart_time": "06:55",
+      "stay_min": "9"
+    },
+    {
+      "seq": 5,
+      "station_name": "荆州",
+      "arrive_time": "08:09",
+      "depart_time": "08:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "宜昌东",
+      "arrive_time": "08:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 758.0,
+    "price_second": 475.0,
+    "price_no_seat": 475.0
+  },
+  "fetched_at": "2026-05-01T03:50:25.774974"
+}

@@ -1,0 +1,114 @@
+{
+  "train_no": "D2758",
+  "train_type": "D",
+  "depart_station": "敦煌",
+  "arrive_station": "银川",
+  "depart_time": "07:30",
+  "arrive_time": "18:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "敦煌",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "瓜州",
+      "arrive_time": "08:16",
+      "depart_time": "08:21",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "玉门",
+      "arrive_time": "09:15",
+      "depart_time": "09:19",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "嘉峪关南",
+      "arrive_time": "10:06",
+      "depart_time": "10:12",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "酒泉南",
+      "arrive_time": "10:24",
+      "depart_time": "10:27",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "张掖西",
+      "arrive_time": "11:34",
+      "depart_time": "11:38",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "西宁",
+      "arrive_time": "13:23",
+      "depart_time": "13:45",
+      "stay_min": "22"
+    },
+    {
+      "seq": 8,
+      "station_name": "兰州西",
+      "arrive_time": "14:48",
+      "depart_time": "15:08",
+      "stay_min": "20"
+    },
+    {
+      "seq": 9,
+      "station_name": "白银南",
+      "arrive_time": "15:56",
+      "depart_time": "15:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "平川西",
+      "arrive_time": "16:20",
+      "depart_time": "16:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "中卫南",
+      "arrive_time": "16:54",
+      "depart_time": "16:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "灵武北",
+      "arrive_time": "17:42",
+      "depart_time": "17:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "河东机场",
+      "arrive_time": "17:55",
+      "depart_time": "17:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "银川",
+      "arrive_time": "18:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 866.0,
+    "price_second": 542.0,
+    "price_no_seat": 542.0
+  },
+  "fetched_at": "2026-05-01T03:22:25.202928"
+}

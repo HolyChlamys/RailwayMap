@@ -1,0 +1,31 @@
+{
+  "train_no": "C9294",
+  "train_type": "C",
+  "depart_station": "荆门西",
+  "arrive_station": "汉口",
+  "depart_time": "03:13",
+  "arrive_time": "03:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荆门西",
+      "arrive_time": "03:13",
+      "depart_time": "03:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "03:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 208.0,
+    "price_first": 95.0,
+    "price_second": 59.0,
+    "price_no_seat": 59.0
+  },
+  "fetched_at": "2026-05-01T02:44:27.292038"
+}

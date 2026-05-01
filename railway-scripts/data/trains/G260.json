@@ -1,0 +1,80 @@
+{
+  "train_no": "G260",
+  "train_type": "G",
+  "depart_station": "厦门北",
+  "arrive_station": "上海南",
+  "depart_time": "15:08",
+  "arrive_time": "19:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "15:08",
+      "depart_time": "15:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泉州东",
+      "arrive_time": "15:33",
+      "depart_time": "15:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莆田",
+      "arrive_time": "15:52",
+      "depart_time": "15:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福州",
+      "arrive_time": "16:30",
+      "depart_time": "16:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南平市",
+      "arrive_time": "17:27",
+      "depart_time": "17:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "上饶",
+      "arrive_time": "17:59",
+      "depart_time": "17:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "金华",
+      "arrive_time": "18:43",
+      "depart_time": "18:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "杭州东",
+      "arrive_time": "19:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "上海南",
+      "arrive_time": "19:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1972.0,
+    "price_first": 939.0,
+    "price_second": 579.0,
+    "price_no_seat": 579.0
+  },
+  "fetched_at": "2026-05-01T06:14:54.516245"
+}

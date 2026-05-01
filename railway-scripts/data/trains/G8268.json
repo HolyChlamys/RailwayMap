@@ -1,0 +1,58 @@
+{
+  "train_no": "G8268",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "淮安东",
+  "depart_time": "15:37",
+  "arrive_time": "17:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "15:37",
+      "depart_time": "15:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "16:07",
+      "depart_time": "16:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡",
+      "arrive_time": "16:24",
+      "depart_time": "16:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "常州",
+      "arrive_time": "16:40",
+      "depart_time": "16:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "扬州东",
+      "arrive_time": "17:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "淮安东",
+      "arrive_time": "17:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 349.0,
+    "price_second": 219.0,
+    "price_no_seat": 219.0
+  },
+  "fetched_at": "2026-05-01T08:46:28.999954"
+}

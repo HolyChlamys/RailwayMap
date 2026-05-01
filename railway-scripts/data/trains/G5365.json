@@ -1,0 +1,108 @@
+{
+  "train_no": "G5365",
+  "train_type": "G",
+  "depart_station": "青岛",
+  "arrive_station": "菏泽东",
+  "depart_time": "16:28",
+  "arrive_time": "21:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛",
+      "arrive_time": "16:28",
+      "depart_time": "16:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛北",
+      "arrive_time": "16:47",
+      "depart_time": "16:55",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "青岛西",
+      "arrive_time": "17:30",
+      "depart_time": "17:37",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "日照西",
+      "arrive_time": "18:07",
+      "depart_time": "18:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "厉家寨",
+      "arrive_time": "18:24",
+      "depart_time": "18:27",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "临沂北",
+      "arrive_time": "18:47",
+      "depart_time": "18:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "费县北",
+      "arrive_time": "19:03",
+      "depart_time": "19:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "蒙山",
+      "arrive_time": "19:17",
+      "depart_time": "19:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "曲阜东",
+      "arrive_time": "19:39",
+      "depart_time": "20:01",
+      "stay_min": "22"
+    },
+    {
+      "seq": 10,
+      "station_name": "济宁东",
+      "arrive_time": "20:19",
+      "depart_time": "20:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "济宁北",
+      "arrive_time": "20:29",
+      "depart_time": "20:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "巨野北",
+      "arrive_time": "20:47",
+      "depart_time": "20:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "菏泽东",
+      "arrive_time": "21:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 902.0,
+    "price_first": 455.0,
+    "price_second": 284.0,
+    "price_no_seat": 284.0
+  },
+  "fetched_at": "2026-05-01T07:32:07.749659"
+}

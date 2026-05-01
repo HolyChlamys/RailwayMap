@@ -1,0 +1,44 @@
+{
+  "train_no": "G4559",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "广州南",
+  "depart_time": "23:01",
+  "arrive_time": "02:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "23:01",
+      "depart_time": "23:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳",
+      "arrive_time": "23:14",
+      "depart_time": "23:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "佛山西",
+      "arrive_time": "02:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "02:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 690.0,
+    "price_second": 431.0,
+    "price_no_seat": 431.0
+  },
+  "fetched_at": "2026-05-01T07:08:50.251553"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "G9428",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "淮北",
+  "depart_time": "03:07",
+  "arrive_time": "06:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "03:07",
+      "depart_time": "03:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "04:15",
+      "depart_time": "04:23",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "05:37",
+      "depart_time": "05:41",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "淮北",
+      "arrive_time": "06:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 597.0,
+    "price_second": 373.0,
+    "price_no_seat": 373.0
+  },
+  "fetched_at": "2026-05-01T09:13:46.818774"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G5014",
+  "train_type": "G",
+  "depart_station": "南昌",
+  "arrive_station": "德兴",
+  "depart_time": "08:25",
+  "arrive_time": "10:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "08:25",
+      "depart_time": "08:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚州东",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鹰潭北",
+      "arrive_time": "09:29",
+      "depart_time": "09:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "上饶",
+      "arrive_time": "10:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "德兴",
+      "arrive_time": "10:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 972.0,
+    "price_first": 461.5,
+    "price_second": 286.5,
+    "price_no_seat": 286.5
+  },
+  "fetched_at": "2026-05-01T07:22:38.490813"
+}

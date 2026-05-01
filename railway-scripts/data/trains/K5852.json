@@ -1,0 +1,35 @@
+{
+  "train_no": "K5852",
+  "train_type": "K",
+  "depart_station": "南昌",
+  "arrive_station": "九江",
+  "depart_time": "15:00",
+  "arrive_time": "15:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "15:00",
+      "depart_time": "15:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "共青城",
+      "arrive_time": "15:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "九江",
+      "arrive_time": "15:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 21.5
+  },
+  "fetched_at": "2026-05-01T10:15:18.198523"
+}

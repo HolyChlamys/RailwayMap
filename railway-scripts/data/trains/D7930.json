@@ -1,0 +1,51 @@
+{
+  "train_no": "D7930",
+  "train_type": "D",
+  "depart_station": "佳木斯",
+  "arrive_station": "哈尔滨",
+  "depart_time": "19:00",
+  "arrive_time": "21:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佳木斯",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "双鸭山西",
+      "arrive_time": "19:27",
+      "depart_time": "19:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鸡西西",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "牡丹江",
+      "arrive_time": "21:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "哈尔滨",
+      "arrive_time": "21:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 446.0,
+    "price_second": 278.0,
+    "price_no_seat": 278.0
+  },
+  "fetched_at": "2026-05-01T04:47:50.629531"
+}

@@ -1,0 +1,43 @@
+{
+  "train_no": "S1155",
+  "train_type": "S",
+  "depart_station": "上海南",
+  "arrive_station": "金山卫",
+  "depart_time": "14:39",
+  "arrive_time": "15:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "车墩",
+      "arrive_time": "14:59",
+      "depart_time": "14:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "亭林",
+      "arrive_time": "15:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "金山卫",
+      "arrive_time": "15:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 10.0,
+    "price_no_seat": 10.0
+  },
+  "fetched_at": "2026-05-01T10:51:03.018197"
+}

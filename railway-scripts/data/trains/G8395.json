@@ -1,0 +1,52 @@
+{
+  "train_no": "G8395",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "黄梅东",
+  "depart_time": "13:47",
+  "arrive_time": "15:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "13:47",
+      "depart_time": "13:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安庆西",
+      "arrive_time": "14:35",
+      "depart_time": "14:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潜山",
+      "arrive_time": "14:48",
+      "depart_time": "14:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宿松东",
+      "arrive_time": "15:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "黄梅东",
+      "arrive_time": "15:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 543.0,
+    "price_first": 248.0,
+    "price_second": 155.0,
+    "price_no_seat": 155.0
+  },
+  "fetched_at": "2026-05-01T08:49:42.392085"
+}

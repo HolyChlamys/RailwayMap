@@ -1,0 +1,38 @@
+{
+  "train_no": "D4591",
+  "train_type": "D",
+  "depart_station": "厦门北",
+  "arrive_station": "深圳北",
+  "depart_time": "22:49",
+  "arrive_time": "23:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "22:49",
+      "depart_time": "22:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "23:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "23:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 537.0,
+    "price_first": 246.0,
+    "price_second": 154.0,
+    "price_no_seat": 154.0
+  },
+  "fetched_at": "2026-05-01T03:53:51.856616"
+}

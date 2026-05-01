@@ -1,0 +1,64 @@
+{
+  "train_no": "D81",
+  "train_type": "D",
+  "depart_station": "上海南",
+  "arrive_station": "长沙",
+  "depart_time": "20:44",
+  "arrive_time": "06:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "20:44",
+      "depart_time": "20:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "上海松江",
+      "arrive_time": "21:03",
+      "depart_time": "21:08",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "嘉兴",
+      "arrive_time": "21:37",
+      "depart_time": "21:41",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州南",
+      "arrive_time": "22:40",
+      "depart_time": "22:46",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "金华",
+      "arrive_time": "00:07",
+      "depart_time": "00:13",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "株洲",
+      "arrive_time": "06:10",
+      "depart_time": "06:16",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙",
+      "arrive_time": "06:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 364.0,
+    "price_no_seat": 364.0
+  },
+  "fetched_at": "2026-05-01T04:49:36.079510"
+}

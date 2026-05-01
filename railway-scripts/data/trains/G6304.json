@@ -1,0 +1,73 @@
+{
+  "train_no": "G6304",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "饶平",
+  "depart_time": "07:41",
+  "arrive_time": "10:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "07:41",
+      "depart_time": "07:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南沙北",
+      "arrive_time": "07:54",
+      "depart_time": "07:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "08:18",
+      "depart_time": "08:24",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "09:13",
+      "depart_time": "09:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "陆丰",
+      "arrive_time": "09:28",
+      "depart_time": "09:34",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "普宁",
+      "arrive_time": "09:54",
+      "depart_time": "09:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "潮汕",
+      "arrive_time": "10:17",
+      "depart_time": "10:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "饶平",
+      "arrive_time": "10:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 673.5,
+    "price_first": 316.5,
+    "price_second": 209.5,
+    "price_no_seat": 209.5
+  },
+  "fetched_at": "2026-05-01T07:54:49.823175"
+}

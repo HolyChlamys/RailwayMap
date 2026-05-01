@@ -1,0 +1,51 @@
+{
+  "train_no": "D8813",
+  "train_type": "D",
+  "depart_station": "哈密",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "20:20",
+  "arrive_time": "22:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈密",
+      "arrive_time": "20:20",
+      "depart_time": "20:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吐哈",
+      "arrive_time": "21:33",
+      "depart_time": "21:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄯善北",
+      "arrive_time": "21:48",
+      "depart_time": "21:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "吐鲁番北",
+      "arrive_time": "22:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "22:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 266.0,
+    "price_second": 166.5,
+    "price_no_seat": 166.5
+  },
+  "fetched_at": "2026-05-01T05:05:44.392973"
+}

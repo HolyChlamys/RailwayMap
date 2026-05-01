@@ -1,0 +1,52 @@
+{
+  "train_no": "D5368",
+  "train_type": "D",
+  "depart_station": "太原",
+  "arrive_station": "天镇",
+  "depart_time": "09:52",
+  "arrive_time": "11:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原",
+      "arrive_time": "09:52",
+      "depart_time": "09:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "朔州东",
+      "arrive_time": "10:51",
+      "depart_time": "10:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "应县西",
+      "arrive_time": "11:20",
+      "depart_time": "11:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大同南",
+      "arrive_time": "11:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "天镇",
+      "arrive_time": "11:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 533.0,
+    "price_first": 263.0,
+    "price_second": 164.0,
+    "price_no_seat": 164.0
+  },
+  "fetched_at": "2026-05-01T04:05:14.826436"
+}

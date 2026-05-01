@@ -1,0 +1,65 @@
+{
+  "train_no": "C3186",
+  "train_type": "C",
+  "depart_station": "上海",
+  "arrive_station": "连云港",
+  "depart_time": "22:23",
+  "arrive_time": "00:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "22:23",
+      "depart_time": "22:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "22:54",
+      "depart_time": "22:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常州",
+      "arrive_time": "23:22",
+      "depart_time": "23:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "丹阳",
+      "arrive_time": "23:39",
+      "depart_time": "23:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "扬州东",
+      "arrive_time": "00:10",
+      "depart_time": "00:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "淮安东",
+      "arrive_time": "00:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "连云港",
+      "arrive_time": "00:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 442.0,
+    "price_second": 277.0,
+    "price_no_seat": 277.0
+  },
+  "fetched_at": "2026-05-01T00:53:25.675353"
+}

@@ -1,0 +1,49 @@
+{
+  "train_no": "K4180",
+  "train_type": "K",
+  "depart_station": "周口",
+  "arrive_station": "郑州",
+  "depart_time": "14:10",
+  "arrive_time": "16:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "周口",
+      "arrive_time": "14:10",
+      "depart_time": "14:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漯河",
+      "arrive_time": "15:37",
+      "depart_time": "15:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "许昌",
+      "arrive_time": "16:24",
+      "depart_time": "16:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长葛",
+      "arrive_time": "16:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州",
+      "arrive_time": "16:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T09:49:39.210314"
+}

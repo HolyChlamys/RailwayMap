@@ -1,0 +1,63 @@
+{
+  "train_no": "T6601",
+  "train_type": "T",
+  "depart_station": "兰州",
+  "arrive_station": "嘉峪关",
+  "depart_time": "21:59",
+  "arrive_time": "06:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州",
+      "arrive_time": "21:59",
+      "depart_time": "21:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兰州西",
+      "arrive_time": "22:16",
+      "depart_time": "22:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武威",
+      "arrive_time": "01:15",
+      "depart_time": "01:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "金昌",
+      "arrive_time": "02:04",
+      "depart_time": "02:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "张掖",
+      "arrive_time": "04:00",
+      "depart_time": "04:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "酒泉",
+      "arrive_time": "06:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "嘉峪关",
+      "arrive_time": "06:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T11:27:02.169144"
+}

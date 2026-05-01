@@ -1,0 +1,63 @@
+{
+  "train_no": "K152",
+  "train_type": "K",
+  "depart_station": "昆山",
+  "arrive_station": "郑州",
+  "depart_time": "22:32",
+  "arrive_time": "09:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆山",
+      "arrive_time": "22:32",
+      "depart_time": "22:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "22:57",
+      "depart_time": "23:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "常州",
+      "arrive_time": "23:52",
+      "depart_time": "23:56",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京",
+      "arrive_time": "01:21",
+      "depart_time": "01:29",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "商丘",
+      "arrive_time": "06:49",
+      "depart_time": "06:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "开封",
+      "arrive_time": "08:16",
+      "depart_time": "08:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州",
+      "arrive_time": "09:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 124.0
+  },
+  "fetched_at": "2026-05-01T09:36:33.930314"
+}

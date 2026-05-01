@@ -1,0 +1,63 @@
+{
+  "train_no": "T4379",
+  "train_type": "T",
+  "depart_station": "喀什",
+  "arrive_station": "和田",
+  "depart_time": "11:10",
+  "arrive_time": "18:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "喀什",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "英吉沙",
+      "arrive_time": "11:53",
+      "depart_time": "11:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莎车",
+      "arrive_time": "13:30",
+      "depart_time": "13:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泽普",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "皮山",
+      "arrive_time": "16:14",
+      "depart_time": "16:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "墨玉",
+      "arrive_time": "18:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "和田",
+      "arrive_time": "18:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T11:26:01.669632"
+}

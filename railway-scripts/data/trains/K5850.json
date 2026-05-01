@@ -1,0 +1,35 @@
+{
+  "train_no": "K5850",
+  "train_type": "K",
+  "depart_station": "樟树",
+  "arrive_station": "南昌",
+  "depart_time": "09:09",
+  "arrive_time": "09:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "樟树",
+      "arrive_time": "09:09",
+      "depart_time": "09:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丰城",
+      "arrive_time": "09:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌",
+      "arrive_time": "09:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 14.5
+  },
+  "fetched_at": "2026-05-01T10:15:14.905550"
+}

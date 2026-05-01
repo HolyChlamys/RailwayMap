@@ -1,0 +1,37 @@
+{
+  "train_no": "D4697",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "南宁东",
+  "depart_time": "23:56",
+  "arrive_time": "00:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "23:56",
+      "depart_time": "23:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳",
+      "arrive_time": "00:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南宁东",
+      "arrive_time": "00:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 412.0,
+    "price_second": 257.0,
+    "price_no_seat": 257.0
+  },
+  "fetched_at": "2026-05-01T03:55:30.569135"
+}

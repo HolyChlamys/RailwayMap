@@ -1,0 +1,57 @@
+{
+  "train_no": "C7903",
+  "train_type": "C",
+  "depart_station": "番禺",
+  "arrive_station": "惠州  北",
+  "depart_time": "13:56",
+  "arrive_time": "15:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "番禺",
+      "arrive_time": "13:56",
+      "depart_time": "13:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州长隆",
+      "arrive_time": "14:02",
+      "depart_time": "14:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "西平西",
+      "arrive_time": "14:28",
+      "depart_time": "14:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "松山湖北",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "云山",
+      "arrive_time": "15:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "惠州  北",
+      "arrive_time": "15:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 53.0,
+    "price_no_seat": 53.0
+  },
+  "fetched_at": "2026-05-01T02:27:40.700963"
+}

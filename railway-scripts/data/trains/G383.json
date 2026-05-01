@@ -1,0 +1,87 @@
+{
+  "train_no": "G383",
+  "train_type": "G",
+  "depart_station": "香港西九龙",
+  "arrive_station": "上海虹桥",
+  "depart_time": "14:05",
+  "arrive_time": "22:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香港西九龙",
+      "arrive_time": "14:05",
+      "depart_time": "14:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "14:23",
+      "depart_time": "14:27",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "14:58",
+      "depart_time": "15:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "衡阳东",
+      "arrive_time": "16:37",
+      "depart_time": "16:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "长沙南",
+      "arrive_time": "17:13",
+      "depart_time": "17:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "武汉",
+      "arrive_time": "18:28",
+      "depart_time": "18:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "合肥南",
+      "arrive_time": "20:14",
+      "depart_time": "20:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "南京南",
+      "arrive_time": "21:10",
+      "depart_time": "21:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "无锡东",
+      "arrive_time": "22:01",
+      "depart_time": "22:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "上海虹桥",
+      "arrive_time": "22:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3927.0,
+    "price_first": 1855.0,
+    "price_second": 1159.0,
+    "price_no_seat": 1159.0
+  },
+  "fetched_at": "2026-05-01T06:48:38.734946"
+}

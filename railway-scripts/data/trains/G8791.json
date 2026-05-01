@@ -1,0 +1,79 @@
+{
+  "train_no": "G8791",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "泸州",
+  "depart_time": "09:00",
+  "arrive_time": "10:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "资阳北",
+      "arrive_time": "09:27",
+      "depart_time": "09:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "内江北",
+      "arrive_time": "09:48",
+      "depart_time": "09:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "内江东",
+      "arrive_time": "10:04",
+      "depart_time": "10:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "白马北",
+      "arrive_time": "10:12",
+      "depart_time": "10:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "自贡",
+      "arrive_time": "10:25",
+      "depart_time": "10:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "富顺",
+      "arrive_time": "10:37",
+      "depart_time": "10:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "泸县",
+      "arrive_time": "10:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "泸州",
+      "arrive_time": "10:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 203.0,
+    "price_second": 126.0,
+    "price_no_seat": 126.0
+  },
+  "fetched_at": "2026-05-01T09:00:37.998727"
+}

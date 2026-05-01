@@ -1,0 +1,98 @@
+{
+  "train_no": "T171",
+  "train_type": "T",
+  "depart_station": "南昌",
+  "arrive_station": "广州东",
+  "depart_time": "18:16",
+  "arrive_time": "07:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "18:16",
+      "depart_time": "18:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "向塘",
+      "arrive_time": "18:38",
+      "depart_time": "18:43",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "丰城",
+      "arrive_time": "19:10",
+      "depart_time": "19:15",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "樟树",
+      "arrive_time": "19:31",
+      "depart_time": "19:36",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "新余",
+      "arrive_time": "20:16",
+      "depart_time": "20:21",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "分宜",
+      "arrive_time": "20:40",
+      "depart_time": "20:52",
+      "stay_min": "12"
+    },
+    {
+      "seq": 7,
+      "station_name": "宜春",
+      "arrive_time": "21:08",
+      "depart_time": "21:13",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "萍乡",
+      "arrive_time": "21:52",
+      "depart_time": "21:57",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "株洲",
+      "arrive_time": "22:46",
+      "depart_time": "23:07",
+      "stay_min": "21"
+    },
+    {
+      "seq": 10,
+      "station_name": "衡阳",
+      "arrive_time": "00:32",
+      "depart_time": "00:41",
+      "stay_min": "9"
+    },
+    {
+      "seq": 11,
+      "station_name": "广州白云",
+      "arrive_time": "06:46",
+      "depart_time": "06:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "广州东",
+      "arrive_time": "07:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 128.5
+  },
+  "fetched_at": "2026-05-01T11:22:28.263978"
+}

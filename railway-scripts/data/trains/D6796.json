@@ -1,0 +1,44 @@
+{
+  "train_no": "D6796",
+  "train_type": "D",
+  "depart_station": "巴彦淖尔",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "11:20",
+  "arrive_time": "13:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "11:20",
+      "depart_time": "11:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "包头",
+      "arrive_time": "12:27",
+      "depart_time": "12:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "呼和浩特",
+      "arrive_time": "13:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "呼和浩特东",
+      "arrive_time": "13:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 310.0,
+    "price_second": 194.0,
+    "price_no_seat": 194.0
+  },
+  "fetched_at": "2026-05-01T04:28:54.925158"
+}

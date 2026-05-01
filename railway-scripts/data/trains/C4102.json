@@ -1,0 +1,50 @@
+{
+  "train_no": "C4102",
+  "train_type": "C",
+  "depart_station": "深圳",
+  "arrive_station": "岳阳",
+  "depart_time": "23:10",
+  "arrive_time": "09:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "23:10",
+      "depart_time": "23:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲",
+      "arrive_time": "07:44",
+      "depart_time": "07:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙",
+      "arrive_time": "08:28",
+      "depart_time": "08:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "岳阳南",
+      "arrive_time": "09:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "岳阳",
+      "arrive_time": "09:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 309.0,
+    "price_no_seat": 309.0
+  },
+  "fetched_at": "2026-05-01T01:08:39.844239"
+}

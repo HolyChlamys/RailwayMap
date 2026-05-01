@@ -1,0 +1,52 @@
+{
+  "train_no": "G9286",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "界首南",
+  "depart_time": "14:00",
+  "arrive_time": "15:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "14:00",
+      "depart_time": "14:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮南南",
+      "arrive_time": "14:41",
+      "depart_time": "14:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "寿县",
+      "arrive_time": "15:00",
+      "depart_time": "15:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阜阳西",
+      "arrive_time": "15:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "界首南",
+      "arrive_time": "15:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 495.0,
+    "price_first": 263.5,
+    "price_second": 164.5,
+    "price_no_seat": 164.5
+  },
+  "fetched_at": "2026-05-01T09:10:21.311452"
+}

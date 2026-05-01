@@ -1,0 +1,45 @@
+{
+  "train_no": "G5370",
+  "train_type": "G",
+  "depart_station": "菏泽东",
+  "arrive_station": "济南西",
+  "depart_time": "21:25",
+  "arrive_time": "22:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "菏泽东",
+      "arrive_time": "21:25",
+      "depart_time": "21:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济宁北",
+      "arrive_time": "21:55",
+      "depart_time": "21:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "曲阜东",
+      "arrive_time": "22:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "济南西",
+      "arrive_time": "22:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 564.0,
+    "price_first": 258.0,
+    "price_second": 161.0,
+    "price_no_seat": 161.0
+  },
+  "fetched_at": "2026-05-01T07:32:15.972285"
+}

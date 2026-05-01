@@ -1,0 +1,58 @@
+{
+  "train_no": "C183",
+  "train_type": "C",
+  "depart_station": "西安",
+  "arrive_station": "宝鸡",
+  "depart_time": "08:58",
+  "arrive_time": "10:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "08:58",
+      "depart_time": "08:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳",
+      "arrive_time": "09:23",
+      "depart_time": "09:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武功",
+      "arrive_time": "09:52",
+      "depart_time": "09:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杨陵",
+      "arrive_time": "10:05",
+      "depart_time": "10:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "蔡家坡",
+      "arrive_time": "10:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宝鸡",
+      "arrive_time": "10:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 85.0,
+    "price_second": 53.0,
+    "price_no_seat": 53.0
+  },
+  "fetched_at": "2026-05-01T00:27:36.808624"
+}

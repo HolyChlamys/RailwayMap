@@ -1,0 +1,73 @@
+{
+  "train_no": "G6600",
+  "train_type": "G",
+  "depart_station": "广州东",
+  "arrive_station": "揭阳",
+  "depart_time": "08:44",
+  "arrive_time": "11:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "08:44",
+      "depart_time": "08:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "09:09",
+      "depart_time": "09:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "增城",
+      "arrive_time": "09:26",
+      "depart_time": "09:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "10:15",
+      "depart_time": "10:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "普宁",
+      "arrive_time": "10:46",
+      "depart_time": "10:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "潮汕",
+      "arrive_time": "11:20",
+      "depart_time": "11:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "揭阳机场",
+      "arrive_time": "11:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "揭阳",
+      "arrive_time": "11:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 906.0,
+    "price_first": 407.0,
+    "price_second": 261.0,
+    "price_no_seat": 261.0
+  },
+  "fetched_at": "2026-05-01T08:03:39.150255"
+}

@@ -1,0 +1,66 @@
+{
+  "train_no": "G9868",
+  "train_type": "G",
+  "depart_station": "厦门",
+  "arrive_station": "南平市",
+  "depart_time": "19:14",
+  "arrive_time": "21:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "19:14",
+      "depart_time": "19:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "厦门北",
+      "arrive_time": "19:38",
+      "depart_time": "19:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泉州南",
+      "arrive_time": "19:59",
+      "depart_time": "19:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "莆田",
+      "arrive_time": "20:25",
+      "depart_time": "20:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福州",
+      "arrive_time": "21:05",
+      "depart_time": "21:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "延平",
+      "arrive_time": "21:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南平市",
+      "arrive_time": "21:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 887.0,
+    "price_first": 430.0,
+    "price_second": 263.5,
+    "price_no_seat": 263.5
+  },
+  "fetched_at": "2026-05-01T09:26:39.791719"
+}

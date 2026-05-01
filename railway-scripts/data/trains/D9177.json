@@ -1,0 +1,52 @@
+{
+  "train_no": "D9177",
+  "train_type": "D",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "牡丹江",
+  "depart_time": "16:17",
+  "arrive_time": "17:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "16:17",
+      "depart_time": "16:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阿城北",
+      "arrive_time": "16:49",
+      "depart_time": "16:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "尚志南",
+      "arrive_time": "17:18",
+      "depart_time": "17:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "苇河西",
+      "arrive_time": "17:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "牡丹江",
+      "arrive_time": "17:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 354.0,
+    "price_first": 189.0,
+    "price_second": 118.0,
+    "price_no_seat": 118.0
+  },
+  "fetched_at": "2026-05-01T05:09:11.675529"
+}

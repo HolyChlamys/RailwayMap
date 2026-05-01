@@ -25,10 +25,8 @@ public class SecurityConfig {
             .sessionManagement(sm -> sm.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
             .authorizeHttpRequests(auth -> auth
                 .requestMatchers(
-                    "/api/health", "/api/tiles/**", "/api/stations/search",
-                    "/api/stations/city/**", "/api/stations/{id}",
-                    "/api/stations/between", "/api/trains/search",
-                    "/api/trains/**/route", "/api/transfer/search",
+                    "/api/health", "/api/tiles/**", "/api/stations/**",
+                    "/api/trains/search", "/api/trains/**", "/api/transfer/search",
                     "/api/auth/**"
                 ).permitAll()
                 .requestMatchers("/api/favorites/**", "/api/history/**").authenticated()

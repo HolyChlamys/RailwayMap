@@ -1,0 +1,52 @@
+{
+  "train_no": "C3288",
+  "train_type": "C",
+  "depart_station": "乐清",
+  "arrive_station": "六安",
+  "depart_time": "22:25",
+  "arrive_time": "02:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乐清",
+      "arrive_time": "22:25",
+      "depart_time": "22:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "温岭",
+      "arrive_time": "22:49",
+      "depart_time": "22:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "23:59",
+      "depart_time": "00:06",
+      "stay_min": "1433"
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥南",
+      "arrive_time": "01:54",
+      "depart_time": "01:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "六安",
+      "arrive_time": "02:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1427.0,
+    "price_first": 690.0,
+    "price_second": 432.0,
+    "price_no_seat": 432.0
+  },
+  "fetched_at": "2026-05-01T00:56:05.084659"
+}

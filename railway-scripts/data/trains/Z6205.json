@@ -1,0 +1,70 @@
+{
+  "train_no": "Z6205",
+  "train_type": "Z",
+  "depart_station": "兰州",
+  "arrive_station": "嘉峪关",
+  "depart_time": "07:44",
+  "arrive_time": "15:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州",
+      "arrive_time": "07:44",
+      "depart_time": "07:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兰州西",
+      "arrive_time": "07:59",
+      "depart_time": "07:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武威",
+      "arrive_time": "10:49",
+      "depart_time": "10:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "金昌",
+      "arrive_time": "11:29",
+      "depart_time": "11:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "山丹",
+      "arrive_time": "12:41",
+      "depart_time": "12:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "张掖",
+      "arrive_time": "13:19",
+      "depart_time": "13:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "酒泉",
+      "arrive_time": "15:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "嘉峪关",
+      "arrive_time": "15:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T11:50:52.809612"
+}

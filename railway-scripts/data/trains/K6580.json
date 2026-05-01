@@ -1,0 +1,42 @@
+{
+  "train_no": "K6580",
+  "train_type": "K",
+  "depart_station": "怀化",
+  "arrive_station": "深圳",
+  "depart_time": "20:40",
+  "arrive_time": "12:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "怀化",
+      "arrive_time": "20:40",
+      "depart_time": "20:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州北",
+      "arrive_time": "10:38",
+      "depart_time": "10:43",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "东莞",
+      "arrive_time": "11:40",
+      "depart_time": "11:45",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳",
+      "arrive_time": "12:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 169.5
+  },
+  "fetched_at": "2026-05-01T10:23:23.834826"
+}

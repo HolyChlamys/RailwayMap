@@ -1,0 +1,59 @@
+{
+  "train_no": "C3016",
+  "train_type": "C",
+  "depart_station": "宜兴",
+  "arrive_station": "上海南",
+  "depart_time": "13:17",
+  "arrive_time": "15:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜兴",
+      "arrive_time": "13:17",
+      "depart_time": "13:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "湖州东",
+      "arrive_time": "13:42",
+      "depart_time": "13:43",
+      "stay_min": "1"
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州南",
+      "arrive_time": "14:06",
+      "depart_time": "14:12",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "练塘",
+      "arrive_time": "14:22",
+      "depart_time": "14:29",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "上海松江",
+      "arrive_time": "14:38",
+      "depart_time": "14:47",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "上海南",
+      "arrive_time": "15:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 367.0,
+    "price_first": 168.0,
+    "price_second": 105.0,
+    "price_no_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T00:48:43.778736"
+}

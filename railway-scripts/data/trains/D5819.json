@@ -1,0 +1,59 @@
+{
+  "train_no": "D5819",
+  "train_type": "D",
+  "depart_station": "武汉",
+  "arrive_station": "宜昌东",
+  "depart_time": "06:34",
+  "arrive_time": "09:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "06:34",
+      "depart_time": "06:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "06:53",
+      "depart_time": "07:01",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "仙桃西",
+      "arrive_time": "07:45",
+      "depart_time": "07:53",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "潜江",
+      "arrive_time": "08:04",
+      "depart_time": "08:11",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "荆州",
+      "arrive_time": "08:37",
+      "depart_time": "08:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "宜昌东",
+      "arrive_time": "09:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 494.0,
+    "price_first": 228.0,
+    "price_second": 143.0,
+    "price_no_seat": 143.0
+  },
+  "fetched_at": "2026-05-01T04:11:55.759582"
+}

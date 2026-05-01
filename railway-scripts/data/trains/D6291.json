@@ -1,0 +1,58 @@
+{
+  "train_no": "D6291",
+  "train_type": "D",
+  "depart_station": "平潭",
+  "arrive_station": "厦门",
+  "depart_time": "10:45",
+  "arrive_time": "13:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "平潭",
+      "arrive_time": "10:45",
+      "depart_time": "10:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长乐东",
+      "arrive_time": "11:03",
+      "depart_time": "11:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "福州南",
+      "arrive_time": "11:21",
+      "depart_time": "11:39",
+      "stay_min": "18"
+    },
+    {
+      "seq": 4,
+      "station_name": "莆田",
+      "arrive_time": "12:08",
+      "depart_time": "12:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "泉州",
+      "arrive_time": "12:36",
+      "depart_time": "12:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "厦门",
+      "arrive_time": "13:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 244.0,
+    "price_second": 153.0,
+    "price_no_seat": 153.0
+  },
+  "fetched_at": "2026-05-01T04:20:28.175059"
+}

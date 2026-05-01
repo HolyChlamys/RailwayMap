@@ -1,0 +1,28 @@
+{
+  "train_no": "Y968",
+  "train_type": "Y",
+  "depart_station": "天津北",
+  "arrive_station": "蓟州北",
+  "depart_time": "16:00",
+  "arrive_time": "16:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津北",
+      "arrive_time": "16:00",
+      "depart_time": "16:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蓟州北",
+      "arrive_time": "16:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 177.5
+  },
+  "fetched_at": "2026-05-01T11:42:24.175175"
+}

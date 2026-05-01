@@ -1,0 +1,52 @@
+{
+  "train_no": "G3682",
+  "train_type": "G",
+  "depart_station": "石家庄",
+  "arrive_station": "天津西",
+  "depart_time": "13:17",
+  "arrive_time": "16:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石家庄",
+      "arrive_time": "13:17",
+      "depart_time": "13:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衡水北",
+      "arrive_time": "13:55",
+      "depart_time": "13:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "平原东",
+      "arrive_time": "14:30",
+      "depart_time": "14:50",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "沧州西",
+      "arrive_time": "15:30",
+      "depart_time": "15:38",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "天津西",
+      "arrive_time": "16:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 648.0,
+    "price_first": 313.0,
+    "price_second": 196.0,
+    "price_no_seat": 196.0
+  },
+  "fetched_at": "2026-05-01T06:44:50.485295"
+}

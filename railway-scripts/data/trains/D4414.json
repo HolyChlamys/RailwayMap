@@ -1,0 +1,72 @@
+{
+  "train_no": "D4414",
+  "train_type": "D",
+  "depart_station": "南通",
+  "arrive_station": "汉口",
+  "depart_time": "20:45",
+  "arrive_time": "01:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南通",
+      "arrive_time": "20:45",
+      "depart_time": "20:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "如皋",
+      "arrive_time": "21:10",
+      "depart_time": "21:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "海安",
+      "arrive_time": "21:24",
+      "depart_time": "21:27",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "姜堰",
+      "arrive_time": "21:45",
+      "depart_time": "21:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "泰州",
+      "arrive_time": "21:57",
+      "depart_time": "22:00",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州",
+      "arrive_time": "22:32",
+      "depart_time": "22:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "合肥南",
+      "arrive_time": "23:59",
+      "depart_time": "00:03",
+      "stay_min": "1436"
+    },
+    {
+      "seq": 8,
+      "station_name": "汉口",
+      "arrive_time": "01:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 515.0,
+    "price_second": 322.0,
+    "price_no_seat": 322.0
+  },
+  "fetched_at": "2026-05-01T03:49:57.833736"
+}

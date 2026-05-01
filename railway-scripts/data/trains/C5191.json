@@ -1,0 +1,38 @@
+{
+  "train_no": "C5191",
+  "train_type": "C",
+  "depart_station": "南昌西",
+  "arrive_station": "新余北",
+  "depart_time": "07:33",
+  "arrive_time": "07:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "07:33",
+      "depart_time": "07:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高安",
+      "arrive_time": "07:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新余北",
+      "arrive_time": "07:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 244.0,
+    "price_first": 112.0,
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T01:29:10.047661"
+}

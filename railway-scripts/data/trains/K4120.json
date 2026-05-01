@@ -1,0 +1,49 @@
+{
+  "train_no": "K4120",
+  "train_type": "K",
+  "depart_station": "齐齐哈尔",
+  "arrive_station": "白城",
+  "depart_time": "08:45",
+  "arrive_time": "11:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "齐齐哈尔",
+      "arrive_time": "08:45",
+      "depart_time": "08:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "平洋",
+      "arrive_time": "10:21",
+      "depart_time": "10:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泰来",
+      "arrive_time": "10:52",
+      "depart_time": "10:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "镇赉",
+      "arrive_time": "11:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "白城",
+      "arrive_time": "11:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T09:48:09.683328"
+}

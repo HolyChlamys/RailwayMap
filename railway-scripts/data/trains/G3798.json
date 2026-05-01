@@ -1,0 +1,101 @@
+{
+  "train_no": "G3798",
+  "train_type": "G",
+  "depart_station": "六盘水",
+  "arrive_station": "广州南",
+  "depart_time": "15:16",
+  "arrive_time": "21:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "六盘水",
+      "arrive_time": "15:16",
+      "depart_time": "15:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "六盘水东",
+      "arrive_time": "15:30",
+      "depart_time": "15:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "冷坝",
+      "arrive_time": "15:42",
+      "depart_time": "15:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "六枝南",
+      "arrive_time": "16:00",
+      "depart_time": "16:03",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "黄桶北",
+      "arrive_time": "16:17",
+      "depart_time": "16:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳北",
+      "arrive_time": "16:59",
+      "depart_time": "17:07",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "贵定县",
+      "arrive_time": "17:38",
+      "depart_time": "17:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "都匀东",
+      "arrive_time": "17:56",
+      "depart_time": "17:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "从江",
+      "arrive_time": "18:39",
+      "depart_time": "18:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "三江南",
+      "arrive_time": "18:58",
+      "depart_time": "19:05",
+      "stay_min": "7"
+    },
+    {
+      "seq": 11,
+      "station_name": "桂林西",
+      "arrive_time": "19:29",
+      "depart_time": "19:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "广州南",
+      "arrive_time": "21:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1905.5,
+    "price_first": 885.0,
+    "price_second": 553.0,
+    "price_no_seat": 553.0
+  },
+  "fetched_at": "2026-05-01T06:47:44.416203"
+}

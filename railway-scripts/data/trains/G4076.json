@@ -1,0 +1,136 @@
+{
+  "train_no": "G4076",
+  "train_type": "G",
+  "depart_station": "杭州西",
+  "arrive_station": "濮阳东",
+  "depart_time": "09:22",
+  "arrive_time": "16:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "09:22",
+      "depart_time": "09:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "湖州",
+      "arrive_time": "09:46",
+      "depart_time": "09:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "长兴",
+      "arrive_time": "09:57",
+      "depart_time": "09:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宜兴",
+      "arrive_time": "10:12",
+      "depart_time": "10:17",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "溧阳",
+      "arrive_time": "10:28",
+      "depart_time": "10:40",
+      "stay_min": "12"
+    },
+    {
+      "seq": 6,
+      "station_name": "溧水",
+      "arrive_time": "10:56",
+      "depart_time": "10:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京南",
+      "arrive_time": "11:13",
+      "depart_time": "11:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "全椒",
+      "arrive_time": "11:35",
+      "depart_time": "11:57",
+      "stay_min": "22"
+    },
+    {
+      "seq": 9,
+      "station_name": "合肥",
+      "arrive_time": "12:32",
+      "depart_time": "12:38",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "淮南南",
+      "arrive_time": "13:07",
+      "depart_time": "13:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "临泉",
+      "arrive_time": "13:58",
+      "depart_time": "14:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "界首南",
+      "arrive_time": "14:10",
+      "depart_time": "14:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "淮阳南",
+      "arrive_time": "14:26",
+      "depart_time": "14:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "周口东",
+      "arrive_time": "14:38",
+      "depart_time": "14:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 15,
+      "station_name": "郑州航空港",
+      "arrive_time": "15:21",
+      "depart_time": "15:36",
+      "stay_min": "15"
+    },
+    {
+      "seq": 16,
+      "station_name": "郑州东",
+      "arrive_time": "15:53",
+      "depart_time": "15:58",
+      "stay_min": "5"
+    },
+    {
+      "seq": 17,
+      "station_name": "濮阳东",
+      "arrive_time": "16:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1999.0,
+    "price_first": 993.0,
+    "price_second": 620.0,
+    "price_no_seat": 620.0
+  },
+  "fetched_at": "2026-05-01T06:55:04.976079"
+}

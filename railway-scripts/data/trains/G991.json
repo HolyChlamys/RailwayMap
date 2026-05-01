@@ -1,0 +1,213 @@
+{
+  "train_no": "G991",
+  "train_type": "G",
+  "depart_station": "青岛",
+  "arrive_station": "厦门",
+  "depart_time": "08:08",
+  "arrive_time": "20:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛",
+      "arrive_time": "08:08",
+      "depart_time": "08:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高密",
+      "arrive_time": "08:56",
+      "depart_time": "08:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊",
+      "arrive_time": "09:27",
+      "depart_time": "09:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "青州市",
+      "arrive_time": "09:51",
+      "depart_time": "09:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "淄博",
+      "arrive_time": "10:11",
+      "depart_time": "10:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "章丘",
+      "arrive_time": "10:37",
+      "depart_time": "10:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "济南",
+      "arrive_time": "11:04",
+      "depart_time": "11:08",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "泰安",
+      "arrive_time": "11:32",
+      "depart_time": "11:45",
+      "stay_min": "13"
+    },
+    {
+      "seq": 9,
+      "station_name": "徐州东",
+      "arrive_time": "12:37",
+      "depart_time": "12:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "蚌埠南",
+      "arrive_time": "13:16",
+      "depart_time": "13:21",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "合肥西",
+      "arrive_time": "14:01",
+      "depart_time": "14:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "合肥南",
+      "arrive_time": "14:16",
+      "depart_time": "14:22",
+      "stay_min": "6"
+    },
+    {
+      "seq": 13,
+      "station_name": "巢湖东",
+      "arrive_time": "14:43",
+      "depart_time": "14:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "铜陵北",
+      "arrive_time": "15:05",
+      "depart_time": "15:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "南陵",
+      "arrive_time": "15:19",
+      "depart_time": "15:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "旌德",
+      "arrive_time": "15:40",
+      "depart_time": "15:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "绩溪北",
+      "arrive_time": "15:53",
+      "depart_time": "15:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "黄山北",
+      "arrive_time": "16:11",
+      "depart_time": "16:14",
+      "stay_min": "3"
+    },
+    {
+      "seq": 19,
+      "station_name": "上饶",
+      "arrive_time": "16:54",
+      "depart_time": "16:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 20,
+      "station_name": "南平市",
+      "arrive_time": "17:25",
+      "depart_time": "17:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 21,
+      "station_name": "延平",
+      "arrive_time": "17:54",
+      "depart_time": "17:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 22,
+      "station_name": "古田北",
+      "arrive_time": "18:10",
+      "depart_time": "18:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 23,
+      "station_name": "福州",
+      "arrive_time": "18:39",
+      "depart_time": "18:43",
+      "stay_min": "4"
+    },
+    {
+      "seq": 24,
+      "station_name": "福州南",
+      "arrive_time": "18:58",
+      "depart_time": "19:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 25,
+      "station_name": "莆田",
+      "arrive_time": "19:24",
+      "depart_time": "19:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 26,
+      "station_name": "泉州南",
+      "arrive_time": "19:50",
+      "depart_time": "19:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 27,
+      "station_name": "厦门北",
+      "arrive_time": "20:11",
+      "depart_time": "20:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 28,
+      "station_name": "厦门",
+      "arrive_time": "20:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3212.0,
+    "price_first": 1570.0,
+    "price_second": 959.5,
+    "price_no_seat": 959.5
+  },
+  "fetched_at": "2026-05-01T09:27:52.252344"
+}

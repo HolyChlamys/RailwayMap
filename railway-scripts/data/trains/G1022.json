@@ -1,0 +1,101 @@
+{
+  "train_no": "G1022",
+  "train_type": "G",
+  "depart_station": "珠海",
+  "arrive_station": "福州南",
+  "depart_time": "07:56",
+  "arrive_time": "14:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "中山",
+      "arrive_time": "08:20",
+      "depart_time": "08:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "08:53",
+      "depart_time": "09:13",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "虎门",
+      "arrive_time": "09:30",
+      "depart_time": "09:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "09:50",
+      "depart_time": "10:04",
+      "stay_min": "14"
+    },
+    {
+      "seq": 6,
+      "station_name": "潮阳",
+      "arrive_time": "11:23",
+      "depart_time": "11:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "潮汕",
+      "arrive_time": "11:38",
+      "depart_time": "11:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "漳州",
+      "arrive_time": "12:32",
+      "depart_time": "12:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "厦门北",
+      "arrive_time": "12:52",
+      "depart_time": "12:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "泉州南",
+      "arrive_time": "13:12",
+      "depart_time": "13:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "莆田",
+      "arrive_time": "13:38",
+      "depart_time": "13:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "福州南",
+      "arrive_time": "14:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1714.5,
+    "price_first": 788.5,
+    "price_second": 518.5,
+    "price_no_seat": 518.5
+  },
+  "fetched_at": "2026-05-01T05:30:45.634750"
+}

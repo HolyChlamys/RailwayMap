@@ -1,0 +1,29 @@
+{
+  "train_no": "C5820",
+  "train_type": "C",
+  "depart_station": "贵阳北",
+  "arrive_station": "毕节",
+  "depart_time": "19:36",
+  "arrive_time": "19:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "19:36",
+      "depart_time": "19:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "毕节",
+      "arrive_time": "19:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 77.0,
+    "price_no_seat": 77.0
+  },
+  "fetched_at": "2026-05-01T01:39:16.824205"
+}

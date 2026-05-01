@@ -1,0 +1,51 @@
+{
+  "train_no": "C5661",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "宜宾西",
+  "depart_time": "20:13",
+  "arrive_time": "21:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "20:13",
+      "depart_time": "20:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "双流机场",
+      "arrive_time": "20:30",
+      "depart_time": "20:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "眉山东",
+      "arrive_time": "20:52",
+      "depart_time": "20:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "乐山",
+      "arrive_time": "21:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜宾西",
+      "arrive_time": "21:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 176.0,
+    "price_second": 110.0,
+    "price_no_seat": 110.0
+  },
+  "fetched_at": "2026-05-01T01:36:33.255588"
+}

@@ -1,0 +1,71 @@
+{
+  "train_no": "D911",
+  "train_type": "D",
+  "depart_station": "惠州北",
+  "arrive_station": "上海",
+  "depart_time": "19:10",
+  "arrive_time": "07:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "惠州北",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞南",
+      "arrive_time": "19:27",
+      "depart_time": "19:33",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "19:55",
+      "depart_time": "20:00",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "潮汕",
+      "arrive_time": "21:40",
+      "depart_time": "21:47",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州东",
+      "arrive_time": "05:29",
+      "depart_time": "05:40",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "上海松江",
+      "arrive_time": "06:19",
+      "depart_time": "06:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "上海虹桥",
+      "arrive_time": "06:35",
+      "depart_time": "06:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "上海",
+      "arrive_time": "07:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 777.0,
+    "price_no_seat": 777.0
+  },
+  "fetched_at": "2026-05-01T05:07:21.780509"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G3585",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "南宁东",
+  "depart_time": "17:42",
+  "arrive_time": "21:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "17:42",
+      "depart_time": "17:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "19:03",
+      "depart_time": "19:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "遵义",
+      "arrive_time": "20:23",
+      "depart_time": "20:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "21:18",
+      "depart_time": "21:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳",
+      "arrive_time": "21:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南宁东",
+      "arrive_time": "21:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1974.0,
+    "price_first": 938.0,
+    "price_second": 586.0,
+    "price_no_seat": 586.0
+  },
+  "fetched_at": "2026-05-01T06:42:01.447150"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "G5415",
+  "train_type": "G",
+  "depart_station": "成都南",
+  "arrive_station": "重庆西",
+  "depart_time": "10:26",
+  "arrive_time": "12:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "10:26",
+      "depart_time": "10:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乐山",
+      "arrive_time": "11:07",
+      "depart_time": "11:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "宜宾",
+      "arrive_time": "11:53",
+      "depart_time": "11:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆西",
+      "arrive_time": "12:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 389.0,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T07:33:22.174334"
+}

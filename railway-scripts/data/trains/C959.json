@@ -1,0 +1,29 @@
+{
+  "train_no": "C959",
+  "train_type": "C",
+  "depart_station": "郑州",
+  "arrive_station": "洛阳",
+  "depart_time": "09:04",
+  "arrive_time": "09:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州",
+      "arrive_time": "09:04",
+      "depart_time": "09:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛阳",
+      "arrive_time": "09:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 38.0,
+    "price_no_seat": 38.0
+  },
+  "fetched_at": "2026-05-01T02:50:06.800788"
+}

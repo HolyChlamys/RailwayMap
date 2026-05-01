@@ -1,0 +1,52 @@
+{
+  "train_no": "G4483",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "南阳东",
+  "depart_time": "02:05",
+  "arrive_time": "07:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "02:05",
+      "depart_time": "02:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "03:12",
+      "depart_time": "03:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "04:28",
+      "depart_time": "04:33",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "06:02",
+      "depart_time": "06:08",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "南阳东",
+      "arrive_time": "07:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2140.0,
+    "price_first": 1037.5,
+    "price_second": 648.5,
+    "price_no_seat": 648.5
+  },
+  "fetched_at": "2026-05-01T07:06:44.310338"
+}

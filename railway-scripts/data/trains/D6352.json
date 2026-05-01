@@ -1,0 +1,72 @@
+{
+  "train_no": "D6352",
+  "train_type": "D",
+  "depart_station": "南昌",
+  "arrive_station": "景德镇北",
+  "depart_time": "11:23",
+  "arrive_time": "13:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "11:23",
+      "depart_time": "11:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌南",
+      "arrive_time": "11:38",
+      "depart_time": "11:53",
+      "stay_min": "15"
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌东",
+      "arrive_time": "12:05",
+      "depart_time": "12:10",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "进贤北",
+      "arrive_time": "12:23",
+      "depart_time": "12:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "余干",
+      "arrive_time": "12:37",
+      "depart_time": "12:42",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "鄱阳",
+      "arrive_time": "12:53",
+      "depart_time": "12:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "乐平北",
+      "arrive_time": "13:07",
+      "depart_time": "13:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "景德镇北",
+      "arrive_time": "13:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 161.0,
+    "price_second": 101.0,
+    "price_no_seat": 101.0
+  },
+  "fetched_at": "2026-05-01T04:21:45.397095"
+}

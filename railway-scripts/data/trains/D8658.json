@@ -1,0 +1,58 @@
+{
+  "train_no": "D8658",
+  "train_type": "D",
+  "depart_station": "大理",
+  "arrive_station": "昆明南",
+  "depart_time": "17:51",
+  "arrive_time": "20:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "云南驿",
+      "arrive_time": "18:18",
+      "depart_time": "18:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "楚雄",
+      "arrive_time": "18:54",
+      "depart_time": "18:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "禄丰南",
+      "arrive_time": "19:23",
+      "depart_time": "19:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明",
+      "arrive_time": "20:03",
+      "depart_time": "20:12",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明南",
+      "arrive_time": "20:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 231.0,
+    "price_second": 145.0,
+    "price_no_seat": 145.0
+  },
+  "fetched_at": "2026-05-01T05:02:04.774580"
+}

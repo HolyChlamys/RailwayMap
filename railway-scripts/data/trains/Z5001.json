@@ -1,0 +1,40 @@
+{
+  "train_no": "Z5001",
+  "train_type": "Z",
+  "depart_station": "长春",
+  "arrive_station": "白城",
+  "depart_time": "10:44",
+  "arrive_time": "13:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "10:44",
+      "depart_time": "10:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "松原",
+      "arrive_time": "12:21",
+      "depart_time": "12:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大安",
+      "arrive_time": "13:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "白城",
+      "arrive_time": "13:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:49:38.585028"
+}

@@ -1,0 +1,70 @@
+{
+  "train_no": "K5856",
+  "train_type": "K",
+  "depart_station": "九江",
+  "arrive_station": "上饶",
+  "depart_time": "12:35",
+  "arrive_time": "17:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "九江",
+      "arrive_time": "12:35",
+      "depart_time": "12:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "共青城",
+      "arrive_time": "13:15",
+      "depart_time": "13:21",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌",
+      "arrive_time": "14:12",
+      "depart_time": "14:36",
+      "stay_min": "24"
+    },
+    {
+      "seq": 4,
+      "station_name": "进贤",
+      "arrive_time": "15:22",
+      "depart_time": "15:26",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "东乡",
+      "arrive_time": "15:51",
+      "depart_time": "15:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "鹰潭",
+      "arrive_time": "16:23",
+      "depart_time": "16:29",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "贵溪",
+      "arrive_time": "16:45",
+      "depart_time": "16:49",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "上饶",
+      "arrive_time": "17:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 54.5
+  },
+  "fetched_at": "2026-05-01T10:15:23.161973"
+}

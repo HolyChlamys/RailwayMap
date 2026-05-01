@@ -1,0 +1,80 @@
+{
+  "train_no": "G3777",
+  "train_type": "G",
+  "depart_station": "广州白云",
+  "arrive_station": "柳州",
+  "depart_time": "11:35",
+  "arrive_time": "15:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "11:35",
+      "depart_time": "11:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "11:56",
+      "depart_time": "11:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "广宁",
+      "arrive_time": "12:29",
+      "depart_time": "12:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "贺州",
+      "arrive_time": "13:06",
+      "depart_time": "13:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "阳朔",
+      "arrive_time": "13:40",
+      "depart_time": "13:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "桂林北",
+      "arrive_time": "14:05",
+      "depart_time": "14:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "桂林",
+      "arrive_time": "14:18",
+      "depart_time": "14:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "永福南",
+      "arrive_time": "14:40",
+      "depart_time": "14:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "柳州",
+      "arrive_time": "15:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1006.0,
+    "price_first": 472.0,
+    "price_second": 294.5,
+    "price_no_seat": 294.5
+  },
+  "fetched_at": "2026-05-01T06:47:09.455805"
+}

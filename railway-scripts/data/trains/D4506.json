@@ -1,0 +1,66 @@
+{
+  "train_no": "D4506",
+  "train_type": "D",
+  "depart_station": "兰州西",
+  "arrive_station": "西安北",
+  "depart_time": "21:26",
+  "arrive_time": "00:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "21:26",
+      "depart_time": "21:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "定西北",
+      "arrive_time": "21:58",
+      "depart_time": "21:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "通渭",
+      "arrive_time": "22:24",
+      "depart_time": "22:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "天水南",
+      "arrive_time": "22:56",
+      "depart_time": "22:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宝鸡南",
+      "arrive_time": "23:39",
+      "depart_time": "23:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "咸阳西",
+      "arrive_time": "00:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "西安北",
+      "arrive_time": "00:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 599.5,
+    "price_first": 320.5,
+    "price_second": 199.5,
+    "price_no_seat": 199.5
+  },
+  "fetched_at": "2026-05-01T03:52:11.510644"
+}

@@ -1,0 +1,51 @@
+{
+  "train_no": "D8305",
+  "train_type": "D",
+  "depart_station": "南宁",
+  "arrive_station": "北海",
+  "depart_time": "07:35",
+  "arrive_time": "08:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁",
+      "arrive_time": "07:35",
+      "depart_time": "07:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁东",
+      "arrive_time": "07:49",
+      "depart_time": "07:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "钦州东",
+      "arrive_time": "08:25",
+      "depart_time": "08:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合浦",
+      "arrive_time": "08:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "北海",
+      "arrive_time": "08:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 154.0,
+    "price_second": 96.0,
+    "price_no_seat": 96.0
+  },
+  "fetched_at": "2026-05-01T04:53:45.823291"
+}

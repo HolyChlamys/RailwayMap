@@ -1,0 +1,45 @@
+{
+  "train_no": "G5029",
+  "train_type": "G",
+  "depart_station": "上饶",
+  "arrive_station": "南昌",
+  "depart_time": "07:33",
+  "arrive_time": "08:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上饶",
+      "arrive_time": "07:33",
+      "depart_time": "07:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "弋阳",
+      "arrive_time": "07:52",
+      "depart_time": "07:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鹰潭北",
+      "arrive_time": "08:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌",
+      "arrive_time": "08:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 442.5,
+    "price_first": 204.0,
+    "price_second": 127.0,
+    "price_no_seat": 127.0
+  },
+  "fetched_at": "2026-05-01T07:22:57.871283"
+}

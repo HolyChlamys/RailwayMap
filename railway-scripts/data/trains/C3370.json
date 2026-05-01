@@ -1,0 +1,43 @@
+{
+  "train_no": "C3370",
+  "train_type": "C",
+  "depart_station": "成都南",
+  "arrive_station": "雅安",
+  "depart_time": "22:05",
+  "arrive_time": "23:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "22:05",
+      "depart_time": "22:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "崇州",
+      "arrive_time": "22:29",
+      "depart_time": "22:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "大邑",
+      "arrive_time": "22:40",
+      "depart_time": "22:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "雅安",
+      "arrive_time": "23:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 58.0,
+    "price_no_seat": 58.0
+  },
+  "fetched_at": "2026-05-01T00:57:45.385866"
+}

@@ -1,0 +1,31 @@
+{
+  "train_no": "D5377",
+  "train_type": "D",
+  "depart_station": "大同南",
+  "arrive_station": "太原",
+  "depart_time": "20:00",
+  "arrive_time": "20:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大同南",
+      "arrive_time": "20:00",
+      "depart_time": "20:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太原",
+      "arrive_time": "20:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 430.0,
+    "price_first": 208.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T04:05:26.390157"
+}

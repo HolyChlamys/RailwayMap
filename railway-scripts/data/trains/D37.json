@@ -1,0 +1,43 @@
+{
+  "train_no": "D37",
+  "train_type": "D",
+  "depart_station": "北京西",
+  "arrive_station": "汉口",
+  "depart_time": "20:36",
+  "arrive_time": "05:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "20:36",
+      "depart_time": "20:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "23:08",
+      "depart_time": "23:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "信阳",
+      "arrive_time": "05:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "05:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 372.0,
+    "price_no_seat": 372.0
+  },
+  "fetched_at": "2026-05-01T03:37:19.830468"
+}

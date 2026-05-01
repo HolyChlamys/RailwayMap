@@ -1,0 +1,73 @@
+{
+  "train_no": "G5889",
+  "train_type": "G",
+  "depart_station": "湛江北",
+  "arrive_station": "吉首东",
+  "depart_time": "21:25",
+  "arrive_time": "16:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "湛江北",
+      "arrive_time": "21:25",
+      "depart_time": "21:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吴川",
+      "arrive_time": "21:40",
+      "depart_time": "21:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "茂名南",
+      "arrive_time": "21:52",
+      "depart_time": "21:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "新兴南",
+      "arrive_time": "22:36",
+      "depart_time": "22:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州",
+      "arrive_time": "23:18",
+      "depart_time": "23:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "张家界西",
+      "arrive_time": "15:51",
+      "depart_time": "15:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "芙蓉镇",
+      "arrive_time": "16:18",
+      "depart_time": "16:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "吉首东",
+      "arrive_time": "16:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1146.0,
+    "price_first": 523.0,
+    "price_second": 327.0,
+    "price_no_seat": 327.0
+  },
+  "fetched_at": "2026-05-01T07:45:14.972639"
+}

@@ -1,0 +1,43 @@
+{
+  "train_no": "S4770",
+  "train_type": "S",
+  "depart_station": "佛山  西",
+  "arrive_station": "白云机场北",
+  "depart_time": "12:20",
+  "arrive_time": "13:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佛山  西",
+      "arrive_time": "12:20",
+      "depart_time": "12:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "番禺",
+      "arrive_time": "12:43",
+      "depart_time": "12:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "白云机场东",
+      "arrive_time": "13:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "白云机场北",
+      "arrive_time": "13:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 62.0,
+    "price_no_seat": 62.0
+  },
+  "fetched_at": "2026-05-01T10:55:13.875011"
+}

@@ -1,0 +1,31 @@
+{
+  "train_no": "G8565",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "内江北",
+  "depart_time": "20:51",
+  "arrive_time": "20:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "20:51",
+      "depart_time": "20:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "内江北",
+      "arrive_time": "20:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 295.0,
+    "price_first": 135.0,
+    "price_second": 84.0,
+    "price_no_seat": 84.0
+  },
+  "fetched_at": "2026-05-01T08:54:34.931247"
+}

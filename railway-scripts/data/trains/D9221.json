@@ -1,0 +1,80 @@
+{
+  "train_no": "D9221",
+  "train_type": "D",
+  "depart_station": "大同南",
+  "arrive_station": "临汾西",
+  "depart_time": "20:20",
+  "arrive_time": "23:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大同南",
+      "arrive_time": "20:20",
+      "depart_time": "20:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "应县西",
+      "arrive_time": "20:42",
+      "depart_time": "20:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "朔州东",
+      "arrive_time": "21:02",
+      "depart_time": "21:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "雁门关",
+      "arrive_time": "21:20",
+      "depart_time": "21:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "原平西",
+      "arrive_time": "21:37",
+      "depart_time": "21:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "太原南",
+      "arrive_time": "22:33",
+      "depart_time": "22:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "平遥古城",
+      "arrive_time": "23:07",
+      "depart_time": "23:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "介休东",
+      "arrive_time": "23:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "临汾西",
+      "arrive_time": "23:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 430.0,
+    "price_first": 208.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T05:10:21.024086"
+}

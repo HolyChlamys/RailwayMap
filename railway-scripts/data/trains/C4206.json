@@ -1,0 +1,31 @@
+{
+  "train_no": "C4206",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "丽江",
+  "depart_time": "11:30",
+  "arrive_time": "15:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "11:30",
+      "depart_time": "11:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丽江",
+      "arrive_time": "15:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 658.0,
+    "price_first": 351.0,
+    "price_second": 220.0,
+    "price_no_seat": 220.0
+  },
+  "fetched_at": "2026-05-01T01:10:43.099834"
+}

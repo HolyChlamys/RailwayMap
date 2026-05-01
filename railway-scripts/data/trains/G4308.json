@@ -1,0 +1,94 @@
+{
+  "train_no": "G4308",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "上海南",
+  "depart_time": "02:50",
+  "arrive_time": "07:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "02:50",
+      "depart_time": "02:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "04:45",
+      "depart_time": "05:02",
+      "stay_min": "17"
+    },
+    {
+      "seq": 3,
+      "station_name": "湖州东",
+      "arrive_time": "06:42",
+      "depart_time": "06:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "湖州南浔",
+      "arrive_time": "06:56",
+      "depart_time": "06:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "盛泽",
+      "arrive_time": "07:07",
+      "depart_time": "07:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州",
+      "arrive_time": "05:06",
+      "depart_time": "05:12",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "苏州南",
+      "arrive_time": "07:20",
+      "depart_time": "07:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "郑州西",
+      "arrive_time": "05:29",
+      "depart_time": "05:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "上海松江",
+      "arrive_time": "07:37",
+      "depart_time": "07:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "洛阳龙门",
+      "arrive_time": "05:56",
+      "depart_time": "05:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "上海南",
+      "arrive_time": "07:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1407.0,
+    "price_first": 681.0,
+    "price_second": 426.0,
+    "price_no_seat": 426.0
+  },
+  "fetched_at": "2026-05-01T07:01:45.557047"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G4103",
+  "train_type": "G",
+  "depart_station": "赣州西",
+  "arrive_station": "深圳北",
+  "depart_time": "10:01",
+  "arrive_time": "12:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州西",
+      "arrive_time": "10:01",
+      "depart_time": "10:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙南东",
+      "arrive_time": "10:33",
+      "depart_time": "10:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "河源东",
+      "arrive_time": "11:19",
+      "depart_time": "11:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "惠州北",
+      "arrive_time": "11:49",
+      "depart_time": "11:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "东莞南",
+      "arrive_time": "12:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "12:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 924.0,
+    "price_first": 422.0,
+    "price_second": 264.0,
+    "price_no_seat": 264.0
+  },
+  "fetched_at": "2026-05-01T06:55:49.641920"
+}

@@ -1,0 +1,58 @@
+{
+  "train_no": "D8892",
+  "train_type": "D",
+  "depart_station": "武威东",
+  "arrive_station": "兰州西",
+  "depart_time": "07:00",
+  "arrive_time": "08:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武威东",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "古浪北",
+      "arrive_time": "07:21",
+      "depart_time": "07:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天祝西",
+      "arrive_time": "07:47",
+      "depart_time": "07:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "永登北",
+      "arrive_time": "08:01",
+      "depart_time": "08:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "中川机场东",
+      "arrive_time": "08:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兰州西",
+      "arrive_time": "08:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 108.0,
+    "price_second": 68.0,
+    "price_no_seat": 68.0
+  },
+  "fetched_at": "2026-05-01T05:06:07.486790"
+}

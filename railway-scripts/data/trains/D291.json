@@ -1,0 +1,79 @@
+{
+  "train_no": "D291",
+  "train_type": "D",
+  "depart_station": "青岛北",
+  "arrive_station": "商丘",
+  "depart_time": "11:18",
+  "arrive_time": "18:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "11:18",
+      "depart_time": "11:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛西",
+      "arrive_time": "11:57",
+      "depart_time": "12:06",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "日照西",
+      "arrive_time": "12:42",
+      "depart_time": "12:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "临沂",
+      "arrive_time": "14:00",
+      "depart_time": "14:07",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "兖州",
+      "arrive_time": "15:59",
+      "depart_time": "16:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "济宁",
+      "arrive_time": "16:25",
+      "depart_time": "16:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "菏泽",
+      "arrive_time": "17:38",
+      "depart_time": "17:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "曹县",
+      "arrive_time": "18:12",
+      "depart_time": "18:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "商丘",
+      "arrive_time": "18:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 293.0,
+    "price_second": 183.0,
+    "price_no_seat": 183.0
+  },
+  "fetched_at": "2026-05-01T03:25:34.822633"
+}

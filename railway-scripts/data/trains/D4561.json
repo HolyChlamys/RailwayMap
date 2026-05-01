@@ -1,0 +1,51 @@
+{
+  "train_no": "D4561",
+  "train_type": "D",
+  "depart_station": "青岛北",
+  "arrive_station": "上海虹桥",
+  "depart_time": "02:48",
+  "arrive_time": "06:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "02:48",
+      "depart_time": "02:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "连云港",
+      "arrive_time": "04:29",
+      "depart_time": "04:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南通西",
+      "arrive_time": "06:21",
+      "depart_time": "06:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "太仓",
+      "arrive_time": "06:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "上海虹桥",
+      "arrive_time": "06:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 506.0,
+    "price_second": 318.0,
+    "price_no_seat": 318.0
+  },
+  "fetched_at": "2026-05-01T03:53:18.925465"
+}

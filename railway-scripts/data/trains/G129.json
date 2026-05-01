@@ -1,0 +1,52 @@
+{
+  "train_no": "G129",
+  "train_type": "G",
+  "depart_station": "北京",
+  "arrive_station": "吉林",
+  "depart_time": "09:32",
+  "arrive_time": "13:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京",
+      "arrive_time": "09:32",
+      "depart_time": "09:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北京朝阳",
+      "arrive_time": "09:55",
+      "depart_time": "09:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沈阳北",
+      "arrive_time": "12:27",
+      "depart_time": "12:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长春",
+      "arrive_time": "13:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "吉林",
+      "arrive_time": "13:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2065.5,
+    "price_first": 952.0,
+    "price_second": 595.0,
+    "price_no_seat": 595.0
+  },
+  "fetched_at": "2026-05-01T05:38:41.656249"
+}

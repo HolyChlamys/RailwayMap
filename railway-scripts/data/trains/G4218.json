@@ -1,0 +1,52 @@
+{
+  "train_no": "G4218",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "南宁东",
+  "depart_time": "01:13",
+  "arrive_time": "04:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "01:13",
+      "depart_time": "01:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "01:53",
+      "depart_time": "01:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "梧州南",
+      "arrive_time": "03:19",
+      "depart_time": "03:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵港",
+      "arrive_time": "04:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南宁东",
+      "arrive_time": "04:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1074.5,
+    "price_first": 499.5,
+    "price_second": 324.5,
+    "price_no_seat": 324.5
+  },
+  "fetched_at": "2026-05-01T06:59:11.738589"
+}

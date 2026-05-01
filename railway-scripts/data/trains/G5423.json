@@ -1,0 +1,54 @@
+{
+  "train_no": "G5423",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "威远",
+  "depart_time": "20:18",
+  "arrive_time": "22:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "20:18",
+      "depart_time": "20:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江津北",
+      "arrive_time": "20:34",
+      "depart_time": "20:44",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "永川南",
+      "arrive_time": "20:56",
+      "depart_time": "21:00",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "泸州",
+      "arrive_time": "21:19",
+      "depart_time": "21:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "自贡",
+      "arrive_time": "21:52",
+      "depart_time": "21:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "威远",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T07:33:37.294781"
+}

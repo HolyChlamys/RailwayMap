@@ -1,0 +1,93 @@
+{
+  "train_no": "D7163",
+  "train_type": "D",
+  "depart_station": "潮汕",
+  "arrive_station": "广州东",
+  "depart_time": "06:46",
+  "arrive_time": "09:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潮汕",
+      "arrive_time": "06:46",
+      "depart_time": "06:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汕尾",
+      "arrive_time": "07:28",
+      "depart_time": "07:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠东",
+      "arrive_time": "07:57",
+      "depart_time": "07:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "惠州南",
+      "arrive_time": "08:11",
+      "depart_time": "08:14",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "08:35",
+      "depart_time": "08:40",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "博罗",
+      "arrive_time": "08:26",
+      "depart_time": "08:32",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "东莞南",
+      "arrive_time": "08:58",
+      "depart_time": "09:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "罗浮山",
+      "arrive_time": "08:40",
+      "depart_time": "08:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "广州东",
+      "arrive_time": "09:48",
+      "depart_time": "09:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "广州新塘",
+      "arrive_time": "09:00",
+      "depart_time": "09:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "广州东",
+      "arrive_time": "09:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 319.0,
+    "price_second": 199.0,
+    "price_no_seat": 199.0
+  },
+  "fetched_at": "2026-05-01T04:34:50.855259"
+}

@@ -1,0 +1,94 @@
+{
+  "train_no": "G968",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "天津西",
+  "depart_time": "16:13",
+  "arrive_time": "21:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "16:13",
+      "depart_time": "16:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "16:35",
+      "depart_time": "16:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡东",
+      "arrive_time": "16:53",
+      "depart_time": "16:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "17:42",
+      "depart_time": "17:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "滁州",
+      "arrive_time": "18:10",
+      "depart_time": "18:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "蚌埠南",
+      "arrive_time": "18:48",
+      "depart_time": "18:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "徐州东",
+      "arrive_time": "19:27",
+      "depart_time": "19:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "曲阜东",
+      "arrive_time": "20:06",
+      "depart_time": "20:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "济南西",
+      "arrive_time": "20:41",
+      "depart_time": "20:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "沧州西",
+      "arrive_time": "21:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "天津西",
+      "arrive_time": "21:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2179.0,
+    "price_first": 996.0,
+    "price_second": 622.0,
+    "price_no_seat": 622.0
+  },
+  "fetched_at": "2026-05-01T09:20:56.459470"
+}

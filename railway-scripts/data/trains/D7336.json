@@ -1,0 +1,58 @@
+{
+  "train_no": "D7336",
+  "train_type": "D",
+  "depart_station": "福田",
+  "arrive_station": "梅州西",
+  "depart_time": "06:43",
+  "arrive_time": "08:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福田",
+      "arrive_time": "06:43",
+      "depart_time": "06:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "06:59",
+      "depart_time": "06:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "博罗北",
+      "arrive_time": "07:59",
+      "depart_time": "07:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "兴宁南",
+      "arrive_time": "08:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "梅州西",
+      "arrive_time": "08:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 299.0,
+    "price_second": 191.0,
+    "price_no_seat": 191.0
+  },
+  "fetched_at": "2026-05-01T04:36:36.471937"
+}

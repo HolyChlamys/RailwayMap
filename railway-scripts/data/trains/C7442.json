@@ -1,0 +1,51 @@
+{
+  "train_no": "C7442",
+  "train_type": "C",
+  "depart_station": "长沙",
+  "arrive_station": "张家界西",
+  "depart_time": "20:10",
+  "arrive_time": "21:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "20:10",
+      "depart_time": "20:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "谷山",
+      "arrive_time": "20:20",
+      "depart_time": "20:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "益阳南",
+      "arrive_time": "20:48",
+      "depart_time": "20:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "常德",
+      "arrive_time": "21:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "张家界西",
+      "arrive_time": "21:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 268.0,
+    "price_second": 166.0,
+    "price_no_seat": 166.0
+  },
+  "fetched_at": "2026-05-01T02:15:25.445585"
+}

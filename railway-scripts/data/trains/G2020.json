@@ -1,0 +1,66 @@
+{
+  "train_no": "G2020",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "济南西",
+  "depart_time": "18:09",
+  "arrive_time": "20:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "18:09",
+      "depart_time": "18:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新乡东",
+      "arrive_time": "18:36",
+      "depart_time": "18:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "滑浚",
+      "arrive_time": "18:56",
+      "depart_time": "18:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "濮阳东",
+      "arrive_time": "19:17",
+      "depart_time": "19:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "聊城西",
+      "arrive_time": "19:48",
+      "depart_time": "19:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "茌平南",
+      "arrive_time": "20:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "济南西",
+      "arrive_time": "20:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 816.0,
+    "price_first": 373.0,
+    "price_second": 233.0,
+    "price_no_seat": 233.0
+  },
+  "fetched_at": "2026-05-01T05:59:27.562866"
+}

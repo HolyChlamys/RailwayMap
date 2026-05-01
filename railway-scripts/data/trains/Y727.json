@@ -1,0 +1,56 @@
+{
+  "train_no": "Y727",
+  "train_type": "Y",
+  "depart_station": "丽江",
+  "arrive_station": "西双版纳",
+  "depart_time": "23:16",
+  "arrive_time": "14:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丽江",
+      "arrive_time": "23:16",
+      "depart_time": "23:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "楚雄",
+      "arrive_time": "06:55",
+      "depart_time": "07:12",
+      "stay_min": "17"
+    },
+    {
+      "seq": 3,
+      "station_name": "广通北",
+      "arrive_time": "07:30",
+      "depart_time": "07:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明",
+      "arrive_time": "08:41",
+      "depart_time": "09:22",
+      "stay_min": "41"
+    },
+    {
+      "seq": 5,
+      "station_name": "普洱",
+      "arrive_time": "13:13",
+      "depart_time": "13:18",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "西双版纳",
+      "arrive_time": "14:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T11:37:26.868512"
+}

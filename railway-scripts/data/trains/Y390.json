@@ -1,0 +1,54 @@
+{
+  "train_no": "Y390",
+  "train_type": "Y",
+  "depart_station": "桂林北",
+  "arrive_station": "张家界",
+  "depart_time": "20:42",
+  "arrive_time": "08:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "桂林北",
+      "arrive_time": "20:42",
+      "depart_time": "20:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永州",
+      "arrive_time": "23:05",
+      "depart_time": "23:10",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙",
+      "arrive_time": "03:27",
+      "depart_time": "04:02",
+      "stay_min": "35"
+    },
+    {
+      "seq": 4,
+      "station_name": "常德",
+      "arrive_time": "06:50",
+      "depart_time": "06:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "石门县北",
+      "arrive_time": "05:57",
+      "depart_time": "06:27",
+      "stay_min": "30"
+    },
+    {
+      "seq": 6,
+      "station_name": "张家界",
+      "arrive_time": "08:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:31:27.113556"
+}

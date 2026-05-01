@@ -1,0 +1,45 @@
+{
+  "train_no": "C7287",
+  "train_type": "C",
+  "depart_station": "广州",
+  "arrive_station": "湛江北",
+  "depart_time": "23:27",
+  "arrive_time": "00:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "23:27",
+      "depart_time": "23:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阳江北",
+      "arrive_time": "00:29",
+      "depart_time": "00:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "茂名南",
+      "arrive_time": "00:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "湛江北",
+      "arrive_time": "00:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1146.0,
+    "price_first": 523.0,
+    "price_second": 327.0,
+    "price_no_seat": 327.0
+  },
+  "fetched_at": "2026-05-01T02:11:14.545272"
+}

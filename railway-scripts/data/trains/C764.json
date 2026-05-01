@@ -1,0 +1,44 @@
+{
+  "train_no": "C764",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "广安南",
+  "depart_time": "20:49",
+  "arrive_time": "22:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "20:49",
+      "depart_time": "20:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遂宁",
+      "arrive_time": "21:58",
+      "depart_time": "21:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南充",
+      "arrive_time": "22:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广安南",
+      "arrive_time": "22:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 142.0,
+    "price_second": 89.0,
+    "price_no_seat": 89.0
+  },
+  "fetched_at": "2026-05-01T02:19:54.311934"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G3745",
+  "train_type": "G",
+  "depart_station": "桂林北",
+  "arrive_station": "广州白云",
+  "depart_time": "08:30",
+  "arrive_time": "10:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "桂林北",
+      "arrive_time": "08:30",
+      "depart_time": "08:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阳朔",
+      "arrive_time": "08:54",
+      "depart_time": "08:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贺州",
+      "arrive_time": "09:28",
+      "depart_time": "09:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀集",
+      "arrive_time": "09:58",
+      "depart_time": "09:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "佛山西",
+      "arrive_time": "10:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州白云",
+      "arrive_time": "10:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 854.0,
+    "price_first": 391.0,
+    "price_second": 244.0,
+    "price_no_seat": 244.0
+  },
+  "fetched_at": "2026-05-01T06:46:19.886935"
+}

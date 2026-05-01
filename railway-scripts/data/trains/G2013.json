@@ -1,0 +1,59 @@
+{
+  "train_no": "G2013",
+  "train_type": "G",
+  "depart_station": "郑州航空港",
+  "arrive_station": "荣成",
+  "depart_time": "08:07",
+  "arrive_time": "12:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州航空港",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "08:28",
+      "depart_time": "08:33",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "濮阳东",
+      "arrive_time": "09:25",
+      "depart_time": "09:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南西",
+      "arrive_time": "10:20",
+      "depart_time": "10:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "海阳",
+      "arrive_time": "12:11",
+      "depart_time": "12:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "荣成",
+      "arrive_time": "12:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1816.0,
+    "price_first": 860.0,
+    "price_second": 537.0,
+    "price_no_seat": 537.0
+  },
+  "fetched_at": "2026-05-01T05:59:14.270968"
+}

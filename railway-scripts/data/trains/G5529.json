@@ -1,0 +1,59 @@
+{
+  "train_no": "G5529",
+  "train_type": "G",
+  "depart_station": "聊城西",
+  "arrive_station": "青岛",
+  "depart_time": "09:41",
+  "arrive_time": "13:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "聊城西",
+      "arrive_time": "09:41",
+      "depart_time": "09:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "茌平南",
+      "arrive_time": "09:54",
+      "depart_time": "10:01",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "长清",
+      "arrive_time": "10:15",
+      "depart_time": "10:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南",
+      "arrive_time": "10:36",
+      "depart_time": "10:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "淄博",
+      "arrive_time": "11:22",
+      "depart_time": "11:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "青岛",
+      "arrive_time": "13:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 748.0,
+    "price_first": 343.0,
+    "price_second": 214.0,
+    "price_no_seat": 214.0
+  },
+  "fetched_at": "2026-05-01T07:36:01.938616"
+}

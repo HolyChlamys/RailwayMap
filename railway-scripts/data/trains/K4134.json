@@ -1,0 +1,28 @@
+{
+  "train_no": "K4134",
+  "train_type": "K",
+  "depart_station": "深圳东",
+  "arrive_station": "安康",
+  "depart_time": "01:38",
+  "arrive_time": "01:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳东",
+      "arrive_time": "01:38",
+      "depart_time": "01:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安康",
+      "arrive_time": "01:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 213.0
+  },
+  "fetched_at": "2026-05-01T09:48:32.867824"
+}

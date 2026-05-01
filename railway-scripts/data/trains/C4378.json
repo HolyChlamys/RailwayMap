@@ -1,0 +1,45 @@
+{
+  "train_no": "C4378",
+  "train_type": "C",
+  "depart_station": "德令哈",
+  "arrive_station": "西宁",
+  "depart_time": "19:20",
+  "arrive_time": "22:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "德令哈",
+      "arrive_time": "19:20",
+      "depart_time": "19:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌兰",
+      "arrive_time": "20:10",
+      "depart_time": "20:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "海晏",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西宁",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 670.0,
+    "price_first": 306.0,
+    "price_second": 191.0,
+    "price_no_seat": 191.0
+  },
+  "fetched_at": "2026-05-01T01:14:17.983468"
+}

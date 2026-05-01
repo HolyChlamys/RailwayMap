@@ -1,0 +1,72 @@
+{
+  "train_no": "D6769",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "乌海南",
+  "depart_time": "12:54",
+  "arrive_time": "16:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "12:54",
+      "depart_time": "12:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "呼和浩特",
+      "arrive_time": "13:16",
+      "depart_time": "13:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "包头东",
+      "arrive_time": "14:11",
+      "depart_time": "14:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "包头",
+      "arrive_time": "14:26",
+      "depart_time": "14:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乌拉特前旗",
+      "arrive_time": "15:01",
+      "depart_time": "15:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "15:37",
+      "depart_time": "15:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "乌海",
+      "arrive_time": "16:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "乌海南",
+      "arrive_time": "16:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 497.0,
+    "price_second": 310.5,
+    "price_no_seat": 310.5
+  },
+  "fetched_at": "2026-05-01T04:28:23.469141"
+}

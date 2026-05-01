@@ -1,0 +1,65 @@
+{
+  "train_no": "G2883",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "昆明南",
+  "depart_time": "08:37",
+  "arrive_time": "14:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "08:37",
+      "depart_time": "08:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "10:01",
+      "depart_time": "10:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "12:05",
+      "depart_time": "12:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺西",
+      "arrive_time": "12:36",
+      "depart_time": "12:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "盘州",
+      "arrive_time": "13:35",
+      "depart_time": "13:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "曲靖北",
+      "arrive_time": "14:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "昆明南",
+      "arrive_time": "14:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 895.0,
+    "price_second": 560.0,
+    "price_no_seat": 560.0
+  },
+  "fetched_at": "2026-05-01T06:22:55.828823"
+}

@@ -1,0 +1,91 @@
+{
+  "train_no": "K4071",
+  "train_type": "K",
+  "depart_station": "信阳",
+  "arrive_station": "上海",
+  "depart_time": "12:40",
+  "arrive_time": "04:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "信阳",
+      "arrive_time": "12:40",
+      "depart_time": "12:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "罗山",
+      "arrive_time": "13:28",
+      "depart_time": "13:47",
+      "stay_min": "19"
+    },
+    {
+      "seq": 3,
+      "station_name": "息县",
+      "arrive_time": "14:07",
+      "depart_time": "14:16",
+      "stay_min": "9"
+    },
+    {
+      "seq": 4,
+      "station_name": "潢川",
+      "arrive_time": "14:44",
+      "depart_time": "14:55",
+      "stay_min": "11"
+    },
+    {
+      "seq": 5,
+      "station_name": "商城",
+      "arrive_time": "15:22",
+      "depart_time": "15:32",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "固始",
+      "arrive_time": "15:50",
+      "depart_time": "16:00",
+      "stay_min": "10"
+    },
+    {
+      "seq": 7,
+      "station_name": "合肥",
+      "arrive_time": "18:21",
+      "depart_time": "18:31",
+      "stay_min": "10"
+    },
+    {
+      "seq": 8,
+      "station_name": "南京",
+      "arrive_time": "00:10",
+      "depart_time": "00:30",
+      "stay_min": "20"
+    },
+    {
+      "seq": 9,
+      "station_name": "无锡",
+      "arrive_time": "02:14",
+      "depart_time": "02:25",
+      "stay_min": "11"
+    },
+    {
+      "seq": 10,
+      "station_name": "苏州",
+      "arrive_time": "02:53",
+      "depart_time": "02:58",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "上海",
+      "arrive_time": "04:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 119.0
+  },
+  "fetched_at": "2026-05-01T09:47:01.470293"
+}

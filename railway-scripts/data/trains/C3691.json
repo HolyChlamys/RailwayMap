@@ -1,0 +1,94 @@
+{
+  "train_no": "C3691",
+  "train_type": "C",
+  "depart_station": "太仓",
+  "arrive_station": "九华山",
+  "depart_time": "12:29",
+  "arrive_time": "16:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太仓",
+      "arrive_time": "12:29",
+      "depart_time": "12:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张家港",
+      "arrive_time": "12:49",
+      "depart_time": "12:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "武进",
+      "arrive_time": "13:14",
+      "depart_time": "13:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "13:50",
+      "depart_time": "13:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "当涂东",
+      "arrive_time": "14:14",
+      "depart_time": "14:23",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "宣城",
+      "arrive_time": "15:01",
+      "depart_time": "15:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "绩溪北",
+      "arrive_time": "15:35",
+      "depart_time": "15:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "歙县北",
+      "arrive_time": "15:48",
+      "depart_time": "15:56",
+      "stay_min": "8"
+    },
+    {
+      "seq": 9,
+      "station_name": "黄山北",
+      "arrive_time": "16:05",
+      "depart_time": "16:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "黄山西",
+      "arrive_time": "16:32",
+      "depart_time": "16:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "九华山",
+      "arrive_time": "16:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1326.0,
+    "price_first": 617.0,
+    "price_second": 385.0,
+    "price_no_seat": 385.0
+  },
+  "fetched_at": "2026-05-01T01:02:36.744544"
+}

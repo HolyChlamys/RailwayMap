@@ -1,0 +1,93 @@
+{
+  "train_no": "D2860",
+  "train_type": "D",
+  "depart_station": "日照",
+  "arrive_station": "南京",
+  "depart_time": "06:42",
+  "arrive_time": "10:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "日照",
+      "arrive_time": "06:42",
+      "depart_time": "06:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "岚山西",
+      "arrive_time": "07:05",
+      "depart_time": "07:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "赣榆",
+      "arrive_time": "07:26",
+      "depart_time": "07:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "连云港",
+      "arrive_time": "07:45",
+      "depart_time": "07:50",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "灌云",
+      "arrive_time": "08:12",
+      "depart_time": "08:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "灌南",
+      "arrive_time": "08:24",
+      "depart_time": "08:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "涟水",
+      "arrive_time": "08:39",
+      "depart_time": "08:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "淮安东",
+      "arrive_time": "08:53",
+      "depart_time": "08:58",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "扬州东",
+      "arrive_time": "09:37",
+      "depart_time": "09:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "镇江",
+      "arrive_time": "10:10",
+      "depart_time": "10:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "南京",
+      "arrive_time": "10:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 368.0,
+    "price_second": 231.0,
+    "price_no_seat": 231.0
+  },
+  "fetched_at": "2026-05-01T03:24:40.420532"
+}

@@ -1,0 +1,64 @@
+{
+  "train_no": "D47",
+  "train_type": "D",
+  "depart_station": "杭州",
+  "arrive_station": "汉口",
+  "depart_time": "22:22",
+  "arrive_time": "07:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州",
+      "arrive_time": "22:22",
+      "depart_time": "22:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "义乌",
+      "arrive_time": "23:24",
+      "depart_time": "23:27",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "金华",
+      "arrive_time": "23:59",
+      "depart_time": "00:06",
+      "stay_min": "1433"
+    },
+    {
+      "seq": 4,
+      "station_name": "黄石",
+      "arrive_time": "05:14",
+      "depart_time": "05:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "鄂州",
+      "arrive_time": "05:32",
+      "depart_time": "05:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "武昌",
+      "arrive_time": "06:34",
+      "depart_time": "06:40",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "汉口",
+      "arrive_time": "07:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 265.0,
+    "price_no_seat": 265.0
+  },
+  "fetched_at": "2026-05-01T03:55:35.494687"
+}

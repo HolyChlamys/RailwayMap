@@ -1,0 +1,86 @@
+{
+  "train_no": "D7768",
+  "train_type": "D",
+  "depart_station": "沈阳",
+  "arrive_station": "赤峰",
+  "depart_time": "08:48",
+  "arrive_time": "12:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "08:48",
+      "depart_time": "08:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "辽阳",
+      "arrive_time": "09:13",
+      "depart_time": "09:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "鞍山西",
+      "arrive_time": "09:26",
+      "depart_time": "09:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "海城西",
+      "arrive_time": "09:40",
+      "depart_time": "09:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "盘锦",
+      "arrive_time": "10:06",
+      "depart_time": "10:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "锦州北",
+      "arrive_time": "10:42",
+      "depart_time": "10:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "巴图营",
+      "arrive_time": "11:02",
+      "depart_time": "11:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "辽宁朝阳",
+      "arrive_time": "11:18",
+      "depart_time": "11:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "建平",
+      "arrive_time": "11:55",
+      "depart_time": "11:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "赤峰",
+      "arrive_time": "12:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 393.0,
+    "price_second": 246.0,
+    "price_no_seat": 246.0
+  },
+  "fetched_at": "2026-05-01T04:44:35.434546"
+}

@@ -1,0 +1,28 @@
+{
+  "train_no": "K4386",
+  "train_type": "K",
+  "depart_station": "深圳东",
+  "arrive_station": "武昌",
+  "depart_time": "21:40",
+  "arrive_time": "21:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳东",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武昌",
+      "arrive_time": "21:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 189.5
+  },
+  "fetched_at": "2026-05-01T09:53:20.260339"
+}

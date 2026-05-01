@@ -1,0 +1,59 @@
+{
+  "train_no": "G9175",
+  "train_type": "G",
+  "depart_station": "沈阳北",
+  "arrive_station": "长白山",
+  "depart_time": "16:58",
+  "arrive_time": "18:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "16:58",
+      "depart_time": "16:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚顺",
+      "arrive_time": "17:19",
+      "depart_time": "17:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新宾",
+      "arrive_time": "17:49",
+      "depart_time": "17:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "通化",
+      "arrive_time": "18:11",
+      "depart_time": "18:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "白山东",
+      "arrive_time": "18:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长白山",
+      "arrive_time": "18:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1204.0,
+    "price_first": 550.0,
+    "price_second": 344.0,
+    "price_no_seat": 344.0
+  },
+  "fetched_at": "2026-05-01T09:07:40.632419"
+}

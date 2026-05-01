@@ -1,0 +1,38 @@
+{
+  "train_no": "G4555",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "厦门北",
+  "depart_time": "01:32",
+  "arrive_time": "04:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "01:32",
+      "depart_time": "01:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福州",
+      "arrive_time": "04:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "厦门北",
+      "arrive_time": "04:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1670.0,
+    "price_first": 801.0,
+    "price_second": 493.0,
+    "price_no_seat": 493.0
+  },
+  "fetched_at": "2026-05-01T07:08:43.598554"
+}

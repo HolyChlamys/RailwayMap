@@ -1,0 +1,51 @@
+{
+  "train_no": "C5559",
+  "train_type": "C",
+  "depart_station": "重庆西",
+  "arrive_station": "宜宾",
+  "depart_time": "10:23",
+  "arrive_time": "11:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "10:23",
+      "depart_time": "10:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永川南",
+      "arrive_time": "10:49",
+      "depart_time": "10:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泸州",
+      "arrive_time": "11:12",
+      "depart_time": "11:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南溪",
+      "arrive_time": "11:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜宾",
+      "arrive_time": "11:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 200.0,
+    "price_second": 125.0,
+    "price_no_seat": 125.0
+  },
+  "fetched_at": "2026-05-01T01:34:43.756885"
+}

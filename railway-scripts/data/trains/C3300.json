@@ -1,0 +1,59 @@
+{
+  "train_no": "C3300",
+  "train_type": "C",
+  "depart_station": "安庆",
+  "arrive_station": "乐清",
+  "depart_time": "22:14",
+  "arrive_time": "07:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安庆",
+      "arrive_time": "22:14",
+      "depart_time": "22:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "庐江西",
+      "arrive_time": "22:45",
+      "depart_time": "22:54",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "23:20",
+      "depart_time": "23:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "05:21",
+      "depart_time": "05:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "温岭",
+      "arrive_time": "06:33",
+      "depart_time": "06:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "乐清",
+      "arrive_time": "07:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 358.0,
+    "price_first": 164.0,
+    "price_second": 103.0,
+    "price_no_seat": 103.0
+  },
+  "fetched_at": "2026-05-01T00:56:19.969858"
+}

@@ -1,0 +1,73 @@
+{
+  "train_no": "D5313",
+  "train_type": "D",
+  "depart_station": "太原南",
+  "arrive_station": "运城北",
+  "depart_time": "06:59",
+  "arrive_time": "09:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "06:59",
+      "depart_time": "06:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "祁县东",
+      "arrive_time": "07:25",
+      "depart_time": "07:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "平遥古城",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "介休东",
+      "arrive_time": "07:58",
+      "depart_time": "07:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "洪洞西",
+      "arrive_time": "08:35",
+      "depart_time": "08:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "临汾西",
+      "arrive_time": "08:48",
+      "depart_time": "08:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "闻喜西",
+      "arrive_time": "09:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "运城北",
+      "arrive_time": "09:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 461.0,
+    "price_first": 211.0,
+    "price_second": 132.0,
+    "price_no_seat": 132.0
+  },
+  "fetched_at": "2026-05-01T04:04:35.292266"
+}

@@ -1,0 +1,36 @@
+{
+  "train_no": "C6877",
+  "train_type": "C",
+  "depart_station": "广州  白云",
+  "arrive_station": "清城",
+  "depart_time": "12:16",
+  "arrive_time": "12:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州  白云",
+      "arrive_time": "12:16",
+      "depart_time": "12:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "花都",
+      "arrive_time": "12:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "清城",
+      "arrive_time": "12:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 38.0,
+    "price_no_seat": 38.0
+  },
+  "fetched_at": "2026-05-01T01:59:10.153841"
+}

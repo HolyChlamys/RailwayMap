@@ -1,0 +1,80 @@
+{
+  "train_no": "D1883",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "柳州",
+  "depart_time": "17:25",
+  "arrive_time": "21:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "17:25",
+      "depart_time": "17:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "17:44",
+      "depart_time": "17:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "贺州",
+      "arrive_time": "18:53",
+      "depart_time": "18:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "钟山西",
+      "arrive_time": "19:07",
+      "depart_time": "19:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "阳朔",
+      "arrive_time": "19:39",
+      "depart_time": "19:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "桂林北",
+      "arrive_time": "20:07",
+      "depart_time": "20:15",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "桂林",
+      "arrive_time": "20:25",
+      "depart_time": "20:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "鹿寨北",
+      "arrive_time": "21:04",
+      "depart_time": "21:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "柳州",
+      "arrive_time": "21:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1105.0,
+    "price_first": 424.0,
+    "price_second": 264.5,
+    "price_no_seat": 264.5
+  },
+  "fetched_at": "2026-05-01T03:06:55.250851"
+}

@@ -1,0 +1,35 @@
+{
+  "train_no": "K6611",
+  "train_type": "K",
+  "depart_station": "岳阳",
+  "arrive_station": "深圳",
+  "depart_time": "22:02",
+  "arrive_time": "23:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "岳阳",
+      "arrive_time": "22:02",
+      "depart_time": "22:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙",
+      "arrive_time": "23:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳",
+      "arrive_time": "23:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 142.5
+  },
+  "fetched_at": "2026-05-01T10:24:06.720588"
+}

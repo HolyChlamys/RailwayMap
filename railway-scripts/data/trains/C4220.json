@@ -1,0 +1,80 @@
+{
+  "train_no": "C4220",
+  "train_type": "C",
+  "depart_station": "西双版纳",
+  "arrive_station": "昆明南",
+  "depart_time": "12:10",
+  "arrive_time": "15:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西双版纳",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "野象谷",
+      "arrive_time": "12:25",
+      "depart_time": "12:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "普洱",
+      "arrive_time": "13:02",
+      "depart_time": "13:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宁洱",
+      "arrive_time": "13:24",
+      "depart_time": "13:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "墨江",
+      "arrive_time": "14:08",
+      "depart_time": "14:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "元江",
+      "arrive_time": "14:34",
+      "depart_time": "14:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "峨山",
+      "arrive_time": "15:10",
+      "depart_time": "15:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "玉溪",
+      "arrive_time": "15:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "昆明南",
+      "arrive_time": "15:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 814.0,
+    "price_first": 381.0,
+    "price_second": 239.0,
+    "price_no_seat": 239.0
+  },
+  "fetched_at": "2026-05-01T01:11:04.481604"
+}

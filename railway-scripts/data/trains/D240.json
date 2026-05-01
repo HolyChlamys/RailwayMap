@@ -1,0 +1,73 @@
+{
+  "train_no": "D240",
+  "train_type": "D",
+  "depart_station": "香格里拉",
+  "arrive_station": "成都南",
+  "depart_time": "09:45",
+  "arrive_time": "17:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香格里拉",
+      "arrive_time": "09:45",
+      "depart_time": "09:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丽江",
+      "arrive_time": "11:03",
+      "depart_time": "11:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "祥云",
+      "arrive_time": "13:08",
+      "depart_time": "13:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广通北",
+      "arrive_time": "14:26",
+      "depart_time": "14:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "元谋西",
+      "arrive_time": "15:04",
+      "depart_time": "15:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "攀枝花南",
+      "arrive_time": "15:57",
+      "depart_time": "15:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "西昌西",
+      "arrive_time": "17:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "成都南",
+      "arrive_time": "17:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1535.0,
+    "price_first": 739.0,
+    "price_second": 462.0,
+    "price_no_seat": 462.0
+  },
+  "fetched_at": "2026-05-01T03:16:31.069683"
+}

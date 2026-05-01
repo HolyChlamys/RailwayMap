@@ -1,0 +1,51 @@
+{
+  "train_no": "C1352",
+  "train_type": "C",
+  "depart_station": "长春",
+  "arrive_station": "通化",
+  "depart_time": "10:55",
+  "arrive_time": "14:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "10:55",
+      "depart_time": "10:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉林",
+      "arrive_time": "11:35",
+      "depart_time": "11:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "长白山",
+      "arrive_time": "13:07",
+      "depart_time": "13:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "江源东",
+      "arrive_time": "13:44",
+      "depart_time": "13:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "通化",
+      "arrive_time": "14:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 444.0,
+    "price_second": 277.0,
+    "price_no_seat": 277.0
+  },
+  "fetched_at": "2026-05-01T00:25:16.772397"
+}

@@ -1,0 +1,63 @@
+{
+  "train_no": "K8253",
+  "train_type": "K",
+  "depart_station": "济南",
+  "arrive_station": "日照",
+  "depart_time": "09:49",
+  "arrive_time": "14:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "09:49",
+      "depart_time": "09:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰山",
+      "arrive_time": "10:39",
+      "depart_time": "10:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "磁窑",
+      "arrive_time": "11:07",
+      "depart_time": "11:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "兖州",
+      "arrive_time": "11:45",
+      "depart_time": "11:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "平邑",
+      "arrive_time": "12:47",
+      "depart_time": "12:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "临沂",
+      "arrive_time": "14:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "日照",
+      "arrive_time": "14:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T10:37:16.546285"
+}

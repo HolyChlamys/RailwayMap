@@ -1,0 +1,52 @@
+{
+  "train_no": "G8994",
+  "train_type": "G",
+  "depart_station": "张家港",
+  "arrive_station": "南京南",
+  "depart_time": "15:33",
+  "arrive_time": "16:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家港",
+      "arrive_time": "15:33",
+      "depart_time": "15:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武进",
+      "arrive_time": "15:59",
+      "depart_time": "15:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金坛",
+      "arrive_time": "16:14",
+      "depart_time": "16:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "句容",
+      "arrive_time": "16:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "16:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 404.0,
+    "price_first": 185.0,
+    "price_second": 116.0,
+    "price_no_seat": 116.0
+  },
+  "fetched_at": "2026-05-01T09:05:26.947716"
+}

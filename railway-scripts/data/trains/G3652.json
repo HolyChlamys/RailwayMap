@@ -1,0 +1,87 @@
+{
+  "train_no": "G3652",
+  "train_type": "G",
+  "depart_station": "通辽",
+  "arrive_station": "北京朝阳",
+  "depart_time": "07:16",
+  "arrive_time": "11:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "通辽",
+      "arrive_time": "07:16",
+      "depart_time": "07:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "甘旗卡",
+      "arrive_time": "07:44",
+      "depart_time": "07:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "彰武",
+      "arrive_time": "08:06",
+      "depart_time": "08:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阜新",
+      "arrive_time": "08:49",
+      "depart_time": "08:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "辽宁朝阳",
+      "arrive_time": "09:23",
+      "depart_time": "09:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "喀左",
+      "arrive_time": "09:44",
+      "depart_time": "09:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "平泉北",
+      "arrive_time": "10:19",
+      "depart_time": "10:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "承德南",
+      "arrive_time": "10:40",
+      "depart_time": "10:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "怀柔南",
+      "arrive_time": "11:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "北京朝阳",
+      "arrive_time": "11:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1417.0,
+    "price_first": 664.0,
+    "price_second": 415.0,
+    "price_no_seat": 415.0
+  },
+  "fetched_at": "2026-05-01T06:43:56.049235"
+}

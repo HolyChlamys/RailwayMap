@@ -1,0 +1,86 @@
+{
+  "train_no": "D2342",
+  "train_type": "D",
+  "depart_station": "龙岩",
+  "arrive_station": "东莞南",
+  "depart_time": "08:06",
+  "arrive_time": "12:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "龙岩",
+      "arrive_time": "08:06",
+      "depart_time": "08:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南靖",
+      "arrive_time": "08:37",
+      "depart_time": "08:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "漳州",
+      "arrive_time": "08:54",
+      "depart_time": "09:12",
+      "stay_min": "18"
+    },
+    {
+      "seq": 4,
+      "station_name": "诏安",
+      "arrive_time": "09:47",
+      "depart_time": "09:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "潮汕",
+      "arrive_time": "10:09",
+      "depart_time": "10:14",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "普宁",
+      "arrive_time": "10:31",
+      "depart_time": "10:42",
+      "stay_min": "11"
+    },
+    {
+      "seq": 7,
+      "station_name": "陆丰",
+      "arrive_time": "11:02",
+      "depart_time": "11:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "汕尾",
+      "arrive_time": "11:18",
+      "depart_time": "11:24",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳北",
+      "arrive_time": "12:14",
+      "depart_time": "12:20",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "东莞南",
+      "arrive_time": "12:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 419.0,
+    "price_second": 262.0,
+    "price_no_seat": 262.0
+  },
+  "fetched_at": "2026-05-01T03:15:21.531426"
+}

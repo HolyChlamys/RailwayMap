@@ -1,0 +1,57 @@
+{
+  "train_no": "C9909",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "茂名",
+  "depart_time": "22:46",
+  "arrive_time": "00:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "22:46",
+      "depart_time": "22:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江门",
+      "arrive_time": "23:19",
+      "depart_time": "23:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "开平南",
+      "arrive_time": "23:44",
+      "depart_time": "23:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "恩平",
+      "arrive_time": "00:01",
+      "depart_time": "00:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "阳江",
+      "arrive_time": "00:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "茂名",
+      "arrive_time": "00:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 205.0,
+    "price_no_seat": 205.0
+  },
+  "fetched_at": "2026-05-01T02:53:54.862965"
+}

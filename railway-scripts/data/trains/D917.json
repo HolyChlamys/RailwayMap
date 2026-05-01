@@ -1,0 +1,78 @@
+{
+  "train_no": "D917",
+  "train_type": "D",
+  "depart_station": "深圳坪山",
+  "arrive_station": "太原南",
+  "depart_time": "19:07",
+  "arrive_time": "08:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳坪山",
+      "arrive_time": "19:07",
+      "depart_time": "19:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "19:26",
+      "depart_time": "19:34",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "虎门",
+      "arrive_time": "19:52",
+      "depart_time": "19:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "20:12",
+      "depart_time": "20:17",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州北",
+      "arrive_time": "20:35",
+      "depart_time": "20:41",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙南",
+      "arrive_time": "23:16",
+      "depart_time": "23:24",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "石家庄",
+      "arrive_time": "05:53",
+      "depart_time": "06:35",
+      "stay_min": "42"
+    },
+    {
+      "seq": 8,
+      "station_name": "阳泉北",
+      "arrive_time": "07:17",
+      "depart_time": "07:29",
+      "stay_min": "12"
+    },
+    {
+      "seq": 9,
+      "station_name": "太原南",
+      "arrive_time": "08:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 757.0,
+    "price_no_seat": 757.0
+  },
+  "fetched_at": "2026-05-01T05:08:58.486536"
+}

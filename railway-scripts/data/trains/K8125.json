@@ -1,0 +1,35 @@
+{
+  "train_no": "K8125",
+  "train_type": "K",
+  "depart_station": "武昌",
+  "arrive_station": "黄石",
+  "depart_time": "05:09",
+  "arrive_time": "06:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "05:09",
+      "depart_time": "05:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄂州",
+      "arrive_time": "06:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄石",
+      "arrive_time": "06:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 16.5
+  },
+  "fetched_at": "2026-05-01T10:36:07.263413"
+}

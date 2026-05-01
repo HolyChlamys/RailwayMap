@@ -1,0 +1,51 @@
+{
+  "train_no": "C5752",
+  "train_type": "C",
+  "depart_station": "双流机场",
+  "arrive_station": "黄龙九寨",
+  "depart_time": "11:19",
+  "arrive_time": "13:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "双流机场",
+      "arrive_time": "11:19",
+      "depart_time": "11:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都东",
+      "arrive_time": "11:34",
+      "depart_time": "11:46",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "青白江东",
+      "arrive_time": "12:01",
+      "depart_time": "12:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "安州",
+      "arrive_time": "12:31",
+      "depart_time": "12:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "黄龙九寨",
+      "arrive_time": "13:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 243.0,
+    "price_second": 151.0,
+    "price_no_seat": 151.0
+  },
+  "fetched_at": "2026-05-01T01:37:32.694955"
+}

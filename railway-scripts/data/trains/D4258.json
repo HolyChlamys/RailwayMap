@@ -1,0 +1,51 @@
+{
+  "train_no": "D4258",
+  "train_type": "D",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "西宁",
+  "depart_time": "12:46",
+  "arrive_time": "19:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "12:46",
+      "depart_time": "12:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "哈密",
+      "arrive_time": "15:37",
+      "depart_time": "15:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "嘉峪关南",
+      "arrive_time": "18:52",
+      "depart_time": "18:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "酒泉南",
+      "arrive_time": "19:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西宁",
+      "arrive_time": "19:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 789.0,
+    "price_second": 493.0,
+    "price_no_seat": 493.0
+  },
+  "fetched_at": "2026-05-01T03:46:28.466957"
+}

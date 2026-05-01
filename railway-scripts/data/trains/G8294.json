@@ -1,0 +1,86 @@
+{
+  "train_no": "G8294",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "盐城",
+  "depart_time": "14:44",
+  "arrive_time": "18:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "14:44",
+      "depart_time": "14:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "15:06",
+      "depart_time": "15:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "15:20",
+      "depart_time": "15:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "惠山",
+      "arrive_time": "15:42",
+      "depart_time": "15:43",
+      "stay_min": "1"
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "15:53",
+      "depart_time": "15:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "高邮",
+      "arrive_time": "16:46",
+      "depart_time": "16:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "淮安东",
+      "arrive_time": "17:16",
+      "depart_time": "17:34",
+      "stay_min": "18"
+    },
+    {
+      "seq": 8,
+      "station_name": "阜宁南",
+      "arrive_time": "17:51",
+      "depart_time": "17:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "建湖",
+      "arrive_time": "18:01",
+      "depart_time": "18:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "盐城",
+      "arrive_time": "18:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 427.0,
+    "price_second": 268.0,
+    "price_no_seat": 268.0
+  },
+  "fetched_at": "2026-05-01T08:47:13.615950"
+}

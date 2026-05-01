@@ -1,0 +1,66 @@
+{
+  "train_no": "D7713",
+  "train_type": "D",
+  "depart_station": "庄河北",
+  "arrive_station": "沈阳",
+  "depart_time": "10:53",
+  "arrive_time": "13:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "庄河北",
+      "arrive_time": "10:53",
+      "depart_time": "10:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青堆",
+      "arrive_time": "11:05",
+      "depart_time": "11:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "东港北",
+      "arrive_time": "11:36",
+      "depart_time": "11:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "丹东",
+      "arrive_time": "11:57",
+      "depart_time": "12:19",
+      "stay_min": "22"
+    },
+    {
+      "seq": 5,
+      "station_name": "五龙背东",
+      "arrive_time": "12:29",
+      "depart_time": "12:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "本溪",
+      "arrive_time": "13:08",
+      "depart_time": "13:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "沈阳",
+      "arrive_time": "13:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 382.0,
+    "price_first": 202.0,
+    "price_second": 125.5,
+    "price_no_seat": 125.5
+  },
+  "fetched_at": "2026-05-01T04:43:22.766637"
+}

@@ -1,0 +1,178 @@
+{
+  "train_no": "G3848",
+  "train_type": "G",
+  "depart_station": "太原南",
+  "arrive_station": "张家界西",
+  "depart_time": "08:33",
+  "arrive_time": "19:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "08:33",
+      "depart_time": "08:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "晋中",
+      "arrive_time": "08:45",
+      "depart_time": "08:48",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "榆社西",
+      "arrive_time": "09:14",
+      "depart_time": "09:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "襄垣东",
+      "arrive_time": "09:43",
+      "depart_time": "09:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "长治东",
+      "arrive_time": "09:59",
+      "depart_time": "10:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "晋城东",
+      "arrive_time": "10:29",
+      "depart_time": "10:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "修武西",
+      "arrive_time": "11:01",
+      "depart_time": "11:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "郑州",
+      "arrive_time": "11:30",
+      "depart_time": "11:38",
+      "stay_min": "8"
+    },
+    {
+      "seq": 9,
+      "station_name": "许昌东",
+      "arrive_time": "12:10",
+      "depart_time": "12:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "信阳东",
+      "arrive_time": "13:02",
+      "depart_time": "13:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "孝感北",
+      "arrive_time": "13:22",
+      "depart_time": "13:30",
+      "stay_min": "8"
+    },
+    {
+      "seq": 12,
+      "station_name": "武汉",
+      "arrive_time": "14:01",
+      "depart_time": "14:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "赤壁北",
+      "arrive_time": "14:38",
+      "depart_time": "14:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "汨罗东",
+      "arrive_time": "15:16",
+      "depart_time": "15:21",
+      "stay_min": "5"
+    },
+    {
+      "seq": 15,
+      "station_name": "长沙南",
+      "arrive_time": "15:41",
+      "depart_time": "15:53",
+      "stay_min": "12"
+    },
+    {
+      "seq": 16,
+      "station_name": "韶山南",
+      "arrive_time": "16:16",
+      "depart_time": "16:21",
+      "stay_min": "5"
+    },
+    {
+      "seq": 17,
+      "station_name": "娄底南",
+      "arrive_time": "16:38",
+      "depart_time": "16:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "邵阳北",
+      "arrive_time": "16:56",
+      "depart_time": "16:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "怀化南",
+      "arrive_time": "17:39",
+      "depart_time": "17:43",
+      "stay_min": "4"
+    },
+    {
+      "seq": 20,
+      "station_name": "凤凰古城",
+      "arrive_time": "18:08",
+      "depart_time": "18:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 21,
+      "station_name": "吉首东",
+      "arrive_time": "18:21",
+      "depart_time": "18:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 22,
+      "station_name": "芙蓉镇",
+      "arrive_time": "18:44",
+      "depart_time": "18:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 23,
+      "station_name": "张家界西",
+      "arrive_time": "19:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3527.0,
+    "price_first": 1620.0,
+    "price_second": 1013.0,
+    "price_no_seat": 1013.0
+  },
+  "fetched_at": "2026-05-01T06:49:01.797161"
+}

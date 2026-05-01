@@ -1,0 +1,80 @@
+{
+  "train_no": "G5157",
+  "train_type": "G",
+  "depart_station": "深圳",
+  "arrive_station": "湛江北",
+  "depart_time": "19:40",
+  "arrive_time": "23:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "19:40",
+      "depart_time": "19:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞",
+      "arrive_time": "20:13",
+      "depart_time": "20:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州新塘",
+      "arrive_time": "20:29",
+      "depart_time": "20:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州东",
+      "arrive_time": "20:47",
+      "depart_time": "20:56",
+      "stay_min": "9"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州",
+      "arrive_time": "21:05",
+      "depart_time": "21:15",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "阳春东",
+      "arrive_time": "22:09",
+      "depart_time": "22:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "阳江北",
+      "arrive_time": "22:22",
+      "depart_time": "22:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "茂名南",
+      "arrive_time": "22:47",
+      "depart_time": "22:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "湛江北",
+      "arrive_time": "23:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1424.0,
+    "price_first": 622.5,
+    "price_second": 406.5,
+    "price_no_seat": 406.5
+  },
+  "fetched_at": "2026-05-01T07:26:18.745385"
+}

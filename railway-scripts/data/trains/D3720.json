@@ -1,0 +1,100 @@
+{
+  "train_no": "D3720",
+  "train_type": "D",
+  "depart_station": "北海",
+  "arrive_station": "广州",
+  "depart_time": "14:05",
+  "arrive_time": "19:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北海",
+      "arrive_time": "14:05",
+      "depart_time": "14:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合浦",
+      "arrive_time": "14:17",
+      "depart_time": "14:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "钦州东",
+      "arrive_time": "14:42",
+      "depart_time": "14:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁东",
+      "arrive_time": "15:19",
+      "depart_time": "15:39",
+      "stay_min": "20"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵港",
+      "arrive_time": "16:19",
+      "depart_time": "16:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "平南南",
+      "arrive_time": "16:49",
+      "depart_time": "16:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "藤县",
+      "arrive_time": "17:10",
+      "depart_time": "17:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "梧州南",
+      "arrive_time": "17:23",
+      "depart_time": "17:27",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "南江口",
+      "arrive_time": "17:50",
+      "depart_time": "17:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "云浮东",
+      "arrive_time": "18:06",
+      "depart_time": "18:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "佛山西",
+      "arrive_time": "18:46",
+      "depart_time": "18:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "广州",
+      "arrive_time": "19:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 550.0,
+    "price_second": 344.0,
+    "price_no_seat": 344.0
+  },
+  "fetched_at": "2026-05-01T03:37:44.562958"
+}

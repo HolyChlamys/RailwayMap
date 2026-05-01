@@ -1,0 +1,64 @@
+{
+  "train_no": "S5365",
+  "train_type": "S",
+  "depart_station": "贵阳北",
+  "arrive_station": "龙洞堡",
+  "depart_time": "06:52",
+  "arrive_time": "08:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "06:52",
+      "depart_time": "06:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳",
+      "arrive_time": "07:05",
+      "depart_time": "07:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "花溪大学城",
+      "arrive_time": "07:27",
+      "depart_time": "07:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵安",
+      "arrive_time": "07:43",
+      "depart_time": "07:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "金阳",
+      "arrive_time": "07:59",
+      "depart_time": "07:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳东",
+      "arrive_time": "08:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "龙洞堡",
+      "arrive_time": "08:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 65.0,
+    "price_no_seat": 65.0
+  },
+  "fetched_at": "2026-05-01T11:05:37.993312"
+}

@@ -1,0 +1,57 @@
+{
+  "train_no": "S8043",
+  "train_type": "S",
+  "depart_station": "老城镇",
+  "arrive_station": "美兰",
+  "depart_time": "20:13",
+  "arrive_time": "20:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "老城镇",
+      "arrive_time": "20:13",
+      "depart_time": "20:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长流",
+      "arrive_time": "20:28",
+      "depart_time": "20:29",
+      "stay_min": "1"
+    },
+    {
+      "seq": 3,
+      "station_name": "秀英",
+      "arrive_time": "20:35",
+      "depart_time": "20:36",
+      "stay_min": "1"
+    },
+    {
+      "seq": 4,
+      "station_name": "城西",
+      "arrive_time": "20:41",
+      "depart_time": "20:42",
+      "stay_min": "1"
+    },
+    {
+      "seq": 5,
+      "station_name": "海口东",
+      "arrive_time": "20:46",
+      "depart_time": "20:51",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "美兰",
+      "arrive_time": "20:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 13.0,
+    "price_no_seat": 13.0
+  },
+  "fetched_at": "2026-05-01T11:17:09.565600"
+}

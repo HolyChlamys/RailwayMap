@@ -1,0 +1,42 @@
+{
+  "train_no": "K7018",
+  "train_type": "K",
+  "depart_station": "绥化",
+  "arrive_station": "哈尔滨东",
+  "depart_time": "06:50",
+  "arrive_time": "08:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "绥化",
+      "arrive_time": "06:50",
+      "depart_time": "06:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴隆镇",
+      "arrive_time": "07:15",
+      "depart_time": "07:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "呼兰",
+      "arrive_time": "08:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨东",
+      "arrive_time": "08:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 19.5
+  },
+  "fetched_at": "2026-05-01T10:27:27.906517"
+}

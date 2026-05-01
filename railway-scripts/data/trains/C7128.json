@@ -1,0 +1,59 @@
+{
+  "train_no": "C7128",
+  "train_type": "C",
+  "depart_station": "广州东",
+  "arrive_station": "陆丰",
+  "depart_time": "23:30",
+  "arrive_time": "02:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "23:30",
+      "depart_time": "23:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "23:44",
+      "depart_time": "23:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "东莞南",
+      "arrive_time": "00:17",
+      "depart_time": "00:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "00:41",
+      "depart_time": "00:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "惠阳",
+      "arrive_time": "01:11",
+      "depart_time": "01:21",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "陆丰",
+      "arrive_time": "02:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 278.0,
+    "price_first": 99.5,
+    "price_second": 79.5,
+    "price_no_seat": 79.5
+  },
+  "fetched_at": "2026-05-01T02:06:43.900250"
+}

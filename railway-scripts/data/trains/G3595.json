@@ -1,0 +1,73 @@
+{
+  "train_no": "G3595",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "南宁东",
+  "depart_time": "09:16",
+  "arrive_time": "13:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "09:16",
+      "depart_time": "09:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遵义",
+      "arrive_time": "10:35",
+      "depart_time": "10:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "11:24",
+      "depart_time": "11:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳",
+      "arrive_time": "11:38",
+      "depart_time": "11:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "独山东",
+      "arrive_time": "12:24",
+      "depart_time": "12:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "荔波",
+      "arrive_time": "12:46",
+      "depart_time": "12:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "河池西",
+      "arrive_time": "13:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南宁东",
+      "arrive_time": "13:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1393.0,
+    "price_first": 672.0,
+    "price_second": 420.0,
+    "price_no_seat": 420.0
+  },
+  "fetched_at": "2026-05-01T06:42:19.582214"
+}

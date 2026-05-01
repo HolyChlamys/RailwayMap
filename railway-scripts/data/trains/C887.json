@@ -1,0 +1,31 @@
+{
+  "train_no": "C887",
+  "train_type": "C",
+  "depart_station": "拉萨",
+  "arrive_station": "日喀则",
+  "depart_time": "13:50",
+  "arrive_time": "13:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "拉萨",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "日喀则",
+      "arrive_time": "13:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 321.0,
+    "price_first": 147.0,
+    "price_second": 92.0,
+    "price_no_seat": 92.0
+  },
+  "fetched_at": "2026-05-01T02:37:13.434414"
+}

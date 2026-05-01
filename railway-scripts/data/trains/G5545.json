@@ -1,0 +1,52 @@
+{
+  "train_no": "G5545",
+  "train_type": "G",
+  "depart_station": "济南东",
+  "arrive_station": "青岛北",
+  "depart_time": "20:48",
+  "arrive_time": "21:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "20:48",
+      "depart_time": "20:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淄博北",
+      "arrive_time": "21:12",
+      "depart_time": "21:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "青州市北",
+      "arrive_time": "21:30",
+      "depart_time": "21:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潍坊北",
+      "arrive_time": "21:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "青岛北",
+      "arrive_time": "21:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 469.0,
+    "price_first": 245.0,
+    "price_second": 154.0,
+    "price_no_seat": 154.0
+  },
+  "fetched_at": "2026-05-01T07:36:30.506860"
+}

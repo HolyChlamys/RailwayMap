@@ -1,0 +1,37 @@
+{
+  "train_no": "G9801",
+  "train_type": "G",
+  "depart_station": "景德镇北",
+  "arrive_station": "南昌东",
+  "depart_time": "19:36",
+  "arrive_time": "19:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "景德镇北",
+      "arrive_time": "19:36",
+      "depart_time": "19:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄱阳",
+      "arrive_time": "19:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌东",
+      "arrive_time": "19:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 150.0,
+    "price_second": 94.0,
+    "price_no_seat": 94.0
+  },
+  "fetched_at": "2026-05-01T09:24:39.172885"
+}

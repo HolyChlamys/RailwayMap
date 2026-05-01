@@ -1,0 +1,59 @@
+{
+  "train_no": "C636",
+  "train_type": "C",
+  "depart_station": "宁波",
+  "arrive_station": "杭州",
+  "depart_time": "14:35",
+  "arrive_time": "16:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "14:35",
+      "depart_time": "14:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "余姚",
+      "arrive_time": "15:11",
+      "depart_time": "15:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "上虞",
+      "arrive_time": "15:37",
+      "depart_time": "15:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绍兴",
+      "arrive_time": "16:00",
+      "depart_time": "16:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州南",
+      "arrive_time": "16:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州",
+      "arrive_time": "16:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 185.0,
+    "price_first": 84.0,
+    "price_second": 53.0,
+    "price_no_seat": 53.0
+  },
+  "fetched_at": "2026-05-01T01:49:56.681511"
+}

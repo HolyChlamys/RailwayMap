@@ -1,0 +1,44 @@
+{
+  "train_no": "C487",
+  "train_type": "C",
+  "depart_station": "包头",
+  "arrive_station": "鄂尔多斯",
+  "depart_time": "12:22",
+  "arrive_time": "13:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "包头",
+      "arrive_time": "12:22",
+      "depart_time": "12:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "达拉特西",
+      "arrive_time": "12:46",
+      "depart_time": "12:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东胜西",
+      "arrive_time": "13:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鄂尔多斯",
+      "arrive_time": "13:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 55.0,
+    "price_second": 34.0,
+    "price_no_seat": 34.0
+  },
+  "fetched_at": "2026-05-01T01:20:26.803708"
+}

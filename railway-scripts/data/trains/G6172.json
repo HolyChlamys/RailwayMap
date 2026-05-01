@@ -1,0 +1,94 @@
+{
+  "train_no": "G6172",
+  "train_type": "G",
+  "depart_station": "潮汕",
+  "arrive_station": "岳阳东",
+  "depart_time": "09:37",
+  "arrive_time": "15:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潮汕",
+      "arrive_time": "09:37",
+      "depart_time": "09:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普宁",
+      "arrive_time": "09:54",
+      "depart_time": "09:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "汕尾",
+      "arrive_time": "10:25",
+      "depart_time": "10:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "惠阳",
+      "arrive_time": "10:56",
+      "depart_time": "10:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "11:23",
+      "depart_time": "11:29",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "11:58",
+      "depart_time": "12:03",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "韶关",
+      "arrive_time": "12:49",
+      "depart_time": "12:58",
+      "stay_min": "9"
+    },
+    {
+      "seq": 8,
+      "station_name": "株洲西",
+      "arrive_time": "14:12",
+      "depart_time": "14:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "长沙南",
+      "arrive_time": "14:29",
+      "depart_time": "14:34",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "汨罗东",
+      "arrive_time": "14:53",
+      "depart_time": "14:59",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "岳阳东",
+      "arrive_time": "15:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2249.5,
+    "price_first": 1036.5,
+    "price_second": 659.5,
+    "price_no_seat": 659.5
+  },
+  "fetched_at": "2026-05-01T07:50:55.423385"
+}

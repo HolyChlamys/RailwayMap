@@ -1,0 +1,72 @@
+{
+  "train_no": "C1347",
+  "train_type": "C",
+  "depart_station": "白城",
+  "arrive_station": "延吉西",
+  "depart_time": "07:40",
+  "arrive_time": "12:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "白城",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "松原",
+      "arrive_time": "08:55",
+      "depart_time": "08:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "长春",
+      "arrive_time": "10:05",
+      "depart_time": "10:25",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "龙嘉",
+      "arrive_time": "10:39",
+      "depart_time": "10:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "吉林",
+      "arrive_time": "11:11",
+      "depart_time": "11:14",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "敦化",
+      "arrive_time": "12:08",
+      "depart_time": "12:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "安图西",
+      "arrive_time": "12:33",
+      "depart_time": "12:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "延吉西",
+      "arrive_time": "12:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 385.0,
+    "price_second": 240.0,
+    "price_no_seat": 240.0
+  },
+  "fetched_at": "2026-05-01T00:25:10.189345"
+}

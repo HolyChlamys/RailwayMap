@@ -1,0 +1,31 @@
+{
+  "train_no": "D6265",
+  "train_type": "D",
+  "depart_station": "泉州",
+  "arrive_station": "厦门北",
+  "depart_time": "20:32",
+  "arrive_time": "20:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "泉州",
+      "arrive_time": "20:32",
+      "depart_time": "20:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "厦门北",
+      "arrive_time": "20:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 642.5,
+    "price_first": 342.5,
+    "price_second": 214.0,
+    "price_no_seat": 214.0
+  },
+  "fetched_at": "2026-05-01T04:20:00.106378"
+}

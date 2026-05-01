@@ -1,0 +1,49 @@
+{
+  "train_no": "K5292",
+  "train_type": "K",
+  "depart_station": "邯郸",
+  "arrive_station": "天津",
+  "depart_time": "15:56",
+  "arrive_time": "22:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邯郸",
+      "arrive_time": "15:56",
+      "depart_time": "15:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邢台",
+      "arrive_time": "16:27",
+      "depart_time": "16:33",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "17:44",
+      "depart_time": "17:51",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "保定",
+      "arrive_time": "19:21",
+      "depart_time": "19:39",
+      "stay_min": "18"
+    },
+    {
+      "seq": 5,
+      "station_name": "天津",
+      "arrive_time": "22:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T10:07:42.529838"
+}

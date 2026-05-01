@@ -1,0 +1,86 @@
+{
+  "train_no": "D6582",
+  "train_type": "D",
+  "depart_station": "厦门",
+  "arrive_station": "赣州",
+  "depart_time": "11:42",
+  "arrive_time": "14:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "11:42",
+      "depart_time": "11:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "12:17",
+      "depart_time": "12:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南靖",
+      "arrive_time": "12:35",
+      "depart_time": "12:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙岩",
+      "arrive_time": "13:13",
+      "depart_time": "13:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "冠豸山南",
+      "arrive_time": "13:44",
+      "depart_time": "13:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长汀南",
+      "arrive_time": "14:03",
+      "depart_time": "14:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "瑞金",
+      "arrive_time": "14:21",
+      "depart_time": "14:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "会昌北",
+      "arrive_time": "14:38",
+      "depart_time": "14:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "于都",
+      "arrive_time": "14:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "赣州",
+      "arrive_time": "14:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 250.0,
+    "price_second": 157.0,
+    "price_no_seat": 157.0
+  },
+  "fetched_at": "2026-05-01T04:25:49.652101"
+}

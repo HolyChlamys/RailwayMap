@@ -1,0 +1,66 @@
+{
+  "train_no": "G7702",
+  "train_type": "G",
+  "depart_station": "杭州西",
+  "arrive_station": "亳州南",
+  "depart_time": "06:20",
+  "arrive_time": "09:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "06:20",
+      "depart_time": "06:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "芜湖",
+      "arrive_time": "07:36",
+      "depart_time": "07:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "08:18",
+      "depart_time": "08:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "寿县",
+      "arrive_time": "09:03",
+      "depart_time": "09:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "阜阳西",
+      "arrive_time": "09:34",
+      "depart_time": "09:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "太和东",
+      "arrive_time": "09:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "亳州南",
+      "arrive_time": "09:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1217.5,
+    "price_first": 639.5,
+    "price_second": 396.5,
+    "price_no_seat": 396.5
+  },
+  "fetched_at": "2026-05-01T08:34:21.304158"
+}

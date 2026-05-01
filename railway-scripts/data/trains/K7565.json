@@ -1,0 +1,77 @@
+{
+  "train_no": "K7565",
+  "train_type": "K",
+  "depart_station": "沈阳",
+  "arrive_station": "阿尔山",
+  "depart_time": "21:09",
+  "arrive_time": "08:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "21:09",
+      "depart_time": "21:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "铁岭",
+      "arrive_time": "22:00",
+      "depart_time": "22:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "四平",
+      "arrive_time": "23:30",
+      "depart_time": "23:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "白城",
+      "arrive_time": "04:00",
+      "depart_time": "04:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乌兰浩特",
+      "arrive_time": "05:06",
+      "depart_time": "05:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "德伯斯",
+      "arrive_time": "06:19",
+      "depart_time": "06:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "索伦",
+      "arrive_time": "06:39",
+      "depart_time": "06:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "五叉沟",
+      "arrive_time": "08:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "阿尔山",
+      "arrive_time": "08:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 115.0
+  },
+  "fetched_at": "2026-05-01T10:30:35.188196"
+}

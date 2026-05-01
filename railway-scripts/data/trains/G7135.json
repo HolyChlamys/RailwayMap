@@ -1,0 +1,59 @@
+{
+  "train_no": "G7135",
+  "train_type": "G",
+  "depart_station": "南京南",
+  "arrive_station": "上海虹桥",
+  "depart_time": "07:08",
+  "arrive_time": "08:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "07:08",
+      "depart_time": "07:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金坛",
+      "arrive_time": "07:36",
+      "depart_time": "07:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武进",
+      "arrive_time": "07:51",
+      "depart_time": "07:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "江阴",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太仓南",
+      "arrive_time": "08:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "上海虹桥",
+      "arrive_time": "08:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 607.0,
+    "price_first": 282.0,
+    "price_second": 177.0,
+    "price_no_seat": 177.0
+  },
+  "fetched_at": "2026-05-01T08:18:32.211193"
+}

@@ -1,0 +1,49 @@
+{
+  "train_no": "K5164",
+  "train_type": "K",
+  "depart_station": "佳木斯",
+  "arrive_station": "哈尔滨东",
+  "depart_time": "08:01",
+  "arrive_time": "14:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佳木斯",
+      "arrive_time": "08:01",
+      "depart_time": "08:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绥化",
+      "arrive_time": "12:51",
+      "depart_time": "12:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "白奎堡",
+      "arrive_time": "13:28",
+      "depart_time": "13:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "呼兰",
+      "arrive_time": "14:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "哈尔滨东",
+      "arrive_time": "14:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T10:05:15.854070"
+}

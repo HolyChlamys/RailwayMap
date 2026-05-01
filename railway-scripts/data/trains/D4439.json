@@ -1,0 +1,44 @@
+{
+  "train_no": "D4439",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "汉口",
+  "depart_time": "02:44",
+  "arrive_time": "06:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "02:44",
+      "depart_time": "02:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "04:03",
+      "depart_time": "04:10",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "04:59",
+      "depart_time": "05:04",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "06:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 514.5,
+    "price_second": 322.0,
+    "price_no_seat": 322.0
+  },
+  "fetched_at": "2026-05-01T03:50:38.908506"
+}

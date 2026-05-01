@@ -1,0 +1,38 @@
+{
+  "train_no": "G6905",
+  "train_type": "G",
+  "depart_station": "济南东",
+  "arrive_station": "青岛",
+  "depart_time": "06:30",
+  "arrive_time": "07:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "06:30",
+      "depart_time": "06:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛北",
+      "arrive_time": "07:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "青岛",
+      "arrive_time": "07:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 489.0,
+    "price_first": 254.0,
+    "price_second": 159.0,
+    "price_no_seat": 159.0
+  },
+  "fetched_at": "2026-05-01T08:12:26.964855"
+}

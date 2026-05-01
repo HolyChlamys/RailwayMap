@@ -1,0 +1,79 @@
+{
+  "train_no": "D2905",
+  "train_type": "D",
+  "depart_station": "青岛北",
+  "arrive_station": "上海",
+  "depart_time": "15:53",
+  "arrive_time": "20:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "15:53",
+      "depart_time": "15:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "日照西",
+      "arrive_time": "16:57",
+      "depart_time": "16:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "连云港",
+      "arrive_time": "17:42",
+      "depart_time": "17:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "灌南",
+      "arrive_time": "18:12",
+      "depart_time": "18:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "淮安东",
+      "arrive_time": "18:35",
+      "depart_time": "18:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州东",
+      "arrive_time": "19:17",
+      "depart_time": "19:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "常州",
+      "arrive_time": "20:00",
+      "depart_time": "20:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "苏州",
+      "arrive_time": "20:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "上海",
+      "arrive_time": "20:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 554.0,
+    "price_second": 346.0,
+    "price_no_seat": 346.0
+  },
+  "fetched_at": "2026-05-01T03:25:29.849783"
+}

@@ -1,0 +1,77 @@
+{
+  "train_no": "T9519",
+  "train_type": "T",
+  "depart_station": "喀什",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "20:18",
+  "arrive_time": "12:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "喀什",
+      "arrive_time": "20:18",
+      "depart_time": "20:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巴楚",
+      "arrive_time": "22:38",
+      "depart_time": "22:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "阿克苏",
+      "arrive_time": "01:26",
+      "depart_time": "01:42",
+      "stay_min": "16"
+    },
+    {
+      "seq": 4,
+      "station_name": "新和",
+      "arrive_time": "03:23",
+      "depart_time": "03:27",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "库车",
+      "arrive_time": "03:57",
+      "depart_time": "04:03",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "库尔勒",
+      "arrive_time": "06:30",
+      "depart_time": "06:50",
+      "stay_min": "20"
+    },
+    {
+      "seq": 7,
+      "station_name": "焉耆",
+      "arrive_time": "07:25",
+      "depart_time": "07:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "吐鲁番北",
+      "arrive_time": "10:07",
+      "depart_time": "10:33",
+      "stay_min": "26"
+    },
+    {
+      "seq": 9,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "12:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 177.5
+  },
+  "fetched_at": "2026-05-01T11:28:29.741560"
+}

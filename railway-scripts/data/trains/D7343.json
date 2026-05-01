@@ -1,0 +1,44 @@
+{
+  "train_no": "D7343",
+  "train_type": "D",
+  "depart_station": "郁南",
+  "arrive_station": "佛山西",
+  "depart_time": "22:08",
+  "arrive_time": "23:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郁南",
+      "arrive_time": "22:08",
+      "depart_time": "22:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "云浮东",
+      "arrive_time": "22:34",
+      "depart_time": "22:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "肇庆东",
+      "arrive_time": "23:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "佛山西",
+      "arrive_time": "23:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 129.0,
+    "price_second": 81.0,
+    "price_no_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T04:36:48.066270"
+}

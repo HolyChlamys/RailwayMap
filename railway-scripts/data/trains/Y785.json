@@ -1,0 +1,40 @@
+{
+  "train_no": "Y785",
+  "train_type": "Y",
+  "depart_station": "昆明",
+  "arrive_station": "亚布力",
+  "depart_time": "09:25",
+  "arrive_time": "09:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "09:25",
+      "depart_time": "09:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "哈尔滨东",
+      "arrive_time": "05:32",
+      "depart_time": "06:05",
+      "stay_min": "33"
+    },
+    {
+      "seq": 3,
+      "station_name": "西双版纳",
+      "arrive_time": "14:42",
+      "depart_time": "14:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "亚布力",
+      "arrive_time": "09:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:38:46.104104"
+}

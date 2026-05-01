@@ -1,0 +1,52 @@
+{
+  "train_no": "C8913",
+  "train_type": "C",
+  "depart_station": "延安",
+  "arrive_station": "西安北",
+  "depart_time": "20:25",
+  "arrive_time": "21:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "延安",
+      "arrive_time": "20:25",
+      "depart_time": "20:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛川",
+      "arrive_time": "20:52",
+      "depart_time": "20:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "铜川北",
+      "arrive_time": "21:18",
+      "depart_time": "21:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "高陵",
+      "arrive_time": "21:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西安北",
+      "arrive_time": "21:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 757.0,
+    "price_first": 346.0,
+    "price_second": 216.0,
+    "price_no_seat": 216.0
+  },
+  "fetched_at": "2026-05-01T02:38:28.205102"
+}

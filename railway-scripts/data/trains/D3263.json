@@ -1,0 +1,107 @@
+{
+  "train_no": "D3263",
+  "train_type": "D",
+  "depart_station": "武汉",
+  "arrive_station": "福州",
+  "depart_time": "09:00",
+  "arrive_time": "14:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄂州",
+      "arrive_time": "09:31",
+      "depart_time": "09:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "庐山",
+      "arrive_time": "10:25",
+      "depart_time": "10:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌西",
+      "arrive_time": "11:15",
+      "depart_time": "11:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "抚州",
+      "arrive_time": "11:55",
+      "depart_time": "11:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南城",
+      "arrive_time": "12:16",
+      "depart_time": "12:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "建宁县北",
+      "arrive_time": "12:47",
+      "depart_time": "12:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "泰宁",
+      "arrive_time": "13:03",
+      "depart_time": "13:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "将乐",
+      "arrive_time": "13:22",
+      "depart_time": "13:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "三明北",
+      "arrive_time": "13:43",
+      "depart_time": "13:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "尤溪",
+      "arrive_time": "14:04",
+      "depart_time": "14:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "永泰",
+      "arrive_time": "14:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 13,
+      "station_name": "福州",
+      "arrive_time": "14:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 546.0,
+    "price_second": 342.0,
+    "price_no_seat": 342.0
+  },
+  "fetched_at": "2026-05-01T03:30:47.435784"
+}

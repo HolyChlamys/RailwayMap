@@ -1,0 +1,56 @@
+{
+  "train_no": "K5023",
+  "train_type": "K",
+  "depart_station": "大连",
+  "arrive_station": "沈阳",
+  "depart_time": "05:23",
+  "arrive_time": "08:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连",
+      "arrive_time": "05:23",
+      "depart_time": "05:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普兰店",
+      "arrive_time": "06:21",
+      "depart_time": "06:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "瓦房店",
+      "arrive_time": "06:45",
+      "depart_time": "06:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "熊岳城",
+      "arrive_time": "07:39",
+      "depart_time": "07:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "大石桥",
+      "arrive_time": "08:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "沈阳",
+      "arrive_time": "08:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 54.5
+  },
+  "fetched_at": "2026-05-01T10:02:02.808957"
+}

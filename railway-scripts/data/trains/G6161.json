@@ -1,0 +1,73 @@
+{
+  "train_no": "G6161",
+  "train_type": "G",
+  "depart_station": "广州",
+  "arrive_station": "邵阳",
+  "depart_time": "12:01",
+  "arrive_time": "16:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "12:01",
+      "depart_time": "12:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州白云",
+      "arrive_time": "12:11",
+      "depart_time": "12:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州西",
+      "arrive_time": "13:34",
+      "depart_time": "13:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "株洲西",
+      "arrive_time": "14:31",
+      "depart_time": "14:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "长沙南",
+      "arrive_time": "14:49",
+      "depart_time": "15:08",
+      "stay_min": "19"
+    },
+    {
+      "seq": 6,
+      "station_name": "娄底南",
+      "arrive_time": "15:46",
+      "depart_time": "15:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "邵东",
+      "arrive_time": "16:16",
+      "depart_time": "16:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "邵阳",
+      "arrive_time": "16:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1652.0,
+    "price_first": 758.0,
+    "price_second": 476.5,
+    "price_no_seat": 476.5
+  },
+  "fetched_at": "2026-05-01T07:50:42.124274"
+}

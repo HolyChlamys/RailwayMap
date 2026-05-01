@@ -1,0 +1,87 @@
+{
+  "train_no": "G6785",
+  "train_type": "G",
+  "depart_station": "汉口",
+  "arrive_station": "巴东",
+  "depart_time": "08:05",
+  "arrive_time": "11:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感东",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "安陆西",
+      "arrive_time": "08:52",
+      "depart_time": "08:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "枣阳",
+      "arrive_time": "09:32",
+      "depart_time": "09:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "襄阳东",
+      "arrive_time": "09:53",
+      "depart_time": "09:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南漳",
+      "arrive_time": "10:18",
+      "depart_time": "10:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "保康县",
+      "arrive_time": "10:39",
+      "depart_time": "10:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "神农架",
+      "arrive_time": "10:58",
+      "depart_time": "10:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "兴山",
+      "arrive_time": "11:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "巴东",
+      "arrive_time": "11:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 896.0,
+    "price_first": 444.0,
+    "price_second": 277.0,
+    "price_no_seat": 277.0
+  },
+  "fetched_at": "2026-05-01T08:08:47.294592"
+}

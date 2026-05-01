@@ -1,0 +1,37 @@
+{
+  "train_no": "D4311",
+  "train_type": "D",
+  "depart_station": "重庆西",
+  "arrive_station": "佛山西",
+  "depart_time": "22:52",
+  "arrive_time": "00:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "22:52",
+      "depart_time": "22:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳东",
+      "arrive_time": "00:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "佛山西",
+      "arrive_time": "00:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 853.0,
+    "price_second": 534.0,
+    "price_no_seat": 534.0
+  },
+  "fetched_at": "2026-05-01T03:47:27.674461"
+}

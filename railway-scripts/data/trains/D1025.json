@@ -1,0 +1,59 @@
+{
+  "train_no": "D1025",
+  "train_type": "D",
+  "depart_station": "清河",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "09:34",
+  "arrive_time": "11:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清河",
+      "arrive_time": "09:34",
+      "depart_time": "09:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东花园北",
+      "arrive_time": "10:09",
+      "depart_time": "10:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宣化北",
+      "arrive_time": "10:42",
+      "depart_time": "10:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "张家口",
+      "arrive_time": "10:55",
+      "depart_time": "10:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "兴和北",
+      "arrive_time": "11:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "呼和浩特东",
+      "arrive_time": "11:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 574.0,
+    "price_first": 307.0,
+    "price_second": 191.0,
+    "price_no_seat": 191.0
+  },
+  "fetched_at": "2026-05-01T02:55:57.192049"
+}

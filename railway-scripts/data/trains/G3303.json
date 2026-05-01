@@ -1,0 +1,73 @@
+{
+  "train_no": "G3303",
+  "train_type": "G",
+  "depart_station": "日照",
+  "arrive_station": "郑州东",
+  "depart_time": "11:40",
+  "arrive_time": "14:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "日照",
+      "arrive_time": "11:40",
+      "depart_time": "11:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "厉家寨",
+      "arrive_time": "12:05",
+      "depart_time": "12:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "临沂北",
+      "arrive_time": "12:27",
+      "depart_time": "12:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "嘉祥北",
+      "arrive_time": "13:17",
+      "depart_time": "13:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "巨野北",
+      "arrive_time": "13:30",
+      "depart_time": "13:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "菏泽东",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "兰考南",
+      "arrive_time": "14:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "郑州东",
+      "arrive_time": "14:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1018.0,
+    "price_first": 503.0,
+    "price_second": 314.0,
+    "price_no_seat": 314.0
+  },
+  "fetched_at": "2026-05-01T06:34:13.823073"
+}

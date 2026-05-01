@@ -1,0 +1,45 @@
+{
+  "train_no": "G6908",
+  "train_type": "G",
+  "depart_station": "青岛北",
+  "arrive_station": "济南东",
+  "depart_time": "09:30",
+  "arrive_time": "10:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "09:30",
+      "depart_time": "09:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潍坊北",
+      "arrive_time": "10:21",
+      "depart_time": "10:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "淄博北",
+      "arrive_time": "10:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "济南东",
+      "arrive_time": "10:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 469.0,
+    "price_first": 250.0,
+    "price_second": 156.0,
+    "price_no_seat": 156.0
+  },
+  "fetched_at": "2026-05-01T08:12:30.308913"
+}

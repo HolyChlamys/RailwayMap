@@ -1,0 +1,101 @@
+{
+  "train_no": "G8111",
+  "train_type": "G",
+  "depart_station": "大连北",
+  "arrive_station": "长白山",
+  "depart_time": "07:09",
+  "arrive_time": "11:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "07:09",
+      "depart_time": "07:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "营口东",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "海城西",
+      "arrive_time": "08:15",
+      "depart_time": "08:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鞍山西",
+      "arrive_time": "08:29",
+      "depart_time": "08:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "辽阳",
+      "arrive_time": "08:42",
+      "depart_time": "08:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "沈阳北",
+      "arrive_time": "09:11",
+      "depart_time": "09:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "抚顺",
+      "arrive_time": "09:32",
+      "depart_time": "09:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "新宾",
+      "arrive_time": "10:02",
+      "depart_time": "10:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "通化",
+      "arrive_time": "10:24",
+      "depart_time": "10:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "白山东",
+      "arrive_time": "10:43",
+      "depart_time": "10:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "长白山西",
+      "arrive_time": "11:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "长白山",
+      "arrive_time": "11:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1941.0,
+    "price_first": 887.0,
+    "price_second": 555.0,
+    "price_no_seat": 555.0
+  },
+  "fetched_at": "2026-05-01T08:44:36.783274"
+}

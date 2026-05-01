@@ -1,0 +1,58 @@
+{
+  "train_no": "C380",
+  "train_type": "C",
+  "depart_station": "西安",
+  "arrive_station": "韩城",
+  "depart_time": "14:45",
+  "arrive_time": "16:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "14:45",
+      "depart_time": "14:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张桥",
+      "arrive_time": "15:22",
+      "depart_time": "15:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "陈庄",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "韦庄",
+      "arrive_time": "16:03",
+      "depart_time": "16:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "合阳北",
+      "arrive_time": "16:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "韩城",
+      "arrive_time": "16:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 108.0,
+    "price_second": 68.0,
+    "price_no_seat": 68.0
+  },
+  "fetched_at": "2026-05-01T01:04:17.067904"
+}

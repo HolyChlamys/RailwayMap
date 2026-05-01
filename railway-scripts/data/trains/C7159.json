@@ -1,0 +1,65 @@
+{
+  "train_no": "C7159",
+  "train_type": "C",
+  "depart_station": "怀集",
+  "arrive_station": "湛江西",
+  "depart_time": "22:41",
+  "arrive_time": "02:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "怀集",
+      "arrive_time": "22:41",
+      "depart_time": "22:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广宁",
+      "arrive_time": "23:03",
+      "depart_time": "23:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "23:59",
+      "depart_time": "23:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "江门",
+      "arrive_time": "00:32",
+      "depart_time": "00:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "阳江",
+      "arrive_time": "01:27",
+      "depart_time": "01:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "茂名",
+      "arrive_time": "02:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "湛江西",
+      "arrive_time": "02:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 535.0,
+    "price_second": 342.0,
+    "price_no_seat": 342.0
+  },
+  "fetched_at": "2026-05-01T02:07:38.418679"
+}

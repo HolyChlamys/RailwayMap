@@ -1,0 +1,37 @@
+{
+  "train_no": "C185",
+  "train_type": "C",
+  "depart_station": "延安",
+  "arrive_station": "西安",
+  "depart_time": "13:32",
+  "arrive_time": "14:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "延安",
+      "arrive_time": "13:32",
+      "depart_time": "13:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "富县东",
+      "arrive_time": "14:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "西安",
+      "arrive_time": "14:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 161.0,
+    "price_second": 101.0,
+    "price_no_seat": 101.0
+  },
+  "fetched_at": "2026-05-01T00:27:40.099183"
+}

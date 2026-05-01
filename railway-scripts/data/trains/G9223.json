@@ -1,0 +1,59 @@
+{
+  "train_no": "G9223",
+  "train_type": "G",
+  "depart_station": "济南西",
+  "arrive_station": "青岛北",
+  "depart_time": "18:02",
+  "arrive_time": "19:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "18:02",
+      "depart_time": "18:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南东",
+      "arrive_time": "18:26",
+      "depart_time": "18:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "章丘北",
+      "arrive_time": "18:43",
+      "depart_time": "18:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "青州市北",
+      "arrive_time": "19:11",
+      "depart_time": "19:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "胶州北",
+      "arrive_time": "19:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "青岛北",
+      "arrive_time": "19:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 518.0,
+    "price_first": 271.0,
+    "price_second": 170.0,
+    "price_no_seat": 170.0
+  },
+  "fetched_at": "2026-05-01T09:08:27.025056"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G4888",
+  "train_type": "G",
+  "depart_station": "赣州西",
+  "arrive_station": "长沙南",
+  "depart_time": "08:59",
+  "arrive_time": "12:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州西",
+      "arrive_time": "08:59",
+      "depart_time": "08:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉安西",
+      "arrive_time": "09:45",
+      "depart_time": "09:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌西",
+      "arrive_time": "10:43",
+      "depart_time": "10:47",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "宜春",
+      "arrive_time": "11:30",
+      "depart_time": "11:50",
+      "stay_min": "20"
+    },
+    {
+      "seq": 5,
+      "station_name": "萍乡北",
+      "arrive_time": "12:08",
+      "depart_time": "12:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙南",
+      "arrive_time": "12:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1327.0,
+    "price_first": 655.0,
+    "price_second": 409.0,
+    "price_no_seat": 409.0
+  },
+  "fetched_at": "2026-05-01T07:18:52.266056"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "S5454",
+  "train_type": "S",
+  "depart_station": "重庆北",
+  "arrive_station": "巫山",
+  "depart_time": "14:02",
+  "arrive_time": "15:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "14:02",
+      "depart_time": "14:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长寿北",
+      "arrive_time": "14:26",
+      "depart_time": "14:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "万州北",
+      "arrive_time": "15:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "巫山",
+      "arrive_time": "15:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 688.0,
+    "price_first": 314.0,
+    "price_second": 196.0,
+    "price_no_seat": 196.0
+  },
+  "fetched_at": "2026-05-01T11:06:42.273807"
+}

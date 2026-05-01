@@ -1,0 +1,93 @@
+{
+  "train_no": "D1958",
+  "train_type": "D",
+  "depart_station": "成都东",
+  "arrive_station": "银川",
+  "depart_time": "16:14",
+  "arrive_time": "23:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "16:14",
+      "depart_time": "16:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广汉北",
+      "arrive_time": "16:32",
+      "depart_time": "16:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "江油",
+      "arrive_time": "17:10",
+      "depart_time": "17:14",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "剑门关",
+      "arrive_time": "17:41",
+      "depart_time": "17:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "广元",
+      "arrive_time": "17:57",
+      "depart_time": "18:03",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "汉中",
+      "arrive_time": "18:49",
+      "depart_time": "18:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "佛坪",
+      "arrive_time": "19:22",
+      "depart_time": "19:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "西安北",
+      "arrive_time": "20:11",
+      "depart_time": "20:31",
+      "stay_min": "20"
+    },
+    {
+      "seq": 9,
+      "station_name": "庆阳",
+      "arrive_time": "21:41",
+      "depart_time": "21:44",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "庆城",
+      "arrive_time": "22:01",
+      "depart_time": "22:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "银川",
+      "arrive_time": "23:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 951.0,
+    "price_second": 594.0,
+    "price_no_seat": 594.0
+  },
+  "fetched_at": "2026-05-01T03:08:46.208651"
+}

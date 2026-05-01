@@ -1,0 +1,28 @@
+{
+  "train_no": "Z9836",
+  "train_type": "Z",
+  "depart_station": "石河子",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "11:30",
+  "arrive_time": "11:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石河子",
+      "arrive_time": "11:30",
+      "depart_time": "11:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "11:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T11:52:46.852375"
+}

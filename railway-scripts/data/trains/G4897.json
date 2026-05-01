@@ -1,0 +1,44 @@
+{
+  "train_no": "G4897",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "昆明南",
+  "depart_time": "01:55",
+  "arrive_time": "04:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "01:55",
+      "depart_time": "01:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遵义",
+      "arrive_time": "03:14",
+      "depart_time": "03:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "04:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明南",
+      "arrive_time": "04:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 629.0,
+    "price_second": 394.0,
+    "price_no_seat": 394.0
+  },
+  "fetched_at": "2026-05-01T07:19:09.947292"
+}

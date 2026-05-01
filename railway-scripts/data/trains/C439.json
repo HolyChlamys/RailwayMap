@@ -1,0 +1,65 @@
+{
+  "train_no": "C439",
+  "train_type": "C",
+  "depart_station": "启东",
+  "arrive_station": "南京",
+  "depart_time": "19:26",
+  "arrive_time": "22:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "启东",
+      "arrive_time": "19:26",
+      "depart_time": "19:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海门",
+      "arrive_time": "19:48",
+      "depart_time": "19:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南通",
+      "arrive_time": "20:11",
+      "depart_time": "20:18",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "如皋",
+      "arrive_time": "20:44",
+      "depart_time": "20:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "泰州",
+      "arrive_time": "21:22",
+      "depart_time": "21:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州",
+      "arrive_time": "21:57",
+      "depart_time": "22:00",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京",
+      "arrive_time": "22:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 200.0,
+    "price_second": 126.0,
+    "price_no_seat": 126.0
+  },
+  "fetched_at": "2026-05-01T01:14:40.019970"
+}

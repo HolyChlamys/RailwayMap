@@ -1,0 +1,122 @@
+{
+  "train_no": "G1174",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "汕头",
+  "depart_time": "08:27",
+  "arrive_time": "15:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "08:27",
+      "depart_time": "08:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "醴陵东",
+      "arrive_time": "08:49",
+      "depart_time": "08:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "萍乡北",
+      "arrive_time": "09:01",
+      "depart_time": "09:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宜春",
+      "arrive_time": "09:21",
+      "depart_time": "09:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "新余北",
+      "arrive_time": "09:38",
+      "depart_time": "09:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南昌西",
+      "arrive_time": "10:14",
+      "depart_time": "10:22",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "吉安西",
+      "arrive_time": "11:18",
+      "depart_time": "11:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "泰和",
+      "arrive_time": "11:32",
+      "depart_time": "11:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "赣州西",
+      "arrive_time": "12:14",
+      "depart_time": "12:20",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "五华",
+      "arrive_time": "13:26",
+      "depart_time": "13:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "兴宁南",
+      "arrive_time": "13:37",
+      "depart_time": "13:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "梅州西",
+      "arrive_time": "13:52",
+      "depart_time": "13:56",
+      "stay_min": "4"
+    },
+    {
+      "seq": 13,
+      "station_name": "揭阳",
+      "arrive_time": "14:23",
+      "depart_time": "14:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "潮汕",
+      "arrive_time": "14:42",
+      "depart_time": "14:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "汕头",
+      "arrive_time": "15:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2294.0,
+    "price_first": 1114.0,
+    "price_second": 696.0,
+    "price_no_seat": 696.0
+  },
+  "fetched_at": "2026-05-01T05:35:15.676984"
+}

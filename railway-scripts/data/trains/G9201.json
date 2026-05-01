@@ -1,0 +1,59 @@
+{
+  "train_no": "G9201",
+  "train_type": "G",
+  "depart_station": "安阳东",
+  "arrive_station": "周口东",
+  "depart_time": "14:09",
+  "arrive_time": "16:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安阳东",
+      "arrive_time": "14:09",
+      "depart_time": "14:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新乡东",
+      "arrive_time": "14:47",
+      "depart_time": "14:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "15:17",
+      "depart_time": "15:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州航空港",
+      "arrive_time": "15:35",
+      "depart_time": "15:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "扶沟南",
+      "arrive_time": "16:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "周口东",
+      "arrive_time": "16:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 635.0,
+    "price_first": 312.0,
+    "price_second": 195.0,
+    "price_no_seat": 195.0
+  },
+  "fetched_at": "2026-05-01T09:08:05.457113"
+}

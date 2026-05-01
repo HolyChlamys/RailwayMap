@@ -1,0 +1,37 @@
+{
+  "train_no": "D6972",
+  "train_type": "D",
+  "depart_station": "乌海",
+  "arrive_station": "巴彦淖尔",
+  "depart_time": "18:20",
+  "arrive_time": "18:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌海",
+      "arrive_time": "18:20",
+      "depart_time": "18:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "磴口",
+      "arrive_time": "18:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "18:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 149.0,
+    "price_second": 93.0,
+    "price_no_seat": 93.0
+  },
+  "fetched_at": "2026-05-01T04:32:00.459055"
+}

@@ -1,0 +1,77 @@
+{
+  "train_no": "K4537",
+  "train_type": "K",
+  "depart_station": "西安",
+  "arrive_station": "重庆西",
+  "depart_time": "08:00",
+  "arrive_time": "18:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "引镇",
+      "arrive_time": "08:38",
+      "depart_time": "08:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "镇安",
+      "arrive_time": "09:53",
+      "depart_time": "10:01",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "安康",
+      "arrive_time": "11:28",
+      "depart_time": "11:54",
+      "stay_min": "26"
+    },
+    {
+      "seq": 5,
+      "station_name": "万源",
+      "arrive_time": "13:52",
+      "depart_time": "13:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "宣汉",
+      "arrive_time": "14:49",
+      "depart_time": "14:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "达州",
+      "arrive_time": "15:33",
+      "depart_time": "15:39",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "渠县",
+      "arrive_time": "16:25",
+      "depart_time": "16:29",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "重庆西",
+      "arrive_time": "18:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T09:55:16.187357"
+}

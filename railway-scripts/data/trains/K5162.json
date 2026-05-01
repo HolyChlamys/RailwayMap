@@ -1,0 +1,35 @@
+{
+  "train_no": "K5162",
+  "train_type": "K",
+  "depart_station": "鸡西",
+  "arrive_station": "牡丹江",
+  "depart_time": "23:55",
+  "arrive_time": "00:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "鸡西",
+      "arrive_time": "23:55",
+      "depart_time": "23:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青龙",
+      "arrive_time": "00:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "牡丹江",
+      "arrive_time": "00:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 29.5
+  },
+  "fetched_at": "2026-05-01T10:05:12.567966"
+}

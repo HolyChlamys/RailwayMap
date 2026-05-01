@@ -1,0 +1,51 @@
+{
+  "train_no": "D520",
+  "train_type": "D",
+  "depart_station": "牡丹江",
+  "arrive_station": "长春",
+  "depart_time": "10:48",
+  "arrive_time": "12:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "牡丹江",
+      "arrive_time": "10:48",
+      "depart_time": "10:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苇河西",
+      "arrive_time": "11:24",
+      "depart_time": "11:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "哈尔滨西",
+      "arrive_time": "12:34",
+      "depart_time": "12:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "双城北",
+      "arrive_time": "12:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "长春",
+      "arrive_time": "12:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 331.0,
+    "price_second": 207.0,
+    "price_no_seat": 207.0
+  },
+  "fetched_at": "2026-05-01T04:02:18.166620"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "D7604",
+  "train_type": "D",
+  "depart_station": "丹东",
+  "arrive_station": "沈阳",
+  "depart_time": "06:18",
+  "arrive_time": "07:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丹东",
+      "arrive_time": "06:18",
+      "depart_time": "06:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "凤城东",
+      "arrive_time": "06:36",
+      "depart_time": "06:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "通远堡西",
+      "arrive_time": "06:52",
+      "depart_time": "06:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南芬北",
+      "arrive_time": "07:09",
+      "depart_time": "07:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "本溪",
+      "arrive_time": "07:21",
+      "depart_time": "07:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "本溪新城",
+      "arrive_time": "07:36",
+      "depart_time": "07:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "沈阳南",
+      "arrive_time": "07:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "沈阳",
+      "arrive_time": "07:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 115.0,
+    "price_second": 71.0,
+    "price_no_seat": 71.0
+  },
+  "fetched_at": "2026-05-01T04:41:35.168975"
+}

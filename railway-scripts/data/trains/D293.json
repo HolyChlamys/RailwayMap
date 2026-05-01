@@ -1,0 +1,71 @@
+{
+  "train_no": "D293",
+  "train_type": "D",
+  "depart_station": "南昌",
+  "arrive_station": "天津",
+  "depart_time": "14:30",
+  "arrive_time": "11:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "14:30",
+      "depart_time": "14:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹰潭",
+      "arrive_time": "15:45",
+      "depart_time": "15:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "上饶",
+      "arrive_time": "16:46",
+      "depart_time": "16:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "金华",
+      "arrive_time": "18:43",
+      "depart_time": "18:49",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州南",
+      "arrive_time": "20:31",
+      "depart_time": "20:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "上海南",
+      "arrive_time": "22:44",
+      "depart_time": "22:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "北京丰台",
+      "arrive_time": "09:45",
+      "depart_time": "10:10",
+      "stay_min": "25"
+    },
+    {
+      "seq": 8,
+      "station_name": "天津",
+      "arrive_time": "11:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 253.0,
+    "price_no_seat": 253.0
+  },
+  "fetched_at": "2026-05-01T03:25:59.210600"
+}

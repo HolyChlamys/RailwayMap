@@ -1,0 +1,58 @@
+{
+  "train_no": "C8197",
+  "train_type": "C",
+  "depart_station": "西安",
+  "arrive_station": "宝鸡",
+  "depart_time": "20:26",
+  "arrive_time": "21:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "20:26",
+      "depart_time": "20:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳",
+      "arrive_time": "20:45",
+      "depart_time": "20:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兴平",
+      "arrive_time": "21:02",
+      "depart_time": "21:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武功",
+      "arrive_time": "21:19",
+      "depart_time": "21:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杨陵",
+      "arrive_time": "21:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宝鸡",
+      "arrive_time": "21:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 85.0,
+    "price_second": 53.0,
+    "price_no_seat": 53.0
+  },
+  "fetched_at": "2026-05-01T02:32:41.783331"
+}

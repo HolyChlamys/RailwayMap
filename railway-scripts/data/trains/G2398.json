@@ -1,0 +1,122 @@
+{
+  "train_no": "G2398",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "郑州东",
+  "depart_time": "13:44",
+  "arrive_time": "21:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "13:44",
+      "depart_time": "13:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "富阳",
+      "arrive_time": "14:07",
+      "depart_time": "14:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "建德",
+      "arrive_time": "14:33",
+      "depart_time": "14:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "千岛湖",
+      "arrive_time": "14:47",
+      "depart_time": "14:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "黄山北",
+      "arrive_time": "15:25",
+      "depart_time": "15:30",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "黟县东",
+      "arrive_time": "15:41",
+      "depart_time": "15:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "九华山",
+      "arrive_time": "16:09",
+      "depart_time": "16:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "安庆",
+      "arrive_time": "16:38",
+      "depart_time": "16:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "合肥西",
+      "arrive_time": "17:40",
+      "depart_time": "17:45",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "淮南南",
+      "arrive_time": "18:17",
+      "depart_time": "18:27",
+      "stay_min": "10"
+    },
+    {
+      "seq": 11,
+      "station_name": "凤台南",
+      "arrive_time": "18:40",
+      "depart_time": "18:50",
+      "stay_min": "10"
+    },
+    {
+      "seq": 12,
+      "station_name": "阜阳西",
+      "arrive_time": "19:17",
+      "depart_time": "19:23",
+      "stay_min": "6"
+    },
+    {
+      "seq": 13,
+      "station_name": "亳州南",
+      "arrive_time": "19:50",
+      "depart_time": "19:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "商丘",
+      "arrive_time": "20:17",
+      "depart_time": "20:22",
+      "stay_min": "5"
+    },
+    {
+      "seq": 15,
+      "station_name": "郑州东",
+      "arrive_time": "21:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2136.0,
+    "price_first": 1052.5,
+    "price_second": 657.5,
+    "price_no_seat": 657.5
+  },
+  "fetched_at": "2026-05-01T06:09:24.025922"
+}

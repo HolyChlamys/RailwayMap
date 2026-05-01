@@ -1,0 +1,44 @@
+{
+  "train_no": "D6650",
+  "train_type": "D",
+  "depart_station": "张家口",
+  "arrive_station": "北京北",
+  "depart_time": "16:26",
+  "arrive_time": "17:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家口",
+      "arrive_time": "16:26",
+      "depart_time": "16:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "八达岭长城",
+      "arrive_time": "17:02",
+      "depart_time": "17:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "清河",
+      "arrive_time": "17:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "北京北",
+      "arrive_time": "17:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 116.0,
+    "price_second": 72.0,
+    "price_no_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T04:26:44.187805"
+}

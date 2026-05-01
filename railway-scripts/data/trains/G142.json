@@ -1,0 +1,80 @@
+{
+  "train_no": "G142",
+  "train_type": "G",
+  "depart_station": "延吉西",
+  "arrive_station": "北京朝阳",
+  "depart_time": "16:06",
+  "arrive_time": "21:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "延吉西",
+      "arrive_time": "16:06",
+      "depart_time": "16:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "敦化",
+      "arrive_time": "17:05",
+      "depart_time": "17:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长白山",
+      "arrive_time": "17:47",
+      "depart_time": "17:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "通化",
+      "arrive_time": "18:38",
+      "depart_time": "18:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "新宾",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "抚顺",
+      "arrive_time": "19:29",
+      "depart_time": "19:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "沈阳北",
+      "arrive_time": "19:51",
+      "depart_time": "19:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "承德南",
+      "arrive_time": "21:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "北京朝阳",
+      "arrive_time": "21:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2824.5,
+    "price_first": 1299.0,
+    "price_second": 812.0,
+    "price_no_seat": 812.0
+  },
+  "fetched_at": "2026-05-01T05:42:27.929869"
+}

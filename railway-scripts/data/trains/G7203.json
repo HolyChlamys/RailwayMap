@@ -1,0 +1,51 @@
+{
+  "train_no": "G7203",
+  "train_type": "G",
+  "depart_station": "无锡",
+  "arrive_station": "上海",
+  "depart_time": "06:29",
+  "arrive_time": "07:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "无锡",
+      "arrive_time": "06:29",
+      "depart_time": "06:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "06:45",
+      "depart_time": "06:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州园区",
+      "arrive_time": "06:55",
+      "depart_time": "06:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阳澄湖",
+      "arrive_time": "07:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "上海",
+      "arrive_time": "07:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 111.0,
+    "price_second": 69.0,
+    "price_no_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T08:20:24.123561"
+}

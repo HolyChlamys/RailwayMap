@@ -1,0 +1,30 @@
+{
+  "train_no": "D9819",
+  "train_type": "D",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "佳木斯",
+  "depart_time": "05:02",
+  "arrive_time": "05:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "05:02",
+      "depart_time": "05:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佳木斯",
+      "arrive_time": "05:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 214.0,
+    "price_second": 134.0,
+    "price_no_seat": 134.0
+  },
+  "fetched_at": "2026-05-01T05:25:38.382569"
+}

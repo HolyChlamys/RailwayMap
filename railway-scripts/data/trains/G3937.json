@@ -1,0 +1,45 @@
+{
+  "train_no": "G3937",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "佛山西",
+  "depart_time": "22:33",
+  "arrive_time": "01:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "22:33",
+      "depart_time": "22:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "23:52",
+      "depart_time": "23:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳东",
+      "arrive_time": "01:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "佛山西",
+      "arrive_time": "01:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2462.0,
+    "price_first": 1157.0,
+    "price_second": 724.0,
+    "price_no_seat": 724.0
+  },
+  "fetched_at": "2026-05-01T06:51:04.022598"
+}

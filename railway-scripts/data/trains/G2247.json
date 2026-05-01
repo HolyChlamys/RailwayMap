@@ -1,0 +1,59 @@
+{
+  "train_no": "G2247",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "六盘水",
+  "depart_time": "17:50",
+  "arrive_time": "23:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "17:50",
+      "depart_time": "17:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "18:10",
+      "depart_time": "18:16",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "肇庆东",
+      "arrive_time": "18:35",
+      "depart_time": "18:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "桂林西",
+      "arrive_time": "20:09",
+      "depart_time": "20:13",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "22:06",
+      "depart_time": "22:26",
+      "stay_min": "20"
+    },
+    {
+      "seq": 6,
+      "station_name": "六盘水",
+      "arrive_time": "23:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1905.5,
+    "price_first": 885.0,
+    "price_second": 553.0,
+    "price_no_seat": 553.0
+  },
+  "fetched_at": "2026-05-01T06:05:22.540288"
+}

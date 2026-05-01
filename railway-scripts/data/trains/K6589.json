@@ -1,0 +1,49 @@
+{
+  "train_no": "K6589",
+  "train_type": "K",
+  "depart_station": "益阳",
+  "arrive_station": "广州白云",
+  "depart_time": "12:00",
+  "arrive_time": "17:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "益阳",
+      "arrive_time": "12:00",
+      "depart_time": "12:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙",
+      "arrive_time": "13:31",
+      "depart_time": "13:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "株洲",
+      "arrive_time": "14:16",
+      "depart_time": "14:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郴州",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州白云",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 119.0
+  },
+  "fetched_at": "2026-05-01T10:23:35.399037"
+}

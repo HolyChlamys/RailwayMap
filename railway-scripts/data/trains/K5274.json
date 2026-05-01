@@ -1,0 +1,63 @@
+{
+  "train_no": "K5274",
+  "train_type": "K",
+  "depart_station": "德州",
+  "arrive_station": "北京丰台",
+  "depart_time": "09:57",
+  "arrive_time": "13:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "德州",
+      "arrive_time": "09:57",
+      "depart_time": "09:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吴桥",
+      "arrive_time": "10:23",
+      "depart_time": "10:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东光",
+      "arrive_time": "10:50",
+      "depart_time": "10:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沧州",
+      "arrive_time": "11:35",
+      "depart_time": "11:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "天津西",
+      "arrive_time": "13:00",
+      "depart_time": "13:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广阳",
+      "arrive_time": "13:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "北京丰台",
+      "arrive_time": "13:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 53.5
+  },
+  "fetched_at": "2026-05-01T10:07:24.425043"
+}

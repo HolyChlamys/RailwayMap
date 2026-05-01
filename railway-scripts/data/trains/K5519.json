@@ -1,0 +1,28 @@
+{
+  "train_no": "K5519",
+  "train_type": "K",
+  "depart_station": "济南",
+  "arrive_station": "泰山",
+  "depart_time": "06:45",
+  "arrive_time": "06:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "06:45",
+      "depart_time": "06:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰山",
+      "arrive_time": "06:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 12.5
+  },
+  "fetched_at": "2026-05-01T10:12:29.489041"
+}

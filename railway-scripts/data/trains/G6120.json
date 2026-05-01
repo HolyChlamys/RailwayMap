@@ -1,0 +1,87 @@
+{
+  "train_no": "G6120",
+  "train_type": "G",
+  "depart_station": "湛江北",
+  "arrive_station": "岳阳东",
+  "depart_time": "17:12",
+  "arrive_time": "21:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "湛江北",
+      "arrive_time": "17:12",
+      "depart_time": "17:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "茂名南",
+      "arrive_time": "17:35",
+      "depart_time": "17:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阳江北",
+      "arrive_time": "18:01",
+      "depart_time": "18:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阳春东",
+      "arrive_time": "18:14",
+      "depart_time": "18:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州白云",
+      "arrive_time": "19:16",
+      "depart_time": "19:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州北",
+      "arrive_time": "19:34",
+      "depart_time": "19:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "韶关",
+      "arrive_time": "20:13",
+      "depart_time": "20:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "郴州西",
+      "arrive_time": "20:46",
+      "depart_time": "20:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "长沙南",
+      "arrive_time": "21:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "岳阳东",
+      "arrive_time": "21:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2684.0,
+    "price_first": 1227.0,
+    "price_second": 767.0,
+    "price_no_seat": 767.0
+  },
+  "fetched_at": "2026-05-01T07:49:27.645548"
+}

@@ -1,0 +1,51 @@
+{
+  "train_no": "C7110",
+  "train_type": "C",
+  "depart_station": "深圳",
+  "arrive_station": "广州东",
+  "depart_time": "21:06",
+  "arrive_time": "22:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "21:06",
+      "depart_time": "21:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "常平",
+      "arrive_time": "21:34",
+      "depart_time": "21:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东莞",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州新塘",
+      "arrive_time": "22:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州东",
+      "arrive_time": "22:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 73.0,
+    "price_second": 64.0,
+    "price_no_seat": 64.0
+  },
+  "fetched_at": "2026-05-01T02:06:11.750267"
+}

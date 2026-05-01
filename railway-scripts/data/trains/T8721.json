@@ -1,0 +1,28 @@
+{
+  "train_no": "T8721",
+  "train_type": "T",
+  "depart_station": "贵港",
+  "arrive_station": "玉林",
+  "depart_time": "17:06",
+  "arrive_time": "17:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵港",
+      "arrive_time": "17:06",
+      "depart_time": "17:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "玉林",
+      "arrive_time": "17:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 14.5
+  },
+  "fetched_at": "2026-05-01T11:27:57.740531"
+}

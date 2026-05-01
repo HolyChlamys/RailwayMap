@@ -1,0 +1,79 @@
+{
+  "train_no": "D6395",
+  "train_type": "D",
+  "depart_station": "武平",
+  "arrive_station": "厦门",
+  "depart_time": "08:51",
+  "arrive_time": "11:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武平",
+      "arrive_time": "08:51",
+      "depart_time": "08:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "上杭",
+      "arrive_time": "09:01",
+      "depart_time": "09:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "古田会址",
+      "arrive_time": "09:22",
+      "depart_time": "09:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "龙岩",
+      "arrive_time": "09:39",
+      "depart_time": "09:43",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "龙山镇",
+      "arrive_time": "10:10",
+      "depart_time": "10:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南靖",
+      "arrive_time": "10:21",
+      "depart_time": "10:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "漳州",
+      "arrive_time": "10:38",
+      "depart_time": "10:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "角美",
+      "arrive_time": "10:51",
+      "depart_time": "11:10",
+      "stay_min": "19"
+    },
+    {
+      "seq": 9,
+      "station_name": "厦门",
+      "arrive_time": "11:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 159.5,
+    "price_second": 100.5,
+    "price_no_seat": 100.5
+  },
+  "fetched_at": "2026-05-01T04:22:31.454766"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G4717",
+  "train_type": "G",
+  "depart_station": "深圳坪山",
+  "arrive_station": "桂林北",
+  "depart_time": "23:52",
+  "arrive_time": "03:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳坪山",
+      "arrive_time": "23:52",
+      "depart_time": "23:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "00:12",
+      "depart_time": "00:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "虎门",
+      "arrive_time": "00:33",
+      "depart_time": "00:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "00:52",
+      "depart_time": "00:58",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "佛山西",
+      "arrive_time": "01:16",
+      "depart_time": "01:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "桂林北",
+      "arrive_time": "03:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1082.5,
+    "price_first": 503.5,
+    "price_second": 326.5,
+    "price_no_seat": 326.5
+  },
+  "fetched_at": "2026-05-01T07:13:36.109344"
+}

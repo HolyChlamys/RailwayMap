@@ -1,0 +1,94 @@
+{
+  "train_no": "G6572",
+  "train_type": "G",
+  "depart_station": "汕头",
+  "arrive_station": "香港西九龙",
+  "depart_time": "08:20",
+  "arrive_time": "11:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "08:20",
+      "depart_time": "08:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "08:43",
+      "depart_time": "08:47",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "潮阳",
+      "arrive_time": "08:58",
+      "depart_time": "09:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "普宁",
+      "arrive_time": "09:10",
+      "depart_time": "09:16",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "鲘门",
+      "arrive_time": "09:54",
+      "depart_time": "09:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "惠东南",
+      "arrive_time": "10:09",
+      "depart_time": "10:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "惠阳",
+      "arrive_time": "10:23",
+      "depart_time": "10:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "深圳坪山",
+      "arrive_time": "10:34",
+      "depart_time": "10:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳北",
+      "arrive_time": "10:55",
+      "depart_time": "11:05",
+      "stay_min": "10"
+    },
+    {
+      "seq": 10,
+      "station_name": "福田",
+      "arrive_time": "11:13",
+      "depart_time": "11:19",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "香港西九龙",
+      "arrive_time": "11:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 745.0,
+    "price_first": 357.0,
+    "price_second": 223.0,
+    "price_no_seat": 223.0
+  },
+  "fetched_at": "2026-05-01T08:02:46.549124"
+}

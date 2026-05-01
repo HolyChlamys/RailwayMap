@@ -1,0 +1,86 @@
+{
+  "train_no": "D9283",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "恩施",
+  "depart_time": "11:48",
+  "arrive_time": "16:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "11:48",
+      "depart_time": "11:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉川",
+      "arrive_time": "12:27",
+      "depart_time": "12:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天门南",
+      "arrive_time": "12:50",
+      "depart_time": "12:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潜江",
+      "arrive_time": "13:21",
+      "depart_time": "13:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "荆州",
+      "arrive_time": "13:49",
+      "depart_time": "13:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "枝江北",
+      "arrive_time": "14:18",
+      "depart_time": "14:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宜昌东",
+      "arrive_time": "14:42",
+      "depart_time": "14:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "野三关",
+      "arrive_time": "15:43",
+      "depart_time": "15:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "建始",
+      "arrive_time": "16:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "恩施",
+      "arrive_time": "16:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 334.0,
+    "price_second": 209.0,
+    "price_no_seat": 209.0
+  },
+  "fetched_at": "2026-05-01T05:12:05.802039"
+}

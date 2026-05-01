@@ -1,0 +1,114 @@
+{
+  "train_no": "D2194",
+  "train_type": "D",
+  "depart_station": "襄阳东",
+  "arrive_station": "杭州西",
+  "depart_time": "08:02",
+  "arrive_time": "15:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳东",
+      "arrive_time": "08:02",
+      "depart_time": "08:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜城",
+      "arrive_time": "08:16",
+      "depart_time": "08:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "荆门西",
+      "arrive_time": "08:45",
+      "depart_time": "08:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "沙洋西",
+      "arrive_time": "09:01",
+      "depart_time": "09:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "荆州",
+      "arrive_time": "09:20",
+      "depart_time": "09:29",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "潜江",
+      "arrive_time": "09:54",
+      "depart_time": "09:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "汉口",
+      "arrive_time": "10:49",
+      "depart_time": "10:58",
+      "stay_min": "9"
+    },
+    {
+      "seq": 8,
+      "station_name": "麻城北",
+      "arrive_time": "11:41",
+      "depart_time": "11:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "六安",
+      "arrive_time": "12:28",
+      "depart_time": "12:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "合肥南",
+      "arrive_time": "12:55",
+      "depart_time": "12:59",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "南京南",
+      "arrive_time": "13:51",
+      "depart_time": "13:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "宜兴",
+      "arrive_time": "14:33",
+      "depart_time": "14:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "湖州",
+      "arrive_time": "14:53",
+      "depart_time": "14:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "杭州西",
+      "arrive_time": "15:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 800.0,
+    "price_second": 500.0,
+    "price_no_seat": 500.0
+  },
+  "fetched_at": "2026-05-01T03:11:54.810203"
+}

@@ -1,0 +1,70 @@
+{
+  "train_no": "Z149",
+  "train_type": "Z",
+  "depart_station": "北京西",
+  "arrive_station": "贵阳",
+  "depart_time": "07:56",
+  "arrive_time": "04:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "10:27",
+      "depart_time": "10:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州",
+      "arrive_time": "14:04",
+      "depart_time": "14:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "许昌",
+      "arrive_time": "14:48",
+      "depart_time": "14:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武昌",
+      "arrive_time": "18:59",
+      "depart_time": "18:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙",
+      "arrive_time": "22:38",
+      "depart_time": "22:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "怀化",
+      "arrive_time": "04:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "贵阳",
+      "arrive_time": "04:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 268.5
+  },
+  "fetched_at": "2026-05-01T11:43:31.802661"
+}

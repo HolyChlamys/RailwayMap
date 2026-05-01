@@ -1,0 +1,44 @@
+{
+  "train_no": "C5536",
+  "train_type": "C",
+  "depart_station": "武汉",
+  "arrive_station": "天门",
+  "depart_time": "21:40",
+  "arrive_time": "22:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "22:01",
+      "depart_time": "22:06",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "汉川北",
+      "arrive_time": "22:31",
+      "depart_time": "22:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "天门",
+      "arrive_time": "22:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 139.0,
+    "price_second": 87.0,
+    "price_no_seat": 87.0
+  },
+  "fetched_at": "2026-05-01T01:34:28.928806"
+}

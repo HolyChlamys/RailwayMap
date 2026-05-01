@@ -1,0 +1,70 @@
+{
+  "train_no": "Z9312",
+  "train_type": "Z",
+  "depart_station": "福州",
+  "arrive_station": "松溪",
+  "depart_time": "19:35",
+  "arrive_time": "22:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "19:35",
+      "depart_time": "19:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "连江",
+      "arrive_time": "20:17",
+      "depart_time": "20:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "罗源",
+      "arrive_time": "20:44",
+      "depart_time": "20:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "周宁",
+      "arrive_time": "21:24",
+      "depart_time": "21:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "屏南",
+      "arrive_time": "21:49",
+      "depart_time": "21:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "建瓯东",
+      "arrive_time": "22:23",
+      "depart_time": "22:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "政和",
+      "arrive_time": "22:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "松溪",
+      "arrive_time": "22:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T11:52:20.467462"
+}

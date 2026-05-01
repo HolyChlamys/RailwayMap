@@ -1,0 +1,45 @@
+{
+  "train_no": "C3159",
+  "train_type": "C",
+  "depart_station": "上海虹桥",
+  "arrive_station": "亳州南",
+  "depart_time": "02:24",
+  "arrive_time": "06:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "02:24",
+      "depart_time": "02:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "03:54",
+      "depart_time": "04:00",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥",
+      "arrive_time": "04:51",
+      "depart_time": "05:00",
+      "stay_min": "9"
+    },
+    {
+      "seq": 4,
+      "station_name": "亳州南",
+      "arrive_time": "06:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1351.0,
+    "price_first": 670.0,
+    "price_second": 418.0,
+    "price_no_seat": 418.0
+  },
+  "fetched_at": "2026-05-01T00:52:39.363504"
+}

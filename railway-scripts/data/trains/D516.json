@@ -1,0 +1,79 @@
+{
+  "train_no": "D516",
+  "train_type": "D",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "延吉西",
+  "depart_time": "13:40",
+  "arrive_time": "17:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "13:40",
+      "depart_time": "13:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "扶余北",
+      "arrive_time": "14:09",
+      "depart_time": "14:15",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "德惠西",
+      "arrive_time": "14:34",
+      "depart_time": "14:43",
+      "stay_min": "9"
+    },
+    {
+      "seq": 4,
+      "station_name": "长春",
+      "arrive_time": "15:11",
+      "depart_time": "15:17",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "吉林",
+      "arrive_time": "15:57",
+      "depart_time": "16:03",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "蛟河西",
+      "arrive_time": "16:29",
+      "depart_time": "16:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "敦化",
+      "arrive_time": "17:03",
+      "depart_time": "17:10",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "安图西",
+      "arrive_time": "17:33",
+      "depart_time": "17:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "延吉西",
+      "arrive_time": "17:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 330.0,
+    "price_second": 206.0,
+    "price_no_seat": 206.0
+  },
+  "fetched_at": "2026-05-01T04:01:33.550693"
+}

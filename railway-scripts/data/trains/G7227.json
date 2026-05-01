@@ -1,0 +1,52 @@
+{
+  "train_no": "G7227",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "安庆",
+  "depart_time": "19:18",
+  "arrive_time": "22:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "19:18",
+      "depart_time": "19:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "19:43",
+      "depart_time": "19:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "20:55",
+      "depart_time": "20:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖",
+      "arrive_time": "21:26",
+      "depart_time": "21:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "安庆",
+      "arrive_time": "22:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 998.0,
+    "price_first": 456.0,
+    "price_second": 285.0,
+    "price_no_seat": 285.0
+  },
+  "fetched_at": "2026-05-01T08:21:14.387748"
+}

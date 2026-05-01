@@ -1,0 +1,37 @@
+{
+  "train_no": "D6361",
+  "train_type": "D",
+  "depart_station": "龙岩",
+  "arrive_station": "武平",
+  "depart_time": "06:36",
+  "arrive_time": "07:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "龙岩",
+      "arrive_time": "06:36",
+      "depart_time": "06:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "上杭",
+      "arrive_time": "07:04",
+      "depart_time": "07:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "武平",
+      "arrive_time": "07:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 67.5,
+    "price_second": 42.5,
+    "price_no_seat": 42.5
+  },
+  "fetched_at": "2026-05-01T04:22:01.844254"
+}

@@ -1,0 +1,121 @@
+{
+  "train_no": "D3801",
+  "train_type": "D",
+  "depart_station": "昆明南",
+  "arrive_station": "广州南",
+  "depart_time": "07:15",
+  "arrive_time": "15:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "07:15",
+      "depart_time": "07:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普者黑",
+      "arrive_time": "08:18",
+      "depart_time": "08:22",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "广南县",
+      "arrive_time": "08:51",
+      "depart_time": "08:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "百色",
+      "arrive_time": "09:59",
+      "depart_time": "10:03",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "田阳",
+      "arrive_time": "10:22",
+      "depart_time": "10:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "田东北",
+      "arrive_time": "10:35",
+      "depart_time": "10:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "平果",
+      "arrive_time": "10:57",
+      "depart_time": "11:00",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "隆安东",
+      "arrive_time": "11:11",
+      "depart_time": "11:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "南宁",
+      "arrive_time": "11:46",
+      "depart_time": "11:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "南宁东",
+      "arrive_time": "12:01",
+      "depart_time": "12:06",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "平南南",
+      "arrive_time": "13:15",
+      "depart_time": "13:23",
+      "stay_min": "8"
+    },
+    {
+      "seq": 12,
+      "station_name": "梧州南",
+      "arrive_time": "13:50",
+      "depart_time": "13:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "云浮东",
+      "arrive_time": "14:25",
+      "depart_time": "14:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "肇庆东",
+      "arrive_time": "14:47",
+      "depart_time": "14:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "广州南",
+      "arrive_time": "15:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 828.0,
+    "price_second": 517.5,
+    "price_no_seat": 517.5
+  },
+  "fetched_at": "2026-05-01T03:39:16.860408"
+}

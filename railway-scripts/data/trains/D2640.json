@@ -1,0 +1,44 @@
+{
+  "train_no": "D2640",
+  "train_type": "D",
+  "depart_station": "天水南",
+  "arrive_station": "西安北",
+  "depart_time": "07:33",
+  "arrive_time": "08:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天水南",
+      "arrive_time": "07:33",
+      "depart_time": "07:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宝鸡南",
+      "arrive_time": "08:16",
+      "depart_time": "08:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杨陵南",
+      "arrive_time": "08:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安北",
+      "arrive_time": "08:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 193.0,
+    "price_second": 121.0,
+    "price_no_seat": 121.0
+  },
+  "fetched_at": "2026-05-01T03:19:33.799515"
+}

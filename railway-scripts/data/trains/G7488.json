@@ -1,0 +1,136 @@
+{
+  "train_no": "G7488",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "苍南",
+  "depart_time": "14:55",
+  "arrive_time": "20:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "14:55",
+      "depart_time": "14:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "15:49",
+      "depart_time": "15:54",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "溧阳",
+      "arrive_time": "16:21",
+      "depart_time": "16:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宜兴",
+      "arrive_time": "16:35",
+      "depart_time": "16:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "长兴",
+      "arrive_time": "16:49",
+      "depart_time": "16:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "17:17",
+      "depart_time": "17:25",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "绍兴北",
+      "arrive_time": "17:44",
+      "depart_time": "17:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "嵊州新昌",
+      "arrive_time": "18:10",
+      "depart_time": "18:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "天台山",
+      "arrive_time": "18:26",
+      "depart_time": "18:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "临海",
+      "arrive_time": "18:43",
+      "depart_time": "18:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "台州",
+      "arrive_time": "18:57",
+      "depart_time": "18:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "温岭",
+      "arrive_time": "19:10",
+      "depart_time": "19:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "乐清",
+      "arrive_time": "19:36",
+      "depart_time": "19:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "温州北",
+      "arrive_time": "19:48",
+      "depart_time": "19:53",
+      "stay_min": "5"
+    },
+    {
+      "seq": 15,
+      "station_name": "温州南",
+      "arrive_time": "20:03",
+      "depart_time": "20:13",
+      "stay_min": "10"
+    },
+    {
+      "seq": 16,
+      "station_name": "瑞安",
+      "arrive_time": "20:24",
+      "depart_time": "20:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "苍南",
+      "arrive_time": "20:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1475.0,
+    "price_first": 684.0,
+    "price_second": 429.0,
+    "price_no_seat": 429.0
+  },
+  "fetched_at": "2026-05-01T08:28:32.998642"
+}

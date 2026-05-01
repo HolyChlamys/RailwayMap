@@ -1,0 +1,58 @@
+{
+  "train_no": "C7043",
+  "train_type": "C",
+  "depart_station": "广州北",
+  "arrive_station": "深圳",
+  "depart_time": "11:00",
+  "arrive_time": "12:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州北",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州白云",
+      "arrive_time": "11:24",
+      "depart_time": "11:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州东",
+      "arrive_time": "11:45",
+      "depart_time": "11:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "东莞",
+      "arrive_time": "12:13",
+      "depart_time": "12:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "樟木头",
+      "arrive_time": "12:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳",
+      "arrive_time": "12:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 110.5,
+    "price_second": 86.5,
+    "price_no_seat": 86.5
+  },
+  "fetched_at": "2026-05-01T02:04:06.950120"
+}

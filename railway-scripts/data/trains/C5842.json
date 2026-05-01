@@ -1,0 +1,43 @@
+{
+  "train_no": "C5842",
+  "train_type": "C",
+  "depart_station": "遵义",
+  "arrive_station": "花溪南",
+  "depart_time": "09:20",
+  "arrive_time": "10:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "遵义",
+      "arrive_time": "09:20",
+      "depart_time": "09:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳北",
+      "arrive_time": "10:05",
+      "depart_time": "10:09",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "芦官",
+      "arrive_time": "10:28",
+      "depart_time": "10:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "花溪南",
+      "arrive_time": "10:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 75.0,
+    "price_no_seat": 75.0
+  },
+  "fetched_at": "2026-05-01T01:39:56.423247"
+}

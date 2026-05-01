@@ -1,0 +1,66 @@
+{
+  "train_no": "G2266",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "贵阳北",
+  "depart_time": "08:05",
+  "arrive_time": "12:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀集",
+      "arrive_time": "09:05",
+      "depart_time": "09:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桂林西",
+      "arrive_time": "10:20",
+      "depart_time": "10:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "三江南",
+      "arrive_time": "10:52",
+      "depart_time": "10:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "都匀东",
+      "arrive_time": "11:48",
+      "depart_time": "11:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "龙洞堡",
+      "arrive_time": "12:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "贵阳北",
+      "arrive_time": "12:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1542.5,
+    "price_first": 706.0,
+    "price_second": 441.0,
+    "price_no_seat": 441.0
+  },
+  "fetched_at": "2026-05-01T06:05:57.285121"
+}

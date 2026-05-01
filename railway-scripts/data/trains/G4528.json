@@ -1,0 +1,59 @@
+{
+  "train_no": "G4528",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "长寿北",
+  "depart_time": "00:40",
+  "arrive_time": "08:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "00:40",
+      "depart_time": "00:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳东",
+      "arrive_time": "04:34",
+      "depart_time": "04:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜宾",
+      "arrive_time": "06:27",
+      "depart_time": "06:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆西",
+      "arrive_time": "07:37",
+      "depart_time": "07:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "重庆北",
+      "arrive_time": "08:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长寿北",
+      "arrive_time": "08:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2739.0,
+    "price_first": 1295.0,
+    "price_second": 809.0,
+    "price_no_seat": 809.0
+  },
+  "fetched_at": "2026-05-01T07:07:58.866059"
+}

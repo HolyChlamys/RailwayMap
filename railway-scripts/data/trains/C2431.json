@@ -1,0 +1,37 @@
+{
+  "train_no": "C2431",
+  "train_type": "C",
+  "depart_station": "上海",
+  "arrive_station": "安庆",
+  "depart_time": "02:05",
+  "arrive_time": "05:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "02:05",
+      "depart_time": "02:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "03:36",
+      "depart_time": "03:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "安庆",
+      "arrive_time": "05:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 456.0,
+    "price_second": 285.0,
+    "price_no_seat": 285.0
+  },
+  "fetched_at": "2026-05-01T00:39:07.348034"
+}

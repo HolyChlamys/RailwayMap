@@ -1,0 +1,42 @@
+{
+  "train_no": "K4425",
+  "train_type": "K",
+  "depart_station": "郑州",
+  "arrive_station": "深圳东",
+  "depart_time": "20:52",
+  "arrive_time": "22:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州",
+      "arrive_time": "20:52",
+      "depart_time": "20:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长葛",
+      "arrive_time": "21:44",
+      "depart_time": "21:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "许昌",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳东",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 201.0
+  },
+  "fetched_at": "2026-05-01T09:54:01.708780"
+}

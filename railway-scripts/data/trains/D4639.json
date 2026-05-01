@@ -1,0 +1,44 @@
+{
+  "train_no": "D4639",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "景德镇北",
+  "depart_time": "03:11",
+  "arrive_time": "05:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "03:11",
+      "depart_time": "03:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州西",
+      "arrive_time": "04:27",
+      "depart_time": "04:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄山北",
+      "arrive_time": "05:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "景德镇北",
+      "arrive_time": "05:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 486.0,
+    "price_second": 305.0,
+    "price_no_seat": 305.0
+  },
+  "fetched_at": "2026-05-01T03:54:34.694684"
+}

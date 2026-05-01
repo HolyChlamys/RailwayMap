@@ -1,0 +1,44 @@
+{
+  "train_no": "C7138",
+  "train_type": "C",
+  "depart_station": "佛山西",
+  "arrive_station": "怀集",
+  "depart_time": "06:15",
+  "arrive_time": "06:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佛山西",
+      "arrive_time": "06:15",
+      "depart_time": "06:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肇庆东",
+      "arrive_time": "06:39",
+      "depart_time": "06:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广宁",
+      "arrive_time": "06:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀集",
+      "arrive_time": "06:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 106.0,
+    "price_second": 66.0,
+    "price_no_seat": 66.0
+  },
+  "fetched_at": "2026-05-01T02:07:02.102704"
+}

@@ -1,0 +1,64 @@
+{
+  "train_no": "D29",
+  "train_type": "D",
+  "depart_station": "北京西",
+  "arrive_station": "兰州",
+  "depart_time": "15:59",
+  "arrive_time": "08:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "15:59",
+      "depart_time": "15:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "18:30",
+      "depart_time": "18:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "洛阳",
+      "arrive_time": "23:17",
+      "depart_time": "23:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安",
+      "arrive_time": "03:56",
+      "depart_time": "03:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "天水",
+      "arrive_time": "06:52",
+      "depart_time": "06:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "陇西",
+      "arrive_time": "08:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "兰州",
+      "arrive_time": "08:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 579.0,
+    "price_no_seat": 579.0
+  },
+  "fetched_at": "2026-05-01T03:25:26.537772"
+}

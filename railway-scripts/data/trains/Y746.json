@@ -1,0 +1,35 @@
+{
+  "train_no": "Y746",
+  "train_type": "Y",
+  "depart_station": "保山",
+  "arrive_station": "丽江",
+  "depart_time": "20:35",
+  "arrive_time": "08:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "保山",
+      "arrive_time": "20:35",
+      "depart_time": "20:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大理",
+      "arrive_time": "03:38",
+      "depart_time": "04:11",
+      "stay_min": "33"
+    },
+    {
+      "seq": 3,
+      "station_name": "丽江",
+      "arrive_time": "08:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 41.5
+  },
+  "fetched_at": "2026-05-01T11:37:46.613880"
+}

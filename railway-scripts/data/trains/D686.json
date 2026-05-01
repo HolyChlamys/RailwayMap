@@ -1,0 +1,65 @@
+{
+  "train_no": "D686",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "福州南",
+  "depart_time": "18:45",
+  "arrive_time": "22:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "18:45",
+      "depart_time": "18:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠阳",
+      "arrive_time": "19:09",
+      "depart_time": "19:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "漳州",
+      "arrive_time": "21:09",
+      "depart_time": "21:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "厦门北",
+      "arrive_time": "21:35",
+      "depart_time": "21:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "晋江",
+      "arrive_time": "21:55",
+      "depart_time": "21:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "泉州",
+      "arrive_time": "22:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "福州南",
+      "arrive_time": "22:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 525.0,
+    "price_second": 328.0,
+    "price_no_seat": 328.0
+  },
+  "fetched_at": "2026-05-01T04:29:56.334095"
+}

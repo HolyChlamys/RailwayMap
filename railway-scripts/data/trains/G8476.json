@@ -1,0 +1,87 @@
+{
+  "train_no": "G8476",
+  "train_type": "G",
+  "depart_station": "广州",
+  "arrive_station": "梅州西",
+  "depart_time": "09:32",
+  "arrive_time": "12:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "09:32",
+      "depart_time": "09:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "10:09",
+      "depart_time": "10:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "罗浮山",
+      "arrive_time": "10:29",
+      "depart_time": "10:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "博罗",
+      "arrive_time": "10:39",
+      "depart_time": "10:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "惠州北",
+      "arrive_time": "10:54",
+      "depart_time": "10:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "河源东",
+      "arrive_time": "11:15",
+      "depart_time": "11:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "龙川西",
+      "arrive_time": "11:35",
+      "depart_time": "11:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "五华",
+      "arrive_time": "11:54",
+      "depart_time": "11:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "兴宁南",
+      "arrive_time": "12:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "梅州西",
+      "arrive_time": "12:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 851.0,
+    "price_first": 377.0,
+    "price_second": 244.0,
+    "price_no_seat": 244.0
+  },
+  "fetched_at": "2026-05-01T08:52:05.990840"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G4880",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "铜仁",
+  "depart_time": "08:56",
+  "arrive_time": "10:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "08:56",
+      "depart_time": "08:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵定北",
+      "arrive_time": "09:18",
+      "depart_time": "09:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "凯里南",
+      "arrive_time": "09:40",
+      "depart_time": "09:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "铜仁南",
+      "arrive_time": "10:21",
+      "depart_time": "10:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "朱砂古镇",
+      "arrive_time": "10:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "铜仁",
+      "arrive_time": "10:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 595.0,
+    "price_first": 277.0,
+    "price_second": 172.0,
+    "price_no_seat": 172.0
+  },
+  "fetched_at": "2026-05-01T07:18:38.304059"
+}

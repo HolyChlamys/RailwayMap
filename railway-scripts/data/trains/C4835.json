@@ -1,0 +1,64 @@
+{
+  "train_no": "C4835",
+  "train_type": "C",
+  "depart_station": "白云机场北",
+  "arrive_station": "佛山  西",
+  "depart_time": "12:36",
+  "arrive_time": "13:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "白云机场北",
+      "arrive_time": "12:36",
+      "depart_time": "12:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "白云机场东",
+      "arrive_time": "12:43",
+      "depart_time": "12:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "竹料",
+      "arrive_time": "12:52",
+      "depart_time": "12:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "科韵路",
+      "arrive_time": "13:09",
+      "depart_time": "13:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "琶洲",
+      "arrive_time": "13:15",
+      "depart_time": "13:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "番禺",
+      "arrive_time": "13:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "佛山  西",
+      "arrive_time": "13:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 62.0,
+    "price_no_seat": 62.0
+  },
+  "fetched_at": "2026-05-01T01:19:37.173745"
+}

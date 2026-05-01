@@ -1,0 +1,65 @@
+{
+  "train_no": "C9145",
+  "train_type": "C",
+  "depart_station": "海口东",
+  "arrive_station": "三亚",
+  "depart_time": "19:50",
+  "arrive_time": "21:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "海口东",
+      "arrive_time": "19:50",
+      "depart_time": "19:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "美兰",
+      "arrive_time": "20:02",
+      "depart_time": "20:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "文昌",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "博鳌",
+      "arrive_time": "20:44",
+      "depart_time": "20:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "万宁",
+      "arrive_time": "21:00",
+      "depart_time": "21:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "陵水",
+      "arrive_time": "21:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "三亚",
+      "arrive_time": "21:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 191.0,
+    "price_second": 119.0,
+    "price_no_seat": 119.0
+  },
+  "fetched_at": "2026-05-01T02:41:08.001661"
+}

@@ -1,0 +1,36 @@
+{
+  "train_no": "D8574",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "遵义",
+  "depart_time": "18:22",
+  "arrive_time": "19:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "18:22",
+      "depart_time": "18:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌江寨",
+      "arrive_time": "19:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "遵义",
+      "arrive_time": "19:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 50.0,
+    "price_no_seat": 50.0
+  },
+  "fetched_at": "2026-05-01T04:59:57.315467"
+}

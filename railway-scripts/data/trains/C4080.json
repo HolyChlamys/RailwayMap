@@ -1,0 +1,93 @@
+{
+  "train_no": "C4080",
+  "train_type": "C",
+  "depart_station": "攀枝花南",
+  "arrive_station": "成都南",
+  "depart_time": "07:38",
+  "arrive_time": "12:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "攀枝花南",
+      "arrive_time": "07:38",
+      "depart_time": "07:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "米易东",
+      "arrive_time": "08:15",
+      "depart_time": "08:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "德昌西",
+      "arrive_time": "08:46",
+      "depart_time": "08:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西昌西",
+      "arrive_time": "09:20",
+      "depart_time": "09:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "冕宁",
+      "arrive_time": "09:48",
+      "depart_time": "09:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "越西",
+      "arrive_time": "10:18",
+      "depart_time": "10:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "金口河南",
+      "arrive_time": "10:58",
+      "depart_time": "10:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "峨边南",
+      "arrive_time": "11:16",
+      "depart_time": "11:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "沙湾南",
+      "arrive_time": "11:37",
+      "depart_time": "11:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "彭山",
+      "arrive_time": "12:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "成都南",
+      "arrive_time": "12:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 307.0,
+    "price_second": 191.0,
+    "price_no_seat": 191.0
+  },
+  "fetched_at": "2026-05-01T01:08:08.423768"
+}

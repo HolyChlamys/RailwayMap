@@ -1,0 +1,51 @@
+{
+  "train_no": "C814",
+  "train_type": "C",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "库尔勒",
+  "depart_time": "14:30",
+  "arrive_time": "18:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "14:30",
+      "depart_time": "14:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马兰",
+      "arrive_time": "17:12",
+      "depart_time": "17:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "和硕",
+      "arrive_time": "17:36",
+      "depart_time": "17:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "焉耆",
+      "arrive_time": "18:01",
+      "depart_time": "18:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "库尔勒",
+      "arrive_time": "18:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 191.0,
+    "price_second": 120.0,
+    "price_no_seat": 120.0
+  },
+  "fetched_at": "2026-05-01T02:32:05.252089"
+}

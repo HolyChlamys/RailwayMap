@@ -1,0 +1,58 @@
+{
+  "train_no": "D5224",
+  "train_type": "D",
+  "depart_station": "武汉东",
+  "arrive_station": "云梦东",
+  "depart_time": "09:14",
+  "arrive_time": "10:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉东",
+      "arrive_time": "09:14",
+      "depart_time": "09:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南湖东",
+      "arrive_time": "09:23",
+      "depart_time": "09:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "武昌",
+      "arrive_time": "09:38",
+      "depart_time": "09:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "10:03",
+      "depart_time": "10:13",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "孝感东",
+      "arrive_time": "10:39",
+      "depart_time": "10:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "云梦东",
+      "arrive_time": "10:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 91.0,
+    "price_second": 56.0,
+    "price_no_seat": 56.0
+  },
+  "fetched_at": "2026-05-01T04:02:38.009375"
+}

@@ -1,0 +1,85 @@
+{
+  "train_no": "C5891",
+  "train_type": "C",
+  "depart_station": "花溪大学城",
+  "arrive_station": "毕节",
+  "depart_time": "09:00",
+  "arrive_time": "11:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "花溪大学城",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "党武",
+      "arrive_time": "09:04",
+      "depart_time": "09:05",
+      "stay_min": "1"
+    },
+    {
+      "seq": 3,
+      "station_name": "天河潭",
+      "arrive_time": "09:09",
+      "depart_time": "09:10",
+      "stay_min": "1"
+    },
+    {
+      "seq": 4,
+      "station_name": "湖潮东",
+      "arrive_time": "09:16",
+      "depart_time": "09:17",
+      "stay_min": "1"
+    },
+    {
+      "seq": 5,
+      "station_name": "芦官",
+      "arrive_time": "09:21",
+      "depart_time": "09:22",
+      "stay_min": "1"
+    },
+    {
+      "seq": 6,
+      "station_name": "贵安",
+      "arrive_time": "09:29",
+      "depart_time": "09:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "贵阳北",
+      "arrive_time": "09:47",
+      "depart_time": "09:58",
+      "stay_min": "11"
+    },
+    {
+      "seq": 8,
+      "station_name": "白云北",
+      "arrive_time": "10:10",
+      "depart_time": "10:27",
+      "stay_min": "17"
+    },
+    {
+      "seq": 9,
+      "station_name": "黔西",
+      "arrive_time": "10:54",
+      "depart_time": "11:01",
+      "stay_min": "7"
+    },
+    {
+      "seq": 10,
+      "station_name": "毕节",
+      "arrive_time": "11:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T01:41:22.075536"
+}

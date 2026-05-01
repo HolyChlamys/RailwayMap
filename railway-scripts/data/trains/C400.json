@@ -1,0 +1,30 @@
+{
+  "train_no": "C400",
+  "train_type": "C",
+  "depart_station": "西双版纳",
+  "arrive_station": "普洱",
+  "depart_time": "16:45",
+  "arrive_time": "16:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西双版纳",
+      "arrive_time": "16:45",
+      "depart_time": "16:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普洱",
+      "arrive_time": "16:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 83.0,
+    "price_second": 52.0,
+    "price_no_seat": 52.0
+  },
+  "fetched_at": "2026-05-01T01:06:09.040412"
+}

@@ -1,0 +1,87 @@
+{
+  "train_no": "G3560",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "天津西",
+  "depart_time": "17:14",
+  "arrive_time": "22:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "17:14",
+      "depart_time": "17:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德清",
+      "arrive_time": "17:29",
+      "depart_time": "17:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "溧水",
+      "arrive_time": "18:15",
+      "depart_time": "18:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "18:35",
+      "depart_time": "18:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "蚌埠南",
+      "arrive_time": "19:19",
+      "depart_time": "19:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "徐州东",
+      "arrive_time": "20:00",
+      "depart_time": "20:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "枣庄",
+      "arrive_time": "20:30",
+      "depart_time": "20:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "济南西",
+      "arrive_time": "21:28",
+      "depart_time": "21:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "沧州西",
+      "arrive_time": "22:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "天津西",
+      "arrive_time": "22:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2200.0,
+    "price_first": 1005.0,
+    "price_second": 628.0,
+    "price_no_seat": 628.0
+  },
+  "fetched_at": "2026-05-01T06:41:21.887212"
+}

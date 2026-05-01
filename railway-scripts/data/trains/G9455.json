@@ -1,0 +1,38 @@
+{
+  "train_no": "G9455",
+  "train_type": "G",
+  "depart_station": "阜阳西",
+  "arrive_station": "上海虹桥",
+  "depart_time": "03:24",
+  "arrive_time": "05:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜阳西",
+      "arrive_time": "03:24",
+      "depart_time": "03:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "05:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "上海虹桥",
+      "arrive_time": "05:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1149.0,
+    "price_first": 564.0,
+    "price_second": 352.0,
+    "price_no_seat": 352.0
+  },
+  "fetched_at": "2026-05-01T09:14:34.882056"
+}

@@ -1,0 +1,66 @@
+{
+  "train_no": "G5178",
+  "train_type": "G",
+  "depart_station": "湛江北",
+  "arrive_station": "广州",
+  "depart_time": "07:44",
+  "arrive_time": "09:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "湛江北",
+      "arrive_time": "07:44",
+      "depart_time": "07:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吴川",
+      "arrive_time": "08:03",
+      "depart_time": "08:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "茂名南",
+      "arrive_time": "08:18",
+      "depart_time": "08:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阳江北",
+      "arrive_time": "08:45",
+      "depart_time": "08:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "阳春东",
+      "arrive_time": "08:58",
+      "depart_time": "08:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "新兴南",
+      "arrive_time": "09:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州",
+      "arrive_time": "09:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1146.0,
+    "price_first": 523.0,
+    "price_second": 327.0,
+    "price_no_seat": 327.0
+  },
+  "fetched_at": "2026-05-01T07:26:56.683758"
+}

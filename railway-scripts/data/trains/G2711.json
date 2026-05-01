@@ -1,0 +1,101 @@
+{
+  "train_no": "G2711",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "深圳",
+  "depart_time": "16:33",
+  "arrive_time": "21:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "16:33",
+      "depart_time": "16:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄂州",
+      "arrive_time": "16:57",
+      "depart_time": "16:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄石北",
+      "arrive_time": "17:11",
+      "depart_time": "17:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阳新",
+      "arrive_time": "17:32",
+      "depart_time": "17:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "瑞昌西",
+      "arrive_time": "17:52",
+      "depart_time": "17:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南昌西",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "新干东",
+      "arrive_time": "19:31",
+      "depart_time": "19:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "吉安西",
+      "arrive_time": "19:55",
+      "depart_time": "19:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "泰和",
+      "arrive_time": "20:09",
+      "depart_time": "20:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "万安县",
+      "arrive_time": "20:24",
+      "depart_time": "20:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "赣州西",
+      "arrive_time": "21:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "深圳",
+      "arrive_time": "21:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2063.0,
+    "price_first": 1007.0,
+    "price_second": 639.0,
+    "price_no_seat": 639.0
+  },
+  "fetched_at": "2026-05-01T06:18:12.446593"
+}

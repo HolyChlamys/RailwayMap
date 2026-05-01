@@ -1,0 +1,45 @@
+{
+  "train_no": "G8995",
+  "train_type": "G",
+  "depart_station": "南京南",
+  "arrive_station": "常熟",
+  "depart_time": "15:16",
+  "arrive_time": "16:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "15:16",
+      "depart_time": "15:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金坛",
+      "arrive_time": "15:43",
+      "depart_time": "15:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "江阴",
+      "arrive_time": "16:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "常熟",
+      "arrive_time": "16:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 437.0,
+    "price_first": 200.0,
+    "price_second": 125.0,
+    "price_no_seat": 125.0
+  },
+  "fetched_at": "2026-05-01T09:05:28.605241"
+}

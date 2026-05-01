@@ -1,0 +1,66 @@
+{
+  "train_no": "C2356",
+  "train_type": "C",
+  "depart_station": "温州南",
+  "arrive_station": "徐州东",
+  "depart_time": "21:46",
+  "arrive_time": "00:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "温州南",
+      "arrive_time": "21:46",
+      "depart_time": "21:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乐清",
+      "arrive_time": "22:04",
+      "depart_time": "22:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "台州",
+      "arrive_time": "22:37",
+      "depart_time": "22:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "天台山",
+      "arrive_time": "23:01",
+      "depart_time": "23:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州东",
+      "arrive_time": "23:52",
+      "depart_time": "23:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "00:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "徐州东",
+      "arrive_time": "00:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1796.0,
+    "price_first": 820.0,
+    "price_second": 514.0,
+    "price_no_seat": 514.0
+  },
+  "fetched_at": "2026-05-01T00:36:56.302713"
+}

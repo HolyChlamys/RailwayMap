@@ -1,0 +1,87 @@
+{
+  "train_no": "G2403",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "长治东",
+  "depart_time": "15:32",
+  "arrive_time": "22:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "15:32",
+      "depart_time": "15:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州南",
+      "arrive_time": "15:58",
+      "depart_time": "16:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "17:55",
+      "depart_time": "17:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "阜阳西",
+      "arrive_time": "19:07",
+      "depart_time": "19:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "周口东",
+      "arrive_time": "19:44",
+      "depart_time": "19:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州航空港",
+      "arrive_time": "20:24",
+      "depart_time": "20:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州",
+      "arrive_time": "20:56",
+      "depart_time": "21:02",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "焦作",
+      "arrive_time": "21:35",
+      "depart_time": "21:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "晋城东",
+      "arrive_time": "22:00",
+      "depart_time": "22:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "长治东",
+      "arrive_time": "22:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2198.5,
+    "price_first": 1120.5,
+    "price_second": 698.5,
+    "price_no_seat": 698.5
+  },
+  "fetched_at": "2026-05-01T06:09:32.274545"
+}

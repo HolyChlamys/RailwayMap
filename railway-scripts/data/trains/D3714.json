@@ -1,0 +1,86 @@
+{
+  "train_no": "D3714",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "北海",
+  "depart_time": "10:02",
+  "arrive_time": "15:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "10:02",
+      "depart_time": "10:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肇庆东",
+      "arrive_time": "10:38",
+      "depart_time": "10:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "云浮东",
+      "arrive_time": "11:01",
+      "depart_time": "11:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "梧州南",
+      "arrive_time": "11:36",
+      "depart_time": "11:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "平南南",
+      "arrive_time": "12:04",
+      "depart_time": "12:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "贵港",
+      "arrive_time": "12:35",
+      "depart_time": "12:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "南宁东",
+      "arrive_time": "13:22",
+      "depart_time": "13:45",
+      "stay_min": "23"
+    },
+    {
+      "seq": 8,
+      "station_name": "钦州东",
+      "arrive_time": "14:20",
+      "depart_time": "14:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "合浦",
+      "arrive_time": "14:45",
+      "depart_time": "14:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "北海",
+      "arrive_time": "15:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 540.0,
+    "price_second": 337.0,
+    "price_no_seat": 337.0
+  },
+  "fetched_at": "2026-05-01T03:37:36.380137"
+}

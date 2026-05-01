@@ -1,0 +1,101 @@
+{
+  "train_no": "C2366",
+  "train_type": "C",
+  "depart_station": "杭州西",
+  "arrive_station": "合肥南",
+  "depart_time": "13:12",
+  "arrive_time": "17:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "13:12",
+      "depart_time": "13:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桐庐",
+      "arrive_time": "13:35",
+      "depart_time": "13:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "千岛湖",
+      "arrive_time": "13:59",
+      "depart_time": "14:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "三阳",
+      "arrive_time": "14:18",
+      "depart_time": "14:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "黄山北",
+      "arrive_time": "14:43",
+      "depart_time": "14:48",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "黄山西",
+      "arrive_time": "15:11",
+      "depart_time": "15:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "池州",
+      "arrive_time": "15:38",
+      "depart_time": "15:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "安庆",
+      "arrive_time": "16:01",
+      "depart_time": "16:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "桐城东",
+      "arrive_time": "16:30",
+      "depart_time": "16:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "庐江西",
+      "arrive_time": "16:43",
+      "depart_time": "16:48",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "舒城东",
+      "arrive_time": "17:00",
+      "depart_time": "17:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "合肥南",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1097.0,
+    "price_first": 520.0,
+    "price_second": 325.0,
+    "price_no_seat": 325.0
+  },
+  "fetched_at": "2026-05-01T00:37:12.920520"
+}

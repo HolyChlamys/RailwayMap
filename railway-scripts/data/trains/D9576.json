@@ -1,0 +1,44 @@
+{
+  "train_no": "D9576",
+  "train_type": "D",
+  "depart_station": "宁波",
+  "arrive_station": "杭州东",
+  "depart_time": "20:22",
+  "arrive_time": "21:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "余姚北",
+      "arrive_time": "20:45",
+      "depart_time": "20:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "绍兴北",
+      "arrive_time": "21:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "21:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 110.0,
+    "price_second": 69.0,
+    "price_no_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T05:18:50.310157"
+}

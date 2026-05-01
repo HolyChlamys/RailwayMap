@@ -1,0 +1,210 @@
+{
+  "train_no": "K605",
+  "train_type": "K",
+  "depart_station": "安康",
+  "arrive_station": "杭州",
+  "depart_time": "08:54",
+  "arrive_time": "10:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安康",
+      "arrive_time": "08:54",
+      "depart_time": "08:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "旬阳北",
+      "arrive_time": "09:33",
+      "depart_time": "09:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "小河镇",
+      "arrive_time": "09:58",
+      "depart_time": "10:08",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "镇安",
+      "arrive_time": "10:31",
+      "depart_time": "10:34",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "柞水",
+      "arrive_time": "10:52",
+      "depart_time": "11:01",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "引镇",
+      "arrive_time": "11:54",
+      "depart_time": "11:57",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "西安",
+      "arrive_time": "12:36",
+      "depart_time": "13:02",
+      "stay_min": "26"
+    },
+    {
+      "seq": 8,
+      "station_name": "临潼",
+      "arrive_time": "13:24",
+      "depart_time": "13:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "渭南",
+      "arrive_time": "13:46",
+      "depart_time": "13:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "华山",
+      "arrive_time": "14:33",
+      "depart_time": "14:36",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "潼关",
+      "arrive_time": "14:58",
+      "depart_time": "15:02",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "灵宝",
+      "arrive_time": "16:03",
+      "depart_time": "16:13",
+      "stay_min": "10"
+    },
+    {
+      "seq": 13,
+      "station_name": "三门峡西",
+      "arrive_time": "16:37",
+      "depart_time": "16:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "义马",
+      "arrive_time": "17:57",
+      "depart_time": "18:00",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "洛阳",
+      "arrive_time": "18:44",
+      "depart_time": "18:50",
+      "stay_min": "6"
+    },
+    {
+      "seq": 16,
+      "station_name": "偃师",
+      "arrive_time": "19:14",
+      "depart_time": "19:20",
+      "stay_min": "6"
+    },
+    {
+      "seq": 17,
+      "station_name": "巩义",
+      "arrive_time": "19:39",
+      "depart_time": "19:43",
+      "stay_min": "4"
+    },
+    {
+      "seq": 18,
+      "station_name": "郑州",
+      "arrive_time": "20:40",
+      "depart_time": "21:17",
+      "stay_min": "37"
+    },
+    {
+      "seq": 19,
+      "station_name": "开封",
+      "arrive_time": "22:16",
+      "depart_time": "22:21",
+      "stay_min": "5"
+    },
+    {
+      "seq": 20,
+      "station_name": "兰考",
+      "arrive_time": "22:49",
+      "depart_time": "22:54",
+      "stay_min": "5"
+    },
+    {
+      "seq": 21,
+      "station_name": "民权",
+      "arrive_time": "23:16",
+      "depart_time": "23:20",
+      "stay_min": "4"
+    },
+    {
+      "seq": 22,
+      "station_name": "商丘",
+      "arrive_time": "00:06",
+      "depart_time": "00:12",
+      "stay_min": "6"
+    },
+    {
+      "seq": 23,
+      "station_name": "阜阳",
+      "arrive_time": "02:11",
+      "depart_time": "02:18",
+      "stay_min": "7"
+    },
+    {
+      "seq": 24,
+      "station_name": "合肥",
+      "arrive_time": "04:47",
+      "depart_time": "05:09",
+      "stay_min": "22"
+    },
+    {
+      "seq": 25,
+      "station_name": "芜湖",
+      "arrive_time": "06:41",
+      "depart_time": "06:44",
+      "stay_min": "3"
+    },
+    {
+      "seq": 26,
+      "station_name": "广德",
+      "arrive_time": "08:13",
+      "depart_time": "08:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 27,
+      "station_name": "德清西",
+      "arrive_time": "09:37",
+      "depart_time": "09:46",
+      "stay_min": "9"
+    },
+    {
+      "seq": 28,
+      "station_name": "杭州",
+      "arrive_time": "10:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 206.0
+  },
+  "fetched_at": "2026-05-01T10:17:15.458543"
+}

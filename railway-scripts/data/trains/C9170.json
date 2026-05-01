@@ -1,0 +1,66 @@
+{
+  "train_no": "C9170",
+  "train_type": "C",
+  "depart_station": "荔波",
+  "arrive_station": "毕节",
+  "depart_time": "18:27",
+  "arrive_time": "20:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荔波",
+      "arrive_time": "18:27",
+      "depart_time": "18:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "独山东",
+      "arrive_time": "18:52",
+      "depart_time": "18:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "都匀东",
+      "arrive_time": "19:08",
+      "depart_time": "19:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳",
+      "arrive_time": "19:54",
+      "depart_time": "19:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "20:09",
+      "depart_time": "20:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黔西",
+      "arrive_time": "20:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "毕节",
+      "arrive_time": "20:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 586.0,
+    "price_first": 289.0,
+    "price_second": 181.0,
+    "price_no_seat": 181.0
+  },
+  "fetched_at": "2026-05-01T02:41:44.180255"
+}

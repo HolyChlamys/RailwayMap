@@ -1,0 +1,44 @@
+{
+  "train_no": "D8549",
+  "train_type": "D",
+  "depart_station": "牡丹江",
+  "arrive_station": "绥芬河",
+  "depart_time": "06:25",
+  "arrive_time": "07:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "牡丹江",
+      "arrive_time": "06:25",
+      "depart_time": "06:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "穆棱",
+      "arrive_time": "06:57",
+      "depart_time": "06:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "绥阳",
+      "arrive_time": "07:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绥芬河",
+      "arrive_time": "07:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 81.0,
+    "price_second": 51.0,
+    "price_no_seat": 51.0
+  },
+  "fetched_at": "2026-05-01T04:59:21.065124"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "G5347",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "贵阳北",
+  "depart_time": "07:23",
+  "arrive_time": "09:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "07:23",
+      "depart_time": "07:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遵义",
+      "arrive_time": "08:43",
+      "depart_time": "08:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "息烽",
+      "arrive_time": "09:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "09:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 222.0,
+    "price_second": 139.0,
+    "price_no_seat": 139.0
+  },
+  "fetched_at": "2026-05-01T07:31:36.266279"
+}

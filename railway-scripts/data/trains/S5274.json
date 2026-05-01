@@ -1,0 +1,30 @@
+{
+  "train_no": "S5274",
+  "train_type": "S",
+  "depart_station": "成都东",
+  "arrive_station": "邛崃",
+  "depart_time": "10:21",
+  "arrive_time": "11:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "10:21",
+      "depart_time": "10:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邛崃",
+      "arrive_time": "11:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 63.0,
+    "price_second": 39.0,
+    "price_no_seat": 39.0
+  },
+  "fetched_at": "2026-05-01T11:04:53.458479"
+}

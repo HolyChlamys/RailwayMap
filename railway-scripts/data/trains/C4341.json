@@ -1,0 +1,45 @@
+{
+  "train_no": "C4341",
+  "train_type": "C",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "奎屯",
+  "depart_time": "09:25",
+  "arrive_time": "11:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "09:25",
+      "depart_time": "09:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石河子",
+      "arrive_time": "10:43",
+      "depart_time": "10:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沙湾市",
+      "arrive_time": "11:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "奎屯",
+      "arrive_time": "11:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 191.0,
+    "price_first": 87.0,
+    "price_second": 55.0,
+    "price_no_seat": 55.0
+  },
+  "fetched_at": "2026-05-01T01:13:44.060099"
+}

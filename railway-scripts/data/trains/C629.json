@@ -1,0 +1,57 @@
+{
+  "train_no": "C629",
+  "train_type": "C",
+  "depart_station": "宁波",
+  "arrive_station": "东阳北",
+  "depart_time": "11:51",
+  "arrive_time": "13:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "11:51",
+      "depart_time": "11:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "奉化",
+      "arrive_time": "12:17",
+      "depart_time": "12:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "溪口",
+      "arrive_time": "12:35",
+      "depart_time": "12:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新昌北",
+      "arrive_time": "12:53",
+      "depart_time": "12:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "嵊州新昌",
+      "arrive_time": "13:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "东阳北",
+      "arrive_time": "13:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 65.0,
+    "price_no_seat": 65.0
+  },
+  "fetched_at": "2026-05-01T01:48:19.375608"
+}

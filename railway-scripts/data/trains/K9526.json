@@ -1,0 +1,49 @@
+{
+  "train_no": "K9526",
+  "train_type": "K",
+  "depart_station": "开江",
+  "arrive_station": "巴中",
+  "depart_time": "10:15",
+  "arrive_time": "13:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "开江",
+      "arrive_time": "10:15",
+      "depart_time": "10:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "达州",
+      "arrive_time": "11:16",
+      "depart_time": "11:22",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "石梯",
+      "arrive_time": "12:05",
+      "depart_time": "12:11",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "平昌",
+      "arrive_time": "13:08",
+      "depart_time": "13:13",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "巴中",
+      "arrive_time": "13:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:46:32.070338"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "D8116",
+  "train_type": "D",
+  "depart_station": "大理",
+  "arrive_station": "禄丰南",
+  "depart_time": "13:45",
+  "arrive_time": "20:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "13:45",
+      "depart_time": "13:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆明",
+      "arrive_time": "15:39",
+      "depart_time": "15:45",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明南",
+      "arrive_time": "16:03",
+      "depart_time": "16:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "禄丰南",
+      "arrive_time": "20:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 247.5,
+    "price_second": 155.5,
+    "price_no_seat": 155.5
+  },
+  "fetched_at": "2026-05-01T04:49:45.947824"
+}

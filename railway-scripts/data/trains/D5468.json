@@ -1,0 +1,65 @@
+{
+  "train_no": "D5468",
+  "train_type": "D",
+  "depart_station": "盐城",
+  "arrive_station": "南京",
+  "depart_time": "16:43",
+  "arrive_time": "19:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "盐城",
+      "arrive_time": "16:43",
+      "depart_time": "16:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "建湖",
+      "arrive_time": "16:57",
+      "depart_time": "16:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "阜宁南",
+      "arrive_time": "17:07",
+      "depart_time": "17:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "淮安东",
+      "arrive_time": "17:27",
+      "depart_time": "17:44",
+      "stay_min": "17"
+    },
+    {
+      "seq": 5,
+      "station_name": "高邮北",
+      "arrive_time": "18:06",
+      "depart_time": "18:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "镇江",
+      "arrive_time": "18:55",
+      "depart_time": "18:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京",
+      "arrive_time": "19:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 280.0,
+    "price_second": 176.0,
+    "price_no_seat": 176.0
+  },
+  "fetched_at": "2026-05-01T04:07:31.925588"
+}

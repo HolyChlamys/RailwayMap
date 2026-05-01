@@ -1,0 +1,37 @@
+{
+  "train_no": "D6025",
+  "train_type": "D",
+  "depart_station": "济南",
+  "arrive_station": "青岛",
+  "depart_time": "14:33",
+  "arrive_time": "15:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "14:33",
+      "depart_time": "14:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淄博",
+      "arrive_time": "15:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "青岛",
+      "arrive_time": "15:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 233.0,
+    "price_second": 146.0,
+    "price_no_seat": 146.0
+  },
+  "fetched_at": "2026-05-01T04:15:17.624484"
+}

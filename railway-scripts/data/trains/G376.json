@@ -1,0 +1,31 @@
+{
+  "train_no": "G376",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "北京西",
+  "depart_time": "15:06",
+  "arrive_time": "15:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "15:06",
+      "depart_time": "15:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北京西",
+      "arrive_time": "15:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1297.0,
+    "price_first": 593.0,
+    "price_second": 371.0,
+    "price_no_seat": 371.0
+  },
+  "fetched_at": "2026-05-01T06:46:44.620166"
+}

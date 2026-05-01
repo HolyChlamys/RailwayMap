@@ -1,0 +1,31 @@
+{
+  "train_no": "G8638",
+  "train_type": "G",
+  "depart_station": "沙坪坝",
+  "arrive_station": "成都东",
+  "depart_time": "21:45",
+  "arrive_time": "21:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沙坪坝",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都东",
+      "arrive_time": "21:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 576.0,
+    "price_first": 263.0,
+    "price_second": 164.0,
+    "price_no_seat": 164.0
+  },
+  "fetched_at": "2026-05-01T08:56:37.227807"
+}

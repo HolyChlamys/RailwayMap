@@ -1,0 +1,66 @@
+{
+  "train_no": "C9593",
+  "train_type": "C",
+  "depart_station": "南昌西",
+  "arrive_station": "福州南",
+  "depart_time": "08:34",
+  "arrive_time": "12:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "08:34",
+      "depart_time": "08:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹰潭北",
+      "arrive_time": "09:09",
+      "depart_time": "09:26",
+      "stay_min": "17"
+    },
+    {
+      "seq": 3,
+      "station_name": "弋阳",
+      "arrive_time": "09:39",
+      "depart_time": "09:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "上饶",
+      "arrive_time": "10:04",
+      "depart_time": "10:10",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "南平市",
+      "arrive_time": "10:39",
+      "depart_time": "10:44",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "福州",
+      "arrive_time": "11:44",
+      "depart_time": "11:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "福州南",
+      "arrive_time": "12:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 957.0,
+    "price_first": 475.0,
+    "price_second": 289.0,
+    "price_no_seat": 289.0
+  },
+  "fetched_at": "2026-05-01T02:50:13.419065"
+}

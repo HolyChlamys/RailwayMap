@@ -1,0 +1,38 @@
+{
+  "train_no": "G4896",
+  "train_type": "G",
+  "depart_station": "南平市",
+  "arrive_station": "上海虹桥",
+  "depart_time": "23:33",
+  "arrive_time": "01:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南平市",
+      "arrive_time": "23:33",
+      "depart_time": "23:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "01:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "上海虹桥",
+      "arrive_time": "01:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1128.5,
+    "price_first": 529.0,
+    "price_second": 328.0,
+    "price_no_seat": 328.0
+  },
+  "fetched_at": "2026-05-01T07:19:08.321528"
+}

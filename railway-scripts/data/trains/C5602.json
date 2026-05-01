@@ -1,0 +1,52 @@
+{
+  "train_no": "C5602",
+  "train_type": "C",
+  "depart_station": "蕲春南",
+  "arrive_station": "武汉东",
+  "depart_time": "13:58",
+  "arrive_time": "14:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "蕲春南",
+      "arrive_time": "13:58",
+      "depart_time": "13:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "浠水南",
+      "arrive_time": "14:11",
+      "depart_time": "14:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄冈东",
+      "arrive_time": "14:27",
+      "depart_time": "14:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄冈西",
+      "arrive_time": "14:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武汉东",
+      "arrive_time": "14:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 224.0,
+    "price_first": 111.0,
+    "price_second": 69.0,
+    "price_no_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T01:35:28.764290"
+}

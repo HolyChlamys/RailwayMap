@@ -1,0 +1,31 @@
+{
+  "train_no": "C884",
+  "train_type": "C",
+  "depart_station": "山南",
+  "arrive_station": "拉萨",
+  "depart_time": "09:00",
+  "arrive_time": "09:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "山南",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "拉萨",
+      "arrive_time": "09:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 321.0,
+    "price_first": 147.0,
+    "price_second": 92.0,
+    "price_no_seat": 92.0
+  },
+  "fetched_at": "2026-05-01T02:36:37.163526"
+}

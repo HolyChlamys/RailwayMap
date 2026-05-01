@@ -1,0 +1,51 @@
+{
+  "train_no": "D6606",
+  "train_type": "D",
+  "depart_station": "张家口",
+  "arrive_station": "北京北",
+  "depart_time": "13:48",
+  "arrive_time": "14:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家口",
+      "arrive_time": "13:48",
+      "depart_time": "13:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宣化北",
+      "arrive_time": "14:01",
+      "depart_time": "14:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东花园北",
+      "arrive_time": "14:26",
+      "depart_time": "14:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "清河",
+      "arrive_time": "14:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "北京北",
+      "arrive_time": "14:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 116.0,
+    "price_second": 72.0,
+    "price_no_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T04:26:17.679694"
+}

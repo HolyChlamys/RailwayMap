@@ -1,0 +1,56 @@
+{
+  "train_no": "K5845",
+  "train_type": "K",
+  "depart_station": "南昌",
+  "arrive_station": "萍乡",
+  "depart_time": "16:40",
+  "arrive_time": "19:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "16:40",
+      "depart_time": "16:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丰城",
+      "arrive_time": "17:52",
+      "depart_time": "17:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新余",
+      "arrive_time": "18:58",
+      "depart_time": "18:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "分宜",
+      "arrive_time": "19:22",
+      "depart_time": "19:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜春",
+      "arrive_time": "19:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "萍乡",
+      "arrive_time": "19:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T10:15:05.036093"
+}

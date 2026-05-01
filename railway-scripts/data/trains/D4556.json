@@ -1,0 +1,58 @@
+{
+  "train_no": "D4556",
+  "train_type": "D",
+  "depart_station": "宜昌东",
+  "arrive_station": "南京南",
+  "depart_time": "21:56",
+  "arrive_time": "01:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "21:56",
+      "depart_time": "21:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枝江北",
+      "arrive_time": "22:20",
+      "depart_time": "22:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "荆州",
+      "arrive_time": "22:41",
+      "depart_time": "22:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "23:59",
+      "depart_time": "23:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥南",
+      "arrive_time": "01:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "01:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 576.0,
+    "price_second": 361.0,
+    "price_no_seat": 361.0
+  },
+  "fetched_at": "2026-05-01T03:53:15.670115"
+}

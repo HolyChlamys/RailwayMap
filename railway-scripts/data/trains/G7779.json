@@ -1,0 +1,80 @@
+{
+  "train_no": "G7779",
+  "train_type": "G",
+  "depart_station": "砀山南",
+  "arrive_station": "六安",
+  "depart_time": "18:47",
+  "arrive_time": "22:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "砀山南",
+      "arrive_time": "18:47",
+      "depart_time": "18:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永城北",
+      "arrive_time": "18:58",
+      "depart_time": "19:07",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "萧县北",
+      "arrive_time": "19:21",
+      "depart_time": "19:25",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "徐州东",
+      "arrive_time": "19:43",
+      "depart_time": "19:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "宿州东",
+      "arrive_time": "20:04",
+      "depart_time": "20:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "蚌埠南",
+      "arrive_time": "20:29",
+      "depart_time": "20:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "淮南东",
+      "arrive_time": "20:47",
+      "depart_time": "20:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "合肥西",
+      "arrive_time": "21:20",
+      "depart_time": "21:35",
+      "stay_min": "15"
+    },
+    {
+      "seq": 9,
+      "station_name": "六安",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 829.5,
+    "price_first": 394.5,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T08:36:18.382534"
+}

@@ -1,0 +1,36 @@
+{
+  "train_no": "C2762",
+  "train_type": "C",
+  "depart_station": "郑州航空港",
+  "arrive_station": "郑州东",
+  "depart_time": "22:06",
+  "arrive_time": "22:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州航空港",
+      "arrive_time": "22:06",
+      "depart_time": "22:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新郑机场",
+      "arrive_time": "22:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "22:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 10.0,
+    "price_no_seat": 10.0
+  },
+  "fetched_at": "2026-05-01T00:44:30.012257"
+}

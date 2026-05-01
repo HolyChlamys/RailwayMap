@@ -1,0 +1,58 @@
+{
+  "train_no": "D8097",
+  "train_type": "D",
+  "depart_station": "沈阳北",
+  "arrive_station": "白城",
+  "depart_time": "08:50",
+  "arrive_time": "12:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "08:50",
+      "depart_time": "08:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "四平东",
+      "arrive_time": "09:47",
+      "depart_time": "09:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "公主岭南",
+      "arrive_time": "10:15",
+      "depart_time": "10:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长春",
+      "arrive_time": "10:53",
+      "depart_time": "10:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "松原",
+      "arrive_time": "12:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "白城",
+      "arrive_time": "12:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 381.0,
+    "price_second": 238.0,
+    "price_no_seat": 238.0
+  },
+  "fetched_at": "2026-05-01T04:49:32.750431"
+}

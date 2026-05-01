@@ -1,0 +1,43 @@
+{
+  "train_no": "C4108",
+  "train_type": "C",
+  "depart_station": "广州白云",
+  "arrive_station": "张家界西",
+  "depart_time": "20:16",
+  "arrive_time": "06:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "20:16",
+      "depart_time": "20:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙",
+      "arrive_time": "04:02",
+      "depart_time": "04:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常德",
+      "arrive_time": "06:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "张家界西",
+      "arrive_time": "06:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 289.0,
+    "price_no_seat": 289.0
+  },
+  "fetched_at": "2026-05-01T01:08:48.114596"
+}

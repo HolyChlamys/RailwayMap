@@ -1,0 +1,45 @@
+{
+  "train_no": "C9334",
+  "train_type": "C",
+  "depart_station": "西安北",
+  "arrive_station": "延安",
+  "depart_time": "19:43",
+  "arrive_time": "20:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "19:43",
+      "depart_time": "19:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "铜川北",
+      "arrive_time": "20:17",
+      "depart_time": "20:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄陵",
+      "arrive_time": "20:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "延安",
+      "arrive_time": "20:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 836.0,
+    "price_first": 382.0,
+    "price_second": 239.0,
+    "price_no_seat": 239.0
+  },
+  "fetched_at": "2026-05-01T02:45:36.422284"
+}

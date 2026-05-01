@@ -1,0 +1,51 @@
+{
+  "train_no": "C6302",
+  "train_type": "C",
+  "depart_station": "双流机场",
+  "arrive_station": "江油",
+  "depart_time": "10:42",
+  "arrive_time": "11:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "双流机场",
+      "arrive_time": "10:42",
+      "depart_time": "10:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都东",
+      "arrive_time": "11:11",
+      "depart_time": "11:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "德阳",
+      "arrive_time": "11:37",
+      "depart_time": "11:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绵阳",
+      "arrive_time": "11:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "江油",
+      "arrive_time": "11:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 130.0,
+    "price_second": 81.0,
+    "price_no_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T01:48:29.257815"
+}

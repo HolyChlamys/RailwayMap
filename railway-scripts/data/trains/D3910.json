@@ -1,0 +1,52 @@
+{
+  "train_no": "D3910",
+  "train_type": "D",
+  "depart_station": "昆明南",
+  "arrive_station": "南宁东",
+  "depart_time": "17:50",
+  "arrive_time": "21:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "17:50",
+      "depart_time": "17:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广南县",
+      "arrive_time": "19:18",
+      "depart_time": "19:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "百色",
+      "arrive_time": "20:30",
+      "depart_time": "20:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁",
+      "arrive_time": "21:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南宁东",
+      "arrive_time": "21:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 813.5,
+    "price_first": 433.0,
+    "price_second": 270.5,
+    "price_no_seat": 270.5
+  },
+  "fetched_at": "2026-05-01T03:41:22.593642"
+}

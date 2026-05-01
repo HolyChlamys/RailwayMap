@@ -1,0 +1,66 @@
+{
+  "train_no": "C492",
+  "train_type": "C",
+  "depart_station": "庆元",
+  "arrive_station": "杭州",
+  "depart_time": "17:06",
+  "arrive_time": "20:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "庆元",
+      "arrive_time": "17:06",
+      "depart_time": "17:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙泉市",
+      "arrive_time": "17:39",
+      "depart_time": "17:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "松阳",
+      "arrive_time": "18:12",
+      "depart_time": "18:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "遂昌",
+      "arrive_time": "18:36",
+      "depart_time": "18:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衢州",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "金华",
+      "arrive_time": "20:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "杭州",
+      "arrive_time": "20:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 489.0,
+    "price_first": 224.0,
+    "price_second": 140.0,
+    "price_no_seat": 140.0
+  },
+  "fetched_at": "2026-05-01T01:21:44.074932"
+}

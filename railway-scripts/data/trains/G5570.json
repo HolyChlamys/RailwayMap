@@ -1,0 +1,66 @@
+{
+  "train_no": "G5570",
+  "train_type": "G",
+  "depart_station": "曲阜东",
+  "arrive_station": "青岛北",
+  "depart_time": "10:47",
+  "arrive_time": "13:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "曲阜东",
+      "arrive_time": "10:47",
+      "depart_time": "10:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蒙山",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "临沂北",
+      "arrive_time": "11:31",
+      "depart_time": "11:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "莒南北",
+      "arrive_time": "11:47",
+      "depart_time": "11:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "日照西",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "红岛",
+      "arrive_time": "13:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "青岛北",
+      "arrive_time": "13:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 531.0,
+    "price_first": 283.0,
+    "price_second": 177.0,
+    "price_no_seat": 177.0
+  },
+  "fetched_at": "2026-05-01T07:37:15.746018"
+}

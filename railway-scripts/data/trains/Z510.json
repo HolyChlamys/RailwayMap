@@ -1,0 +1,91 @@
+{
+  "train_no": "Z510",
+  "train_type": "Z",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "成都西",
+  "depart_time": "08:00",
+  "arrive_time": "10:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吐鲁番北",
+      "arrive_time": "09:56",
+      "depart_time": "09:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "哈密",
+      "arrive_time": "13:34",
+      "depart_time": "13:45",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "柳园南",
+      "arrive_time": "16:14",
+      "depart_time": "16:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "嘉峪关南",
+      "arrive_time": "18:24",
+      "depart_time": "18:32",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "民乐",
+      "arrive_time": "20:32",
+      "depart_time": "20:49",
+      "stay_min": "17"
+    },
+    {
+      "seq": 7,
+      "station_name": "西宁",
+      "arrive_time": "22:31",
+      "depart_time": "22:39",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "兰州",
+      "arrive_time": "00:14",
+      "depart_time": "00:42",
+      "stay_min": "28"
+    },
+    {
+      "seq": 9,
+      "station_name": "陇南",
+      "arrive_time": "04:14",
+      "depart_time": "04:20",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "广元",
+      "arrive_time": "05:38",
+      "depart_time": "05:46",
+      "stay_min": "8"
+    },
+    {
+      "seq": 11,
+      "station_name": "成都西",
+      "arrive_time": "10:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 278.5
+  },
+  "fetched_at": "2026-05-01T11:50:01.604675"
+}

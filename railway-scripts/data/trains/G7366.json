@@ -1,0 +1,59 @@
+{
+  "train_no": "G7366",
+  "train_type": "G",
+  "depart_station": "江山",
+  "arrive_station": "上海虹桥",
+  "depart_time": "18:50",
+  "arrive_time": "20:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "江山",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金华",
+      "arrive_time": "19:19",
+      "depart_time": "19:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "义乌",
+      "arrive_time": "19:38",
+      "depart_time": "19:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "20:14",
+      "depart_time": "20:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "嘉兴南",
+      "arrive_time": "20:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "上海虹桥",
+      "arrive_time": "20:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 824.0,
+    "price_first": 377.0,
+    "price_second": 235.0,
+    "price_no_seat": 235.0
+  },
+  "fetched_at": "2026-05-01T08:25:28.970659"
+}

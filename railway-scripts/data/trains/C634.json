@@ -1,0 +1,59 @@
+{
+  "train_no": "C634",
+  "train_type": "C",
+  "depart_station": "衢州",
+  "arrive_station": "宁波",
+  "depart_time": "05:55",
+  "arrive_time": "08:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "衢州",
+      "arrive_time": "05:55",
+      "depart_time": "05:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金华",
+      "arrive_time": "06:46",
+      "depart_time": "06:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "义乌",
+      "arrive_time": "07:18",
+      "depart_time": "07:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "东阳北",
+      "arrive_time": "07:44",
+      "depart_time": "07:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "嵊州新昌",
+      "arrive_time": "08:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宁波",
+      "arrive_time": "08:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 422.0,
+    "price_first": 193.0,
+    "price_second": 120.0,
+    "price_no_seat": 120.0
+  },
+  "fetched_at": "2026-05-01T01:49:31.886710"
+}

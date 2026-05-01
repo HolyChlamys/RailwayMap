@@ -1,0 +1,35 @@
+{
+  "train_no": "K6138",
+  "train_type": "K",
+  "depart_station": "昆明",
+  "arrive_station": "宣威",
+  "depart_time": "12:32",
+  "arrive_time": "14:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "12:32",
+      "depart_time": "12:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲靖",
+      "arrive_time": "14:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宣威",
+      "arrive_time": "14:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:18:24.847488"
+}

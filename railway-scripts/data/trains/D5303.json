@@ -1,0 +1,80 @@
+{
+  "train_no": "D5303",
+  "train_type": "D",
+  "depart_station": "朔州东",
+  "arrive_station": "平遥古城",
+  "depart_time": "12:11",
+  "arrive_time": "14:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "朔州东",
+      "arrive_time": "12:11",
+      "depart_time": "12:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "雁门关",
+      "arrive_time": "12:28",
+      "depart_time": "12:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "原平西",
+      "arrive_time": "12:44",
+      "depart_time": "12:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "忻州西",
+      "arrive_time": "12:59",
+      "depart_time": "12:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "阳曲西",
+      "arrive_time": "13:17",
+      "depart_time": "13:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "太原南",
+      "arrive_time": "13:48",
+      "depart_time": "13:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "晋中",
+      "arrive_time": "14:01",
+      "depart_time": "14:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "太谷西",
+      "arrive_time": "14:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "平遥古城",
+      "arrive_time": "14:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 366.0,
+    "price_first": 178.0,
+    "price_second": 111.0,
+    "price_no_seat": 111.0
+  },
+  "fetched_at": "2026-05-01T04:04:25.420601"
+}

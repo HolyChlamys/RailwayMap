@@ -1,0 +1,56 @@
+{
+  "train_no": "K5325",
+  "train_type": "K",
+  "depart_station": "太原",
+  "arrive_station": "平遥",
+  "depart_time": "11:38",
+  "arrive_time": "13:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原",
+      "arrive_time": "11:38",
+      "depart_time": "11:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太原南",
+      "arrive_time": "11:53",
+      "depart_time": "11:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "榆次",
+      "arrive_time": "12:11",
+      "depart_time": "12:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "太谷",
+      "arrive_time": "12:40",
+      "depart_time": "12:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "祁县",
+      "arrive_time": "13:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "平遥",
+      "arrive_time": "13:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 16.5
+  },
+  "fetched_at": "2026-05-01T10:08:07.308493"
+}

@@ -1,0 +1,58 @@
+{
+  "train_no": "D7630",
+  "train_type": "D",
+  "depart_station": "丹东",
+  "arrive_station": "沈阳",
+  "depart_time": "17:18",
+  "arrive_time": "18:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丹东",
+      "arrive_time": "17:18",
+      "depart_time": "17:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "五龙背东",
+      "arrive_time": "17:30",
+      "depart_time": "17:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "通远堡西",
+      "arrive_time": "17:52",
+      "depart_time": "17:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "本溪",
+      "arrive_time": "18:15",
+      "depart_time": "18:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳南",
+      "arrive_time": "18:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "沈阳",
+      "arrive_time": "18:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 103.0,
+    "price_second": 64.0,
+    "price_no_seat": 64.0
+  },
+  "fetched_at": "2026-05-01T04:42:03.110069"
+}

@@ -1,0 +1,56 @@
+{
+  "train_no": "K5348",
+  "train_type": "K",
+  "depart_station": "南阳",
+  "arrive_station": "洛阳",
+  "depart_time": "18:33",
+  "arrive_time": "22:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南阳",
+      "arrive_time": "18:33",
+      "depart_time": "18:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南召",
+      "arrive_time": "19:26",
+      "depart_time": "19:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "鲁山",
+      "arrive_time": "20:09",
+      "depart_time": "20:14",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "宝丰",
+      "arrive_time": "20:34",
+      "depart_time": "20:39",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "汝州",
+      "arrive_time": "21:18",
+      "depart_time": "21:23",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "洛阳",
+      "arrive_time": "22:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:08:30.458311"
+}

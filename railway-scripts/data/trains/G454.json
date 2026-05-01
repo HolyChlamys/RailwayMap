@@ -1,0 +1,45 @@
+{
+  "train_no": "G454",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "上海虹桥",
+  "depart_time": "15:00",
+  "arrive_time": "18:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "15:00",
+      "depart_time": "15:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "16:39",
+      "depart_time": "16:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "17:31",
+      "depart_time": "17:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "上海虹桥",
+      "arrive_time": "18:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1356.0,
+    "price_first": 630.0,
+    "price_second": 394.0,
+    "price_no_seat": 394.0
+  },
+  "fetched_at": "2026-05-01T07:08:17.062895"
+}

@@ -1,0 +1,114 @@
+{
+  "train_no": "D2791",
+  "train_type": "D",
+  "depart_station": "运城北",
+  "arrive_station": "包头",
+  "depart_time": "06:22",
+  "arrive_time": "13:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "运城北",
+      "arrive_time": "06:22",
+      "depart_time": "06:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "侯马西",
+      "arrive_time": "06:44",
+      "depart_time": "06:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "临汾西",
+      "arrive_time": "07:06",
+      "depart_time": "07:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "洪洞西",
+      "arrive_time": "07:20",
+      "depart_time": "07:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "介休东",
+      "arrive_time": "07:56",
+      "depart_time": "07:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "平遥古城",
+      "arrive_time": "08:08",
+      "depart_time": "08:11",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "太原",
+      "arrive_time": "08:49",
+      "depart_time": "08:56",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "忻州西",
+      "arrive_time": "09:25",
+      "depart_time": "09:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "朔州东",
+      "arrive_time": "10:00",
+      "depart_time": "10:03",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "大同南",
+      "arrive_time": "10:37",
+      "depart_time": "10:45",
+      "stay_min": "8"
+    },
+    {
+      "seq": 11,
+      "station_name": "乌兰察布",
+      "arrive_time": "11:25",
+      "depart_time": "11:31",
+      "stay_min": "6"
+    },
+    {
+      "seq": 12,
+      "station_name": "呼和浩特东",
+      "arrive_time": "12:09",
+      "depart_time": "12:15",
+      "stay_min": "6"
+    },
+    {
+      "seq": 13,
+      "station_name": "察素齐",
+      "arrive_time": "12:40",
+      "depart_time": "12:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "包头",
+      "arrive_time": "13:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 684.0,
+    "price_second": 428.5,
+    "price_no_seat": 428.5
+  },
+  "fetched_at": "2026-05-01T03:23:14.942320"
+}

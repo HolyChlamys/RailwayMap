@@ -1,0 +1,87 @@
+{
+  "train_no": "G684",
+  "train_type": "G",
+  "depart_station": "晋城东",
+  "arrive_station": "北京丰台",
+  "depart_time": "11:26",
+  "arrive_time": "15:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "晋城东",
+      "arrive_time": "11:26",
+      "depart_time": "11:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高平东",
+      "arrive_time": "11:41",
+      "depart_time": "11:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长治东",
+      "arrive_time": "12:06",
+      "depart_time": "12:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "榆社西",
+      "arrive_time": "12:44",
+      "depart_time": "12:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太谷东",
+      "arrive_time": "13:03",
+      "depart_time": "13:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "太原南",
+      "arrive_time": "13:32",
+      "depart_time": "13:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "阳泉北",
+      "arrive_time": "14:21",
+      "depart_time": "14:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "石家庄",
+      "arrive_time": "15:04",
+      "depart_time": "15:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "保定东",
+      "arrive_time": "15:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "北京丰台",
+      "arrive_time": "15:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1348.0,
+    "price_first": 616.0,
+    "price_second": 386.0,
+    "price_no_seat": 386.0
+  },
+  "fetched_at": "2026-05-01T08:10:25.372653"
+}

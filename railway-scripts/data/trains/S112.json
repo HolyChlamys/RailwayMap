@@ -1,0 +1,50 @@
+{
+  "train_no": "S112",
+  "train_type": "S",
+  "depart_station": "乔庄东",
+  "arrive_station": "北京西",
+  "depart_time": "11:59",
+  "arrive_time": "12:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乔庄东",
+      "arrive_time": "11:59",
+      "depart_time": "11:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "中仓",
+      "arrive_time": "12:09",
+      "depart_time": "12:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "北京东",
+      "arrive_time": "12:24",
+      "depart_time": "12:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "北京",
+      "arrive_time": "12:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "北京西",
+      "arrive_time": "12:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 6.0,
+    "price_no_seat": 6.0
+  },
+  "fetched_at": "2026-05-01T10:50:51.449492"
+}

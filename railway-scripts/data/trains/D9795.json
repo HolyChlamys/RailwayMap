@@ -1,0 +1,51 @@
+{
+  "train_no": "D9795",
+  "train_type": "D",
+  "depart_station": "汕头",
+  "arrive_station": "深圳北",
+  "depart_time": "01:00",
+  "arrive_time": "03:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "01:00",
+      "depart_time": "01:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "01:23",
+      "depart_time": "01:27",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "普宁",
+      "arrive_time": "01:44",
+      "depart_time": "01:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "02:15",
+      "depart_time": "02:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "03:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 237.0,
+    "price_second": 148.0,
+    "price_no_seat": 148.0
+  },
+  "fetched_at": "2026-05-01T05:25:13.110136"
+}

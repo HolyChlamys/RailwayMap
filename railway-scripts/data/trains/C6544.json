@@ -1,0 +1,51 @@
+{
+  "train_no": "C6544",
+  "train_type": "C",
+  "depart_station": "威海",
+  "arrive_station": "青岛",
+  "depart_time": "14:19",
+  "arrive_time": "15:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "威海",
+      "arrive_time": "14:19",
+      "depart_time": "14:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荣成",
+      "arrive_time": "14:36",
+      "depart_time": "14:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "青岛北",
+      "arrive_time": "16:02",
+      "depart_time": "16:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "青岛北",
+      "arrive_time": "15:10",
+      "depart_time": "15:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "青岛",
+      "arrive_time": "15:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 212.0,
+    "price_second": 133.0,
+    "price_no_seat": 133.0
+  },
+  "fetched_at": "2026-05-01T01:51:38.875697"
+}

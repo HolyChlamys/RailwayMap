@@ -1,0 +1,136 @@
+{
+  "train_no": "G3162",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "上海虹桥",
+  "depart_time": "08:12",
+  "arrive_time": "16:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "08:12",
+      "depart_time": "08:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "渭南北",
+      "arrive_time": "08:28",
+      "depart_time": "08:33",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "灵宝西",
+      "arrive_time": "09:01",
+      "depart_time": "09:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "洛阳龙门",
+      "arrive_time": "09:44",
+      "depart_time": "09:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "10:23",
+      "depart_time": "10:31",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "民权北",
+      "arrive_time": "11:10",
+      "depart_time": "11:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "商丘",
+      "arrive_time": "11:29",
+      "depart_time": "11:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "商丘东",
+      "arrive_time": "11:42",
+      "depart_time": "11:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "阜阳西",
+      "arrive_time": "12:25",
+      "depart_time": "12:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "淮南南",
+      "arrive_time": "13:00",
+      "depart_time": "13:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "合肥南",
+      "arrive_time": "13:40",
+      "depart_time": "13:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "长临河",
+      "arrive_time": "13:54",
+      "depart_time": "13:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "芜湖",
+      "arrive_time": "14:27",
+      "depart_time": "14:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "宣城",
+      "arrive_time": "14:56",
+      "depart_time": "14:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "湖州",
+      "arrive_time": "15:34",
+      "depart_time": "15:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "湖州南浔",
+      "arrive_time": "15:52",
+      "depart_time": "15:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "上海虹桥",
+      "arrive_time": "16:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2915.5,
+    "price_first": 1425.5,
+    "price_second": 887.5,
+    "price_no_seat": 887.5
+  },
+  "fetched_at": "2026-05-01T06:30:23.200514"
+}

@@ -1,0 +1,73 @@
+{
+  "train_no": "G1588",
+  "train_type": "G",
+  "depart_station": "焦作",
+  "arrive_station": "北京西",
+  "depart_time": "06:32",
+  "arrive_time": "10:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "焦作",
+      "arrive_time": "06:32",
+      "depart_time": "06:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州",
+      "arrive_time": "07:06",
+      "depart_time": "07:11",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "07:28",
+      "depart_time": "07:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "安阳东",
+      "arrive_time": "08:14",
+      "depart_time": "08:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "邯郸东",
+      "arrive_time": "08:34",
+      "depart_time": "08:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "石家庄",
+      "arrive_time": "09:15",
+      "depart_time": "09:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "定州东",
+      "arrive_time": "09:40",
+      "depart_time": "09:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "北京西",
+      "arrive_time": "10:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1440.0,
+    "price_first": 666.0,
+    "price_second": 416.0,
+    "price_no_seat": 416.0
+  },
+  "fetched_at": "2026-05-01T05:47:22.057152"
+}

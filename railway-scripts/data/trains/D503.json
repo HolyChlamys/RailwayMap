@@ -1,0 +1,93 @@
+{
+  "train_no": "D503",
+  "train_type": "D",
+  "depart_station": "北京",
+  "arrive_station": "沈阳南",
+  "depart_time": "12:02",
+  "arrive_time": "17:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京",
+      "arrive_time": "12:02",
+      "depart_time": "12:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "燕郊",
+      "arrive_time": "12:33",
+      "depart_time": "12:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "玉田南",
+      "arrive_time": "13:09",
+      "depart_time": "13:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "滦河",
+      "arrive_time": "13:46",
+      "depart_time": "13:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "秦皇岛",
+      "arrive_time": "14:20",
+      "depart_time": "14:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "山海关",
+      "arrive_time": "14:37",
+      "depart_time": "14:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "绥中北",
+      "arrive_time": "15:04",
+      "depart_time": "15:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "兴城西",
+      "arrive_time": "15:28",
+      "depart_time": "15:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "葫芦岛北",
+      "arrive_time": "15:42",
+      "depart_time": "15:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "鞍山西",
+      "arrive_time": "17:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "沈阳南",
+      "arrive_time": "17:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 467.0,
+    "price_second": 291.5,
+    "price_no_seat": 291.5
+  },
+  "fetched_at": "2026-05-01T03:59:51.333328"
+}

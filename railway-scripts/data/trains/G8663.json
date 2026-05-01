@@ -1,0 +1,52 @@
+{
+  "train_no": "G8663",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "重庆西",
+  "depart_time": "19:20",
+  "arrive_time": "20:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "19:20",
+      "depart_time": "19:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "资中北",
+      "arrive_time": "19:52",
+      "depart_time": "19:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "内江北",
+      "arrive_time": "20:05",
+      "depart_time": "20:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "隆昌北",
+      "arrive_time": "20:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "重庆西",
+      "arrive_time": "20:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 581.0,
+    "price_first": 266.0,
+    "price_second": 166.0,
+    "price_no_seat": 166.0
+  },
+  "fetched_at": "2026-05-01T08:57:15.251712"
+}

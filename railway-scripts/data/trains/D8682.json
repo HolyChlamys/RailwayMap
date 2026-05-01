@@ -1,0 +1,79 @@
+{
+  "train_no": "D8682",
+  "train_type": "D",
+  "depart_station": "大理",
+  "arrive_station": "红河",
+  "depart_time": "12:56",
+  "arrive_time": "17:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "12:56",
+      "depart_time": "12:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "祥云",
+      "arrive_time": "13:17",
+      "depart_time": "13:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "楚雄",
+      "arrive_time": "13:59",
+      "depart_time": "14:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明",
+      "arrive_time": "15:00",
+      "depart_time": "15:06",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明南",
+      "arrive_time": "15:24",
+      "depart_time": "15:29",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "石林西",
+      "arrive_time": "15:53",
+      "depart_time": "15:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "竹园",
+      "arrive_time": "16:22",
+      "depart_time": "16:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "开远南",
+      "arrive_time": "16:43",
+      "depart_time": "16:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "红河",
+      "arrive_time": "17:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 387.0,
+    "price_second": 242.5,
+    "price_no_seat": 242.5
+  },
+  "fetched_at": "2026-05-01T05:02:40.984028"
+}

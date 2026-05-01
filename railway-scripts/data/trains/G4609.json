@@ -1,0 +1,37 @@
+{
+  "train_no": "G4609",
+  "train_type": "G",
+  "depart_station": "南昌东",
+  "arrive_station": "深圳北",
+  "depart_time": "22:55",
+  "arrive_time": "00:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "22:55",
+      "depart_time": "22:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "赣州西",
+      "arrive_time": "00:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "00:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 781.0,
+    "price_second": 488.0,
+    "price_no_seat": 488.0
+  },
+  "fetched_at": "2026-05-01T07:10:20.268069"
+}

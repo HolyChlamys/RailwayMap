@@ -1,0 +1,87 @@
+{
+  "train_no": "G4430",
+  "train_type": "G",
+  "depart_station": "柳州",
+  "arrive_station": "武汉",
+  "depart_time": "01:35",
+  "arrive_time": "03:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "柳州",
+      "arrive_time": "01:35",
+      "depart_time": "01:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桂林北",
+      "arrive_time": "02:41",
+      "depart_time": "02:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州",
+      "arrive_time": "00:18",
+      "depart_time": "00:24",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "永州",
+      "arrive_time": "03:55",
+      "depart_time": "03:59",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "漯河西",
+      "arrive_time": "01:07",
+      "depart_time": "01:17",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "衡阳东",
+      "arrive_time": "04:50",
+      "depart_time": "04:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "驻马店西",
+      "arrive_time": "01:35",
+      "depart_time": "01:49",
+      "stay_min": "14"
+    },
+    {
+      "seq": 8,
+      "station_name": "长沙南",
+      "arrive_time": "05:30",
+      "depart_time": "05:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "信阳东",
+      "arrive_time": "02:14",
+      "depart_time": "02:20",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "武汉",
+      "arrive_time": "03:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 802.0,
+    "price_first": 402.0,
+    "price_second": 250.5,
+    "price_no_seat": 250.5
+  },
+  "fetched_at": "2026-05-01T07:05:19.947066"
+}

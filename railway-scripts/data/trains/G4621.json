@@ -1,0 +1,45 @@
+{
+  "train_no": "G4621",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "深圳",
+  "depart_time": "03:44",
+  "arrive_time": "07:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "03:44",
+      "depart_time": "03:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "赣州西",
+      "arrive_time": "05:26",
+      "depart_time": "05:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "07:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳",
+      "arrive_time": "07:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1647.0,
+    "price_first": 785.0,
+    "price_second": 500.0,
+    "price_no_seat": 500.0
+  },
+  "fetched_at": "2026-05-01T07:10:41.774491"
+}

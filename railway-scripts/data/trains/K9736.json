@@ -1,0 +1,63 @@
+{
+  "train_no": "K9736",
+  "train_type": "K",
+  "depart_station": "阿勒泰",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "20:15",
+  "arrive_time": "05:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阿勒泰",
+      "arrive_time": "20:15",
+      "depart_time": "20:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北屯市",
+      "arrive_time": "21:18",
+      "depart_time": "21:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "福海",
+      "arrive_time": "21:44",
+      "depart_time": "21:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "克拉玛依",
+      "arrive_time": "02:09",
+      "depart_time": "02:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "奎屯",
+      "arrive_time": "04:39",
+      "depart_time": "04:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "石河子",
+      "arrive_time": "05:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "05:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T10:48:25.652287"
+}

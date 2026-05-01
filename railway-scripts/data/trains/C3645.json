@@ -1,0 +1,38 @@
+{
+  "train_no": "C3645",
+  "train_type": "C",
+  "depart_station": "杭州东",
+  "arrive_station": "台州西",
+  "depart_time": "00:34",
+  "arrive_time": "01:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "00:34",
+      "depart_time": "00:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁波",
+      "arrive_time": "01:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "台州西",
+      "arrive_time": "01:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 534.0,
+    "price_first": 244.0,
+    "price_second": 152.0,
+    "price_no_seat": 152.0
+  },
+  "fetched_at": "2026-05-01T01:01:42.270013"
+}

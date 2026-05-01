@@ -1,0 +1,107 @@
+{
+  "train_no": "D4934",
+  "train_type": "D",
+  "depart_station": "兰州西",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "15:43",
+  "arrive_time": "23:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "15:43",
+      "depart_time": "15:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "白银南",
+      "arrive_time": "16:31",
+      "depart_time": "16:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "中卫南",
+      "arrive_time": "17:23",
+      "depart_time": "17:27",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "银川",
+      "arrive_time": "18:36",
+      "depart_time": "18:48",
+      "stay_min": "12"
+    },
+    {
+      "seq": 5,
+      "station_name": "沙湖",
+      "arrive_time": "19:03",
+      "depart_time": "19:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "石嘴山",
+      "arrive_time": "19:15",
+      "depart_time": "19:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "惠农南",
+      "arrive_time": "19:32",
+      "depart_time": "19:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "乌海南",
+      "arrive_time": "19:45",
+      "depart_time": "19:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "乌海",
+      "arrive_time": "20:00",
+      "depart_time": "20:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "20:44",
+      "depart_time": "20:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "包头",
+      "arrive_time": "21:50",
+      "depart_time": "21:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "呼和浩特",
+      "arrive_time": "22:54",
+      "depart_time": "22:57",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "呼和浩特东",
+      "arrive_time": "23:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 927.0,
+    "price_second": 579.5,
+    "price_no_seat": 579.5
+  },
+  "fetched_at": "2026-05-01T03:58:40.391747"
+}

@@ -1,0 +1,63 @@
+{
+  "train_no": "Y733",
+  "train_type": "Y",
+  "depart_station": "济南",
+  "arrive_station": "枣庄西",
+  "depart_time": "11:00",
+  "arrive_time": "14:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰山",
+      "arrive_time": "11:50",
+      "depart_time": "11:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "磁窑",
+      "arrive_time": "12:18",
+      "depart_time": "12:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "兖州",
+      "arrive_time": "13:07",
+      "depart_time": "13:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "邹城",
+      "arrive_time": "13:34",
+      "depart_time": "13:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "滕州",
+      "arrive_time": "14:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "枣庄西",
+      "arrive_time": "14:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T11:37:28.509561"
+}

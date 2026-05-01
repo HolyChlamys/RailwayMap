@@ -1,0 +1,45 @@
+{
+  "train_no": "C3047",
+  "train_type": "C",
+  "depart_station": "杭州西",
+  "arrive_station": "衢州西",
+  "depart_time": "19:18",
+  "arrive_time": "20:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "19:18",
+      "depart_time": "19:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "建德",
+      "arrive_time": "19:57",
+      "depart_time": "19:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "建德南",
+      "arrive_time": "20:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "衢州西",
+      "arrive_time": "20:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 454.0,
+    "price_first": 211.0,
+    "price_second": 132.0,
+    "price_no_seat": 132.0
+  },
+  "fetched_at": "2026-05-01T00:49:38.389176"
+}

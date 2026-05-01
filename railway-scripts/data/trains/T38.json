@@ -1,0 +1,77 @@
+{
+  "train_no": "T38",
+  "train_type": "T",
+  "depart_station": "温州",
+  "arrive_station": "郑州",
+  "depart_time": "11:30",
+  "arrive_time": "06:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "温州",
+      "arrive_time": "11:30",
+      "depart_time": "11:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "缙云",
+      "arrive_time": "14:30",
+      "depart_time": "14:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "永康南",
+      "arrive_time": "14:59",
+      "depart_time": "15:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "武义",
+      "arrive_time": "15:23",
+      "depart_time": "15:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "金华南",
+      "arrive_time": "15:52",
+      "depart_time": "16:19",
+      "stay_min": "27"
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州",
+      "arrive_time": "18:08",
+      "depart_time": "18:24",
+      "stay_min": "16"
+    },
+    {
+      "seq": 7,
+      "station_name": "合肥",
+      "arrive_time": "23:06",
+      "depart_time": "23:24",
+      "stay_min": "18"
+    },
+    {
+      "seq": 8,
+      "station_name": "开封",
+      "arrive_time": "05:20",
+      "depart_time": "05:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "郑州",
+      "arrive_time": "06:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 177.5
+  },
+  "fetched_at": "2026-05-01T11:25:03.131221"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "G9112",
+  "train_type": "G",
+  "depart_station": "沈阳南",
+  "arrive_station": "大连北",
+  "depart_time": "22:06",
+  "arrive_time": "22:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳南",
+      "arrive_time": "22:06",
+      "depart_time": "22:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鞍山西",
+      "arrive_time": "22:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大连北",
+      "arrive_time": "22:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 699.0,
+    "price_first": 319.0,
+    "price_second": 200.0,
+    "price_no_seat": 200.0
+  },
+  "fetched_at": "2026-05-01T09:06:13.246677"
+}

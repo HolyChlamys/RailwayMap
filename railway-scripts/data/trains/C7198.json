@@ -1,0 +1,38 @@
+{
+  "train_no": "C7198",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "肇庆东",
+  "depart_time": "07:56",
+  "arrive_time": "08:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "08:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "肇庆东",
+      "arrive_time": "08:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 118.0,
+    "price_first": 54.0,
+    "price_second": 34.0,
+    "price_no_seat": 34.0
+  },
+  "fetched_at": "2026-05-01T02:08:41.344747"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "D6993",
+  "train_type": "D",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "齐齐哈尔南",
+  "depart_time": "08:06",
+  "arrive_time": "09:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "08:06",
+      "depart_time": "08:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肇东",
+      "arrive_time": "08:36",
+      "depart_time": "08:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "安达",
+      "arrive_time": "08:58",
+      "depart_time": "08:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大庆西",
+      "arrive_time": "09:18",
+      "depart_time": "09:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杜尔伯特",
+      "arrive_time": "09:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "齐齐哈尔南",
+      "arrive_time": "09:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 301.0,
+    "price_first": 160.0,
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T04:32:13.616483"
+}

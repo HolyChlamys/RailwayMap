@@ -1,0 +1,73 @@
+{
+  "train_no": "D9315",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "利川",
+  "depart_time": "09:28",
+  "arrive_time": "13:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "09:28",
+      "depart_time": "09:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉川",
+      "arrive_time": "09:53",
+      "depart_time": "09:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "仙桃西",
+      "arrive_time": "10:21",
+      "depart_time": "10:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潜江",
+      "arrive_time": "10:34",
+      "depart_time": "10:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "荆州",
+      "arrive_time": "11:02",
+      "depart_time": "11:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宜昌东",
+      "arrive_time": "11:41",
+      "depart_time": "11:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "恩施",
+      "arrive_time": "13:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "利川",
+      "arrive_time": "13:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 810.0,
+    "price_first": 370.0,
+    "price_second": 232.0,
+    "price_no_seat": 232.0
+  },
+  "fetched_at": "2026-05-01T05:12:58.424356"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "G6990",
+  "train_type": "G",
+  "depart_station": "威海",
+  "arrive_station": "青岛北",
+  "depart_time": "21:45",
+  "arrive_time": "22:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "威海",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荣成",
+      "arrive_time": "22:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "青岛北",
+      "arrive_time": "22:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 532.0,
+    "price_first": 244.0,
+    "price_second": 152.0,
+    "price_no_seat": 152.0
+  },
+  "fetched_at": "2026-05-01T08:14:36.136291"
+}

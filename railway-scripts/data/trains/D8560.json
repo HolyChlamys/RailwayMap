@@ -1,0 +1,72 @@
+{
+  "train_no": "D8560",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "重庆西",
+  "depart_time": "20:06",
+  "arrive_time": "22:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "20:06",
+      "depart_time": "20:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "息烽",
+      "arrive_time": "20:41",
+      "depart_time": "20:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乌江寨",
+      "arrive_time": "21:01",
+      "depart_time": "21:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "遵义",
+      "arrive_time": "21:15",
+      "depart_time": "21:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "桐梓东",
+      "arrive_time": "21:38",
+      "depart_time": "21:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "赶水东",
+      "arrive_time": "22:19",
+      "depart_time": "22:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "綦江东",
+      "arrive_time": "22:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "重庆西",
+      "arrive_time": "22:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 222.0,
+    "price_second": 139.0,
+    "price_no_seat": 139.0
+  },
+  "fetched_at": "2026-05-01T04:59:37.541471"
+}

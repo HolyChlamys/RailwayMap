@@ -1,0 +1,59 @@
+{
+  "train_no": "G1563",
+  "train_type": "G",
+  "depart_station": "北京",
+  "arrive_station": "锦州南",
+  "depart_time": "12:43",
+  "arrive_time": "15:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京",
+      "arrive_time": "12:43",
+      "depart_time": "12:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "滦河",
+      "arrive_time": "14:02",
+      "depart_time": "14:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "北戴河",
+      "arrive_time": "14:22",
+      "depart_time": "14:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "秦皇岛",
+      "arrive_time": "14:37",
+      "depart_time": "14:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "葫芦岛北",
+      "arrive_time": "15:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "锦州南",
+      "arrive_time": "15:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 793.0,
+    "price_first": 374.0,
+    "price_second": 234.0,
+    "price_no_seat": 234.0
+  },
+  "fetched_at": "2026-05-01T05:46:43.980977"
+}

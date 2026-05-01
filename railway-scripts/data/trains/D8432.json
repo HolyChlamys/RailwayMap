@@ -1,0 +1,79 @@
+{
+  "train_no": "D8432",
+  "train_type": "D",
+  "depart_station": "梧州南",
+  "arrive_station": "北海",
+  "depart_time": "07:56",
+  "arrive_time": "11:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梧州南",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "藤县",
+      "arrive_time": "08:06",
+      "depart_time": "08:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "平南南",
+      "arrive_time": "08:28",
+      "depart_time": "08:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "桂平",
+      "arrive_time": "08:44",
+      "depart_time": "08:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵港",
+      "arrive_time": "09:04",
+      "depart_time": "09:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南宁东",
+      "arrive_time": "09:50",
+      "depart_time": "10:10",
+      "stay_min": "20"
+    },
+    {
+      "seq": 7,
+      "station_name": "钦州东",
+      "arrive_time": "10:45",
+      "depart_time": "10:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "合浦",
+      "arrive_time": "11:10",
+      "depart_time": "11:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "北海",
+      "arrive_time": "11:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 365.0,
+    "price_second": 228.0,
+    "price_no_seat": 228.0
+  },
+  "fetched_at": "2026-05-01T04:56:59.004593"
+}

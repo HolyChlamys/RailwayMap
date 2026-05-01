@@ -1,0 +1,50 @@
+{
+  "train_no": "S4959",
+  "train_type": "S",
+  "depart_station": "广州  白云",
+  "arrive_station": "竹料",
+  "depart_time": "16:19",
+  "arrive_time": "17:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州  白云",
+      "arrive_time": "16:19",
+      "depart_time": "16:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "花都",
+      "arrive_time": "16:38",
+      "depart_time": "16:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "白云机场北",
+      "arrive_time": "16:53",
+      "depart_time": "16:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "白云机场东",
+      "arrive_time": "17:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "竹料",
+      "arrive_time": "17:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 35.0,
+    "price_no_seat": 35.0
+  },
+  "fetched_at": "2026-05-01T10:58:28.176496"
+}

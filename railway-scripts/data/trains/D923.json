@@ -1,0 +1,64 @@
+{
+  "train_no": "D923",
+  "train_type": "D",
+  "depart_station": "北京西",
+  "arrive_station": "珠海",
+  "depart_time": "20:22",
+  "arrive_time": "07:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "21:47",
+      "depart_time": "21:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "邢台东",
+      "arrive_time": "22:24",
+      "depart_time": "22:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "23:45",
+      "depart_time": "23:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "06:55",
+      "depart_time": "06:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "中山",
+      "arrive_time": "07:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "珠海",
+      "arrive_time": "07:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 779.0,
+    "price_no_seat": 779.0
+  },
+  "fetched_at": "2026-05-01T05:10:34.353584"
+}

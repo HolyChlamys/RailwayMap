@@ -1,0 +1,59 @@
+{
+  "train_no": "C5689",
+  "train_type": "C",
+  "depart_station": "广元",
+  "arrive_station": "峨眉山",
+  "depart_time": "12:40",
+  "arrive_time": "15:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广元",
+      "arrive_time": "12:40",
+      "depart_time": "12:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广汉北",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "成都东",
+      "arrive_time": "14:15",
+      "depart_time": "14:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "眉山东",
+      "arrive_time": "14:48",
+      "depart_time": "14:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乐山",
+      "arrive_time": "15:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "峨眉山",
+      "arrive_time": "15:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 661.0,
+    "price_first": 318.0,
+    "price_second": 198.0,
+    "price_no_seat": 198.0
+  },
+  "fetched_at": "2026-05-01T01:36:59.694985"
+}

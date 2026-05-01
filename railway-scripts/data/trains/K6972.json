@@ -1,0 +1,63 @@
+{
+  "train_no": "K6972",
+  "train_type": "K",
+  "depart_station": "金昌",
+  "arrive_station": "兰州",
+  "depart_time": "15:45",
+  "arrive_time": "20:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "金昌",
+      "arrive_time": "15:45",
+      "depart_time": "15:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武威",
+      "arrive_time": "16:42",
+      "depart_time": "16:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "古浪",
+      "arrive_time": "17:34",
+      "depart_time": "17:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "天祝",
+      "arrive_time": "18:31",
+      "depart_time": "18:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "永登",
+      "arrive_time": "19:03",
+      "depart_time": "19:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兰州西",
+      "arrive_time": "20:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "兰州",
+      "arrive_time": "20:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 41.5
+  },
+  "fetched_at": "2026-05-01T10:27:22.942114"
+}

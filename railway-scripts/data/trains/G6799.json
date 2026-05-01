@@ -1,0 +1,87 @@
+{
+  "train_no": "G6799",
+  "train_type": "G",
+  "depart_station": "汉口",
+  "arrive_station": "十堰东",
+  "depart_time": "20:10",
+  "arrive_time": "22:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "20:10",
+      "depart_time": "20:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天河机场",
+      "arrive_time": "20:24",
+      "depart_time": "20:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "孝感东",
+      "arrive_time": "20:43",
+      "depart_time": "20:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安陆西",
+      "arrive_time": "21:03",
+      "depart_time": "21:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "随州南",
+      "arrive_time": "21:20",
+      "depart_time": "21:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "枣阳",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "襄阳东",
+      "arrive_time": "22:04",
+      "depart_time": "22:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "谷城北",
+      "arrive_time": "22:29",
+      "depart_time": "22:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "武当山西",
+      "arrive_time": "22:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "十堰东",
+      "arrive_time": "22:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 746.0,
+    "price_first": 398.0,
+    "price_second": 248.0,
+    "price_no_seat": 248.0
+  },
+  "fetched_at": "2026-05-01T08:09:09.618801"
+}

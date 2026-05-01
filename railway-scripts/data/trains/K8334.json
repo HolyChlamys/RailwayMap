@@ -1,0 +1,49 @@
+{
+  "train_no": "K8334",
+  "train_type": "K",
+  "depart_station": "东营",
+  "arrive_station": "菏泽",
+  "depart_time": "21:50",
+  "arrive_time": "05:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东营",
+      "arrive_time": "21:50",
+      "depart_time": "21:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淄博",
+      "arrive_time": "23:25",
+      "depart_time": "23:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "大明湖",
+      "arrive_time": "00:37",
+      "depart_time": "00:48",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "聊城",
+      "arrive_time": "03:07",
+      "depart_time": "03:13",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "菏泽",
+      "arrive_time": "05:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T10:38:26.027160"
+}

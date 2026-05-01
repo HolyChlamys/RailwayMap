@@ -1,0 +1,52 @@
+{
+  "train_no": "D5892",
+  "train_type": "D",
+  "depart_station": "武汉",
+  "arrive_station": "宜昌东",
+  "depart_time": "06:34",
+  "arrive_time": "08:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "06:34",
+      "depart_time": "06:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "06:53",
+      "depart_time": "07:01",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "潜江",
+      "arrive_time": "07:52",
+      "depart_time": "07:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "荆州",
+      "arrive_time": "08:20",
+      "depart_time": "08:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "宜昌东",
+      "arrive_time": "08:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 364.0,
+    "price_first": 194.0,
+    "price_second": 121.0,
+    "price_no_seat": 121.0
+  },
+  "fetched_at": "2026-05-01T04:13:10.449653"
+}

@@ -1,0 +1,47 @@
+{
+  "train_no": "Y165",
+  "train_type": "Y",
+  "depart_station": "郴州",
+  "arrive_station": "桂林北",
+  "depart_time": "01:38",
+  "arrive_time": "12:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郴州",
+      "arrive_time": "01:38",
+      "depart_time": "01:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衡阳",
+      "arrive_time": "04:31",
+      "depart_time": "05:45",
+      "stay_min": "74"
+    },
+    {
+      "seq": 3,
+      "station_name": "永州",
+      "arrive_time": "07:30",
+      "depart_time": "07:55",
+      "stay_min": "25"
+    },
+    {
+      "seq": 4,
+      "station_name": "滩头湾",
+      "arrive_time": "08:05",
+      "depart_time": "09:10",
+      "stay_min": "65"
+    },
+    {
+      "seq": 5,
+      "station_name": "桂林北",
+      "arrive_time": "12:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:29:46.195631"
+}

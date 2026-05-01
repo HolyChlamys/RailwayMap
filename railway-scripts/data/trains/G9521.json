@@ -1,0 +1,52 @@
+{
+  "train_no": "G9521",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "黄梅东",
+  "depart_time": "15:17",
+  "arrive_time": "16:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "15:17",
+      "depart_time": "15:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "舒城东",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桐城东",
+      "arrive_time": "15:58",
+      "depart_time": "15:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宿松东",
+      "arrive_time": "16:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "黄梅东",
+      "arrive_time": "16:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 543.0,
+    "price_first": 248.0,
+    "price_second": 155.0,
+    "price_no_seat": 155.0
+  },
+  "fetched_at": "2026-05-01T09:16:37.747749"
+}

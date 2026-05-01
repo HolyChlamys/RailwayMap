@@ -1,0 +1,58 @@
+{
+  "train_no": "D261",
+  "train_type": "D",
+  "depart_station": "成都南",
+  "arrive_station": "昆明",
+  "depart_time": "16:38",
+  "arrive_time": "22:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "16:38",
+      "depart_time": "16:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西昌西",
+      "arrive_time": "19:45",
+      "depart_time": "19:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "攀枝花南",
+      "arrive_time": "21:12",
+      "depart_time": "21:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "元谋西",
+      "arrive_time": "22:05",
+      "depart_time": "22:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广通北",
+      "arrive_time": "22:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明",
+      "arrive_time": "22:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 459.0,
+    "price_second": 286.0,
+    "price_no_seat": 286.0
+  },
+  "fetched_at": "2026-05-01T03:19:12.269789"
+}

@@ -1,0 +1,86 @@
+{
+  "train_no": "D1185",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "银川",
+  "depart_time": "11:34",
+  "arrive_time": "15:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "11:34",
+      "depart_time": "11:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "察素齐",
+      "arrive_time": "12:02",
+      "depart_time": "12:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "包头东",
+      "arrive_time": "12:39",
+      "depart_time": "12:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "包头",
+      "arrive_time": "12:55",
+      "depart_time": "12:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乌拉特前旗",
+      "arrive_time": "13:31",
+      "depart_time": "13:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "14:06",
+      "depart_time": "14:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "磴口",
+      "arrive_time": "14:28",
+      "depart_time": "14:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "乌海",
+      "arrive_time": "14:56",
+      "depart_time": "14:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "惠农南",
+      "arrive_time": "15:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "银川",
+      "arrive_time": "15:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 595.0,
+    "price_second": 371.5,
+    "price_no_seat": 371.5
+  },
+  "fetched_at": "2026-05-01T02:59:00.227233"
+}

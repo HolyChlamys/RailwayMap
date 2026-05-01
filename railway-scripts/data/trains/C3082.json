@@ -1,0 +1,59 @@
+{
+  "train_no": "C3082",
+  "train_type": "C",
+  "depart_station": "安庆",
+  "arrive_station": "阜阳西",
+  "depart_time": "19:41",
+  "arrive_time": "21:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安庆",
+      "arrive_time": "19:41",
+      "depart_time": "19:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桐城东",
+      "arrive_time": "20:08",
+      "depart_time": "20:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "庐江西",
+      "arrive_time": "20:21",
+      "depart_time": "20:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥西",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "淮南南",
+      "arrive_time": "21:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "阜阳西",
+      "arrive_time": "21:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 708.0,
+    "price_first": 351.5,
+    "price_second": 218.5,
+    "price_no_seat": 218.5
+  },
+  "fetched_at": "2026-05-01T00:50:31.274890"
+}

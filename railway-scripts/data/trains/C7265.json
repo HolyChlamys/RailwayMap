@@ -1,0 +1,64 @@
+{
+  "train_no": "C7265",
+  "train_type": "C",
+  "depart_station": "长沙南",
+  "arrive_station": "张家界西",
+  "depart_time": "23:09",
+  "arrive_time": "02:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "23:09",
+      "depart_time": "23:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "湘潭北",
+      "arrive_time": "23:23",
+      "depart_time": "23:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "新化南",
+      "arrive_time": "00:10",
+      "depart_time": "00:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "溆浦南",
+      "arrive_time": "00:29",
+      "depart_time": "00:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "怀化南",
+      "arrive_time": "00:52",
+      "depart_time": "00:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "吉首东",
+      "arrive_time": "01:26",
+      "depart_time": "01:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "张家界西",
+      "arrive_time": "02:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T02:10:34.961657"
+}

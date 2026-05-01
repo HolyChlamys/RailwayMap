@@ -1,0 +1,56 @@
+{
+  "train_no": "K4548",
+  "train_type": "K",
+  "depart_station": "襄阳",
+  "arrive_station": "深圳东",
+  "depart_time": "20:12",
+  "arrive_time": "19:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳",
+      "arrive_time": "20:12",
+      "depart_time": "20:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枣阳",
+      "arrive_time": "21:16",
+      "depart_time": "21:23",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "随州",
+      "arrive_time": "22:22",
+      "depart_time": "22:49",
+      "stay_min": "27"
+    },
+    {
+      "seq": 4,
+      "station_name": "安陆",
+      "arrive_time": "23:25",
+      "depart_time": "23:30",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "云梦",
+      "arrive_time": "23:49",
+      "depart_time": "23:55",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳东",
+      "arrive_time": "19:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 180.5
+  },
+  "fetched_at": "2026-05-01T09:55:30.932415"
+}

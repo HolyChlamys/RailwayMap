@@ -1,0 +1,63 @@
+{
+  "train_no": "K4199",
+  "train_type": "K",
+  "depart_station": "九江",
+  "arrive_station": "深圳东",
+  "depart_time": "12:20",
+  "arrive_time": "20:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "九江",
+      "arrive_time": "12:20",
+      "depart_time": "12:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新干",
+      "arrive_time": "16:03",
+      "depart_time": "16:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吉安",
+      "arrive_time": "17:02",
+      "depart_time": "17:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "兴国",
+      "arrive_time": "18:25",
+      "depart_time": "18:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "赣州",
+      "arrive_time": "19:26",
+      "depart_time": "19:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "信丰",
+      "arrive_time": "20:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳东",
+      "arrive_time": "20:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 168.5
+  },
+  "fetched_at": "2026-05-01T09:49:52.525366"
+}

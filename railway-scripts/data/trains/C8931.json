@@ -1,0 +1,45 @@
+{
+  "train_no": "C8931",
+  "train_type": "C",
+  "depart_station": "铜川",
+  "arrive_station": "西安北",
+  "depart_time": "07:00",
+  "arrive_time": "07:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "铜川",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "富平南",
+      "arrive_time": "07:14",
+      "depart_time": "07:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "高陵",
+      "arrive_time": "07:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安北",
+      "arrive_time": "07:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 171.0,
+    "price_first": 78.0,
+    "price_second": 49.0,
+    "price_no_seat": 49.0
+  },
+  "fetched_at": "2026-05-01T02:38:51.394044"
+}

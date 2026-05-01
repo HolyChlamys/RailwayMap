@@ -1,0 +1,51 @@
+{
+  "train_no": "D9121",
+  "train_type": "D",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "牡丹江",
+  "depart_time": "16:18",
+  "arrive_time": "17:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "16:18",
+      "depart_time": "16:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阿城北",
+      "arrive_time": "16:50",
+      "depart_time": "16:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "尚志南",
+      "arrive_time": "17:19",
+      "depart_time": "17:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "苇河西",
+      "arrive_time": "17:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "牡丹江",
+      "arrive_time": "17:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 189.0,
+    "price_second": 118.0,
+    "price_no_seat": 118.0
+  },
+  "fetched_at": "2026-05-01T05:07:43.728046"
+}

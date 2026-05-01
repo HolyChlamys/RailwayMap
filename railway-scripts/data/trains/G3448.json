@@ -1,0 +1,59 @@
+{
+  "train_no": "G3448",
+  "train_type": "G",
+  "depart_station": "济南东",
+  "arrive_station": "周口东",
+  "depart_time": "11:30",
+  "arrive_time": "15:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "11:30",
+      "depart_time": "11:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南西",
+      "arrive_time": "11:56",
+      "depart_time": "12:01",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "濮阳东",
+      "arrive_time": "12:55",
+      "depart_time": "13:01",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "13:53",
+      "depart_time": "14:12",
+      "stay_min": "19"
+    },
+    {
+      "seq": 5,
+      "station_name": "扶沟南",
+      "arrive_time": "14:48",
+      "depart_time": "14:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "周口东",
+      "arrive_time": "15:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1159.0,
+    "price_first": 555.0,
+    "price_second": 347.0,
+    "price_no_seat": 347.0
+  },
+  "fetched_at": "2026-05-01T06:38:08.531820"
+}

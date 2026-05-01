@@ -1,0 +1,50 @@
+{
+  "train_no": "C3442",
+  "train_type": "C",
+  "depart_station": "雅安",
+  "arrive_station": "成都南",
+  "depart_time": "09:21",
+  "arrive_time": "10:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "雅安",
+      "arrive_time": "09:21",
+      "depart_time": "09:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "名山",
+      "arrive_time": "09:30",
+      "depart_time": "09:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "邛崃",
+      "arrive_time": "09:57",
+      "depart_time": "10:00",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "大邑",
+      "arrive_time": "10:10",
+      "depart_time": "10:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "成都南",
+      "arrive_time": "10:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 58.0,
+    "price_no_seat": 58.0
+  },
+  "fetched_at": "2026-05-01T00:59:35.374807"
+}

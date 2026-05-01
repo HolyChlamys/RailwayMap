@@ -1,0 +1,44 @@
+{
+  "train_no": "D9953",
+  "train_type": "D",
+  "depart_station": "厦门北",
+  "arrive_station": "诏安",
+  "depart_time": "06:17",
+  "arrive_time": "07:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "06:17",
+      "depart_time": "06:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "06:38",
+      "depart_time": "06:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "云霄",
+      "arrive_time": "07:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "诏安",
+      "arrive_time": "07:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 107.0,
+    "price_second": 67.0,
+    "price_no_seat": 67.0
+  },
+  "fetched_at": "2026-05-01T05:28:49.672742"
+}

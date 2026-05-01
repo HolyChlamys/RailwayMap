@@ -1,0 +1,44 @@
+{
+  "train_no": "D6360",
+  "train_type": "D",
+  "depart_station": "南昌东",
+  "arrive_station": "婺源",
+  "depart_time": "15:18",
+  "arrive_time": "16:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "15:18",
+      "depart_time": "15:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄱阳",
+      "arrive_time": "15:48",
+      "depart_time": "15:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "景德镇北",
+      "arrive_time": "16:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "婺源",
+      "arrive_time": "16:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 178.0,
+    "price_second": 112.0,
+    "price_no_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T04:22:00.206369"
+}

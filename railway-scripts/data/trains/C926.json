@@ -1,0 +1,59 @@
+{
+  "train_no": "C926",
+  "train_type": "C",
+  "depart_station": "厦门",
+  "arrive_station": "德化",
+  "depart_time": "07:20",
+  "arrive_time": "09:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "07:20",
+      "depart_time": "07:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泉州",
+      "arrive_time": "08:33",
+      "depart_time": "08:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南安北",
+      "arrive_time": "08:56",
+      "depart_time": "08:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安溪东",
+      "arrive_time": "09:09",
+      "depart_time": "09:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "永春",
+      "arrive_time": "09:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "德化",
+      "arrive_time": "09:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 249.0,
+    "price_first": 113.0,
+    "price_second": 71.0,
+    "price_no_seat": 71.0
+  },
+  "fetched_at": "2026-05-01T02:43:33.082115"
+}

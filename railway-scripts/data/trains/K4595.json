@@ -1,0 +1,49 @@
+{
+  "train_no": "K4595",
+  "train_type": "K",
+  "depart_station": "利川",
+  "arrive_station": "东莞东",
+  "depart_time": "22:38",
+  "arrive_time": "19:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "利川",
+      "arrive_time": "22:38",
+      "depart_time": "22:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "恩施",
+      "arrive_time": "23:26",
+      "depart_time": "23:36",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "宜昌东",
+      "arrive_time": "02:25",
+      "depart_time": "03:05",
+      "stay_min": "40"
+    },
+    {
+      "seq": 4,
+      "station_name": "衡阳",
+      "arrive_time": "11:33",
+      "depart_time": "11:39",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "东莞东",
+      "arrive_time": "19:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 189.5
+  },
+  "fetched_at": "2026-05-01T09:56:10.504689"
+}

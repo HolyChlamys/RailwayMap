@@ -1,0 +1,80 @@
+{
+  "train_no": "G6580",
+  "train_type": "G",
+  "depart_station": "香港西九龙",
+  "arrive_station": "肇庆东",
+  "depart_time": "16:04",
+  "arrive_time": "18:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香港西九龙",
+      "arrive_time": "16:04",
+      "depart_time": "16:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福田",
+      "arrive_time": "16:20",
+      "depart_time": "16:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "16:31",
+      "depart_time": "16:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "光明城",
+      "arrive_time": "16:45",
+      "depart_time": "16:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "虎门",
+      "arrive_time": "17:01",
+      "depart_time": "17:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "17:24",
+      "depart_time": "17:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "佛山西",
+      "arrive_time": "17:47",
+      "depart_time": "17:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "三水南",
+      "arrive_time": "18:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "肇庆东",
+      "arrive_time": "18:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 763.0,
+    "price_first": 398.0,
+    "price_second": 249.0,
+    "price_no_seat": 249.0
+  },
+  "fetched_at": "2026-05-01T08:03:01.386573"
+}

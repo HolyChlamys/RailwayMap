@@ -1,0 +1,37 @@
+{
+  "train_no": "D7912",
+  "train_type": "D",
+  "depart_station": "七台河西",
+  "arrive_station": "牡丹江",
+  "depart_time": "21:25",
+  "arrive_time": "21:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "七台河西",
+      "arrive_time": "21:25",
+      "depart_time": "21:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鸡西西",
+      "arrive_time": "21:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "牡丹江",
+      "arrive_time": "21:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 135.0,
+    "price_second": 84.0,
+    "price_no_seat": 84.0
+  },
+  "fetched_at": "2026-05-01T04:47:25.899955"
+}

@@ -1,0 +1,79 @@
+{
+  "train_no": "D1214",
+  "train_type": "D",
+  "depart_station": "大同南",
+  "arrive_station": "银川",
+  "depart_time": "16:43",
+  "arrive_time": "22:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大同南",
+      "arrive_time": "16:43",
+      "depart_time": "16:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌兰察布",
+      "arrive_time": "17:22",
+      "depart_time": "17:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "呼和浩特",
+      "arrive_time": "18:07",
+      "depart_time": "18:12",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "包头东",
+      "arrive_time": "19:04",
+      "depart_time": "19:13",
+      "stay_min": "9"
+    },
+    {
+      "seq": 5,
+      "station_name": "包头",
+      "arrive_time": "19:25",
+      "depart_time": "19:33",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "乌海",
+      "arrive_time": "21:13",
+      "depart_time": "21:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "惠农南",
+      "arrive_time": "21:36",
+      "depart_time": "21:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "石嘴山",
+      "arrive_time": "21:53",
+      "depart_time": "21:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "银川",
+      "arrive_time": "22:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 768.0,
+    "price_second": 480.5,
+    "price_no_seat": 480.5
+  },
+  "fetched_at": "2026-05-01T02:59:46.568773"
+}

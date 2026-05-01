@@ -1,0 +1,58 @@
+{
+  "train_no": "D4463",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "武汉",
+  "depart_time": "03:45",
+  "arrive_time": "08:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "03:45",
+      "depart_time": "03:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "05:21",
+      "depart_time": "05:25",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "06:13",
+      "depart_time": "06:17",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "六安",
+      "arrive_time": "06:41",
+      "depart_time": "06:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "麻城北",
+      "arrive_time": "07:42",
+      "depart_time": "07:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "武汉",
+      "arrive_time": "08:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 582.5,
+    "price_second": 364.0,
+    "price_no_seat": 364.0
+  },
+  "fetched_at": "2026-05-01T03:51:15.294559"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "D7430",
+  "train_type": "D",
+  "depart_station": "汕头",
+  "arrive_station": "深圳北",
+  "depart_time": "16:33",
+  "arrive_time": "18:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "16:33",
+      "depart_time": "16:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "16:56",
+      "depart_time": "16:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "普宁",
+      "arrive_time": "17:16",
+      "depart_time": "17:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "18:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 237.0,
+    "price_second": 148.0,
+    "price_no_seat": 148.0
+  },
+  "fetched_at": "2026-05-01T04:38:33.931789"
+}

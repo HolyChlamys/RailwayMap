@@ -1,0 +1,38 @@
+{
+  "train_no": "D4722",
+  "train_type": "D",
+  "depart_station": "武汉",
+  "arrive_station": "南京南",
+  "depart_time": "23:38",
+  "arrive_time": "01:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "23:38",
+      "depart_time": "23:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "01:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "01:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 764.5,
+    "price_first": 360.5,
+    "price_second": 225.5,
+    "price_no_seat": 225.5
+  },
+  "fetched_at": "2026-05-01T03:56:05.290848"
+}

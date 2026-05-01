@@ -1,0 +1,38 @@
+{
+  "train_no": "C948",
+  "train_type": "C",
+  "depart_station": "鹤岗",
+  "arrive_station": "佳木斯",
+  "depart_time": "18:20",
+  "arrive_time": "18:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "鹤岗",
+      "arrive_time": "18:20",
+      "depart_time": "18:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹤立",
+      "arrive_time": "18:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "佳木斯",
+      "arrive_time": "18:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 92.0,
+    "price_first": 42.0,
+    "price_second": 26.0,
+    "price_no_seat": 26.0
+  },
+  "fetched_at": "2026-05-01T02:47:02.018668"
+}

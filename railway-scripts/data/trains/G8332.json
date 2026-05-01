@@ -1,0 +1,52 @@
+{
+  "train_no": "G8332",
+  "train_type": "G",
+  "depart_station": "安庆",
+  "arrive_station": "合肥南",
+  "depart_time": "08:04",
+  "arrive_time": "08:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安庆",
+      "arrive_time": "08:04",
+      "depart_time": "08:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桐城东",
+      "arrive_time": "08:31",
+      "depart_time": "08:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "庐江西",
+      "arrive_time": "08:44",
+      "depart_time": "08:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "舒城东",
+      "arrive_time": "08:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥南",
+      "arrive_time": "08:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 358.0,
+    "price_first": 164.0,
+    "price_second": 103.0,
+    "price_no_seat": 103.0
+  },
+  "fetched_at": "2026-05-01T08:48:11.583061"
+}

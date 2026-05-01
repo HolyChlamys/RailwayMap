@@ -1,0 +1,86 @@
+{
+  "train_no": "G8017",
+  "train_type": "G",
+  "depart_station": "大连",
+  "arrive_station": "吉林",
+  "depart_time": "14:12",
+  "arrive_time": "18:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连",
+      "arrive_time": "14:12",
+      "depart_time": "14:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "瓦房店西",
+      "arrive_time": "14:52",
+      "depart_time": "14:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "盖州西",
+      "arrive_time": "15:18",
+      "depart_time": "15:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鞍山西",
+      "arrive_time": "15:46",
+      "depart_time": "15:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳",
+      "arrive_time": "16:17",
+      "depart_time": "16:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "四平东",
+      "arrive_time": "17:05",
+      "depart_time": "17:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "公主岭南",
+      "arrive_time": "17:31",
+      "depart_time": "17:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "长春西",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "长春",
+      "arrive_time": "18:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "吉林",
+      "arrive_time": "18:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 661.0,
+    "price_second": 413.0,
+    "price_no_seat": 413.0
+  },
+  "fetched_at": "2026-05-01T08:42:43.493993"
+}

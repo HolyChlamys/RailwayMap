@@ -1,0 +1,38 @@
+{
+  "train_no": "G6738",
+  "train_type": "G",
+  "depart_station": "邯郸东",
+  "arrive_station": "北京丰台",
+  "depart_time": "17:08",
+  "arrive_time": "17:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邯郸东",
+      "arrive_time": "17:08",
+      "depart_time": "17:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "17:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "北京丰台",
+      "arrive_time": "17:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 864.0,
+    "price_first": 395.0,
+    "price_second": 247.0,
+    "price_no_seat": 247.0
+  },
+  "fetched_at": "2026-05-01T08:07:25.952342"
+}

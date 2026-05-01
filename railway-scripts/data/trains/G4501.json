@@ -1,0 +1,73 @@
+{
+  "train_no": "G4501",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "广州南",
+  "depart_time": "04:48",
+  "arrive_time": "11:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "04:48",
+      "depart_time": "04:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳东",
+      "arrive_time": "07:01",
+      "depart_time": "07:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桂林西",
+      "arrive_time": "08:51",
+      "depart_time": "08:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阳朔",
+      "arrive_time": "09:17",
+      "depart_time": "09:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贺州",
+      "arrive_time": "09:56",
+      "depart_time": "09:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "怀集",
+      "arrive_time": "10:26",
+      "depart_time": "10:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "佛山西",
+      "arrive_time": "11:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "11:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1937.0,
+    "price_first": 916.0,
+    "price_second": 573.0,
+    "price_no_seat": 573.0
+  },
+  "fetched_at": "2026-05-01T07:07:14.248087"
+}

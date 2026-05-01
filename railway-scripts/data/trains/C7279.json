@@ -1,0 +1,44 @@
+{
+  "train_no": "C7279",
+  "train_type": "C",
+  "depart_station": "普宁",
+  "arrive_station": "广州东",
+  "depart_time": "23:23",
+  "arrive_time": "00:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "普宁",
+      "arrive_time": "23:23",
+      "depart_time": "23:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汕尾",
+      "arrive_time": "23:59",
+      "depart_time": "23:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠东",
+      "arrive_time": "00:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州东",
+      "arrive_time": "00:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 427.0,
+    "price_second": 275.0,
+    "price_no_seat": 275.0
+  },
+  "fetched_at": "2026-05-01T02:10:59.715721"
+}

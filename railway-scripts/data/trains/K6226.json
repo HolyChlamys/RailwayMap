@@ -1,0 +1,49 @@
+{
+  "train_no": "K6226",
+  "train_type": "K",
+  "depart_station": "九江",
+  "arrive_station": "鹰潭",
+  "depart_time": "17:19",
+  "arrive_time": "21:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "九江",
+      "arrive_time": "17:19",
+      "depart_time": "17:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌",
+      "arrive_time": "18:48",
+      "depart_time": "19:00",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "进贤",
+      "arrive_time": "20:28",
+      "depart_time": "20:36",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "东乡",
+      "arrive_time": "21:02",
+      "depart_time": "21:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "鹰潭",
+      "arrive_time": "21:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 41.5
+  },
+  "fetched_at": "2026-05-01T10:20:23.473869"
+}

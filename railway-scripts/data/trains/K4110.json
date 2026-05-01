@@ -1,0 +1,77 @@
+{
+  "train_no": "K4110",
+  "train_type": "K",
+  "depart_station": "信阳",
+  "arrive_station": "郑州",
+  "depart_time": "09:39",
+  "arrive_time": "13:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "信阳",
+      "arrive_time": "09:39",
+      "depart_time": "09:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "确山",
+      "arrive_time": "10:46",
+      "depart_time": "10:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "驻马店",
+      "arrive_time": "11:03",
+      "depart_time": "11:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西平",
+      "arrive_time": "11:34",
+      "depart_time": "11:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "漯河",
+      "arrive_time": "11:59",
+      "depart_time": "11:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "许昌",
+      "arrive_time": "12:51",
+      "depart_time": "12:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长葛",
+      "arrive_time": "13:09",
+      "depart_time": "13:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "新郑",
+      "arrive_time": "13:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "郑州",
+      "arrive_time": "13:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T09:47:54.722247"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "S5521",
+  "train_type": "S",
+  "depart_station": "奉节",
+  "arrive_station": "重庆北",
+  "depart_time": "13:48",
+  "arrive_time": "14:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "奉节",
+      "arrive_time": "13:48",
+      "depart_time": "13:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "云阳",
+      "arrive_time": "14:09",
+      "depart_time": "14:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "万州北",
+      "arrive_time": "14:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆北",
+      "arrive_time": "14:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 269.0,
+    "price_second": 168.0,
+    "price_no_seat": 168.0
+  },
+  "fetched_at": "2026-05-01T11:07:54.795208"
+}

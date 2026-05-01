@@ -1,0 +1,47 @@
+{
+  "train_no": "Z117",
+  "train_type": "Z",
+  "depart_station": "北京",
+  "arrive_station": "吉林",
+  "depart_time": "21:03",
+  "arrive_time": "06:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京",
+      "arrive_time": "21:03",
+      "depart_time": "21:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳北",
+      "arrive_time": "02:55",
+      "depart_time": "02:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长春",
+      "arrive_time": "05:51",
+      "depart_time": "05:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "九台",
+      "arrive_time": "06:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "吉林",
+      "arrive_time": "06:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:43:07.015489"
+}

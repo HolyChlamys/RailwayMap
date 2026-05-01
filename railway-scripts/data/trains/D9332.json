@@ -1,0 +1,65 @@
+{
+  "train_no": "D9332",
+  "train_type": "D",
+  "depart_station": "襄阳东",
+  "arrive_station": "汉口",
+  "depart_time": "16:31",
+  "arrive_time": "18:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳东",
+      "arrive_time": "16:31",
+      "depart_time": "16:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枣阳",
+      "arrive_time": "16:57",
+      "depart_time": "16:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "随县",
+      "arrive_time": "17:18",
+      "depart_time": "17:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "随州南",
+      "arrive_time": "17:29",
+      "depart_time": "17:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "云梦东",
+      "arrive_time": "18:05",
+      "depart_time": "18:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "孝感东",
+      "arrive_time": "18:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "汉口",
+      "arrive_time": "18:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 205.0,
+    "price_second": 128.0,
+    "price_no_seat": 128.0
+  },
+  "fetched_at": "2026-05-01T05:13:29.776319"
+}

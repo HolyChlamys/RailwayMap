@@ -1,0 +1,56 @@
+{
+  "train_no": "K4713",
+  "train_type": "K",
+  "depart_station": "九江",
+  "arrive_station": "东莞东",
+  "depart_time": "11:23",
+  "arrive_time": "20:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "九江",
+      "arrive_time": "11:23",
+      "depart_time": "11:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉安",
+      "arrive_time": "17:16",
+      "depart_time": "17:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泰和",
+      "arrive_time": "17:42",
+      "depart_time": "17:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州",
+      "arrive_time": "19:54",
+      "depart_time": "19:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "信丰",
+      "arrive_time": "20:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "东莞东",
+      "arrive_time": "20:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 85.5
+  },
+  "fetched_at": "2026-05-01T09:58:01.533385"
+}

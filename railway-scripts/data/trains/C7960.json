@@ -1,0 +1,72 @@
+{
+  "train_no": "C7960",
+  "train_type": "C",
+  "depart_station": "吉首东",
+  "arrive_station": "长沙",
+  "depart_time": "15:18",
+  "arrive_time": "18:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "吉首东",
+      "arrive_time": "15:18",
+      "depart_time": "15:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张家界西",
+      "arrive_time": "15:59",
+      "depart_time": "16:08",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "牛车河",
+      "arrive_time": "16:31",
+      "depart_time": "16:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "桃源",
+      "arrive_time": "16:50",
+      "depart_time": "16:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "常德",
+      "arrive_time": "17:09",
+      "depart_time": "17:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "汉寿",
+      "arrive_time": "17:26",
+      "depart_time": "17:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "益阳南",
+      "arrive_time": "17:44",
+      "depart_time": "17:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "长沙",
+      "arrive_time": "18:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 394.0,
+    "price_second": 245.0,
+    "price_no_seat": 245.0
+  },
+  "fetched_at": "2026-05-01T02:29:01.293467"
+}

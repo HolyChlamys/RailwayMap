@@ -1,0 +1,52 @@
+{
+  "train_no": "C894",
+  "train_type": "C",
+  "depart_station": "格尔木",
+  "arrive_station": "西宁",
+  "depart_time": "07:10",
+  "arrive_time": "12:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "格尔木",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德令哈",
+      "arrive_time": "09:15",
+      "depart_time": "09:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乌兰",
+      "arrive_time": "10:05",
+      "depart_time": "10:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "湟源",
+      "arrive_time": "12:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西宁",
+      "arrive_time": "12:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1003.0,
+    "price_first": 459.0,
+    "price_second": 287.0,
+    "price_no_seat": 287.0
+  },
+  "fetched_at": "2026-05-01T02:38:54.653619"
+}

@@ -1,0 +1,119 @@
+{
+  "train_no": "K4042",
+  "train_type": "K",
+  "depart_station": "吉林",
+  "arrive_station": "北京",
+  "depart_time": "08:17",
+  "arrive_time": "23:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "吉林",
+      "arrive_time": "08:17",
+      "depart_time": "08:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "九台",
+      "arrive_time": "09:23",
+      "depart_time": "09:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长春",
+      "arrive_time": "10:41",
+      "depart_time": "10:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "四平",
+      "arrive_time": "11:58",
+      "depart_time": "11:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "铁岭",
+      "arrive_time": "13:09",
+      "depart_time": "13:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "沈阳北",
+      "arrive_time": "14:11",
+      "depart_time": "14:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "大虎山",
+      "arrive_time": "15:53",
+      "depart_time": "15:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "沟帮子",
+      "arrive_time": "16:30",
+      "depart_time": "16:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "锦州",
+      "arrive_time": "17:43",
+      "depart_time": "17:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "葫芦岛",
+      "arrive_time": "18:29",
+      "depart_time": "18:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "兴城",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "绥中",
+      "arrive_time": "19:35",
+      "depart_time": "19:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 13,
+      "station_name": "山海关",
+      "arrive_time": "20:55",
+      "depart_time": "20:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 14,
+      "station_name": "唐山北",
+      "arrive_time": "23:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 15,
+      "station_name": "北京",
+      "arrive_time": "23:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 148.5
+  },
+  "fetched_at": "2026-05-01T09:46:08.892408"
+}

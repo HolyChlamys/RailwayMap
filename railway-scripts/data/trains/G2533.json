@@ -1,0 +1,45 @@
+{
+  "train_no": "G2533",
+  "train_type": "G",
+  "depart_station": "北京北",
+  "arrive_station": "大同南",
+  "depart_time": "10:28",
+  "arrive_time": "11:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京北",
+      "arrive_time": "10:28",
+      "depart_time": "10:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张家口",
+      "arrive_time": "11:30",
+      "depart_time": "11:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "怀安",
+      "arrive_time": "11:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大同南",
+      "arrive_time": "11:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 513.0,
+    "price_first": 273.0,
+    "price_second": 170.0,
+    "price_no_seat": 170.0
+  },
+  "fetched_at": "2026-05-01T06:13:07.207302"
+}

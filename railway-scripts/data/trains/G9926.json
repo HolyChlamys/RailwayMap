@@ -1,0 +1,31 @@
+{
+  "train_no": "G9926",
+  "train_type": "G",
+  "depart_station": "唐山",
+  "arrive_station": "北京通州",
+  "depart_time": "21:50",
+  "arrive_time": "21:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "唐山",
+      "arrive_time": "21:50",
+      "depart_time": "21:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北京通州",
+      "arrive_time": "21:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 309.0,
+    "price_first": 141.0,
+    "price_second": 88.0,
+    "price_no_seat": 88.0
+  },
+  "fetched_at": "2026-05-01T09:28:15.351234"
+}

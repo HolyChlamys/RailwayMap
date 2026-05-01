@@ -1,0 +1,45 @@
+{
+  "train_no": "D5817",
+  "train_type": "D",
+  "depart_station": "宜昌东",
+  "arrive_station": "武汉",
+  "depart_time": "19:22",
+  "arrive_time": "21:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "19:22",
+      "depart_time": "19:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "19:58",
+      "depart_time": "20:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "汉口",
+      "arrive_time": "21:12",
+      "depart_time": "21:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "武汉",
+      "arrive_time": "21:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 454.0,
+    "price_first": 207.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T04:11:52.467861"
+}

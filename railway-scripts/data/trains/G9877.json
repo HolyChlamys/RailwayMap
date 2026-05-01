@@ -1,0 +1,52 @@
+{
+  "train_no": "G9877",
+  "train_type": "G",
+  "depart_station": "福州",
+  "arrive_station": "景德镇北",
+  "depart_time": "15:40",
+  "arrive_time": "18:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "15:40",
+      "depart_time": "15:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南平市",
+      "arrive_time": "16:35",
+      "depart_time": "16:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "上饶",
+      "arrive_time": "17:10",
+      "depart_time": "17:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "婺源",
+      "arrive_time": "17:37",
+      "depart_time": "17:42",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "景德镇北",
+      "arrive_time": "18:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 694.5,
+    "price_first": 370.5,
+    "price_second": 221.5,
+    "price_no_seat": 221.5
+  },
+  "fetched_at": "2026-05-01T09:26:56.293038"
+}

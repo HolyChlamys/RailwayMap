@@ -1,0 +1,72 @@
+{
+  "train_no": "D2493",
+  "train_type": "D",
+  "depart_station": "武进",
+  "arrive_station": "宜昌东",
+  "depart_time": "15:33",
+  "arrive_time": "21:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武进",
+      "arrive_time": "15:33",
+      "depart_time": "15:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "16:14",
+      "depart_time": "16:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "17:07",
+      "depart_time": "17:11",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "六安",
+      "arrive_time": "17:35",
+      "depart_time": "17:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汉口",
+      "arrive_time": "19:10",
+      "depart_time": "19:30",
+      "stay_min": "20"
+    },
+    {
+      "seq": 6,
+      "station_name": "潜江",
+      "arrive_time": "20:21",
+      "depart_time": "20:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "荆州",
+      "arrive_time": "20:49",
+      "depart_time": "20:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "宜昌东",
+      "arrive_time": "21:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 680.0,
+    "price_second": 426.0,
+    "price_no_seat": 426.0
+  },
+  "fetched_at": "2026-05-01T03:17:13.332436"
+}

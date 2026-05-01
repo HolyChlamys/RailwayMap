@@ -1,0 +1,65 @@
+{
+  "train_no": "D4308",
+  "train_type": "D",
+  "depart_station": "抚州",
+  "arrive_station": "武汉",
+  "depart_time": "13:34",
+  "arrive_time": "16:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "抚州",
+      "arrive_time": "13:34",
+      "depart_time": "13:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌西",
+      "arrive_time": "14:17",
+      "depart_time": "14:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "德安",
+      "arrive_time": "14:50",
+      "depart_time": "14:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阳新",
+      "arrive_time": "15:34",
+      "depart_time": "15:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "大冶北",
+      "arrive_time": "15:52",
+      "depart_time": "15:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黄石北",
+      "arrive_time": "16:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "武汉",
+      "arrive_time": "16:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 282.0,
+    "price_second": 176.0,
+    "price_no_seat": 176.0
+  },
+  "fetched_at": "2026-05-01T03:47:22.762362"
+}

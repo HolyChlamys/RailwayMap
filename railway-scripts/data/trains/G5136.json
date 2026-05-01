@@ -1,0 +1,87 @@
+{
+  "train_no": "G5136",
+  "train_type": "G",
+  "depart_station": "湛江北",
+  "arrive_station": "汕头",
+  "depart_time": "12:34",
+  "arrive_time": "16:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "湛江北",
+      "arrive_time": "12:34",
+      "depart_time": "12:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "茂名南",
+      "arrive_time": "12:57",
+      "depart_time": "12:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阳江北",
+      "arrive_time": "13:23",
+      "depart_time": "13:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阳春东",
+      "arrive_time": "13:36",
+      "depart_time": "13:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州",
+      "arrive_time": "14:41",
+      "depart_time": "14:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州东",
+      "arrive_time": "14:55",
+      "depart_time": "14:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州新塘",
+      "arrive_time": "15:20",
+      "depart_time": "15:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "汕尾",
+      "arrive_time": "16:13",
+      "depart_time": "16:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "陆丰东",
+      "arrive_time": "16:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "汕头",
+      "arrive_time": "16:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2172.0,
+    "price_first": 980.0,
+    "price_second": 620.0,
+    "price_no_seat": 620.0
+  },
+  "fetched_at": "2026-05-01T07:25:40.564501"
+}

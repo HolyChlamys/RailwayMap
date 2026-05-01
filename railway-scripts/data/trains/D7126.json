@@ -1,0 +1,30 @@
+{
+  "train_no": "D7126",
+  "train_type": "D",
+  "depart_station": "汕头",
+  "arrive_station": "潮安",
+  "depart_time": "11:40",
+  "arrive_time": "11:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "11:40",
+      "depart_time": "11:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮安",
+      "arrive_time": "11:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 339.0,
+    "price_second": 212.0,
+    "price_no_seat": 212.0
+  },
+  "fetched_at": "2026-05-01T04:33:49.504332"
+}

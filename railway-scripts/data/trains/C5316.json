@@ -1,0 +1,30 @@
+{
+  "train_no": "C5316",
+  "train_type": "C",
+  "depart_station": "宜昌东",
+  "arrive_station": "汉口",
+  "depart_time": "00:42",
+  "arrive_time": "00:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "00:42",
+      "depart_time": "00:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "00:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 207.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T01:32:46.618922"
+}

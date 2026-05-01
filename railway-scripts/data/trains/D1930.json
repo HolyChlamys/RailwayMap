@@ -1,0 +1,58 @@
+{
+  "train_no": "D1930",
+  "train_type": "D",
+  "depart_station": "成都东",
+  "arrive_station": "西安北",
+  "depart_time": "12:39",
+  "arrive_time": "15:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "12:39",
+      "depart_time": "12:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德阳",
+      "arrive_time": "13:06",
+      "depart_time": "13:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广元",
+      "arrive_time": "14:14",
+      "depart_time": "14:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉中",
+      "arrive_time": "15:05",
+      "depart_time": "15:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "洋县西",
+      "arrive_time": "15:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西安北",
+      "arrive_time": "15:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 506.0,
+    "price_second": 316.0,
+    "price_no_seat": 316.0
+  },
+  "fetched_at": "2026-05-01T03:08:03.121515"
+}

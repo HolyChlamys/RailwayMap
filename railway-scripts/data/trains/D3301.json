@@ -1,0 +1,114 @@
+{
+  "train_no": "D3301",
+  "train_type": "D",
+  "depart_station": "宁波",
+  "arrive_station": "赣州",
+  "depart_time": "15:18",
+  "arrive_time": "23:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "15:18",
+      "depart_time": "15:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三门县",
+      "arrive_time": "15:58",
+      "depart_time": "16:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "温州北",
+      "arrive_time": "16:52",
+      "depart_time": "16:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "温州南",
+      "arrive_time": "17:04",
+      "depart_time": "17:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "平阳",
+      "arrive_time": "17:23",
+      "depart_time": "17:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "福鼎",
+      "arrive_time": "17:48",
+      "depart_time": "17:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "宁德",
+      "arrive_time": "18:28",
+      "depart_time": "18:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "福州南",
+      "arrive_time": "19:05",
+      "depart_time": "19:09",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "莆田",
+      "arrive_time": "19:38",
+      "depart_time": "19:43",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "泉州",
+      "arrive_time": "20:09",
+      "depart_time": "20:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "厦门北",
+      "arrive_time": "20:36",
+      "depart_time": "20:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "漳州",
+      "arrive_time": "20:59",
+      "depart_time": "21:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "龙岩",
+      "arrive_time": "21:44",
+      "depart_time": "21:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "赣州",
+      "arrive_time": "23:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 809.0,
+    "price_second": 506.0,
+    "price_no_seat": 506.0
+  },
+  "fetched_at": "2026-05-01T03:31:35.222938"
+}

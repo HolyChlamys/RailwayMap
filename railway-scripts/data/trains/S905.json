@@ -1,0 +1,35 @@
+{
+  "train_no": "S905",
+  "train_type": "S",
+  "depart_station": "蓟州北",
+  "arrive_station": "天津北",
+  "depart_time": "10:31",
+  "arrive_time": "11:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "蓟州北",
+      "arrive_time": "10:31",
+      "depart_time": "10:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宝坻北",
+      "arrive_time": "11:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天津北",
+      "arrive_time": "11:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 16.5
+  },
+  "fetched_at": "2026-05-01T11:20:30.659230"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "G2535",
+  "train_type": "G",
+  "depart_station": "北京北",
+  "arrive_station": "大同南",
+  "depart_time": "13:10",
+  "arrive_time": "14:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京北",
+      "arrive_time": "13:10",
+      "depart_time": "13:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张家口",
+      "arrive_time": "14:09",
+      "depart_time": "14:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天镇",
+      "arrive_time": "14:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大同南",
+      "arrive_time": "14:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 513.0,
+    "price_first": 273.0,
+    "price_second": 170.0,
+    "price_no_seat": 170.0
+  },
+  "fetched_at": "2026-05-01T06:13:10.484692"
+}

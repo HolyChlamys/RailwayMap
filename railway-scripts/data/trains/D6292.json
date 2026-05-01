@@ -1,0 +1,93 @@
+{
+  "train_no": "D6292",
+  "train_type": "D",
+  "depart_station": "厦门",
+  "arrive_station": "平潭",
+  "depart_time": "15:24",
+  "arrive_time": "18:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "15:24",
+      "depart_time": "15:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "厦门北",
+      "arrive_time": "15:47",
+      "depart_time": "15:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "晋江",
+      "arrive_time": "16:07",
+      "depart_time": "16:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "泉州",
+      "arrive_time": "16:21",
+      "depart_time": "16:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "仙游",
+      "arrive_time": "16:43",
+      "depart_time": "16:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "莆田",
+      "arrive_time": "16:56",
+      "depart_time": "16:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "涵江",
+      "arrive_time": "17:08",
+      "depart_time": "17:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "福清",
+      "arrive_time": "17:23",
+      "depart_time": "17:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "福州南",
+      "arrive_time": "17:42",
+      "depart_time": "17:59",
+      "stay_min": "17"
+    },
+    {
+      "seq": 10,
+      "station_name": "长乐东",
+      "arrive_time": "18:12",
+      "depart_time": "18:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "平潭",
+      "arrive_time": "18:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 244.0,
+    "price_second": 153.0,
+    "price_no_seat": 153.0
+  },
+  "fetched_at": "2026-05-01T04:20:29.811359"
+}

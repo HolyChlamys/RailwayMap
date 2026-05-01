@@ -1,0 +1,58 @@
+{
+  "train_no": "D9481",
+  "train_type": "D",
+  "depart_station": "徐州东",
+  "arrive_station": "上海虹桥",
+  "depart_time": "19:58",
+  "arrive_time": "22:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "徐州东",
+      "arrive_time": "19:58",
+      "depart_time": "19:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宿迁",
+      "arrive_time": "20:33",
+      "depart_time": "20:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "淮安东",
+      "arrive_time": "21:03",
+      "depart_time": "21:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "盐城",
+      "arrive_time": "21:48",
+      "depart_time": "21:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "张家港",
+      "arrive_time": "22:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "上海虹桥",
+      "arrive_time": "22:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 462.0,
+    "price_second": 290.0,
+    "price_no_seat": 290.0
+  },
+  "fetched_at": "2026-05-01T05:16:00.343215"
+}

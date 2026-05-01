@@ -1,0 +1,80 @@
+{
+  "train_no": "G6865",
+  "train_type": "G",
+  "depart_station": "麻城北",
+  "arrive_station": "宜昌北",
+  "depart_time": "06:55",
+  "arrive_time": "09:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "麻城北",
+      "arrive_time": "06:55",
+      "depart_time": "06:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "07:48",
+      "depart_time": "07:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汉川北",
+      "arrive_time": "08:20",
+      "depart_time": "08:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "天门",
+      "arrive_time": "08:40",
+      "depart_time": "08:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "京山南",
+      "arrive_time": "08:53",
+      "depart_time": "08:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "钟祥南",
+      "arrive_time": "09:09",
+      "depart_time": "09:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "荆门西",
+      "arrive_time": "09:28",
+      "depart_time": "09:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "当阳西",
+      "arrive_time": "09:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "宜昌北",
+      "arrive_time": "09:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 938.0,
+    "price_first": 429.0,
+    "price_second": 268.0,
+    "price_no_seat": 268.0
+  },
+  "fetched_at": "2026-05-01T08:11:11.505974"
+}

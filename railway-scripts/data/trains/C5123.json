@@ -1,0 +1,45 @@
+{
+  "train_no": "C5123",
+  "train_type": "C",
+  "depart_station": "武夷山北",
+  "arrive_station": "福州",
+  "depart_time": "20:58",
+  "arrive_time": "21:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武夷山北",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南平市",
+      "arrive_time": "21:12",
+      "depart_time": "21:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "延平",
+      "arrive_time": "21:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福州",
+      "arrive_time": "21:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 377.0,
+    "price_first": 201.0,
+    "price_second": 119.5,
+    "price_no_seat": 119.5
+  },
+  "fetched_at": "2026-05-01T01:27:14.563403"
+}

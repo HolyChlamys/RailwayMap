@@ -1,0 +1,66 @@
+{
+  "train_no": "C3610",
+  "train_type": "C",
+  "depart_station": "黄山北",
+  "arrive_station": "上海虹桥",
+  "depart_time": "06:36",
+  "arrive_time": "09:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄山北",
+      "arrive_time": "06:36",
+      "depart_time": "06:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "千岛湖",
+      "arrive_time": "07:13",
+      "depart_time": "07:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "富阳西",
+      "arrive_time": "07:49",
+      "depart_time": "07:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州西",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "盛泽",
+      "arrive_time": "08:45",
+      "depart_time": "08:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "练塘",
+      "arrive_time": "09:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "上海虹桥",
+      "arrive_time": "09:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 730.0,
+    "price_first": 350.0,
+    "price_second": 220.0,
+    "price_no_seat": 220.0
+  },
+  "fetched_at": "2026-05-01T01:00:56.107075"
+}

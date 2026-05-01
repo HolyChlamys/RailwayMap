@@ -1,0 +1,45 @@
+{
+  "train_no": "G9197",
+  "train_type": "G",
+  "depart_station": "焦作",
+  "arrive_station": "郑州",
+  "depart_time": "07:25",
+  "arrive_time": "07:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "焦作",
+      "arrive_time": "07:25",
+      "depart_time": "07:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "修武西",
+      "arrive_time": "07:38",
+      "depart_time": "07:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武陟",
+      "arrive_time": "07:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州",
+      "arrive_time": "07:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 131.0,
+    "price_first": 68.0,
+    "price_second": 42.0,
+    "price_no_seat": 42.0
+  },
+  "fetched_at": "2026-05-01T09:07:55.585906"
+}

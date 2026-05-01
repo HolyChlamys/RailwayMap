@@ -1,0 +1,105 @@
+{
+  "train_no": "Z509",
+  "train_type": "Z",
+  "depart_station": "成都西",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "16:37",
+  "arrive_time": "20:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都西",
+      "arrive_time": "16:37",
+      "depart_time": "16:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德阳",
+      "arrive_time": "17:38",
+      "depart_time": "17:42",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "绵阳",
+      "arrive_time": "18:24",
+      "depart_time": "18:28",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "广元",
+      "arrive_time": "22:01",
+      "depart_time": "22:07",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "陇南",
+      "arrive_time": "23:38",
+      "depart_time": "23:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "兰州",
+      "arrive_time": "04:12",
+      "depart_time": "04:48",
+      "stay_min": "36"
+    },
+    {
+      "seq": 7,
+      "station_name": "西宁",
+      "arrive_time": "06:45",
+      "depart_time": "06:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "张掖西",
+      "arrive_time": "09:05",
+      "depart_time": "09:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "临泽南",
+      "arrive_time": "09:28",
+      "depart_time": "09:46",
+      "stay_min": "18"
+    },
+    {
+      "seq": 10,
+      "station_name": "嘉峪关南",
+      "arrive_time": "11:03",
+      "depart_time": "11:09",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "哈密",
+      "arrive_time": "15:10",
+      "depart_time": "15:18",
+      "stay_min": "8"
+    },
+    {
+      "seq": 12,
+      "station_name": "吐鲁番北",
+      "arrive_time": "17:51",
+      "depart_time": "18:19",
+      "stay_min": "28"
+    },
+    {
+      "seq": 13,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "20:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 278.5
+  },
+  "fetched_at": "2026-05-01T11:49:58.341992"
+}

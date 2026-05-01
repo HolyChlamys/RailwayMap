@@ -1,0 +1,59 @@
+{
+  "train_no": "G7279",
+  "train_type": "G",
+  "depart_station": "扬州东",
+  "arrive_station": "上海",
+  "depart_time": "15:13",
+  "arrive_time": "16:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "扬州东",
+      "arrive_time": "15:13",
+      "depart_time": "15:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丹徒",
+      "arrive_time": "15:40",
+      "depart_time": "15:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常州",
+      "arrive_time": "16:01",
+      "depart_time": "16:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "16:17",
+      "depart_time": "16:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "苏州",
+      "arrive_time": "16:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "上海",
+      "arrive_time": "16:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 548.0,
+    "price_first": 251.0,
+    "price_second": 157.0,
+    "price_no_seat": 157.0
+  },
+  "fetched_at": "2026-05-01T08:22:50.105958"
+}

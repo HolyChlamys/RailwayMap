@@ -1,0 +1,51 @@
+{
+  "train_no": "C717",
+  "train_type": "C",
+  "depart_station": "达州",
+  "arrive_station": "成都东",
+  "depart_time": "10:59",
+  "arrive_time": "13:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "达州",
+      "arrive_time": "10:59",
+      "depart_time": "10:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南充",
+      "arrive_time": "12:17",
+      "depart_time": "12:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "遂宁",
+      "arrive_time": "12:57",
+      "depart_time": "12:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "淮口南",
+      "arrive_time": "13:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "13:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 184.0,
+    "price_second": 115.0,
+    "price_no_seat": 115.0
+  },
+  "fetched_at": "2026-05-01T02:07:54.878078"
+}

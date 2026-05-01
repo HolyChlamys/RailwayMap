@@ -1,0 +1,58 @@
+{
+  "train_no": "D9110",
+  "train_type": "D",
+  "depart_station": "昆明南",
+  "arrive_station": "大理",
+  "depart_time": "20:27",
+  "arrive_time": "23:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "20:27",
+      "depart_time": "20:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆明",
+      "arrive_time": "20:45",
+      "depart_time": "20:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "禄丰南",
+      "arrive_time": "21:31",
+      "depart_time": "21:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "广通北",
+      "arrive_time": "21:50",
+      "depart_time": "21:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "楚雄",
+      "arrive_time": "22:06",
+      "depart_time": "22:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "大理",
+      "arrive_time": "23:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 247.5,
+    "price_second": 155.5,
+    "price_no_seat": 155.5
+  },
+  "fetched_at": "2026-05-01T05:07:23.434381"
+}

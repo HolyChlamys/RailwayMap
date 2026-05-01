@@ -1,0 +1,114 @@
+{
+  "train_no": "D3922",
+  "train_type": "D",
+  "depart_station": "北海",
+  "arrive_station": "昆明南",
+  "depart_time": "07:56",
+  "arrive_time": "14:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北海",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合浦",
+      "arrive_time": "08:08",
+      "depart_time": "08:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "钦州东",
+      "arrive_time": "08:33",
+      "depart_time": "08:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁",
+      "arrive_time": "09:19",
+      "depart_time": "09:24",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "隆安东",
+      "arrive_time": "09:55",
+      "depart_time": "09:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "平果",
+      "arrive_time": "10:08",
+      "depart_time": "10:11",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "田东北",
+      "arrive_time": "10:31",
+      "depart_time": "10:34",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "田阳",
+      "arrive_time": "10:44",
+      "depart_time": "10:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "百色",
+      "arrive_time": "11:07",
+      "depart_time": "11:11",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "富宁",
+      "arrive_time": "11:49",
+      "depart_time": "11:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "珠琳",
+      "arrive_time": "12:34",
+      "depart_time": "12:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "普者黑",
+      "arrive_time": "12:53",
+      "depart_time": "12:56",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "石林西",
+      "arrive_time": "13:42",
+      "depart_time": "13:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "昆明南",
+      "arrive_time": "14:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 574.0,
+    "price_second": 358.5,
+    "price_no_seat": 358.5
+  },
+  "fetched_at": "2026-05-01T03:41:25.890296"
+}

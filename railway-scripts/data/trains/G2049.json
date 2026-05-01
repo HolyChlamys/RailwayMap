@@ -1,0 +1,73 @@
+{
+  "train_no": "G2049",
+  "train_type": "G",
+  "depart_station": "济南西",
+  "arrive_station": "郑州东",
+  "depart_time": "07:33",
+  "arrive_time": "09:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "07:33",
+      "depart_time": "07:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰安",
+      "arrive_time": "07:55",
+      "depart_time": "07:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "曲阜东",
+      "arrive_time": "08:17",
+      "depart_time": "08:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "济宁东",
+      "arrive_time": "08:40",
+      "depart_time": "08:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "菏泽东",
+      "arrive_time": "09:17",
+      "depart_time": "09:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "庄寨",
+      "arrive_time": "09:32",
+      "depart_time": "09:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "兰考南",
+      "arrive_time": "09:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "郑州东",
+      "arrive_time": "09:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 933.0,
+    "price_first": 427.0,
+    "price_second": 267.0,
+    "price_no_seat": 267.0
+  },
+  "fetched_at": "2026-05-01T06:00:15.324640"
+}

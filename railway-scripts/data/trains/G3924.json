@@ -1,0 +1,38 @@
+{
+  "train_no": "G3924",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "贵阳北",
+  "depart_time": "03:11",
+  "arrive_time": "07:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "03:11",
+      "depart_time": "03:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳",
+      "arrive_time": "07:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "07:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1502.0,
+    "price_first": 690.0,
+    "price_second": 431.0,
+    "price_no_seat": 431.0
+  },
+  "fetched_at": "2026-05-01T06:50:44.186807"
+}

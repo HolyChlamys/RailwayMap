@@ -1,0 +1,58 @@
+{
+  "train_no": "D269",
+  "train_type": "D",
+  "depart_station": "北京丰台",
+  "arrive_station": "吕梁",
+  "depart_time": "14:47",
+  "arrive_time": "20:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京丰台",
+      "arrive_time": "14:47",
+      "depart_time": "14:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "保定",
+      "arrive_time": "16:06",
+      "depart_time": "16:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄北",
+      "arrive_time": "17:50",
+      "depart_time": "17:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "太原南",
+      "arrive_time": "20:04",
+      "depart_time": "20:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "文水",
+      "arrive_time": "20:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "吕梁",
+      "arrive_time": "20:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 380.0,
+    "price_second": 238.0,
+    "price_no_seat": 238.0
+  },
+  "fetched_at": "2026-05-01T03:20:43.415380"
+}

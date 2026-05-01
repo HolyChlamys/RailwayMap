@@ -1,0 +1,57 @@
+{
+  "train_no": "C5865",
+  "train_type": "C",
+  "depart_station": "贵安",
+  "arrive_station": "荔波",
+  "depart_time": "07:13",
+  "arrive_time": "09:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵安",
+      "arrive_time": "07:13",
+      "depart_time": "07:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳北",
+      "arrive_time": "07:43",
+      "depart_time": "07:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳",
+      "arrive_time": "07:57",
+      "depart_time": "07:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "都匀东",
+      "arrive_time": "08:43",
+      "depart_time": "08:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "独山东",
+      "arrive_time": "09:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "荔波",
+      "arrive_time": "09:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 126.0,
+    "price_no_seat": 126.0
+  },
+  "fetched_at": "2026-05-01T01:40:36.066548"
+}

@@ -1,0 +1,35 @@
+{
+  "train_no": "K6601",
+  "train_type": "K",
+  "depart_station": "郴州",
+  "arrive_station": "东莞东",
+  "depart_time": "23:02",
+  "arrive_time": "05:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郴州",
+      "arrive_time": "23:02",
+      "depart_time": "23:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州白云",
+      "arrive_time": "03:12",
+      "depart_time": "03:20",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "东莞东",
+      "arrive_time": "05:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 84.0
+  },
+  "fetched_at": "2026-05-01T10:23:53.523065"
+}

@@ -1,0 +1,40 @@
+{
+  "train_no": "T9515",
+  "train_type": "T",
+  "depart_station": "阿克苏",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "22:30",
+  "arrive_time": "08:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阿克苏",
+      "arrive_time": "22:30",
+      "depart_time": "22:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "库车",
+      "arrive_time": "00:37",
+      "depart_time": "00:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "库尔勒",
+      "arrive_time": "03:07",
+      "depart_time": "03:22",
+      "stay_min": "15"
+    },
+    {
+      "seq": 4,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "08:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:28:23.177386"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "D5172",
+  "train_type": "D",
+  "depart_station": "潼南",
+  "arrive_station": "涪陵北",
+  "depart_time": "13:53",
+  "arrive_time": "14:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潼南",
+      "arrive_time": "13:53",
+      "depart_time": "13:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合川",
+      "arrive_time": "14:20",
+      "depart_time": "14:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "14:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "涪陵北",
+      "arrive_time": "14:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 118.0,
+    "price_second": 73.0,
+    "price_no_seat": 73.0
+  },
+  "fetched_at": "2026-05-01T04:01:49.994504"
+}

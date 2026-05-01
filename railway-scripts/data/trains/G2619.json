@@ -1,0 +1,80 @@
+{
+  "train_no": "G2619",
+  "train_type": "G",
+  "depart_station": "天津西",
+  "arrive_station": "运城北",
+  "depart_time": "06:45",
+  "arrive_time": "11:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津西",
+      "arrive_time": "06:45",
+      "depart_time": "06:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "保定东",
+      "arrive_time": "07:47",
+      "depart_time": "07:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "08:27",
+      "depart_time": "08:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "太原南",
+      "arrive_time": "09:58",
+      "depart_time": "09:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "灵石东",
+      "arrive_time": "10:42",
+      "depart_time": "10:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "临汾西",
+      "arrive_time": "11:19",
+      "depart_time": "11:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "侯马西",
+      "arrive_time": "11:41",
+      "depart_time": "11:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "闻喜西",
+      "arrive_time": "11:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "运城北",
+      "arrive_time": "11:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1222.0,
+    "price_first": 568.5,
+    "price_second": 355.5,
+    "price_no_seat": 355.5
+  },
+  "fetched_at": "2026-05-01T06:15:28.280430"
+}

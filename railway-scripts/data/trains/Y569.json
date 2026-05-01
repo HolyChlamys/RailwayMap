@@ -1,0 +1,40 @@
+{
+  "train_no": "Y569",
+  "train_type": "Y",
+  "depart_station": "驻马店",
+  "arrive_station": "武昌",
+  "depart_time": "07:24",
+  "arrive_time": "08:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "驻马店",
+      "arrive_time": "07:24",
+      "depart_time": "07:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "确山",
+      "arrive_time": "07:51",
+      "depart_time": "07:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "信阳",
+      "arrive_time": "08:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武昌",
+      "arrive_time": "08:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:35:30.971640"
+}

@@ -1,0 +1,56 @@
+{
+  "train_no": "K6555",
+  "train_type": "K",
+  "depart_station": "常德",
+  "arrive_station": "衡阳",
+  "depart_time": "09:52",
+  "arrive_time": "14:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "常德",
+      "arrive_time": "09:52",
+      "depart_time": "09:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "益阳",
+      "arrive_time": "10:59",
+      "depart_time": "10:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙",
+      "arrive_time": "12:44",
+      "depart_time": "12:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "株洲",
+      "arrive_time": "13:27",
+      "depart_time": "13:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡山",
+      "arrive_time": "14:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "衡阳",
+      "arrive_time": "14:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 74.5
+  },
+  "fetched_at": "2026-05-01T10:22:36.416940"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "G826",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "青岛",
+  "depart_time": "16:32",
+  "arrive_time": "23:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "16:32",
+      "depart_time": "16:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "镇江南",
+      "arrive_time": "17:26",
+      "depart_time": "17:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "17:47",
+      "depart_time": "17:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "徐州东",
+      "arrive_time": "19:03",
+      "depart_time": "19:14",
+      "stay_min": "11"
+    },
+    {
+      "seq": 5,
+      "station_name": "泰安",
+      "arrive_time": "20:05",
+      "depart_time": "20:10",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南",
+      "arrive_time": "20:33",
+      "depart_time": "20:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "淄博",
+      "arrive_time": "21:18",
+      "depart_time": "21:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "潍坊",
+      "arrive_time": "21:54",
+      "depart_time": "21:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "青岛",
+      "arrive_time": "23:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2190.0,
+    "price_first": 1002.0,
+    "price_second": 626.0,
+    "price_no_seat": 626.0
+  },
+  "fetched_at": "2026-05-01T08:46:19.152675"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "C3611",
+  "train_type": "C",
+  "depart_station": "上海虹桥",
+  "arrive_station": "横店",
+  "depart_time": "10:13",
+  "arrive_time": "12:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "10:13",
+      "depart_time": "10:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州南",
+      "arrive_time": "10:41",
+      "depart_time": "10:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州西",
+      "arrive_time": "11:28",
+      "depart_time": "11:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "富阳西",
+      "arrive_time": "11:44",
+      "depart_time": "11:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "义乌",
+      "arrive_time": "12:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "横店",
+      "arrive_time": "12:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 842.0,
+    "price_first": 384.0,
+    "price_second": 242.0,
+    "price_no_seat": 242.0
+  },
+  "fetched_at": "2026-05-01T01:00:57.767433"
+}

@@ -1,0 +1,87 @@
+{
+  "train_no": "G7323",
+  "train_type": "G",
+  "depart_station": "上海南",
+  "arrive_station": "平阳",
+  "depart_time": "13:10",
+  "arrive_time": "16:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "13:10",
+      "depart_time": "13:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉善南",
+      "arrive_time": "13:36",
+      "depart_time": "13:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桐乡",
+      "arrive_time": "13:53",
+      "depart_time": "13:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "14:14",
+      "depart_time": "14:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武义北",
+      "arrive_time": "15:15",
+      "depart_time": "15:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "缙云西",
+      "arrive_time": "15:35",
+      "depart_time": "15:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "青田",
+      "arrive_time": "16:06",
+      "depart_time": "16:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "温州南",
+      "arrive_time": "16:27",
+      "depart_time": "16:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "瑞安",
+      "arrive_time": "16:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "平阳",
+      "arrive_time": "16:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 858.0,
+    "price_first": 407.5,
+    "price_second": 255.5,
+    "price_no_seat": 255.5
+  },
+  "fetched_at": "2026-05-01T08:24:12.665321"
+}

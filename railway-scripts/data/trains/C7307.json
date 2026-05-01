@@ -1,0 +1,66 @@
+{
+  "train_no": "C7307",
+  "train_type": "C",
+  "depart_station": "海口东",
+  "arrive_station": "三亚",
+  "depart_time": "08:55",
+  "arrive_time": "10:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "海口东",
+      "arrive_time": "08:55",
+      "depart_time": "08:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "美兰",
+      "arrive_time": "09:06",
+      "depart_time": "09:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "和乐",
+      "arrive_time": "09:48",
+      "depart_time": "09:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "万宁",
+      "arrive_time": "09:57",
+      "depart_time": "09:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "陵水",
+      "arrive_time": "10:15",
+      "depart_time": "10:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "亚龙湾",
+      "arrive_time": "10:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "三亚",
+      "arrive_time": "10:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 400.0,
+    "price_first": 183.0,
+    "price_second": 114.0,
+    "price_no_seat": 114.0
+  },
+  "fetched_at": "2026-05-01T02:11:49.199616"
+}

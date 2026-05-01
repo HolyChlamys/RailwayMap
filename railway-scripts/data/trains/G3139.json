@@ -1,0 +1,80 @@
+{
+  "train_no": "G3139",
+  "train_type": "G",
+  "depart_station": "太原南",
+  "arrive_station": "内江北",
+  "depart_time": "07:23",
+  "arrive_time": "14:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "07:23",
+      "depart_time": "07:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "临汾西",
+      "arrive_time": "08:35",
+      "depart_time": "08:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "运城北",
+      "arrive_time": "09:15",
+      "depart_time": "09:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安北",
+      "arrive_time": "10:24",
+      "depart_time": "10:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汉中",
+      "arrive_time": "11:36",
+      "depart_time": "11:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广元",
+      "arrive_time": "12:24",
+      "depart_time": "12:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "江油",
+      "arrive_time": "13:03",
+      "depart_time": "13:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "成都东",
+      "arrive_time": "14:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "内江北",
+      "arrive_time": "14:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2140.0,
+    "price_first": 979.0,
+    "price_second": 611.0,
+    "price_no_seat": 611.0
+  },
+  "fetched_at": "2026-05-01T06:29:48.595872"
+}

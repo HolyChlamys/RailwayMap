@@ -1,0 +1,42 @@
+{
+  "train_no": "K7904",
+  "train_type": "K",
+  "depart_station": "白云鄂博",
+  "arrive_station": "包头东",
+  "depart_time": "12:32",
+  "arrive_time": "15:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "白云鄂博",
+      "arrive_time": "12:32",
+      "depart_time": "12:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆都仑召",
+      "arrive_time": "14:50",
+      "depart_time": "14:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "包头",
+      "arrive_time": "15:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "包头东",
+      "arrive_time": "15:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 23.5
+  },
+  "fetched_at": "2026-05-01T10:32:34.887094"
+}

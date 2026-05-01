@@ -1,0 +1,52 @@
+{
+  "train_no": "G9564",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "兴义南",
+  "depart_time": "08:14",
+  "arrive_time": "10:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "08:14",
+      "depart_time": "08:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵安",
+      "arrive_time": "08:38",
+      "depart_time": "08:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "安顺西",
+      "arrive_time": "09:01",
+      "depart_time": "09:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "关岭",
+      "arrive_time": "09:18",
+      "depart_time": "09:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "兴义南",
+      "arrive_time": "10:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 726.0,
+    "price_first": 332.0,
+    "price_second": 207.0,
+    "price_no_seat": 207.0
+  },
+  "fetched_at": "2026-05-01T09:17:52.630000"
+}

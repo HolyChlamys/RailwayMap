@@ -1,0 +1,101 @@
+{
+  "train_no": "G7333",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "温州南",
+  "depart_time": "06:20",
+  "arrive_time": "09:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "06:20",
+      "depart_time": "06:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉兴南",
+      "arrive_time": "06:50",
+      "depart_time": "06:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "海宁西",
+      "arrive_time": "07:08",
+      "depart_time": "07:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "07:23",
+      "depart_time": "07:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "诸暨",
+      "arrive_time": "07:47",
+      "depart_time": "07:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "义乌",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "金华南",
+      "arrive_time": "08:26",
+      "depart_time": "08:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "武义北",
+      "arrive_time": "08:39",
+      "depart_time": "08:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "缙云西",
+      "arrive_time": "08:59",
+      "depart_time": "08:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "丽水",
+      "arrive_time": "09:14",
+      "depart_time": "09:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "青田",
+      "arrive_time": "09:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "温州南",
+      "arrive_time": "09:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 800.0,
+    "price_first": 381.5,
+    "price_second": 238.5,
+    "price_no_seat": 238.5
+  },
+  "fetched_at": "2026-05-01T08:24:29.309070"
+}

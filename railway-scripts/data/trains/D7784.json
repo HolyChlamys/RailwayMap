@@ -1,0 +1,30 @@
+{
+  "train_no": "D7784",
+  "train_type": "D",
+  "depart_station": "大连北",
+  "arrive_station": "盘锦",
+  "depart_time": "05:40",
+  "arrive_time": "07:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "05:40",
+      "depart_time": "05:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "盘锦",
+      "arrive_time": "07:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 175.0,
+    "price_second": 109.0,
+    "price_no_seat": 109.0
+  },
+  "fetched_at": "2026-05-01T04:44:50.381941"
+}

@@ -1,0 +1,115 @@
+{
+  "train_no": "G282",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "青岛",
+  "depart_time": "14:14",
+  "arrive_time": "21:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "14:14",
+      "depart_time": "14:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜兴",
+      "arrive_time": "14:48",
+      "depart_time": "14:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "瓦屋山",
+      "arrive_time": "15:07",
+      "depart_time": "15:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "溧水",
+      "arrive_time": "15:19",
+      "depart_time": "15:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "15:37",
+      "depart_time": "15:47",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "宿州东",
+      "arrive_time": "16:46",
+      "depart_time": "16:54",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "徐州东",
+      "arrive_time": "17:13",
+      "depart_time": "17:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "枣庄",
+      "arrive_time": "17:34",
+      "depart_time": "17:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "曲阜东",
+      "arrive_time": "18:00",
+      "depart_time": "18:03",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "济南",
+      "arrive_time": "18:42",
+      "depart_time": "18:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "淄博",
+      "arrive_time": "19:26",
+      "depart_time": "19:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "青州市",
+      "arrive_time": "19:46",
+      "depart_time": "19:53",
+      "stay_min": "7"
+    },
+    {
+      "seq": 13,
+      "station_name": "潍坊",
+      "arrive_time": "20:15",
+      "depart_time": "20:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "青岛",
+      "arrive_time": "21:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2172.0,
+    "price_first": 993.0,
+    "price_second": 621.0,
+    "price_no_seat": 621.0
+  },
+  "fetched_at": "2026-05-01T06:21:10.948713"
+}

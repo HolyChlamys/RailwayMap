@@ -1,0 +1,73 @@
+{
+  "train_no": "G5554",
+  "train_type": "G",
+  "depart_station": "临沂北",
+  "arrive_station": "青岛",
+  "depart_time": "08:05",
+  "arrive_time": "10:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沂北",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莒南北",
+      "arrive_time": "08:19",
+      "depart_time": "08:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "厉家寨",
+      "arrive_time": "08:32",
+      "depart_time": "08:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "日照西",
+      "arrive_time": "08:48",
+      "depart_time": "08:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "董家口",
+      "arrive_time": "09:08",
+      "depart_time": "09:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "青岛西",
+      "arrive_time": "09:26",
+      "depart_time": "09:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "青岛北",
+      "arrive_time": "10:04",
+      "depart_time": "10:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "青岛",
+      "arrive_time": "10:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 253.0,
+    "price_first": 135.0,
+    "price_second": 84.0,
+    "price_no_seat": 84.0
+  },
+  "fetched_at": "2026-05-01T07:36:47.672070"
+}

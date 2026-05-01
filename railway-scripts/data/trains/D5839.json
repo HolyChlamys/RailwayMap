@@ -1,0 +1,51 @@
+{
+  "train_no": "D5839",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "宜昌东",
+  "depart_time": "08:35",
+  "arrive_time": "10:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "08:35",
+      "depart_time": "08:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉川",
+      "arrive_time": "09:01",
+      "depart_time": "09:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "仙桃西",
+      "arrive_time": "09:28",
+      "depart_time": "09:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "荆州",
+      "arrive_time": "10:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜昌东",
+      "arrive_time": "10:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 173.0,
+    "price_second": 108.0,
+    "price_no_seat": 108.0
+  },
+  "fetched_at": "2026-05-01T04:12:12.381290"
+}

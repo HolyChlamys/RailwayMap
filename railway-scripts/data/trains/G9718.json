@@ -1,0 +1,66 @@
+{
+  "train_no": "G9718",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "怀化南",
+  "depart_time": "22:10",
+  "arrive_time": "01:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "22:10",
+      "depart_time": "22:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "韶关",
+      "arrive_time": "23:03",
+      "depart_time": "23:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳东",
+      "arrive_time": "00:06",
+      "depart_time": "00:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "邵阳",
+      "arrive_time": "01:08",
+      "depart_time": "01:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "隆回",
+      "arrive_time": "01:31",
+      "depart_time": "01:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "洞口",
+      "arrive_time": "01:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "怀化南",
+      "arrive_time": "01:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1397.0,
+    "price_first": 668.0,
+    "price_second": 418.0,
+    "price_no_seat": 418.0
+  },
+  "fetched_at": "2026-05-01T09:22:09.304575"
+}

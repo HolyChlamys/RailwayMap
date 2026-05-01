@@ -1,0 +1,30 @@
+{
+  "train_no": "D4755",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "南宁东",
+  "depart_time": "03:14",
+  "arrive_time": "03:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "03:14",
+      "depart_time": "03:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁东",
+      "arrive_time": "03:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 432.0,
+    "price_second": 270.0,
+    "price_no_seat": 270.0
+  },
+  "fetched_at": "2026-05-01T03:56:33.331887"
+}

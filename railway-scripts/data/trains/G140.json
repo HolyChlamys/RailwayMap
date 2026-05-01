@@ -1,0 +1,59 @@
+{
+  "train_no": "G140",
+  "train_type": "G",
+  "depart_station": "长白山",
+  "arrive_station": "北京朝阳",
+  "depart_time": "09:57",
+  "arrive_time": "12:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长白山",
+      "arrive_time": "09:57",
+      "depart_time": "09:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长白山西",
+      "arrive_time": "10:18",
+      "depart_time": "10:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "通化",
+      "arrive_time": "10:56",
+      "depart_time": "10:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "抚顺",
+      "arrive_time": "11:39",
+      "depart_time": "11:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳北",
+      "arrive_time": "12:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "北京朝阳",
+      "arrive_time": "12:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2545.0,
+    "price_first": 1163.0,
+    "price_second": 727.0,
+    "price_no_seat": 727.0
+  },
+  "fetched_at": "2026-05-01T05:41:53.169700"
+}

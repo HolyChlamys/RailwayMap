@@ -1,0 +1,59 @@
+{
+  "train_no": "G7424",
+  "train_type": "G",
+  "depart_station": "安庆",
+  "arrive_station": "合肥南",
+  "depart_time": "16:03",
+  "arrive_time": "17:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安庆",
+      "arrive_time": "16:03",
+      "depart_time": "16:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "池州",
+      "arrive_time": "16:22",
+      "depart_time": "16:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "铜陵",
+      "arrive_time": "16:52",
+      "depart_time": "16:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "铜陵北",
+      "arrive_time": "17:08",
+      "depart_time": "17:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "无为",
+      "arrive_time": "17:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "合肥南",
+      "arrive_time": "17:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 385.0,
+    "price_first": 191.5,
+    "price_second": 116.0,
+    "price_no_seat": 116.0
+  },
+  "fetched_at": "2026-05-01T08:26:59.662593"
+}

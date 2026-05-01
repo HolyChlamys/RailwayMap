@@ -1,0 +1,192 @@
+{
+  "train_no": "G2278",
+  "train_type": "G",
+  "depart_station": "厦门北",
+  "arrive_station": "成都东",
+  "depart_time": "07:56",
+  "arrive_time": "21:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "08:16",
+      "depart_time": "08:24",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "龙岩",
+      "arrive_time": "09:07",
+      "depart_time": "09:11",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "永安南",
+      "arrive_time": "09:56",
+      "depart_time": "09:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "三明北",
+      "arrive_time": "10:25",
+      "depart_time": "10:41",
+      "stay_min": "16"
+    },
+    {
+      "seq": 6,
+      "station_name": "南丰",
+      "arrive_time": "11:39",
+      "depart_time": "11:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "南城",
+      "arrive_time": "11:55",
+      "depart_time": "11:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "抚州",
+      "arrive_time": "12:16",
+      "depart_time": "12:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "南昌西",
+      "arrive_time": "12:55",
+      "depart_time": "13:02",
+      "stay_min": "7"
+    },
+    {
+      "seq": 10,
+      "station_name": "宜春",
+      "arrive_time": "13:45",
+      "depart_time": "13:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "萍乡北",
+      "arrive_time": "14:05",
+      "depart_time": "14:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "长沙南",
+      "arrive_time": "14:37",
+      "depart_time": "14:44",
+      "stay_min": "7"
+    },
+    {
+      "seq": 13,
+      "station_name": "湘潭北",
+      "arrive_time": "14:58",
+      "depart_time": "15:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "娄底南",
+      "arrive_time": "15:26",
+      "depart_time": "15:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "邵阳北",
+      "arrive_time": "15:44",
+      "depart_time": "15:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "怀化南",
+      "arrive_time": "16:27",
+      "depart_time": "16:31",
+      "stay_min": "4"
+    },
+    {
+      "seq": 17,
+      "station_name": "三穗",
+      "arrive_time": "17:11",
+      "depart_time": "17:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "凯里南",
+      "arrive_time": "17:38",
+      "depart_time": "17:43",
+      "stay_min": "5"
+    },
+    {
+      "seq": 19,
+      "station_name": "贵阳东",
+      "arrive_time": "18:14",
+      "depart_time": "18:20",
+      "stay_min": "6"
+    },
+    {
+      "seq": 20,
+      "station_name": "毕节",
+      "arrive_time": "19:05",
+      "depart_time": "19:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 21,
+      "station_name": "宜宾西",
+      "arrive_time": "20:07",
+      "depart_time": "20:12",
+      "stay_min": "5"
+    },
+    {
+      "seq": 22,
+      "station_name": "乐山",
+      "arrive_time": "20:52",
+      "depart_time": "20:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 23,
+      "station_name": "眉山东",
+      "arrive_time": "21:13",
+      "depart_time": "21:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 24,
+      "station_name": "彭山北",
+      "arrive_time": "21:23",
+      "depart_time": "21:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 25,
+      "station_name": "成都东",
+      "arrive_time": "21:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3631.5,
+    "price_first": 1754.0,
+    "price_second": 1095.0,
+    "price_no_seat": 1095.0
+  },
+  "fetched_at": "2026-05-01T06:06:15.360958"
+}

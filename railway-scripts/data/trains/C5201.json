@@ -1,0 +1,80 @@
+{
+  "train_no": "C5201",
+  "train_type": "C",
+  "depart_station": "南昌南",
+  "arrive_station": "福州南",
+  "depart_time": "18:03",
+  "arrive_time": "21:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌南",
+      "arrive_time": "18:03",
+      "depart_time": "18:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚州东",
+      "arrive_time": "18:27",
+      "depart_time": "18:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "鹰潭北",
+      "arrive_time": "18:43",
+      "depart_time": "18:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南平市",
+      "arrive_time": "19:40",
+      "depart_time": "19:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "延平",
+      "arrive_time": "20:09",
+      "depart_time": "20:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "古田北",
+      "arrive_time": "20:26",
+      "depart_time": "20:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "闽清北",
+      "arrive_time": "20:41",
+      "depart_time": "20:53",
+      "stay_min": "12"
+    },
+    {
+      "seq": 8,
+      "station_name": "福州",
+      "arrive_time": "21:15",
+      "depart_time": "21:19",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "福州南",
+      "arrive_time": "21:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 947.0,
+    "price_first": 470.0,
+    "price_second": 285.0,
+    "price_no_seat": 285.0
+  },
+  "fetched_at": "2026-05-01T01:29:24.936778"
+}

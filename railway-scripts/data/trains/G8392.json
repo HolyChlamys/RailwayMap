@@ -1,0 +1,52 @@
+{
+  "train_no": "G8392",
+  "train_type": "G",
+  "depart_station": "连云港",
+  "arrive_station": "徐州东",
+  "depart_time": "18:44",
+  "arrive_time": "19:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "连云港",
+      "arrive_time": "18:44",
+      "depart_time": "18:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东海县",
+      "arrive_time": "18:59",
+      "depart_time": "18:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新沂南",
+      "arrive_time": "19:16",
+      "depart_time": "19:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "邳州东",
+      "arrive_time": "19:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "徐州东",
+      "arrive_time": "19:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 356.0,
+    "price_first": 163.0,
+    "price_second": 102.0,
+    "price_no_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T08:49:37.443265"
+}

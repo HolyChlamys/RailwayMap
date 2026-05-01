@@ -1,0 +1,45 @@
+{
+  "train_no": "G9276",
+  "train_type": "G",
+  "depart_station": "杭州西",
+  "arrive_station": "兰溪东",
+  "depart_time": "22:02",
+  "arrive_time": "23:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "22:02",
+      "depart_time": "22:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "建德",
+      "arrive_time": "22:35",
+      "depart_time": "22:55",
+      "stay_min": "20"
+    },
+    {
+      "seq": 3,
+      "station_name": "大洋",
+      "arrive_time": "23:05",
+      "depart_time": "23:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "兰溪东",
+      "arrive_time": "23:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 285.0,
+    "price_first": 134.0,
+    "price_second": 84.0,
+    "price_no_seat": 84.0
+  },
+  "fetched_at": "2026-05-01T09:10:02.850529"
+}

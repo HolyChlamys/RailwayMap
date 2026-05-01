@@ -1,0 +1,44 @@
+{
+  "train_no": "C6571",
+  "train_type": "C",
+  "depart_station": "青岛",
+  "arrive_station": "烟台",
+  "depart_time": "13:20",
+  "arrive_time": "14:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛",
+      "arrive_time": "13:20",
+      "depart_time": "13:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛北",
+      "arrive_time": "13:38",
+      "depart_time": "13:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "莱西",
+      "arrive_time": "14:08",
+      "depart_time": "14:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "烟台",
+      "arrive_time": "14:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 130.0,
+    "price_second": 81.0,
+    "price_no_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T01:52:10.184331"
+}

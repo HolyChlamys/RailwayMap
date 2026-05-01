@@ -1,0 +1,37 @@
+{
+  "train_no": "D5340",
+  "train_type": "D",
+  "depart_station": "侯马西",
+  "arrive_station": "太原南",
+  "depart_time": "20:58",
+  "arrive_time": "21:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "侯马西",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "平遥古城",
+      "arrive_time": "21:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "太原南",
+      "arrive_time": "21:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 173.0,
+    "price_second": 108.0,
+    "price_no_seat": 108.0
+  },
+  "fetched_at": "2026-05-01T04:05:04.919990"
+}

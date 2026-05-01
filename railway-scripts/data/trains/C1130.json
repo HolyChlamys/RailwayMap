@@ -1,0 +1,51 @@
+{
+  "train_no": "C1130",
+  "train_type": "C",
+  "depart_station": "沈阳",
+  "arrive_station": "通辽",
+  "depart_time": "14:40",
+  "arrive_time": "16:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "14:40",
+      "depart_time": "14:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新民北",
+      "arrive_time": "15:08",
+      "depart_time": "15:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "彰武",
+      "arrive_time": "15:30",
+      "depart_time": "15:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "甘旗卡",
+      "arrive_time": "15:53",
+      "depart_time": "15:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "通辽",
+      "arrive_time": "16:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 159.0,
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T00:21:55.314187"
+}

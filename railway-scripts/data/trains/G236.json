@@ -1,0 +1,73 @@
+{
+  "train_no": "G236",
+  "train_type": "G",
+  "depart_station": "湘潭北",
+  "arrive_station": "南京南",
+  "depart_time": "18:32",
+  "arrive_time": "23:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "湘潭北",
+      "arrive_time": "18:32",
+      "depart_time": "18:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙南",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌西",
+      "arrive_time": "20:04",
+      "depart_time": "20:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "上饶",
+      "arrive_time": "20:55",
+      "depart_time": "20:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "金华",
+      "arrive_time": "21:36",
+      "depart_time": "21:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "22:25",
+      "depart_time": "22:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宜兴",
+      "arrive_time": "23:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南京南",
+      "arrive_time": "23:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2235.0,
+    "price_first": 1021.0,
+    "price_second": 639.0,
+    "price_no_seat": 639.0
+  },
+  "fetched_at": "2026-05-01T06:08:14.553729"
+}

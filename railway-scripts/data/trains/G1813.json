@@ -1,0 +1,122 @@
+{
+  "train_no": "G1813",
+  "train_type": "G",
+  "depart_station": "安阳东",
+  "arrive_station": "上海虹桥",
+  "depart_time": "09:01",
+  "arrive_time": "15:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安阳东",
+      "arrive_time": "09:01",
+      "depart_time": "09:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹤壁东",
+      "arrive_time": "09:15",
+      "depart_time": "09:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "新乡东",
+      "arrive_time": "09:33",
+      "depart_time": "09:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "09:55",
+      "depart_time": "10:19",
+      "stay_min": "24"
+    },
+    {
+      "seq": 5,
+      "station_name": "民权北",
+      "arrive_time": "10:58",
+      "depart_time": "11:04",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "商丘",
+      "arrive_time": "11:21",
+      "depart_time": "11:26",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "砀山南",
+      "arrive_time": "11:44",
+      "depart_time": "11:50",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "徐州东",
+      "arrive_time": "12:22",
+      "depart_time": "12:29",
+      "stay_min": "7"
+    },
+    {
+      "seq": 9,
+      "station_name": "宿州东",
+      "arrive_time": "12:47",
+      "depart_time": "12:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "南京南",
+      "arrive_time": "13:46",
+      "depart_time": "13:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "镇江南",
+      "arrive_time": "14:06",
+      "depart_time": "14:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "常州北",
+      "arrive_time": "14:25",
+      "depart_time": "14:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "苏州北",
+      "arrive_time": "14:50",
+      "depart_time": "14:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "昆山南",
+      "arrive_time": "15:03",
+      "depart_time": "15:10",
+      "stay_min": "7"
+    },
+    {
+      "seq": 15,
+      "station_name": "上海虹桥",
+      "arrive_time": "15:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2208.0,
+    "price_first": 1009.0,
+    "price_second": 630.0,
+    "price_no_seat": 630.0
+  },
+  "fetched_at": "2026-05-01T05:53:33.013030"
+}

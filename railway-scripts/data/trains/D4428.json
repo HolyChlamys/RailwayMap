@@ -1,0 +1,58 @@
+{
+  "train_no": "D4428",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "上海虹桥",
+  "depart_time": "20:07",
+  "arrive_time": "01:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "20:07",
+      "depart_time": "20:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金寨",
+      "arrive_time": "21:20",
+      "depart_time": "21:28",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "六安",
+      "arrive_time": "21:46",
+      "depart_time": "21:58",
+      "stay_min": "12"
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥南",
+      "arrive_time": "22:22",
+      "depart_time": "22:30",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "23:22",
+      "depart_time": "23:28",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "上海虹桥",
+      "arrive_time": "01:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 590.0,
+    "price_second": 369.0,
+    "price_no_seat": 369.0
+  },
+  "fetched_at": "2026-05-01T03:50:20.814167"
+}

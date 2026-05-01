@@ -1,0 +1,42 @@
+{
+  "train_no": "K9552",
+  "train_type": "K",
+  "depart_station": "贵阳",
+  "arrive_station": "昭通",
+  "depart_time": "22:26",
+  "arrive_time": "05:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳",
+      "arrive_time": "22:26",
+      "depart_time": "22:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安顺",
+      "arrive_time": "23:42",
+      "depart_time": "23:58",
+      "stay_min": "16"
+    },
+    {
+      "seq": 3,
+      "station_name": "六盘水",
+      "arrive_time": "01:44",
+      "depart_time": "01:50",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "昭通",
+      "arrive_time": "05:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 54.5
+  },
+  "fetched_at": "2026-05-01T10:46:46.922667"
+}

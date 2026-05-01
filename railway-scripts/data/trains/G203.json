@@ -1,0 +1,94 @@
+{
+  "train_no": "G203",
+  "train_type": "G",
+  "depart_station": "南京南",
+  "arrive_station": "贵阳北",
+  "depart_time": "06:32",
+  "arrive_time": "13:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "06:32",
+      "depart_time": "06:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "无锡东",
+      "arrive_time": "07:17",
+      "depart_time": "07:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州北",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "上海虹桥",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州东",
+      "arrive_time": "08:44",
+      "depart_time": "08:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "金华",
+      "arrive_time": "09:29",
+      "depart_time": "09:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "上饶",
+      "arrive_time": "10:08",
+      "depart_time": "10:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南昌西",
+      "arrive_time": "11:02",
+      "depart_time": "11:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "长沙南",
+      "arrive_time": "12:19",
+      "depart_time": "12:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "怀化南",
+      "arrive_time": "13:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "贵阳北",
+      "arrive_time": "13:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3648.0,
+    "price_first": 1668.0,
+    "price_second": 1042.0,
+    "price_no_seat": 1042.0
+  },
+  "fetched_at": "2026-05-01T05:59:44.055989"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G9840",
+  "train_type": "G",
+  "depart_station": "福州",
+  "arrive_station": "武夷山北",
+  "depart_time": "20:29",
+  "arrive_time": "21:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "20:29",
+      "depart_time": "20:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "古田北",
+      "arrive_time": "21:01",
+      "depart_time": "21:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "延平",
+      "arrive_time": "21:20",
+      "depart_time": "21:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南平市",
+      "arrive_time": "21:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武夷山北",
+      "arrive_time": "21:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 326.0,
+    "price_first": 174.0,
+    "price_second": 103.5,
+    "price_no_seat": 103.5
+  },
+  "fetched_at": "2026-05-01T09:25:49.551754"
+}

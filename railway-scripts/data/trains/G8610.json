@@ -1,0 +1,38 @@
+{
+  "train_no": "G8610",
+  "train_type": "G",
+  "depart_station": "重庆北",
+  "arrive_station": "成都东",
+  "depart_time": "09:32",
+  "arrive_time": "10:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "09:32",
+      "depart_time": "09:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "隆昌北",
+      "arrive_time": "10:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "成都东",
+      "arrive_time": "10:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 614.0,
+    "price_first": 281.0,
+    "price_second": 175.0,
+    "price_no_seat": 175.0
+  },
+  "fetched_at": "2026-05-01T08:55:47.680420"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "C454",
+  "train_type": "C",
+  "depart_station": "玉溪",
+  "arrive_station": "丽江",
+  "depart_time": "09:19",
+  "arrive_time": "14:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "玉溪",
+      "arrive_time": "09:19",
+      "depart_time": "09:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆明南",
+      "arrive_time": "09:58",
+      "depart_time": "10:03",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "10:23",
+      "depart_time": "10:29",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "楚雄",
+      "arrive_time": "11:35",
+      "depart_time": "11:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "鹤庆",
+      "arrive_time": "14:13",
+      "depart_time": "14:19",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "丽江",
+      "arrive_time": "14:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 808.0,
+    "price_first": 431.0,
+    "price_second": 270.0,
+    "price_no_seat": 270.0
+  },
+  "fetched_at": "2026-05-01T01:15:38.763550"
+}

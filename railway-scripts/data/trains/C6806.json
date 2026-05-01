@@ -1,0 +1,38 @@
+{
+  "train_no": "C6806",
+  "train_type": "C",
+  "depart_station": "汕头",
+  "arrive_station": "广州南",
+  "depart_time": "21:49",
+  "arrive_time": "00:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "21:49",
+      "depart_time": "21:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "00:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "00:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 718.5,
+    "price_first": 336.5,
+    "price_second": 222.5,
+    "price_no_seat": 222.5
+  },
+  "fetched_at": "2026-05-01T01:57:07.313430"
+}

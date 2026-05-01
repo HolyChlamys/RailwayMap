@@ -1,0 +1,52 @@
+{
+  "train_no": "G4070",
+  "train_type": "G",
+  "depart_station": "景德镇北",
+  "arrive_station": "杭州西",
+  "depart_time": "20:18",
+  "arrive_time": "21:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "景德镇北",
+      "arrive_time": "20:18",
+      "depart_time": "20:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "浮梁东",
+      "arrive_time": "20:36",
+      "depart_time": "20:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄山北",
+      "arrive_time": "21:10",
+      "depart_time": "21:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "千岛湖",
+      "arrive_time": "21:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州西",
+      "arrive_time": "21:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 637.0,
+    "price_first": 309.0,
+    "price_second": 193.0,
+    "price_no_seat": 193.0
+  },
+  "fetched_at": "2026-05-01T06:54:55.128055"
+}

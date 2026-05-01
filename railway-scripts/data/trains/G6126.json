@@ -1,0 +1,80 @@
+{
+  "train_no": "G6126",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "永州",
+  "depart_time": "10:43",
+  "arrive_time": "14:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "10:43",
+      "depart_time": "10:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门",
+      "arrive_time": "11:00",
+      "depart_time": "11:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "11:19",
+      "depart_time": "11:25",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "韶关",
+      "arrive_time": "12:13",
+      "depart_time": "12:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "郴州西",
+      "arrive_time": "12:46",
+      "depart_time": "12:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "衡阳东",
+      "arrive_time": "13:19",
+      "depart_time": "13:39",
+      "stay_min": "20"
+    },
+    {
+      "seq": 7,
+      "station_name": "祁东",
+      "arrive_time": "14:07",
+      "depart_time": "14:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "祁阳",
+      "arrive_time": "14:23",
+      "depart_time": "14:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "永州",
+      "arrive_time": "14:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1338.5,
+    "price_first": 630.5,
+    "price_second": 406.0,
+    "price_no_seat": 406.0
+  },
+  "fetched_at": "2026-05-01T07:49:37.607890"
+}

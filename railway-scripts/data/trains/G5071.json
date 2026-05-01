@@ -1,0 +1,73 @@
+{
+  "train_no": "G5071",
+  "train_type": "G",
+  "depart_station": "福州南",
+  "arrive_station": "武平",
+  "depart_time": "07:25",
+  "arrive_time": "10:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州南",
+      "arrive_time": "07:25",
+      "depart_time": "07:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莆田",
+      "arrive_time": "07:49",
+      "depart_time": "07:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "泉州南",
+      "arrive_time": "08:15",
+      "depart_time": "08:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "厦门北",
+      "arrive_time": "08:35",
+      "depart_time": "08:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "漳州",
+      "arrive_time": "08:55",
+      "depart_time": "08:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "龙岩",
+      "arrive_time": "09:40",
+      "depart_time": "09:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "上杭",
+      "arrive_time": "10:11",
+      "depart_time": "10:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "武平",
+      "arrive_time": "10:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 825.5,
+    "price_first": 387.5,
+    "price_second": 242.5,
+    "price_no_seat": 242.5
+  },
+  "fetched_at": "2026-05-01T07:24:06.260260"
+}

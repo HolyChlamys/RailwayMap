@@ -1,0 +1,52 @@
+{
+  "train_no": "G234",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "岳阳东",
+  "depart_time": "17:13",
+  "arrive_time": "22:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "17:13",
+      "depart_time": "17:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "17:58",
+      "depart_time": "18:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌西",
+      "arrive_time": "19:59",
+      "depart_time": "20:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "21:14",
+      "depart_time": "21:33",
+      "stay_min": "19"
+    },
+    {
+      "seq": 5,
+      "station_name": "岳阳东",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2286.0,
+    "price_first": 1045.0,
+    "price_second": 653.0,
+    "price_no_seat": 653.0
+  },
+  "fetched_at": "2026-05-01T06:07:39.896023"
+}

@@ -1,0 +1,64 @@
+{
+  "train_no": "S7032",
+  "train_type": "S",
+  "depart_station": "长沙",
+  "arrive_station": "常德",
+  "depart_time": "17:13",
+  "arrive_time": "18:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "17:13",
+      "depart_time": "17:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开福寺",
+      "arrive_time": "17:19",
+      "depart_time": "17:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "观沙岭",
+      "arrive_time": "17:25",
+      "depart_time": "17:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "尖山",
+      "arrive_time": "17:31",
+      "depart_time": "17:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宁乡",
+      "arrive_time": "17:53",
+      "depart_time": "17:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "益阳",
+      "arrive_time": "18:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "常德",
+      "arrive_time": "18:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 75.0,
+    "price_no_seat": 75.0
+  },
+  "fetched_at": "2026-05-01T11:13:48.480381"
+}

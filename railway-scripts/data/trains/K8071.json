@@ -1,0 +1,56 @@
+{
+  "train_no": "K8071",
+  "train_type": "K",
+  "depart_station": "襄阳",
+  "arrive_station": "武昌",
+  "depart_time": "09:08",
+  "arrive_time": "12:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枣阳",
+      "arrive_time": "09:50",
+      "depart_time": "09:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "随州",
+      "arrive_time": "10:43",
+      "depart_time": "10:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "安陆",
+      "arrive_time": "11:22",
+      "depart_time": "11:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "云梦",
+      "arrive_time": "11:44",
+      "depart_time": "11:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "武昌",
+      "arrive_time": "12:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 50.5
+  },
+  "fetched_at": "2026-05-01T10:34:51.882055"
+}

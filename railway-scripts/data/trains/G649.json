@@ -1,0 +1,80 @@
+{
+  "train_no": "G649",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "广州",
+  "depart_time": "09:04",
+  "arrive_time": "14:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "09:04",
+      "depart_time": "09:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "六安",
+      "arrive_time": "09:30",
+      "depart_time": "09:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金寨",
+      "arrive_time": "09:51",
+      "depart_time": "09:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武汉",
+      "arrive_time": "11:01",
+      "depart_time": "11:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "咸宁北",
+      "arrive_time": "11:42",
+      "depart_time": "11:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙南",
+      "arrive_time": "12:52",
+      "depart_time": "12:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "郴州西",
+      "arrive_time": "14:00",
+      "depart_time": "14:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "韶关",
+      "arrive_time": "14:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "广州",
+      "arrive_time": "14:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2483.0,
+    "price_first": 1131.0,
+    "price_second": 709.0,
+    "price_no_seat": 709.0
+  },
+  "fetched_at": "2026-05-01T08:00:21.576615"
+}

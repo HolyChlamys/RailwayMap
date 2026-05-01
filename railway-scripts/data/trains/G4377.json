@@ -1,0 +1,38 @@
+{
+  "train_no": "G4377",
+  "train_type": "G",
+  "depart_station": "北京朝阳",
+  "arrive_station": "长春西",
+  "depart_time": "01:35",
+  "arrive_time": "04:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京朝阳",
+      "arrive_time": "01:35",
+      "depart_time": "01:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳北",
+      "arrive_time": "04:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长春西",
+      "arrive_time": "04:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1915.0,
+    "price_first": 875.0,
+    "price_second": 547.0,
+    "price_no_seat": 547.0
+  },
+  "fetched_at": "2026-05-01T07:03:44.280750"
+}

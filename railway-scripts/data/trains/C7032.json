@@ -1,0 +1,58 @@
+{
+  "train_no": "C7032",
+  "train_type": "C",
+  "depart_station": "深圳",
+  "arrive_station": "广州",
+  "depart_time": "10:16",
+  "arrive_time": "11:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "10:16",
+      "depart_time": "10:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "平湖",
+      "arrive_time": "10:30",
+      "depart_time": "10:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "樟木头",
+      "arrive_time": "10:43",
+      "depart_time": "10:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州新塘",
+      "arrive_time": "11:11",
+      "depart_time": "11:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州东",
+      "arrive_time": "11:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州",
+      "arrive_time": "11:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 99.5,
+    "price_second": 79.5,
+    "price_no_seat": 79.5
+  },
+  "fetched_at": "2026-05-01T02:03:48.905790"
+}

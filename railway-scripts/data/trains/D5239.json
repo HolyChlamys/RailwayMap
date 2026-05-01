@@ -1,0 +1,44 @@
+{
+  "train_no": "D5239",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "云梦东",
+  "depart_time": "14:56",
+  "arrive_time": "15:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "14:56",
+      "depart_time": "14:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天河机场",
+      "arrive_time": "15:10",
+      "depart_time": "15:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "孝感东",
+      "arrive_time": "15:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "云梦东",
+      "arrive_time": "15:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 63.0,
+    "price_second": 39.0,
+    "price_no_seat": 39.0
+  },
+  "fetched_at": "2026-05-01T04:03:04.482167"
+}

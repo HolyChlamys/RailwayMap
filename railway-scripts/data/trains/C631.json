@@ -1,0 +1,52 @@
+{
+  "train_no": "C631",
+  "train_type": "C",
+  "depart_station": "宁波",
+  "arrive_station": "义乌",
+  "depart_time": "09:38",
+  "arrive_time": "10:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "09:38",
+      "depart_time": "09:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "奉化",
+      "arrive_time": "10:04",
+      "depart_time": "10:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "溪口",
+      "arrive_time": "10:22",
+      "depart_time": "10:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "嵊州新昌",
+      "arrive_time": "10:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "义乌",
+      "arrive_time": "10:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 277.0,
+    "price_first": 127.0,
+    "price_second": 79.0,
+    "price_no_seat": 79.0
+  },
+  "fetched_at": "2026-05-01T01:48:42.374767"
+}

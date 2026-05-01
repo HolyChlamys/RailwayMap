@@ -1,0 +1,44 @@
+{
+  "train_no": "D8241",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "玉林北",
+  "depart_time": "08:04",
+  "arrive_time": "08:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "08:04",
+      "depart_time": "08:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "横州",
+      "arrive_time": "08:39",
+      "depart_time": "08:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兴业南",
+      "arrive_time": "08:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "玉林北",
+      "arrive_time": "08:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 184.0,
+    "price_second": 115.0,
+    "price_no_seat": 115.0
+  },
+  "fetched_at": "2026-05-01T04:52:03.361489"
+}

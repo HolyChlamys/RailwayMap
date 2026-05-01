@@ -1,0 +1,51 @@
+{
+  "train_no": "C9948",
+  "train_type": "C",
+  "depart_station": "深圳北",
+  "arrive_station": "汕头",
+  "depart_time": "00:55",
+  "arrive_time": "03:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "00:55",
+      "depart_time": "00:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "葵潭",
+      "arrive_time": "01:59",
+      "depart_time": "02:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "普宁",
+      "arrive_time": "02:13",
+      "depart_time": "02:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "潮汕",
+      "arrive_time": "02:35",
+      "depart_time": "02:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "汕头",
+      "arrive_time": "03:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 237.0,
+    "price_second": 148.0,
+    "price_no_seat": 148.0
+  },
+  "fetched_at": "2026-05-01T02:55:02.584421"
+}

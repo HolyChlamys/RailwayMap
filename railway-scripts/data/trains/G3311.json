@@ -1,0 +1,87 @@
+{
+  "train_no": "G3311",
+  "train_type": "G",
+  "depart_station": "日照",
+  "arrive_station": "郑州东",
+  "depart_time": "15:08",
+  "arrive_time": "18:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "日照",
+      "arrive_time": "15:08",
+      "depart_time": "15:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "临沂北",
+      "arrive_time": "15:48",
+      "depart_time": "15:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "蒙山",
+      "arrive_time": "16:10",
+      "depart_time": "16:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "曲阜东",
+      "arrive_time": "16:49",
+      "depart_time": "16:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "嘉祥北",
+      "arrive_time": "17:17",
+      "depart_time": "17:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "巨野北",
+      "arrive_time": "17:30",
+      "depart_time": "17:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "菏泽东",
+      "arrive_time": "17:50",
+      "depart_time": "17:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "庄寨",
+      "arrive_time": "18:05",
+      "depart_time": "18:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "兰考南",
+      "arrive_time": "18:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "郑州东",
+      "arrive_time": "18:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1095.0,
+    "price_first": 531.0,
+    "price_second": 333.0,
+    "price_no_seat": 333.0
+  },
+  "fetched_at": "2026-05-01T06:34:28.774792"
+}

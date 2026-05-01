@@ -1,0 +1,43 @@
+{
+  "train_no": "C3472",
+  "train_type": "C",
+  "depart_station": "雅安",
+  "arrive_station": "成都西",
+  "depart_time": "23:00",
+  "arrive_time": "23:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "雅安",
+      "arrive_time": "23:00",
+      "depart_time": "23:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大邑",
+      "arrive_time": "23:39",
+      "depart_time": "23:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "温江",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "成都西",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 52.0,
+    "price_no_seat": 52.0
+  },
+  "fetched_at": "2026-05-01T01:00:13.204665"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "D7568",
+  "train_type": "D",
+  "depart_station": "福田",
+  "arrive_station": "广州",
+  "depart_time": "07:00",
+  "arrive_time": "08:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福田",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "07:12",
+      "depart_time": "07:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州东",
+      "arrive_time": "08:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州",
+      "arrive_time": "08:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 331.0,
+    "price_first": 123.0,
+    "price_second": 98.0,
+    "price_no_seat": 98.0
+  },
+  "fetched_at": "2026-05-01T04:40:34.887654"
+}

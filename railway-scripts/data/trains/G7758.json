@@ -1,0 +1,94 @@
+{
+  "train_no": "G7758",
+  "train_type": "G",
+  "depart_station": "亳州南",
+  "arrive_station": "杭州东",
+  "depart_time": "07:43",
+  "arrive_time": "12:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "亳州南",
+      "arrive_time": "07:43",
+      "depart_time": "07:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太和东",
+      "arrive_time": "08:02",
+      "depart_time": "08:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "阜阳西",
+      "arrive_time": "08:17",
+      "depart_time": "08:23",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "凤台南",
+      "arrive_time": "08:47",
+      "depart_time": "08:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥",
+      "arrive_time": "09:25",
+      "depart_time": "09:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "10:22",
+      "depart_time": "10:27",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "溧水",
+      "arrive_time": "10:44",
+      "depart_time": "10:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "瓦屋山",
+      "arrive_time": "10:55",
+      "depart_time": "11:00",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "宜兴",
+      "arrive_time": "11:19",
+      "depart_time": "11:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "湖州",
+      "arrive_time": "11:37",
+      "depart_time": "11:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "杭州东",
+      "arrive_time": "12:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1245.0,
+    "price_first": 621.0,
+    "price_second": 388.0,
+    "price_no_seat": 388.0
+  },
+  "fetched_at": "2026-05-01T08:35:40.406158"
+}

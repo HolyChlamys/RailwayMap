@@ -1,0 +1,44 @@
+{
+  "train_no": "D9299",
+  "train_type": "D",
+  "depart_station": "麻城北",
+  "arrive_station": "仙桃",
+  "depart_time": "08:18",
+  "arrive_time": "09:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "麻城北",
+      "arrive_time": "08:18",
+      "depart_time": "08:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汉川",
+      "arrive_time": "09:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "仙桃",
+      "arrive_time": "09:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 144.0,
+    "price_second": 91.0,
+    "price_no_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T05:12:32.161154"
+}

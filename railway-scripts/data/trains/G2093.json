@@ -1,0 +1,164 @@
+{
+  "train_no": "G2093",
+  "train_type": "G",
+  "depart_station": "兰州西",
+  "arrive_station": "青岛北",
+  "depart_time": "10:13",
+  "arrive_time": "21:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "10:13",
+      "depart_time": "10:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "定西北",
+      "arrive_time": "10:43",
+      "depart_time": "10:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "通渭",
+      "arrive_time": "11:09",
+      "depart_time": "11:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "秦安",
+      "arrive_time": "11:31",
+      "depart_time": "11:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "天水南",
+      "arrive_time": "11:47",
+      "depart_time": "11:54",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "宝鸡南",
+      "arrive_time": "12:35",
+      "depart_time": "12:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "杨陵南",
+      "arrive_time": "13:03",
+      "depart_time": "13:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "西安北",
+      "arrive_time": "13:34",
+      "depart_time": "13:41",
+      "stay_min": "7"
+    },
+    {
+      "seq": 9,
+      "station_name": "灵宝西",
+      "arrive_time": "14:21",
+      "depart_time": "14:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "洛阳龙门",
+      "arrive_time": "15:04",
+      "depart_time": "15:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "郑州东",
+      "arrive_time": "15:44",
+      "depart_time": "15:50",
+      "stay_min": "6"
+    },
+    {
+      "seq": 12,
+      "station_name": "邯郸东",
+      "arrive_time": "16:43",
+      "depart_time": "16:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "邢台东",
+      "arrive_time": "17:01",
+      "depart_time": "17:12",
+      "stay_min": "11"
+    },
+    {
+      "seq": 14,
+      "station_name": "石家庄",
+      "arrive_time": "17:42",
+      "depart_time": "17:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "衡水北",
+      "arrive_time": "18:23",
+      "depart_time": "18:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "平原东",
+      "arrive_time": "18:58",
+      "depart_time": "19:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "济南东",
+      "arrive_time": "19:26",
+      "depart_time": "19:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "章丘北",
+      "arrive_time": "19:40",
+      "depart_time": "19:47",
+      "stay_min": "7"
+    },
+    {
+      "seq": 19,
+      "station_name": "淄博北",
+      "arrive_time": "20:02",
+      "depart_time": "20:11",
+      "stay_min": "9"
+    },
+    {
+      "seq": 20,
+      "station_name": "潍坊北",
+      "arrive_time": "20:39",
+      "depart_time": "20:44",
+      "stay_min": "5"
+    },
+    {
+      "seq": 21,
+      "station_name": "青岛北",
+      "arrive_time": "21:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3365.0,
+    "price_first": 1601.0,
+    "price_second": 1000.0,
+    "price_no_seat": 1000.0
+  },
+  "fetched_at": "2026-05-01T06:01:34.501894"
+}

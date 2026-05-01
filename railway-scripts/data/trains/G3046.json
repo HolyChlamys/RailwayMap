@@ -1,0 +1,80 @@
+{
+  "train_no": "G3046",
+  "train_type": "G",
+  "depart_station": "广州东",
+  "arrive_station": "福州南",
+  "depart_time": "12:45",
+  "arrive_time": "17:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "12:45",
+      "depart_time": "12:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "13:10",
+      "depart_time": "13:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州南",
+      "arrive_time": "13:40",
+      "depart_time": "13:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "14:11",
+      "depart_time": "14:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汕头",
+      "arrive_time": "14:56",
+      "depart_time": "14:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "漳州",
+      "arrive_time": "16:04",
+      "depart_time": "16:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "厦门北",
+      "arrive_time": "16:24",
+      "depart_time": "16:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "莆田",
+      "arrive_time": "17:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "福州南",
+      "arrive_time": "17:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1890.0,
+    "price_first": 852.0,
+    "price_second": 540.0,
+    "price_no_seat": 540.0
+  },
+  "fetched_at": "2026-05-01T06:27:11.910551"
+}

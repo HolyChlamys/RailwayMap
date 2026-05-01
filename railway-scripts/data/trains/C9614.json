@@ -1,0 +1,80 @@
+{
+  "train_no": "C9614",
+  "train_type": "C",
+  "depart_station": "厦门",
+  "arrive_station": "南昌东",
+  "depart_time": "13:36",
+  "arrive_time": "17:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "13:36",
+      "depart_time": "13:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "14:16",
+      "depart_time": "14:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南靖",
+      "arrive_time": "14:34",
+      "depart_time": "14:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙岩",
+      "arrive_time": "15:13",
+      "depart_time": "15:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "古田会址",
+      "arrive_time": "15:31",
+      "depart_time": "15:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "冠豸山南",
+      "arrive_time": "15:52",
+      "depart_time": "15:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长汀南",
+      "arrive_time": "16:12",
+      "depart_time": "16:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "吉安西",
+      "arrive_time": "17:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "南昌东",
+      "arrive_time": "17:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1061.5,
+    "price_first": 560.0,
+    "price_second": 350.0,
+    "price_no_seat": 350.0
+  },
+  "fetched_at": "2026-05-01T02:50:51.375793"
+}

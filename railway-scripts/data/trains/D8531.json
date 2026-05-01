@@ -1,0 +1,44 @@
+{
+  "train_no": "D8531",
+  "train_type": "D",
+  "depart_station": "哈尔滨",
+  "arrive_station": "牡丹江",
+  "depart_time": "10:24",
+  "arrive_time": "11:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨",
+      "arrive_time": "10:24",
+      "depart_time": "10:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "一面坡北",
+      "arrive_time": "11:17",
+      "depart_time": "11:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "亚布力西",
+      "arrive_time": "11:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "牡丹江",
+      "arrive_time": "11:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 178.0,
+    "price_second": 111.0,
+    "price_no_seat": 111.0
+  },
+  "fetched_at": "2026-05-01T04:59:11.228960"
+}

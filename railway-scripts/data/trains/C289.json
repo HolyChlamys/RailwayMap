@@ -1,0 +1,51 @@
+{
+  "train_no": "C289",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "西双版纳",
+  "depart_time": "06:54",
+  "arrive_time": "10:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "06:54",
+      "depart_time": "06:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆明南",
+      "arrive_time": "07:13",
+      "depart_time": "07:20",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "玉溪",
+      "arrive_time": "07:57",
+      "depart_time": "08:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "普洱",
+      "arrive_time": "09:50",
+      "depart_time": "09:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "西双版纳",
+      "arrive_time": "10:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 398.0,
+    "price_second": 249.0,
+    "price_no_seat": 249.0
+  },
+  "fetched_at": "2026-05-01T00:46:10.030572"
+}

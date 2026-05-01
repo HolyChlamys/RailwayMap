@@ -1,0 +1,94 @@
+{
+  "train_no": "G1330",
+  "train_type": "G",
+  "depart_station": "广州东",
+  "arrive_station": "厦门",
+  "depart_time": "11:57",
+  "arrive_time": "15:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "11:57",
+      "depart_time": "11:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "12:22",
+      "depart_time": "12:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "罗浮山",
+      "arrive_time": "12:42",
+      "depart_time": "12:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "惠州南",
+      "arrive_time": "12:59",
+      "depart_time": "12:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "惠东",
+      "arrive_time": "13:13",
+      "depart_time": "13:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "汕尾",
+      "arrive_time": "13:40",
+      "depart_time": "13:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "葵潭",
+      "arrive_time": "14:03",
+      "depart_time": "14:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "潮阳",
+      "arrive_time": "14:24",
+      "depart_time": "14:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "潮汕",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "漳州",
+      "arrive_time": "15:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "厦门",
+      "arrive_time": "15:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1188.0,
+    "price_first": 530.0,
+    "price_second": 339.0,
+    "price_no_seat": 339.0
+  },
+  "fetched_at": "2026-05-01T05:39:54.294792"
+}

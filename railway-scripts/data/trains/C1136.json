@@ -1,0 +1,44 @@
+{
+  "train_no": "C1136",
+  "train_type": "C",
+  "depart_station": "通辽",
+  "arrive_station": "沈阳南",
+  "depart_time": "12:59",
+  "arrive_time": "14:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "通辽",
+      "arrive_time": "12:59",
+      "depart_time": "12:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "彰武",
+      "arrive_time": "13:41",
+      "depart_time": "13:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "沈阳",
+      "arrive_time": "14:27",
+      "depart_time": "14:38",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳南",
+      "arrive_time": "14:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 159.0,
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T00:22:03.501883"
+}

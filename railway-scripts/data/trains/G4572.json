@@ -1,0 +1,87 @@
+{
+  "train_no": "G4572",
+  "train_type": "G",
+  "depart_station": "赣州西",
+  "arrive_station": "上海虹桥",
+  "depart_time": "03:18",
+  "arrive_time": "09:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州西",
+      "arrive_time": "03:18",
+      "depart_time": "03:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌东",
+      "arrive_time": "05:02",
+      "depart_time": "05:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "景德镇北",
+      "arrive_time": "05:49",
+      "depart_time": "05:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄山北",
+      "arrive_time": "06:36",
+      "depart_time": "06:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "千岛湖",
+      "arrive_time": "07:13",
+      "depart_time": "07:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "富阳西",
+      "arrive_time": "07:49",
+      "depart_time": "07:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "杭州西",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "盛泽",
+      "arrive_time": "08:45",
+      "depart_time": "08:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "练塘",
+      "arrive_time": "09:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "上海虹桥",
+      "arrive_time": "09:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2008.0,
+    "price_first": 985.0,
+    "price_second": 617.0,
+    "price_no_seat": 617.0
+  },
+  "fetched_at": "2026-05-01T07:09:11.752843"
+}

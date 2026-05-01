@@ -1,0 +1,84 @@
+{
+  "train_no": "K8484",
+  "train_type": "K",
+  "depart_station": "阜阳",
+  "arrive_station": "上海",
+  "depart_time": "19:55",
+  "arrive_time": "06:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜阳",
+      "arrive_time": "19:55",
+      "depart_time": "19:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "利辛西",
+      "arrive_time": "20:29",
+      "depart_time": "20:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "涡阳",
+      "arrive_time": "20:54",
+      "depart_time": "20:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "宿州",
+      "arrive_time": "22:25",
+      "depart_time": "22:47",
+      "stay_min": "22"
+    },
+    {
+      "seq": 5,
+      "station_name": "蚌埠",
+      "arrive_time": "23:46",
+      "depart_time": "23:58",
+      "stay_min": "12"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京",
+      "arrive_time": "01:56",
+      "depart_time": "02:09",
+      "stay_min": "13"
+    },
+    {
+      "seq": 7,
+      "station_name": "常州",
+      "arrive_time": "03:29",
+      "depart_time": "03:34",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "无锡",
+      "arrive_time": "04:01",
+      "depart_time": "04:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "苏州",
+      "arrive_time": "04:33",
+      "depart_time": "04:39",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "上海",
+      "arrive_time": "06:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T10:39:42.246380"
+}

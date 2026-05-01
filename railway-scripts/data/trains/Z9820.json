@@ -1,0 +1,42 @@
+{
+  "train_no": "Z9820",
+  "train_type": "Z",
+  "depart_station": "拉萨",
+  "arrive_station": "西宁",
+  "depart_time": "08:05",
+  "arrive_time": "23:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "拉萨",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "那曲",
+      "arrive_time": "12:08",
+      "depart_time": "12:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "格尔木",
+      "arrive_time": "23:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西宁",
+      "arrive_time": "23:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T11:52:40.203098"
+}

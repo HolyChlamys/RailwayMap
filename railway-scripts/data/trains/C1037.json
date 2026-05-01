@@ -1,0 +1,58 @@
+{
+  "train_no": "C1037",
+  "train_type": "C",
+  "depart_station": "敦化",
+  "arrive_station": "珲春",
+  "depart_time": "06:40",
+  "arrive_time": "07:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "敦化",
+      "arrive_time": "06:40",
+      "depart_time": "06:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大石头南",
+      "arrive_time": "06:52",
+      "depart_time": "06:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "安图西",
+      "arrive_time": "07:11",
+      "depart_time": "07:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "延吉西",
+      "arrive_time": "07:35",
+      "depart_time": "07:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "图们北",
+      "arrive_time": "07:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "珲春",
+      "arrive_time": "07:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 101.0,
+    "price_second": 63.0,
+    "price_no_seat": 63.0
+  },
+  "fetched_at": "2026-05-01T00:20:11.795821"
+}

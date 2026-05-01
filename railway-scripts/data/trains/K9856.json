@@ -1,0 +1,63 @@
+{
+  "train_no": "K9856",
+  "train_type": "K",
+  "depart_station": "塔城",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "23:39",
+  "arrive_time": "05:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "塔城",
+      "arrive_time": "23:39",
+      "depart_time": "23:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "额敏",
+      "arrive_time": "00:12",
+      "depart_time": "00:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "克拉玛依",
+      "arrive_time": "03:26",
+      "depart_time": "03:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "奎屯",
+      "arrive_time": "04:51",
+      "depart_time": "04:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沙湾市",
+      "arrive_time": "05:29",
+      "depart_time": "05:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "石河子",
+      "arrive_time": "05:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "05:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 93.0
+  },
+  "fetched_at": "2026-05-01T10:49:42.024066"
+}

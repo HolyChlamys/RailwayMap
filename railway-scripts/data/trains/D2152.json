@@ -1,0 +1,121 @@
+{
+  "train_no": "D2152",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "威海",
+  "depart_time": "07:24",
+  "arrive_time": "14:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "07:24",
+      "depart_time": "07:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "常熟",
+      "arrive_time": "08:09",
+      "depart_time": "08:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "张家港",
+      "arrive_time": "08:21",
+      "depart_time": "08:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南通西",
+      "arrive_time": "08:39",
+      "depart_time": "08:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "如皋南",
+      "arrive_time": "08:55",
+      "depart_time": "08:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "海安",
+      "arrive_time": "09:08",
+      "depart_time": "09:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "盐城大丰",
+      "arrive_time": "09:33",
+      "depart_time": "09:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "阜宁东",
+      "arrive_time": "10:06",
+      "depart_time": "10:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "滨海港",
+      "arrive_time": "10:23",
+      "depart_time": "10:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "连云港",
+      "arrive_time": "11:04",
+      "depart_time": "11:08",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "日照西",
+      "arrive_time": "11:47",
+      "depart_time": "11:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "青岛西",
+      "arrive_time": "12:20",
+      "depart_time": "12:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "城阳",
+      "arrive_time": "12:59",
+      "depart_time": "13:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "荣成",
+      "arrive_time": "14:15",
+      "depart_time": "14:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "威海",
+      "arrive_time": "14:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 710.0,
+    "price_second": 446.0,
+    "price_no_seat": 446.0
+  },
+  "fetched_at": "2026-05-01T03:11:05.278463"
+}

@@ -1,0 +1,29 @@
+{
+  "train_no": "C6166",
+  "train_type": "C",
+  "depart_station": "泸州",
+  "arrive_station": "成都东",
+  "depart_time": "23:51",
+  "arrive_time": "23:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "泸州",
+      "arrive_time": "23:51",
+      "depart_time": "23:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都东",
+      "arrive_time": "23:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 66.0,
+    "price_no_seat": 66.0
+  },
+  "fetched_at": "2026-05-01T01:46:07.279559"
+}

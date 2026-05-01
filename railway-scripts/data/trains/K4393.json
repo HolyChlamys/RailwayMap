@@ -1,0 +1,56 @@
+{
+  "train_no": "K4393",
+  "train_type": "K",
+  "depart_station": "南昌",
+  "arrive_station": "深圳东",
+  "depart_time": "12:49",
+  "arrive_time": "20:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "12:49",
+      "depart_time": "12:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉安",
+      "arrive_time": "15:29",
+      "depart_time": "15:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兴国",
+      "arrive_time": "16:59",
+      "depart_time": "16:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州",
+      "arrive_time": "18:05",
+      "depart_time": "18:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "龙南",
+      "arrive_time": "20:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳东",
+      "arrive_time": "20:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 149.0
+  },
+  "fetched_at": "2026-05-01T09:53:21.975547"
+}

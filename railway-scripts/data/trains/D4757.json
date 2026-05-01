@@ -1,0 +1,51 @@
+{
+  "train_no": "D4757",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "昆明南",
+  "depart_time": "05:12",
+  "arrive_time": "07:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "05:12",
+      "depart_time": "05:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁",
+      "arrive_time": "05:35",
+      "depart_time": "05:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "百色",
+      "arrive_time": "06:54",
+      "depart_time": "06:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "富宁",
+      "arrive_time": "07:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明南",
+      "arrive_time": "07:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 434.0,
+    "price_second": 271.5,
+    "price_no_seat": 271.5
+  },
+  "fetched_at": "2026-05-01T03:56:36.668892"
+}

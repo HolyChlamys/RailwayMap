@@ -1,0 +1,52 @@
+{
+  "train_no": "G9909",
+  "train_type": "G",
+  "depart_station": "北京西",
+  "arrive_station": "石家庄",
+  "depart_time": "00:32",
+  "arrive_time": "01:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "00:32",
+      "depart_time": "00:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "涿州东",
+      "arrive_time": "01:02",
+      "depart_time": "01:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "高碑店东",
+      "arrive_time": "01:14",
+      "depart_time": "01:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "保定东",
+      "arrive_time": "01:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "石家庄",
+      "arrive_time": "01:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 541.0,
+    "price_first": 247.0,
+    "price_second": 155.0,
+    "price_no_seat": 155.0
+  },
+  "fetched_at": "2026-05-01T09:27:50.605550"
+}

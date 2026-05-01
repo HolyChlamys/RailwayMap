@@ -1,0 +1,45 @@
+{
+  "train_no": "G9135",
+  "train_type": "G",
+  "depart_station": "鞍山西",
+  "arrive_station": "沈阳",
+  "depart_time": "13:59",
+  "arrive_time": "14:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "鞍山西",
+      "arrive_time": "13:59",
+      "depart_time": "13:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "辽阳",
+      "arrive_time": "14:12",
+      "depart_time": "14:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沈阳南",
+      "arrive_time": "14:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳",
+      "arrive_time": "14:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 116.0,
+    "price_first": 59.0,
+    "price_second": 36.5,
+    "price_no_seat": 36.5
+  },
+  "fetched_at": "2026-05-01T09:06:49.649290"
+}

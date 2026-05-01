@@ -1,0 +1,37 @@
+{
+  "train_no": "D9628",
+  "train_type": "D",
+  "depart_station": "南城",
+  "arrive_station": "南昌西",
+  "depart_time": "08:21",
+  "arrive_time": "08:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南城",
+      "arrive_time": "08:21",
+      "depart_time": "08:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚州",
+      "arrive_time": "08:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌西",
+      "arrive_time": "08:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 88.0,
+    "price_second": 55.0,
+    "price_no_seat": 55.0
+  },
+  "fetched_at": "2026-05-01T05:20:24.519320"
+}

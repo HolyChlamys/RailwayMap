@@ -1,0 +1,45 @@
+{
+  "train_no": "D2511",
+  "train_type": "D",
+  "depart_station": "大同南",
+  "arrive_station": "西安北",
+  "depart_time": "08:00",
+  "arrive_time": "10:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大同南",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太原",
+      "arrive_time": "09:32",
+      "depart_time": "09:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "临汾西",
+      "arrive_time": "10:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安北",
+      "arrive_time": "10:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1180.0,
+    "price_first": 552.0,
+    "price_second": 345.0,
+    "price_no_seat": 345.0
+  },
+  "fetched_at": "2026-05-01T03:17:41.510559"
+}

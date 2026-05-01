@@ -1,0 +1,44 @@
+{
+  "train_no": "D9307",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "宜昌东",
+  "depart_time": "15:05",
+  "arrive_time": "16:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "15:05",
+      "depart_time": "15:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天门南",
+      "arrive_time": "15:42",
+      "depart_time": "15:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "荆州",
+      "arrive_time": "16:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宜昌东",
+      "arrive_time": "16:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 207.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T05:12:46.869572"
+}

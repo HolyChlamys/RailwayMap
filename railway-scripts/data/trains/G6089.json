@@ -1,0 +1,108 @@
+{
+  "train_no": "G6089",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "汕头",
+  "depart_time": "15:31",
+  "arrive_time": "21:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "15:31",
+      "depart_time": "15:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲西",
+      "arrive_time": "15:46",
+      "depart_time": "15:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州西",
+      "arrive_time": "16:39",
+      "depart_time": "16:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "英德西",
+      "arrive_time": "17:26",
+      "depart_time": "17:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "18:06",
+      "depart_time": "18:11",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "光明城",
+      "arrive_time": "18:37",
+      "depart_time": "18:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳北",
+      "arrive_time": "18:49",
+      "depart_time": "18:55",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "深圳坪山",
+      "arrive_time": "19:12",
+      "depart_time": "19:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "惠阳",
+      "arrive_time": "19:23",
+      "depart_time": "19:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "汕尾",
+      "arrive_time": "19:54",
+      "depart_time": "19:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "潮阳",
+      "arrive_time": "20:32",
+      "depart_time": "20:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "潮汕",
+      "arrive_time": "20:47",
+      "depart_time": "20:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "汕头",
+      "arrive_time": "21:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2039.5,
+    "price_first": 940.5,
+    "price_second": 599.5,
+    "price_no_seat": 599.5
+  },
+  "fetched_at": "2026-05-01T07:48:29.611568"
+}

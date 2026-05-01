@@ -1,0 +1,65 @@
+{
+  "train_no": "G7425",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "九华山",
+  "depart_time": "14:55",
+  "arrive_time": "17:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "14:55",
+      "depart_time": "14:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州南",
+      "arrive_time": "15:06",
+      "depart_time": "15:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "富阳",
+      "arrive_time": "15:29",
+      "depart_time": "15:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "桐庐",
+      "arrive_time": "15:56",
+      "depart_time": "15:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "建德",
+      "arrive_time": "16:13",
+      "depart_time": "16:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黄山北",
+      "arrive_time": "17:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "九华山",
+      "arrive_time": "17:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 301.0,
+    "price_second": 188.0,
+    "price_no_seat": 188.0
+  },
+  "fetched_at": "2026-05-01T08:27:01.309111"
+}

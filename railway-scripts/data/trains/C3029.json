@@ -1,0 +1,94 @@
+{
+  "train_no": "C3029",
+  "train_type": "C",
+  "depart_station": "亳州南",
+  "arrive_station": "上海南",
+  "depart_time": "17:42",
+  "arrive_time": "22:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "亳州南",
+      "arrive_time": "17:42",
+      "depart_time": "17:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太和东",
+      "arrive_time": "18:01",
+      "depart_time": "18:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "阜阳西",
+      "arrive_time": "18:16",
+      "depart_time": "18:20",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "颍上北",
+      "arrive_time": "18:36",
+      "depart_time": "18:41",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "凤台南",
+      "arrive_time": "18:54",
+      "depart_time": "18:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "合肥南",
+      "arrive_time": "19:44",
+      "depart_time": "19:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "芜湖",
+      "arrive_time": "20:25",
+      "depart_time": "20:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "宣城",
+      "arrive_time": "20:53",
+      "depart_time": "20:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "安吉",
+      "arrive_time": "21:18",
+      "depart_time": "21:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "湖州东",
+      "arrive_time": "21:45",
+      "depart_time": "21:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "上海南",
+      "arrive_time": "22:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1450.5,
+    "price_first": 745.5,
+    "price_second": 463.5,
+    "price_no_seat": 463.5
+  },
+  "fetched_at": "2026-05-01T00:49:06.860503"
+}

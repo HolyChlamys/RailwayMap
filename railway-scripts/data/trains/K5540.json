@@ -1,0 +1,35 @@
+{
+  "train_no": "K5540",
+  "train_type": "K",
+  "depart_station": "菏泽",
+  "arrive_station": "聊城",
+  "depart_time": "11:20",
+  "arrive_time": "12:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "菏泽",
+      "arrive_time": "11:20",
+      "depart_time": "11:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "台前",
+      "arrive_time": "12:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "聊城",
+      "arrive_time": "12:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 41.5
+  },
+  "fetched_at": "2026-05-01T10:12:59.044929"
+}

@@ -1,0 +1,35 @@
+{
+  "train_no": "K6749",
+  "train_type": "K",
+  "depart_station": "阿克苏",
+  "arrive_station": "阿拉尔",
+  "depart_time": "14:48",
+  "arrive_time": "16:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阿克苏",
+      "arrive_time": "14:48",
+      "depart_time": "14:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阿瓦提",
+      "arrive_time": "16:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阿拉尔",
+      "arrive_time": "16:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 23.5
+  },
+  "fetched_at": "2026-05-01T10:25:54.533262"
+}

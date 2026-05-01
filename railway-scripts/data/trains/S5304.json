@@ -1,0 +1,50 @@
+{
+  "train_no": "S5304",
+  "train_type": "S",
+  "depart_station": "贵阳北",
+  "arrive_station": "花溪大学城",
+  "depart_time": "07:44",
+  "arrive_time": "08:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "07:44",
+      "depart_time": "07:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "白云西",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金阳",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵安",
+      "arrive_time": "08:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "花溪大学城",
+      "arrive_time": "08:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 32.0,
+    "price_no_seat": 32.0
+  },
+  "fetched_at": "2026-05-01T11:05:24.786209"
+}

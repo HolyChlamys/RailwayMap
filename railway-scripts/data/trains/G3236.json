@@ -1,0 +1,101 @@
+{
+  "train_no": "G3236",
+  "train_type": "G",
+  "depart_station": "汉口",
+  "arrive_station": "郑州东",
+  "depart_time": "17:52",
+  "arrive_time": "22:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "17:52",
+      "depart_time": "17:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感东",
+      "arrive_time": "18:18",
+      "depart_time": "18:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "安陆西",
+      "arrive_time": "18:38",
+      "depart_time": "18:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "随州南",
+      "arrive_time": "18:55",
+      "depart_time": "18:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "枣阳",
+      "arrive_time": "19:17",
+      "depart_time": "19:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "襄阳东",
+      "arrive_time": "19:34",
+      "depart_time": "20:00",
+      "stay_min": "26"
+    },
+    {
+      "seq": 7,
+      "station_name": "南阳东",
+      "arrive_time": "20:34",
+      "depart_time": "20:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "平顶山西",
+      "arrive_time": "21:04",
+      "depart_time": "21:11",
+      "stay_min": "7"
+    },
+    {
+      "seq": 9,
+      "station_name": "禹州",
+      "arrive_time": "21:29",
+      "depart_time": "21:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "长葛北",
+      "arrive_time": "21:42",
+      "depart_time": "21:49",
+      "stay_min": "7"
+    },
+    {
+      "seq": 11,
+      "station_name": "郑州航空港",
+      "arrive_time": "22:02",
+      "depart_time": "22:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "郑州东",
+      "arrive_time": "22:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1093.0,
+    "price_first": 583.0,
+    "price_second": 364.0,
+    "price_no_seat": 364.0
+  },
+  "fetched_at": "2026-05-01T06:32:32.576678"
+}

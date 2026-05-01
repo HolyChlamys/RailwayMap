@@ -1,0 +1,52 @@
+{
+  "train_no": "G6932",
+  "train_type": "G",
+  "depart_station": "烟台",
+  "arrive_station": "聊城西",
+  "depart_time": "07:16",
+  "arrive_time": "10:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "烟台",
+      "arrive_time": "07:16",
+      "depart_time": "07:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南东",
+      "arrive_time": "09:07",
+      "depart_time": "09:11",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "济南西",
+      "arrive_time": "09:34",
+      "depart_time": "09:39",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "长清",
+      "arrive_time": "09:53",
+      "depart_time": "09:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "聊城西",
+      "arrive_time": "10:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 926.0,
+    "price_first": 448.0,
+    "price_second": 280.0,
+    "price_no_seat": 280.0
+  },
+  "fetched_at": "2026-05-01T08:13:03.417422"
+}

@@ -1,0 +1,66 @@
+{
+  "train_no": "G1357",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "南昌西",
+  "depart_time": "20:18",
+  "arrive_time": "22:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "20:18",
+      "depart_time": "20:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "诸暨",
+      "arrive_time": "20:49",
+      "depart_time": "20:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "义乌",
+      "arrive_time": "21:06",
+      "depart_time": "21:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "金华",
+      "arrive_time": "21:30",
+      "depart_time": "21:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衢州",
+      "arrive_time": "21:53",
+      "depart_time": "21:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "上饶",
+      "arrive_time": "22:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南昌西",
+      "arrive_time": "22:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1105.0,
+    "price_first": 505.0,
+    "price_second": 316.0,
+    "price_no_seat": 316.0
+  },
+  "fetched_at": "2026-05-01T05:40:43.383944"
+}

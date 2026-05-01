@@ -1,0 +1,58 @@
+{
+  "train_no": "D9537",
+  "train_type": "D",
+  "depart_station": "南通",
+  "arrive_station": "南京",
+  "depart_time": "13:57",
+  "arrive_time": "16:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南通",
+      "arrive_time": "13:57",
+      "depart_time": "13:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "如皋",
+      "arrive_time": "14:24",
+      "depart_time": "14:32",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "姜堰",
+      "arrive_time": "14:58",
+      "depart_time": "15:07",
+      "stay_min": "9"
+    },
+    {
+      "seq": 4,
+      "station_name": "泰州",
+      "arrive_time": "15:17",
+      "depart_time": "15:23",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "扬州",
+      "arrive_time": "15:55",
+      "depart_time": "16:04",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京",
+      "arrive_time": "16:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 169.0,
+    "price_second": 106.0,
+    "price_no_seat": 106.0
+  },
+  "fetched_at": "2026-05-01T05:17:52.492548"
+}

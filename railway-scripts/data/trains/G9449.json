@@ -1,0 +1,45 @@
+{
+  "train_no": "G9449",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "淮北",
+  "depart_time": "02:05",
+  "arrive_time": "05:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "02:05",
+      "depart_time": "02:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "03:17",
+      "depart_time": "03:21",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "04:35",
+      "depart_time": "04:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "淮北",
+      "arrive_time": "05:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1320.0,
+    "price_first": 606.0,
+    "price_second": 379.0,
+    "price_no_seat": 379.0
+  },
+  "fetched_at": "2026-05-01T09:14:23.264984"
+}

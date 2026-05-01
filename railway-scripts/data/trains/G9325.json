@@ -1,0 +1,66 @@
+{
+  "train_no": "G9325",
+  "train_type": "G",
+  "depart_station": "临沂北",
+  "arrive_station": "济南东",
+  "depart_time": "08:50",
+  "arrive_time": "10:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沂北",
+      "arrive_time": "08:50",
+      "depart_time": "08:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "费县北",
+      "arrive_time": "09:03",
+      "depart_time": "09:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "蒙山",
+      "arrive_time": "09:16",
+      "depart_time": "09:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "泗水南",
+      "arrive_time": "09:31",
+      "depart_time": "09:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "曲阜东",
+      "arrive_time": "09:46",
+      "depart_time": "09:57",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南西",
+      "arrive_time": "10:29",
+      "depart_time": "10:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "济南东",
+      "arrive_time": "10:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 469.0,
+    "price_first": 232.0,
+    "price_second": 145.0,
+    "price_no_seat": 145.0
+  },
+  "fetched_at": "2026-05-01T09:11:36.842797"
+}

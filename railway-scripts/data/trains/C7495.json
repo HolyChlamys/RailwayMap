@@ -1,0 +1,45 @@
+{
+  "train_no": "C7495",
+  "train_type": "C",
+  "depart_station": "汕头",
+  "arrive_station": "福田",
+  "depart_time": "03:06",
+  "arrive_time": "04:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "03:06",
+      "depart_time": "03:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠来",
+      "arrive_time": "03:35",
+      "depart_time": "03:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汕尾",
+      "arrive_time": "04:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福田",
+      "arrive_time": "04:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 836.0,
+    "price_first": 384.0,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T02:16:41.428195"
+}

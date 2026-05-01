@@ -1,0 +1,30 @@
+{
+  "train_no": "C5214",
+  "train_type": "C",
+  "depart_station": "抚州",
+  "arrive_station": "南昌西",
+  "depart_time": "22:26",
+  "arrive_time": "22:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "抚州",
+      "arrive_time": "22:26",
+      "depart_time": "22:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌西",
+      "arrive_time": "22:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 60.0,
+    "price_second": 37.0,
+    "price_no_seat": 37.0
+  },
+  "fetched_at": "2026-05-01T01:29:48.018050"
+}

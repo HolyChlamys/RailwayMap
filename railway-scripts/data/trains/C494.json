@@ -1,0 +1,94 @@
+{
+  "train_no": "C494",
+  "train_type": "C",
+  "depart_station": "上海南",
+  "arrive_station": "庆元",
+  "depart_time": "10:10",
+  "arrive_time": "16:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "10:10",
+      "depart_time": "10:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉兴",
+      "arrive_time": "10:54",
+      "depart_time": "10:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "海宁",
+      "arrive_time": "11:11",
+      "depart_time": "11:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州",
+      "arrive_time": "11:51",
+      "depart_time": "11:57",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "义乌",
+      "arrive_time": "12:59",
+      "depart_time": "13:03",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "金华",
+      "arrive_time": "13:34",
+      "depart_time": "13:38",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "衢州",
+      "arrive_time": "14:22",
+      "depart_time": "14:38",
+      "stay_min": "16"
+    },
+    {
+      "seq": 8,
+      "station_name": "遂昌",
+      "arrive_time": "15:12",
+      "depart_time": "15:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "松阳",
+      "arrive_time": "15:29",
+      "depart_time": "15:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "龙泉市",
+      "arrive_time": "16:03",
+      "depart_time": "16:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "庆元",
+      "arrive_time": "16:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 678.0,
+    "price_first": 310.0,
+    "price_second": 194.0,
+    "price_no_seat": 194.0
+  },
+  "fetched_at": "2026-05-01T01:22:16.085018"
+}

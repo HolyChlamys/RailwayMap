@@ -1,0 +1,57 @@
+{
+  "train_no": "C7923",
+  "train_type": "C",
+  "depart_station": "梅州西",
+  "arrive_station": "深圳北",
+  "depart_time": "00:53",
+  "arrive_time": "01:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梅州西",
+      "arrive_time": "00:53",
+      "depart_time": "00:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴宁南",
+      "arrive_time": "01:07",
+      "depart_time": "01:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "五华",
+      "arrive_time": "01:18",
+      "depart_time": "01:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙川西",
+      "arrive_time": "01:38",
+      "depart_time": "01:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "河源东",
+      "arrive_time": "01:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "01:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 50.0,
+    "price_no_seat": 50.0
+  },
+  "fetched_at": "2026-05-01T02:27:59.032216"
+}

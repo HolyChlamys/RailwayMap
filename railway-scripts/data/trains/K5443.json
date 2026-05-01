@@ -1,0 +1,63 @@
+{
+  "train_no": "K5443",
+  "train_type": "K",
+  "depart_station": "西安",
+  "arrive_station": "宝鸡",
+  "depart_time": "10:15",
+  "arrive_time": "12:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "10:15",
+      "depart_time": "10:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳",
+      "arrive_time": "10:36",
+      "depart_time": "10:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兴平",
+      "arrive_time": "10:56",
+      "depart_time": "10:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武功",
+      "arrive_time": "11:25",
+      "depart_time": "11:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杨陵",
+      "arrive_time": "11:41",
+      "depart_time": "11:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "蔡家坡",
+      "arrive_time": "12:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宝鸡",
+      "arrive_time": "12:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T10:10:32.721956"
+}

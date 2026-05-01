@@ -1,0 +1,115 @@
+{
+  "train_no": "G2018",
+  "train_type": "G",
+  "depart_station": "青岛北",
+  "arrive_station": "郑州航空港",
+  "depart_time": "16:56",
+  "arrive_time": "22:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "16:56",
+      "depart_time": "16:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "胶州北",
+      "arrive_time": "17:17",
+      "depart_time": "17:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊",
+      "arrive_time": "17:57",
+      "depart_time": "18:00",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博",
+      "arrive_time": "18:37",
+      "depart_time": "18:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "济南",
+      "arrive_time": "19:25",
+      "depart_time": "19:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "长清",
+      "arrive_time": "19:46",
+      "depart_time": "19:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "茌平南",
+      "arrive_time": "20:03",
+      "depart_time": "20:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "聊城西",
+      "arrive_time": "20:18",
+      "depart_time": "20:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "莘县",
+      "arrive_time": "20:32",
+      "depart_time": "20:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "南乐",
+      "arrive_time": "20:47",
+      "depart_time": "20:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "滑浚",
+      "arrive_time": "21:15",
+      "depart_time": "21:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "新乡东",
+      "arrive_time": "21:36",
+      "depart_time": "21:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "郑州东",
+      "arrive_time": "22:05",
+      "depart_time": "22:10",
+      "stay_min": "5"
+    },
+    {
+      "seq": 14,
+      "station_name": "郑州航空港",
+      "arrive_time": "22:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1402.0,
+    "price_first": 646.0,
+    "price_second": 403.0,
+    "price_no_seat": 403.0
+  },
+  "fetched_at": "2026-05-01T05:59:22.493277"
+}

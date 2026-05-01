@@ -1,0 +1,100 @@
+{
+  "train_no": "C5776",
+  "train_type": "C",
+  "depart_station": "峨眉山",
+  "arrive_station": "松潘",
+  "depart_time": "14:49",
+  "arrive_time": "18:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "峨眉山",
+      "arrive_time": "14:49",
+      "depart_time": "14:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乐山",
+      "arrive_time": "15:04",
+      "depart_time": "15:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "眉山东",
+      "arrive_time": "15:26",
+      "depart_time": "15:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "彭山北",
+      "arrive_time": "15:36",
+      "depart_time": "15:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "双流机场",
+      "arrive_time": "15:55",
+      "depart_time": "15:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "成都东",
+      "arrive_time": "16:12",
+      "depart_time": "16:19",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "青白江东",
+      "arrive_time": "16:34",
+      "depart_time": "16:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "三星堆",
+      "arrive_time": "16:44",
+      "depart_time": "16:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "什邡西",
+      "arrive_time": "16:57",
+      "depart_time": "16:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "安州",
+      "arrive_time": "17:17",
+      "depart_time": "17:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "茂县",
+      "arrive_time": "17:41",
+      "depart_time": "17:46",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "松潘",
+      "arrive_time": "18:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 320.0,
+    "price_second": 200.0,
+    "price_no_seat": 200.0
+  },
+  "fetched_at": "2026-05-01T01:38:09.075878"
+}

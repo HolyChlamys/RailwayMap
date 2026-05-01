@@ -1,0 +1,65 @@
+{
+  "train_no": "D288",
+  "train_type": "D",
+  "depart_station": "西安",
+  "arrive_station": "南阳",
+  "depart_time": "09:10",
+  "arrive_time": "13:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "09:10",
+      "depart_time": "09:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "渭南西",
+      "arrive_time": "09:42",
+      "depart_time": "09:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "商洛",
+      "arrive_time": "10:59",
+      "depart_time": "10:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "商南",
+      "arrive_time": "12:03",
+      "depart_time": "12:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西峡",
+      "arrive_time": "12:53",
+      "depart_time": "12:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "镇平",
+      "arrive_time": "13:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南阳",
+      "arrive_time": "13:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 223.0,
+    "price_second": 139.0,
+    "price_no_seat": 139.0
+  },
+  "fetched_at": "2026-05-01T03:25:10.077214"
+}

@@ -1,0 +1,51 @@
+{
+  "train_no": "D5118",
+  "train_type": "D",
+  "depart_station": "宜宾西",
+  "arrive_station": "成都东",
+  "depart_time": "14:17",
+  "arrive_time": "15:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜宾西",
+      "arrive_time": "14:17",
+      "depart_time": "14:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "犍为",
+      "arrive_time": "14:48",
+      "depart_time": "14:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "眉山东",
+      "arrive_time": "15:20",
+      "depart_time": "15:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新津南",
+      "arrive_time": "15:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "15:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 176.0,
+    "price_second": 110.0,
+    "price_no_seat": 110.0
+  },
+  "fetched_at": "2026-05-01T04:00:50.488604"
+}

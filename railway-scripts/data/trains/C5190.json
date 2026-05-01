@@ -1,0 +1,59 @@
+{
+  "train_no": "C5190",
+  "train_type": "C",
+  "depart_station": "赣州西",
+  "arrive_station": "南昌东",
+  "depart_time": "16:25",
+  "arrive_time": "18:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州西",
+      "arrive_time": "16:25",
+      "depart_time": "16:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰和",
+      "arrive_time": "17:14",
+      "depart_time": "17:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吉安西",
+      "arrive_time": "17:28",
+      "depart_time": "17:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "峡江",
+      "arrive_time": "17:52",
+      "depart_time": "17:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "樟树东",
+      "arrive_time": "18:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南昌东",
+      "arrive_time": "18:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 673.0,
+    "price_first": 359.0,
+    "price_second": 224.0,
+    "price_no_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T01:29:08.400061"
+}

@@ -1,0 +1,126 @@
+{
+  "train_no": "T125",
+  "train_type": "T",
+  "depart_station": "东莞东",
+  "arrive_station": "成都西",
+  "depart_time": "11:48",
+  "arrive_time": "17:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东莞东",
+      "arrive_time": "11:48",
+      "depart_time": "11:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠州",
+      "arrive_time": "12:28",
+      "depart_time": "12:33",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "河源",
+      "arrive_time": "13:21",
+      "depart_time": "13:26",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "龙川",
+      "arrive_time": "14:20",
+      "depart_time": "14:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "赣州",
+      "arrive_time": "17:11",
+      "depart_time": "17:17",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "吉安",
+      "arrive_time": "19:05",
+      "depart_time": "19:10",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "南昌",
+      "arrive_time": "21:21",
+      "depart_time": "21:45",
+      "stay_min": "24"
+    },
+    {
+      "seq": 8,
+      "station_name": "武昌",
+      "arrive_time": "01:12",
+      "depart_time": "01:20",
+      "stay_min": "8"
+    },
+    {
+      "seq": 9,
+      "station_name": "襄阳",
+      "arrive_time": "04:27",
+      "depart_time": "04:57",
+      "stay_min": "30"
+    },
+    {
+      "seq": 10,
+      "station_name": "安康",
+      "arrive_time": "08:54",
+      "depart_time": "09:03",
+      "stay_min": "9"
+    },
+    {
+      "seq": 11,
+      "station_name": "万源",
+      "arrive_time": "10:55",
+      "depart_time": "10:59",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "宣汉",
+      "arrive_time": "11:56",
+      "depart_time": "12:05",
+      "stay_min": "9"
+    },
+    {
+      "seq": 13,
+      "station_name": "达州",
+      "arrive_time": "12:48",
+      "depart_time": "12:54",
+      "stay_min": "6"
+    },
+    {
+      "seq": 14,
+      "station_name": "营山",
+      "arrive_time": "13:57",
+      "depart_time": "14:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "南充",
+      "arrive_time": "14:36",
+      "depart_time": "14:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 16,
+      "station_name": "成都西",
+      "arrive_time": "17:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 289.5
+  },
+  "fetched_at": "2026-05-01T11:21:46.960476"
+}

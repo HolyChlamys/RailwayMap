@@ -1,0 +1,59 @@
+{
+  "train_no": "C9331",
+  "train_type": "C",
+  "depart_station": "延安",
+  "arrive_station": "西安北",
+  "depart_time": "19:25",
+  "arrive_time": "20:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "延安",
+      "arrive_time": "19:25",
+      "depart_time": "19:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "甘泉北",
+      "arrive_time": "19:40",
+      "depart_time": "19:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "铜川北",
+      "arrive_time": "20:16",
+      "depart_time": "20:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "铜川",
+      "arrive_time": "20:28",
+      "depart_time": "20:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "高陵",
+      "arrive_time": "20:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西安北",
+      "arrive_time": "20:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 757.0,
+    "price_first": 346.0,
+    "price_second": 216.0,
+    "price_no_seat": 216.0
+  },
+  "fetched_at": "2026-05-01T02:45:31.479093"
+}

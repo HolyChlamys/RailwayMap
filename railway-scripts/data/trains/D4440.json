@@ -1,0 +1,44 @@
+{
+  "train_no": "D4440",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "上海虹桥",
+  "depart_time": "22:07",
+  "arrive_time": "02:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "22:07",
+      "depart_time": "22:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "23:53",
+      "depart_time": "23:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "00:49",
+      "depart_time": "00:59",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "上海虹桥",
+      "arrive_time": "02:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 514.5,
+    "price_second": 322.0,
+    "price_no_seat": 322.0
+  },
+  "fetched_at": "2026-05-01T03:50:40.576686"
+}

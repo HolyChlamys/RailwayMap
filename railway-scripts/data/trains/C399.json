@@ -1,0 +1,45 @@
+{
+  "train_no": "C399",
+  "train_type": "C",
+  "depart_station": "西双版纳",
+  "arrive_station": "磨憨",
+  "depart_time": "07:30",
+  "arrive_time": "08:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西双版纳",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "橄榄坝",
+      "arrive_time": "07:48",
+      "depart_time": "07:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "勐腊",
+      "arrive_time": "08:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "磨憨",
+      "arrive_time": "08:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 264.0,
+    "price_first": 121.0,
+    "price_second": 75.0,
+    "price_no_seat": 75.0
+  },
+  "fetched_at": "2026-05-01T01:06:05.768075"
+}

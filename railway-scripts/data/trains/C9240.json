@@ -1,0 +1,52 @@
+{
+  "train_no": "C9240",
+  "train_type": "C",
+  "depart_station": "襄阳东",
+  "arrive_station": "汉口",
+  "depart_time": "17:29",
+  "arrive_time": "18:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳东",
+      "arrive_time": "17:29",
+      "depart_time": "17:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枣阳",
+      "arrive_time": "17:45",
+      "depart_time": "17:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "随州南",
+      "arrive_time": "18:11",
+      "depart_time": "18:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "孝感东",
+      "arrive_time": "18:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汉口",
+      "arrive_time": "18:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 451.0,
+    "price_first": 241.0,
+    "price_second": 150.0,
+    "price_no_seat": 150.0
+  },
+  "fetched_at": "2026-05-01T02:43:04.997902"
+}

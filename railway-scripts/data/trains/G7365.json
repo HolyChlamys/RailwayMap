@@ -1,0 +1,66 @@
+{
+  "train_no": "G7365",
+  "train_type": "G",
+  "depart_station": "上海南",
+  "arrive_station": "江山",
+  "depart_time": "16:06",
+  "arrive_time": "18:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "16:06",
+      "depart_time": "16:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉兴南",
+      "arrive_time": "16:37",
+      "depart_time": "16:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "17:05",
+      "depart_time": "17:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "义乌",
+      "arrive_time": "17:40",
+      "depart_time": "17:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "金华",
+      "arrive_time": "17:59",
+      "depart_time": "17:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "衢州",
+      "arrive_time": "18:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "江山",
+      "arrive_time": "18:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 820.0,
+    "price_first": 375.0,
+    "price_second": 234.0,
+    "price_no_seat": 234.0
+  },
+  "fetched_at": "2026-05-01T08:25:27.340518"
+}

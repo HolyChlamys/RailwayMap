@@ -1,0 +1,87 @@
+{
+  "train_no": "G5552",
+  "train_type": "G",
+  "depart_station": "青岛",
+  "arrive_station": "临沂北",
+  "depart_time": "10:54",
+  "arrive_time": "15:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛",
+      "arrive_time": "10:54",
+      "depart_time": "10:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潍坊",
+      "arrive_time": "12:04",
+      "depart_time": "12:08",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "昌乐",
+      "arrive_time": "12:21",
+      "depart_time": "12:28",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博",
+      "arrive_time": "12:56",
+      "depart_time": "12:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "章丘",
+      "arrive_time": "13:22",
+      "depart_time": "13:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南",
+      "arrive_time": "13:49",
+      "depart_time": "14:02",
+      "stay_min": "13"
+    },
+    {
+      "seq": 7,
+      "station_name": "泰安",
+      "arrive_time": "14:26",
+      "depart_time": "14:33",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "曲阜东",
+      "arrive_time": "14:52",
+      "depart_time": "14:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "蒙山",
+      "arrive_time": "15:17",
+      "depart_time": "15:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "临沂北",
+      "arrive_time": "15:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 984.0,
+    "price_first": 467.0,
+    "price_second": 293.0,
+    "price_no_seat": 293.0
+  },
+  "fetched_at": "2026-05-01T07:36:44.383080"
+}

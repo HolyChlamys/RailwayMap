@@ -1,0 +1,65 @@
+{
+  "train_no": "D6534",
+  "train_type": "D",
+  "depart_station": "漳州",
+  "arrive_station": "福州",
+  "depart_time": "18:26",
+  "arrive_time": "19:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "漳州",
+      "arrive_time": "18:26",
+      "depart_time": "18:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "厦门北",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "晋江",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泉州",
+      "arrive_time": "19:24",
+      "depart_time": "19:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "仙游",
+      "arrive_time": "19:46",
+      "depart_time": "19:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "莆田",
+      "arrive_time": "19:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "福州",
+      "arrive_time": "19:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 204.0,
+    "price_second": 128.0,
+    "price_no_seat": 128.0
+  },
+  "fetched_at": "2026-05-01T04:24:29.812143"
+}

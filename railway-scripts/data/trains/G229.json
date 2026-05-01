@@ -1,0 +1,80 @@
+{
+  "train_no": "G229",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "永州",
+  "depart_time": "15:00",
+  "arrive_time": "20:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "15:00",
+      "depart_time": "15:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "15:48",
+      "depart_time": "15:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌西",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "株洲西",
+      "arrive_time": "19:29",
+      "depart_time": "19:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "衡阳东",
+      "arrive_time": "19:58",
+      "depart_time": "19:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "祁东",
+      "arrive_time": "20:30",
+      "depart_time": "20:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "祁阳",
+      "arrive_time": "20:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "永州",
+      "arrive_time": "20:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2469.0,
+    "price_first": 1139.0,
+    "price_second": 710.5,
+    "price_no_seat": 710.5
+  },
+  "fetched_at": "2026-05-01T06:06:31.852297"
+}

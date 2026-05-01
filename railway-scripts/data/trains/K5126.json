@@ -1,0 +1,56 @@
+{
+  "train_no": "K5126",
+  "train_type": "K",
+  "depart_station": "北安",
+  "arrive_station": "齐齐哈尔",
+  "depart_time": "17:35",
+  "arrive_time": "20:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北安",
+      "arrive_time": "17:35",
+      "depart_time": "17:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "克东",
+      "arrive_time": "18:00",
+      "depart_time": "18:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "依安",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "富裕",
+      "arrive_time": "20:05",
+      "depart_time": "20:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "塔哈",
+      "arrive_time": "20:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "齐齐哈尔",
+      "arrive_time": "20:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T10:04:27.815773"
+}

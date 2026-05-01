@@ -1,0 +1,52 @@
+{
+  "train_no": "D5181",
+  "train_type": "D",
+  "depart_station": "成都南",
+  "arrive_station": "贵阳北",
+  "depart_time": "06:31",
+  "arrive_time": "09:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "06:31",
+      "depart_time": "06:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜宾西",
+      "arrive_time": "07:52",
+      "depart_time": "07:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兴文",
+      "arrive_time": "08:23",
+      "depart_time": "08:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "毕节",
+      "arrive_time": "09:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "09:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 882.0,
+    "price_first": 470.0,
+    "price_second": 294.0,
+    "price_no_seat": 294.0
+  },
+  "fetched_at": "2026-05-01T04:02:03.241615"
+}

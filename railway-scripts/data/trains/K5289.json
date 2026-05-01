@@ -1,0 +1,35 @@
+{
+  "train_no": "K5289",
+  "train_type": "K",
+  "depart_station": "北京丰台",
+  "arrive_station": "高碑店",
+  "depart_time": "19:32",
+  "arrive_time": "20:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京丰台",
+      "arrive_time": "19:32",
+      "depart_time": "19:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "涿州",
+      "arrive_time": "20:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "高碑店",
+      "arrive_time": "20:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 12.5
+  },
+  "fetched_at": "2026-05-01T10:07:37.579161"
+}

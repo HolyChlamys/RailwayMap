@@ -1,0 +1,37 @@
+{
+  "train_no": "D4339",
+  "train_type": "D",
+  "depart_station": "梧州南",
+  "arrive_station": "茂名",
+  "depart_time": "02:50",
+  "arrive_time": "04:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梧州南",
+      "arrive_time": "02:50",
+      "depart_time": "02:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "04:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "茂名",
+      "arrive_time": "04:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 491.0,
+    "price_second": 314.0,
+    "price_no_seat": 314.0
+  },
+  "fetched_at": "2026-05-01T03:48:10.649147"
+}

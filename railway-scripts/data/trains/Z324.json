@@ -1,0 +1,63 @@
+{
+  "train_no": "Z324",
+  "train_type": "Z",
+  "depart_station": "拉萨",
+  "arrive_station": "成都西",
+  "depart_time": "18:50",
+  "arrive_time": "07:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "拉萨",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "格尔木",
+      "arrive_time": "09:02",
+      "depart_time": "09:27",
+      "stay_min": "25"
+    },
+    {
+      "seq": 3,
+      "station_name": "德令哈",
+      "arrive_time": "11:38",
+      "depart_time": "11:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "西宁",
+      "arrive_time": "16:23",
+      "depart_time": "16:43",
+      "stay_min": "20"
+    },
+    {
+      "seq": 5,
+      "station_name": "兰州",
+      "arrive_time": "19:29",
+      "depart_time": "19:52",
+      "stay_min": "23"
+    },
+    {
+      "seq": 6,
+      "station_name": "广元",
+      "arrive_time": "01:30",
+      "depart_time": "01:37",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "成都西",
+      "arrive_time": "07:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 302.5
+  },
+  "fetched_at": "2026-05-01T11:47:06.397153"
+}

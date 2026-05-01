@@ -1,0 +1,33 @@
+{
+  "train_no": "C1526",
+  "train_type": "C",
+  "depart_station": "本溪",
+  "arrive_station": "抚顺",
+  "depart_time": "11:59",
+  "arrive_time": "12:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "本溪",
+      "arrive_time": "11:59",
+      "depart_time": "11:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳",
+      "arrive_time": "12:32",
+      "depart_time": "12:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "抚顺",
+      "arrive_time": "12:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T00:26:37.203674"
+}

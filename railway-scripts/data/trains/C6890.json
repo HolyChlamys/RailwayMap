@@ -1,0 +1,36 @@
+{
+  "train_no": "C6890",
+  "train_type": "C",
+  "depart_station": "飞霞",
+  "arrive_station": "花都",
+  "depart_time": "17:25",
+  "arrive_time": "17:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "飞霞",
+      "arrive_time": "17:25",
+      "depart_time": "17:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "清城",
+      "arrive_time": "17:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "花都",
+      "arrive_time": "17:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 36.0,
+    "price_no_seat": 36.0
+  },
+  "fetched_at": "2026-05-01T01:59:34.914830"
+}

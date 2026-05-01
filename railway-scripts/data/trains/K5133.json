@@ -1,0 +1,56 @@
+{
+  "train_no": "K5133",
+  "train_type": "K",
+  "depart_station": "哈尔滨东",
+  "arrive_station": "神树",
+  "depart_time": "09:45",
+  "arrive_time": "13:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨东",
+      "arrive_time": "09:45",
+      "depart_time": "09:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绥化",
+      "arrive_time": "11:26",
+      "depart_time": "11:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "庆安",
+      "arrive_time": "12:13",
+      "depart_time": "12:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "双丰",
+      "arrive_time": "12:35",
+      "depart_time": "12:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "铁力",
+      "arrive_time": "13:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "神树",
+      "arrive_time": "13:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 41.5
+  },
+  "fetched_at": "2026-05-01T10:04:37.756124"
+}

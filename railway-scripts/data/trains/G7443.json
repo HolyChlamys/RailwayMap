@@ -1,0 +1,59 @@
+{
+  "train_no": "G7443",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "黄山北",
+  "depart_time": "20:41",
+  "arrive_time": "22:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "20:41",
+      "depart_time": "20:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金山北",
+      "arrive_time": "21:01",
+      "depart_time": "21:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "21:42",
+      "depart_time": "21:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "富阳",
+      "arrive_time": "22:05",
+      "depart_time": "22:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "千岛湖",
+      "arrive_time": "22:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黄山北",
+      "arrive_time": "22:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 671.0,
+    "price_first": 332.0,
+    "price_second": 207.0,
+    "price_no_seat": 207.0
+  },
+  "fetched_at": "2026-05-01T08:27:31.357404"
+}

@@ -1,0 +1,73 @@
+{
+  "train_no": "G6857",
+  "train_type": "G",
+  "depart_station": "宜昌北",
+  "arrive_station": "蕲春南",
+  "depart_time": "06:57",
+  "arrive_time": "10:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌北",
+      "arrive_time": "06:57",
+      "depart_time": "06:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆门西",
+      "arrive_time": "07:17",
+      "depart_time": "07:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "天门",
+      "arrive_time": "07:50",
+      "depart_time": "07:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "08:29",
+      "depart_time": "08:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "武汉",
+      "arrive_time": "08:56",
+      "depart_time": "09:04",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "黄冈东",
+      "arrive_time": "09:37",
+      "depart_time": "09:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "浠水南",
+      "arrive_time": "09:53",
+      "depart_time": "09:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "蕲春南",
+      "arrive_time": "10:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1019.0,
+    "price_first": 476.0,
+    "price_second": 297.0,
+    "price_no_seat": 297.0
+  },
+  "fetched_at": "2026-05-01T08:10:56.728652"
+}

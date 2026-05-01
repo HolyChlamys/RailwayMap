@@ -1,0 +1,28 @@
+{
+  "train_no": "K6568",
+  "train_type": "K",
+  "depart_station": "长沙",
+  "arrive_station": "岳阳",
+  "depart_time": "20:38",
+  "arrive_time": "20:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "20:38",
+      "depart_time": "20:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "岳阳",
+      "arrive_time": "20:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 23.5
+  },
+  "fetched_at": "2026-05-01T10:23:00.787750"
+}

@@ -1,0 +1,56 @@
+{
+  "train_no": "K8277",
+  "train_type": "K",
+  "depart_station": "青岛北",
+  "arrive_station": "菏泽",
+  "depart_time": "21:48",
+  "arrive_time": "06:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "21:48",
+      "depart_time": "21:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "胶州",
+      "arrive_time": "22:25",
+      "depart_time": "22:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "临沂",
+      "arrive_time": "01:00",
+      "depart_time": "01:07",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "兖州",
+      "arrive_time": "04:33",
+      "depart_time": "04:44",
+      "stay_min": "11"
+    },
+    {
+      "seq": 5,
+      "station_name": "济宁",
+      "arrive_time": "05:07",
+      "depart_time": "05:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "菏泽",
+      "arrive_time": "06:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T10:37:50.819385"
+}

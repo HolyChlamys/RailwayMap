@@ -1,0 +1,59 @@
+{
+  "train_no": "D7422",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "湛江北",
+  "depart_time": "22:47",
+  "arrive_time": "01:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "22:47",
+      "depart_time": "22:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汕尾",
+      "arrive_time": "23:35",
+      "depart_time": "23:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州",
+      "arrive_time": "22:51",
+      "depart_time": "22:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "阳江北",
+      "arrive_time": "00:04",
+      "depart_time": "00:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "茂名南",
+      "arrive_time": "00:35",
+      "depart_time": "00:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "湛江北",
+      "arrive_time": "01:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 242.0,
+    "price_first": 111.0,
+    "price_second": 69.0,
+    "price_no_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T04:38:22.419556"
+}

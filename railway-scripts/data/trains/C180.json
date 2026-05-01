@@ -1,0 +1,100 @@
+{
+  "train_no": "C180",
+  "train_type": "C",
+  "depart_station": "宝鸡",
+  "arrive_station": "韩城",
+  "depart_time": "07:00",
+  "arrive_time": "11:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宝鸡",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蔡家坡",
+      "arrive_time": "07:28",
+      "depart_time": "07:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "眉县东",
+      "arrive_time": "07:45",
+      "depart_time": "07:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绛帐",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武功",
+      "arrive_time": "08:13",
+      "depart_time": "08:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兴平",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "咸阳",
+      "arrive_time": "08:47",
+      "depart_time": "08:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "西安",
+      "arrive_time": "09:16",
+      "depart_time": "09:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "陈庄",
+      "arrive_time": "10:05",
+      "depart_time": "10:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "韦庄",
+      "arrive_time": "10:30",
+      "depart_time": "10:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "合阳北",
+      "arrive_time": "11:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "韩城",
+      "arrive_time": "11:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 193.0,
+    "price_second": 121.0,
+    "price_no_seat": 121.0
+  },
+  "fetched_at": "2026-05-01T00:27:31.809950"
+}

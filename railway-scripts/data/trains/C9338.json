@@ -1,0 +1,31 @@
+{
+  "train_no": "C9338",
+  "train_type": "C",
+  "depart_station": "西安北",
+  "arrive_station": "铜川",
+  "depart_time": "22:20",
+  "arrive_time": "22:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "22:20",
+      "depart_time": "22:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "铜川",
+      "arrive_time": "22:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 249.0,
+    "price_first": 114.0,
+    "price_second": 71.0,
+    "price_no_seat": 71.0
+  },
+  "fetched_at": "2026-05-01T02:45:43.151310"
+}

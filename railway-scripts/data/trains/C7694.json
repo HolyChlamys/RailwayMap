@@ -1,0 +1,64 @@
+{
+  "train_no": "C7694",
+  "train_type": "C",
+  "depart_station": "珠海",
+  "arrive_station": "广州南",
+  "depart_time": "18:24",
+  "arrive_time": "19:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海",
+      "arrive_time": "18:24",
+      "depart_time": "18:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "明珠",
+      "arrive_time": "18:35",
+      "depart_time": "18:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "珠海北",
+      "arrive_time": "18:45",
+      "depart_time": "18:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南朗",
+      "arrive_time": "18:53",
+      "depart_time": "18:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "中山",
+      "arrive_time": "19:01",
+      "depart_time": "19:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "小榄",
+      "arrive_time": "19:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州南",
+      "arrive_time": "19:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T02:21:32.748536"
+}

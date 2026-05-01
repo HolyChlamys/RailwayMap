@@ -1,0 +1,73 @@
+{
+  "train_no": "G4427",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "柳州",
+  "depart_time": "18:43",
+  "arrive_time": "22:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "18:43",
+      "depart_time": "18:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲西",
+      "arrive_time": "19:17",
+      "depart_time": "19:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳东",
+      "arrive_time": "19:46",
+      "depart_time": "19:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "永州",
+      "arrive_time": "20:42",
+      "depart_time": "20:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "全州南",
+      "arrive_time": "21:18",
+      "depart_time": "21:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "桂林北",
+      "arrive_time": "22:05",
+      "depart_time": "22:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "桂林",
+      "arrive_time": "22:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "柳州",
+      "arrive_time": "22:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 802.0,
+    "price_first": 402.0,
+    "price_second": 250.5,
+    "price_no_seat": 250.5
+  },
+  "fetched_at": "2026-05-01T07:05:14.963006"
+}

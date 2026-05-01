@@ -1,0 +1,45 @@
+{
+  "train_no": "C5178",
+  "train_type": "C",
+  "depart_station": "南丰",
+  "arrive_station": "南昌西",
+  "depart_time": "20:30",
+  "arrive_time": "21:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南丰",
+      "arrive_time": "20:30",
+      "depart_time": "20:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南城",
+      "arrive_time": "20:46",
+      "depart_time": "20:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "抚州",
+      "arrive_time": "21:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌西",
+      "arrive_time": "21:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 235.0,
+    "price_first": 107.0,
+    "price_second": 67.0,
+    "price_no_seat": 67.0
+  },
+  "fetched_at": "2026-05-01T01:28:45.338533"
+}

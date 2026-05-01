@@ -1,0 +1,79 @@
+{
+  "train_no": "D5980",
+  "train_type": "D",
+  "depart_station": "利川",
+  "arrive_station": "汉口",
+  "depart_time": "13:47",
+  "arrive_time": "18:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "利川",
+      "arrive_time": "13:47",
+      "depart_time": "13:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "恩施",
+      "arrive_time": "14:31",
+      "depart_time": "14:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "高坪",
+      "arrive_time": "15:15",
+      "depart_time": "15:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "野三关",
+      "arrive_time": "15:34",
+      "depart_time": "15:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜昌东",
+      "arrive_time": "16:41",
+      "depart_time": "16:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "荆州",
+      "arrive_time": "17:17",
+      "depart_time": "17:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "潜江",
+      "arrive_time": "17:44",
+      "depart_time": "17:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "天门南",
+      "arrive_time": "18:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "汉口",
+      "arrive_time": "18:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 370.0,
+    "price_second": 232.0,
+    "price_no_seat": 232.0
+  },
+  "fetched_at": "2026-05-01T04:14:10.379776"
+}

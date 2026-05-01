@@ -1,0 +1,78 @@
+{
+  "train_no": "C3445",
+  "train_type": "C",
+  "depart_station": "成都南",
+  "arrive_station": "雅安",
+  "depart_time": "19:15",
+  "arrive_time": "16:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "19:15",
+      "depart_time": "19:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "温江",
+      "arrive_time": "19:34",
+      "depart_time": "19:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "邛崃",
+      "arrive_time": "19:54",
+      "depart_time": "19:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "崇州",
+      "arrive_time": "15:49",
+      "depart_time": "15:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "雅安",
+      "arrive_time": "20:28",
+      "depart_time": "20:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "大邑",
+      "arrive_time": "16:00",
+      "depart_time": "16:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "邛崃",
+      "arrive_time": "16:11",
+      "depart_time": "16:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "名山",
+      "arrive_time": "16:38",
+      "depart_time": "16:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "雅安",
+      "arrive_time": "16:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 58.0,
+    "price_no_seat": 58.0
+  },
+  "fetched_at": "2026-05-01T00:59:38.671896"
+}

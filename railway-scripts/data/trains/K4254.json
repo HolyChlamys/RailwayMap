@@ -1,0 +1,49 @@
+{
+  "train_no": "K4254",
+  "train_type": "K",
+  "depart_station": "深圳东",
+  "arrive_station": "信阳",
+  "depart_time": "00:10",
+  "arrive_time": "17:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳东",
+      "arrive_time": "00:10",
+      "depart_time": "00:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感",
+      "arrive_time": "16:17",
+      "depart_time": "16:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "花园",
+      "arrive_time": "16:42",
+      "depart_time": "16:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广水",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "信阳",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 173.5
+  },
+  "fetched_at": "2026-05-01T09:51:08.535614"
+}

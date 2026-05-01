@@ -1,0 +1,101 @@
+{
+  "train_no": "G3308",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "日照",
+  "depart_time": "08:56",
+  "arrive_time": "13:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "08:56",
+      "depart_time": "08:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "华山北",
+      "arrive_time": "09:27",
+      "depart_time": "09:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "三门峡南",
+      "arrive_time": "09:59",
+      "depart_time": "09:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "洛阳龙门",
+      "arrive_time": "10:40",
+      "depart_time": "10:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "11:22",
+      "depart_time": "11:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兰考南",
+      "arrive_time": "12:01",
+      "depart_time": "12:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "菏泽东",
+      "arrive_time": "12:28",
+      "depart_time": "12:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "嘉祥北",
+      "arrive_time": "12:53",
+      "depart_time": "12:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "济宁北",
+      "arrive_time": "13:05",
+      "depart_time": "13:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "蒙山",
+      "arrive_time": "13:36",
+      "depart_time": "13:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "临沂北",
+      "arrive_time": "13:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "日照",
+      "arrive_time": "13:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2050.0,
+    "price_first": 967.0,
+    "price_second": 604.0,
+    "price_no_seat": 604.0
+  },
+  "fetched_at": "2026-05-01T06:34:22.096561"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "G9914",
+  "train_type": "G",
+  "depart_station": "石家庄",
+  "arrive_station": "北京丰台",
+  "depart_time": "06:26",
+  "arrive_time": "07:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石家庄",
+      "arrive_time": "06:26",
+      "depart_time": "06:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "定州东",
+      "arrive_time": "06:51",
+      "depart_time": "06:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "保定东",
+      "arrive_time": "07:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "北京丰台",
+      "arrive_time": "07:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 527.0,
+    "price_first": 241.0,
+    "price_second": 151.0,
+    "price_no_seat": 151.0
+  },
+  "fetched_at": "2026-05-01T09:28:00.522811"
+}

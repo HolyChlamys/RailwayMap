@@ -1,0 +1,78 @@
+{
+  "train_no": "C6133",
+  "train_type": "C",
+  "depart_station": "雅安",
+  "arrive_station": "泸州",
+  "depart_time": "15:06",
+  "arrive_time": "18:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "雅安",
+      "arrive_time": "15:06",
+      "depart_time": "15:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "朝阳湖",
+      "arrive_time": "15:26",
+      "depart_time": "15:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "邛崃",
+      "arrive_time": "15:42",
+      "depart_time": "15:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "崇州",
+      "arrive_time": "15:59",
+      "depart_time": "16:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "16:32",
+      "depart_time": "16:42",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "威远",
+      "arrive_time": "17:40",
+      "depart_time": "17:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "自贡",
+      "arrive_time": "17:54",
+      "depart_time": "17:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "富顺",
+      "arrive_time": "18:07",
+      "depart_time": "18:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "泸州",
+      "arrive_time": "18:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 194.0,
+    "price_no_seat": 194.0
+  },
+  "fetched_at": "2026-05-01T01:45:17.779803"
+}

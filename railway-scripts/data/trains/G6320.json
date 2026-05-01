@@ -1,0 +1,94 @@
+{
+  "train_no": "G6320",
+  "train_type": "G",
+  "depart_station": "新塘",
+  "arrive_station": "汕头",
+  "depart_time": "09:40",
+  "arrive_time": "12:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "新塘",
+      "arrive_time": "09:40",
+      "depart_time": "09:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "增城",
+      "arrive_time": "09:51",
+      "depart_time": "09:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "10:14",
+      "depart_time": "10:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "河源东",
+      "arrive_time": "10:35",
+      "depart_time": "10:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "龙川西",
+      "arrive_time": "10:56",
+      "depart_time": "10:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "五华",
+      "arrive_time": "11:15",
+      "depart_time": "11:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "兴宁南",
+      "arrive_time": "11:26",
+      "depart_time": "11:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "梅州西",
+      "arrive_time": "11:41",
+      "depart_time": "11:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "揭阳",
+      "arrive_time": "12:12",
+      "depart_time": "12:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "潮汕",
+      "arrive_time": "12:31",
+      "depart_time": "12:34",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "汕头",
+      "arrive_time": "12:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1002.0,
+    "price_first": 476.0,
+    "price_second": 298.0,
+    "price_no_seat": 298.0
+  },
+  "fetched_at": "2026-05-01T07:55:19.553123"
+}

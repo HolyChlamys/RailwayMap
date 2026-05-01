@@ -1,0 +1,31 @@
+{
+  "train_no": "G9862",
+  "train_type": "G",
+  "depart_station": "南昌东",
+  "arrive_station": "鹰潭北",
+  "depart_time": "10:05",
+  "arrive_time": "10:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "10:05",
+      "depart_time": "10:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹰潭北",
+      "arrive_time": "10:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1478.0,
+    "price_first": 713.0,
+    "price_second": 437.0,
+    "price_no_seat": 437.0
+  },
+  "fetched_at": "2026-05-01T09:26:29.875359"
+}

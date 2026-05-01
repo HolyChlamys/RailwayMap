@@ -1,0 +1,115 @@
+{
+  "train_no": "G2813",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "石家庄",
+  "depart_time": "16:25",
+  "arrive_time": "23:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "16:25",
+      "depart_time": "16:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州北",
+      "arrive_time": "16:49",
+      "depart_time": "16:54",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "镇江南",
+      "arrive_time": "17:29",
+      "depart_time": "17:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "17:51",
+      "depart_time": "17:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥",
+      "arrive_time": "18:44",
+      "depart_time": "18:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "淮南南",
+      "arrive_time": "19:15",
+      "depart_time": "19:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "阜阳西",
+      "arrive_time": "19:51",
+      "depart_time": "19:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "临泉",
+      "arrive_time": "20:09",
+      "depart_time": "20:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "周口东",
+      "arrive_time": "20:39",
+      "depart_time": "20:44",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "郑州东",
+      "arrive_time": "21:37",
+      "depart_time": "21:42",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "安阳东",
+      "arrive_time": "22:23",
+      "depart_time": "22:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "邯郸东",
+      "arrive_time": "22:42",
+      "depart_time": "22:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "邢台东",
+      "arrive_time": "23:00",
+      "depart_time": "23:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "石家庄",
+      "arrive_time": "23:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2463.0,
+    "price_first": 1205.0,
+    "price_second": 753.0,
+    "price_no_seat": 753.0
+  },
+  "fetched_at": "2026-05-01T06:20:59.240876"
+}

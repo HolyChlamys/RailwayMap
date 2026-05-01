@@ -1,0 +1,87 @@
+{
+  "train_no": "G6885",
+  "train_type": "G",
+  "depart_station": "汉口",
+  "arrive_station": "襄阳东",
+  "depart_time": "11:28",
+  "arrive_time": "14:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "11:28",
+      "depart_time": "11:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉川",
+      "arrive_time": "11:51",
+      "depart_time": "11:57",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "天门南",
+      "arrive_time": "12:13",
+      "depart_time": "12:19",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "仙桃西",
+      "arrive_time": "12:33",
+      "depart_time": "12:39",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "潜江",
+      "arrive_time": "12:50",
+      "depart_time": "12:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "荆州",
+      "arrive_time": "13:18",
+      "depart_time": "13:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "沙洋西",
+      "arrive_time": "13:37",
+      "depart_time": "13:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "荆门西",
+      "arrive_time": "13:56",
+      "depart_time": "13:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "宜城",
+      "arrive_time": "14:21",
+      "depart_time": "14:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "襄阳东",
+      "arrive_time": "14:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 809.0,
+    "price_first": 370.0,
+    "price_second": 231.0,
+    "price_no_seat": 231.0
+  },
+  "fetched_at": "2026-05-01T08:11:47.986579"
+}

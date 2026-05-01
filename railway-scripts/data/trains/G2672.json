@@ -1,0 +1,129 @@
+{
+  "train_no": "G2672",
+  "train_type": "G",
+  "depart_station": "南通",
+  "arrive_station": "郑州航空港",
+  "depart_time": "14:40",
+  "arrive_time": "20:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南通",
+      "arrive_time": "14:40",
+      "depart_time": "14:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "如皋南",
+      "arrive_time": "14:59",
+      "depart_time": "15:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "海安",
+      "arrive_time": "15:11",
+      "depart_time": "15:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "东台",
+      "arrive_time": "15:26",
+      "depart_time": "15:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "盐城",
+      "arrive_time": "15:47",
+      "depart_time": "15:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "阜宁南",
+      "arrive_time": "16:08",
+      "depart_time": "16:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "淮安东",
+      "arrive_time": "16:27",
+      "depart_time": "16:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "宿迁",
+      "arrive_time": "16:57",
+      "depart_time": "16:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "睢宁",
+      "arrive_time": "17:12",
+      "depart_time": "17:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "徐州东",
+      "arrive_time": "17:39",
+      "depart_time": "17:42",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "永城北",
+      "arrive_time": "18:07",
+      "depart_time": "18:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "商丘",
+      "arrive_time": "18:33",
+      "depart_time": "18:40",
+      "stay_min": "7"
+    },
+    {
+      "seq": 13,
+      "station_name": "民权北",
+      "arrive_time": "18:55",
+      "depart_time": "18:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "兰考南",
+      "arrive_time": "19:09",
+      "depart_time": "19:17",
+      "stay_min": "8"
+    },
+    {
+      "seq": 15,
+      "station_name": "郑州东",
+      "arrive_time": "19:50",
+      "depart_time": "20:13",
+      "stay_min": "23"
+    },
+    {
+      "seq": 16,
+      "station_name": "郑州航空港",
+      "arrive_time": "20:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1444.0,
+    "price_first": 694.0,
+    "price_second": 434.0,
+    "price_no_seat": 434.0
+  },
+  "fetched_at": "2026-05-01T06:17:02.334532"
+}

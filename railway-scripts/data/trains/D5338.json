@@ -1,0 +1,31 @@
+{
+  "train_no": "D5338",
+  "train_type": "D",
+  "depart_station": "介休东",
+  "arrive_station": "太原南",
+  "depart_time": "22:10",
+  "arrive_time": "22:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "介休东",
+      "arrive_time": "22:10",
+      "depart_time": "22:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太原南",
+      "arrive_time": "22:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 144.0,
+    "price_first": 66.0,
+    "price_second": 41.0,
+    "price_no_seat": 41.0
+  },
+  "fetched_at": "2026-05-01T04:04:59.956572"
+}

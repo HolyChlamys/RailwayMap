@@ -1,0 +1,98 @@
+{
+  "train_no": "K370",
+  "train_type": "K",
+  "depart_station": "西安",
+  "arrive_station": "敦煌",
+  "depart_time": "12:15",
+  "arrive_time": "10:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "12:15",
+      "depart_time": "12:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳",
+      "arrive_time": "12:32",
+      "depart_time": "12:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "杨陵",
+      "arrive_time": "13:13",
+      "depart_time": "13:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "宝鸡",
+      "arrive_time": "14:14",
+      "depart_time": "14:24",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "天水",
+      "arrive_time": "16:04",
+      "depart_time": "16:10",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "陇西",
+      "arrive_time": "17:42",
+      "depart_time": "17:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "兰州",
+      "arrive_time": "20:08",
+      "depart_time": "20:36",
+      "stay_min": "28"
+    },
+    {
+      "seq": 8,
+      "station_name": "兰州西",
+      "arrive_time": "20:48",
+      "depart_time": "20:54",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "西宁",
+      "arrive_time": "23:31",
+      "depart_time": "23:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "嘉峪关南",
+      "arrive_time": "05:09",
+      "depart_time": "05:17",
+      "stay_min": "8"
+    },
+    {
+      "seq": 11,
+      "station_name": "瓜州",
+      "arrive_time": "08:37",
+      "depart_time": "08:43",
+      "stay_min": "6"
+    },
+    {
+      "seq": 12,
+      "station_name": "敦煌",
+      "arrive_time": "10:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 201.0
+  },
+  "fetched_at": "2026-05-01T09:44:35.047601"
+}

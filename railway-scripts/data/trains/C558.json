@@ -1,0 +1,72 @@
+{
+  "train_no": "C558",
+  "train_type": "C",
+  "depart_station": "个旧",
+  "arrive_station": "宣威",
+  "depart_time": "16:35",
+  "arrive_time": "20:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "个旧",
+      "arrive_time": "16:35",
+      "depart_time": "16:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "建水",
+      "arrive_time": "17:03",
+      "depart_time": "17:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "通海",
+      "arrive_time": "17:41",
+      "depart_time": "17:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "玉溪",
+      "arrive_time": "18:15",
+      "depart_time": "18:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "昆阳",
+      "arrive_time": "18:41",
+      "depart_time": "18:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明",
+      "arrive_time": "19:32",
+      "depart_time": "19:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "曲靖",
+      "arrive_time": "20:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "宣威",
+      "arrive_time": "20:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 252.0,
+    "price_second": 158.0,
+    "price_no_seat": 158.0
+  },
+  "fetched_at": "2026-05-01T01:35:02.039364"
+}

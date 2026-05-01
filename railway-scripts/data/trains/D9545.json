@@ -1,0 +1,38 @@
+{
+  "train_no": "D9545",
+  "train_type": "D",
+  "depart_station": "合肥南",
+  "arrive_station": "金寨",
+  "depart_time": "07:07",
+  "arrive_time": "07:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "07:07",
+      "depart_time": "07:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "六安",
+      "arrive_time": "07:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金寨",
+      "arrive_time": "07:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 216.0,
+    "price_first": 99.0,
+    "price_second": 62.0,
+    "price_no_seat": 62.0
+  },
+  "fetched_at": "2026-05-01T05:18:04.000355"
+}

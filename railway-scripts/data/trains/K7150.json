@@ -1,0 +1,49 @@
+{
+  "train_no": "K7150",
+  "train_type": "K",
+  "depart_station": "鸡西",
+  "arrive_station": "牡丹江",
+  "depart_time": "05:25",
+  "arrive_time": "07:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "鸡西",
+      "arrive_time": "05:25",
+      "depart_time": "05:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "梨树镇",
+      "arrive_time": "06:25",
+      "depart_time": "06:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "八面通",
+      "arrive_time": "07:02",
+      "depart_time": "07:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "穆棱",
+      "arrive_time": "07:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "牡丹江",
+      "arrive_time": "07:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T10:28:40.327708"
+}

@@ -1,0 +1,93 @@
+{
+  "train_no": "D1968",
+  "train_type": "D",
+  "depart_station": "重庆西",
+  "arrive_station": "西安北",
+  "depart_time": "07:39",
+  "arrive_time": "13:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "07:39",
+      "depart_time": "07:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合川",
+      "arrive_time": "08:07",
+      "depart_time": "08:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "武胜",
+      "arrive_time": "08:36",
+      "depart_time": "08:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "南部",
+      "arrive_time": "09:33",
+      "depart_time": "09:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "苍溪",
+      "arrive_time": "09:57",
+      "depart_time": "09:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "广元",
+      "arrive_time": "10:38",
+      "depart_time": "10:46",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "朝天",
+      "arrive_time": "11:04",
+      "depart_time": "11:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "汉中",
+      "arrive_time": "11:39",
+      "depart_time": "11:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "洋县西",
+      "arrive_time": "11:58",
+      "depart_time": "12:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "鄠邑",
+      "arrive_time": "12:47",
+      "depart_time": "12:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "西安北",
+      "arrive_time": "13:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 506.0,
+    "price_second": 315.0,
+    "price_no_seat": 315.0
+  },
+  "fetched_at": "2026-05-01T03:08:54.477045"
+}

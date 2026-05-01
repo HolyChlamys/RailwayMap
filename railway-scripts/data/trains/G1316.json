@@ -1,0 +1,87 @@
+{
+  "train_no": "G1316",
+  "train_type": "G",
+  "depart_station": "厦门北",
+  "arrive_station": "上海南",
+  "depart_time": "15:58",
+  "arrive_time": "21:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "15:58",
+      "depart_time": "15:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泉州南",
+      "arrive_time": "16:17",
+      "depart_time": "16:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莆田",
+      "arrive_time": "16:43",
+      "depart_time": "16:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福州南",
+      "arrive_time": "17:10",
+      "depart_time": "17:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福州",
+      "arrive_time": "17:29",
+      "depart_time": "17:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南平市",
+      "arrive_time": "18:26",
+      "depart_time": "18:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "黄山北",
+      "arrive_time": "19:36",
+      "depart_time": "19:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "千岛湖",
+      "arrive_time": "20:13",
+      "depart_time": "20:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "杭州西",
+      "arrive_time": "21:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "上海南",
+      "arrive_time": "21:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2089.0,
+    "price_first": 1027.5,
+    "price_second": 630.5,
+    "price_no_seat": 630.5
+  },
+  "fetched_at": "2026-05-01T05:39:31.261479"
+}

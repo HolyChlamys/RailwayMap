@@ -1,0 +1,87 @@
+{
+  "train_no": "G971",
+  "train_type": "G",
+  "depart_station": "重庆北",
+  "arrive_station": "济南东",
+  "depart_time": "14:38",
+  "arrive_time": "22:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "14:38",
+      "depart_time": "14:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "万州北",
+      "arrive_time": "15:47",
+      "depart_time": "15:52",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "襄阳东",
+      "arrive_time": "17:39",
+      "depart_time": "17:44",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "南阳东",
+      "arrive_time": "18:17",
+      "depart_time": "18:21",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "禹州",
+      "arrive_time": "19:03",
+      "depart_time": "19:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州东",
+      "arrive_time": "19:40",
+      "depart_time": "19:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "新乡东",
+      "arrive_time": "20:09",
+      "depart_time": "20:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "濮阳东",
+      "arrive_time": "20:43",
+      "depart_time": "20:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "济南西",
+      "arrive_time": "21:38",
+      "depart_time": "21:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "济南东",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2704.0,
+    "price_first": 1285.0,
+    "price_second": 803.0,
+    "price_no_seat": 803.0
+  },
+  "fetched_at": "2026-05-01T09:21:54.475157"
+}

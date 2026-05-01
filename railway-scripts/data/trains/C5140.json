@@ -1,0 +1,58 @@
+{
+  "train_no": "C5140",
+  "train_type": "C",
+  "depart_station": "福州",
+  "arrive_station": "福鼎",
+  "depart_time": "20:27",
+  "arrive_time": "22:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "20:27",
+      "depart_time": "20:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁德",
+      "arrive_time": "21:08",
+      "depart_time": "21:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "福安",
+      "arrive_time": "21:33",
+      "depart_time": "21:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "霞浦",
+      "arrive_time": "21:49",
+      "depart_time": "21:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太姥山",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "福鼎",
+      "arrive_time": "22:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 143.0,
+    "price_second": 90.0,
+    "price_no_seat": 90.0
+  },
+  "fetched_at": "2026-05-01T01:27:42.671149"
+}

@@ -1,0 +1,63 @@
+{
+  "train_no": "K5152",
+  "train_type": "K",
+  "depart_station": "北安",
+  "arrive_station": "哈尔滨东",
+  "depart_time": "04:20",
+  "arrive_time": "09:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北安",
+      "arrive_time": "04:20",
+      "depart_time": "04:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海伦",
+      "arrive_time": "05:59",
+      "depart_time": "05:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "绥棱",
+      "arrive_time": "06:42",
+      "depart_time": "06:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绥化",
+      "arrive_time": "08:02",
+      "depart_time": "08:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "白奎堡",
+      "arrive_time": "08:40",
+      "depart_time": "08:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "呼兰",
+      "arrive_time": "09:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "哈尔滨东",
+      "arrive_time": "09:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 50.5
+  },
+  "fetched_at": "2026-05-01T10:04:59.324910"
+}

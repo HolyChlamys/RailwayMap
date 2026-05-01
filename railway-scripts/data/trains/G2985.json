@@ -1,0 +1,107 @@
+{
+  "train_no": "G2985",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "铜仁",
+  "depart_time": "12:25",
+  "arrive_time": "18:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "12:25",
+      "depart_time": "12:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "资阳北",
+      "arrive_time": "12:50",
+      "depart_time": "12:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "荣昌北",
+      "arrive_time": "13:25",
+      "depart_time": "13:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆西",
+      "arrive_time": "13:56",
+      "depart_time": "14:01",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "綦江东",
+      "arrive_time": "14:26",
+      "depart_time": "14:32",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "桐梓东",
+      "arrive_time": "15:11",
+      "depart_time": "15:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "遵义",
+      "arrive_time": "15:34",
+      "depart_time": "15:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "贵阳东",
+      "arrive_time": "16:24",
+      "depart_time": "16:30",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "贵定北",
+      "arrive_time": "16:46",
+      "depart_time": "16:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "凯里南",
+      "arrive_time": "17:08",
+      "depart_time": "17:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "铜仁南",
+      "arrive_time": "17:48",
+      "depart_time": "17:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "朱砂古镇",
+      "arrive_time": "18:04",
+      "depart_time": "18:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "铜仁",
+      "arrive_time": "18:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 754.0,
+    "price_second": 471.0,
+    "price_no_seat": 471.0
+  },
+  "fetched_at": "2026-05-01T06:25:36.288831"
+}

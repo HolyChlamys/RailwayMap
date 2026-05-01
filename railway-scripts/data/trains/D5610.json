@@ -1,0 +1,44 @@
+{
+  "train_no": "D5610",
+  "train_type": "D",
+  "depart_station": "黄山北",
+  "arrive_station": "南京南",
+  "depart_time": "19:02",
+  "arrive_time": "19:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄山北",
+      "arrive_time": "19:02",
+      "depart_time": "19:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁国南",
+      "arrive_time": "19:38",
+      "depart_time": "19:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宣城",
+      "arrive_time": "19:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "19:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 247.0,
+    "price_second": 154.0,
+    "price_no_seat": 154.0
+  },
+  "fetched_at": "2026-05-01T04:09:14.575395"
+}

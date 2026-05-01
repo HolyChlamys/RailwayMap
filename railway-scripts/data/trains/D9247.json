@@ -1,0 +1,59 @@
+{
+  "train_no": "D9247",
+  "train_type": "D",
+  "depart_station": "太原",
+  "arrive_station": "运城北",
+  "depart_time": "21:45",
+  "arrive_time": "23:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太原南",
+      "arrive_time": "22:06",
+      "depart_time": "22:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "洪洞西",
+      "arrive_time": "23:12",
+      "depart_time": "23:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "临汾西",
+      "arrive_time": "23:25",
+      "depart_time": "23:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "侯马西",
+      "arrive_time": "23:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "运城北",
+      "arrive_time": "23:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 483.0,
+    "price_first": 223.0,
+    "price_second": 139.0,
+    "price_no_seat": 139.0
+  },
+  "fetched_at": "2026-05-01T05:11:05.981185"
+}

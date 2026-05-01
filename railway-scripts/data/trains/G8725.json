@@ -1,0 +1,31 @@
+{
+  "train_no": "G8725",
+  "train_type": "G",
+  "depart_station": "宜宾",
+  "arrive_station": "贵阳北",
+  "depart_time": "08:32",
+  "arrive_time": "08:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜宾",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳北",
+      "arrive_time": "08:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 560.0,
+    "price_first": 298.0,
+    "price_second": 187.0,
+    "price_no_seat": 187.0
+  },
+  "fetched_at": "2026-05-01T08:58:44.274808"
+}

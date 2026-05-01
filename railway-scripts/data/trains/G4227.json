@@ -1,0 +1,52 @@
+{
+  "train_no": "G4227",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "洛阳龙门",
+  "depart_time": "02:19",
+  "arrive_time": "07:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "02:19",
+      "depart_time": "02:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "03:26",
+      "depart_time": "03:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "04:44",
+      "depart_time": "04:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "06:17",
+      "depart_time": "06:27",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "洛阳龙门",
+      "arrive_time": "07:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2149.0,
+    "price_first": 982.0,
+    "price_second": 613.0,
+    "price_no_seat": 613.0
+  },
+  "fetched_at": "2026-05-01T06:59:28.267558"
+}

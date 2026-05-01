@@ -1,0 +1,44 @@
+{
+  "train_no": "D8128",
+  "train_type": "D",
+  "depart_station": "大理",
+  "arrive_station": "昆明南",
+  "depart_time": "22:38",
+  "arrive_time": "01:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "22:38",
+      "depart_time": "22:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广通北",
+      "arrive_time": "23:45",
+      "depart_time": "23:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "00:37",
+      "depart_time": "00:42",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明南",
+      "arrive_time": "01:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 231.0,
+    "price_second": 145.0,
+    "price_no_seat": 145.0
+  },
+  "fetched_at": "2026-05-01T04:49:59.103213"
+}

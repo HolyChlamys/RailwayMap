@@ -1,0 +1,52 @@
+{
+  "train_no": "G4517",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "许昌东",
+  "depart_time": "00:45",
+  "arrive_time": "05:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "00:45",
+      "depart_time": "00:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "01:46",
+      "depart_time": "01:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "03:04",
+      "depart_time": "03:12",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "04:41",
+      "depart_time": "05:01",
+      "stay_min": "20"
+    },
+    {
+      "seq": 5,
+      "station_name": "许昌东",
+      "arrive_time": "05:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1827.5,
+    "price_first": 861.0,
+    "price_second": 538.5,
+    "price_no_seat": 538.5
+  },
+  "fetched_at": "2026-05-01T07:07:42.258014"
+}

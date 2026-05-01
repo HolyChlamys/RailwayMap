@@ -1,0 +1,72 @@
+{
+  "train_no": "C6978",
+  "train_type": "C",
+  "depart_station": "阳江",
+  "arrive_station": "佛山西",
+  "depart_time": "20:37",
+  "arrive_time": "22:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阳江",
+      "arrive_time": "20:37",
+      "depart_time": "20:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "恩平",
+      "arrive_time": "21:02",
+      "depart_time": "21:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "开平南",
+      "arrive_time": "21:18",
+      "depart_time": "21:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "台山",
+      "arrive_time": "21:29",
+      "depart_time": "21:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "江门",
+      "arrive_time": "21:49",
+      "depart_time": "21:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "江门东",
+      "arrive_time": "21:59",
+      "depart_time": "21:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州南",
+      "arrive_time": "22:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "佛山西",
+      "arrive_time": "22:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 227.0,
+    "price_second": 150.0,
+    "price_no_seat": 150.0
+  },
+  "fetched_at": "2026-05-01T02:02:08.156324"
+}

@@ -1,0 +1,35 @@
+{
+  "train_no": "K5364",
+  "train_type": "K",
+  "depart_station": "洛阳",
+  "arrive_station": "新乡",
+  "depart_time": "12:20",
+  "arrive_time": "14:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "洛阳",
+      "arrive_time": "12:20",
+      "depart_time": "12:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "焦作",
+      "arrive_time": "14:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新乡",
+      "arrive_time": "14:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:08:52.002455"
+}

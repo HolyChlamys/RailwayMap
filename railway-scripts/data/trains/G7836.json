@@ -1,0 +1,52 @@
+{
+  "train_no": "G7836",
+  "train_type": "G",
+  "depart_station": "崇礼",
+  "arrive_station": "清河",
+  "depart_time": "17:12",
+  "arrive_time": "18:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "崇礼",
+      "arrive_time": "17:12",
+      "depart_time": "17:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太子城",
+      "arrive_time": "17:32",
+      "depart_time": "17:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "下花园北",
+      "arrive_time": "17:52",
+      "depart_time": "17:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "八达岭长城",
+      "arrive_time": "18:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "清河",
+      "arrive_time": "18:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 306.0,
+    "price_first": 163.0,
+    "price_second": 102.0,
+    "price_no_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T08:37:48.042971"
+}

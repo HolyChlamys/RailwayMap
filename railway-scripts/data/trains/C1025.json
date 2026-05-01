@@ -1,0 +1,37 @@
+{
+  "train_no": "C1025",
+  "train_type": "C",
+  "depart_station": "长春",
+  "arrive_station": "珲春",
+  "depart_time": "17:28",
+  "arrive_time": "19:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "17:28",
+      "depart_time": "17:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延吉西",
+      "arrive_time": "19:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "珲春",
+      "arrive_time": "19:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 233.0,
+    "price_second": 145.0,
+    "price_no_seat": 145.0
+  },
+  "fetched_at": "2026-05-01T00:19:56.912164"
+}

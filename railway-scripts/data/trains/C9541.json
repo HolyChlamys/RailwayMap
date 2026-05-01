@@ -1,0 +1,44 @@
+{
+  "train_no": "C9541",
+  "train_type": "C",
+  "depart_station": "三明北",
+  "arrive_station": "福州",
+  "depart_time": "21:36",
+  "arrive_time": "22:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "三明北",
+      "arrive_time": "21:36",
+      "depart_time": "21:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "尤溪",
+      "arrive_time": "22:09",
+      "depart_time": "22:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "永泰",
+      "arrive_time": "22:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福州",
+      "arrive_time": "22:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 116.0,
+    "price_second": 72.0,
+    "price_no_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T02:48:39.255562"
+}

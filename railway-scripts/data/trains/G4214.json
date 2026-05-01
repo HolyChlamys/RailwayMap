@@ -1,0 +1,73 @@
+{
+  "train_no": "G4214",
+  "train_type": "G",
+  "depart_station": "宜昌北",
+  "arrive_station": "合肥南",
+  "depart_time": "06:30",
+  "arrive_time": "09:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌北",
+      "arrive_time": "06:30",
+      "depart_time": "06:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆门西",
+      "arrive_time": "06:52",
+      "depart_time": "06:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天门",
+      "arrive_time": "07:25",
+      "depart_time": "07:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉川北",
+      "arrive_time": "07:45",
+      "depart_time": "07:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汉口",
+      "arrive_time": "08:13",
+      "depart_time": "08:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "麻城北",
+      "arrive_time": "08:59",
+      "depart_time": "08:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "六安",
+      "arrive_time": "09:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "合肥南",
+      "arrive_time": "09:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1925.0,
+    "price_first": 927.0,
+    "price_second": 579.0,
+    "price_no_seat": 579.0
+  },
+  "fetched_at": "2026-05-01T06:59:05.121906"
+}

@@ -1,0 +1,101 @@
+{
+  "train_no": "G4231",
+  "train_type": "G",
+  "depart_station": "宁波",
+  "arrive_station": "南昌东",
+  "depart_time": "06:43",
+  "arrive_time": "12:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宁波",
+      "arrive_time": "06:43",
+      "depart_time": "06:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "余姚北",
+      "arrive_time": "07:03",
+      "depart_time": "07:07",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "绍兴北",
+      "arrive_time": "07:25",
+      "depart_time": "07:36",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州南",
+      "arrive_time": "07:51",
+      "depart_time": "08:13",
+      "stay_min": "22"
+    },
+    {
+      "seq": 5,
+      "station_name": "富阳",
+      "arrive_time": "08:31",
+      "depart_time": "08:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "建德",
+      "arrive_time": "09:05",
+      "depart_time": "09:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "衢州西",
+      "arrive_time": "09:34",
+      "depart_time": "09:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "开化",
+      "arrive_time": "10:01",
+      "depart_time": "10:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "婺源",
+      "arrive_time": "10:34",
+      "depart_time": "10:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "景德镇北",
+      "arrive_time": "11:04",
+      "depart_time": "11:15",
+      "stay_min": "11"
+    },
+    {
+      "seq": 11,
+      "station_name": "鄱阳",
+      "arrive_time": "11:36",
+      "depart_time": "11:42",
+      "stay_min": "6"
+    },
+    {
+      "seq": 12,
+      "station_name": "南昌东",
+      "arrive_time": "12:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1263.0,
+    "price_first": 603.0,
+    "price_second": 377.0,
+    "price_no_seat": 377.0
+  },
+  "fetched_at": "2026-05-01T06:59:36.512508"
+}

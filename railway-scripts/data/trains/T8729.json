@@ -1,0 +1,35 @@
+{
+  "train_no": "T8729",
+  "train_type": "T",
+  "depart_station": "柳州",
+  "arrive_station": "金城江",
+  "depart_time": "10:51",
+  "arrive_time": "12:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "柳州",
+      "arrive_time": "10:51",
+      "depart_time": "10:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜州",
+      "arrive_time": "12:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金城江",
+      "arrive_time": "12:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 24.5
+  },
+  "fetched_at": "2026-05-01T11:28:10.950736"
+}

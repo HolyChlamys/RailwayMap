@@ -1,0 +1,52 @@
+{
+  "train_no": "G6601",
+  "train_type": "G",
+  "depart_station": "濮阳东",
+  "arrive_station": "郑州东",
+  "depart_time": "11:34",
+  "arrive_time": "12:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "濮阳东",
+      "arrive_time": "11:34",
+      "depart_time": "11:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "滑浚",
+      "arrive_time": "11:54",
+      "depart_time": "11:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "卫辉南",
+      "arrive_time": "12:11",
+      "depart_time": "12:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新乡东",
+      "arrive_time": "12:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "12:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 408.0,
+    "price_first": 187.0,
+    "price_second": 116.0,
+    "price_no_seat": 116.0
+  },
+  "fetched_at": "2026-05-01T08:03:40.806459"
+}

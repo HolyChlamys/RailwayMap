@@ -1,0 +1,73 @@
+{
+  "train_no": "G6040",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "深圳坪山",
+  "depart_time": "12:42",
+  "arrive_time": "16:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "12:42",
+      "depart_time": "12:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲西",
+      "arrive_time": "12:57",
+      "depart_time": "12:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州西",
+      "arrive_time": "13:54",
+      "depart_time": "13:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "英德西",
+      "arrive_time": "14:42",
+      "depart_time": "14:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "15:22",
+      "depart_time": "15:27",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "虎门",
+      "arrive_time": "15:46",
+      "depart_time": "15:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳北",
+      "arrive_time": "16:05",
+      "depart_time": "16:10",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "深圳坪山",
+      "arrive_time": "16:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1576.5,
+    "price_first": 729.5,
+    "price_second": 467.5,
+    "price_no_seat": 467.5
+  },
+  "fetched_at": "2026-05-01T07:47:02.313882"
+}

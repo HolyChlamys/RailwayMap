@@ -1,0 +1,58 @@
+{
+  "train_no": "C556",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "个旧",
+  "depart_time": "13:18",
+  "arrive_time": "16:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "13:18",
+      "depart_time": "13:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆阳",
+      "arrive_time": "14:01",
+      "depart_time": "14:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "玉溪",
+      "arrive_time": "14:27",
+      "depart_time": "14:32",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "通海",
+      "arrive_time": "14:54",
+      "depart_time": "14:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "建水",
+      "arrive_time": "15:36",
+      "depart_time": "15:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "个旧",
+      "arrive_time": "16:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 125.0,
+    "price_second": 78.0,
+    "price_no_seat": 78.0
+  },
+  "fetched_at": "2026-05-01T01:34:45.422365"
+}

@@ -1,0 +1,79 @@
+{
+  "train_no": "C979",
+  "train_type": "C",
+  "depart_station": "徐州",
+  "arrive_station": "上海南",
+  "depart_time": "14:20",
+  "arrive_time": "19:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "徐州",
+      "arrive_time": "14:20",
+      "depart_time": "14:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宿州",
+      "arrive_time": "14:59",
+      "depart_time": "14:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "蚌埠",
+      "arrive_time": "15:52",
+      "depart_time": "15:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南京",
+      "arrive_time": "17:35",
+      "depart_time": "17:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "镇江",
+      "arrive_time": "18:09",
+      "depart_time": "18:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "常州",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "无锡",
+      "arrive_time": "19:16",
+      "depart_time": "19:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "苏州",
+      "arrive_time": "19:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "上海南",
+      "arrive_time": "19:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 327.0,
+    "price_second": 205.0,
+    "price_no_seat": 205.0
+  },
+  "fetched_at": "2026-05-01T02:52:23.877183"
+}

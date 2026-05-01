@@ -1,0 +1,59 @@
+{
+  "train_no": "G6100",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "衡阳东",
+  "depart_time": "20:26",
+  "arrive_time": "22:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "20:26",
+      "depart_time": "20:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门",
+      "arrive_time": "20:45",
+      "depart_time": "20:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "21:06",
+      "depart_time": "21:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "韶关",
+      "arrive_time": "21:59",
+      "depart_time": "21:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郴州西",
+      "arrive_time": "22:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "衡阳东",
+      "arrive_time": "22:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1213.5,
+    "price_first": 563.5,
+    "price_second": 364.5,
+    "price_no_seat": 364.5
+  },
+  "fetched_at": "2026-05-01T07:48:52.734727"
+}

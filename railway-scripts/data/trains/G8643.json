@@ -1,0 +1,52 @@
+{
+  "train_no": "G8643",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "沙坪坝",
+  "depart_time": "08:22",
+  "arrive_time": "09:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "08:22",
+      "depart_time": "08:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "资中北",
+      "arrive_time": "08:54",
+      "depart_time": "08:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "荣昌北",
+      "arrive_time": "09:17",
+      "depart_time": "09:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "永川东",
+      "arrive_time": "09:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沙坪坝",
+      "arrive_time": "09:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 576.0,
+    "price_first": 263.0,
+    "price_second": 164.0,
+    "price_no_seat": 164.0
+  },
+  "fetched_at": "2026-05-01T08:56:47.099022"
+}

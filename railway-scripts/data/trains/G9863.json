@@ -1,0 +1,45 @@
+{
+  "train_no": "G9863",
+  "train_type": "G",
+  "depart_station": "福州南",
+  "arrive_station": "厦门北",
+  "depart_time": "21:32",
+  "arrive_time": "22:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州南",
+      "arrive_time": "21:32",
+      "depart_time": "21:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莆田",
+      "arrive_time": "21:58",
+      "depart_time": "21:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泉州东",
+      "arrive_time": "22:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "厦门北",
+      "arrive_time": "22:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 207.0,
+    "price_first": 224.0,
+    "price_second": 140.0,
+    "price_no_seat": 140.0
+  },
+  "fetched_at": "2026-05-01T09:26:31.522443"
+}

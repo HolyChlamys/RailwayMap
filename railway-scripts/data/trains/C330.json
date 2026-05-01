@@ -1,0 +1,51 @@
+{
+  "train_no": "C330",
+  "train_type": "C",
+  "depart_station": "普洱",
+  "arrive_station": "昆明南",
+  "depart_time": "07:30",
+  "arrive_time": "09:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "普洱",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "墨江",
+      "arrive_time": "08:27",
+      "depart_time": "08:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "峨山",
+      "arrive_time": "09:22",
+      "depart_time": "09:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "玉溪",
+      "arrive_time": "09:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明南",
+      "arrive_time": "09:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 298.0,
+    "price_second": 187.0,
+    "price_no_seat": 187.0
+  },
+  "fetched_at": "2026-05-01T00:56:18.343026"
+}

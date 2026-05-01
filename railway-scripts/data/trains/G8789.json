@@ -1,0 +1,108 @@
+{
+  "train_no": "G8789",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "泸州",
+  "depart_time": "12:38",
+  "arrive_time": "18:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "12:38",
+      "depart_time": "12:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "毕节",
+      "arrive_time": "13:25",
+      "depart_time": "13:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "镇雄",
+      "arrive_time": "13:45",
+      "depart_time": "13:52",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "宜宾西",
+      "arrive_time": "14:40",
+      "depart_time": "14:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "眉山东",
+      "arrive_time": "15:38",
+      "depart_time": "15:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "新津",
+      "arrive_time": "15:56",
+      "depart_time": "15:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "成都南",
+      "arrive_time": "16:13",
+      "depart_time": "16:19",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "内江北",
+      "arrive_time": "17:03",
+      "depart_time": "17:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "内江东",
+      "arrive_time": "17:19",
+      "depart_time": "17:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "自贡",
+      "arrive_time": "17:34",
+      "depart_time": "17:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "富顺",
+      "arrive_time": "17:46",
+      "depart_time": "17:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "泸县",
+      "arrive_time": "18:00",
+      "depart_time": "18:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "泸州",
+      "arrive_time": "18:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1335.0,
+    "price_first": 678.0,
+    "price_second": 423.0,
+    "price_no_seat": 423.0
+  },
+  "fetched_at": "2026-05-01T09:00:33.082031"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "D5276",
+  "train_type": "D",
+  "depart_station": "汉中",
+  "arrive_station": "西安北",
+  "depart_time": "20:56",
+  "arrive_time": "22:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉中",
+      "arrive_time": "20:56",
+      "depart_time": "20:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洋县西",
+      "arrive_time": "21:15",
+      "depart_time": "21:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄠邑",
+      "arrive_time": "22:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安北",
+      "arrive_time": "22:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 186.0,
+    "price_second": 116.0,
+    "price_no_seat": 116.0
+  },
+  "fetched_at": "2026-05-01T04:03:44.161955"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "D8334",
+  "train_type": "D",
+  "depart_station": "防城港北",
+  "arrive_station": "北海",
+  "depart_time": "13:20",
+  "arrive_time": "14:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "防城港北",
+      "arrive_time": "13:20",
+      "depart_time": "13:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "钦州东",
+      "arrive_time": "13:49",
+      "depart_time": "13:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "合浦",
+      "arrive_time": "14:16",
+      "depart_time": "14:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "北海",
+      "arrive_time": "14:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 78.0,
+    "price_second": 49.0,
+    "price_no_seat": 49.0
+  },
+  "fetched_at": "2026-05-01T04:54:33.615800"
+}

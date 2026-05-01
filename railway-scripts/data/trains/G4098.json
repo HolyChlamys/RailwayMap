@@ -1,0 +1,52 @@
+{
+  "train_no": "G4098",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "南昌西",
+  "depart_time": "17:54",
+  "arrive_time": "19:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "17:54",
+      "depart_time": "17:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "醴陵东",
+      "arrive_time": "18:21",
+      "depart_time": "18:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜春",
+      "arrive_time": "18:46",
+      "depart_time": "18:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新余北",
+      "arrive_time": "19:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌西",
+      "arrive_time": "19:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 658.0,
+    "price_first": 301.0,
+    "price_second": 188.0,
+    "price_no_seat": 188.0
+  },
+  "fetched_at": "2026-05-01T06:55:41.368176"
+}

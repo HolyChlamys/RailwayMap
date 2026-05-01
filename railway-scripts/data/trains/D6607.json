@@ -1,0 +1,51 @@
+{
+  "train_no": "D6607",
+  "train_type": "D",
+  "depart_station": "北京北",
+  "arrive_station": "张家口",
+  "depart_time": "15:45",
+  "arrive_time": "16:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京北",
+      "arrive_time": "15:45",
+      "depart_time": "15:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "清河",
+      "arrive_time": "16:01",
+      "depart_time": "16:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "怀来",
+      "arrive_time": "16:36",
+      "depart_time": "16:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宣化北",
+      "arrive_time": "16:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "张家口",
+      "arrive_time": "16:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 124.0,
+    "price_second": 77.0,
+    "price_no_seat": 77.0
+  },
+  "fetched_at": "2026-05-01T04:26:19.317829"
+}

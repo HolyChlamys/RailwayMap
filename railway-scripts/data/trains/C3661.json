@@ -1,0 +1,80 @@
+{
+  "train_no": "C3661",
+  "train_type": "C",
+  "depart_station": "安庆",
+  "arrive_station": "太仓",
+  "depart_time": "15:11",
+  "arrive_time": "18:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安庆",
+      "arrive_time": "15:11",
+      "depart_time": "15:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "铜陵",
+      "arrive_time": "15:41",
+      "depart_time": "15:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "芜湖",
+      "arrive_time": "16:11",
+      "depart_time": "16:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "马鞍山东",
+      "arrive_time": "16:30",
+      "depart_time": "16:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "16:49",
+      "depart_time": "16:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "武进",
+      "arrive_time": "17:25",
+      "depart_time": "17:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "江阴",
+      "arrive_time": "17:41",
+      "depart_time": "17:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "常熟",
+      "arrive_time": "18:01",
+      "depart_time": "18:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "太仓",
+      "arrive_time": "18:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 928.0,
+    "price_first": 424.0,
+    "price_second": 265.0,
+    "price_no_seat": 265.0
+  },
+  "fetched_at": "2026-05-01T01:02:03.637407"
+}

@@ -1,0 +1,50 @@
+{
+  "train_no": "C3391",
+  "train_type": "C",
+  "depart_station": "雅安",
+  "arrive_station": "成都南",
+  "depart_time": "10:45",
+  "arrive_time": "12:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "雅安",
+      "arrive_time": "10:45",
+      "depart_time": "10:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "名山",
+      "arrive_time": "10:54",
+      "depart_time": "10:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "朝阳湖",
+      "arrive_time": "11:11",
+      "depart_time": "11:14",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "邛崃",
+      "arrive_time": "11:28",
+      "depart_time": "11:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "成都南",
+      "arrive_time": "12:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 58.0,
+    "price_no_seat": 58.0
+  },
+  "fetched_at": "2026-05-01T00:58:19.738024"
+}

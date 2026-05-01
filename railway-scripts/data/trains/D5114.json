@@ -1,0 +1,30 @@
+{
+  "train_no": "D5114",
+  "train_type": "D",
+  "depart_station": "成都东",
+  "arrive_station": "绵阳",
+  "depart_time": "09:24",
+  "arrive_time": "09:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "09:24",
+      "depart_time": "09:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绵阳",
+      "arrive_time": "09:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 87.0,
+    "price_second": 54.0,
+    "price_no_seat": 54.0
+  },
+  "fetched_at": "2026-05-01T04:00:43.925670"
+}

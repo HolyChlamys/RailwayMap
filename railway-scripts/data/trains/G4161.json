@@ -1,0 +1,38 @@
+{
+  "train_no": "G4161",
+  "train_type": "G",
+  "depart_station": "清河",
+  "arrive_station": "包头",
+  "depart_time": "01:53",
+  "arrive_time": "04:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清河",
+      "arrive_time": "01:53",
+      "depart_time": "01:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "呼和浩特",
+      "arrive_time": "04:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "包头",
+      "arrive_time": "04:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 788.0,
+    "price_first": 421.0,
+    "price_second": 262.5,
+    "price_no_seat": 262.5
+  },
+  "fetched_at": "2026-05-01T06:57:34.113572"
+}

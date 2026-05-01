@@ -1,0 +1,31 @@
+{
+  "train_no": "C1036",
+  "train_type": "C",
+  "depart_station": "敦化",
+  "arrive_station": "吉林",
+  "depart_time": "07:19",
+  "arrive_time": "07:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "敦化",
+      "arrive_time": "07:19",
+      "depart_time": "07:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉林",
+      "arrive_time": "07:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 144.5,
+    "price_first": 77.0,
+    "price_second": 48.0,
+    "price_no_seat": 48.0
+  },
+  "fetched_at": "2026-05-01T00:20:10.151387"
+}

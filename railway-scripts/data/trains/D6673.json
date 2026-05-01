@@ -1,0 +1,37 @@
+{
+  "train_no": "D6673",
+  "train_type": "D",
+  "depart_station": "石家庄",
+  "arrive_station": "衡水北",
+  "depart_time": "06:15",
+  "arrive_time": "06:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石家庄",
+      "arrive_time": "06:15",
+      "depart_time": "06:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "辛集南",
+      "arrive_time": "06:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡水北",
+      "arrive_time": "06:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 69.0,
+    "price_second": 43.0,
+    "price_no_seat": 43.0
+  },
+  "fetched_at": "2026-05-01T04:26:55.751018"
+}

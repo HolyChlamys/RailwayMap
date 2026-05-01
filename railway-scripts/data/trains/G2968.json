@@ -1,0 +1,66 @@
+{
+  "train_no": "G2968",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "汕尾",
+  "depart_time": "15:34",
+  "arrive_time": "23:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "15:34",
+      "depart_time": "15:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳东",
+      "arrive_time": "17:34",
+      "depart_time": "17:38",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "龙洞堡",
+      "arrive_time": "17:48",
+      "depart_time": "17:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "21:19",
+      "depart_time": "21:23",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "光明城",
+      "arrive_time": "21:49",
+      "depart_time": "21:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "22:01",
+      "depart_time": "22:25",
+      "stay_min": "24"
+    },
+    {
+      "seq": 7,
+      "station_name": "汕尾",
+      "arrive_time": "23:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2378.5,
+    "price_first": 1126.5,
+    "price_second": 716.5,
+    "price_no_seat": 716.5
+  },
+  "fetched_at": "2026-05-01T06:25:04.489159"
+}

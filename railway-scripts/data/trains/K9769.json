@@ -1,0 +1,84 @@
+{
+  "train_no": "K9769",
+  "train_type": "K",
+  "depart_station": "乌鲁木齐南",
+  "arrive_station": "喀什",
+  "depart_time": "20:50",
+  "arrive_time": "14:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐南",
+      "arrive_time": "20:50",
+      "depart_time": "20:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马兰",
+      "arrive_time": "02:08",
+      "depart_time": "02:26",
+      "stay_min": "18"
+    },
+    {
+      "seq": 3,
+      "station_name": "焉耆",
+      "arrive_time": "03:22",
+      "depart_time": "03:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "库尔勒",
+      "arrive_time": "04:10",
+      "depart_time": "04:30",
+      "stay_min": "20"
+    },
+    {
+      "seq": 5,
+      "station_name": "轮台",
+      "arrive_time": "06:17",
+      "depart_time": "06:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "库车",
+      "arrive_time": "07:15",
+      "depart_time": "07:23",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "阿克苏",
+      "arrive_time": "09:38",
+      "depart_time": "09:48",
+      "stay_min": "10"
+    },
+    {
+      "seq": 8,
+      "station_name": "巴楚",
+      "arrive_time": "12:07",
+      "depart_time": "12:12",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "阿图什",
+      "arrive_time": "14:16",
+      "depart_time": "14:20",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "喀什",
+      "arrive_time": "14:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 177.5
+  },
+  "fetched_at": "2026-05-01T10:48:53.667039"
+}

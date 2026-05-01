@@ -1,0 +1,50 @@
+{
+  "train_no": "G899",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "香港西九龙",
+  "depart_time": "20:15",
+  "arrive_time": "07:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "20:15",
+      "depart_time": "20:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "21:15",
+      "depart_time": "21:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁波",
+      "arrive_time": "22:13",
+      "depart_time": "22:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "07:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "香港西九龙",
+      "arrive_time": "07:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 769.0,
+    "price_no_seat": 769.0
+  },
+  "fetched_at": "2026-05-01T09:05:22.030516"
+}

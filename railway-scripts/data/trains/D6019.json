@@ -1,0 +1,65 @@
+{
+  "train_no": "D6019",
+  "train_type": "D",
+  "depart_station": "济南东",
+  "arrive_station": "潍坊",
+  "depart_time": "16:52",
+  "arrive_time": "19:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "16:52",
+      "depart_time": "16:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南西",
+      "arrive_time": "17:15",
+      "depart_time": "17:23",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "济南",
+      "arrive_time": "17:39",
+      "depart_time": "17:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "章丘",
+      "arrive_time": "18:04",
+      "depart_time": "18:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "淄博",
+      "arrive_time": "18:28",
+      "depart_time": "18:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "青州市",
+      "arrive_time": "18:47",
+      "depart_time": "18:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "潍坊",
+      "arrive_time": "19:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 160.0,
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T04:15:09.173140"
+}

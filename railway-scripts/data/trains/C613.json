@@ -1,0 +1,44 @@
+{
+  "train_no": "C613",
+  "train_type": "C",
+  "depart_station": "兰州",
+  "arrive_station": "中川机场东",
+  "depart_time": "08:30",
+  "arrive_time": "09:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州",
+      "arrive_time": "08:30",
+      "depart_time": "08:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兰州西",
+      "arrive_time": "08:43",
+      "depart_time": "08:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兰州新区",
+      "arrive_time": "09:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "中川机场东",
+      "arrive_time": "09:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 34.0,
+    "price_second": 21.0,
+    "price_no_seat": 21.0
+  },
+  "fetched_at": "2026-05-01T01:45:12.846534"
+}

@@ -1,0 +1,51 @@
+{
+  "train_no": "C1055",
+  "train_type": "C",
+  "depart_station": "长春西",
+  "arrive_station": "延吉西",
+  "depart_time": "08:11",
+  "arrive_time": "10:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春西",
+      "arrive_time": "08:11",
+      "depart_time": "08:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长春",
+      "arrive_time": "08:24",
+      "depart_time": "08:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吉林",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "敦化",
+      "arrive_time": "10:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "延吉西",
+      "arrive_time": "10:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 200.0,
+    "price_second": 124.0,
+    "price_no_seat": 124.0
+  },
+  "fetched_at": "2026-05-01T00:20:34.780348"
+}

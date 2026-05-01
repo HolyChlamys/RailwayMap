@@ -1,0 +1,164 @@
+{
+  "train_no": "G2321",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "南昌西",
+  "depart_time": "10:20",
+  "arrive_time": "20:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "10:20",
+      "depart_time": "10:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "隆昌北",
+      "arrive_time": "11:04",
+      "depart_time": "11:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆西",
+      "arrive_time": "11:42",
+      "depart_time": "11:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "珞璜南",
+      "arrive_time": "11:59",
+      "depart_time": "12:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南彭",
+      "arrive_time": "12:19",
+      "depart_time": "12:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆东",
+      "arrive_time": "12:35",
+      "depart_time": "12:55",
+      "stay_min": "20"
+    },
+    {
+      "seq": 7,
+      "station_name": "武隆南",
+      "arrive_time": "13:34",
+      "depart_time": "13:41",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "黔江",
+      "arrive_time": "14:09",
+      "depart_time": "14:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "龙山北",
+      "arrive_time": "14:45",
+      "depart_time": "14:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "张家界西",
+      "arrive_time": "15:27",
+      "depart_time": "15:45",
+      "stay_min": "18"
+    },
+    {
+      "seq": 11,
+      "station_name": "古丈西",
+      "arrive_time": "16:13",
+      "depart_time": "16:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "吉首东",
+      "arrive_time": "16:32",
+      "depart_time": "16:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "凤凰古城",
+      "arrive_time": "16:45",
+      "depart_time": "16:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "怀化南",
+      "arrive_time": "17:15",
+      "depart_time": "17:25",
+      "stay_min": "10"
+    },
+    {
+      "seq": 15,
+      "station_name": "溆浦南",
+      "arrive_time": "17:45",
+      "depart_time": "17:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "娄底南",
+      "arrive_time": "18:23",
+      "depart_time": "18:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "湘潭北",
+      "arrive_time": "18:51",
+      "depart_time": "18:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "长沙南",
+      "arrive_time": "19:07",
+      "depart_time": "19:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 19,
+      "station_name": "萍乡北",
+      "arrive_time": "19:37",
+      "depart_time": "19:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 20,
+      "station_name": "新余北",
+      "arrive_time": "20:08",
+      "depart_time": "20:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 21,
+      "station_name": "南昌西",
+      "arrive_time": "20:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3227.0,
+    "price_first": 1499.0,
+    "price_second": 936.0,
+    "price_no_seat": 936.0
+  },
+  "fetched_at": "2026-05-01T06:07:22.533894"
+}

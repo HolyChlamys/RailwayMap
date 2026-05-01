@@ -1,0 +1,50 @@
+{
+  "train_no": "D7034",
+  "train_type": "D",
+  "depart_station": "荆州",
+  "arrive_station": "潜江",
+  "depart_time": "11:51",
+  "arrive_time": "17:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荆州",
+      "arrive_time": "11:51",
+      "depart_time": "11:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "16:07",
+      "depart_time": "16:18",
+      "stay_min": "11"
+    },
+    {
+      "seq": 3,
+      "station_name": "大冶北",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "天门南",
+      "arrive_time": "16:54",
+      "depart_time": "16:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "潜江",
+      "arrive_time": "17:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 150.0,
+    "price_no_seat": 150.0
+  },
+  "fetched_at": "2026-05-01T04:32:39.999045"
+}

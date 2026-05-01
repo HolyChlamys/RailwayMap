@@ -1,0 +1,58 @@
+{
+  "train_no": "D6795",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "巴彦淖尔",
+  "depart_time": "08:22",
+  "arrive_time": "10:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "08:22",
+      "depart_time": "08:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "包头东",
+      "arrive_time": "09:27",
+      "depart_time": "09:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "包头",
+      "arrive_time": "09:42",
+      "depart_time": "09:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "乌拉特前旗",
+      "arrive_time": "10:18",
+      "depart_time": "10:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "五原",
+      "arrive_time": "10:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "10:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 315.0,
+    "price_second": 196.5,
+    "price_no_seat": 196.5
+  },
+  "fetched_at": "2026-05-01T04:28:53.284274"
+}

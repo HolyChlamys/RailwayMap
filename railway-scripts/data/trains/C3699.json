@@ -1,0 +1,73 @@
+{
+  "train_no": "C3699",
+  "train_type": "C",
+  "depart_station": "太仓",
+  "arrive_station": "芜湖",
+  "depart_time": "09:53",
+  "arrive_time": "12:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太仓",
+      "arrive_time": "09:53",
+      "depart_time": "09:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江阴",
+      "arrive_time": "10:22",
+      "depart_time": "10:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "武进",
+      "arrive_time": "10:38",
+      "depart_time": "10:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "金坛",
+      "arrive_time": "10:53",
+      "depart_time": "10:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "句容",
+      "arrive_time": "11:09",
+      "depart_time": "11:16",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "11:34",
+      "depart_time": "11:43",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "马鞍山东",
+      "arrive_time": "11:59",
+      "depart_time": "12:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "芜湖",
+      "arrive_time": "12:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 661.0,
+    "price_first": 302.0,
+    "price_second": 189.0,
+    "price_no_seat": 189.0
+  },
+  "fetched_at": "2026-05-01T01:02:49.934201"
+}

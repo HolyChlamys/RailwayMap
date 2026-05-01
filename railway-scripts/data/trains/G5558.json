@@ -1,0 +1,115 @@
+{
+  "train_no": "G5558",
+  "train_type": "G",
+  "depart_station": "济南",
+  "arrive_station": "济  南",
+  "depart_time": "15:22",
+  "arrive_time": "21:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "15:22",
+      "depart_time": "15:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "章丘",
+      "arrive_time": "15:45",
+      "depart_time": "15:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "昌乐",
+      "arrive_time": "16:33",
+      "depart_time": "16:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "潍坊",
+      "arrive_time": "16:47",
+      "depart_time": "16:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "胶州北",
+      "arrive_time": "17:25",
+      "depart_time": "17:31",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "青岛北",
+      "arrive_time": "17:57",
+      "depart_time": "18:13",
+      "stay_min": "16"
+    },
+    {
+      "seq": 7,
+      "station_name": "青岛西",
+      "arrive_time": "18:47",
+      "depart_time": "18:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "日照西",
+      "arrive_time": "19:19",
+      "depart_time": "19:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "莒南北",
+      "arrive_time": "19:41",
+      "depart_time": "19:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "临沂北",
+      "arrive_time": "19:57",
+      "depart_time": "19:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "费县北",
+      "arrive_time": "20:13",
+      "depart_time": "20:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "蒙山",
+      "arrive_time": "20:25",
+      "depart_time": "20:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "曲阜东",
+      "arrive_time": "20:49",
+      "depart_time": "20:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "济  南",
+      "arrive_time": "21:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1130.0,
+    "price_first": 602.0,
+    "price_second": 374.0,
+    "price_no_seat": 374.0
+  },
+  "fetched_at": "2026-05-01T07:36:54.269946"
+}

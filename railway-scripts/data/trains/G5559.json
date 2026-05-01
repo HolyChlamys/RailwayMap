@@ -1,0 +1,80 @@
+{
+  "train_no": "G5559",
+  "train_type": "G",
+  "depart_station": "日照",
+  "arrive_station": "菏泽东",
+  "depart_time": "06:10",
+  "arrive_time": "08:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "日照",
+      "arrive_time": "06:10",
+      "depart_time": "06:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "日照西",
+      "arrive_time": "06:26",
+      "depart_time": "06:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "厉家寨",
+      "arrive_time": "06:42",
+      "depart_time": "06:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "莒南北",
+      "arrive_time": "06:56",
+      "depart_time": "06:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "临沂北",
+      "arrive_time": "07:13",
+      "depart_time": "07:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "费县北",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "曲阜东",
+      "arrive_time": "08:14",
+      "depart_time": "08:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "巨野北",
+      "arrive_time": "08:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "菏泽东",
+      "arrive_time": "08:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 726.0,
+    "price_first": 362.0,
+    "price_second": 227.0,
+    "price_no_seat": 227.0
+  },
+  "fetched_at": "2026-05-01T07:36:55.908142"
+}

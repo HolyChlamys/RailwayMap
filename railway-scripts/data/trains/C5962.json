@@ -1,0 +1,44 @@
+{
+  "train_no": "C5962",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "松潘",
+  "depart_time": "12:45",
+  "arrive_time": "14:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "12:45",
+      "depart_time": "12:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青白江东",
+      "arrive_time": "13:01",
+      "depart_time": "13:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "绵竹南",
+      "arrive_time": "13:24",
+      "depart_time": "13:28",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "松潘",
+      "arrive_time": "14:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 216.0,
+    "price_second": 135.0,
+    "price_no_seat": 135.0
+  },
+  "fetched_at": "2026-05-01T01:42:09.853781"
+}

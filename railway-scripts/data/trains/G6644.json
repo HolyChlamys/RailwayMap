@@ -1,0 +1,45 @@
+{
+  "train_no": "G6644",
+  "train_type": "G",
+  "depart_station": "洛阳龙门",
+  "arrive_station": "安阳东",
+  "depart_time": "12:47",
+  "arrive_time": "14:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "洛阳龙门",
+      "arrive_time": "12:47",
+      "depart_time": "12:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "13:37",
+      "depart_time": "13:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鹤壁东",
+      "arrive_time": "14:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安阳东",
+      "arrive_time": "14:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 616.0,
+    "price_first": 282.0,
+    "price_second": 176.0,
+    "price_no_seat": 176.0
+  },
+  "fetched_at": "2026-05-01T08:04:48.632694"
+}

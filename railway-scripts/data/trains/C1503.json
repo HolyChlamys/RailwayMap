@@ -1,0 +1,44 @@
+{
+  "train_no": "C1503",
+  "train_type": "C",
+  "depart_station": "沈阳北",
+  "arrive_station": "新宾",
+  "depart_time": "07:58",
+  "arrive_time": "08:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "07:58",
+      "depart_time": "07:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "伯官",
+      "arrive_time": "08:15",
+      "depart_time": "08:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "抚顺",
+      "arrive_time": "08:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新宾",
+      "arrive_time": "08:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 169.0,
+    "price_second": 106.0,
+    "price_no_seat": 106.0
+  },
+  "fetched_at": "2026-05-01T00:26:06.097377"
+}

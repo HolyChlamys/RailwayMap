@@ -1,0 +1,100 @@
+{
+  "train_no": "D2398",
+  "train_type": "D",
+  "depart_station": "广州东",
+  "arrive_station": "厦门",
+  "depart_time": "16:34",
+  "arrive_time": "20:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "16:34",
+      "depart_time": "16:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "16:59",
+      "depart_time": "16:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "增城",
+      "arrive_time": "17:21",
+      "depart_time": "17:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "罗浮山",
+      "arrive_time": "17:34",
+      "depart_time": "17:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "18:21",
+      "depart_time": "18:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "潮阳",
+      "arrive_time": "18:59",
+      "depart_time": "18:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "潮汕",
+      "arrive_time": "19:21",
+      "depart_time": "19:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "诏安",
+      "arrive_time": "19:50",
+      "depart_time": "19:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "云霄",
+      "arrive_time": "20:11",
+      "depart_time": "20:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "漳浦",
+      "arrive_time": "20:25",
+      "depart_time": "20:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "漳州",
+      "arrive_time": "20:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "厦门",
+      "arrive_time": "20:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 510.0,
+    "price_second": 327.0,
+    "price_no_seat": 327.0
+  },
+  "fetched_at": "2026-05-01T03:16:27.766117"
+}

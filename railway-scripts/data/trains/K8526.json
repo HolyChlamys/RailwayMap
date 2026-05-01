@@ -1,0 +1,56 @@
+{
+  "train_no": "K8526",
+  "train_type": "K",
+  "depart_station": "芜湖",
+  "arrive_station": "合肥",
+  "depart_time": "05:44",
+  "arrive_time": "09:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "芜湖",
+      "arrive_time": "05:44",
+      "depart_time": "05:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "无为南",
+      "arrive_time": "06:57",
+      "depart_time": "07:00",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "龙桥",
+      "arrive_time": "07:33",
+      "depart_time": "07:36",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "庐江",
+      "arrive_time": "08:17",
+      "depart_time": "08:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "舒城",
+      "arrive_time": "08:34",
+      "depart_time": "08:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "合肥",
+      "arrive_time": "09:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:40:00.452253"
+}

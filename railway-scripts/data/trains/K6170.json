@@ -1,0 +1,49 @@
+{
+  "train_no": "K6170",
+  "train_type": "K",
+  "depart_station": "十堰",
+  "arrive_station": "安陆",
+  "depart_time": "07:50",
+  "arrive_time": "11:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "十堰",
+      "arrive_time": "07:50",
+      "depart_time": "07:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "谷城",
+      "arrive_time": "09:02",
+      "depart_time": "09:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "襄阳",
+      "arrive_time": "10:26",
+      "depart_time": "10:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "随州",
+      "arrive_time": "11:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "安陆",
+      "arrive_time": "11:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T10:19:14.350545"
+}

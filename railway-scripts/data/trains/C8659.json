@@ -1,0 +1,44 @@
+{
+  "train_no": "C8659",
+  "train_type": "C",
+  "depart_station": "三江南",
+  "arrive_station": "南宁东",
+  "depart_time": "11:42",
+  "arrive_time": "13:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "三江南",
+      "arrive_time": "11:42",
+      "depart_time": "11:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桂林",
+      "arrive_time": "12:27",
+      "depart_time": "12:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "柳州",
+      "arrive_time": "13:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁东",
+      "arrive_time": "13:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 303.0,
+    "price_second": 189.5,
+    "price_no_seat": 189.5
+  },
+  "fetched_at": "2026-05-01T02:35:26.541484"
+}

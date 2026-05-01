@@ -1,0 +1,91 @@
+{
+  "train_no": "K794",
+  "train_type": "K",
+  "depart_station": "广州白云",
+  "arrive_station": "鹰潭",
+  "depart_time": "09:26",
+  "arrive_time": "22:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "09:26",
+      "depart_time": "09:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞东",
+      "arrive_time": "10:56",
+      "depart_time": "11:05",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州",
+      "arrive_time": "11:48",
+      "depart_time": "11:53",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "河源",
+      "arrive_time": "12:43",
+      "depart_time": "12:47",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "龙川",
+      "arrive_time": "13:42",
+      "depart_time": "13:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "赣州",
+      "arrive_time": "16:45",
+      "depart_time": "16:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "泰和",
+      "arrive_time": "18:26",
+      "depart_time": "18:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "吉安",
+      "arrive_time": "18:52",
+      "depart_time": "18:56",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "进贤",
+      "arrive_time": "21:17",
+      "depart_time": "21:21",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "东乡",
+      "arrive_time": "21:46",
+      "depart_time": "21:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "鹰潭",
+      "arrive_time": "22:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 155.5
+  },
+  "fetched_at": "2026-05-01T10:33:21.050892"
+}

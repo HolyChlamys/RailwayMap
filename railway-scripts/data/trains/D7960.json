@@ -1,0 +1,58 @@
+{
+  "train_no": "D7960",
+  "train_type": "D",
+  "depart_station": "双鸭山西",
+  "arrive_station": "哈尔滨",
+  "depart_time": "07:14",
+  "arrive_time": "10:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "双鸭山西",
+      "arrive_time": "07:14",
+      "depart_time": "07:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佳木斯",
+      "arrive_time": "07:39",
+      "depart_time": "07:48",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "方正",
+      "arrive_time": "08:47",
+      "depart_time": "08:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "胜利镇",
+      "arrive_time": "09:13",
+      "depart_time": "09:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "宾州",
+      "arrive_time": "09:32",
+      "depart_time": "09:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "哈尔滨",
+      "arrive_time": "10:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 246.0,
+    "price_second": 154.0,
+    "price_no_seat": 154.0
+  },
+  "fetched_at": "2026-05-01T04:48:18.671745"
+}

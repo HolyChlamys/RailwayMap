@@ -1,0 +1,192 @@
+{
+  "train_no": "G3326",
+  "train_type": "G",
+  "depart_station": "连云港",
+  "arrive_station": "深圳北",
+  "depart_time": "07:12",
+  "arrive_time": "18:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "连云港",
+      "arrive_time": "07:12",
+      "depart_time": "07:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮安东",
+      "arrive_time": "07:57",
+      "depart_time": "07:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "高邮",
+      "arrive_time": "08:27",
+      "depart_time": "08:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "扬州东",
+      "arrive_time": "08:44",
+      "depart_time": "08:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "大港南",
+      "arrive_time": "09:03",
+      "depart_time": "09:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "镇江",
+      "arrive_time": "09:21",
+      "depart_time": "09:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京南",
+      "arrive_time": "09:51",
+      "depart_time": "10:01",
+      "stay_min": "10"
+    },
+    {
+      "seq": 8,
+      "station_name": "马鞍山东",
+      "arrive_time": "10:17",
+      "depart_time": "10:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "宣城",
+      "arrive_time": "11:00",
+      "depart_time": "11:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "宁国南",
+      "arrive_time": "11:18",
+      "depart_time": "11:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "黄山北",
+      "arrive_time": "11:53",
+      "depart_time": "11:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "黟县东",
+      "arrive_time": "12:09",
+      "depart_time": "12:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "景德镇北",
+      "arrive_time": "12:49",
+      "depart_time": "12:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "鄱阳",
+      "arrive_time": "13:15",
+      "depart_time": "13:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "余干",
+      "arrive_time": "13:28",
+      "depart_time": "13:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "南昌东",
+      "arrive_time": "13:50",
+      "depart_time": "13:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 17,
+      "station_name": "丰城东",
+      "arrive_time": "14:14",
+      "depart_time": "14:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "新干东",
+      "arrive_time": "14:33",
+      "depart_time": "14:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "泰和",
+      "arrive_time": "15:04",
+      "depart_time": "15:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 20,
+      "station_name": "赣州西",
+      "arrive_time": "15:46",
+      "depart_time": "15:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 21,
+      "station_name": "河源东",
+      "arrive_time": "16:54",
+      "depart_time": "17:05",
+      "stay_min": "11"
+    },
+    {
+      "seq": 22,
+      "station_name": "博罗北",
+      "arrive_time": "17:16",
+      "depart_time": "17:21",
+      "stay_min": "5"
+    },
+    {
+      "seq": 23,
+      "station_name": "惠州北",
+      "arrive_time": "17:34",
+      "depart_time": "17:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 24,
+      "station_name": "东莞南",
+      "arrive_time": "17:53",
+      "depart_time": "17:56",
+      "stay_min": "3"
+    },
+    {
+      "seq": 25,
+      "station_name": "深圳北",
+      "arrive_time": "18:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3419.0,
+    "price_first": 1638.0,
+    "price_second": 1025.0,
+    "price_no_seat": 1025.0
+  },
+  "fetched_at": "2026-05-01T06:34:55.451316"
+}

@@ -1,0 +1,30 @@
+{
+  "train_no": "D7042",
+  "train_type": "D",
+  "depart_station": "大冶北",
+  "arrive_station": "荆州",
+  "depart_time": "23:05",
+  "arrive_time": "01:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大冶北",
+      "arrive_time": "23:05",
+      "depart_time": "23:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "01:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 47.0,
+    "price_second": 29.0,
+    "price_no_seat": 29.0
+  },
+  "fetched_at": "2026-05-01T04:32:53.235823"
+}

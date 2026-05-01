@@ -1,0 +1,72 @@
+{
+  "train_no": "G8757",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "六盘水",
+  "depart_time": "06:31",
+  "arrive_time": "10:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "06:31",
+      "depart_time": "06:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遵义",
+      "arrive_time": "07:55",
+      "depart_time": "07:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "08:48",
+      "depart_time": "08:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺西",
+      "arrive_time": "09:19",
+      "depart_time": "09:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "六枝南",
+      "arrive_time": "09:43",
+      "depart_time": "09:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "冷坝",
+      "arrive_time": "10:01",
+      "depart_time": "10:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "六盘水东",
+      "arrive_time": "10:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "六盘水",
+      "arrive_time": "10:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 387.0,
+    "price_second": 242.0,
+    "price_no_seat": 242.0
+  },
+  "fetched_at": "2026-05-01T08:59:38.699105"
+}

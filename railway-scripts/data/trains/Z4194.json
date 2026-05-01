@@ -1,0 +1,40 @@
+{
+  "train_no": "Z4194",
+  "train_type": "Z",
+  "depart_station": "长沙",
+  "arrive_station": "武昌",
+  "depart_time": "15:00",
+  "arrive_time": "17:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "15:00",
+      "depart_time": "15:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "岳阳",
+      "arrive_time": "16:24",
+      "depart_time": "16:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "咸宁",
+      "arrive_time": "17:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武昌",
+      "arrive_time": "17:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:49:27.099682"
+}

@@ -1,0 +1,66 @@
+{
+  "train_no": "C7267",
+  "train_type": "C",
+  "depart_station": "怀化南",
+  "arrive_station": "深圳北",
+  "depart_time": "20:06",
+  "arrive_time": "00:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "怀化南",
+      "arrive_time": "20:06",
+      "depart_time": "20:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洞口",
+      "arrive_time": "20:39",
+      "depart_time": "20:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "隆回",
+      "arrive_time": "20:59",
+      "depart_time": "20:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "邵阳",
+      "arrive_time": "21:21",
+      "depart_time": "21:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡阳东",
+      "arrive_time": "22:22",
+      "depart_time": "22:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "00:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳北",
+      "arrive_time": "00:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1596.5,
+    "price_first": 767.5,
+    "price_second": 492.5,
+    "price_no_seat": 492.5
+  },
+  "fetched_at": "2026-05-01T02:10:38.264904"
+}

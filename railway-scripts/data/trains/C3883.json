@@ -1,0 +1,65 @@
+{
+  "train_no": "C3883",
+  "train_type": "C",
+  "depart_station": "盐城",
+  "arrive_station": "上海",
+  "depart_time": "14:13",
+  "arrive_time": "16:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "盐城",
+      "arrive_time": "14:13",
+      "depart_time": "14:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东台",
+      "arrive_time": "14:34",
+      "depart_time": "14:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "如皋南",
+      "arrive_time": "14:56",
+      "depart_time": "14:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "张家港",
+      "arrive_time": "15:25",
+      "depart_time": "15:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太仓",
+      "arrive_time": "15:52",
+      "depart_time": "15:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "上海西",
+      "arrive_time": "16:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "上海",
+      "arrive_time": "16:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 235.0,
+    "price_second": 147.5,
+    "price_no_seat": 147.5
+  },
+  "fetched_at": "2026-05-01T01:05:31.890171"
+}

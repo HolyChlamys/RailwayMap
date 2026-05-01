@@ -1,0 +1,57 @@
+{
+  "train_no": "S4759",
+  "train_type": "S",
+  "depart_station": "白云机场北",
+  "arrive_station": "佛山  西",
+  "depart_time": "17:58",
+  "arrive_time": "18:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "白云机场北",
+      "arrive_time": "17:58",
+      "depart_time": "17:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "白云机场东",
+      "arrive_time": "18:05",
+      "depart_time": "18:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "科韵路",
+      "arrive_time": "18:28",
+      "depart_time": "18:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "琶洲",
+      "arrive_time": "18:33",
+      "depart_time": "18:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "番禺",
+      "arrive_time": "18:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "佛山  西",
+      "arrive_time": "18:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 62.0,
+    "price_no_seat": 62.0
+  },
+  "fetched_at": "2026-05-01T10:54:55.619803"
+}

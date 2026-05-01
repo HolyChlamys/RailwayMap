@@ -1,0 +1,28 @@
+{
+  "train_no": "K5359",
+  "train_type": "K",
+  "depart_station": "郑州",
+  "arrive_station": "洛阳",
+  "depart_time": "18:41",
+  "arrive_time": "18:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州",
+      "arrive_time": "18:41",
+      "depart_time": "18:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛阳",
+      "arrive_time": "18:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 19.5
+  },
+  "fetched_at": "2026-05-01T10:08:42.025595"
+}

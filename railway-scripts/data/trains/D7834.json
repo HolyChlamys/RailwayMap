@@ -1,0 +1,44 @@
+{
+  "train_no": "D7834",
+  "train_type": "D",
+  "depart_station": "佳木斯",
+  "arrive_station": "哈尔滨",
+  "depart_time": "11:45",
+  "arrive_time": "12:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佳木斯",
+      "arrive_time": "11:45",
+      "depart_time": "11:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宏克力",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "方正",
+      "arrive_time": "12:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨",
+      "arrive_time": "12:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 203.0,
+    "price_second": 127.0,
+    "price_no_seat": 127.0
+  },
+  "fetched_at": "2026-05-01T04:45:46.717823"
+}

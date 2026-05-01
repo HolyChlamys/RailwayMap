@@ -1,0 +1,42 @@
+{
+  "train_no": "K7907",
+  "train_type": "K",
+  "depart_station": "呼和浩特",
+  "arrive_station": "鄂尔多斯",
+  "depart_time": "12:58",
+  "arrive_time": "15:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特",
+      "arrive_time": "12:58",
+      "depart_time": "12:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "准格尔",
+      "arrive_time": "14:05",
+      "depart_time": "14:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东胜东",
+      "arrive_time": "15:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鄂尔多斯",
+      "arrive_time": "15:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:32:36.517044"
+}

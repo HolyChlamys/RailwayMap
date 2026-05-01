@@ -1,0 +1,52 @@
+{
+  "train_no": "C9255",
+  "train_type": "C",
+  "depart_station": "武汉",
+  "arrive_station": "谷城北",
+  "depart_time": "07:16",
+  "arrive_time": "09:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "07:16",
+      "depart_time": "07:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "07:35",
+      "depart_time": "07:55",
+      "stay_min": "20"
+    },
+    {
+      "seq": 3,
+      "station_name": "随州南",
+      "arrive_time": "08:45",
+      "depart_time": "08:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "襄阳东",
+      "arrive_time": "09:17",
+      "depart_time": "09:22",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "谷城北",
+      "arrive_time": "09:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 633.0,
+    "price_first": 337.0,
+    "price_second": 210.0,
+    "price_no_seat": 210.0
+  },
+  "fetched_at": "2026-05-01T02:43:24.852616"
+}

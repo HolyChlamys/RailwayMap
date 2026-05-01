@@ -1,0 +1,87 @@
+{
+  "train_no": "G3529",
+  "train_type": "G",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "沈阳北",
+  "depart_time": "07:18",
+  "arrive_time": "12:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "07:18",
+      "depart_time": "07:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长春",
+      "arrive_time": "08:16",
+      "depart_time": "08:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "吉林",
+      "arrive_time": "08:59",
+      "depart_time": "09:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "敦化",
+      "arrive_time": "09:56",
+      "depart_time": "09:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "长白山",
+      "arrive_time": "10:37",
+      "depart_time": "10:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "长白山西",
+      "arrive_time": "10:59",
+      "depart_time": "11:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "通化",
+      "arrive_time": "11:37",
+      "depart_time": "11:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "新宾",
+      "arrive_time": "11:59",
+      "depart_time": "12:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "抚顺",
+      "arrive_time": "12:29",
+      "depart_time": "12:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "沈阳北",
+      "arrive_time": "12:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2088.0,
+    "price_first": 973.0,
+    "price_second": 608.0,
+    "price_no_seat": 608.0
+  },
+  "fetched_at": "2026-05-01T06:40:28.691582"
+}

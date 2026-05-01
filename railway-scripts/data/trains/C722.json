@@ -1,0 +1,87 @@
+{
+  "train_no": "C722",
+  "train_type": "C",
+  "depart_station": "西昌西",
+  "arrive_station": "达州",
+  "depart_time": "11:27",
+  "arrive_time": "17:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西昌西",
+      "arrive_time": "11:27",
+      "depart_time": "11:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "喜德西",
+      "arrive_time": "11:59",
+      "depart_time": "11:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "越西",
+      "arrive_time": "12:22",
+      "depart_time": "12:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "金口河南",
+      "arrive_time": "13:12",
+      "depart_time": "13:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "15:05",
+      "depart_time": "15:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "淮口南",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南充",
+      "arrive_time": "17:00",
+      "depart_time": "17:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "蓬安",
+      "arrive_time": "17:25",
+      "depart_time": "17:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "营山",
+      "arrive_time": "17:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "达州",
+      "arrive_time": "17:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 948.0,
+    "price_first": 436.0,
+    "price_second": 272.0,
+    "price_no_seat": 272.0
+  },
+  "fetched_at": "2026-05-01T02:09:22.499547"
+}

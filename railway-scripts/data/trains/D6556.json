@@ -1,0 +1,51 @@
+{
+  "train_no": "D6556",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "龙岩",
+  "depart_time": "09:38",
+  "arrive_time": "11:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "09:38",
+      "depart_time": "09:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延平",
+      "arrive_time": "10:17",
+      "depart_time": "10:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "三明北",
+      "arrive_time": "10:41",
+      "depart_time": "10:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "永安南",
+      "arrive_time": "11:09",
+      "depart_time": "11:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "龙岩",
+      "arrive_time": "11:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 217.5,
+    "price_second": 136.5,
+    "price_no_seat": 136.5
+  },
+  "fetched_at": "2026-05-01T04:25:01.364248"
+}

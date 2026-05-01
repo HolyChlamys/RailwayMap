@@ -1,0 +1,35 @@
+{
+  "train_no": "K5409",
+  "train_type": "K",
+  "depart_station": "襄阳",
+  "arrive_station": "十堰",
+  "depart_time": "14:15",
+  "arrive_time": "15:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳",
+      "arrive_time": "14:15",
+      "depart_time": "14:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "谷城",
+      "arrive_time": "15:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "十堰",
+      "arrive_time": "15:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T10:09:43.345143"
+}

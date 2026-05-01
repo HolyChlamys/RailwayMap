@@ -1,0 +1,156 @@
+{
+  "train_no": "D1202",
+  "train_type": "D",
+  "depart_station": "包头",
+  "arrive_station": "成都东",
+  "depart_time": "10:09",
+  "arrive_time": "21:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "包头",
+      "arrive_time": "10:09",
+      "depart_time": "10:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌拉特前旗",
+      "arrive_time": "10:42",
+      "depart_time": "10:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "11:18",
+      "depart_time": "11:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "磴口",
+      "arrive_time": "11:39",
+      "depart_time": "11:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "乌海",
+      "arrive_time": "12:07",
+      "depart_time": "12:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "石嘴山",
+      "arrive_time": "12:40",
+      "depart_time": "12:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "银川",
+      "arrive_time": "13:04",
+      "depart_time": "13:11",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "灵武北",
+      "arrive_time": "13:38",
+      "depart_time": "13:45",
+      "stay_min": "7"
+    },
+    {
+      "seq": 9,
+      "station_name": "吴忠",
+      "arrive_time": "13:54",
+      "depart_time": "13:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "庆阳",
+      "arrive_time": "15:20",
+      "depart_time": "15:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "彬州东",
+      "arrive_time": "15:52",
+      "depart_time": "15:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "西安北",
+      "arrive_time": "16:38",
+      "depart_time": "16:59",
+      "stay_min": "21"
+    },
+    {
+      "seq": 13,
+      "station_name": "西安西",
+      "arrive_time": "17:10",
+      "depart_time": "17:21",
+      "stay_min": "11"
+    },
+    {
+      "seq": 14,
+      "station_name": "洋县西",
+      "arrive_time": "18:14",
+      "depart_time": "18:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "汉中",
+      "arrive_time": "18:34",
+      "depart_time": "18:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 16,
+      "station_name": "广元",
+      "arrive_time": "19:23",
+      "depart_time": "19:27",
+      "stay_min": "4"
+    },
+    {
+      "seq": 17,
+      "station_name": "江油",
+      "arrive_time": "20:04",
+      "depart_time": "20:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "绵阳",
+      "arrive_time": "20:23",
+      "depart_time": "20:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "德阳",
+      "arrive_time": "20:42",
+      "depart_time": "20:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 20,
+      "station_name": "成都东",
+      "arrive_time": "21:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1460.0,
+    "price_second": 912.0,
+    "price_no_seat": 912.0
+  },
+  "fetched_at": "2026-05-01T02:59:25.018436"
+}

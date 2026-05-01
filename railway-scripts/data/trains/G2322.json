@@ -1,0 +1,143 @@
+{
+  "train_no": "G2322",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "成都东",
+  "depart_time": "08:22",
+  "arrive_time": "18:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "08:22",
+      "depart_time": "08:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高安",
+      "arrive_time": "08:37",
+      "depart_time": "08:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "宜春",
+      "arrive_time": "09:11",
+      "depart_time": "09:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "萍乡北",
+      "arrive_time": "09:31",
+      "depart_time": "09:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "长沙南",
+      "arrive_time": "10:03",
+      "depart_time": "10:07",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "韶山南",
+      "arrive_time": "10:30",
+      "depart_time": "10:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "娄底南",
+      "arrive_time": "10:49",
+      "depart_time": "10:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "新化南",
+      "arrive_time": "11:15",
+      "depart_time": "11:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "怀化南",
+      "arrive_time": "11:50",
+      "depart_time": "11:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "吉首东",
+      "arrive_time": "12:24",
+      "depart_time": "12:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "张家界西",
+      "arrive_time": "13:08",
+      "depart_time": "13:28",
+      "stay_min": "20"
+    },
+    {
+      "seq": 12,
+      "station_name": "龙山北",
+      "arrive_time": "14:07",
+      "depart_time": "14:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "黔江",
+      "arrive_time": "14:43",
+      "depart_time": "14:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "武隆南",
+      "arrive_time": "15:14",
+      "depart_time": "15:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "重庆东",
+      "arrive_time": "15:56",
+      "depart_time": "16:16",
+      "stay_min": "20"
+    },
+    {
+      "seq": 16,
+      "station_name": "南彭",
+      "arrive_time": "16:29",
+      "depart_time": "16:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "重庆西",
+      "arrive_time": "16:59",
+      "depart_time": "17:08",
+      "stay_min": "9"
+    },
+    {
+      "seq": 18,
+      "station_name": "成都东",
+      "arrive_time": "18:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3227.0,
+    "price_first": 1499.0,
+    "price_second": 936.0,
+    "price_no_seat": 936.0
+  },
+  "fetched_at": "2026-05-01T06:07:24.280573"
+}

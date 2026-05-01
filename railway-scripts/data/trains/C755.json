@@ -1,0 +1,52 @@
+{
+  "train_no": "C755",
+  "train_type": "C",
+  "depart_station": "成都南",
+  "arrive_station": "西昌西",
+  "depart_time": "06:57",
+  "arrive_time": "09:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "06:57",
+      "depart_time": "06:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "夹江",
+      "arrive_time": "07:57",
+      "depart_time": "07:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "甘洛南",
+      "arrive_time": "09:02",
+      "depart_time": "09:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "越西",
+      "arrive_time": "09:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西昌西",
+      "arrive_time": "09:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 522.0,
+    "price_first": 239.0,
+    "price_second": 149.0,
+    "price_no_seat": 149.0
+  },
+  "fetched_at": "2026-05-01T02:17:45.857437"
+}

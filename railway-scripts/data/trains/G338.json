@@ -1,0 +1,73 @@
+{
+  "train_no": "G338",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "北京西",
+  "depart_time": "14:42",
+  "arrive_time": "19:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "14:42",
+      "depart_time": "14:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "庐山",
+      "arrive_time": "15:27",
+      "depart_time": "15:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄂州",
+      "arrive_time": "16:19",
+      "depart_time": "16:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武汉",
+      "arrive_time": "16:46",
+      "depart_time": "16:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "18:27",
+      "depart_time": "18:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "新乡东",
+      "arrive_time": "18:48",
+      "depart_time": "18:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "石家庄",
+      "arrive_time": "19:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "北京西",
+      "arrive_time": "19:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2597.0,
+    "price_first": 1219.0,
+    "price_second": 762.0,
+    "price_no_seat": 762.0
+  },
+  "fetched_at": "2026-05-01T06:36:35.415790"
+}

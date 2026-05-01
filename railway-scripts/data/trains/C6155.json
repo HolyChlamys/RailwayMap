@@ -1,0 +1,36 @@
+{
+  "train_no": "C6155",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "泸州",
+  "depart_time": "15:10",
+  "arrive_time": "16:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "15:10",
+      "depart_time": "15:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "自贡",
+      "arrive_time": "16:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泸州",
+      "arrive_time": "16:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 128.0,
+    "price_no_seat": 128.0
+  },
+  "fetched_at": "2026-05-01T01:45:50.779453"
+}

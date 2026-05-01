@@ -1,0 +1,52 @@
+{
+  "train_no": "G5201",
+  "train_type": "G",
+  "depart_station": "广州白云",
+  "arrive_station": "湛江北",
+  "depart_time": "12:23",
+  "arrive_time": "14:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "12:23",
+      "depart_time": "12:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新兴南",
+      "arrive_time": "13:07",
+      "depart_time": "13:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阳江北",
+      "arrive_time": "13:33",
+      "depart_time": "13:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "茂名南",
+      "arrive_time": "14:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "湛江北",
+      "arrive_time": "14:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1152.0,
+    "price_first": 526.0,
+    "price_second": 329.0,
+    "price_no_seat": 329.0
+  },
+  "fetched_at": "2026-05-01T07:27:39.655903"
+}

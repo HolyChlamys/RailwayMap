@@ -1,0 +1,66 @@
+{
+  "train_no": "G6132",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "岳阳东",
+  "depart_time": "06:26",
+  "arrive_time": "09:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "06:26",
+      "depart_time": "06:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "韶关",
+      "arrive_time": "07:19",
+      "depart_time": "07:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州西",
+      "arrive_time": "07:52",
+      "depart_time": "07:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "衡阳东",
+      "arrive_time": "08:27",
+      "depart_time": "08:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "株洲西",
+      "arrive_time": "08:56",
+      "depart_time": "08:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙南",
+      "arrive_time": "09:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "岳阳东",
+      "arrive_time": "09:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1576.0,
+    "price_first": 720.0,
+    "price_second": 450.0,
+    "price_no_seat": 450.0
+  },
+  "fetched_at": "2026-05-01T07:49:49.163680"
+}

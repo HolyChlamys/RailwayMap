@@ -1,0 +1,52 @@
+{
+  "train_no": "D2502",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "太原南",
+  "depart_time": "08:40",
+  "arrive_time": "11:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "08:40",
+      "depart_time": "08:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "运城北",
+      "arrive_time": "09:45",
+      "depart_time": "09:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "临汾西",
+      "arrive_time": "10:24",
+      "depart_time": "10:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "平遥古城",
+      "arrive_time": "11:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太原南",
+      "arrive_time": "11:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 740.0,
+    "price_first": 338.0,
+    "price_second": 211.0,
+    "price_no_seat": 211.0
+  },
+  "fetched_at": "2026-05-01T03:17:26.639538"
+}

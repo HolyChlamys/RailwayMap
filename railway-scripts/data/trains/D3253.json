@@ -1,0 +1,128 @@
+{
+  "train_no": "D3253",
+  "train_type": "D",
+  "depart_station": "南昌西",
+  "arrive_station": "重庆北",
+  "depart_time": "07:51",
+  "arrive_time": "17:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "07:51",
+      "depart_time": "07:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永修",
+      "arrive_time": "08:11",
+      "depart_time": "08:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "庐山",
+      "arrive_time": "08:41",
+      "depart_time": "08:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "瑞昌西",
+      "arrive_time": "08:55",
+      "depart_time": "08:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "枫林",
+      "arrive_time": "09:07",
+      "depart_time": "09:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "黄石北",
+      "arrive_time": "09:35",
+      "depart_time": "09:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "武汉",
+      "arrive_time": "10:09",
+      "depart_time": "10:20",
+      "stay_min": "11"
+    },
+    {
+      "seq": 8,
+      "station_name": "汉口",
+      "arrive_time": "10:42",
+      "depart_time": "10:55",
+      "stay_min": "13"
+    },
+    {
+      "seq": 9,
+      "station_name": "天门南",
+      "arrive_time": "11:31",
+      "depart_time": "11:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "荆州",
+      "arrive_time": "12:15",
+      "depart_time": "12:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "宜昌东",
+      "arrive_time": "12:51",
+      "depart_time": "12:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "建始",
+      "arrive_time": "14:20",
+      "depart_time": "14:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "恩施",
+      "arrive_time": "14:45",
+      "depart_time": "14:49",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "利川",
+      "arrive_time": "15:29",
+      "depart_time": "15:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "丰都",
+      "arrive_time": "16:27",
+      "depart_time": "16:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "重庆北",
+      "arrive_time": "17:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 778.0,
+    "price_second": 487.0,
+    "price_no_seat": 487.0
+  },
+  "fetched_at": "2026-05-01T03:30:35.885017"
+}

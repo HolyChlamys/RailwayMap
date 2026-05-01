@@ -1,0 +1,33 @@
+{
+  "train_no": "Y848",
+  "train_type": "Y",
+  "depart_station": "郴州",
+  "arrive_station": "衡山",
+  "depart_time": "09:30",
+  "arrive_time": "17:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郴州",
+      "arrive_time": "09:30",
+      "depart_time": "09:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲",
+      "arrive_time": "16:53",
+      "depart_time": "17:08",
+      "stay_min": "15"
+    },
+    {
+      "seq": 3,
+      "station_name": "衡山",
+      "arrive_time": "17:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:39:56.967667"
+}

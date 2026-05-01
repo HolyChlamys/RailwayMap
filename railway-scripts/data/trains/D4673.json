@@ -1,0 +1,86 @@
+{
+  "train_no": "D4673",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "百色",
+  "depart_time": "03:00",
+  "arrive_time": "08:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "03:00",
+      "depart_time": "03:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "03:19",
+      "depart_time": "03:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "梧州南",
+      "arrive_time": "04:32",
+      "depart_time": "04:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "平南南",
+      "arrive_time": "05:01",
+      "depart_time": "05:18",
+      "stay_min": "17"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵港",
+      "arrive_time": "05:46",
+      "depart_time": "05:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "南宁东",
+      "arrive_time": "06:32",
+      "depart_time": "06:48",
+      "stay_min": "16"
+    },
+    {
+      "seq": 7,
+      "station_name": "南宁",
+      "arrive_time": "06:59",
+      "depart_time": "07:04",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "平果",
+      "arrive_time": "07:43",
+      "depart_time": "07:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "田东北",
+      "arrive_time": "08:07",
+      "depart_time": "08:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "百色",
+      "arrive_time": "08:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 540.0,
+    "price_second": 337.5,
+    "price_no_seat": 337.5
+  },
+  "fetched_at": "2026-05-01T03:55:00.910859"
+}

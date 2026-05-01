@@ -1,0 +1,30 @@
+{
+  "train_no": "C5523",
+  "train_type": "C",
+  "depart_station": "汉口",
+  "arrive_station": "武汉",
+  "depart_time": "14:41",
+  "arrive_time": "15:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "14:41",
+      "depart_time": "14:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉",
+      "arrive_time": "15:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 21.0,
+    "price_second": 13.0,
+    "price_no_seat": 13.0
+  },
+  "fetched_at": "2026-05-01T01:34:06.526994"
+}

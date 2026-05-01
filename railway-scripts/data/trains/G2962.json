@@ -1,0 +1,87 @@
+{
+  "train_no": "G2962",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "桂林北",
+  "depart_time": "17:43",
+  "arrive_time": "20:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "17:43",
+      "depart_time": "17:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门",
+      "arrive_time": "18:02",
+      "depart_time": "18:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "18:24",
+      "depart_time": "18:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "佛山西",
+      "arrive_time": "18:46",
+      "depart_time": "18:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "三水南",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "肇庆东",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "贺州",
+      "arrive_time": "20:04",
+      "depart_time": "20:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "恭城",
+      "arrive_time": "20:31",
+      "depart_time": "20:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "阳朔",
+      "arrive_time": "20:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "桂林北",
+      "arrive_time": "20:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1026.5,
+    "price_first": 477.5,
+    "price_second": 310.5,
+    "price_no_seat": 310.5
+  },
+  "fetched_at": "2026-05-01T06:24:54.511564"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "G8346",
+  "train_type": "G",
+  "depart_station": "合肥",
+  "arrive_station": "合肥南",
+  "depart_time": "13:55",
+  "arrive_time": "17:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥",
+      "arrive_time": "13:55",
+      "depart_time": "13:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "舒城东",
+      "arrive_time": "14:33",
+      "depart_time": "14:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "庐江西",
+      "arrive_time": "14:47",
+      "depart_time": "14:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "桐城东",
+      "arrive_time": "15:00",
+      "depart_time": "15:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "安庆",
+      "arrive_time": "15:28",
+      "depart_time": "15:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "铜陵",
+      "arrive_time": "16:02",
+      "depart_time": "16:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "无为",
+      "arrive_time": "16:26",
+      "depart_time": "16:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "巢湖东",
+      "arrive_time": "16:41",
+      "depart_time": "16:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "合肥南",
+      "arrive_time": "17:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 761.0,
+    "price_first": 363.5,
+    "price_second": 223.0,
+    "price_no_seat": 223.0
+  },
+  "fetched_at": "2026-05-01T08:48:24.946390"
+}

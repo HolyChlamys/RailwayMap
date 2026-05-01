@@ -1,0 +1,94 @@
+{
+  "train_no": "G222",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "张家界西",
+  "depart_time": "07:04",
+  "arrive_time": "14:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "07:04",
+      "depart_time": "07:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "07:49",
+      "depart_time": "07:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "金华",
+      "arrive_time": "08:36",
+      "depart_time": "08:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌西",
+      "arrive_time": "10:00",
+      "depart_time": "10:03",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "宜春",
+      "arrive_time": "10:42",
+      "depart_time": "10:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙南",
+      "arrive_time": "11:23",
+      "depart_time": "11:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "娄底南",
+      "arrive_time": "12:01",
+      "depart_time": "12:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "怀化南",
+      "arrive_time": "12:55",
+      "depart_time": "12:59",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "凤凰古城",
+      "arrive_time": "13:24",
+      "depart_time": "13:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "吉首东",
+      "arrive_time": "13:37",
+      "depart_time": "13:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "张家界西",
+      "arrive_time": "14:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3004.0,
+    "price_first": 1373.0,
+    "price_second": 858.0,
+    "price_no_seat": 858.0
+  },
+  "fetched_at": "2026-05-01T06:04:32.958980"
+}

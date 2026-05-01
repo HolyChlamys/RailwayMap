@@ -1,0 +1,44 @@
+{
+  "train_no": "D4318",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "厦门北",
+  "depart_time": "01:10",
+  "arrive_time": "03:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "01:10",
+      "depart_time": "01:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "02:44",
+      "depart_time": "02:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "饶平",
+      "arrive_time": "03:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "厦门北",
+      "arrive_time": "03:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 365.0,
+    "price_second": 228.0,
+    "price_no_seat": 228.0
+  },
+  "fetched_at": "2026-05-01T03:47:39.335269"
+}

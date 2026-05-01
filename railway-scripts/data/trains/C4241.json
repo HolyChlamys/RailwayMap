@@ -1,0 +1,65 @@
+{
+  "train_no": "C4241",
+  "train_type": "C",
+  "depart_station": "保山",
+  "arrive_station": "昆明",
+  "depart_time": "06:38",
+  "arrive_time": "10:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "保山",
+      "arrive_time": "06:38",
+      "depart_time": "06:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永平县",
+      "arrive_time": "07:05",
+      "depart_time": "07:09",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "漾濞",
+      "arrive_time": "07:37",
+      "depart_time": "07:48",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "大理",
+      "arrive_time": "08:16",
+      "depart_time": "08:22",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "楚雄",
+      "arrive_time": "09:28",
+      "depart_time": "09:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "广通北",
+      "arrive_time": "09:47",
+      "depart_time": "09:51",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "昆明",
+      "arrive_time": "10:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 337.0,
+    "price_second": 212.0,
+    "price_no_seat": 212.0
+  },
+  "fetched_at": "2026-05-01T01:11:35.830546"
+}

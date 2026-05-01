@@ -1,0 +1,29 @@
+{
+  "train_no": "D9713",
+  "train_type": "D",
+  "depart_station": "普宁",
+  "arrive_station": "深圳北",
+  "depart_time": "22:46",
+  "arrive_time": "22:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "普宁",
+      "arrive_time": "22:46",
+      "depart_time": "22:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "22:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 112.0,
+    "price_no_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T05:22:42.896018"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "G5306",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "福州南",
+  "depart_time": "02:07",
+  "arrive_time": "04:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "02:07",
+      "depart_time": "02:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福州",
+      "arrive_time": "04:25",
+      "depart_time": "04:29",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "福州南",
+      "arrive_time": "04:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 957.0,
+    "price_first": 475.0,
+    "price_second": 289.0,
+    "price_no_seat": 289.0
+  },
+  "fetched_at": "2026-05-01T07:30:43.550385"
+}

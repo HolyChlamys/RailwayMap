@@ -1,0 +1,94 @@
+{
+  "train_no": "G3636",
+  "train_type": "G",
+  "depart_station": "大连北",
+  "arrive_station": "北京朝阳",
+  "depart_time": "15:18",
+  "arrive_time": "20:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "15:18",
+      "depart_time": "15:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "15:55",
+      "depart_time": "15:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "营口东",
+      "arrive_time": "16:14",
+      "depart_time": "16:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "盘锦",
+      "arrive_time": "16:43",
+      "depart_time": "16:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "锦州北",
+      "arrive_time": "17:17",
+      "depart_time": "17:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "辽宁朝阳",
+      "arrive_time": "17:45",
+      "depart_time": "17:48",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "平泉北",
+      "arrive_time": "18:28",
+      "depart_time": "18:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "承德南",
+      "arrive_time": "18:48",
+      "depart_time": "18:59",
+      "stay_min": "11"
+    },
+    {
+      "seq": 9,
+      "station_name": "安匠",
+      "arrive_time": "19:10",
+      "depart_time": "19:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "顺义西",
+      "arrive_time": "19:47",
+      "depart_time": "19:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "北京朝阳",
+      "arrive_time": "20:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1678.0,
+    "price_first": 770.0,
+    "price_second": 481.0,
+    "price_no_seat": 481.0
+  },
+  "fetched_at": "2026-05-01T06:43:26.193190"
+}

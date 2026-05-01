@@ -1,0 +1,59 @@
+{
+  "train_no": "D5577",
+  "train_type": "D",
+  "depart_station": "杭州东",
+  "arrive_station": "黄山北",
+  "depart_time": "07:57",
+  "arrive_time": "09:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "07:57",
+      "depart_time": "07:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "富阳",
+      "arrive_time": "08:21",
+      "depart_time": "08:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桐庐",
+      "arrive_time": "08:37",
+      "depart_time": "08:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "建德",
+      "arrive_time": "08:53",
+      "depart_time": "08:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "千岛湖",
+      "arrive_time": "09:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黄山北",
+      "arrive_time": "09:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 352.0,
+    "price_first": 186.0,
+    "price_second": 116.0,
+    "price_no_seat": 116.0
+  },
+  "fetched_at": "2026-05-01T04:08:54.691864"
+}

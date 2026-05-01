@@ -1,0 +1,56 @@
+{
+  "train_no": "K4538",
+  "train_type": "K",
+  "depart_station": "重庆西",
+  "arrive_station": "西安",
+  "depart_time": "19:24",
+  "arrive_time": "05:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "19:24",
+      "depart_time": "19:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广安",
+      "arrive_time": "20:49",
+      "depart_time": "20:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "渠县",
+      "arrive_time": "21:21",
+      "depart_time": "21:25",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "达州",
+      "arrive_time": "23:09",
+      "depart_time": "23:16",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "安康",
+      "arrive_time": "02:21",
+      "depart_time": "02:47",
+      "stay_min": "26"
+    },
+    {
+      "seq": 6,
+      "station_name": "西安",
+      "arrive_time": "05:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T09:55:17.836961"
+}

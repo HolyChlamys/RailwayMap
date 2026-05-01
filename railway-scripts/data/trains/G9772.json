@@ -1,0 +1,45 @@
+{
+  "train_no": "G9772",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "长沙南",
+  "depart_time": "23:50",
+  "arrive_time": "01:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "23:50",
+      "depart_time": "23:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郴州西",
+      "arrive_time": "01:09",
+      "depart_time": "01:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳东",
+      "arrive_time": "01:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "01:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1321.0,
+    "price_first": 604.0,
+    "price_second": 377.0,
+    "price_no_seat": 377.0
+  },
+  "fetched_at": "2026-05-01T09:23:48.003891"
+}

@@ -1,0 +1,42 @@
+{
+  "train_no": "K6243",
+  "train_type": "K",
+  "depart_station": "松溪",
+  "arrive_station": "福州",
+  "depart_time": "21:03",
+  "arrive_time": "22:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "松溪",
+      "arrive_time": "21:03",
+      "depart_time": "21:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "政和",
+      "arrive_time": "21:24",
+      "depart_time": "21:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁德",
+      "arrive_time": "22:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福州",
+      "arrive_time": "22:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:20:32.031608"
+}

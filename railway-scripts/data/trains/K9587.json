@@ -1,0 +1,42 @@
+{
+  "train_no": "K9587",
+  "train_type": "K",
+  "depart_station": "草海",
+  "arrive_station": "贵阳",
+  "depart_time": "17:03",
+  "arrive_time": "22:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "草海",
+      "arrive_time": "17:03",
+      "depart_time": "17:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "六盘水",
+      "arrive_time": "18:31",
+      "depart_time": "18:41",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "安顺",
+      "arrive_time": "20:38",
+      "depart_time": "20:49",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳",
+      "arrive_time": "22:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 46.5
+  },
+  "fetched_at": "2026-05-01T10:47:27.864097"
+}

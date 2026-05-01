@@ -1,0 +1,66 @@
+{
+  "train_no": "G7557",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "三门县",
+  "depart_time": "19:36",
+  "arrive_time": "21:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "19:36",
+      "depart_time": "19:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桐乡",
+      "arrive_time": "20:11",
+      "depart_time": "20:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "20:31",
+      "depart_time": "20:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绍兴北",
+      "arrive_time": "20:53",
+      "depart_time": "20:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "绍兴东",
+      "arrive_time": "21:06",
+      "depart_time": "21:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宁波",
+      "arrive_time": "21:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "三门县",
+      "arrive_time": "21:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 769.0,
+    "price_first": 351.0,
+    "price_second": 219.0,
+    "price_no_seat": 219.0
+  },
+  "fetched_at": "2026-05-01T08:30:36.420217"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G6257",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "怀化南",
+  "depart_time": "06:30",
+  "arrive_time": "07:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "06:30",
+      "depart_time": "06:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "娄底南",
+      "arrive_time": "07:07",
+      "depart_time": "07:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新化南",
+      "arrive_time": "07:33",
+      "depart_time": "07:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "溆浦南",
+      "arrive_time": "07:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "怀化南",
+      "arrive_time": "07:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 639.0,
+    "price_first": 292.0,
+    "price_second": 183.0,
+    "price_no_seat": 183.0
+  },
+  "fetched_at": "2026-05-01T07:53:25.577235"
+}

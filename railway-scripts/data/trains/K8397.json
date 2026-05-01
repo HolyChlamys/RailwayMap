@@ -1,0 +1,42 @@
+{
+  "train_no": "K8397",
+  "train_type": "K",
+  "depart_station": "南京",
+  "arrive_station": "南通",
+  "depart_time": "13:54",
+  "arrive_time": "17:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "13:54",
+      "depart_time": "13:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "扬州",
+      "arrive_time": "15:00",
+      "depart_time": "15:04",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "泰州",
+      "arrive_time": "15:57",
+      "depart_time": "16:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "南通",
+      "arrive_time": "17:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T10:39:14.088030"
+}

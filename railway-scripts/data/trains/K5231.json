@@ -1,0 +1,56 @@
+{
+  "train_no": "K5231",
+  "train_type": "K",
+  "depart_station": "北京丰台",
+  "arrive_station": "邯郸",
+  "depart_time": "19:09",
+  "arrive_time": "00:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京丰台",
+      "arrive_time": "19:09",
+      "depart_time": "19:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高碑店",
+      "arrive_time": "20:02",
+      "depart_time": "20:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "保定",
+      "arrive_time": "20:44",
+      "depart_time": "20:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "石家庄",
+      "arrive_time": "22:28",
+      "depart_time": "22:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "邢台",
+      "arrive_time": "00:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "邯郸",
+      "arrive_time": "00:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 64.5
+  },
+  "fetched_at": "2026-05-01T10:06:46.513814"
+}

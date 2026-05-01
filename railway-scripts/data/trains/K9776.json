@@ -1,0 +1,70 @@
+{
+  "train_no": "K9776",
+  "train_type": "K",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "图木舒克",
+  "depart_time": "19:49",
+  "arrive_time": "10:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "19:49",
+      "depart_time": "19:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "焉耆",
+      "arrive_time": "00:59",
+      "depart_time": "01:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "库尔勒",
+      "arrive_time": "01:40",
+      "depart_time": "02:00",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "轮台",
+      "arrive_time": "03:49",
+      "depart_time": "03:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "库车",
+      "arrive_time": "04:55",
+      "depart_time": "05:11",
+      "stay_min": "16"
+    },
+    {
+      "seq": 6,
+      "station_name": "新和",
+      "arrive_time": "05:42",
+      "depart_time": "05:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "阿克苏",
+      "arrive_time": "08:17",
+      "depart_time": "08:37",
+      "stay_min": "20"
+    },
+    {
+      "seq": 8,
+      "station_name": "图木舒克",
+      "arrive_time": "10:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 152.5
+  },
+  "fetched_at": "2026-05-01T10:49:07.359874"
+}

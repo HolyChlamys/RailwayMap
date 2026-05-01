@@ -1,0 +1,57 @@
+{
+  "train_no": "C143",
+  "train_type": "C",
+  "depart_station": "济南",
+  "arrive_station": "烟台",
+  "depart_time": "12:47",
+  "arrive_time": "16:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "12:47",
+      "depart_time": "12:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潍坊",
+      "arrive_time": "14:16",
+      "depart_time": "14:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莱西",
+      "arrive_time": "15:48",
+      "depart_time": "15:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "莱阳",
+      "arrive_time": "16:04",
+      "depart_time": "16:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "桃村北",
+      "arrive_time": "16:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "烟台",
+      "arrive_time": "16:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 198.0,
+    "price_no_seat": 198.0
+  },
+  "fetched_at": "2026-05-01T00:25:47.979703"
+}

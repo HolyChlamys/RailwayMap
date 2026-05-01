@@ -1,0 +1,51 @@
+{
+  "train_no": "D5761",
+  "train_type": "D",
+  "depart_station": "仙桃",
+  "arrive_station": "黄冈东",
+  "depart_time": "18:18",
+  "arrive_time": "20:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "仙桃",
+      "arrive_time": "18:18",
+      "depart_time": "18:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武昌",
+      "arrive_time": "19:11",
+      "depart_time": "19:23",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "武汉东",
+      "arrive_time": "19:41",
+      "depart_time": "19:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "黄冈西",
+      "arrive_time": "20:08",
+      "depart_time": "20:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "黄冈东",
+      "arrive_time": "20:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 140.0,
+    "price_second": 87.0,
+    "price_no_seat": 87.0
+  },
+  "fetched_at": "2026-05-01T04:10:28.993849"
+}

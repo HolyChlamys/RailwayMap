@@ -1,0 +1,94 @@
+{
+  "train_no": "G8371",
+  "train_type": "G",
+  "depart_station": "淮北",
+  "arrive_station": "上海虹桥",
+  "depart_time": "18:56",
+  "arrive_time": "22:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "淮北",
+      "arrive_time": "18:56",
+      "depart_time": "18:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "萧县北",
+      "arrive_time": "19:18",
+      "depart_time": "19:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "19:38",
+      "depart_time": "19:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "宿州东",
+      "arrive_time": "20:00",
+      "depart_time": "20:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "蚌埠南",
+      "arrive_time": "20:25",
+      "depart_time": "20:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "滁州",
+      "arrive_time": "20:55",
+      "depart_time": "20:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京南",
+      "arrive_time": "21:16",
+      "depart_time": "21:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "常州北",
+      "arrive_time": "21:50",
+      "depart_time": "21:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "无锡东",
+      "arrive_time": "22:09",
+      "depart_time": "22:14",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "苏州北",
+      "arrive_time": "22:25",
+      "depart_time": "22:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "上海虹桥",
+      "arrive_time": "22:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1300.0,
+    "price_first": 597.0,
+    "price_second": 373.0,
+    "price_no_seat": 373.0
+  },
+  "fetched_at": "2026-05-01T08:49:02.877099"
+}

@@ -1,0 +1,73 @@
+{
+  "train_no": "G2053",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "青岛",
+  "depart_time": "17:08",
+  "arrive_time": "23:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "17:08",
+      "depart_time": "17:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "华山北",
+      "arrive_time": "17:36",
+      "depart_time": "17:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "灵宝西",
+      "arrive_time": "17:55",
+      "depart_time": "17:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "洛阳龙门",
+      "arrive_time": "18:39",
+      "depart_time": "18:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "19:19",
+      "depart_time": "19:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南西",
+      "arrive_time": "21:02",
+      "depart_time": "21:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "淄博北",
+      "arrive_time": "21:47",
+      "depart_time": "21:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "青岛",
+      "arrive_time": "23:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2362.0,
+    "price_first": 1119.0,
+    "price_second": 698.0,
+    "price_no_seat": 698.0
+  },
+  "fetched_at": "2026-05-01T06:00:23.592114"
+}

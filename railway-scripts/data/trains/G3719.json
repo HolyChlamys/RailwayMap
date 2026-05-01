@@ -1,0 +1,114 @@
+{
+  "train_no": "G3719",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "宜宾",
+  "depart_time": "16:26",
+  "arrive_time": "23:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "16:26",
+      "depart_time": "16:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三水南",
+      "arrive_time": "16:52",
+      "depart_time": "16:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "广宁",
+      "arrive_time": "17:18",
+      "depart_time": "17:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "怀集",
+      "arrive_time": "17:37",
+      "depart_time": "17:43",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "贺州",
+      "arrive_time": "18:08",
+      "depart_time": "18:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "恭城",
+      "arrive_time": "18:34",
+      "depart_time": "18:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "阳朔",
+      "arrive_time": "18:50",
+      "depart_time": "18:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "桂林西",
+      "arrive_time": "19:12",
+      "depart_time": "19:16",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "贵阳北",
+      "arrive_time": "21:19",
+      "depart_time": "21:36",
+      "stay_min": "17"
+    },
+    {
+      "seq": 10,
+      "station_name": "龙洞堡",
+      "arrive_time": "20:56",
+      "depart_time": "20:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "六盘水",
+      "arrive_time": "22:46",
+      "depart_time": "22:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "贵阳东",
+      "arrive_time": "21:09",
+      "depart_time": "21:13",
+      "stay_min": "4"
+    },
+    {
+      "seq": 13,
+      "station_name": "毕节",
+      "arrive_time": "21:58",
+      "depart_time": "22:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "宜宾",
+      "arrive_time": "23:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 993.0,
+    "price_second": 621.0,
+    "price_no_seat": 621.0
+  },
+  "fetched_at": "2026-05-01T06:45:43.413332"
+}

@@ -1,0 +1,30 @@
+{
+  "train_no": "G9140",
+  "train_type": "G",
+  "depart_station": "长春",
+  "arrive_station": "沈阳北",
+  "depart_time": "05:11",
+  "arrive_time": "05:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "05:11",
+      "depart_time": "05:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳北",
+      "arrive_time": "05:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 273.0,
+    "price_second": 171.0,
+    "price_no_seat": 171.0
+  },
+  "fetched_at": "2026-05-01T09:06:59.499045"
+}

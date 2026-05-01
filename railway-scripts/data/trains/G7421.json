@@ -1,0 +1,45 @@
+{
+  "train_no": "G7421",
+  "train_type": "G",
+  "depart_station": "徐州东",
+  "arrive_station": "合肥",
+  "depart_time": "06:33",
+  "arrive_time": "07:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "徐州东",
+      "arrive_time": "06:33",
+      "depart_time": "06:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蚌埠南",
+      "arrive_time": "07:11",
+      "depart_time": "07:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "淮南东",
+      "arrive_time": "07:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥",
+      "arrive_time": "07:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 491.5,
+    "price_first": 239.0,
+    "price_second": 146.5,
+    "price_no_seat": 146.5
+  },
+  "fetched_at": "2026-05-01T08:26:54.584442"
+}

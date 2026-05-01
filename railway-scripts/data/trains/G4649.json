@@ -1,0 +1,45 @@
+{
+  "train_no": "G4649",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "驻马店西",
+  "depart_time": "21:26",
+  "arrive_time": "22:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "21:26",
+      "depart_time": "21:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "许昌东",
+      "arrive_time": "21:50",
+      "depart_time": "21:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "漯河西",
+      "arrive_time": "22:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "驻马店西",
+      "arrive_time": "22:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 422.0,
+    "price_first": 193.0,
+    "price_second": 120.0,
+    "price_no_seat": 120.0
+  },
+  "fetched_at": "2026-05-01T07:11:31.591163"
+}

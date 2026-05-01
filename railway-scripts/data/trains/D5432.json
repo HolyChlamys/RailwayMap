@@ -1,0 +1,73 @@
+{
+  "train_no": "D5432",
+  "train_type": "D",
+  "depart_station": "赣榆",
+  "arrive_station": "南京",
+  "depart_time": "13:26",
+  "arrive_time": "16:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣榆",
+      "arrive_time": "13:26",
+      "depart_time": "13:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "连云港",
+      "arrive_time": "13:43",
+      "depart_time": "13:47",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "灌南",
+      "arrive_time": "14:15",
+      "depart_time": "14:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "涟水",
+      "arrive_time": "14:30",
+      "depart_time": "14:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "淮安东",
+      "arrive_time": "14:44",
+      "depart_time": "14:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州东",
+      "arrive_time": "15:25",
+      "depart_time": "15:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "镇江",
+      "arrive_time": "15:56",
+      "depart_time": "15:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "南京",
+      "arrive_time": "16:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 655.0,
+    "price_first": 316.0,
+    "price_second": 198.0,
+    "price_no_seat": 198.0
+  },
+  "fetched_at": "2026-05-01T04:06:30.907312"
+}

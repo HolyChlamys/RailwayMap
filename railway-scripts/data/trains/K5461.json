@@ -1,0 +1,63 @@
+{
+  "train_no": "K5461",
+  "train_type": "K",
+  "depart_station": "神木",
+  "arrive_station": "延安",
+  "depart_time": "07:03",
+  "arrive_time": "11:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "神木",
+      "arrive_time": "07:03",
+      "depart_time": "07:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "锦界",
+      "arrive_time": "08:10",
+      "depart_time": "08:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "榆林",
+      "arrive_time": "09:10",
+      "depart_time": "09:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绥德",
+      "arrive_time": "10:11",
+      "depart_time": "10:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "清涧县",
+      "arrive_time": "10:51",
+      "depart_time": "10:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "子长",
+      "arrive_time": "11:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "延安",
+      "arrive_time": "11:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 54.5
+  },
+  "fetched_at": "2026-05-01T10:11:03.999342"
+}

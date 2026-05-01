@@ -1,0 +1,57 @@
+{
+  "train_no": "S6901",
+  "train_type": "S",
+  "depart_station": "长沙",
+  "arrive_station": "湘潭",
+  "depart_time": "06:30",
+  "arrive_time": "07:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "06:30",
+      "depart_time": "06:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "树木岭",
+      "arrive_time": "06:36",
+      "depart_time": "06:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "香樟路",
+      "arrive_time": "06:41",
+      "depart_time": "06:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "先锋",
+      "arrive_time": "06:50",
+      "depart_time": "06:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "板塘",
+      "arrive_time": "07:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "湘潭",
+      "arrive_time": "07:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 25.0,
+    "price_no_seat": 25.0
+  },
+  "fetched_at": "2026-05-01T11:11:04.492049"
+}

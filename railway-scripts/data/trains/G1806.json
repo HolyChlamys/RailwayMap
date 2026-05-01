@@ -1,0 +1,94 @@
+{
+  "train_no": "G1806",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "郑州东",
+  "depart_time": "09:08",
+  "arrive_time": "14:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "09:25",
+      "depart_time": "09:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡东",
+      "arrive_time": "09:43",
+      "depart_time": "09:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "常州北",
+      "arrive_time": "10:02",
+      "depart_time": "10:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "镇江南",
+      "arrive_time": "10:22",
+      "depart_time": "10:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "10:43",
+      "depart_time": "10:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "宿州东",
+      "arrive_time": "11:44",
+      "depart_time": "12:02",
+      "stay_min": "18"
+    },
+    {
+      "seq": 8,
+      "station_name": "徐州东",
+      "arrive_time": "12:20",
+      "depart_time": "12:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "永城北",
+      "arrive_time": "12:51",
+      "depart_time": "12:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "商丘",
+      "arrive_time": "13:16",
+      "depart_time": "13:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "郑州东",
+      "arrive_time": "14:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1874.0,
+    "price_first": 857.0,
+    "price_second": 535.0,
+    "price_no_seat": 535.0
+  },
+  "fetched_at": "2026-05-01T05:53:19.838837"
+}

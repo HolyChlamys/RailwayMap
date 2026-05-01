@@ -1,0 +1,38 @@
+{
+  "train_no": "D9406",
+  "train_type": "D",
+  "depart_station": "宝鸡南",
+  "arrive_station": "西安北",
+  "depart_time": "23:27",
+  "arrive_time": "23:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宝鸡南",
+      "arrive_time": "23:27",
+      "depart_time": "23:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杨陵南",
+      "arrive_time": "23:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "西安北",
+      "arrive_time": "23:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 154.5,
+    "price_first": 82.5,
+    "price_second": 51.5,
+    "price_no_seat": 51.5
+  },
+  "fetched_at": "2026-05-01T05:15:14.124094"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "C5255",
+  "train_type": "C",
+  "depart_station": "九江",
+  "arrive_station": "南昌西",
+  "depart_time": "21:38",
+  "arrive_time": "22:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "九江",
+      "arrive_time": "21:38",
+      "depart_time": "21:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "共青城",
+      "arrive_time": "22:04",
+      "depart_time": "22:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "永修",
+      "arrive_time": "22:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌西",
+      "arrive_time": "22:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 131.5,
+    "price_first": 70.0,
+    "price_second": 44.0,
+    "price_no_seat": 44.0
+  },
+  "fetched_at": "2026-05-01T01:31:14.190606"
+}

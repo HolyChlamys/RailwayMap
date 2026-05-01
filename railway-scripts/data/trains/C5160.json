@@ -1,0 +1,30 @@
+{
+  "train_no": "C5160",
+  "train_type": "C",
+  "depart_station": "福州",
+  "arrive_station": "三明北",
+  "depart_time": "21:49",
+  "arrive_time": "21:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "21:49",
+      "depart_time": "21:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三明北",
+      "arrive_time": "21:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 116.0,
+    "price_second": 72.0,
+    "price_no_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T01:28:14.053804"
+}

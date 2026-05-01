@@ -1,0 +1,100 @@
+{
+  "train_no": "D566",
+  "train_type": "D",
+  "depart_station": "牡丹江",
+  "arrive_station": "通辽",
+  "depart_time": "08:18",
+  "arrive_time": "14:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "牡丹江",
+      "arrive_time": "08:18",
+      "depart_time": "08:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海林北",
+      "arrive_time": "08:29",
+      "depart_time": "08:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "尚志南",
+      "arrive_time": "09:10",
+      "depart_time": "09:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨西",
+      "arrive_time": "10:05",
+      "depart_time": "10:11",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "扶余北",
+      "arrive_time": "10:40",
+      "depart_time": "10:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "长春西",
+      "arrive_time": "11:25",
+      "depart_time": "11:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "昌图西",
+      "arrive_time": "12:10",
+      "depart_time": "12:26",
+      "stay_min": "16"
+    },
+    {
+      "seq": 8,
+      "station_name": "铁岭西",
+      "arrive_time": "12:48",
+      "depart_time": "12:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "沈阳北",
+      "arrive_time": "13:10",
+      "depart_time": "13:14",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "彰武",
+      "arrive_time": "13:58",
+      "depart_time": "14:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "甘旗卡",
+      "arrive_time": "14:21",
+      "depart_time": "14:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "通辽",
+      "arrive_time": "14:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 668.0,
+    "price_second": 417.0,
+    "price_no_seat": 417.0
+  },
+  "fetched_at": "2026-05-01T04:09:40.847428"
+}

@@ -1,0 +1,65 @@
+{
+  "train_no": "G6452",
+  "train_type": "G",
+  "depart_station": "怀化南",
+  "arrive_station": "长沙南",
+  "depart_time": "09:51",
+  "arrive_time": "12:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "怀化南",
+      "arrive_time": "09:51",
+      "depart_time": "09:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洞口",
+      "arrive_time": "10:22",
+      "depart_time": "10:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "隆回",
+      "arrive_time": "10:42",
+      "depart_time": "10:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "邵阳",
+      "arrive_time": "11:04",
+      "depart_time": "11:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "邵东",
+      "arrive_time": "11:21",
+      "depart_time": "11:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "娄底南",
+      "arrive_time": "11:51",
+      "depart_time": "11:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙南",
+      "arrive_time": "12:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 270.0,
+    "price_second": 169.5,
+    "price_no_seat": 169.5
+  },
+  "fetched_at": "2026-05-01T07:59:15.638494"
+}

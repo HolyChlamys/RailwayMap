@@ -1,0 +1,85 @@
+{
+  "train_no": "D225",
+  "train_type": "D",
+  "depart_station": "厦门北",
+  "arrive_station": "郑州",
+  "depart_time": "14:33",
+  "arrive_time": "07:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "14:33",
+      "depart_time": "14:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "14:56",
+      "depart_time": "14:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "龙岩",
+      "arrive_time": "15:54",
+      "depart_time": "15:57",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州",
+      "arrive_time": "18:03",
+      "depart_time": "18:26",
+      "stay_min": "23"
+    },
+    {
+      "seq": 5,
+      "station_name": "吉安",
+      "arrive_time": "20:14",
+      "depart_time": "20:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "南昌",
+      "arrive_time": "22:33",
+      "depart_time": "22:42",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "九江",
+      "arrive_time": "23:48",
+      "depart_time": "23:55",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "商丘",
+      "arrive_time": "05:48",
+      "depart_time": "05:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "开封",
+      "arrive_time": "06:56",
+      "depart_time": "06:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "郑州",
+      "arrive_time": "07:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 546.0,
+    "price_no_seat": 546.0
+  },
+  "fetched_at": "2026-05-01T03:13:15.743809"
+}

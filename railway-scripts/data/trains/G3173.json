@@ -1,0 +1,192 @@
+{
+  "train_no": "G3173",
+  "train_type": "G",
+  "depart_station": "银川",
+  "arrive_station": "上海虹桥",
+  "depart_time": "07:00",
+  "arrive_time": "19:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吴忠",
+      "arrive_time": "07:32",
+      "depart_time": "07:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "环县",
+      "arrive_time": "08:29",
+      "depart_time": "08:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "庆阳",
+      "arrive_time": "09:05",
+      "depart_time": "09:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "宁县",
+      "arrive_time": "09:23",
+      "depart_time": "09:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "西安北",
+      "arrive_time": "10:20",
+      "depart_time": "10:28",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "华山北",
+      "arrive_time": "10:58",
+      "depart_time": "11:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "洛阳龙门",
+      "arrive_time": "11:53",
+      "depart_time": "11:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "郑州西",
+      "arrive_time": "12:20",
+      "depart_time": "12:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "郑州东",
+      "arrive_time": "12:40",
+      "depart_time": "12:55",
+      "stay_min": "15"
+    },
+    {
+      "seq": 11,
+      "station_name": "民权北",
+      "arrive_time": "13:33",
+      "depart_time": "13:36",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "商丘",
+      "arrive_time": "13:52",
+      "depart_time": "13:56",
+      "stay_min": "4"
+    },
+    {
+      "seq": 13,
+      "station_name": "砀山南",
+      "arrive_time": "14:14",
+      "depart_time": "14:19",
+      "stay_min": "5"
+    },
+    {
+      "seq": 14,
+      "station_name": "永城北",
+      "arrive_time": "14:29",
+      "depart_time": "14:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "徐州东",
+      "arrive_time": "14:57",
+      "depart_time": "15:09",
+      "stay_min": "12"
+    },
+    {
+      "seq": 16,
+      "station_name": "宿迁",
+      "arrive_time": "15:41",
+      "depart_time": "15:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "淮安东",
+      "arrive_time": "16:11",
+      "depart_time": "16:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 18,
+      "station_name": "阜宁南",
+      "arrive_time": "16:32",
+      "depart_time": "16:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "盐城",
+      "arrive_time": "16:53",
+      "depart_time": "16:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 20,
+      "station_name": "东台",
+      "arrive_time": "17:15",
+      "depart_time": "17:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 21,
+      "station_name": "海安",
+      "arrive_time": "17:30",
+      "depart_time": "17:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 22,
+      "station_name": "南通西",
+      "arrive_time": "17:50",
+      "depart_time": "17:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 23,
+      "station_name": "张家港",
+      "arrive_time": "18:08",
+      "depart_time": "18:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 24,
+      "station_name": "太仓",
+      "arrive_time": "18:34",
+      "depart_time": "18:41",
+      "stay_min": "7"
+    },
+    {
+      "seq": 25,
+      "station_name": "上海虹桥",
+      "arrive_time": "19:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3543.0,
+    "price_first": 1675.0,
+    "price_second": 1049.0,
+    "price_no_seat": 1049.0
+  },
+  "fetched_at": "2026-05-01T06:30:43.048255"
+}

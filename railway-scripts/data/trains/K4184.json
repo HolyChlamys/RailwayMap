@@ -1,0 +1,84 @@
+{
+  "train_no": "K4184",
+  "train_type": "K",
+  "depart_station": "深圳东",
+  "arrive_station": "阆中",
+  "depart_time": "10:38",
+  "arrive_time": "13:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳东",
+      "arrive_time": "10:38",
+      "depart_time": "10:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "秀山",
+      "arrive_time": "05:32",
+      "depart_time": "05:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "黔江",
+      "arrive_time": "06:58",
+      "depart_time": "07:06",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "彭水",
+      "arrive_time": "07:47",
+      "depart_time": "07:54",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "重庆北",
+      "arrive_time": "10:36",
+      "depart_time": "11:21",
+      "stay_min": "45"
+    },
+    {
+      "seq": 6,
+      "station_name": "广安",
+      "arrive_time": "12:40",
+      "depart_time": "12:46",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "渠县",
+      "arrive_time": "13:13",
+      "depart_time": "13:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "重庆北",
+      "arrive_time": "10:30",
+      "depart_time": "11:00",
+      "stay_min": "30"
+    },
+    {
+      "seq": 9,
+      "station_name": "南充北",
+      "arrive_time": "12:44",
+      "depart_time": "13:00",
+      "stay_min": "16"
+    },
+    {
+      "seq": 10,
+      "station_name": "阆中",
+      "arrive_time": "13:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T09:49:42.490830"
+}

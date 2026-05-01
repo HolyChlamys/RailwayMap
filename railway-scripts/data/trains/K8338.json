@@ -1,0 +1,42 @@
+{
+  "train_no": "K8338",
+  "train_type": "K",
+  "depart_station": "东营",
+  "arrive_station": "淄博",
+  "depart_time": "13:43",
+  "arrive_time": "14:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东营",
+      "arrive_time": "13:43",
+      "depart_time": "13:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "博兴",
+      "arrive_time": "14:32",
+      "depart_time": "14:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桓台",
+      "arrive_time": "14:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博",
+      "arrive_time": "14:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 15.5
+  },
+  "fetched_at": "2026-05-01T10:38:31.002760"
+}

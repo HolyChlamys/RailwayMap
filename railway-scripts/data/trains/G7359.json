@@ -1,0 +1,52 @@
+{
+  "train_no": "G7359",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "杭州",
+  "depart_time": "17:51",
+  "arrive_time": "19:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "上海虹桥",
+      "arrive_time": "18:23",
+      "depart_time": "18:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "上海松江",
+      "arrive_time": "18:40",
+      "depart_time": "18:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "嘉兴南",
+      "arrive_time": "19:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州",
+      "arrive_time": "19:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 389.0,
+    "price_first": 178.0,
+    "price_second": 111.0,
+    "price_no_seat": 111.0
+  },
+  "fetched_at": "2026-05-01T08:25:15.826396"
+}

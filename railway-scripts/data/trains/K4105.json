@@ -1,0 +1,42 @@
+{
+  "train_no": "K4105",
+  "train_type": "K",
+  "depart_station": "南昌",
+  "arrive_station": "东莞东",
+  "depart_time": "21:09",
+  "arrive_time": "23:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "21:09",
+      "depart_time": "21:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "向塘",
+      "arrive_time": "21:44",
+      "depart_time": "21:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吉安",
+      "arrive_time": "23:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "东莞东",
+      "arrive_time": "23:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 132.0
+  },
+  "fetched_at": "2026-05-01T09:47:46.500285"
+}

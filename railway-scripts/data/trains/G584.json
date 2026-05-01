@@ -1,0 +1,122 @@
+{
+  "train_no": "G584",
+  "train_type": "G",
+  "depart_station": "宜昌北",
+  "arrive_station": "宁波",
+  "depart_time": "06:50",
+  "arrive_time": "14:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌北",
+      "arrive_time": "06:50",
+      "depart_time": "06:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜昌东",
+      "arrive_time": "07:02",
+      "depart_time": "07:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "天门南",
+      "arrive_time": "08:18",
+      "depart_time": "08:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "08:55",
+      "depart_time": "09:03",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "麻城北",
+      "arrive_time": "09:47",
+      "depart_time": "09:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "合肥南",
+      "arrive_time": "10:55",
+      "depart_time": "11:01",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "巢湖东",
+      "arrive_time": "11:26",
+      "depart_time": "11:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "含山南",
+      "arrive_time": "11:39",
+      "depart_time": "11:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "芜湖",
+      "arrive_time": "11:55",
+      "depart_time": "11:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "宣城",
+      "arrive_time": "12:23",
+      "depart_time": "12:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "郎溪南",
+      "arrive_time": "12:38",
+      "depart_time": "12:43",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "杭州东",
+      "arrive_time": "13:29",
+      "depart_time": "13:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "绍兴北",
+      "arrive_time": "13:53",
+      "depart_time": "13:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "余姚北",
+      "arrive_time": "14:13",
+      "depart_time": "14:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "宁波",
+      "arrive_time": "14:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2044.0,
+    "price_first": 972.0,
+    "price_second": 608.0,
+    "price_no_seat": 608.0
+  },
+  "fetched_at": "2026-05-01T07:43:54.112276"
+}

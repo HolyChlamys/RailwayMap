@@ -1,0 +1,72 @@
+{
+  "train_no": "D2508",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "太原南",
+  "depart_time": "14:47",
+  "arrive_time": "17:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "14:47",
+      "depart_time": "14:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大荔",
+      "arrive_time": "15:22",
+      "depart_time": "15:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "运城北",
+      "arrive_time": "15:58",
+      "depart_time": "15:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "侯马西",
+      "arrive_time": "16:22",
+      "depart_time": "16:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "临汾西",
+      "arrive_time": "16:44",
+      "depart_time": "16:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "祁县东",
+      "arrive_time": "17:37",
+      "depart_time": "17:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "晋中",
+      "arrive_time": "17:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "太原南",
+      "arrive_time": "17:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 338.0,
+    "price_second": 211.0,
+    "price_no_seat": 211.0
+  },
+  "fetched_at": "2026-05-01T03:17:34.854955"
+}

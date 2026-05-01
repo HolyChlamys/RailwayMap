@@ -1,0 +1,129 @@
+{
+  "train_no": "G3819",
+  "train_type": "G",
+  "depart_station": "宜昌北",
+  "arrive_station": "济南东",
+  "depart_time": "09:29",
+  "arrive_time": "15:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌北",
+      "arrive_time": "09:29",
+      "depart_time": "09:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆门西",
+      "arrive_time": "09:49",
+      "depart_time": "09:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "宜城",
+      "arrive_time": "10:16",
+      "depart_time": "10:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "襄阳东",
+      "arrive_time": "10:34",
+      "depart_time": "10:41",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "南阳东",
+      "arrive_time": "11:15",
+      "depart_time": "11:21",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "平顶山西",
+      "arrive_time": "11:50",
+      "depart_time": "11:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "郏县",
+      "arrive_time": "12:03",
+      "depart_time": "12:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "禹州",
+      "arrive_time": "12:18",
+      "depart_time": "12:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "郑州东",
+      "arrive_time": "12:54",
+      "depart_time": "12:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "新乡南",
+      "arrive_time": "13:17",
+      "depart_time": "13:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "新乡东",
+      "arrive_time": "13:31",
+      "depart_time": "13:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "滑浚",
+      "arrive_time": "13:51",
+      "depart_time": "13:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "濮阳东",
+      "arrive_time": "14:12",
+      "depart_time": "14:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "聊城西",
+      "arrive_time": "14:43",
+      "depart_time": "14:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "济南西",
+      "arrive_time": "15:18",
+      "depart_time": "15:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 16,
+      "station_name": "济南东",
+      "arrive_time": "15:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2003.0,
+    "price_first": 968.0,
+    "price_second": 605.0,
+    "price_no_seat": 605.0
+  },
+  "fetched_at": "2026-05-01T06:48:18.974325"
+}

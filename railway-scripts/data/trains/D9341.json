@@ -1,0 +1,66 @@
+{
+  "train_no": "D9341",
+  "train_type": "D",
+  "depart_station": "宜昌东",
+  "arrive_station": "蕲春南",
+  "depart_time": "23:10",
+  "arrive_time": "21:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "23:10",
+      "depart_time": "23:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "23:44",
+      "depart_time": "23:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "汉口",
+      "arrive_time": "00:58",
+      "depart_time": "00:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武汉",
+      "arrive_time": "20:17",
+      "depart_time": "20:23",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "黄冈东",
+      "arrive_time": "20:55",
+      "depart_time": "20:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "浠水南",
+      "arrive_time": "21:11",
+      "depart_time": "21:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "蕲春南",
+      "arrive_time": "21:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 454.0,
+    "price_first": 207.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T05:13:46.368999"
+}

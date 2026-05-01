@@ -1,0 +1,59 @@
+{
+  "train_no": "C791",
+  "train_type": "C",
+  "depart_station": "成都南",
+  "arrive_station": "攀枝花南",
+  "depart_time": "10:42",
+  "arrive_time": "14:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "10:42",
+      "depart_time": "10:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "眉山",
+      "arrive_time": "11:21",
+      "depart_time": "11:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "峨眉",
+      "arrive_time": "11:58",
+      "depart_time": "11:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "冕宁",
+      "arrive_time": "13:37",
+      "depart_time": "13:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西昌西",
+      "arrive_time": "14:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "攀枝花南",
+      "arrive_time": "14:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 670.0,
+    "price_first": 307.0,
+    "price_second": 191.0,
+    "price_no_seat": 191.0
+  },
+  "fetched_at": "2026-05-01T02:27:44.033192"
+}

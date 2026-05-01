@@ -1,0 +1,73 @@
+{
+  "train_no": "G5345",
+  "train_type": "G",
+  "depart_station": "遵义",
+  "arrive_station": "六盘水",
+  "depart_time": "09:27",
+  "arrive_time": "11:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "遵义",
+      "arrive_time": "09:27",
+      "depart_time": "09:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳北",
+      "arrive_time": "10:21",
+      "depart_time": "10:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "平坝南",
+      "arrive_time": "10:43",
+      "depart_time": "10:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺西",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "黄桶北",
+      "arrive_time": "11:14",
+      "depart_time": "11:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "六枝南",
+      "arrive_time": "11:30",
+      "depart_time": "11:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长箐",
+      "arrive_time": "11:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "六盘水",
+      "arrive_time": "11:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 514.0,
+    "price_first": 260.0,
+    "price_second": 162.0,
+    "price_no_seat": 162.0
+  },
+  "fetched_at": "2026-05-01T07:31:32.903734"
+}

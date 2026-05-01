@@ -1,0 +1,73 @@
+{
+  "train_no": "C1171",
+  "train_type": "C",
+  "depart_station": "沈阳北",
+  "arrive_station": "赤峰",
+  "depart_time": "07:14",
+  "arrive_time": "10:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "07:14",
+      "depart_time": "07:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阜新",
+      "arrive_time": "08:07",
+      "depart_time": "08:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "北票",
+      "arrive_time": "08:39",
+      "depart_time": "08:46",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "辽宁朝阳",
+      "arrive_time": "09:01",
+      "depart_time": "09:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "喀左",
+      "arrive_time": "09:26",
+      "depart_time": "09:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "建平",
+      "arrive_time": "09:45",
+      "depart_time": "09:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "宁城",
+      "arrive_time": "10:01",
+      "depart_time": "10:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "赤峰",
+      "arrive_time": "10:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 751.0,
+    "price_first": 359.0,
+    "price_second": 224.0,
+    "price_no_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T00:22:41.188043"
+}

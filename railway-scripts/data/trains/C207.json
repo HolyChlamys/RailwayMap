@@ -1,0 +1,72 @@
+{
+  "train_no": "C207",
+  "train_type": "C",
+  "depart_station": "靖边",
+  "arrive_station": "西安",
+  "depart_time": "16:54",
+  "arrive_time": "21:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "靖边",
+      "arrive_time": "16:54",
+      "depart_time": "16:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绥德",
+      "arrive_time": "17:51",
+      "depart_time": "17:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "子长",
+      "arrive_time": "18:30",
+      "depart_time": "18:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "延安",
+      "arrive_time": "19:15",
+      "depart_time": "19:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "甘泉北",
+      "arrive_time": "19:39",
+      "depart_time": "19:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "富县东",
+      "arrive_time": "19:56",
+      "depart_time": "19:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "蒲城东",
+      "arrive_time": "20:54",
+      "depart_time": "20:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "西安",
+      "arrive_time": "21:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 313.0,
+    "price_second": 196.0,
+    "price_no_seat": 196.0
+  },
+  "fetched_at": "2026-05-01T00:29:13.765980"
+}

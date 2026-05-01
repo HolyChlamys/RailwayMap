@@ -1,0 +1,36 @@
+{
+  "train_no": "S5290",
+  "train_type": "S",
+  "depart_station": "邛崃",
+  "arrive_station": "成都西",
+  "depart_time": "15:34",
+  "arrive_time": "15:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邛崃",
+      "arrive_time": "15:34",
+      "depart_time": "15:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大邑",
+      "arrive_time": "15:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "成都西",
+      "arrive_time": "15:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 25.0,
+    "price_no_seat": 25.0
+  },
+  "fetched_at": "2026-05-01T11:05:11.636348"
+}

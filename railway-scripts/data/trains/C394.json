@@ -1,0 +1,72 @@
+{
+  "train_no": "C394",
+  "train_type": "C",
+  "depart_station": "西双版纳",
+  "arrive_station": "丽江",
+  "depart_time": "10:22",
+  "arrive_time": "18:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西双版纳",
+      "arrive_time": "10:22",
+      "depart_time": "10:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普洱",
+      "arrive_time": "11:02",
+      "depart_time": "11:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "玉溪",
+      "arrive_time": "12:57",
+      "depart_time": "13:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明南",
+      "arrive_time": "13:40",
+      "depart_time": "13:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明",
+      "arrive_time": "14:04",
+      "depart_time": "14:10",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "楚雄",
+      "arrive_time": "15:16",
+      "depart_time": "15:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "鹤庆",
+      "arrive_time": "18:04",
+      "depart_time": "18:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "丽江",
+      "arrive_time": "18:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 749.0,
+    "price_second": 469.0,
+    "price_no_seat": 469.0
+  },
+  "fetched_at": "2026-05-01T01:05:57.512364"
+}

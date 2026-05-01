@@ -1,0 +1,37 @@
+{
+  "train_no": "D3877",
+  "train_type": "D",
+  "depart_station": "梧州南",
+  "arrive_station": "广州南",
+  "depart_time": "07:27",
+  "arrive_time": "08:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梧州南",
+      "arrive_time": "07:27",
+      "depart_time": "07:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "云浮东",
+      "arrive_time": "08:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "08:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 175.0,
+    "price_second": 109.0,
+    "price_no_seat": 109.0
+  },
+  "fetched_at": "2026-05-01T03:41:09.382657"
+}

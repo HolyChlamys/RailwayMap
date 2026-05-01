@@ -1,0 +1,65 @@
+{
+  "train_no": "D162",
+  "train_type": "D",
+  "depart_station": "兰州",
+  "arrive_station": "成都东",
+  "depart_time": "07:00",
+  "arrive_time": "14:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "陇南",
+      "arrive_time": "09:39",
+      "depart_time": "09:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "广元",
+      "arrive_time": "10:44",
+      "depart_time": "10:50",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "苍溪",
+      "arrive_time": "11:31",
+      "depart_time": "11:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "阆中",
+      "arrive_time": "11:47",
+      "depart_time": "11:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南充北",
+      "arrive_time": "12:28",
+      "depart_time": "12:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "成都东",
+      "arrive_time": "14:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 407.0,
+    "price_second": 256.0,
+    "price_no_seat": 256.0
+  },
+  "fetched_at": "2026-05-01T03:01:15.615588"
+}

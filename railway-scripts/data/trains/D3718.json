@@ -1,0 +1,86 @@
+{
+  "train_no": "D3718",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "北海",
+  "depart_time": "10:16",
+  "arrive_time": "15:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "10:16",
+      "depart_time": "10:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "10:34",
+      "depart_time": "10:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "肇庆东",
+      "arrive_time": "10:56",
+      "depart_time": "10:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "梧州南",
+      "arrive_time": "11:48",
+      "depart_time": "11:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "藤县",
+      "arrive_time": "12:02",
+      "depart_time": "12:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "桂平",
+      "arrive_time": "12:31",
+      "depart_time": "12:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "贵港",
+      "arrive_time": "12:52",
+      "depart_time": "12:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "南宁东",
+      "arrive_time": "13:38",
+      "depart_time": "13:58",
+      "stay_min": "20"
+    },
+    {
+      "seq": 9,
+      "station_name": "钦州东",
+      "arrive_time": "14:33",
+      "depart_time": "14:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "北海",
+      "arrive_time": "15:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 540.0,
+    "price_second": 337.0,
+    "price_no_seat": 337.0
+  },
+  "fetched_at": "2026-05-01T03:37:41.298084"
+}

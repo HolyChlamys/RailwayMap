@@ -1,0 +1,52 @@
+{
+  "train_no": "C4313",
+  "train_type": "C",
+  "depart_station": "西双版纳",
+  "arrive_station": "昆明",
+  "depart_time": "21:05",
+  "arrive_time": "00:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西双版纳",
+      "arrive_time": "21:05",
+      "depart_time": "21:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普洱",
+      "arrive_time": "21:46",
+      "depart_time": "21:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "20:50",
+      "depart_time": "20:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明南",
+      "arrive_time": "00:16",
+      "depart_time": "00:21",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明",
+      "arrive_time": "00:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 814.0,
+    "price_first": 381.0,
+    "price_second": 239.0,
+    "price_no_seat": 239.0
+  },
+  "fetched_at": "2026-05-01T01:12:59.713572"
+}

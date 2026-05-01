@@ -1,0 +1,30 @@
+{
+  "train_no": "D5560",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "江阴",
+  "depart_time": "21:47",
+  "arrive_time": "21:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "21:47",
+      "depart_time": "21:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江阴",
+      "arrive_time": "21:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 128.0,
+    "price_second": 81.0,
+    "price_no_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T04:08:41.450614"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "D5128",
+  "train_type": "D",
+  "depart_station": "成都东",
+  "arrive_station": "涪陵北",
+  "depart_time": "06:18",
+  "arrive_time": "08:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "06:18",
+      "depart_time": "06:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "08:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "涪陵北",
+      "arrive_time": "08:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 235.0,
+    "price_second": 147.0,
+    "price_no_seat": 147.0
+  },
+  "fetched_at": "2026-05-01T04:01:05.332269"
+}

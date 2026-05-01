@@ -1,0 +1,94 @@
+{
+  "train_no": "C878",
+  "train_type": "C",
+  "depart_station": "福州",
+  "arrive_station": "厦门",
+  "depart_time": "14:50",
+  "arrive_time": "21:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "14:50",
+      "depart_time": "14:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三明北",
+      "arrive_time": "16:15",
+      "depart_time": "16:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "泰宁",
+      "arrive_time": "17:14",
+      "depart_time": "17:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "建宁县北",
+      "arrive_time": "17:32",
+      "depart_time": "17:47",
+      "stay_min": "15"
+    },
+    {
+      "seq": 5,
+      "station_name": "水茜",
+      "arrive_time": "18:21",
+      "depart_time": "18:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "宁化",
+      "arrive_time": "18:39",
+      "depart_time": "18:45",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "清流",
+      "arrive_time": "18:56",
+      "depart_time": "18:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "杨源",
+      "arrive_time": "19:22",
+      "depart_time": "19:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "冠豸山",
+      "arrive_time": "19:33",
+      "depart_time": "19:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "龙岩",
+      "arrive_time": "20:20",
+      "depart_time": "20:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "厦门",
+      "arrive_time": "21:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 859.0,
+    "price_first": 406.0,
+    "price_second": 254.0,
+    "price_no_seat": 254.0
+  },
+  "fetched_at": "2026-05-01T02:36:25.629250"
+}

@@ -1,0 +1,66 @@
+{
+  "train_no": "G9968",
+  "train_type": "G",
+  "depart_station": "兴义南",
+  "arrive_station": "荔波",
+  "depart_time": "17:38",
+  "arrive_time": "21:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兴义南",
+      "arrive_time": "17:38",
+      "depart_time": "17:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "保田",
+      "arrive_time": "17:54",
+      "depart_time": "17:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "盘州",
+      "arrive_time": "18:17",
+      "depart_time": "18:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "19:40",
+      "depart_time": "19:46",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "龙洞堡",
+      "arrive_time": "20:03",
+      "depart_time": "20:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "都匀东",
+      "arrive_time": "20:36",
+      "depart_time": "20:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "荔波",
+      "arrive_time": "21:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1147.0,
+    "price_first": 525.0,
+    "price_second": 328.0,
+    "price_no_seat": 328.0
+  },
+  "fetched_at": "2026-05-01T09:29:06.460927"
+}

@@ -1,0 +1,31 @@
+{
+  "train_no": "C6290",
+  "train_type": "C",
+  "depart_station": "乐山",
+  "arrive_station": "成都东",
+  "depart_time": "00:02",
+  "arrive_time": "00:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乐山",
+      "arrive_time": "00:02",
+      "depart_time": "00:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都东",
+      "arrive_time": "00:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 162.0,
+    "price_first": 86.0,
+    "price_second": 54.0,
+    "price_no_seat": 54.0
+  },
+  "fetched_at": "2026-05-01T01:48:21.041237"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "D4990",
+  "train_type": "D",
+  "depart_station": "银川",
+  "arrive_station": "乌海",
+  "depart_time": "21:50",
+  "arrive_time": "22:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "21:50",
+      "depart_time": "21:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石嘴山",
+      "arrive_time": "22:13",
+      "depart_time": "22:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠农南",
+      "arrive_time": "22:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "乌海",
+      "arrive_time": "22:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 131.0,
+    "price_second": 82.0,
+    "price_no_seat": 82.0
+  },
+  "fetched_at": "2026-05-01T03:59:31.520067"
+}

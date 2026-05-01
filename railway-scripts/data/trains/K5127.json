@@ -1,0 +1,49 @@
+{
+  "train_no": "K5127",
+  "train_type": "K",
+  "depart_station": "哈尔滨东",
+  "arrive_station": "牡丹江",
+  "depart_time": "22:10",
+  "arrive_time": "02:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨东",
+      "arrive_time": "22:10",
+      "depart_time": "22:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阿城",
+      "arrive_time": "22:49",
+      "depart_time": "22:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "亚布力",
+      "arrive_time": "01:51",
+      "depart_time": "01:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "横道河子",
+      "arrive_time": "02:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "牡丹江",
+      "arrive_time": "02:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 51.5
+  },
+  "fetched_at": "2026-05-01T10:04:29.468299"
+}

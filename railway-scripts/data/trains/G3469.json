@@ -1,0 +1,73 @@
+{
+  "train_no": "G3469",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "南宁东",
+  "depart_time": "15:38",
+  "arrive_time": "21:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "内江北",
+      "arrive_time": "16:27",
+      "depart_time": "16:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆西",
+      "arrive_time": "17:15",
+      "depart_time": "17:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "19:26",
+      "depart_time": "19:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳",
+      "arrive_time": "19:39",
+      "depart_time": "19:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "都匀东",
+      "arrive_time": "20:17",
+      "depart_time": "20:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "河池西",
+      "arrive_time": "21:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南宁东",
+      "arrive_time": "21:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1974.0,
+    "price_first": 938.0,
+    "price_second": 586.0,
+    "price_no_seat": 586.0
+  },
+  "fetched_at": "2026-05-01T06:38:40.750678"
+}

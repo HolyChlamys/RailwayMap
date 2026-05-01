@@ -1,0 +1,66 @@
+{
+  "train_no": "G7460",
+  "train_type": "G",
+  "depart_station": "黄山北",
+  "arrive_station": "合肥南",
+  "depart_time": "18:42",
+  "arrive_time": "20:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄山北",
+      "arrive_time": "18:42",
+      "depart_time": "18:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "歙县北",
+      "arrive_time": "18:52",
+      "depart_time": "18:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "旌德",
+      "arrive_time": "19:11",
+      "depart_time": "19:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "泾县",
+      "arrive_time": "19:27",
+      "depart_time": "19:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南陵",
+      "arrive_time": "19:39",
+      "depart_time": "19:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "无为",
+      "arrive_time": "20:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "合肥南",
+      "arrive_time": "20:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 443.5,
+    "price_first": 236.5,
+    "price_second": 140.5,
+    "price_no_seat": 140.5
+  },
+  "fetched_at": "2026-05-01T08:27:49.480897"
+}

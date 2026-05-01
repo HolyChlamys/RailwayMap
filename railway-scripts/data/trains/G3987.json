@@ -1,0 +1,51 @@
+{
+  "train_no": "G3987",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "昆明南",
+  "depart_time": "21:33",
+  "arrive_time": "23:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "21:33",
+      "depart_time": "21:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安顺西",
+      "arrive_time": "22:04",
+      "depart_time": "22:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "盘州",
+      "arrive_time": "23:02",
+      "depart_time": "23:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "曲靖北",
+      "arrive_time": "23:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明南",
+      "arrive_time": "23:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 407.0,
+    "price_second": 255.0,
+    "price_no_seat": 255.0
+  },
+  "fetched_at": "2026-05-01T06:52:26.771733"
+}

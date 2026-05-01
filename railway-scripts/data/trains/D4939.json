@@ -1,0 +1,86 @@
+{
+  "train_no": "D4939",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "银川",
+  "depart_time": "14:48",
+  "arrive_time": "18:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "14:48",
+      "depart_time": "14:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "萨拉齐",
+      "arrive_time": "15:33",
+      "depart_time": "15:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "包头东",
+      "arrive_time": "15:54",
+      "depart_time": "15:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "包头",
+      "arrive_time": "16:11",
+      "depart_time": "16:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "17:16",
+      "depart_time": "17:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "乌海",
+      "arrive_time": "17:59",
+      "depart_time": "17:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "惠农南",
+      "arrive_time": "18:21",
+      "depart_time": "18:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "石嘴山",
+      "arrive_time": "18:38",
+      "depart_time": "18:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "沙湖",
+      "arrive_time": "18:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "银川",
+      "arrive_time": "18:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 595.0,
+    "price_second": 371.5,
+    "price_no_seat": 371.5
+  },
+  "fetched_at": "2026-05-01T03:58:48.638915"
+}

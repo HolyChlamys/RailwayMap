@@ -1,0 +1,52 @@
+{
+  "train_no": "G4850",
+  "train_type": "G",
+  "depart_station": "南宁东",
+  "arrive_station": "成都东",
+  "depart_time": "22:22",
+  "arrive_time": "02:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "22:22",
+      "depart_time": "22:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "都匀东",
+      "arrive_time": "23:58",
+      "depart_time": "23:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳东",
+      "arrive_time": "00:38",
+      "depart_time": "00:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆西",
+      "arrive_time": "02:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "02:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2000.0,
+    "price_first": 946.0,
+    "price_second": 591.0,
+    "price_no_seat": 591.0
+  },
+  "fetched_at": "2026-05-01T07:17:43.844725"
+}

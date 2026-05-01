@@ -1,0 +1,66 @@
+{
+  "train_no": "G7300",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "徐州东",
+  "depart_time": "19:55",
+  "arrive_time": "22:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "19:55",
+      "depart_time": "19:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "20:18",
+      "depart_time": "20:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州北",
+      "arrive_time": "20:35",
+      "depart_time": "20:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "常州北",
+      "arrive_time": "20:59",
+      "depart_time": "20:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "21:33",
+      "depart_time": "21:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "蚌埠南",
+      "arrive_time": "22:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "徐州东",
+      "arrive_time": "22:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1201.0,
+    "price_first": 549.0,
+    "price_second": 343.0,
+    "price_no_seat": 343.0
+  },
+  "fetched_at": "2026-05-01T08:23:31.170257"
+}

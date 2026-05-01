@@ -1,0 +1,49 @@
+{
+  "train_no": "K6201",
+  "train_type": "K",
+  "depart_station": "赣州",
+  "arrive_station": "石城东",
+  "depart_time": "06:07",
+  "arrive_time": "09:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州",
+      "arrive_time": "06:07",
+      "depart_time": "06:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴国",
+      "arrive_time": "06:53",
+      "depart_time": "08:02",
+      "stay_min": "69"
+    },
+    {
+      "seq": 3,
+      "station_name": "于都北",
+      "arrive_time": "08:24",
+      "depart_time": "08:28",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "宁都",
+      "arrive_time": "08:56",
+      "depart_time": "09:00",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "石城东",
+      "arrive_time": "09:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 29.5
+  },
+  "fetched_at": "2026-05-01T10:19:52.308658"
+}

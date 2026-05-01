@@ -1,0 +1,79 @@
+{
+  "train_no": "C680",
+  "train_type": "C",
+  "depart_station": "曹县",
+  "arrive_station": "济南",
+  "depart_time": "18:33",
+  "arrive_time": "22:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "曹县",
+      "arrive_time": "18:33",
+      "depart_time": "18:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "菏泽",
+      "arrive_time": "18:59",
+      "depart_time": "19:05",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "巨野",
+      "arrive_time": "19:43",
+      "depart_time": "19:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "嘉祥",
+      "arrive_time": "20:02",
+      "depart_time": "20:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "济宁",
+      "arrive_time": "20:21",
+      "depart_time": "20:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南",
+      "arrive_time": "22:01",
+      "depart_time": "22:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "兖州",
+      "arrive_time": "20:50",
+      "depart_time": "21:08",
+      "stay_min": "18"
+    },
+    {
+      "seq": 8,
+      "station_name": "泰山",
+      "arrive_time": "21:52",
+      "depart_time": "21:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "济南",
+      "arrive_time": "22:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 147.0,
+    "price_second": 92.0,
+    "price_no_seat": 92.0
+  },
+  "fetched_at": "2026-05-01T01:56:55.711238"
+}

@@ -1,0 +1,49 @@
+{
+  "train_no": "K5202",
+  "train_type": "K",
+  "depart_station": "邯郸",
+  "arrive_station": "北京西",
+  "depart_time": "12:31",
+  "arrive_time": "16:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邯郸",
+      "arrive_time": "12:31",
+      "depart_time": "12:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邢台",
+      "arrive_time": "13:07",
+      "depart_time": "13:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "15:03",
+      "depart_time": "15:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "保定",
+      "arrive_time": "16:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "北京西",
+      "arrive_time": "16:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 64.5
+  },
+  "fetched_at": "2026-05-01T10:06:05.364857"
+}

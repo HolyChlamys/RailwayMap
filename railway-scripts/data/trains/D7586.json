@@ -1,0 +1,86 @@
+{
+  "train_no": "D7586",
+  "train_type": "D",
+  "depart_station": "汕头",
+  "arrive_station": "肇庆东",
+  "depart_time": "19:20",
+  "arrive_time": "23:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "19:20",
+      "depart_time": "19:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠来",
+      "arrive_time": "19:42",
+      "depart_time": "19:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "陆丰南",
+      "arrive_time": "20:05",
+      "depart_time": "20:11",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "20:23",
+      "depart_time": "20:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "惠州南",
+      "arrive_time": "21:01",
+      "depart_time": "21:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "增城",
+      "arrive_time": "21:27",
+      "depart_time": "21:32",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "广州新塘",
+      "arrive_time": "21:43",
+      "depart_time": "21:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州",
+      "arrive_time": "22:21",
+      "depart_time": "22:27",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "佛山西",
+      "arrive_time": "22:46",
+      "depart_time": "22:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "肇庆东",
+      "arrive_time": "23:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 486.0,
+    "price_second": 312.0,
+    "price_no_seat": 312.0
+  },
+  "fetched_at": "2026-05-01T04:41:06.963411"
+}

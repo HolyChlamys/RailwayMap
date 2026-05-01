@@ -1,0 +1,44 @@
+{
+  "train_no": "C7393",
+  "train_type": "C",
+  "depart_station": "潮汕",
+  "arrive_station": "广州东",
+  "depart_time": "02:32",
+  "arrive_time": "05:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潮汕",
+      "arrive_time": "02:32",
+      "depart_time": "02:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汕尾",
+      "arrive_time": "03:24",
+      "depart_time": "03:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "04:26",
+      "depart_time": "04:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州东",
+      "arrive_time": "05:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 320.0,
+    "price_second": 218.0,
+    "price_no_seat": 218.0
+  },
+  "fetched_at": "2026-05-01T02:13:57.929347"
+}

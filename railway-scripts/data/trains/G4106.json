@@ -1,0 +1,66 @@
+{
+  "train_no": "G4106",
+  "train_type": "G",
+  "depart_station": "东莞南",
+  "arrive_station": "赣州西",
+  "depart_time": "10:43",
+  "arrive_time": "12:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东莞南",
+      "arrive_time": "10:43",
+      "depart_time": "10:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠州北",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "河源东",
+      "arrive_time": "11:21",
+      "depart_time": "11:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙川西",
+      "arrive_time": "11:42",
+      "depart_time": "11:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "定南南",
+      "arrive_time": "12:12",
+      "depart_time": "12:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "信丰西",
+      "arrive_time": "12:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "赣州西",
+      "arrive_time": "12:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 850.0,
+    "price_first": 389.0,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T06:55:54.625388"
+}

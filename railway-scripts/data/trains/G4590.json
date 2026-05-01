@@ -1,0 +1,80 @@
+{
+  "train_no": "G4590",
+  "train_type": "G",
+  "depart_station": "长沙",
+  "arrive_station": "成都东",
+  "depart_time": "02:47",
+  "arrive_time": "09:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "02:47",
+      "depart_time": "02:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张家界西",
+      "arrive_time": "04:52",
+      "depart_time": "04:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黔江",
+      "arrive_time": "06:17",
+      "depart_time": "06:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "彭水西",
+      "arrive_time": "06:53",
+      "depart_time": "06:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武隆南",
+      "arrive_time": "07:11",
+      "depart_time": "07:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南川北",
+      "arrive_time": "07:39",
+      "depart_time": "07:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "重庆东",
+      "arrive_time": "08:26",
+      "depart_time": "08:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "重庆西",
+      "arrive_time": "09:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "成都东",
+      "arrive_time": "09:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2035.0,
+    "price_first": 971.0,
+    "price_second": 606.0,
+    "price_no_seat": 606.0
+  },
+  "fetched_at": "2026-05-01T07:09:45.242544"
+}

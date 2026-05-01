@@ -1,0 +1,86 @@
+{
+  "train_no": "G7091",
+  "train_type": "G",
+  "depart_station": "池州",
+  "arrive_station": "上海",
+  "depart_time": "19:14",
+  "arrive_time": "22:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "池州",
+      "arrive_time": "19:14",
+      "depart_time": "19:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "芜湖",
+      "arrive_time": "19:56",
+      "depart_time": "19:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "马鞍山东",
+      "arrive_time": "20:15",
+      "depart_time": "20:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "20:34",
+      "depart_time": "20:41",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "丹阳",
+      "arrive_time": "21:16",
+      "depart_time": "21:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "常州",
+      "arrive_time": "21:33",
+      "depart_time": "21:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "无锡",
+      "arrive_time": "21:49",
+      "depart_time": "21:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "苏州",
+      "arrive_time": "22:07",
+      "depart_time": "22:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "昆山南",
+      "arrive_time": "22:22",
+      "depart_time": "22:30",
+      "stay_min": "8"
+    },
+    {
+      "seq": 10,
+      "station_name": "上海",
+      "arrive_time": "22:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 424.0,
+    "price_second": 265.0,
+    "price_no_seat": 265.0
+  },
+  "fetched_at": "2026-05-01T08:17:41.300122"
+}

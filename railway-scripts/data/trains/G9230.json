@@ -1,0 +1,45 @@
+{
+  "train_no": "G9230",
+  "train_type": "G",
+  "depart_station": "临沂北",
+  "arrive_station": "济南西",
+  "depart_time": "19:07",
+  "arrive_time": "20:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沂北",
+      "arrive_time": "19:07",
+      "depart_time": "19:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蒙山",
+      "arrive_time": "19:26",
+      "depart_time": "19:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "曲阜东",
+      "arrive_time": "19:52",
+      "depart_time": "19:57",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南西",
+      "arrive_time": "20:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 469.0,
+    "price_first": 232.0,
+    "price_second": 145.0,
+    "price_no_seat": 145.0
+  },
+  "fetched_at": "2026-05-01T09:08:40.212575"
+}

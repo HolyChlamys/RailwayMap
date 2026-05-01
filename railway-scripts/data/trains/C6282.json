@@ -1,0 +1,52 @@
+{
+  "train_no": "C6282",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "广元",
+  "depart_time": "20:19",
+  "arrive_time": "21:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "20:19",
+      "depart_time": "20:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青白江东",
+      "arrive_time": "20:35",
+      "depart_time": "20:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "德阳",
+      "arrive_time": "20:51",
+      "depart_time": "20:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绵阳",
+      "arrive_time": "21:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广元",
+      "arrive_time": "21:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 467.0,
+    "price_first": 214.0,
+    "price_second": 133.0,
+    "price_no_seat": 133.0
+  },
+  "fetched_at": "2026-05-01T01:48:07.820916"
+}

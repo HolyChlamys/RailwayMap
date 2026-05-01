@@ -1,0 +1,73 @@
+{
+  "train_no": "G6681",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "沈丘北",
+  "depart_time": "11:05",
+  "arrive_time": "12:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "11:05",
+      "depart_time": "11:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州航空港",
+      "arrive_time": "11:28",
+      "depart_time": "11:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄢陵",
+      "arrive_time": "11:50",
+      "depart_time": "11:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "扶沟南",
+      "arrive_time": "12:02",
+      "depart_time": "12:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西华",
+      "arrive_time": "12:16",
+      "depart_time": "12:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "周口东",
+      "arrive_time": "12:28",
+      "depart_time": "12:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "淮阳南",
+      "arrive_time": "12:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "沈丘北",
+      "arrive_time": "12:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 365.0,
+    "price_first": 194.0,
+    "price_second": 122.0,
+    "price_no_seat": 122.0
+  },
+  "fetched_at": "2026-05-01T08:05:48.125581"
+}

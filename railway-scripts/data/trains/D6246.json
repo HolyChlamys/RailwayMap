@@ -1,0 +1,44 @@
+{
+  "train_no": "D6246",
+  "train_type": "D",
+  "depart_station": "南丰",
+  "arrive_station": "南昌东",
+  "depart_time": "09:05",
+  "arrive_time": "09:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南丰",
+      "arrive_time": "09:05",
+      "depart_time": "09:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南城",
+      "arrive_time": "09:24",
+      "depart_time": "09:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "抚州",
+      "arrive_time": "09:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌东",
+      "arrive_time": "09:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 110.0,
+    "price_second": 68.5,
+    "price_no_seat": 68.5
+  },
+  "fetched_at": "2026-05-01T04:19:43.457696"
+}

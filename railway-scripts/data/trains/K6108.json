@@ -1,0 +1,35 @@
+{
+  "train_no": "K6108",
+  "train_type": "K",
+  "depart_station": "保山",
+  "arrive_station": "昆明",
+  "depart_time": "06:10",
+  "arrive_time": "12:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "保山",
+      "arrive_time": "06:10",
+      "depart_time": "06:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大理",
+      "arrive_time": "07:53",
+      "depart_time": "08:00",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "12:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T10:17:45.338843"
+}

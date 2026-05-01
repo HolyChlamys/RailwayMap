@@ -1,0 +1,70 @@
+{
+  "train_no": "K7934",
+  "train_type": "K",
+  "depart_station": "二连",
+  "arrive_station": "包头",
+  "depart_time": "23:13",
+  "arrive_time": "08:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "二连",
+      "arrive_time": "23:13",
+      "depart_time": "23:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "赛乌苏",
+      "arrive_time": "23:32",
+      "depart_time": "23:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "赛汗塔拉",
+      "arrive_time": "00:42",
+      "depart_time": "00:48",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "白音察干",
+      "arrive_time": "03:14",
+      "depart_time": "03:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "集宁南",
+      "arrive_time": "04:04",
+      "depart_time": "04:19",
+      "stay_min": "15"
+    },
+    {
+      "seq": 6,
+      "station_name": "呼和浩特",
+      "arrive_time": "05:50",
+      "depart_time": "06:03",
+      "stay_min": "13"
+    },
+    {
+      "seq": 7,
+      "station_name": "萨拉齐",
+      "arrive_time": "07:07",
+      "depart_time": "07:22",
+      "stay_min": "15"
+    },
+    {
+      "seq": 8,
+      "station_name": "包头",
+      "arrive_time": "08:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 86.0
+  },
+  "fetched_at": "2026-05-01T10:33:16.112302"
+}

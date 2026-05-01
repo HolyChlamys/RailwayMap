@@ -1,0 +1,73 @@
+{
+  "train_no": "C7214",
+  "train_type": "C",
+  "depart_station": "汕头",
+  "arrive_station": "广州南",
+  "depart_time": "20:24",
+  "arrive_time": "23:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "20:24",
+      "depart_time": "20:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮安",
+      "arrive_time": "20:35",
+      "depart_time": "20:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "潮汕",
+      "arrive_time": "20:51",
+      "depart_time": "20:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "潮阳",
+      "arrive_time": "21:05",
+      "depart_time": "21:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "陆丰",
+      "arrive_time": "21:33",
+      "depart_time": "21:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "惠阳",
+      "arrive_time": "22:13",
+      "depart_time": "22:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳北",
+      "arrive_time": "22:41",
+      "depart_time": "22:48",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "23:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 718.5,
+    "price_first": 336.5,
+    "price_second": 222.5,
+    "price_no_seat": 222.5
+  },
+  "fetched_at": "2026-05-01T02:09:12.594326"
+}

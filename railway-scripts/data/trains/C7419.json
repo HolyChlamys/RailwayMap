@@ -1,0 +1,65 @@
+{
+  "train_no": "C7419",
+  "train_type": "C",
+  "depart_station": "海口东",
+  "arrive_station": "凤凰机场",
+  "depart_time": "15:40",
+  "arrive_time": "17:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "海口东",
+      "arrive_time": "15:40",
+      "depart_time": "15:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "美兰",
+      "arrive_time": "15:48",
+      "depart_time": "15:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "文昌",
+      "arrive_time": "16:09",
+      "depart_time": "16:10",
+      "stay_min": "1"
+    },
+    {
+      "seq": 4,
+      "station_name": "琼海",
+      "arrive_time": "16:27",
+      "depart_time": "16:28",
+      "stay_min": "1"
+    },
+    {
+      "seq": 5,
+      "station_name": "万宁",
+      "arrive_time": "16:46",
+      "depart_time": "16:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "三亚",
+      "arrive_time": "17:22",
+      "depart_time": "17:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "凤凰机场",
+      "arrive_time": "17:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 191.0,
+    "price_second": 119.0,
+    "price_no_seat": 119.0
+  },
+  "fetched_at": "2026-05-01T02:14:45.723629"
+}

@@ -1,0 +1,31 @@
+{
+  "train_no": "C7387",
+  "train_type": "C",
+  "depart_station": "汕尾",
+  "arrive_station": "深圳北",
+  "depart_time": "23:32",
+  "arrive_time": "23:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕尾",
+      "arrive_time": "23:32",
+      "depart_time": "23:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "23:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 242.0,
+    "price_first": 111.0,
+    "price_second": 69.0,
+    "price_no_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T02:13:46.263294"
+}

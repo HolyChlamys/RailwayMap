@@ -1,0 +1,44 @@
+{
+  "train_no": "C5072",
+  "train_type": "C",
+  "depart_station": "利川",
+  "arrive_station": "汉口",
+  "depart_time": "00:09",
+  "arrive_time": "02:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "利川",
+      "arrive_time": "00:09",
+      "depart_time": "00:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "恩施",
+      "arrive_time": "00:52",
+      "depart_time": "00:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜昌东",
+      "arrive_time": "02:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "02:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 370.0,
+    "price_second": 232.0,
+    "price_no_seat": 232.0
+  },
+  "fetched_at": "2026-05-01T01:25:53.349794"
+}

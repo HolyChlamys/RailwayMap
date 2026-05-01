@@ -1,0 +1,28 @@
+{
+  "train_no": "K5343",
+  "train_type": "K",
+  "depart_station": "安阳",
+  "arrive_station": "新乡",
+  "depart_time": "12:14",
+  "arrive_time": "12:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安阳",
+      "arrive_time": "12:14",
+      "depart_time": "12:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新乡",
+      "arrive_time": "12:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 16.5
+  },
+  "fetched_at": "2026-05-01T10:08:23.836741"
+}

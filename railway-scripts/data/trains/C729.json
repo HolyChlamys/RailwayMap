@@ -1,0 +1,44 @@
+{
+  "train_no": "C729",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "阆中",
+  "depart_time": "23:40",
+  "arrive_time": "02:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "23:40",
+      "depart_time": "23:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南充北",
+      "arrive_time": "01:20",
+      "depart_time": "01:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南部",
+      "arrive_time": "01:54",
+      "depart_time": "01:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "阆中",
+      "arrive_time": "02:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 153.0,
+    "price_second": 96.0,
+    "price_no_seat": 96.0
+  },
+  "fetched_at": "2026-05-01T02:11:17.835039"
+}

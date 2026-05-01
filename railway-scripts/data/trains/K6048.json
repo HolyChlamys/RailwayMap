@@ -1,0 +1,35 @@
+{
+  "train_no": "K6048",
+  "train_type": "K",
+  "depart_station": "贵阳",
+  "arrive_station": "昭通",
+  "depart_time": "23:00",
+  "arrive_time": "06:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳",
+      "arrive_time": "23:00",
+      "depart_time": "23:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "六盘水",
+      "arrive_time": "01:59",
+      "depart_time": "02:06",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "昭通",
+      "arrive_time": "06:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 54.5
+  },
+  "fetched_at": "2026-05-01T10:17:13.804093"
+}

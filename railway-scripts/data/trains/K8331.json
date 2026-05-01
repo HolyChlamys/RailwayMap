@@ -1,0 +1,42 @@
+{
+  "train_no": "K8331",
+  "train_type": "K",
+  "depart_station": "济南",
+  "arrive_station": "东营",
+  "depart_time": "14:00",
+  "arrive_time": "15:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "14:00",
+      "depart_time": "14:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淄博",
+      "arrive_time": "15:16",
+      "depart_time": "15:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桓台",
+      "arrive_time": "15:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "东营",
+      "arrive_time": "15:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:38:22.707680"
+}

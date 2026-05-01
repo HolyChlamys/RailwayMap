@@ -1,0 +1,80 @@
+{
+  "train_no": "G4851",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "南宁东",
+  "depart_time": "05:49",
+  "arrive_time": "08:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "05:49",
+      "depart_time": "05:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳",
+      "arrive_time": "06:02",
+      "depart_time": "06:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "都匀东",
+      "arrive_time": "06:41",
+      "depart_time": "06:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "荔波",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "河池西",
+      "arrive_time": "07:37",
+      "depart_time": "07:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "都安",
+      "arrive_time": "08:03",
+      "depart_time": "08:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "马山县",
+      "arrive_time": "08:15",
+      "depart_time": "08:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南宁北",
+      "arrive_time": "08:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "南宁东",
+      "arrive_time": "08:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 896.0,
+    "price_first": 413.0,
+    "price_second": 258.0,
+    "price_no_seat": 258.0
+  },
+  "fetched_at": "2026-05-01T07:17:45.490804"
+}

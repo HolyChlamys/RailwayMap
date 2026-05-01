@@ -1,0 +1,50 @@
+{
+  "train_no": "D863",
+  "train_type": "D",
+  "depart_station": "成都东",
+  "arrive_station": "深圳北",
+  "depart_time": "19:30",
+  "arrive_time": "09:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "21:33",
+      "depart_time": "21:37",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "桂林西",
+      "arrive_time": "06:05",
+      "depart_time": "06:10",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "08:32",
+      "depart_time": "08:38",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "09:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 628.0,
+    "price_no_seat": 628.0
+  },
+  "fetched_at": "2026-05-01T05:01:24.728227"
+}

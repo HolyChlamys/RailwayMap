@@ -1,0 +1,87 @@
+{
+  "train_no": "G874",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "天津西",
+  "depart_time": "14:49",
+  "arrive_time": "20:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "14:49",
+      "depart_time": "14:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "15:18",
+      "depart_time": "15:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州北",
+      "arrive_time": "15:31",
+      "depart_time": "15:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "常州北",
+      "arrive_time": "15:55",
+      "depart_time": "15:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "16:30",
+      "depart_time": "16:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "徐州东",
+      "arrive_time": "17:47",
+      "depart_time": "17:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "滕州东",
+      "arrive_time": "18:15",
+      "depart_time": "18:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "济南西",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "沧州西",
+      "arrive_time": "20:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "天津西",
+      "arrive_time": "20:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2179.0,
+    "price_first": 996.0,
+    "price_second": 622.0,
+    "price_no_seat": 622.0
+  },
+  "fetched_at": "2026-05-01T08:59:08.961362"
+}

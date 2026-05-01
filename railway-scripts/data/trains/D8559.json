@@ -1,0 +1,38 @@
+{
+  "train_no": "D8559",
+  "train_type": "D",
+  "depart_station": "重庆西",
+  "arrive_station": "贵阳北",
+  "depart_time": "23:23",
+  "arrive_time": "00:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "23:23",
+      "depart_time": "23:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遵义",
+      "arrive_time": "00:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "00:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 26.0,
+    "price_first": 14.0,
+    "price_second": 9.0,
+    "price_no_seat": 9.0
+  },
+  "fetched_at": "2026-05-01T04:59:35.910293"
+}

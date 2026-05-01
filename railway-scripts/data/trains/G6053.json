@@ -1,0 +1,87 @@
+{
+  "train_no": "G6053",
+  "train_type": "G",
+  "depart_station": "永州",
+  "arrive_station": "茂名",
+  "depart_time": "00:38",
+  "arrive_time": "16:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "永州",
+      "arrive_time": "00:38",
+      "depart_time": "00:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "祁阳",
+      "arrive_time": "00:54",
+      "depart_time": "00:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "13:40",
+      "depart_time": "13:59",
+      "stay_min": "19"
+    },
+    {
+      "seq": 4,
+      "station_name": "衡阳东",
+      "arrive_time": "01:35",
+      "depart_time": "01:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "江门",
+      "arrive_time": "14:33",
+      "depart_time": "14:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙南",
+      "arrive_time": "02:14",
+      "depart_time": "02:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "台山",
+      "arrive_time": "14:53",
+      "depart_time": "14:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "恩平",
+      "arrive_time": "15:14",
+      "depart_time": "15:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "阳江",
+      "arrive_time": "15:39",
+      "depart_time": "15:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "茂名",
+      "arrive_time": "16:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 466.0,
+    "price_first": 223.0,
+    "price_second": 138.5,
+    "price_no_seat": 138.5
+  },
+  "fetched_at": "2026-05-01T07:47:25.410514"
+}

@@ -1,0 +1,114 @@
+{
+  "train_no": "D2827",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "西安北",
+  "depart_time": "06:59",
+  "arrive_time": "13:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "06:59",
+      "depart_time": "06:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌兰察布",
+      "arrive_time": "07:38",
+      "depart_time": "07:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "丰镇北",
+      "arrive_time": "08:02",
+      "depart_time": "08:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "大同南",
+      "arrive_time": "08:27",
+      "depart_time": "08:33",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "怀仁东",
+      "arrive_time": "08:47",
+      "depart_time": "08:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "山阴南",
+      "arrive_time": "09:05",
+      "depart_time": "09:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "雁门关",
+      "arrive_time": "09:31",
+      "depart_time": "09:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "太原南",
+      "arrive_time": "10:26",
+      "depart_time": "10:38",
+      "stay_min": "12"
+    },
+    {
+      "seq": 9,
+      "station_name": "太谷西",
+      "arrive_time": "10:57",
+      "depart_time": "10:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "平遥古城",
+      "arrive_time": "11:17",
+      "depart_time": "11:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "介休东",
+      "arrive_time": "11:30",
+      "depart_time": "11:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "运城北",
+      "arrive_time": "12:44",
+      "depart_time": "12:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "渭南北",
+      "arrive_time": "13:33",
+      "depart_time": "13:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "西安北",
+      "arrive_time": "13:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 725.0,
+    "price_second": 454.0,
+    "price_no_seat": 454.0
+  },
+  "fetched_at": "2026-05-01T03:24:18.914209"
+}

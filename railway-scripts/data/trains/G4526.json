@@ -1,0 +1,58 @@
+{
+  "train_no": "G4526",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "遵义",
+  "depart_time": "20:29",
+  "arrive_time": "00:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "20:29",
+      "depart_time": "20:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "20:50",
+      "depart_time": "20:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "肇庆东",
+      "arrive_time": "21:11",
+      "depart_time": "21:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳",
+      "arrive_time": "00:31",
+      "depart_time": "00:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "00:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "遵义",
+      "arrive_time": "00:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 771.0,
+    "price_second": 481.0,
+    "price_no_seat": 481.0
+  },
+  "fetched_at": "2026-05-01T07:07:55.553436"
+}

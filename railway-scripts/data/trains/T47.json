@@ -1,0 +1,56 @@
+{
+  "train_no": "T47",
+  "train_type": "T",
+  "depart_station": "北京",
+  "arrive_station": "齐齐哈尔",
+  "depart_time": "18:40",
+  "arrive_time": "08:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京",
+      "arrive_time": "18:40",
+      "depart_time": "18:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "秦皇岛",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沈阳北",
+      "arrive_time": "01:45",
+      "depart_time": "01:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨",
+      "arrive_time": "06:59",
+      "depart_time": "06:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "大庆西",
+      "arrive_time": "08:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "齐齐哈尔",
+      "arrive_time": "08:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 180.5
+  },
+  "fetched_at": "2026-05-01T11:26:13.301679"
+}

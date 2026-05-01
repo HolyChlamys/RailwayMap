@@ -1,0 +1,77 @@
+{
+  "train_no": "K4985",
+  "train_type": "K",
+  "depart_station": "兰州",
+  "arrive_station": "峨眉",
+  "depart_time": "23:14",
+  "arrive_time": "12:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州",
+      "arrive_time": "23:14",
+      "depart_time": "23:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "陇南",
+      "arrive_time": "03:07",
+      "depart_time": "03:13",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "广元",
+      "arrive_time": "04:52",
+      "depart_time": "04:59",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "江油",
+      "arrive_time": "07:52",
+      "depart_time": "07:59",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "绵阳",
+      "arrive_time": "08:36",
+      "depart_time": "08:44",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "德阳",
+      "arrive_time": "09:26",
+      "depart_time": "09:34",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "成都西",
+      "arrive_time": "10:33",
+      "depart_time": "10:49",
+      "stay_min": "16"
+    },
+    {
+      "seq": 8,
+      "station_name": "眉山",
+      "arrive_time": "11:40",
+      "depart_time": "12:00",
+      "stay_min": "20"
+    },
+    {
+      "seq": 9,
+      "station_name": "峨眉",
+      "arrive_time": "12:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 128.5
+  },
+  "fetched_at": "2026-05-01T10:01:19.944902"
+}

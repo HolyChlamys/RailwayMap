@@ -1,0 +1,49 @@
+{
+  "train_no": "K6559",
+  "train_type": "K",
+  "depart_station": "长沙",
+  "arrive_station": "郴州",
+  "depart_time": "08:42",
+  "arrive_time": "11:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "08:42",
+      "depart_time": "08:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲",
+      "arrive_time": "09:25",
+      "depart_time": "09:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳",
+      "arrive_time": "10:55",
+      "depart_time": "10:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "耒阳",
+      "arrive_time": "11:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郴州",
+      "arrive_time": "11:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 50.5
+  },
+  "fetched_at": "2026-05-01T10:22:43.737682"
+}

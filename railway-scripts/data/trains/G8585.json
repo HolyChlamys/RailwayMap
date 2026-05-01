@@ -1,0 +1,38 @@
+{
+  "train_no": "G8585",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "沙坪坝",
+  "depart_time": "13:09",
+  "arrive_time": "14:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "13:09",
+      "depart_time": "13:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永川东",
+      "arrive_time": "14:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沙坪坝",
+      "arrive_time": "14:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 576.0,
+    "price_first": 263.0,
+    "price_second": 164.0,
+    "price_no_seat": 164.0
+  },
+  "fetched_at": "2026-05-01T08:55:09.614968"
+}

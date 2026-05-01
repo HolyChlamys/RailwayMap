@@ -1,0 +1,43 @@
+{
+  "train_no": "C4849",
+  "train_type": "C",
+  "depart_station": "新塘南",
+  "arrive_station": "深圳机场",
+  "depart_time": "16:05",
+  "arrive_time": "16:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "新塘南",
+      "arrive_time": "16:05",
+      "depart_time": "16:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞西",
+      "arrive_time": "16:16",
+      "depart_time": "16:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "虎门北",
+      "arrive_time": "16:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳机场",
+      "arrive_time": "16:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 48.0,
+    "price_no_seat": 48.0
+  },
+  "fetched_at": "2026-05-01T01:20:02.003676"
+}

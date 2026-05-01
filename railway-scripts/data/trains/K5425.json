@@ -1,0 +1,56 @@
+{
+  "train_no": "K5425",
+  "train_type": "K",
+  "depart_station": "荆门",
+  "arrive_station": "武昌",
+  "depart_time": "17:30",
+  "arrive_time": "22:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荆门",
+      "arrive_time": "17:30",
+      "depart_time": "17:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "钟祥",
+      "arrive_time": "18:17",
+      "depart_time": "18:22",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "京山",
+      "arrive_time": "19:16",
+      "depart_time": "19:22",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "天门北",
+      "arrive_time": "19:58",
+      "depart_time": "20:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "应城",
+      "arrive_time": "20:23",
+      "depart_time": "20:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "武昌",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:10:03.152267"
+}

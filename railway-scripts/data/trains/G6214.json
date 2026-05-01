@@ -1,0 +1,59 @@
+{
+  "train_no": "G6214",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "韶关",
+  "depart_time": "19:56",
+  "arrive_time": "21:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "19:56",
+      "depart_time": "19:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门",
+      "arrive_time": "20:15",
+      "depart_time": "20:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "20:40",
+      "depart_time": "20:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州北",
+      "arrive_time": "21:02",
+      "depart_time": "21:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "清远",
+      "arrive_time": "21:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "韶关",
+      "arrive_time": "21:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 636.5,
+    "price_first": 299.5,
+    "price_second": 199.5,
+    "price_no_seat": 199.5
+  },
+  "fetched_at": "2026-05-01T07:52:07.961448"
+}

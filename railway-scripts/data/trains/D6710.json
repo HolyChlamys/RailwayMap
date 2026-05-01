@@ -1,0 +1,37 @@
+{
+  "train_no": "D6710",
+  "train_type": "D",
+  "depart_station": "延庆",
+  "arrive_station": "清河",
+  "depart_time": "19:30",
+  "arrive_time": "19:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "延庆",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "八达岭长城",
+      "arrive_time": "19:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "清河",
+      "arrive_time": "19:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 42.0,
+    "price_second": 26.0,
+    "price_no_seat": 26.0
+  },
+  "fetched_at": "2026-05-01T04:27:27.204406"
+}

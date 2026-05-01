@@ -1,0 +1,73 @@
+{
+  "train_no": "G7194",
+  "train_type": "G",
+  "depart_station": "黄山北",
+  "arrive_station": "上海南",
+  "depart_time": "07:22",
+  "arrive_time": "09:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄山北",
+      "arrive_time": "07:22",
+      "depart_time": "07:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "歙县北",
+      "arrive_time": "07:32",
+      "depart_time": "07:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "千岛湖",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "建德",
+      "arrive_time": "08:19",
+      "depart_time": "08:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "桐庐",
+      "arrive_time": "08:35",
+      "depart_time": "08:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "09:13",
+      "depart_time": "09:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "嘉兴南",
+      "arrive_time": "09:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "上海南",
+      "arrive_time": "09:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 667.0,
+    "price_first": 330.0,
+    "price_second": 206.0,
+    "price_no_seat": 206.0
+  },
+  "fetched_at": "2026-05-01T08:20:07.562310"
+}

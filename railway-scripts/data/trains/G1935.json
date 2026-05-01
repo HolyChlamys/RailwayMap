@@ -1,0 +1,65 @@
+{
+  "train_no": "G1935",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "广州白云",
+  "depart_time": "06:00",
+  "arrive_time": "10:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "06:00",
+      "depart_time": "06:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遵义",
+      "arrive_time": "07:19",
+      "depart_time": "07:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳东",
+      "arrive_time": "08:10",
+      "depart_time": "08:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "三江南",
+      "arrive_time": "09:33",
+      "depart_time": "09:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "桂林西",
+      "arrive_time": "10:00",
+      "depart_time": "10:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "贺州",
+      "arrive_time": "10:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州白云",
+      "arrive_time": "10:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 930.0,
+    "price_second": 582.0,
+    "price_no_seat": 582.0
+  },
+  "fetched_at": "2026-05-01T05:57:01.696892"
+}

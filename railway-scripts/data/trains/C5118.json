@@ -1,0 +1,58 @@
+{
+  "train_no": "C5118",
+  "train_type": "C",
+  "depart_station": "福州南",
+  "arrive_station": "南平市",
+  "depart_time": "22:25",
+  "arrive_time": "23:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州南",
+      "arrive_time": "22:25",
+      "depart_time": "22:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福州",
+      "arrive_time": "22:44",
+      "depart_time": "22:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "闽清北",
+      "arrive_time": "23:18",
+      "depart_time": "23:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "延平",
+      "arrive_time": "23:41",
+      "depart_time": "23:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "建瓯西",
+      "arrive_time": "23:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南平市",
+      "arrive_time": "23:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 96.0,
+    "price_second": 60.0,
+    "price_no_seat": 60.0
+  },
+  "fetched_at": "2026-05-01T01:27:04.600651"
+}

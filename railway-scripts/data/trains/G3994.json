@@ -1,0 +1,86 @@
+{
+  "train_no": "G3994",
+  "train_type": "G",
+  "depart_station": "昆明南",
+  "arrive_station": "成都东",
+  "depart_time": "04:28",
+  "arrive_time": "10:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "04:28",
+      "depart_time": "04:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安顺西",
+      "arrive_time": "06:32",
+      "depart_time": "06:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵安",
+      "arrive_time": "06:59",
+      "depart_time": "06:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "07:22",
+      "depart_time": "07:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "毕节",
+      "arrive_time": "08:14",
+      "depart_time": "08:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宜宾",
+      "arrive_time": "09:27",
+      "depart_time": "09:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "自贡",
+      "arrive_time": "10:01",
+      "depart_time": "10:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "内江北",
+      "arrive_time": "10:29",
+      "depart_time": "10:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "资中北",
+      "arrive_time": "10:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "成都东",
+      "arrive_time": "10:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 948.0,
+    "price_second": 593.0,
+    "price_no_seat": 593.0
+  },
+  "fetched_at": "2026-05-01T06:52:38.332117"
+}

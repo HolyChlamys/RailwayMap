@@ -1,0 +1,30 @@
+{
+  "train_no": "D9907",
+  "train_type": "D",
+  "depart_station": "民和南",
+  "arrive_station": "西宁",
+  "depart_time": "07:30",
+  "arrive_time": "07:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "民和南",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西宁",
+      "arrive_time": "07:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 50.0,
+    "price_second": 31.0,
+    "price_no_seat": 31.0
+  },
+  "fetched_at": "2026-05-01T05:27:52.695024"
+}

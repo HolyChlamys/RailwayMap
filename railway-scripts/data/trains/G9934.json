@@ -1,0 +1,31 @@
+{
+  "train_no": "G9934",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "华山北",
+  "depart_time": "22:24",
+  "arrive_time": "22:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "22:24",
+      "depart_time": "22:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "华山北",
+      "arrive_time": "22:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 233.0,
+    "price_first": 106.0,
+    "price_second": 67.0,
+    "price_no_seat": 67.0
+  },
+  "fetched_at": "2026-05-01T09:28:23.621052"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "C7374",
+  "train_type": "C",
+  "depart_station": "长沙",
+  "arrive_station": "张家界西",
+  "depart_time": "00:24",
+  "arrive_time": "01:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "00:24",
+      "depart_time": "00:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "益阳南",
+      "arrive_time": "00:58",
+      "depart_time": "00:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常德",
+      "arrive_time": "01:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "张家界西",
+      "arrive_time": "01:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 546.0,
+    "price_first": 268.0,
+    "price_second": 166.0,
+    "price_no_seat": 166.0
+  },
+  "fetched_at": "2026-05-01T02:13:36.391378"
+}

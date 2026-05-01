@@ -1,0 +1,64 @@
+{
+  "train_no": "C6934",
+  "train_type": "C",
+  "depart_station": "阳江",
+  "arrive_station": "广州南",
+  "depart_time": "14:04",
+  "arrive_time": "15:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阳江",
+      "arrive_time": "14:04",
+      "depart_time": "14:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阳东",
+      "arrive_time": "14:17",
+      "depart_time": "14:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "开平南",
+      "arrive_time": "14:45",
+      "depart_time": "14:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "双水镇",
+      "arrive_time": "15:02",
+      "depart_time": "15:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "江门",
+      "arrive_time": "15:16",
+      "depart_time": "15:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "江门东",
+      "arrive_time": "15:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州南",
+      "arrive_time": "15:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 135.0,
+    "price_no_seat": 135.0
+  },
+  "fetched_at": "2026-05-01T02:00:50.721601"
+}

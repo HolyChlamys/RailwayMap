@@ -1,0 +1,80 @@
+{
+  "train_no": "G6125",
+  "train_type": "G",
+  "depart_station": "永州",
+  "arrive_station": "深圳北",
+  "depart_time": "15:06",
+  "arrive_time": "19:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "永州",
+      "arrive_time": "15:06",
+      "depart_time": "15:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "祁阳",
+      "arrive_time": "15:23",
+      "depart_time": "15:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "祁东",
+      "arrive_time": "15:39",
+      "depart_time": "15:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "衡阳东",
+      "arrive_time": "16:10",
+      "depart_time": "16:28",
+      "stay_min": "18"
+    },
+    {
+      "seq": 5,
+      "station_name": "郴州西",
+      "arrive_time": "16:58",
+      "depart_time": "17:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "韶关",
+      "arrive_time": "17:31",
+      "depart_time": "17:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "英德西",
+      "arrive_time": "17:52",
+      "depart_time": "17:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "18:31",
+      "depart_time": "18:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳北",
+      "arrive_time": "19:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1338.5,
+    "price_first": 630.5,
+    "price_second": 406.0,
+    "price_no_seat": 406.0
+  },
+  "fetched_at": "2026-05-01T07:49:35.964764"
+}

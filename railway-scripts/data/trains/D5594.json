@@ -1,0 +1,114 @@
+{
+  "train_no": "D5594",
+  "train_type": "D",
+  "depart_station": "阜阳西",
+  "arrive_station": "上海",
+  "depart_time": "09:19",
+  "arrive_time": "15:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜阳西",
+      "arrive_time": "09:19",
+      "depart_time": "09:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "颍上北",
+      "arrive_time": "09:36",
+      "depart_time": "09:45",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "寿县",
+      "arrive_time": "10:03",
+      "depart_time": "10:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "淮南南",
+      "arrive_time": "10:15",
+      "depart_time": "10:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥",
+      "arrive_time": "10:47",
+      "depart_time": "10:53",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州",
+      "arrive_time": "12:20",
+      "depart_time": "12:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "泰州",
+      "arrive_time": "12:54",
+      "depart_time": "12:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "海安",
+      "arrive_time": "13:22",
+      "depart_time": "13:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "如皋",
+      "arrive_time": "13:35",
+      "depart_time": "13:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "南通西",
+      "arrive_time": "13:58",
+      "depart_time": "14:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "张家港",
+      "arrive_time": "14:16",
+      "depart_time": "14:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "常熟",
+      "arrive_time": "14:27",
+      "depart_time": "14:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "太仓",
+      "arrive_time": "14:49",
+      "depart_time": "14:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "上海",
+      "arrive_time": "15:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 529.0,
+    "price_second": 331.5,
+    "price_no_seat": 331.5
+  },
+  "fetched_at": "2026-05-01T04:08:59.655909"
+}

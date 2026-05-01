@@ -1,0 +1,77 @@
+{
+  "train_no": "K9358",
+  "train_type": "K",
+  "depart_station": "贵阳",
+  "arrive_station": "叙永北",
+  "depart_time": "06:00",
+  "arrive_time": "12:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳",
+      "arrive_time": "06:00",
+      "depart_time": "06:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安顺",
+      "arrive_time": "07:13",
+      "depart_time": "07:18",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "织金",
+      "arrive_time": "08:44",
+      "depart_time": "08:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "大方南",
+      "arrive_time": "09:46",
+      "depart_time": "09:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "毕节",
+      "arrive_time": "10:16",
+      "depart_time": "10:22",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "以勒",
+      "arrive_time": "11:04",
+      "depart_time": "11:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "果珠",
+      "arrive_time": "11:23",
+      "depart_time": "11:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "兴文南",
+      "arrive_time": "12:26",
+      "depart_time": "12:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "叙永北",
+      "arrive_time": "12:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 64.5
+  },
+  "fetched_at": "2026-05-01T10:44:14.935667"
+}

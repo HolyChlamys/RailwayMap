@@ -1,0 +1,56 @@
+{
+  "train_no": "Y520",
+  "train_type": "Y",
+  "depart_station": "宝鸡",
+  "arrive_station": "西安",
+  "depart_time": "11:39",
+  "arrive_time": "13:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宝鸡",
+      "arrive_time": "11:39",
+      "depart_time": "11:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蔡家坡",
+      "arrive_time": "12:12",
+      "depart_time": "12:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杨陵",
+      "arrive_time": "12:43",
+      "depart_time": "12:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "兴平",
+      "arrive_time": "13:11",
+      "depart_time": "13:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "咸阳",
+      "arrive_time": "13:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西安",
+      "arrive_time": "13:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T11:34:39.778196"
+}

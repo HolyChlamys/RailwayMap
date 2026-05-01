@@ -1,0 +1,79 @@
+{
+  "train_no": "D7117",
+  "train_type": "D",
+  "depart_station": "怀集",
+  "arrive_station": "深圳",
+  "depart_time": "11:50",
+  "arrive_time": "14:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "怀集",
+      "arrive_time": "11:50",
+      "depart_time": "11:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广宁",
+      "arrive_time": "12:07",
+      "depart_time": "12:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "肇庆东",
+      "arrive_time": "12:26",
+      "depart_time": "12:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "三水南",
+      "arrive_time": "12:39",
+      "depart_time": "12:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州",
+      "arrive_time": "13:13",
+      "depart_time": "13:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "东莞",
+      "arrive_time": "13:51",
+      "depart_time": "13:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "常平",
+      "arrive_time": "14:02",
+      "depart_time": "14:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "平湖",
+      "arrive_time": "14:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳",
+      "arrive_time": "14:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 240.5,
+    "price_second": 167.5,
+    "price_no_seat": 167.5
+  },
+  "fetched_at": "2026-05-01T04:33:34.750529"
+}

@@ -1,0 +1,31 @@
+{
+  "train_no": "G9271",
+  "train_type": "G",
+  "depart_station": "蚌埠南",
+  "arrive_station": "南京南",
+  "depart_time": "22:40",
+  "arrive_time": "22:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "蚌埠南",
+      "arrive_time": "22:40",
+      "depart_time": "22:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "22:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 337.0,
+    "price_first": 154.0,
+    "price_second": 96.0,
+    "price_no_seat": 96.0
+  },
+  "fetched_at": "2026-05-01T09:09:54.483047"
+}

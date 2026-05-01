@@ -1,0 +1,51 @@
+{
+  "train_no": "C934",
+  "train_type": "C",
+  "depart_station": "吕梁",
+  "arrive_station": "太原南",
+  "depart_time": "12:29",
+  "arrive_time": "13:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "吕梁",
+      "arrive_time": "12:29",
+      "depart_time": "12:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汾阳",
+      "arrive_time": "13:07",
+      "depart_time": "13:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "文水",
+      "arrive_time": "13:20",
+      "depart_time": "13:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "交城",
+      "arrive_time": "13:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太原南",
+      "arrive_time": "13:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 102.0,
+    "price_second": 64.0,
+    "price_no_seat": 64.0
+  },
+  "fetched_at": "2026-05-01T02:45:44.788525"
+}

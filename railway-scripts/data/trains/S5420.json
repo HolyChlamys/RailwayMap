@@ -1,0 +1,58 @@
+{
+  "train_no": "S5420",
+  "train_type": "S",
+  "depart_station": "开阳",
+  "arrive_station": "贵阳北",
+  "depart_time": "09:46",
+  "arrive_time": "10:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "开阳",
+      "arrive_time": "09:46",
+      "depart_time": "09:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南江",
+      "arrive_time": "10:02",
+      "depart_time": "10:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "百宜",
+      "arrive_time": "10:13",
+      "depart_time": "10:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "洛湾三江",
+      "arrive_time": "10:27",
+      "depart_time": "10:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳东",
+      "arrive_time": "10:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳北",
+      "arrive_time": "10:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 27.0,
+    "price_second": 16.5,
+    "price_no_seat": 16.5
+  },
+  "fetched_at": "2026-05-01T11:06:06.036782"
+}

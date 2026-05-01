@@ -1,0 +1,143 @@
+{
+  "train_no": "G1303",
+  "train_type": "G",
+  "depart_station": "珠海",
+  "arrive_station": "南通",
+  "depart_time": "12:17",
+  "arrive_time": "23:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海",
+      "arrive_time": "12:17",
+      "depart_time": "12:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "中山",
+      "arrive_time": "12:40",
+      "depart_time": "12:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "13:13",
+      "depart_time": "13:19",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "韶关",
+      "arrive_time": "14:10",
+      "depart_time": "14:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "郴州西",
+      "arrive_time": "14:43",
+      "depart_time": "14:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "衡阳东",
+      "arrive_time": "15:18",
+      "depart_time": "15:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙南",
+      "arrive_time": "15:59",
+      "depart_time": "16:07",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "萍乡北",
+      "arrive_time": "16:34",
+      "depart_time": "16:44",
+      "stay_min": "10"
+    },
+    {
+      "seq": 9,
+      "station_name": "南昌西",
+      "arrive_time": "17:41",
+      "depart_time": "17:50",
+      "stay_min": "9"
+    },
+    {
+      "seq": 10,
+      "station_name": "鹰潭北",
+      "arrive_time": "18:25",
+      "depart_time": "18:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "上饶",
+      "arrive_time": "18:52",
+      "depart_time": "19:00",
+      "stay_min": "8"
+    },
+    {
+      "seq": 12,
+      "station_name": "衢州",
+      "arrive_time": "19:29",
+      "depart_time": "19:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "龙游",
+      "arrive_time": "19:43",
+      "depart_time": "19:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "义乌",
+      "arrive_time": "20:12",
+      "depart_time": "20:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "杭州东",
+      "arrive_time": "20:47",
+      "depart_time": "20:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 16,
+      "station_name": "嘉兴南",
+      "arrive_time": "21:14",
+      "depart_time": "21:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 17,
+      "station_name": "上海虹桥",
+      "arrive_time": "21:47",
+      "depart_time": "21:53",
+      "stay_min": "6"
+    },
+    {
+      "seq": 18,
+      "station_name": "南通",
+      "arrive_time": "23:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3787.0,
+    "price_first": 1747.0,
+    "price_second": 1105.0,
+    "price_no_seat": 1105.0
+  },
+  "fetched_at": "2026-05-01T05:39:08.033756"
+}

@@ -1,0 +1,29 @@
+{
+  "train_no": "S957",
+  "train_type": "S",
+  "depart_station": "阳泉北",
+  "arrive_station": "阳泉东",
+  "depart_time": "14:18",
+  "arrive_time": "14:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阳泉北",
+      "arrive_time": "14:18",
+      "depart_time": "14:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阳泉东",
+      "arrive_time": "14:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 16.0,
+    "price_no_seat": 16.0
+  },
+  "fetched_at": "2026-05-01T11:21:05.221698"
+}

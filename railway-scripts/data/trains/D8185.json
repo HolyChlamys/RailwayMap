@@ -1,0 +1,52 @@
+{
+  "train_no": "D8185",
+  "train_type": "D",
+  "depart_station": "济南东",
+  "arrive_station": "青岛",
+  "depart_time": "16:04",
+  "arrive_time": "17:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "16:04",
+      "depart_time": "16:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淄博",
+      "arrive_time": "16:42",
+      "depart_time": "16:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "昌乐",
+      "arrive_time": "17:11",
+      "depart_time": "17:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潍坊",
+      "arrive_time": "17:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "青岛",
+      "arrive_time": "17:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 490.0,
+    "price_first": 226.0,
+    "price_second": 141.0,
+    "price_no_seat": 141.0
+  },
+  "fetched_at": "2026-05-01T04:50:52.052214"
+}

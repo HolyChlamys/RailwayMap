@@ -1,0 +1,42 @@
+{
+  "train_no": "K4376",
+  "train_type": "K",
+  "depart_station": "宜昌东",
+  "arrive_station": "深圳",
+  "depart_time": "15:50",
+  "arrive_time": "09:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "15:50",
+      "depart_time": "15:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "松滋西",
+      "arrive_time": "17:14",
+      "depart_time": "17:32",
+      "stay_min": "18"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州北",
+      "arrive_time": "07:05",
+      "depart_time": "07:10",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳",
+      "arrive_time": "09:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 156.5
+  },
+  "fetched_at": "2026-05-01T09:53:07.078112"
+}

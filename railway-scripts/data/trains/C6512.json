@@ -1,0 +1,94 @@
+{
+  "train_no": "C6512",
+  "train_type": "C",
+  "depart_station": "牟平",
+  "arrive_station": "青岛北",
+  "depart_time": "17:38",
+  "arrive_time": "20:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "牟平",
+      "arrive_time": "17:38",
+      "depart_time": "17:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "威海北",
+      "arrive_time": "17:51",
+      "depart_time": "17:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "文登东",
+      "arrive_time": "18:07",
+      "depart_time": "18:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "文登南",
+      "arrive_time": "18:29",
+      "depart_time": "18:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "乳山南",
+      "arrive_time": "18:48",
+      "depart_time": "18:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "莱西",
+      "arrive_time": "19:20",
+      "depart_time": "19:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "青岛北",
+      "arrive_time": "19:34",
+      "depart_time": "19:41",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "平度",
+      "arrive_time": "19:39",
+      "depart_time": "19:57",
+      "stay_min": "18"
+    },
+    {
+      "seq": 9,
+      "station_name": "青岛",
+      "arrive_time": "20:02",
+      "depart_time": "20:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "夏格庄",
+      "arrive_time": "20:18",
+      "depart_time": "20:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "青岛北",
+      "arrive_time": "20:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 533.0,
+    "price_first": 243.0,
+    "price_second": 152.0,
+    "price_no_seat": 152.0
+  },
+  "fetched_at": "2026-05-01T01:51:01.072094"
+}

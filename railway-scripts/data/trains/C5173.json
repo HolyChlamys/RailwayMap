@@ -1,0 +1,44 @@
+{
+  "train_no": "C5173",
+  "train_type": "C",
+  "depart_station": "景德镇北",
+  "arrive_station": "南昌东",
+  "depart_time": "07:56",
+  "arrive_time": "08:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "景德镇北",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄱阳",
+      "arrive_time": "08:19",
+      "depart_time": "08:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "余干",
+      "arrive_time": "08:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌东",
+      "arrive_time": "08:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 150.0,
+    "price_second": 94.0,
+    "price_no_seat": 94.0
+  },
+  "fetched_at": "2026-05-01T01:28:37.087974"
+}

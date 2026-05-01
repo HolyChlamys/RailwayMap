@@ -1,0 +1,52 @@
+{
+  "train_no": "G5027",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "萍乡北",
+  "depart_time": "18:22",
+  "arrive_time": "19:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "18:22",
+      "depart_time": "18:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高安",
+      "arrive_time": "18:46",
+      "depart_time": "18:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新余北",
+      "arrive_time": "19:16",
+      "depart_time": "19:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宜春",
+      "arrive_time": "19:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "萍乡北",
+      "arrive_time": "19:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 456.0,
+    "price_first": 209.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T07:22:54.273393"
+}

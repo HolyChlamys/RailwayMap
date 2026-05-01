@@ -1,0 +1,86 @@
+{
+  "train_no": "D4606",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "赣州",
+  "depart_time": "02:02",
+  "arrive_time": "07:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "02:02",
+      "depart_time": "02:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普宁",
+      "arrive_time": "03:16",
+      "depart_time": "03:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潮汕",
+      "arrive_time": "03:41",
+      "depart_time": "03:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙岩",
+      "arrive_time": "05:56",
+      "depart_time": "05:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "古田会址",
+      "arrive_time": "06:14",
+      "depart_time": "06:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "冠豸山南",
+      "arrive_time": "06:37",
+      "depart_time": "06:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长汀南",
+      "arrive_time": "07:02",
+      "depart_time": "07:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "瑞金",
+      "arrive_time": "07:25",
+      "depart_time": "07:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "于都",
+      "arrive_time": "07:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "赣州",
+      "arrive_time": "07:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 549.0,
+    "price_second": 343.0,
+    "price_no_seat": 343.0
+  },
+  "fetched_at": "2026-05-01T03:54:16.594216"
+}

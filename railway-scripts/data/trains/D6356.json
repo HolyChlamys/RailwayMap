@@ -1,0 +1,44 @@
+{
+  "train_no": "D6356",
+  "train_type": "D",
+  "depart_station": "南昌东",
+  "arrive_station": "景德镇北",
+  "depart_time": "07:47",
+  "arrive_time": "08:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "07:47",
+      "depart_time": "07:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "进贤北",
+      "arrive_time": "08:02",
+      "depart_time": "08:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄱阳",
+      "arrive_time": "08:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "景德镇北",
+      "arrive_time": "08:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 137.0,
+    "price_second": 86.0,
+    "price_no_seat": 86.0
+  },
+  "fetched_at": "2026-05-01T04:21:52.013923"
+}

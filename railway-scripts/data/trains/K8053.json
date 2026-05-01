@@ -1,0 +1,42 @@
+{
+  "train_no": "K8053",
+  "train_type": "K",
+  "depart_station": "平顶山",
+  "arrive_station": "信阳",
+  "depart_time": "06:28",
+  "arrive_time": "09:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "平顶山",
+      "arrive_time": "06:28",
+      "depart_time": "06:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漯河",
+      "arrive_time": "07:30",
+      "depart_time": "07:36",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "驻马店",
+      "arrive_time": "08:16",
+      "depart_time": "08:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "信阳",
+      "arrive_time": "09:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T10:34:25.514596"
+}

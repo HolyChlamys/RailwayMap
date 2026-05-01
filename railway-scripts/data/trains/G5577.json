@@ -1,0 +1,66 @@
+{
+  "train_no": "G5577",
+  "train_type": "G",
+  "depart_station": "济南东",
+  "arrive_station": "青岛北",
+  "depart_time": "07:56",
+  "arrive_time": "09:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "07:56",
+      "depart_time": "07:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青州市北",
+      "arrive_time": "08:34",
+      "depart_time": "08:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊北",
+      "arrive_time": "08:52",
+      "depart_time": "08:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "高密北",
+      "arrive_time": "09:13",
+      "depart_time": "09:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "青岛机场",
+      "arrive_time": "09:29",
+      "depart_time": "09:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "红岛",
+      "arrive_time": "09:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "青岛北",
+      "arrive_time": "09:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 416.0,
+    "price_first": 222.0,
+    "price_second": 139.0,
+    "price_no_seat": 139.0
+  },
+  "fetched_at": "2026-05-01T07:37:27.372814"
+}

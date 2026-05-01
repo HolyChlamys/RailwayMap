@@ -1,0 +1,37 @@
+{
+  "train_no": "C9890",
+  "train_type": "C",
+  "depart_station": "兰州西",
+  "arrive_station": "定西北",
+  "depart_time": "20:15",
+  "arrive_time": "20:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "20:15",
+      "depart_time": "20:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "榆中",
+      "arrive_time": "20:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "定西北",
+      "arrive_time": "20:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 67.0,
+    "price_second": 42.0,
+    "price_no_seat": 42.0
+  },
+  "fetched_at": "2026-05-01T02:53:21.824158"
+}

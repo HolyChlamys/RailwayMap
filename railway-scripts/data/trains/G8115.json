@@ -1,0 +1,66 @@
+{
+  "train_no": "G8115",
+  "train_type": "G",
+  "depart_station": "大连北",
+  "arrive_station": "通化",
+  "depart_time": "18:02",
+  "arrive_time": "20:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "18:02",
+      "depart_time": "18:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "营口东",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鞍山西",
+      "arrive_time": "19:22",
+      "depart_time": "19:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳",
+      "arrive_time": "19:57",
+      "depart_time": "19:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "抚顺",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "新宾",
+      "arrive_time": "20:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "通化",
+      "arrive_time": "20:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1361.0,
+    "price_first": 622.0,
+    "price_second": 389.0,
+    "price_no_seat": 389.0
+  },
+  "fetched_at": "2026-05-01T08:44:43.491446"
+}

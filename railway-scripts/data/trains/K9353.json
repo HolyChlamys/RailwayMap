@@ -1,0 +1,56 @@
+{
+  "train_no": "K9353",
+  "train_type": "K",
+  "depart_station": "重庆北",
+  "arrive_station": "阆中",
+  "depart_time": "10:05",
+  "arrive_time": "12:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "10:05",
+      "depart_time": "10:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合川",
+      "arrive_time": "10:50",
+      "depart_time": "10:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武胜",
+      "arrive_time": "11:32",
+      "depart_time": "11:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南充北",
+      "arrive_time": "12:13",
+      "depart_time": "12:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南部",
+      "arrive_time": "12:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "阆中",
+      "arrive_time": "12:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:44:09.968801"
+}

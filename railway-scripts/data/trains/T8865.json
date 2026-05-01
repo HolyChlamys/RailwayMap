@@ -1,0 +1,42 @@
+{
+  "train_no": "T8865",
+  "train_type": "T",
+  "depart_station": "成都西",
+  "arrive_station": "攀枝花南",
+  "depart_time": "23:59",
+  "arrive_time": "07:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都西",
+      "arrive_time": "23:59",
+      "depart_time": "23:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西昌西",
+      "arrive_time": "06:08",
+      "depart_time": "06:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "米易东",
+      "arrive_time": "07:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "攀枝花南",
+      "arrive_time": "07:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T11:28:16.443043"
+}

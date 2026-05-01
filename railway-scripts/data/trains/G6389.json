@@ -1,0 +1,59 @@
+{
+  "train_no": "G6389",
+  "train_type": "G",
+  "depart_station": "汕头",
+  "arrive_station": "香港西九龙",
+  "depart_time": "10:08",
+  "arrive_time": "12:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "10:08",
+      "depart_time": "10:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "陆丰东",
+      "arrive_time": "10:39",
+      "depart_time": "10:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汕尾",
+      "arrive_time": "10:57",
+      "depart_time": "10:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "惠州南",
+      "arrive_time": "11:29",
+      "depart_time": "11:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "12:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "香港西九龙",
+      "arrive_time": "12:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1107.0,
+    "price_first": 523.0,
+    "price_second": 326.0,
+    "price_no_seat": 326.0
+  },
+  "fetched_at": "2026-05-01T07:57:20.445061"
+}

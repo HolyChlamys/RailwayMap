@@ -1,0 +1,86 @@
+{
+  "train_no": "D4114",
+  "train_type": "D",
+  "depart_station": "天门",
+  "arrive_station": "杭州",
+  "depart_time": "10:54",
+  "arrive_time": "16:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天门",
+      "arrive_time": "10:54",
+      "depart_time": "10:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉川北",
+      "arrive_time": "11:13",
+      "depart_time": "11:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "汉口",
+      "arrive_time": "11:40",
+      "depart_time": "11:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "麻城北",
+      "arrive_time": "12:27",
+      "depart_time": "12:33",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "金寨",
+      "arrive_time": "13:09",
+      "depart_time": "13:16",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "六安",
+      "arrive_time": "13:34",
+      "depart_time": "13:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "合肥南",
+      "arrive_time": "14:01",
+      "depart_time": "14:09",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "巢湖东",
+      "arrive_time": "14:36",
+      "depart_time": "14:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "郎溪南",
+      "arrive_time": "15:32",
+      "depart_time": "15:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "杭州",
+      "arrive_time": "16:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 657.0,
+    "price_second": 411.0,
+    "price_no_seat": 411.0
+  },
+  "fetched_at": "2026-05-01T03:44:11.303088"
+}

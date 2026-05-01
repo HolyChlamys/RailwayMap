@@ -1,0 +1,57 @@
+{
+  "train_no": "S7022",
+  "train_type": "S",
+  "depart_station": "长沙",
+  "arrive_station": "常德",
+  "depart_time": "08:36",
+  "arrive_time": "09:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "08:36",
+      "depart_time": "08:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "八方山",
+      "arrive_time": "08:45",
+      "depart_time": "08:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "尖山",
+      "arrive_time": "08:51",
+      "depart_time": "08:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "麓谷",
+      "arrive_time": "08:56",
+      "depart_time": "08:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "益阳",
+      "arrive_time": "09:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "常德",
+      "arrive_time": "09:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 75.0,
+    "price_no_seat": 75.0
+  },
+  "fetched_at": "2026-05-01T11:13:35.279101"
+}

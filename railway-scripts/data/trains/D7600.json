@@ -1,0 +1,72 @@
+{
+  "train_no": "D7600",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "广州东",
+  "depart_time": "21:26",
+  "arrive_time": "22:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "21:26",
+      "depart_time": "21:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "光明城",
+      "arrive_time": "21:41",
+      "depart_time": "21:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东莞南",
+      "arrive_time": "21:53",
+      "depart_time": "21:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "樟木头",
+      "arrive_time": "22:02",
+      "depart_time": "22:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "常平",
+      "arrive_time": "22:11",
+      "depart_time": "22:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "东莞",
+      "arrive_time": "22:22",
+      "depart_time": "22:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州新塘",
+      "arrive_time": "22:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "广州东",
+      "arrive_time": "22:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 85.0,
+    "price_second": 68.0,
+    "price_no_seat": 68.0
+  },
+  "fetched_at": "2026-05-01T04:41:31.909378"
+}

@@ -1,0 +1,63 @@
+{
+  "train_no": "K5501",
+  "train_type": "K",
+  "depart_station": "济南",
+  "arrive_station": "菏泽",
+  "depart_time": "16:20",
+  "arrive_time": "19:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "16:20",
+      "depart_time": "16:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰山",
+      "arrive_time": "17:10",
+      "depart_time": "17:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兖州",
+      "arrive_time": "18:32",
+      "depart_time": "18:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "济宁",
+      "arrive_time": "18:59",
+      "depart_time": "18:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "嘉祥",
+      "arrive_time": "19:19",
+      "depart_time": "19:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "巨野",
+      "arrive_time": "19:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "菏泽",
+      "arrive_time": "19:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T10:12:08.124399"
+}

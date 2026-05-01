@@ -1,0 +1,65 @@
+{
+  "train_no": "C7933",
+  "train_type": "C",
+  "depart_station": "张家界西",
+  "arrive_station": "长沙",
+  "depart_time": "12:30",
+  "arrive_time": "14:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "张家界西",
+      "arrive_time": "12:30",
+      "depart_time": "12:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桃源",
+      "arrive_time": "13:09",
+      "depart_time": "13:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常德",
+      "arrive_time": "13:33",
+      "depart_time": "13:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉寿",
+      "arrive_time": "13:49",
+      "depart_time": "13:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "益阳南",
+      "arrive_time": "14:08",
+      "depart_time": "14:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宁乡西",
+      "arrive_time": "14:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙",
+      "arrive_time": "14:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 268.0,
+    "price_second": 166.0,
+    "price_no_seat": 166.0
+  },
+  "fetched_at": "2026-05-01T02:28:15.554156"
+}

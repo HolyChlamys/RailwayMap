@@ -1,0 +1,87 @@
+{
+  "train_no": "C6184",
+  "train_type": "C",
+  "depart_station": "峨眉山",
+  "arrive_station": "绵阳",
+  "depart_time": "14:05",
+  "arrive_time": "16:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "峨眉山",
+      "arrive_time": "14:05",
+      "depart_time": "14:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "峨眉",
+      "arrive_time": "14:15",
+      "depart_time": "14:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乐山",
+      "arrive_time": "14:29",
+      "depart_time": "14:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "眉山东",
+      "arrive_time": "14:55",
+      "depart_time": "14:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "新津南",
+      "arrive_time": "15:09",
+      "depart_time": "15:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "成都东",
+      "arrive_time": "15:39",
+      "depart_time": "15:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "新都东",
+      "arrive_time": "15:58",
+      "depart_time": "15:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "广汉北",
+      "arrive_time": "16:33",
+      "depart_time": "16:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "德阳",
+      "arrive_time": "16:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "绵阳",
+      "arrive_time": "16:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 384.0,
+    "price_first": 191.0,
+    "price_second": 119.0,
+    "price_no_seat": 119.0
+  },
+  "fetched_at": "2026-05-01T01:46:28.703924"
+}

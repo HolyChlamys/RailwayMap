@@ -1,0 +1,79 @@
+{
+  "train_no": "G2838",
+  "train_type": "G",
+  "depart_station": "大理",
+  "arrive_station": "成都东",
+  "depart_time": "14:25",
+  "arrive_time": "22:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "14:25",
+      "depart_time": "14:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广通北",
+      "arrive_time": "15:33",
+      "depart_time": "15:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "16:25",
+      "depart_time": "16:30",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "曲靖北",
+      "arrive_time": "17:20",
+      "depart_time": "17:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "盘州",
+      "arrive_time": "17:58",
+      "depart_time": "18:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳北",
+      "arrive_time": "19:22",
+      "depart_time": "19:28",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "宜宾",
+      "arrive_time": "21:14",
+      "depart_time": "21:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "自贡",
+      "arrive_time": "21:42",
+      "depart_time": "21:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "成都东",
+      "arrive_time": "22:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1178.0,
+    "price_second": 737.5,
+    "price_no_seat": 737.5
+  },
+  "fetched_at": "2026-05-01T06:21:39.154839"
+}

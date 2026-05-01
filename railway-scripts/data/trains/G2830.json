@@ -1,0 +1,87 @@
+{
+  "train_no": "G2830",
+  "train_type": "G",
+  "depart_station": "昆明南",
+  "arrive_station": "成都东",
+  "depart_time": "08:34",
+  "arrive_time": "13:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "08:34",
+      "depart_time": "08:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲靖北",
+      "arrive_time": "09:15",
+      "depart_time": "09:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "富源北",
+      "arrive_time": "09:35",
+      "depart_time": "09:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "关岭",
+      "arrive_time": "10:45",
+      "depart_time": "10:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "安顺西",
+      "arrive_time": "11:02",
+      "depart_time": "11:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳北",
+      "arrive_time": "11:37",
+      "depart_time": "11:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "镇雄",
+      "arrive_time": "12:39",
+      "depart_time": "12:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "长宁",
+      "arrive_time": "13:20",
+      "depart_time": "13:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "宜宾西",
+      "arrive_time": "13:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "成都东",
+      "arrive_time": "13:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1783.0,
+    "price_first": 882.0,
+    "price_second": 552.0,
+    "price_no_seat": 552.0
+  },
+  "fetched_at": "2026-05-01T06:21:29.168303"
+}

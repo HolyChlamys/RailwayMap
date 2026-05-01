@@ -1,0 +1,49 @@
+{
+  "train_no": "Y561",
+  "train_type": "Y",
+  "depart_station": "西安",
+  "arrive_station": "秦岭",
+  "depart_time": "08:06",
+  "arrive_time": "11:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "08:06",
+      "depart_time": "08:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳",
+      "arrive_time": "08:26",
+      "depart_time": "08:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杨陵",
+      "arrive_time": "09:34",
+      "depart_time": "09:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宝鸡",
+      "arrive_time": "11:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "秦岭",
+      "arrive_time": "11:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T11:35:21.070548"
+}

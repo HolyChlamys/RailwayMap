@@ -1,0 +1,44 @@
+{
+  "train_no": "D4302",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "汉口",
+  "depart_time": "01:00",
+  "arrive_time": "05:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "01:00",
+      "depart_time": "01:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "02:36",
+      "depart_time": "02:46",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "03:34",
+      "depart_time": "03:38",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "05:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 590.0,
+    "price_second": 369.0,
+    "price_no_seat": 369.0
+  },
+  "fetched_at": "2026-05-01T03:47:12.900271"
+}

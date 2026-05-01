@@ -1,0 +1,58 @@
+{
+  "train_no": "D8154",
+  "train_type": "D",
+  "depart_station": "威海",
+  "arrive_station": "青岛",
+  "depart_time": "12:53",
+  "arrive_time": "15:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "威海",
+      "arrive_time": "12:53",
+      "depart_time": "12:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荣成",
+      "arrive_time": "13:10",
+      "depart_time": "13:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "威海南海",
+      "arrive_time": "13:31",
+      "depart_time": "13:42",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "乳山南",
+      "arrive_time": "13:56",
+      "depart_time": "13:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "青岛北",
+      "arrive_time": "14:59",
+      "depart_time": "15:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "青岛",
+      "arrive_time": "15:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 224.0,
+    "price_second": 140.0,
+    "price_no_seat": 140.0
+  },
+  "fetched_at": "2026-05-01T04:50:25.637043"
+}

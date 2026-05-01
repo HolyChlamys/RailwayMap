@@ -1,0 +1,51 @@
+{
+  "train_no": "D8153",
+  "train_type": "D",
+  "depart_station": "莱西",
+  "arrive_station": "青岛",
+  "depart_time": "07:21",
+  "arrive_time": "08:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "莱西",
+      "arrive_time": "07:21",
+      "depart_time": "07:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "夏格庄",
+      "arrive_time": "07:30",
+      "depart_time": "07:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "即墨北",
+      "arrive_time": "07:43",
+      "depart_time": "07:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "青岛北",
+      "arrive_time": "08:04",
+      "depart_time": "08:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "青岛",
+      "arrive_time": "08:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 59.0,
+    "price_second": 37.0,
+    "price_no_seat": 37.0
+  },
+  "fetched_at": "2026-05-01T04:50:23.994720"
+}

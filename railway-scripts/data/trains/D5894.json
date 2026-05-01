@@ -1,0 +1,45 @@
+{
+  "train_no": "D5894",
+  "train_type": "D",
+  "depart_station": "宜昌东",
+  "arrive_station": "武汉",
+  "depart_time": "19:22",
+  "arrive_time": "21:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "19:22",
+      "depart_time": "19:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "19:57",
+      "depart_time": "19:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "汉口",
+      "arrive_time": "21:11",
+      "depart_time": "21:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "武汉",
+      "arrive_time": "21:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 324.0,
+    "price_first": 173.0,
+    "price_second": 108.0,
+    "price_no_seat": 108.0
+  },
+  "fetched_at": "2026-05-01T04:13:13.748146"
+}

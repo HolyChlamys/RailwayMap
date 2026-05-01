@@ -1,0 +1,72 @@
+{
+  "train_no": "D5427",
+  "train_type": "D",
+  "depart_station": "南京",
+  "arrive_station": "赣榆",
+  "depart_time": "11:27",
+  "arrive_time": "14:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "11:27",
+      "depart_time": "11:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "镇江",
+      "arrive_time": "11:50",
+      "depart_time": "11:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "扬州东",
+      "arrive_time": "12:22",
+      "depart_time": "12:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "高邮",
+      "arrive_time": "12:39",
+      "depart_time": "12:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "淮安东",
+      "arrive_time": "13:09",
+      "depart_time": "13:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "涟水",
+      "arrive_time": "13:22",
+      "depart_time": "13:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "连云港",
+      "arrive_time": "14:03",
+      "depart_time": "14:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "赣榆",
+      "arrive_time": "14:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 316.0,
+    "price_second": 198.0,
+    "price_no_seat": 198.0
+  },
+  "fetched_at": "2026-05-01T04:06:20.977303"
+}

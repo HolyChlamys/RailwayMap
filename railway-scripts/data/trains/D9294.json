@@ -1,0 +1,44 @@
+{
+  "train_no": "D9294",
+  "train_type": "D",
+  "depart_station": "蕲春南",
+  "arrive_station": "武汉东",
+  "depart_time": "17:42",
+  "arrive_time": "18:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "蕲春南",
+      "arrive_time": "17:42",
+      "depart_time": "17:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "浠水南",
+      "arrive_time": "17:55",
+      "depart_time": "17:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄冈西",
+      "arrive_time": "18:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武汉东",
+      "arrive_time": "18:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 101.0,
+    "price_second": 63.0,
+    "price_no_seat": 63.0
+  },
+  "fetched_at": "2026-05-01T05:12:23.985405"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "G6850",
+  "train_type": "G",
+  "depart_station": "天门",
+  "arrive_station": "汉口",
+  "depart_time": "06:50",
+  "arrive_time": "07:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天门",
+      "arrive_time": "06:50",
+      "depart_time": "06:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉川北",
+      "arrive_time": "07:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汉口",
+      "arrive_time": "07:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 259.0,
+    "price_first": 118.0,
+    "price_second": 74.0,
+    "price_no_seat": 74.0
+  },
+  "fetched_at": "2026-05-01T08:10:45.233413"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "D7451",
+  "train_type": "D",
+  "depart_station": "潮阳",
+  "arrive_station": "深圳北",
+  "depart_time": "06:18",
+  "arrive_time": "07:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潮阳",
+      "arrive_time": "06:18",
+      "depart_time": "06:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普宁",
+      "arrive_time": "06:37",
+      "depart_time": "06:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "陆丰",
+      "arrive_time": "07:02",
+      "depart_time": "07:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "07:18",
+      "depart_time": "07:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "惠东南",
+      "arrive_time": "07:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "07:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 433.0,
+    "price_first": 198.0,
+    "price_second": 124.0,
+    "price_no_seat": 124.0
+  },
+  "fetched_at": "2026-05-01T04:39:03.780423"
+}

@@ -1,0 +1,58 @@
+{
+  "train_no": "D4762",
+  "train_type": "D",
+  "depart_station": "南宁",
+  "arrive_station": "重庆西",
+  "depart_time": "21:19",
+  "arrive_time": "00:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁",
+      "arrive_time": "21:19",
+      "depart_time": "21:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁北",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "都安",
+      "arrive_time": "22:15",
+      "depart_time": "22:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "河池西",
+      "arrive_time": "22:49",
+      "depart_time": "22:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳东",
+      "arrive_time": "00:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆西",
+      "arrive_time": "00:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 652.0,
+    "price_second": 408.0,
+    "price_no_seat": 408.0
+  },
+  "fetched_at": "2026-05-01T03:56:40.041962"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "G3806",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "南宁东",
+  "depart_time": "15:21",
+  "arrive_time": "18:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "15:21",
+      "depart_time": "15:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵安",
+      "arrive_time": "15:36",
+      "depart_time": "15:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "贵定县",
+      "arrive_time": "16:15",
+      "depart_time": "16:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "都匀东",
+      "arrive_time": "16:32",
+      "depart_time": "16:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "荔波",
+      "arrive_time": "17:02",
+      "depart_time": "17:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "环江",
+      "arrive_time": "17:25",
+      "depart_time": "17:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "都安",
+      "arrive_time": "17:53",
+      "depart_time": "17:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "南宁北",
+      "arrive_time": "18:19",
+      "depart_time": "18:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "南宁东",
+      "arrive_time": "18:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 998.0,
+    "price_first": 458.0,
+    "price_second": 286.0,
+    "price_no_seat": 286.0
+  },
+  "fetched_at": "2026-05-01T06:47:55.953140"
+}

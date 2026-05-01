@@ -1,0 +1,52 @@
+{
+  "train_no": "G3762",
+  "train_type": "G",
+  "depart_station": "盘州",
+  "arrive_station": "广州南",
+  "depart_time": "06:19",
+  "arrive_time": "11:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "盘州",
+      "arrive_time": "06:19",
+      "depart_time": "06:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安顺西",
+      "arrive_time": "07:14",
+      "depart_time": "07:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "07:46",
+      "depart_time": "07:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "龙洞堡",
+      "arrive_time": "08:07",
+      "depart_time": "08:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "11:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2026.0,
+    "price_first": 926.0,
+    "price_second": 579.0,
+    "price_no_seat": 579.0
+  },
+  "fetched_at": "2026-05-01T06:46:49.579517"
+}

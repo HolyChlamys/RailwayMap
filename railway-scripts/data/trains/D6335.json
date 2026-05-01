@@ -1,0 +1,79 @@
+{
+  "train_no": "D6335",
+  "train_type": "D",
+  "depart_station": "福鼎",
+  "arrive_station": "厦门",
+  "depart_time": "10:18",
+  "arrive_time": "13:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福鼎",
+      "arrive_time": "10:18",
+      "depart_time": "10:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁德",
+      "arrive_time": "10:58",
+      "depart_time": "10:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "福州",
+      "arrive_time": "11:54",
+      "depart_time": "11:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福州南",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福清",
+      "arrive_time": "12:27",
+      "depart_time": "12:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "莆田",
+      "arrive_time": "12:53",
+      "depart_time": "12:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "泉州",
+      "arrive_time": "13:20",
+      "depart_time": "13:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "厦门北",
+      "arrive_time": "13:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "厦门",
+      "arrive_time": "13:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 336.0,
+    "price_second": 210.0,
+    "price_no_seat": 210.0
+  },
+  "fetched_at": "2026-05-01T04:21:22.387675"
+}

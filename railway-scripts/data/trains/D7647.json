@@ -1,0 +1,31 @@
+{
+  "train_no": "D7647",
+  "train_type": "D",
+  "depart_station": "沈阳北",
+  "arrive_station": "丹东",
+  "depart_time": "05:11",
+  "arrive_time": "05:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "05:11",
+      "depart_time": "05:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丹东",
+      "arrive_time": "05:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 218.5,
+    "price_first": 115.0,
+    "price_second": 71.0,
+    "price_no_seat": 71.0
+  },
+  "fetched_at": "2026-05-01T04:42:13.339283"
+}

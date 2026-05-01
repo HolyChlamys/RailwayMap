@@ -1,0 +1,129 @@
+{
+  "train_no": "G1175",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "汕头",
+  "depart_time": "14:09",
+  "arrive_time": "21:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "14:09",
+      "depart_time": "14:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸宁北",
+      "arrive_time": "14:33",
+      "depart_time": "14:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙南",
+      "arrive_time": "15:34",
+      "depart_time": "15:38",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "株洲西",
+      "arrive_time": "15:52",
+      "depart_time": "15:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "郴州西",
+      "arrive_time": "16:43",
+      "depart_time": "16:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "韶关",
+      "arrive_time": "17:16",
+      "depart_time": "17:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "广州南",
+      "arrive_time": "18:11",
+      "depart_time": "18:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "虎门",
+      "arrive_time": "18:33",
+      "depart_time": "18:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳北",
+      "arrive_time": "18:52",
+      "depart_time": "19:05",
+      "stay_min": "13"
+    },
+    {
+      "seq": 10,
+      "station_name": "深圳坪山",
+      "arrive_time": "19:22",
+      "depart_time": "19:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "惠阳",
+      "arrive_time": "19:33",
+      "depart_time": "19:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "鲘门",
+      "arrive_time": "19:56",
+      "depart_time": "19:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "汕尾",
+      "arrive_time": "20:10",
+      "depart_time": "20:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "潮阳",
+      "arrive_time": "20:48",
+      "depart_time": "20:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "潮汕",
+      "arrive_time": "21:03",
+      "depart_time": "21:07",
+      "stay_min": "4"
+    },
+    {
+      "seq": 16,
+      "station_name": "汕头",
+      "arrive_time": "21:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2653.5,
+    "price_first": 1221.5,
+    "price_second": 775.5,
+    "price_no_seat": 775.5
+  },
+  "fetched_at": "2026-05-01T05:35:17.339196"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "D9222",
+  "train_type": "D",
+  "depart_station": "临汾西",
+  "arrive_station": "大同南",
+  "depart_time": "00:36",
+  "arrive_time": "01:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临汾西",
+      "arrive_time": "00:36",
+      "depart_time": "00:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太原南",
+      "arrive_time": "01:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大同南",
+      "arrive_time": "01:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 742.0,
+    "price_first": 352.0,
+    "price_second": 220.0,
+    "price_no_seat": 220.0
+  },
+  "fetched_at": "2026-05-01T05:10:22.647248"
+}

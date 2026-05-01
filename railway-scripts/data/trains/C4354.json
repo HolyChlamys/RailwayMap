@@ -1,0 +1,52 @@
+{
+  "train_no": "C4354",
+  "train_type": "C",
+  "depart_station": "库尔勒",
+  "arrive_station": "乌鲁木齐南",
+  "depart_time": "14:30",
+  "arrive_time": "18:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "库尔勒",
+      "arrive_time": "14:30",
+      "depart_time": "14:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "焉耆",
+      "arrive_time": "15:03",
+      "depart_time": "15:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "和硕",
+      "arrive_time": "15:28",
+      "depart_time": "15:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "马兰",
+      "arrive_time": "15:52",
+      "depart_time": "15:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "乌鲁木齐南",
+      "arrive_time": "18:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 409.0,
+    "price_first": 187.0,
+    "price_second": 117.0,
+    "price_no_seat": 117.0
+  },
+  "fetched_at": "2026-05-01T01:14:07.666059"
+}

@@ -1,0 +1,36 @@
+{
+  "train_no": "D7899",
+  "train_type": "D",
+  "depart_station": "焦作",
+  "arrive_station": "郑州",
+  "depart_time": "17:56",
+  "arrive_time": "18:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "焦作",
+      "arrive_time": "17:56",
+      "depart_time": "17:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "修武西",
+      "arrive_time": "18:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州",
+      "arrive_time": "18:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 41.0,
+    "price_no_seat": 41.0
+  },
+  "fetched_at": "2026-05-01T04:47:11.138433"
+}

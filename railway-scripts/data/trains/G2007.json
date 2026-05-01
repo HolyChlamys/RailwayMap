@@ -1,0 +1,129 @@
+{
+  "train_no": "G2007",
+  "train_type": "G",
+  "depart_station": "烟台",
+  "arrive_station": "西安北",
+  "depart_time": "08:30",
+  "arrive_time": "16:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "烟台",
+      "arrive_time": "08:30",
+      "depart_time": "08:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莱阳",
+      "arrive_time": "09:09",
+      "depart_time": "09:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "高密",
+      "arrive_time": "10:00",
+      "depart_time": "10:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "潍坊",
+      "arrive_time": "10:29",
+      "depart_time": "10:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "淄博",
+      "arrive_time": "11:08",
+      "depart_time": "11:16",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南",
+      "arrive_time": "12:01",
+      "depart_time": "12:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "长清",
+      "arrive_time": "12:23",
+      "depart_time": "12:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "茌平南",
+      "arrive_time": "12:40",
+      "depart_time": "12:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "聊城西",
+      "arrive_time": "12:55",
+      "depart_time": "12:59",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "莘县",
+      "arrive_time": "13:10",
+      "depart_time": "13:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "南乐",
+      "arrive_time": "13:25",
+      "depart_time": "13:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "濮阳东",
+      "arrive_time": "13:41",
+      "depart_time": "13:46",
+      "stay_min": "5"
+    },
+    {
+      "seq": 13,
+      "station_name": "卫辉南",
+      "arrive_time": "14:14",
+      "depart_time": "14:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "郑州东",
+      "arrive_time": "14:46",
+      "depart_time": "14:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "洛阳龙门",
+      "arrive_time": "15:26",
+      "depart_time": "15:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 16,
+      "station_name": "西安北",
+      "arrive_time": "16:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2541.0,
+    "price_first": 1162.0,
+    "price_second": 725.0,
+    "price_no_seat": 725.0
+  },
+  "fetched_at": "2026-05-01T05:59:02.635565"
+}

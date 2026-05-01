@@ -1,0 +1,38 @@
+{
+  "train_no": "C4251",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "保山",
+  "depart_time": "02:20",
+  "arrive_time": "05:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "02:20",
+      "depart_time": "02:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大理",
+      "arrive_time": "04:30",
+      "depart_time": "04:36",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "保山",
+      "arrive_time": "05:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 666.0,
+    "price_first": 337.0,
+    "price_second": 212.0,
+    "price_no_seat": 212.0
+  },
+  "fetched_at": "2026-05-01T01:11:52.362478"
+}

@@ -1,0 +1,91 @@
+{
+  "train_no": "K1325",
+  "train_type": "K",
+  "depart_station": "苏州",
+  "arrive_station": "南昌",
+  "depart_time": "15:28",
+  "arrive_time": "06:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "苏州",
+      "arrive_time": "15:28",
+      "depart_time": "15:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "无锡",
+      "arrive_time": "15:56",
+      "depart_time": "15:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "常州",
+      "arrive_time": "16:38",
+      "depart_time": "16:42",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "丹阳",
+      "arrive_time": "17:11",
+      "depart_time": "17:45",
+      "stay_min": "34"
+    },
+    {
+      "seq": 5,
+      "station_name": "镇江",
+      "arrive_time": "18:05",
+      "depart_time": "18:14",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京",
+      "arrive_time": "19:00",
+      "depart_time": "19:27",
+      "stay_min": "27"
+    },
+    {
+      "seq": 7,
+      "station_name": "马鞍山",
+      "arrive_time": "20:32",
+      "depart_time": "20:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "芜湖",
+      "arrive_time": "21:12",
+      "depart_time": "21:25",
+      "stay_min": "13"
+    },
+    {
+      "seq": 9,
+      "station_name": "池州",
+      "arrive_time": "01:18",
+      "depart_time": "01:30",
+      "stay_min": "12"
+    },
+    {
+      "seq": 10,
+      "station_name": "九江",
+      "arrive_time": "04:48",
+      "depart_time": "05:00",
+      "stay_min": "12"
+    },
+    {
+      "seq": 11,
+      "station_name": "南昌",
+      "arrive_time": "06:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T09:34:56.839896"
+}

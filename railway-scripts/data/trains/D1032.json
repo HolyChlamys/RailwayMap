@@ -1,0 +1,73 @@
+{
+  "train_no": "D1032",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "清河",
+  "depart_time": "17:18",
+  "arrive_time": "19:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "17:18",
+      "depart_time": "17:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌兰察布",
+      "arrive_time": "17:59",
+      "depart_time": "17:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兴和北",
+      "arrive_time": "18:19",
+      "depart_time": "18:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀安",
+      "arrive_time": "18:40",
+      "depart_time": "18:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "张家口",
+      "arrive_time": "19:04",
+      "depart_time": "19:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宣化北",
+      "arrive_time": "19:21",
+      "depart_time": "19:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "怀来",
+      "arrive_time": "19:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "清河",
+      "arrive_time": "19:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 574.0,
+    "price_first": 307.0,
+    "price_second": 191.0,
+    "price_no_seat": 191.0
+  },
+  "fetched_at": "2026-05-01T02:56:08.755894"
+}

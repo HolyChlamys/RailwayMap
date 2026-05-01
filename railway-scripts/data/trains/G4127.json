@@ -1,0 +1,45 @@
+{
+  "train_no": "G4127",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "宁海",
+  "depart_time": "02:41",
+  "arrive_time": "06:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "02:41",
+      "depart_time": "02:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "04:57",
+      "depart_time": "05:16",
+      "stay_min": "19"
+    },
+    {
+      "seq": 3,
+      "station_name": "宁波",
+      "arrive_time": "06:02",
+      "depart_time": "06:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "宁海",
+      "arrive_time": "06:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1457.0,
+    "price_first": 665.0,
+    "price_second": 416.0,
+    "price_no_seat": 416.0
+  },
+  "fetched_at": "2026-05-01T06:56:31.195662"
+}

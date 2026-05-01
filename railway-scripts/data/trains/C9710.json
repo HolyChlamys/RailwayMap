@@ -1,0 +1,79 @@
+{
+  "train_no": "C9710",
+  "train_type": "C",
+  "depart_station": "徐州东",
+  "arrive_station": "南京",
+  "depart_time": "22:26",
+  "arrive_time": "01:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "徐州东",
+      "arrive_time": "22:26",
+      "depart_time": "22:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "镇江",
+      "arrive_time": "21:25",
+      "depart_time": "21:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "宿迁",
+      "arrive_time": "22:58",
+      "depart_time": "23:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "扬州东",
+      "arrive_time": "21:59",
+      "depart_time": "22:12",
+      "stay_min": "13"
+    },
+    {
+      "seq": 5,
+      "station_name": "淮安东",
+      "arrive_time": "23:29",
+      "depart_time": "23:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "淮安东",
+      "arrive_time": "22:51",
+      "depart_time": "22:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "扬州东",
+      "arrive_time": "00:11",
+      "depart_time": "00:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "宿迁",
+      "arrive_time": "23:22",
+      "depart_time": "23:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "南京",
+      "arrive_time": "01:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 265.0,
+    "price_second": 167.0,
+    "price_no_seat": 167.0
+  },
+  "fetched_at": "2026-05-01T02:51:54.072456"
+}

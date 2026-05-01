@@ -1,0 +1,59 @@
+{
+  "train_no": "G7704",
+  "train_type": "G",
+  "depart_station": "黄山北",
+  "arrive_station": "合肥南",
+  "depart_time": "10:38",
+  "arrive_time": "12:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄山北",
+      "arrive_time": "10:38",
+      "depart_time": "10:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绩溪北",
+      "arrive_time": "10:55",
+      "depart_time": "10:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁国南",
+      "arrive_time": "11:19",
+      "depart_time": "11:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宣城",
+      "arrive_time": "11:36",
+      "depart_time": "11:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "芜湖",
+      "arrive_time": "12:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "合肥南",
+      "arrive_time": "12:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 623.5,
+    "price_first": 313.0,
+    "price_second": 193.0,
+    "price_no_seat": 193.0
+  },
+  "fetched_at": "2026-05-01T08:34:24.594126"
+}

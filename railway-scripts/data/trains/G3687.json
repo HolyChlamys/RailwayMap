@@ -1,0 +1,115 @@
+{
+  "train_no": "G3687",
+  "train_type": "G",
+  "depart_station": "汕头",
+  "arrive_station": "南昌西",
+  "depart_time": "13:56",
+  "arrive_time": "19:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "13:56",
+      "depart_time": "13:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "14:19",
+      "depart_time": "14:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "揭阳机场",
+      "arrive_time": "14:31",
+      "depart_time": "14:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "揭阳",
+      "arrive_time": "14:44",
+      "depart_time": "14:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "丰顺东",
+      "arrive_time": "14:57",
+      "depart_time": "14:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "梅州西",
+      "arrive_time": "15:20",
+      "depart_time": "15:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "兴宁南",
+      "arrive_time": "15:36",
+      "depart_time": "15:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "五华",
+      "arrive_time": "15:47",
+      "depart_time": "15:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "和平北",
+      "arrive_time": "16:19",
+      "depart_time": "16:24",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "赣州西",
+      "arrive_time": "17:06",
+      "depart_time": "17:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "吉安西",
+      "arrive_time": "17:55",
+      "depart_time": "18:05",
+      "stay_min": "10"
+    },
+    {
+      "seq": 12,
+      "station_name": "峡江",
+      "arrive_time": "18:24",
+      "depart_time": "18:30",
+      "stay_min": "6"
+    },
+    {
+      "seq": 13,
+      "station_name": "樟树东",
+      "arrive_time": "18:44",
+      "depart_time": "18:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "南昌西",
+      "arrive_time": "19:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1618.0,
+    "price_first": 806.0,
+    "price_second": 503.0,
+    "price_no_seat": 503.0
+  },
+  "fetched_at": "2026-05-01T06:44:55.412463"
+}

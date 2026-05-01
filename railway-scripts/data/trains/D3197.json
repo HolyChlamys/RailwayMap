@@ -1,0 +1,72 @@
+{
+  "train_no": "D3197",
+  "train_type": "D",
+  "depart_station": "南京南",
+  "arrive_station": "南昌西",
+  "depart_time": "19:25",
+  "arrive_time": "23:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "19:25",
+      "depart_time": "19:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马鞍山东",
+      "arrive_time": "19:41",
+      "depart_time": "19:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "芜湖",
+      "arrive_time": "20:00",
+      "depart_time": "20:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "安庆",
+      "arrive_time": "20:57",
+      "depart_time": "21:02",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "宿松东",
+      "arrive_time": "21:40",
+      "depart_time": "21:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "庐山",
+      "arrive_time": "22:11",
+      "depart_time": "22:14",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "共青城",
+      "arrive_time": "22:33",
+      "depart_time": "22:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "南昌西",
+      "arrive_time": "23:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 394.0,
+    "price_second": 247.0,
+    "price_no_seat": 247.0
+  },
+  "fetched_at": "2026-05-01T03:29:40.984083"
+}

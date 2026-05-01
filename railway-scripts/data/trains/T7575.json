@@ -1,0 +1,42 @@
+{
+  "train_no": "T7575",
+  "train_type": "T",
+  "depart_station": "菏泽",
+  "arrive_station": "济南",
+  "depart_time": "06:51",
+  "arrive_time": "09:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "菏泽",
+      "arrive_time": "06:51",
+      "depart_time": "06:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阳谷",
+      "arrive_time": "07:47",
+      "depart_time": "07:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "聊城",
+      "arrive_time": "08:14",
+      "depart_time": "08:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南",
+      "arrive_time": "09:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 41.5
+  },
+  "fetched_at": "2026-05-01T11:27:17.083354"
+}

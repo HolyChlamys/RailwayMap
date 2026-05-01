@@ -1,0 +1,66 @@
+{
+  "train_no": "C5162",
+  "train_type": "C",
+  "depart_station": "诏安",
+  "arrive_station": "南平市",
+  "depart_time": "20:04",
+  "arrive_time": "22:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "诏安",
+      "arrive_time": "20:04",
+      "depart_time": "20:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "云霄",
+      "arrive_time": "20:24",
+      "depart_time": "20:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "漳浦",
+      "arrive_time": "20:39",
+      "depart_time": "20:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "漳州",
+      "arrive_time": "20:57",
+      "depart_time": "20:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "厦门北",
+      "arrive_time": "21:18",
+      "depart_time": "21:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "福州",
+      "arrive_time": "22:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南平市",
+      "arrive_time": "22:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1103.0,
+    "price_first": 529.0,
+    "price_second": 325.5,
+    "price_no_seat": 325.5
+  },
+  "fetched_at": "2026-05-01T01:28:17.350159"
+}

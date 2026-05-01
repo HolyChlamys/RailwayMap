@@ -1,0 +1,31 @@
+{
+  "train_no": "G9361",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "咸宁北",
+  "depart_time": "18:48",
+  "arrive_time": "18:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "18:48",
+      "depart_time": "18:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸宁北",
+      "arrive_time": "18:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 164.0,
+    "price_first": 75.0,
+    "price_second": 47.0,
+    "price_no_seat": 47.0
+  },
+  "fetched_at": "2026-05-01T09:12:13.042412"
+}

@@ -1,0 +1,54 @@
+{
+  "train_no": "Y851",
+  "train_type": "Y",
+  "depart_station": "喀什",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "22:05",
+  "arrive_time": "16:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "喀什",
+      "arrive_time": "22:05",
+      "depart_time": "22:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阿克苏",
+      "arrive_time": "05:09",
+      "depart_time": "05:17",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "库车",
+      "arrive_time": "07:31",
+      "depart_time": "07:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "库尔勒",
+      "arrive_time": "10:18",
+      "depart_time": "10:41",
+      "stay_min": "23"
+    },
+    {
+      "seq": 5,
+      "station_name": "吐鲁番",
+      "arrive_time": "14:00",
+      "depart_time": "14:30",
+      "stay_min": "30"
+    },
+    {
+      "seq": 6,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "16:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:40:01.929324"
+}

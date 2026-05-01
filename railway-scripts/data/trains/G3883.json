@@ -1,0 +1,73 @@
+{
+  "train_no": "G3883",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "柳州",
+  "depart_time": "07:25",
+  "arrive_time": "11:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "07:25",
+      "depart_time": "07:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肇庆东",
+      "arrive_time": "08:00",
+      "depart_time": "08:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "怀集",
+      "arrive_time": "08:29",
+      "depart_time": "08:41",
+      "stay_min": "12"
+    },
+    {
+      "seq": 4,
+      "station_name": "贺州",
+      "arrive_time": "09:07",
+      "depart_time": "09:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "恭城",
+      "arrive_time": "09:33",
+      "depart_time": "09:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "阳朔",
+      "arrive_time": "09:48",
+      "depart_time": "09:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "桂林北",
+      "arrive_time": "10:14",
+      "depart_time": "10:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "柳州",
+      "arrive_time": "11:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 979.0,
+    "price_first": 459.0,
+    "price_second": 286.5,
+    "price_no_seat": 286.5
+  },
+  "fetched_at": "2026-05-01T06:49:43.083699"
+}

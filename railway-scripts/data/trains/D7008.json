@@ -1,0 +1,31 @@
+{
+  "train_no": "D7008",
+  "train_type": "D",
+  "depart_station": "大冶北",
+  "arrive_station": "武汉",
+  "depart_time": "21:42",
+  "arrive_time": "21:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大冶北",
+      "arrive_time": "21:42",
+      "depart_time": "21:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉",
+      "arrive_time": "21:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 137.0,
+    "price_first": 73.0,
+    "price_second": 46.0,
+    "price_no_seat": 46.0
+  },
+  "fetched_at": "2026-05-01T04:32:30.108598"
+}

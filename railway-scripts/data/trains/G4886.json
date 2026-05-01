@@ -1,0 +1,51 @@
+{
+  "train_no": "G4886",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "南昌东",
+  "depart_time": "02:10",
+  "arrive_time": "04:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "02:10",
+      "depart_time": "02:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "河源东",
+      "arrive_time": "02:53",
+      "depart_time": "02:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙川西",
+      "arrive_time": "03:14",
+      "depart_time": "03:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州西",
+      "arrive_time": "04:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌东",
+      "arrive_time": "04:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 781.0,
+    "price_second": 488.0,
+    "price_no_seat": 488.0
+  },
+  "fetched_at": "2026-05-01T07:18:48.204739"
+}

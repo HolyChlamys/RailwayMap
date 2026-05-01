@@ -1,0 +1,37 @@
+{
+  "train_no": "D9235",
+  "train_type": "D",
+  "depart_station": "太原南",
+  "arrive_station": "灵石东",
+  "depart_time": "05:55",
+  "arrive_time": "06:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "05:55",
+      "depart_time": "05:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太谷西",
+      "arrive_time": "06:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "灵石东",
+      "arrive_time": "06:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 78.0,
+    "price_second": 49.0,
+    "price_no_seat": 49.0
+  },
+  "fetched_at": "2026-05-01T05:10:44.258037"
+}

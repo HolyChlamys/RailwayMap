@@ -1,0 +1,79 @@
+{
+  "train_no": "D2505",
+  "train_type": "D",
+  "depart_station": "太原南",
+  "arrive_station": "西安北",
+  "depart_time": "07:52",
+  "arrive_time": "11:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "07:52",
+      "depart_time": "07:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "晋中",
+      "arrive_time": "08:13",
+      "depart_time": "08:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "介休东",
+      "arrive_time": "08:44",
+      "depart_time": "08:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "灵石东",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "洪洞西",
+      "arrive_time": "09:39",
+      "depart_time": "09:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "侯马西",
+      "arrive_time": "10:06",
+      "depart_time": "10:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "永济北",
+      "arrive_time": "10:44",
+      "depart_time": "10:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "大荔",
+      "arrive_time": "11:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "西安北",
+      "arrive_time": "11:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 338.0,
+    "price_second": 211.0,
+    "price_no_seat": 211.0
+  },
+  "fetched_at": "2026-05-01T03:17:29.917153"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G9252",
+  "train_type": "G",
+  "depart_station": "杭州",
+  "arrive_station": "亳州南",
+  "depart_time": "21:31",
+  "arrive_time": "00:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州",
+      "arrive_time": "21:31",
+      "depart_time": "21:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宣城",
+      "arrive_time": "22:32",
+      "depart_time": "22:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "23:39",
+      "depart_time": "23:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阜阳西",
+      "arrive_time": "00:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "亳州南",
+      "arrive_time": "00:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1158.0,
+    "price_first": 572.0,
+    "price_second": 357.0,
+    "price_no_seat": 357.0
+  },
+  "fetched_at": "2026-05-01T09:09:19.802903"
+}

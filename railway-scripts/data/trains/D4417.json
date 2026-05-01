@@ -1,0 +1,58 @@
+{
+  "train_no": "D4417",
+  "train_type": "D",
+  "depart_station": "宜昌东",
+  "arrive_station": "上海虹桥",
+  "depart_time": "22:06",
+  "arrive_time": "04:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "22:06",
+      "depart_time": "22:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "22:40",
+      "depart_time": "22:45",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "汉口",
+      "arrive_time": "23:58",
+      "depart_time": "00:03",
+      "stay_min": "1435"
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥南",
+      "arrive_time": "01:48",
+      "depart_time": "01:55",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "02:47",
+      "depart_time": "02:54",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "上海虹桥",
+      "arrive_time": "04:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 797.0,
+    "price_second": 499.0,
+    "price_no_seat": 499.0
+  },
+  "fetched_at": "2026-05-01T03:50:02.745599"
+}

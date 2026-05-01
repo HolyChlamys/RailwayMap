@@ -1,0 +1,35 @@
+{
+  "train_no": "K6722",
+  "train_type": "K",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "库尔勒",
+  "depart_time": "15:30",
+  "arrive_time": "21:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "15:30",
+      "depart_time": "15:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "焉耆",
+      "arrive_time": "21:09",
+      "depart_time": "21:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "库尔勒",
+      "arrive_time": "21:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T10:25:13.417095"
+}

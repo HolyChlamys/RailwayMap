@@ -1,0 +1,38 @@
+{
+  "train_no": "C2721",
+  "train_type": "C",
+  "depart_station": "北京西",
+  "arrive_station": "雄安",
+  "depart_time": "20:05",
+  "arrive_time": "20:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "20:05",
+      "depart_time": "20:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大兴机场",
+      "arrive_time": "20:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "雄安",
+      "arrive_time": "20:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 204.0,
+    "price_first": 109.0,
+    "price_second": 68.0,
+    "price_no_seat": 68.0
+  },
+  "fetched_at": "2026-05-01T00:43:24.721820"
+}

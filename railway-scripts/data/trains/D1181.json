@@ -1,0 +1,93 @@
+{
+  "train_no": "D1181",
+  "train_type": "D",
+  "depart_station": "兰州西",
+  "arrive_station": "包头",
+  "depart_time": "17:04",
+  "arrive_time": "23:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "17:04",
+      "depart_time": "17:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "白银南",
+      "arrive_time": "17:52",
+      "depart_time": "17:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "靖远北",
+      "arrive_time": "18:11",
+      "depart_time": "18:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "中卫南",
+      "arrive_time": "18:50",
+      "depart_time": "18:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "中宁东",
+      "arrive_time": "19:09",
+      "depart_time": "19:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "吴忠",
+      "arrive_time": "19:38",
+      "depart_time": "19:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "银川",
+      "arrive_time": "20:13",
+      "depart_time": "20:22",
+      "stay_min": "9"
+    },
+    {
+      "seq": 8,
+      "station_name": "石嘴山",
+      "arrive_time": "20:43",
+      "depart_time": "20:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "乌海",
+      "arrive_time": "21:16",
+      "depart_time": "21:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "22:00",
+      "depart_time": "22:03",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "包头",
+      "arrive_time": "23:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 841.0,
+    "price_second": 526.0,
+    "price_no_seat": 526.0
+  },
+  "fetched_at": "2026-05-01T02:58:53.632313"
+}

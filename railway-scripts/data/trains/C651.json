@@ -1,0 +1,51 @@
+{
+  "train_no": "C651",
+  "train_type": "C",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "鄂尔多斯",
+  "depart_time": "10:00",
+  "arrive_time": "11:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "10:00",
+      "depart_time": "10:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "呼和浩特",
+      "arrive_time": "10:16",
+      "depart_time": "10:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "准格尔",
+      "arrive_time": "11:06",
+      "depart_time": "11:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "东胜东",
+      "arrive_time": "11:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "鄂尔多斯",
+      "arrive_time": "11:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 144.0,
+    "price_second": 89.5,
+    "price_no_seat": 89.5
+  },
+  "fetched_at": "2026-05-01T01:50:56.123096"
+}

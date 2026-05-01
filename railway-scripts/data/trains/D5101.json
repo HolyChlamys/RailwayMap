@@ -1,0 +1,51 @@
+{
+  "train_no": "D5101",
+  "train_type": "D",
+  "depart_station": "重庆北",
+  "arrive_station": "成都东",
+  "depart_time": "22:47",
+  "arrive_time": "00:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "22:47",
+      "depart_time": "22:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合川",
+      "arrive_time": "23:15",
+      "depart_time": "23:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潼南",
+      "arrive_time": "23:40",
+      "depart_time": "23:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "遂宁",
+      "arrive_time": "00:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "00:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 180.0,
+    "price_second": 113.0,
+    "price_no_seat": 113.0
+  },
+  "fetched_at": "2026-05-01T04:00:22.564748"
+}

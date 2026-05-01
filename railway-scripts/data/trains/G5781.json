@@ -1,0 +1,45 @@
+{
+  "train_no": "G5781",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "宜宾",
+  "depart_time": "16:41",
+  "arrive_time": "17:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "16:41",
+      "depart_time": "16:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泸州",
+      "arrive_time": "17:14",
+      "depart_time": "17:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南溪",
+      "arrive_time": "17:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宜宾",
+      "arrive_time": "17:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 476.0,
+    "price_first": 218.0,
+    "price_second": 136.0,
+    "price_no_seat": 136.0
+  },
+  "fetched_at": "2026-05-01T07:42:12.050682"
+}

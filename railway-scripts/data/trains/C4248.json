@@ -1,0 +1,38 @@
+{
+  "train_no": "C4248",
+  "train_type": "C",
+  "depart_station": "临沧",
+  "arrive_station": "昆明",
+  "depart_time": "23:55",
+  "arrive_time": "03:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沧",
+      "arrive_time": "23:55",
+      "depart_time": "23:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大理",
+      "arrive_time": "01:43",
+      "depart_time": "01:49",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "03:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 785.0,
+    "price_first": 392.0,
+    "price_second": 246.0,
+    "price_no_seat": 246.0
+  },
+  "fetched_at": "2026-05-01T01:11:47.424926"
+}

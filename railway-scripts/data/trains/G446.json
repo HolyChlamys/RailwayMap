@@ -1,0 +1,73 @@
+{
+  "train_no": "G446",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "天津西",
+  "depart_time": "17:14",
+  "arrive_time": "21:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "17:14",
+      "depart_time": "17:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德清",
+      "arrive_time": "17:29",
+      "depart_time": "17:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "溧水",
+      "arrive_time": "18:15",
+      "depart_time": "18:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "18:37",
+      "depart_time": "18:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "徐州东",
+      "arrive_time": "19:55",
+      "depart_time": "19:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "曲阜东",
+      "arrive_time": "20:49",
+      "depart_time": "20:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "济南西",
+      "arrive_time": "21:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "天津西",
+      "arrive_time": "21:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2190.0,
+    "price_first": 1002.5,
+    "price_second": 626.0,
+    "price_no_seat": 626.0
+  },
+  "fetched_at": "2026-05-01T07:06:03.051469"
+}

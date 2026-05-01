@@ -1,0 +1,80 @@
+{
+  "train_no": "G9453",
+  "train_type": "G",
+  "depart_station": "泗阳",
+  "arrive_station": "上海",
+  "depart_time": "15:46",
+  "arrive_time": "18:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "泗阳",
+      "arrive_time": "15:46",
+      "depart_time": "15:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "盐城",
+      "arrive_time": "16:33",
+      "depart_time": "16:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "海安",
+      "arrive_time": "17:01",
+      "depart_time": "17:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "如皋南",
+      "arrive_time": "17:13",
+      "depart_time": "17:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南通西",
+      "arrive_time": "17:28",
+      "depart_time": "17:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "张家港",
+      "arrive_time": "17:47",
+      "depart_time": "17:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "太仓",
+      "arrive_time": "18:15",
+      "depart_time": "18:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "太仓南",
+      "arrive_time": "18:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "上海",
+      "arrive_time": "18:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 752.5,
+    "price_first": 377.0,
+    "price_second": 236.5,
+    "price_no_seat": 236.5
+  },
+  "fetched_at": "2026-05-01T09:14:31.577436"
+}

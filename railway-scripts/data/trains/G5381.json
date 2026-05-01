@@ -1,0 +1,73 @@
+{
+  "train_no": "G5381",
+  "train_type": "G",
+  "depart_station": "兴义南",
+  "arrive_station": "荔波",
+  "depart_time": "17:37",
+  "arrive_time": "21:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兴义南",
+      "arrive_time": "17:37",
+      "depart_time": "17:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "保田",
+      "arrive_time": "17:53",
+      "depart_time": "17:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "盘州",
+      "arrive_time": "18:16",
+      "depart_time": "18:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "普安县",
+      "arrive_time": "18:30",
+      "depart_time": "18:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "19:47",
+      "depart_time": "19:51",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "龙洞堡",
+      "arrive_time": "20:08",
+      "depart_time": "20:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "都匀东",
+      "arrive_time": "20:41",
+      "depart_time": "20:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "荔波",
+      "arrive_time": "21:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1160.0,
+    "price_first": 531.0,
+    "price_second": 331.0,
+    "price_no_seat": 331.0
+  },
+  "fetched_at": "2026-05-01T07:32:30.806740"
+}

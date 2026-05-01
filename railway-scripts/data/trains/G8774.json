@@ -1,0 +1,44 @@
+{
+  "train_no": "G8774",
+  "train_type": "G",
+  "depart_station": "六盘水",
+  "arrive_station": "贵阳北",
+  "depart_time": "23:04",
+  "arrive_time": "00:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "六盘水",
+      "arrive_time": "23:04",
+      "depart_time": "23:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "六枝南",
+      "arrive_time": "23:39",
+      "depart_time": "23:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "安顺西",
+      "arrive_time": "00:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "00:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 179.0,
+    "price_second": 112.0,
+    "price_no_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T09:00:09.999438"
+}

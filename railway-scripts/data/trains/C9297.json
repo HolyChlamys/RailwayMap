@@ -1,0 +1,59 @@
+{
+  "train_no": "C9297",
+  "train_type": "C",
+  "depart_station": "汉口",
+  "arrive_station": "襄阳东",
+  "depart_time": "16:03",
+  "arrive_time": "17:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "16:03",
+      "depart_time": "16:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感东",
+      "arrive_time": "16:42",
+      "depart_time": "16:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "云梦东",
+      "arrive_time": "17:04",
+      "depart_time": "17:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "随州南",
+      "arrive_time": "17:27",
+      "depart_time": "17:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "随县",
+      "arrive_time": "17:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "襄阳东",
+      "arrive_time": "17:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 451.0,
+    "price_first": 241.0,
+    "price_second": 150.0,
+    "price_no_seat": 150.0
+  },
+  "fetched_at": "2026-05-01T02:44:32.201165"
+}

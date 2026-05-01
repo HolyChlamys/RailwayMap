@@ -1,0 +1,38 @@
+{
+  "train_no": "C2313",
+  "train_type": "C",
+  "depart_station": "天津",
+  "arrive_station": "滨海",
+  "depart_time": "15:11",
+  "arrive_time": "15:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "天津",
+      "arrive_time": "15:11",
+      "depart_time": "15:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "塘沽",
+      "arrive_time": "15:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "滨海",
+      "arrive_time": "15:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 58.0,
+    "price_first": 31.0,
+    "price_second": 18.5,
+    "price_no_seat": 18.5
+  },
+  "fetched_at": "2026-05-01T00:36:38.306361"
+}

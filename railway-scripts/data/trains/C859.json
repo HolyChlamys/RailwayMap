@@ -1,0 +1,58 @@
+{
+  "train_no": "C859",
+  "train_type": "C",
+  "depart_station": "乌鲁木齐南",
+  "arrive_station": "克拉玛依",
+  "depart_time": "18:10",
+  "arrive_time": "20:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐南",
+      "arrive_time": "18:10",
+      "depart_time": "18:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "18:40",
+      "depart_time": "18:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石河子",
+      "arrive_time": "19:52",
+      "depart_time": "19:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沙湾市",
+      "arrive_time": "20:13",
+      "depart_time": "20:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "奎屯",
+      "arrive_time": "20:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "克拉玛依",
+      "arrive_time": "20:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 151.0,
+    "price_second": 94.0,
+    "price_no_seat": 94.0
+  },
+  "fetched_at": "2026-05-01T02:34:07.371293"
+}

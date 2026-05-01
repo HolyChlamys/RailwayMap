@@ -1,0 +1,37 @@
+{
+  "train_no": "D9579",
+  "train_type": "D",
+  "depart_station": "合肥南",
+  "arrive_station": "宁波",
+  "depart_time": "02:40",
+  "arrive_time": "04:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "02:40",
+      "depart_time": "02:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "04:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁波",
+      "arrive_time": "04:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 379.5,
+    "price_second": 238.5,
+    "price_no_seat": 238.5
+  },
+  "fetched_at": "2026-05-01T05:18:55.256646"
+}

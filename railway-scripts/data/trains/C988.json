@@ -1,0 +1,38 @@
+{
+  "train_no": "C988",
+  "train_type": "C",
+  "depart_station": "香格里拉",
+  "arrive_station": "大理",
+  "depart_time": "15:10",
+  "arrive_time": "16:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香格里拉",
+      "arrive_time": "15:10",
+      "depart_time": "15:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丽江",
+      "arrive_time": "16:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大理",
+      "arrive_time": "16:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 482.0,
+    "price_first": 238.0,
+    "price_second": 150.0,
+    "price_no_seat": 150.0
+  },
+  "fetched_at": "2026-05-01T02:53:05.339252"
+}

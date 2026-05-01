@@ -1,0 +1,58 @@
+{
+  "train_no": "D264",
+  "train_type": "D",
+  "depart_station": "昆明",
+  "arrive_station": "西昌西",
+  "depart_time": "17:09",
+  "arrive_time": "19:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "17:09",
+      "depart_time": "17:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广通北",
+      "arrive_time": "18:08",
+      "depart_time": "18:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "元谋西",
+      "arrive_time": "18:45",
+      "depart_time": "18:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "永仁",
+      "arrive_time": "19:11",
+      "depart_time": "19:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "攀枝花南",
+      "arrive_time": "19:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西昌西",
+      "arrive_time": "19:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 219.0,
+    "price_second": 137.0,
+    "price_no_seat": 137.0
+  },
+  "fetched_at": "2026-05-01T03:19:32.111193"
+}

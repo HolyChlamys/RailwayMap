@@ -1,0 +1,38 @@
+{
+  "train_no": "D6969",
+  "train_type": "D",
+  "depart_station": "兴和北",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "22:10",
+  "arrive_time": "22:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兴和北",
+      "arrive_time": "22:10",
+      "depart_time": "22:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌兰察布",
+      "arrive_time": "22:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "呼和浩特东",
+      "arrive_time": "22:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 221.0,
+    "price_first": 118.0,
+    "price_second": 74.0,
+    "price_no_seat": 74.0
+  },
+  "fetched_at": "2026-05-01T04:31:55.543703"
+}

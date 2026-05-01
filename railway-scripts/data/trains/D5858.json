@@ -1,0 +1,65 @@
+{
+  "train_no": "D5858",
+  "train_type": "D",
+  "depart_station": "武穴北",
+  "arrive_station": "武汉东",
+  "depart_time": "14:28",
+  "arrive_time": "15:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武穴北",
+      "arrive_time": "14:28",
+      "depart_time": "14:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蕲春南",
+      "arrive_time": "14:43",
+      "depart_time": "14:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "浠水南",
+      "arrive_time": "14:56",
+      "depart_time": "14:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄冈东",
+      "arrive_time": "15:12",
+      "depart_time": "15:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "黄冈西",
+      "arrive_time": "15:30",
+      "depart_time": "15:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "葛店南",
+      "arrive_time": "15:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "武汉东",
+      "arrive_time": "15:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 126.0,
+    "price_second": 79.0,
+    "price_no_seat": 79.0
+  },
+  "fetched_at": "2026-05-01T04:12:40.513435"
+}

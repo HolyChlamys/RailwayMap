@@ -1,0 +1,65 @@
+{
+  "train_no": "D8145",
+  "train_type": "D",
+  "depart_station": "富宁",
+  "arrive_station": "昆明南",
+  "depart_time": "10:50",
+  "arrive_time": "13:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "富宁",
+      "arrive_time": "10:50",
+      "depart_time": "10:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广南县",
+      "arrive_time": "11:24",
+      "depart_time": "11:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "珠琳",
+      "arrive_time": "11:44",
+      "depart_time": "11:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "普者黑",
+      "arrive_time": "12:04",
+      "depart_time": "12:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "弥勒",
+      "arrive_time": "12:42",
+      "depart_time": "12:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "石林西",
+      "arrive_time": "13:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "昆明南",
+      "arrive_time": "13:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 217.0,
+    "price_second": 135.5,
+    "price_no_seat": 135.5
+  },
+  "fetched_at": "2026-05-01T04:50:14.059756"
+}

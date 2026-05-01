@@ -1,0 +1,51 @@
+{
+  "train_no": "D9309",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "利川",
+  "depart_time": "10:40",
+  "arrive_time": "14:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "10:40",
+      "depart_time": "10:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潜江",
+      "arrive_time": "11:34",
+      "depart_time": "11:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜昌东",
+      "arrive_time": "12:34",
+      "depart_time": "12:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "恩施",
+      "arrive_time": "14:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "利川",
+      "arrive_time": "14:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 309.0,
+    "price_second": 193.0,
+    "price_no_seat": 193.0
+  },
+  "fetched_at": "2026-05-01T05:12:50.165347"
+}

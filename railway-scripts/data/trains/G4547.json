@@ -1,0 +1,87 @@
+{
+  "train_no": "G4547",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "贵阳北",
+  "depart_time": "10:34",
+  "arrive_time": "16:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "10:34",
+      "depart_time": "10:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸宁北",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "岳阳东",
+      "arrive_time": "11:32",
+      "depart_time": "11:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "12:23",
+      "depart_time": "12:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "韶山南",
+      "arrive_time": "12:59",
+      "depart_time": "12:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "怀化南",
+      "arrive_time": "14:15",
+      "depart_time": "14:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "铜仁南",
+      "arrive_time": "14:46",
+      "depart_time": "14:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "三穗",
+      "arrive_time": "15:07",
+      "depart_time": "15:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "凯里南",
+      "arrive_time": "16:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "贵阳北",
+      "arrive_time": "16:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2016.0,
+    "price_first": 922.0,
+    "price_second": 576.0,
+    "price_no_seat": 576.0
+  },
+  "fetched_at": "2026-05-01T07:08:30.324058"
+}

@@ -1,0 +1,87 @@
+{
+  "train_no": "G3955",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "襄阳东",
+  "depart_time": "04:05",
+  "arrive_time": "09:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "04:05",
+      "depart_time": "04:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "05:32",
+      "depart_time": "05:37",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "万州北",
+      "arrive_time": "06:46",
+      "depart_time": "06:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "奉节",
+      "arrive_time": "07:17",
+      "depart_time": "07:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "巴东",
+      "arrive_time": "07:49",
+      "depart_time": "07:58",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "兴山",
+      "arrive_time": "08:16",
+      "depart_time": "08:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "神农架",
+      "arrive_time": "08:32",
+      "depart_time": "08:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "保康县",
+      "arrive_time": "08:50",
+      "depart_time": "08:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "南漳",
+      "arrive_time": "09:11",
+      "depart_time": "09:14",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "襄阳东",
+      "arrive_time": "09:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1860.0,
+    "price_first": 851.0,
+    "price_second": 531.0,
+    "price_no_seat": 531.0
+  },
+  "fetched_at": "2026-05-01T06:51:37.067904"
+}

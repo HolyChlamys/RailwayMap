@@ -1,0 +1,94 @@
+{
+  "train_no": "D245",
+  "train_type": "D",
+  "depart_station": "成都南",
+  "arrive_station": "玉溪",
+  "depart_time": "13:12",
+  "arrive_time": "21:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "13:12",
+      "depart_time": "13:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沙湾南",
+      "arrive_time": "14:29",
+      "depart_time": "14:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "冕宁",
+      "arrive_time": "15:57",
+      "depart_time": "15:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "西昌西",
+      "arrive_time": "16:25",
+      "depart_time": "16:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "德昌西",
+      "arrive_time": "16:54",
+      "depart_time": "16:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "攀枝花南",
+      "arrive_time": "17:53",
+      "depart_time": "18:04",
+      "stay_min": "11"
+    },
+    {
+      "seq": 7,
+      "station_name": "元谋西",
+      "arrive_time": "18:52",
+      "depart_time": "18:56",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "广通北",
+      "arrive_time": "19:30",
+      "depart_time": "19:36",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "昆明",
+      "arrive_time": "20:34",
+      "depart_time": "20:44",
+      "stay_min": "10"
+    },
+    {
+      "seq": 10,
+      "station_name": "昆明南",
+      "arrive_time": "21:03",
+      "depart_time": "21:09",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "玉溪",
+      "arrive_time": "21:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1124.0,
+    "price_first": 539.0,
+    "price_second": 336.0,
+    "price_no_seat": 336.0
+  },
+  "fetched_at": "2026-05-01T03:17:03.395880"
+}

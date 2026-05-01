@@ -1,0 +1,72 @@
+{
+  "train_no": "D8939",
+  "train_type": "D",
+  "depart_station": "兰州西",
+  "arrive_station": "银川",
+  "depart_time": "12:13",
+  "arrive_time": "15:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "12:13",
+      "depart_time": "12:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "白银南",
+      "arrive_time": "13:02",
+      "depart_time": "13:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "靖远北",
+      "arrive_time": "13:20",
+      "depart_time": "13:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "平川西",
+      "arrive_time": "13:33",
+      "depart_time": "13:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "中卫南",
+      "arrive_time": "14:06",
+      "depart_time": "14:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "红寺堡北",
+      "arrive_time": "14:36",
+      "depart_time": "14:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "河东机场",
+      "arrive_time": "15:08",
+      "depart_time": "15:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "银川",
+      "arrive_time": "15:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 332.0,
+    "price_second": 208.0,
+    "price_no_seat": 208.0
+  },
+  "fetched_at": "2026-05-01T05:06:37.166583"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "C5583",
+  "train_type": "C",
+  "depart_station": "重庆西",
+  "arrive_station": "宜宾",
+  "depart_time": "23:38",
+  "arrive_time": "00:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "23:38",
+      "depart_time": "23:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泸州",
+      "arrive_time": "00:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜宾",
+      "arrive_time": "00:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 200.0,
+    "price_second": 125.0,
+    "price_no_seat": 125.0
+  },
+  "fetched_at": "2026-05-01T01:35:08.734371"
+}

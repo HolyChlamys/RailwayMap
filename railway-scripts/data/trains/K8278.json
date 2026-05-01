@@ -1,0 +1,63 @@
+{
+  "train_no": "K8278",
+  "train_type": "K",
+  "depart_station": "菏泽",
+  "arrive_station": "青岛北",
+  "depart_time": "21:15",
+  "arrive_time": "05:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "菏泽",
+      "arrive_time": "21:15",
+      "depart_time": "21:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巨野",
+      "arrive_time": "21:53",
+      "depart_time": "21:56",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "嘉祥",
+      "arrive_time": "22:16",
+      "depart_time": "22:22",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "济宁",
+      "arrive_time": "22:39",
+      "depart_time": "22:48",
+      "stay_min": "9"
+    },
+    {
+      "seq": 5,
+      "station_name": "兖州",
+      "arrive_time": "23:17",
+      "depart_time": "23:22",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "临沂",
+      "arrive_time": "01:22",
+      "depart_time": "01:29",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "青岛北",
+      "arrive_time": "05:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 81.0
+  },
+  "fetched_at": "2026-05-01T10:37:52.458508"
+}

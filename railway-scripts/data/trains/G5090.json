@@ -1,0 +1,66 @@
+{
+  "train_no": "G5090",
+  "train_type": "G",
+  "depart_station": "厦门北",
+  "arrive_station": "长汀南",
+  "depart_time": "13:57",
+  "arrive_time": "16:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "13:57",
+      "depart_time": "13:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南靖",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙山镇",
+      "arrive_time": "14:54",
+      "depart_time": "14:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙岩",
+      "arrive_time": "15:27",
+      "depart_time": "15:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "古田会址",
+      "arrive_time": "15:45",
+      "depart_time": "15:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "冠豸山南",
+      "arrive_time": "16:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长汀南",
+      "arrive_time": "16:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 294.0,
+    "price_first": 152.0,
+    "price_second": 95.0,
+    "price_no_seat": 95.0
+  },
+  "fetched_at": "2026-05-01T07:24:34.906618"
+}

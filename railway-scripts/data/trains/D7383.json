@@ -1,0 +1,79 @@
+{
+  "train_no": "D7383",
+  "train_type": "D",
+  "depart_station": "汕头",
+  "arrive_station": "深圳北",
+  "depart_time": "09:24",
+  "arrive_time": "12:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "09:24",
+      "depart_time": "09:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮安",
+      "arrive_time": "09:35",
+      "depart_time": "09:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "潮汕",
+      "arrive_time": "09:53",
+      "depart_time": "09:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "潮阳",
+      "arrive_time": "10:08",
+      "depart_time": "10:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "普宁",
+      "arrive_time": "10:20",
+      "depart_time": "10:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "汕尾",
+      "arrive_time": "10:51",
+      "depart_time": "10:57",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "惠东南",
+      "arrive_time": "11:19",
+      "depart_time": "11:30",
+      "stay_min": "11"
+    },
+    {
+      "seq": 8,
+      "station_name": "惠阳",
+      "arrive_time": "11:42",
+      "depart_time": "11:54",
+      "stay_min": "12"
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳北",
+      "arrive_time": "12:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 237.0,
+    "price_second": 148.0,
+    "price_no_seat": 148.0
+  },
+  "fetched_at": "2026-05-01T04:37:37.873729"
+}

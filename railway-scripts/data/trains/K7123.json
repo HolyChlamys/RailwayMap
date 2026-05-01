@@ -1,0 +1,35 @@
+{
+  "train_no": "K7123",
+  "train_type": "K",
+  "depart_station": "哈尔滨东",
+  "arrive_station": "佳木斯",
+  "depart_time": "21:20",
+  "arrive_time": "23:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨东",
+      "arrive_time": "21:20",
+      "depart_time": "21:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绥化",
+      "arrive_time": "23:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "佳木斯",
+      "arrive_time": "23:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T10:28:20.478009"
+}

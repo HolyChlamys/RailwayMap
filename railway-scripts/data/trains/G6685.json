@@ -1,0 +1,38 @@
+{
+  "train_no": "G6685",
+  "train_type": "G",
+  "depart_station": "兰考南",
+  "arrive_station": "郑州东",
+  "depart_time": "14:02",
+  "arrive_time": "14:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰考南",
+      "arrive_time": "14:02",
+      "depart_time": "14:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开封北",
+      "arrive_time": "14:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "14:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 202.0,
+    "price_first": 92.0,
+    "price_second": 58.0,
+    "price_no_seat": 58.0
+  },
+  "fetched_at": "2026-05-01T08:05:54.879318"
+}

@@ -1,0 +1,101 @@
+{
+  "train_no": "G5597",
+  "train_type": "G",
+  "depart_station": "济南西",
+  "arrive_station": "菏泽东",
+  "depart_time": "08:14",
+  "arrive_time": "13:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "08:14",
+      "depart_time": "08:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南",
+      "arrive_time": "08:34",
+      "depart_time": "08:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "章丘",
+      "arrive_time": "08:59",
+      "depart_time": "08:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博",
+      "arrive_time": "09:29",
+      "depart_time": "09:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "潍坊",
+      "arrive_time": "10:06",
+      "depart_time": "10:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "青岛西",
+      "arrive_time": "11:08",
+      "depart_time": "11:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "日照西",
+      "arrive_time": "11:41",
+      "depart_time": "11:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "莒南北",
+      "arrive_time": "12:03",
+      "depart_time": "12:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "临沂北",
+      "arrive_time": "12:20",
+      "depart_time": "12:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "曲阜东",
+      "arrive_time": "13:16",
+      "depart_time": "13:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "嘉祥北",
+      "arrive_time": "13:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "菏泽东",
+      "arrive_time": "13:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1343.0,
+    "price_first": 657.0,
+    "price_second": 410.0,
+    "price_no_seat": 410.0
+  },
+  "fetched_at": "2026-05-01T07:38:01.781799"
+}

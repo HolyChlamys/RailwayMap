@@ -1,0 +1,70 @@
+{
+  "train_no": "K1080",
+  "train_type": "K",
+  "depart_station": "广州白云",
+  "arrive_station": "武昌",
+  "depart_time": "21:30",
+  "arrive_time": "09:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "21:30",
+      "depart_time": "21:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衡阳",
+      "arrive_time": "03:15",
+      "depart_time": "03:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙",
+      "arrive_time": "05:47",
+      "depart_time": "05:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "岳阳",
+      "arrive_time": "07:15",
+      "depart_time": "07:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "临湘",
+      "arrive_time": "07:47",
+      "depart_time": "07:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "赤壁",
+      "arrive_time": "08:35",
+      "depart_time": "08:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "咸宁",
+      "arrive_time": "09:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "武昌",
+      "arrive_time": "09:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 138.5
+  },
+  "fetched_at": "2026-05-01T09:30:58.901532"
+}

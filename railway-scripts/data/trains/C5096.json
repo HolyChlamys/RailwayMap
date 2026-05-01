@@ -1,0 +1,31 @@
+{
+  "train_no": "C5096",
+  "train_type": "C",
+  "depart_station": "宜昌北",
+  "arrive_station": "汉口",
+  "depart_time": "03:18",
+  "arrive_time": "03:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌北",
+      "arrive_time": "03:18",
+      "depart_time": "03:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "03:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 766.0,
+    "price_first": 350.0,
+    "price_second": 219.0,
+    "price_no_seat": 219.0
+  },
+  "fetched_at": "2026-05-01T01:26:29.672180"
+}

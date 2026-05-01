@@ -1,0 +1,59 @@
+{
+  "train_no": "C7436",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "永州",
+  "depart_time": "07:17",
+  "arrive_time": "03:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "07:17",
+      "depart_time": "07:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "云浮东",
+      "arrive_time": "08:09",
+      "depart_time": "08:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南江口",
+      "arrive_time": "08:25",
+      "depart_time": "08:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "衡阳东",
+      "arrive_time": "02:25",
+      "depart_time": "02:45",
+      "stay_min": "20"
+    },
+    {
+      "seq": 5,
+      "station_name": "郁南",
+      "arrive_time": "08:42",
+      "depart_time": "08:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "永州",
+      "arrive_time": "03:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 334.0,
+    "price_first": 153.0,
+    "price_second": 95.0,
+    "price_no_seat": 95.0
+  },
+  "fetched_at": "2026-05-01T02:15:17.187296"
+}

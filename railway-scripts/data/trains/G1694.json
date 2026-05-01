@@ -1,0 +1,128 @@
+{
+  "train_no": "G1694",
+  "train_type": "G",
+  "depart_station": "厦门北",
+  "arrive_station": "长沙南",
+  "depart_time": "15:38",
+  "arrive_time": "22:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泉州南",
+      "arrive_time": "15:55",
+      "depart_time": "15:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "莆田",
+      "arrive_time": "16:21",
+      "depart_time": "16:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "福州南",
+      "arrive_time": "16:48",
+      "depart_time": "16:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "福州",
+      "arrive_time": "17:05",
+      "depart_time": "17:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "延平",
+      "arrive_time": "17:42",
+      "depart_time": "17:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "南平市",
+      "arrive_time": "18:10",
+      "depart_time": "18:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "武夷山北",
+      "arrive_time": "18:26",
+      "depart_time": "18:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "上饶",
+      "arrive_time": "18:51",
+      "depart_time": "18:56",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "鹰潭北",
+      "arrive_time": "19:26",
+      "depart_time": "19:32",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "抚州东",
+      "arrive_time": "19:46",
+      "depart_time": "19:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "进贤南",
+      "arrive_time": "20:01",
+      "depart_time": "20:07",
+      "stay_min": "6"
+    },
+    {
+      "seq": 13,
+      "station_name": "南昌西",
+      "arrive_time": "20:26",
+      "depart_time": "20:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "高安",
+      "arrive_time": "20:44",
+      "depart_time": "20:50",
+      "stay_min": "6"
+    },
+    {
+      "seq": 15,
+      "station_name": "宜春",
+      "arrive_time": "21:22",
+      "depart_time": "21:37",
+      "stay_min": "15"
+    },
+    {
+      "seq": 16,
+      "station_name": "长沙南",
+      "arrive_time": "22:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1007.0,
+    "price_second": 621.0,
+    "price_no_seat": 621.0
+  },
+  "fetched_at": "2026-05-01T05:50:06.028268"
+}

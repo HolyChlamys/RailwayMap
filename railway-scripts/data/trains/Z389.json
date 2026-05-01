@@ -1,0 +1,91 @@
+{
+  "train_no": "Z389",
+  "train_type": "Z",
+  "depart_station": "福州",
+  "arrive_station": "成都西",
+  "depart_time": "10:01",
+  "arrive_time": "12:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "10:01",
+      "depart_time": "10:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三明北",
+      "arrive_time": "11:27",
+      "depart_time": "11:33",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌",
+      "arrive_time": "14:19",
+      "depart_time": "14:47",
+      "stay_min": "28"
+    },
+    {
+      "seq": 4,
+      "station_name": "武昌",
+      "arrive_time": "18:05",
+      "depart_time": "18:30",
+      "stay_min": "25"
+    },
+    {
+      "seq": 5,
+      "station_name": "十堰",
+      "arrive_time": "23:01",
+      "depart_time": "23:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "安康",
+      "arrive_time": "01:11",
+      "depart_time": "01:21",
+      "stay_min": "10"
+    },
+    {
+      "seq": 7,
+      "station_name": "汉中",
+      "arrive_time": "03:38",
+      "depart_time": "03:42",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "广元",
+      "arrive_time": "06:25",
+      "depart_time": "06:48",
+      "stay_min": "23"
+    },
+    {
+      "seq": 9,
+      "station_name": "绵阳",
+      "arrive_time": "10:28",
+      "depart_time": "10:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "德阳",
+      "arrive_time": "11:14",
+      "depart_time": "11:20",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "成都西",
+      "arrive_time": "12:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 254.5
+  },
+  "fetched_at": "2026-05-01T11:48:40.666248"
+}

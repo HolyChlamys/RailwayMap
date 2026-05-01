@@ -1,0 +1,30 @@
+{
+  "train_no": "C6232",
+  "train_type": "C",
+  "depart_station": "宜宾西",
+  "arrive_station": "成都东",
+  "depart_time": "00:10",
+  "arrive_time": "00:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜宾西",
+      "arrive_time": "00:10",
+      "depart_time": "00:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都东",
+      "arrive_time": "00:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 176.0,
+    "price_second": 110.0,
+    "price_no_seat": 110.0
+  },
+  "fetched_at": "2026-05-01T01:47:18.355860"
+}

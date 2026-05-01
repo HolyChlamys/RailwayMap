@@ -1,0 +1,58 @@
+{
+  "train_no": "C3882",
+  "train_type": "C",
+  "depart_station": "上海",
+  "arrive_station": "盐城",
+  "depart_time": "11:40",
+  "arrive_time": "13:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "11:40",
+      "depart_time": "11:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太仓",
+      "arrive_time": "12:17",
+      "depart_time": "12:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常熟",
+      "arrive_time": "12:38",
+      "depart_time": "12:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "张家港",
+      "arrive_time": "12:49",
+      "depart_time": "12:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "如皋南",
+      "arrive_time": "13:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "盐城",
+      "arrive_time": "13:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 235.0,
+    "price_second": 147.5,
+    "price_no_seat": 147.5
+  },
+  "fetched_at": "2026-05-01T01:05:30.260572"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "D9181",
+  "train_type": "D",
+  "depart_station": "上饶",
+  "arrive_station": "景德镇北",
+  "depart_time": "21:46",
+  "arrive_time": "22:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上饶",
+      "arrive_time": "21:46",
+      "depart_time": "21:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "婺源",
+      "arrive_time": "22:13",
+      "depart_time": "22:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "景德镇北",
+      "arrive_time": "22:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 83.5,
+    "price_second": 52.5,
+    "price_no_seat": 52.5
+  },
+  "fetched_at": "2026-05-01T05:09:20.024899"
+}

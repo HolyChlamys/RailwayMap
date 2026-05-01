@@ -1,0 +1,58 @@
+{
+  "train_no": "C5757",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "松潘",
+  "depart_time": "17:05",
+  "arrive_time": "19:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "17:05",
+      "depart_time": "17:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青白江东",
+      "arrive_time": "17:20",
+      "depart_time": "17:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "三星堆",
+      "arrive_time": "17:30",
+      "depart_time": "17:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "绵竹南",
+      "arrive_time": "17:49",
+      "depart_time": "17:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "安州",
+      "arrive_time": "18:03",
+      "depart_time": "18:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "松潘",
+      "arrive_time": "19:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 216.0,
+    "price_second": 135.0,
+    "price_no_seat": 135.0
+  },
+  "fetched_at": "2026-05-01T01:37:40.931899"
+}

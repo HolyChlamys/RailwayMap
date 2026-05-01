@@ -1,0 +1,133 @@
+{
+  "train_no": "T10",
+  "train_type": "T",
+  "depart_station": "重庆西",
+  "arrive_station": "北京西",
+  "depart_time": "09:22",
+  "arrive_time": "10:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "09:22",
+      "depart_time": "09:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广安",
+      "arrive_time": "11:15",
+      "depart_time": "11:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "渠县",
+      "arrive_time": "11:48",
+      "depart_time": "11:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "达州",
+      "arrive_time": "13:09",
+      "depart_time": "13:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宣汉",
+      "arrive_time": "13:52",
+      "depart_time": "13:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "万源",
+      "arrive_time": "14:50",
+      "depart_time": "14:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "安康",
+      "arrive_time": "16:17",
+      "depart_time": "16:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "十堰",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "襄阳",
+      "arrive_time": "21:33",
+      "depart_time": "21:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "南阳",
+      "arrive_time": "23:18",
+      "depart_time": "23:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "郑州",
+      "arrive_time": "04:30",
+      "depart_time": "04:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "邯郸",
+      "arrive_time": "06:52",
+      "depart_time": "06:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 13,
+      "station_name": "邢台",
+      "arrive_time": "07:23",
+      "depart_time": "07:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 14,
+      "station_name": "石家庄",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 15,
+      "station_name": "保定",
+      "arrive_time": "09:51",
+      "depart_time": "09:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 16,
+      "station_name": "涿州",
+      "arrive_time": "10:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 17,
+      "station_name": "北京西",
+      "arrive_time": "10:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 229.0
+  },
+  "fetched_at": "2026-05-01T11:21:21.817852"
+}

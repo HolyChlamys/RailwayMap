@@ -1,0 +1,44 @@
+{
+  "train_no": "D6820",
+  "train_type": "D",
+  "depart_station": "宝鸡南",
+  "arrive_station": "西安北",
+  "depart_time": "07:36",
+  "arrive_time": "08:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宝鸡南",
+      "arrive_time": "07:36",
+      "depart_time": "07:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杨陵南",
+      "arrive_time": "08:03",
+      "depart_time": "08:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "咸阳西",
+      "arrive_time": "08:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安北",
+      "arrive_time": "08:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 99.0,
+    "price_second": 62.0,
+    "price_no_seat": 62.0
+  },
+  "fetched_at": "2026-05-01T04:29:31.432091"
+}

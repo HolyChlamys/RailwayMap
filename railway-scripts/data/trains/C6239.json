@@ -1,0 +1,38 @@
+{
+  "train_no": "C6239",
+  "train_type": "C",
+  "depart_station": "绵阳",
+  "arrive_station": "成都东",
+  "depart_time": "23:50",
+  "arrive_time": "00:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "绵阳",
+      "arrive_time": "23:50",
+      "depart_time": "23:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德阳",
+      "arrive_time": "00:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "成都东",
+      "arrive_time": "00:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 190.0,
+    "price_first": 87.0,
+    "price_second": 54.0,
+    "price_no_seat": 54.0
+  },
+  "fetched_at": "2026-05-01T01:47:26.610793"
+}

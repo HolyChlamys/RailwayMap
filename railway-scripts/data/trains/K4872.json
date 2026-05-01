@@ -1,0 +1,84 @@
+{
+  "train_no": "K4872",
+  "train_type": "K",
+  "depart_station": "福州",
+  "arrive_station": "南充",
+  "depart_time": "20:15",
+  "arrive_time": "10:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "20:15",
+      "depart_time": "20:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹰潭",
+      "arrive_time": "08:27",
+      "depart_time": "09:02",
+      "stay_min": "35"
+    },
+    {
+      "seq": 3,
+      "station_name": "黄石",
+      "arrive_time": "15:58",
+      "depart_time": "16:12",
+      "stay_min": "14"
+    },
+    {
+      "seq": 4,
+      "station_name": "鄂州",
+      "arrive_time": "16:50",
+      "depart_time": "16:58",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "安康",
+      "arrive_time": "04:11",
+      "depart_time": "04:22",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "万源",
+      "arrive_time": "06:14",
+      "depart_time": "06:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "达州",
+      "arrive_time": "07:53",
+      "depart_time": "08:07",
+      "stay_min": "14"
+    },
+    {
+      "seq": 8,
+      "station_name": "营山",
+      "arrive_time": "09:10",
+      "depart_time": "09:24",
+      "stay_min": "14"
+    },
+    {
+      "seq": 9,
+      "station_name": "蓬安",
+      "arrive_time": "09:37",
+      "depart_time": "09:52",
+      "stay_min": "15"
+    },
+    {
+      "seq": 10,
+      "station_name": "南充",
+      "arrive_time": "10:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 247.0
+  },
+  "fetched_at": "2026-05-01T10:00:03.829254"
+}

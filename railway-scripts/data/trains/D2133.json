@@ -1,0 +1,128 @@
+{
+  "train_no": "D2133",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "青岛",
+  "depart_time": "14:35",
+  "arrive_time": "20:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "14:35",
+      "depart_time": "14:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "常熟",
+      "arrive_time": "15:20",
+      "depart_time": "15:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "张家港",
+      "arrive_time": "15:32",
+      "depart_time": "15:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南通西",
+      "arrive_time": "15:50",
+      "depart_time": "15:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "如皋南",
+      "arrive_time": "16:05",
+      "depart_time": "16:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "海安",
+      "arrive_time": "16:17",
+      "depart_time": "16:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "东台",
+      "arrive_time": "16:33",
+      "depart_time": "16:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "盐城",
+      "arrive_time": "16:55",
+      "depart_time": "16:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "射阳",
+      "arrive_time": "17:16",
+      "depart_time": "17:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "阜宁东",
+      "arrive_time": "17:27",
+      "depart_time": "17:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "滨海港",
+      "arrive_time": "17:44",
+      "depart_time": "17:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "响水县",
+      "arrive_time": "17:56",
+      "depart_time": "17:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "连云港",
+      "arrive_time": "18:31",
+      "depart_time": "18:39",
+      "stay_min": "8"
+    },
+    {
+      "seq": 14,
+      "station_name": "赣榆",
+      "arrive_time": "18:55",
+      "depart_time": "19:04",
+      "stay_min": "9"
+    },
+    {
+      "seq": 15,
+      "station_name": "日照西",
+      "arrive_time": "19:33",
+      "depart_time": "19:36",
+      "stay_min": "3"
+    },
+    {
+      "seq": 16,
+      "station_name": "青岛",
+      "arrive_time": "20:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 518.0,
+    "price_second": 325.0,
+    "price_no_seat": 325.0
+  },
+  "fetched_at": "2026-05-01T03:10:35.431828"
+}

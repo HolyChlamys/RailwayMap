@@ -1,0 +1,52 @@
+{
+  "train_no": "G8628",
+  "train_type": "G",
+  "depart_station": "江北机场",
+  "arrive_station": "成都东",
+  "depart_time": "16:14",
+  "arrive_time": "17:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "江北机场",
+      "arrive_time": "16:14",
+      "depart_time": "16:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "16:38",
+      "depart_time": "16:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "隆昌北",
+      "arrive_time": "17:27",
+      "depart_time": "17:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "资中北",
+      "arrive_time": "17:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "17:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 642.0,
+    "price_first": 294.0,
+    "price_second": 183.0,
+    "price_no_seat": 183.0
+  },
+  "fetched_at": "2026-05-01T08:56:19.076378"
+}

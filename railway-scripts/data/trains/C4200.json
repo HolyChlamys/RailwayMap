@@ -1,0 +1,30 @@
+{
+  "train_no": "C4200",
+  "train_type": "C",
+  "depart_station": "克拉玛依",
+  "arrive_station": "奎屯",
+  "depart_time": "07:40",
+  "arrive_time": "07:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "克拉玛依",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "奎屯",
+      "arrive_time": "07:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 53.0,
+    "price_second": 33.0,
+    "price_no_seat": 33.0
+  },
+  "fetched_at": "2026-05-01T01:10:33.242287"
+}

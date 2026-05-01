@@ -1,0 +1,57 @@
+{
+  "train_no": "S5432",
+  "train_type": "S",
+  "depart_station": "开阳",
+  "arrive_station": "贵安",
+  "depart_time": "08:07",
+  "arrive_time": "09:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "开阳",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳东",
+      "arrive_time": "08:38",
+      "depart_time": "08:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "08:52",
+      "depart_time": "09:00",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳",
+      "arrive_time": "09:11",
+      "depart_time": "09:14",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "花溪大学城",
+      "arrive_time": "09:34",
+      "depart_time": "09:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "贵安",
+      "arrive_time": "09:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 31.5,
+    "price_no_seat": 31.5
+  },
+  "fetched_at": "2026-05-01T11:06:24.158986"
+}

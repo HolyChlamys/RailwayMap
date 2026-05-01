@@ -1,0 +1,37 @@
+{
+  "train_no": "C762",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "广安南",
+  "depart_time": "06:34",
+  "arrive_time": "07:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "06:34",
+      "depart_time": "06:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮口南",
+      "arrive_time": "07:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广安南",
+      "arrive_time": "07:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 142.0,
+    "price_second": 89.0,
+    "price_no_seat": 89.0
+  },
+  "fetched_at": "2026-05-01T02:19:18.116255"
+}

@@ -1,0 +1,31 @@
+{
+  "train_no": "C857",
+  "train_type": "C",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "克拉玛依",
+  "depart_time": "11:00",
+  "arrive_time": "11:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "克拉玛依",
+      "arrive_time": "11:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 308.0,
+    "price_first": 141.0,
+    "price_second": 88.0,
+    "price_no_seat": 88.0
+  },
+  "fetched_at": "2026-05-01T02:34:04.093362"
+}

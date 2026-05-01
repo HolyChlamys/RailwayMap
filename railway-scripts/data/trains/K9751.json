@@ -1,0 +1,35 @@
+{
+  "train_no": "K9751",
+  "train_type": "K",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "阿勒泰",
+  "depart_time": "08:12",
+  "arrive_time": "13:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "08:12",
+      "depart_time": "08:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "富蕴",
+      "arrive_time": "13:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阿勒泰",
+      "arrive_time": "13:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T10:48:32.244419"
+}

@@ -1,0 +1,51 @@
+{
+  "train_no": "S5252",
+  "train_type": "S",
+  "depart_station": "邛崃",
+  "arrive_station": "成都东",
+  "depart_time": "17:57",
+  "arrive_time": "18:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邛崃",
+      "arrive_time": "17:57",
+      "depart_time": "17:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大邑",
+      "arrive_time": "18:06",
+      "depart_time": "18:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "温江",
+      "arrive_time": "18:22",
+      "depart_time": "18:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "成都南",
+      "arrive_time": "18:41",
+      "depart_time": "18:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "18:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 50.0,
+    "price_second": 31.0,
+    "price_no_seat": 31.0
+  },
+  "fetched_at": "2026-05-01T11:04:17.261415"
+}

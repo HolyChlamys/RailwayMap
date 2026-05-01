@@ -1,0 +1,66 @@
+{
+  "train_no": "G3881",
+  "train_type": "G",
+  "depart_station": "柳州",
+  "arrive_station": "广州南",
+  "depart_time": "12:10",
+  "arrive_time": "16:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "柳州",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永福南",
+      "arrive_time": "12:54",
+      "depart_time": "12:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "桂林",
+      "arrive_time": "13:16",
+      "depart_time": "13:22",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "桂林北",
+      "arrive_time": "13:33",
+      "depart_time": "13:38",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "贺州",
+      "arrive_time": "14:27",
+      "depart_time": "14:40",
+      "stay_min": "13"
+    },
+    {
+      "seq": 6,
+      "station_name": "怀集",
+      "arrive_time": "15:07",
+      "depart_time": "15:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "广州南",
+      "arrive_time": "16:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 979.0,
+    "price_first": 459.0,
+    "price_second": 286.5,
+    "price_no_seat": 286.5
+  },
+  "fetched_at": "2026-05-01T06:49:39.761138"
+}

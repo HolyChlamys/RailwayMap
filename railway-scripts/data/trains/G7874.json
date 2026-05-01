@@ -1,0 +1,38 @@
+{
+  "train_no": "G7874",
+  "train_type": "G",
+  "depart_station": "秦皇岛",
+  "arrive_station": "北京通州",
+  "depart_time": "10:12",
+  "arrive_time": "11:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "秦皇岛",
+      "arrive_time": "10:12",
+      "depart_time": "10:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宝坻",
+      "arrive_time": "11:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "北京通州",
+      "arrive_time": "11:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 564.0,
+    "price_first": 258.0,
+    "price_second": 161.0,
+    "price_no_seat": 161.0
+  },
+  "fetched_at": "2026-05-01T08:38:53.046507"
+}

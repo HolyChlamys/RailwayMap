@@ -1,0 +1,51 @@
+{
+  "train_no": "C5307",
+  "train_type": "C",
+  "depart_station": "武汉",
+  "arrive_station": "阳新",
+  "depart_time": "21:19",
+  "arrive_time": "22:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "21:19",
+      "depart_time": "21:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄂州",
+      "arrive_time": "21:44",
+      "depart_time": "21:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄石北",
+      "arrive_time": "22:00",
+      "depart_time": "22:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大冶北",
+      "arrive_time": "22:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "阳新",
+      "arrive_time": "22:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 101.0,
+    "price_second": 63.0,
+    "price_no_seat": 63.0
+  },
+  "fetched_at": "2026-05-01T01:32:31.770707"
+}

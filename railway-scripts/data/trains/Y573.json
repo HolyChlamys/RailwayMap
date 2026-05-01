@@ -1,0 +1,63 @@
+{
+  "train_no": "Y573",
+  "train_type": "Y",
+  "depart_station": "太和北",
+  "arrive_station": "平顶山",
+  "depart_time": "06:30",
+  "arrive_time": "10:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太和北",
+      "arrive_time": "06:30",
+      "depart_time": "06:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "界首市",
+      "arrive_time": "06:48",
+      "depart_time": "06:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "沈丘",
+      "arrive_time": "07:15",
+      "depart_time": "07:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "项城",
+      "arrive_time": "07:36",
+      "depart_time": "07:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "周口",
+      "arrive_time": "08:01",
+      "depart_time": "08:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "漯河",
+      "arrive_time": "08:56",
+      "depart_time": "09:04",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "平顶山",
+      "arrive_time": "10:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 11.0
+  },
+  "fetched_at": "2026-05-01T11:35:39.297652"
+}

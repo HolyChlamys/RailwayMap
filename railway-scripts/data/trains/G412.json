@@ -1,0 +1,73 @@
+{
+  "train_no": "G412",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "广州南",
+  "depart_time": "07:30",
+  "arrive_time": "14:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巩义南",
+      "arrive_time": "08:54",
+      "depart_time": "08:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州",
+      "arrive_time": "09:23",
+      "depart_time": "09:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "许昌东",
+      "arrive_time": "09:57",
+      "depart_time": "09:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "武汉",
+      "arrive_time": "11:17",
+      "depart_time": "11:21",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙南",
+      "arrive_time": "12:32",
+      "depart_time": "12:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "株洲西",
+      "arrive_time": "12:49",
+      "depart_time": "12:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "14:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3410.0,
+    "price_first": 1559.0,
+    "price_second": 974.0,
+    "price_no_seat": 974.0
+  },
+  "fetched_at": "2026-05-01T06:56:19.619796"
+}

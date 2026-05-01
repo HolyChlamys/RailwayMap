@@ -1,0 +1,72 @@
+{
+  "train_no": "D4764",
+  "train_type": "D",
+  "depart_station": "昆明南",
+  "arrive_station": "南宁东",
+  "depart_time": "21:15",
+  "arrive_time": "01:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "21:15",
+      "depart_time": "21:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石林西",
+      "arrive_time": "21:41",
+      "depart_time": "21:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "弥勒",
+      "arrive_time": "22:00",
+      "depart_time": "22:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "普者黑",
+      "arrive_time": "22:37",
+      "depart_time": "22:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广南县",
+      "arrive_time": "23:09",
+      "depart_time": "23:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "百色",
+      "arrive_time": "00:20",
+      "depart_time": "00:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南宁",
+      "arrive_time": "01:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南宁东",
+      "arrive_time": "01:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 434.0,
+    "price_second": 271.5,
+    "price_no_seat": 271.5
+  },
+  "fetched_at": "2026-05-01T03:56:43.317468"
+}

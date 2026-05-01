@@ -1,0 +1,44 @@
+{
+  "train_no": "G7252",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "庐江西",
+  "depart_time": "15:42",
+  "arrive_time": "18:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "15:42",
+      "depart_time": "15:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "16:57",
+      "depart_time": "16:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "17:47",
+      "depart_time": "17:51",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "庐江西",
+      "arrive_time": "18:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 459.0,
+    "price_second": 288.0,
+    "price_no_seat": 288.0
+  },
+  "fetched_at": "2026-05-01T08:22:00.289007"
+}

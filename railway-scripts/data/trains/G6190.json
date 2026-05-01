@@ -1,0 +1,87 @@
+{
+  "train_no": "G6190",
+  "train_type": "G",
+  "depart_station": "怀化南",
+  "arrive_station": "深圳北",
+  "depart_time": "09:11",
+  "arrive_time": "14:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "怀化南",
+      "arrive_time": "09:11",
+      "depart_time": "09:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邵阳北",
+      "arrive_time": "09:51",
+      "depart_time": "09:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "娄底南",
+      "arrive_time": "10:09",
+      "depart_time": "10:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "湘潭北",
+      "arrive_time": "10:37",
+      "depart_time": "10:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "长沙南",
+      "arrive_time": "10:52",
+      "depart_time": "11:08",
+      "stay_min": "16"
+    },
+    {
+      "seq": 6,
+      "station_name": "株洲西",
+      "arrive_time": "11:22",
+      "depart_time": "11:31",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "郴州西",
+      "arrive_time": "12:19",
+      "depart_time": "12:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "13:36",
+      "depart_time": "13:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "虎门",
+      "arrive_time": "13:56",
+      "depart_time": "14:01",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "深圳北",
+      "arrive_time": "14:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2159.5,
+    "price_first": 995.5,
+    "price_second": 634.5,
+    "price_no_seat": 634.5
+  },
+  "fetched_at": "2026-05-01T07:51:26.639277"
+}

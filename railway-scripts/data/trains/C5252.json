@@ -1,0 +1,52 @@
+{
+  "train_no": "C5252",
+  "train_type": "C",
+  "depart_station": "厦门",
+  "arrive_station": "三明北",
+  "depart_time": "22:14",
+  "arrive_time": "23:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "22:14",
+      "depart_time": "22:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泉州",
+      "arrive_time": "23:01",
+      "depart_time": "23:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "仙游",
+      "arrive_time": "23:23",
+      "depart_time": "23:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "莆田",
+      "arrive_time": "23:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "三明北",
+      "arrive_time": "23:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 247.0,
+    "price_first": 112.0,
+    "price_second": 71.0,
+    "price_no_seat": 71.0
+  },
+  "fetched_at": "2026-05-01T01:31:10.895580"
+}

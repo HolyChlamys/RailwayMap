@@ -1,0 +1,107 @@
+{
+  "train_no": "D4018",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "武汉",
+  "depart_time": "05:01",
+  "arrive_time": "11:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "05:01",
+      "depart_time": "05:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "05:29",
+      "depart_time": "05:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡",
+      "arrive_time": "05:46",
+      "depart_time": "05:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "常州",
+      "arrive_time": "06:03",
+      "depart_time": "06:10",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "07:00",
+      "depart_time": "07:04",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "马鞍山东",
+      "arrive_time": "07:20",
+      "depart_time": "07:25",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "芜湖",
+      "arrive_time": "07:42",
+      "depart_time": "07:50",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "安庆",
+      "arrive_time": "08:45",
+      "depart_time": "08:49",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "安庆西",
+      "arrive_time": "09:04",
+      "depart_time": "09:10",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "潜山",
+      "arrive_time": "09:20",
+      "depart_time": "09:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "蕲春南",
+      "arrive_time": "10:13",
+      "depart_time": "10:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "黄冈西",
+      "arrive_time": "10:40",
+      "depart_time": "10:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 13,
+      "station_name": "武汉",
+      "arrive_time": "11:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 647.0,
+    "price_second": 404.0,
+    "price_no_seat": 404.0
+  },
+  "fetched_at": "2026-05-01T03:42:42.270835"
+}

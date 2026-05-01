@@ -1,0 +1,37 @@
+{
+  "train_no": "C5507",
+  "train_type": "C",
+  "depart_station": "荆州",
+  "arrive_station": "武汉",
+  "depart_time": "23:30",
+  "arrive_time": "00:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荆州",
+      "arrive_time": "23:30",
+      "depart_time": "23:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "00:42",
+      "depart_time": "00:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武汉",
+      "arrive_time": "00:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 145.0,
+    "price_second": 91.0,
+    "price_no_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T01:33:44.402071"
+}

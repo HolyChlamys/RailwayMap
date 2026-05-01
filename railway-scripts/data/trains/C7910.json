@@ -1,0 +1,64 @@
+{
+  "train_no": "C7910",
+  "train_type": "C",
+  "depart_station": "佛山  西",
+  "arrive_station": "惠州  北",
+  "depart_time": "07:09",
+  "arrive_time": "09:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佛山  西",
+      "arrive_time": "07:09",
+      "depart_time": "07:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "番禺",
+      "arrive_time": "07:30",
+      "depart_time": "07:35",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "广州长隆",
+      "arrive_time": "07:39",
+      "depart_time": "07:42",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "西平西",
+      "arrive_time": "08:08",
+      "depart_time": "08:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "松山湖北",
+      "arrive_time": "08:20",
+      "depart_time": "08:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "云山",
+      "arrive_time": "08:51",
+      "depart_time": "08:56",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "惠州  北",
+      "arrive_time": "09:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 120.0,
+    "price_no_seat": 120.0
+  },
+  "fetched_at": "2026-05-01T02:27:45.688355"
+}

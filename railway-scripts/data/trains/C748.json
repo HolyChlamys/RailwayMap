@@ -1,0 +1,38 @@
+{
+  "train_no": "C748",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "南充",
+  "depart_time": "07:20",
+  "arrive_time": "08:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "07:20",
+      "depart_time": "07:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遂宁",
+      "arrive_time": "08:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南充",
+      "arrive_time": "08:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 230.0,
+    "price_first": 105.0,
+    "price_second": 66.0,
+    "price_no_seat": 66.0
+  },
+  "fetched_at": "2026-05-01T02:16:13.249867"
+}

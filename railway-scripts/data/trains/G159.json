@@ -1,0 +1,45 @@
+{
+  "train_no": "G159",
+  "train_type": "G",
+  "depart_station": "北京朝阳",
+  "arrive_station": "大连北",
+  "depart_time": "08:10",
+  "arrive_time": "11:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京朝阳",
+      "arrive_time": "08:10",
+      "depart_time": "08:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "辽宁朝阳",
+      "arrive_time": "09:40",
+      "depart_time": "09:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "锦州北",
+      "arrive_time": "10:10",
+      "depart_time": "10:14",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "大连北",
+      "arrive_time": "11:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1678.0,
+    "price_first": 770.0,
+    "price_second": 481.0,
+    "price_no_seat": 481.0
+  },
+  "fetched_at": "2026-05-01T05:47:25.359868"
+}

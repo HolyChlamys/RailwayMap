@@ -1,0 +1,87 @@
+{
+  "train_no": "G1587",
+  "train_type": "G",
+  "depart_station": "北京西",
+  "arrive_station": "焦作",
+  "depart_time": "17:35",
+  "arrive_time": "22:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "17:35",
+      "depart_time": "17:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高碑店东",
+      "arrive_time": "18:05",
+      "depart_time": "18:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "保定东",
+      "arrive_time": "18:23",
+      "depart_time": "18:36",
+      "stay_min": "13"
+    },
+    {
+      "seq": 4,
+      "station_name": "石家庄",
+      "arrive_time": "19:11",
+      "depart_time": "19:14",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "邢台东",
+      "arrive_time": "19:42",
+      "depart_time": "19:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "安阳东",
+      "arrive_time": "20:12",
+      "depart_time": "20:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "新乡东",
+      "arrive_time": "20:40",
+      "depart_time": "20:46",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "郑州东",
+      "arrive_time": "21:06",
+      "depart_time": "21:27",
+      "stay_min": "21"
+    },
+    {
+      "seq": 9,
+      "station_name": "郑州",
+      "arrive_time": "21:44",
+      "depart_time": "21:49",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "焦作",
+      "arrive_time": "22:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1440.0,
+    "price_first": 666.0,
+    "price_second": 416.0,
+    "price_no_seat": 416.0
+  },
+  "fetched_at": "2026-05-01T05:47:20.402347"
+}

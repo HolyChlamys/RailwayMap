@@ -1,0 +1,58 @@
+{
+  "train_no": "C826",
+  "train_type": "C",
+  "depart_station": "乌苏",
+  "arrive_station": "乌鲁木齐南",
+  "depart_time": "09:30",
+  "arrive_time": "11:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌苏",
+      "arrive_time": "09:30",
+      "depart_time": "09:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "奎屯",
+      "arrive_time": "09:44",
+      "depart_time": "09:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沙湾市",
+      "arrive_time": "10:13",
+      "depart_time": "10:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "石河子",
+      "arrive_time": "10:36",
+      "depart_time": "10:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "11:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "乌鲁木齐南",
+      "arrive_time": "11:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 103.0,
+    "price_second": 64.0,
+    "price_no_seat": 64.0
+  },
+  "fetched_at": "2026-05-01T02:33:17.980846"
+}

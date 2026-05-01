@@ -1,0 +1,52 @@
+{
+  "train_no": "G8576",
+  "train_type": "G",
+  "depart_station": "重庆东",
+  "arrive_station": "成都东",
+  "depart_time": "21:58",
+  "arrive_time": "23:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆东",
+      "arrive_time": "21:58",
+      "depart_time": "21:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "22:42",
+      "depart_time": "22:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "永川东",
+      "arrive_time": "23:04",
+      "depart_time": "23:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "内江北",
+      "arrive_time": "23:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "23:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 670.0,
+    "price_first": 309.0,
+    "price_second": 193.0,
+    "price_no_seat": 193.0
+  },
+  "fetched_at": "2026-05-01T08:54:54.663695"
+}

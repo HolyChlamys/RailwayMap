@@ -1,0 +1,93 @@
+{
+  "train_no": "D1920",
+  "train_type": "D",
+  "depart_station": "成都东",
+  "arrive_station": "西安北",
+  "depart_time": "09:10",
+  "arrive_time": "13:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "09:10",
+      "depart_time": "09:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绵阳",
+      "arrive_time": "09:49",
+      "depart_time": "09:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "青川",
+      "arrive_time": "10:27",
+      "depart_time": "10:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "剑门关",
+      "arrive_time": "10:39",
+      "depart_time": "10:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广元",
+      "arrive_time": "10:59",
+      "depart_time": "10:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宁强南",
+      "arrive_time": "11:30",
+      "depart_time": "11:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "汉中",
+      "arrive_time": "11:58",
+      "depart_time": "11:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "城固北",
+      "arrive_time": "12:11",
+      "depart_time": "12:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "洋县西",
+      "arrive_time": "12:23",
+      "depart_time": "12:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "西安西",
+      "arrive_time": "13:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "西安北",
+      "arrive_time": "13:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 506.0,
+    "price_second": 316.0,
+    "price_no_seat": 316.0
+  },
+  "fetched_at": "2026-05-01T03:07:48.346468"
+}

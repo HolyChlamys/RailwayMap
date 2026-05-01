@@ -1,0 +1,45 @@
+{
+  "train_no": "G9155",
+  "train_type": "G",
+  "depart_station": "阜新",
+  "arrive_station": "沈阳北",
+  "depart_time": "07:40",
+  "arrive_time": "08:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜新",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黑山北",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "新民北",
+      "arrive_time": "08:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳北",
+      "arrive_time": "08:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 304.0,
+    "price_first": 139.0,
+    "price_second": 87.0,
+    "price_no_seat": 87.0
+  },
+  "fetched_at": "2026-05-01T09:07:09.318472"
+}

@@ -1,0 +1,99 @@
+{
+  "train_no": "D4941",
+  "train_type": "D",
+  "depart_station": "南京南",
+  "arrive_station": "珠海",
+  "depart_time": "18:00",
+  "arrive_time": "08:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "18:00",
+      "depart_time": "18:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "镇江南",
+      "arrive_time": "18:20",
+      "depart_time": "18:26",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "常州北",
+      "arrive_time": "18:45",
+      "depart_time": "18:50",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡东",
+      "arrive_time": "19:08",
+      "depart_time": "19:12",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "上海虹桥",
+      "arrive_time": "19:45",
+      "depart_time": "19:55",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "20:49",
+      "depart_time": "20:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "宁波",
+      "arrive_time": "21:45",
+      "depart_time": "21:53",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "台州西",
+      "arrive_time": "22:47",
+      "depart_time": "22:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳北",
+      "arrive_time": "06:15",
+      "depart_time": "06:21",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "广州南",
+      "arrive_time": "06:53",
+      "depart_time": "07:17",
+      "stay_min": "24"
+    },
+    {
+      "seq": 11,
+      "station_name": "中山",
+      "arrive_time": "07:47",
+      "depart_time": "08:07",
+      "stay_min": "20"
+    },
+    {
+      "seq": 12,
+      "station_name": "珠海",
+      "arrive_time": "08:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 929.0,
+    "price_no_seat": 929.0
+  },
+  "fetched_at": "2026-05-01T03:58:51.956655"
+}

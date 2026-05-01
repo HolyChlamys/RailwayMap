@@ -1,0 +1,80 @@
+{
+  "train_no": "C9216",
+  "train_type": "C",
+  "depart_station": "十堰东",
+  "arrive_station": "汉口",
+  "depart_time": "12:40",
+  "arrive_time": "15:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "十堰东",
+      "arrive_time": "12:40",
+      "depart_time": "12:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武当山西",
+      "arrive_time": "12:53",
+      "depart_time": "12:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "丹江口",
+      "arrive_time": "13:08",
+      "depart_time": "13:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "谷城北",
+      "arrive_time": "13:32",
+      "depart_time": "13:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "襄阳东",
+      "arrive_time": "14:08",
+      "depart_time": "14:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "枣阳",
+      "arrive_time": "14:24",
+      "depart_time": "14:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "随州南",
+      "arrive_time": "14:47",
+      "depart_time": "14:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "孝感东",
+      "arrive_time": "15:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "汉口",
+      "arrive_time": "15:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 746.0,
+    "price_first": 398.0,
+    "price_second": 248.0,
+    "price_no_seat": 248.0
+  },
+  "fetched_at": "2026-05-01T02:42:28.757653"
+}

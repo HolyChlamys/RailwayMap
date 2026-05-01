@@ -1,0 +1,30 @@
+{
+  "train_no": "C5172",
+  "train_type": "C",
+  "depart_station": "南昌东",
+  "arrive_station": "景德镇北",
+  "depart_time": "06:15",
+  "arrive_time": "06:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌东",
+      "arrive_time": "06:15",
+      "depart_time": "06:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "景德镇北",
+      "arrive_time": "06:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 150.0,
+    "price_second": 94.0,
+    "price_no_seat": 94.0
+  },
+  "fetched_at": "2026-05-01T01:28:35.465884"
+}

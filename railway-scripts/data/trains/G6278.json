@@ -1,0 +1,94 @@
+{
+  "train_no": "G6278",
+  "train_type": "G",
+  "depart_station": "秦皇岛",
+  "arrive_station": "石家庄",
+  "depart_time": "14:44",
+  "arrive_time": "18:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "秦皇岛",
+      "arrive_time": "14:44",
+      "depart_time": "14:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "唐山",
+      "arrive_time": "15:22",
+      "depart_time": "15:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "滨海西",
+      "arrive_time": "15:45",
+      "depart_time": "15:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "天津",
+      "arrive_time": "16:04",
+      "depart_time": "16:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "天津西",
+      "arrive_time": "16:15",
+      "depart_time": "16:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "胜芳",
+      "arrive_time": "16:35",
+      "depart_time": "16:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "霸州西",
+      "arrive_time": "16:55",
+      "depart_time": "16:59",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "白沟",
+      "arrive_time": "17:10",
+      "depart_time": "17:16",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "白洋淀",
+      "arrive_time": "17:27",
+      "depart_time": "17:35",
+      "stay_min": "8"
+    },
+    {
+      "seq": 10,
+      "station_name": "正定机场",
+      "arrive_time": "18:12",
+      "depart_time": "18:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "石家庄",
+      "arrive_time": "18:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 972.0,
+    "price_first": 454.5,
+    "price_second": 283.5,
+    "price_no_seat": 283.5
+  },
+  "fetched_at": "2026-05-01T07:54:03.733799"
+}

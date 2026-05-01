@@ -1,0 +1,105 @@
+{
+  "train_no": "K1003",
+  "train_type": "K",
+  "depart_station": "宝鸡",
+  "arrive_station": "重庆西",
+  "depart_time": "17:16",
+  "arrive_time": "06:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宝鸡",
+      "arrive_time": "17:16",
+      "depart_time": "17:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蔡家坡",
+      "arrive_time": "17:43",
+      "depart_time": "17:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "杨陵",
+      "arrive_time": "18:15",
+      "depart_time": "18:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "武功",
+      "arrive_time": "18:28",
+      "depart_time": "18:31",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "兴平",
+      "arrive_time": "18:48",
+      "depart_time": "18:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "咸阳",
+      "arrive_time": "19:06",
+      "depart_time": "19:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "西安",
+      "arrive_time": "19:28",
+      "depart_time": "20:00",
+      "stay_min": "32"
+    },
+    {
+      "seq": 8,
+      "station_name": "引镇",
+      "arrive_time": "20:39",
+      "depart_time": "20:42",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "镇安",
+      "arrive_time": "21:54",
+      "depart_time": "21:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "安康",
+      "arrive_time": "23:26",
+      "depart_time": "23:46",
+      "stay_min": "20"
+    },
+    {
+      "seq": 11,
+      "station_name": "万源",
+      "arrive_time": "01:38",
+      "depart_time": "01:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "达州",
+      "arrive_time": "03:40",
+      "depart_time": "03:50",
+      "stay_min": "10"
+    },
+    {
+      "seq": 13,
+      "station_name": "重庆西",
+      "arrive_time": "06:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 124.0
+  },
+  "fetched_at": "2026-05-01T09:29:18.033350"
+}

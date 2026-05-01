@@ -1,0 +1,58 @@
+{
+  "train_no": "D8428",
+  "train_type": "D",
+  "depart_station": "百色",
+  "arrive_station": "南宁",
+  "depart_time": "15:00",
+  "arrive_time": "16:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "百色",
+      "arrive_time": "15:00",
+      "depart_time": "15:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "田阳",
+      "arrive_time": "15:22",
+      "depart_time": "15:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "田东北",
+      "arrive_time": "15:39",
+      "depart_time": "15:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "平果",
+      "arrive_time": "16:02",
+      "depart_time": "16:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "隆安东",
+      "arrive_time": "16:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南宁",
+      "arrive_time": "16:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 132.0,
+    "price_second": 82.5,
+    "price_no_seat": 82.5
+  },
+  "fetched_at": "2026-05-01T04:56:52.363212"
+}

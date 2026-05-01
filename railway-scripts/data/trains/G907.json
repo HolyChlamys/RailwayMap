@@ -1,0 +1,66 @@
+{
+  "train_no": "G907",
+  "train_type": "G",
+  "depart_station": "昆明南",
+  "arrive_station": "香港西九龙",
+  "depart_time": "09:13",
+  "arrive_time": "16:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "09:13",
+      "depart_time": "09:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳北",
+      "arrive_time": "11:39",
+      "depart_time": "11:49",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "桂林西",
+      "arrive_time": "13:41",
+      "depart_time": "13:46",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "肇庆东",
+      "arrive_time": "15:18",
+      "depart_time": "15:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "15:55",
+      "depart_time": "16:01",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "16:31",
+      "depart_time": "16:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "香港西九龙",
+      "arrive_time": "16:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3080.0,
+    "price_first": 1456.0,
+    "price_second": 910.0,
+    "price_no_seat": 910.0
+  },
+  "fetched_at": "2026-05-01T09:05:46.872781"
+}

@@ -1,0 +1,101 @@
+{
+  "train_no": "G7503",
+  "train_type": "G",
+  "depart_station": "苏州",
+  "arrive_station": "台州",
+  "depart_time": "07:15",
+  "arrive_time": "10:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "苏州",
+      "arrive_time": "07:15",
+      "depart_time": "07:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州园区",
+      "arrive_time": "07:28",
+      "depart_time": "07:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "昆山南",
+      "arrive_time": "07:41",
+      "depart_time": "07:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "上海虹桥",
+      "arrive_time": "08:03",
+      "depart_time": "08:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "嘉兴南",
+      "arrive_time": "08:33",
+      "depart_time": "08:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "09:01",
+      "depart_time": "09:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "绍兴北",
+      "arrive_time": "09:22",
+      "depart_time": "09:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "上虞南",
+      "arrive_time": "09:36",
+      "depart_time": "09:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "嵊州新昌",
+      "arrive_time": "09:54",
+      "depart_time": "09:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "天台山",
+      "arrive_time": "10:11",
+      "depart_time": "10:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "临海",
+      "arrive_time": "10:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "台州",
+      "arrive_time": "10:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 944.0,
+    "price_first": 432.0,
+    "price_second": 269.0,
+    "price_no_seat": 269.0
+  },
+  "fetched_at": "2026-05-01T08:29:00.546623"
+}

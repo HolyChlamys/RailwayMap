@@ -1,0 +1,112 @@
+{
+  "train_no": "K1264",
+  "train_type": "K",
+  "depart_station": "杭州",
+  "arrive_station": "石家庄",
+  "depart_time": "11:43",
+  "arrive_time": "06:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州",
+      "arrive_time": "11:43",
+      "depart_time": "11:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "德清西",
+      "arrive_time": "12:26",
+      "depart_time": "12:31",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "长兴南",
+      "arrive_time": "13:13",
+      "depart_time": "13:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖",
+      "arrive_time": "15:18",
+      "depart_time": "15:25",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥",
+      "arrive_time": "17:01",
+      "depart_time": "17:23",
+      "stay_min": "22"
+    },
+    {
+      "seq": 6,
+      "station_name": "淮南",
+      "arrive_time": "18:24",
+      "depart_time": "18:27",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "阜阳",
+      "arrive_time": "19:47",
+      "depart_time": "20:06",
+      "stay_min": "19"
+    },
+    {
+      "seq": 8,
+      "station_name": "商丘南",
+      "arrive_time": "22:15",
+      "depart_time": "22:26",
+      "stay_min": "11"
+    },
+    {
+      "seq": 9,
+      "station_name": "聊城",
+      "arrive_time": "00:58",
+      "depart_time": "01:06",
+      "stay_min": "8"
+    },
+    {
+      "seq": 10,
+      "station_name": "冠县",
+      "arrive_time": "02:01",
+      "depart_time": "02:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "广平",
+      "arrive_time": "02:45",
+      "depart_time": "02:49",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "邯郸",
+      "arrive_time": "03:47",
+      "depart_time": "03:57",
+      "stay_min": "10"
+    },
+    {
+      "seq": 13,
+      "station_name": "邢台",
+      "arrive_time": "04:28",
+      "depart_time": "04:52",
+      "stay_min": "24"
+    },
+    {
+      "seq": 14,
+      "station_name": "石家庄",
+      "arrive_time": "06:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 173.5
+  },
+  "fetched_at": "2026-05-01T09:33:51.016842"
+}

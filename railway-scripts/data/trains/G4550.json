@@ -1,0 +1,52 @@
+{
+  "train_no": "G4550",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "重庆西",
+  "depart_time": "00:58",
+  "arrive_time": "06:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "00:58",
+      "depart_time": "00:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳东",
+      "arrive_time": "04:52",
+      "depart_time": "04:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "毕节",
+      "arrive_time": "05:39",
+      "depart_time": "05:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宜宾",
+      "arrive_time": "06:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "重庆西",
+      "arrive_time": "06:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2557.0,
+    "price_first": 1211.0,
+    "price_second": 757.0,
+    "price_no_seat": 757.0
+  },
+  "fetched_at": "2026-05-01T07:08:36.967543"
+}

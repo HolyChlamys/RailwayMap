@@ -1,0 +1,73 @@
+{
+  "train_no": "G7806",
+  "train_type": "G",
+  "depart_station": "邯郸东",
+  "arrive_station": "廊坊",
+  "depart_time": "13:45",
+  "arrive_time": "16:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邯郸东",
+      "arrive_time": "13:45",
+      "depart_time": "13:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邢台东",
+      "arrive_time": "14:07",
+      "depart_time": "14:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石家庄",
+      "arrive_time": "14:44",
+      "depart_time": "14:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "保定东",
+      "arrive_time": "15:21",
+      "depart_time": "15:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "白洋淀",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "白沟",
+      "arrive_time": "15:50",
+      "depart_time": "15:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "天津西",
+      "arrive_time": "16:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "廊坊",
+      "arrive_time": "16:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 915.0,
+    "price_first": 429.5,
+    "price_second": 268.5,
+    "price_no_seat": 268.5
+  },
+  "fetched_at": "2026-05-01T08:37:02.749964"
+}

@@ -1,0 +1,86 @@
+{
+  "train_no": "G2890",
+  "train_type": "G",
+  "depart_station": "昆明南",
+  "arrive_station": "成都东",
+  "depart_time": "13:06",
+  "arrive_time": "18:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "13:06",
+      "depart_time": "13:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲靖北",
+      "arrive_time": "13:47",
+      "depart_time": "13:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "15:42",
+      "depart_time": "15:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "桐梓东",
+      "arrive_time": "16:48",
+      "depart_time": "16:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "珞璜南",
+      "arrive_time": "17:48",
+      "depart_time": "17:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆西",
+      "arrive_time": "18:06",
+      "depart_time": "18:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "永川东",
+      "arrive_time": "18:30",
+      "depart_time": "18:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "大足南",
+      "arrive_time": "18:41",
+      "depart_time": "18:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "荣昌北",
+      "arrive_time": "18:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "成都东",
+      "arrive_time": "18:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 895.0,
+    "price_second": 560.0,
+    "price_no_seat": 560.0
+  },
+  "fetched_at": "2026-05-01T06:23:06.170219"
+}

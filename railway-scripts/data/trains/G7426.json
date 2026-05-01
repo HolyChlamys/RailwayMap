@@ -1,0 +1,51 @@
+{
+  "train_no": "G7426",
+  "train_type": "G",
+  "depart_station": "祁门南",
+  "arrive_station": "杭州东",
+  "depart_time": "12:05",
+  "arrive_time": "13:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "祁门南",
+      "arrive_time": "12:05",
+      "depart_time": "12:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄山北",
+      "arrive_time": "12:29",
+      "depart_time": "12:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "千岛湖",
+      "arrive_time": "13:10",
+      "depart_time": "13:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "富阳",
+      "arrive_time": "13:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州东",
+      "arrive_time": "13:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 249.0,
+    "price_second": 155.0,
+    "price_no_seat": 155.0
+  },
+  "fetched_at": "2026-05-01T08:27:02.995466"
+}

@@ -1,0 +1,33 @@
+{
+  "train_no": "Y926",
+  "train_type": "Y",
+  "depart_station": "昆明",
+  "arrive_station": "西双版纳",
+  "depart_time": "21:40",
+  "arrive_time": "08:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "普洱",
+      "arrive_time": "08:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "西双版纳",
+      "arrive_time": "08:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:41:42.723399"
+}

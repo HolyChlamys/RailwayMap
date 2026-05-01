@@ -1,0 +1,45 @@
+{
+  "train_no": "G6442",
+  "train_type": "G",
+  "depart_station": "邵阳",
+  "arrive_station": "长沙南",
+  "depart_time": "19:30",
+  "arrive_time": "20:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邵阳",
+      "arrive_time": "19:30",
+      "depart_time": "19:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邵东",
+      "arrive_time": "19:47",
+      "depart_time": "19:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "娄底南",
+      "arrive_time": "20:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "20:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 486.0,
+    "price_first": 162.0,
+    "price_second": 101.5,
+    "price_no_seat": 101.5
+  },
+  "fetched_at": "2026-05-01T07:58:57.509557"
+}

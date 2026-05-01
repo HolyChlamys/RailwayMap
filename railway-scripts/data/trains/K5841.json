@@ -1,0 +1,49 @@
+{
+  "train_no": "K5841",
+  "train_type": "K",
+  "depart_station": "南昌",
+  "arrive_station": "赣州",
+  "depart_time": "08:24",
+  "arrive_time": "12:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "08:24",
+      "depart_time": "08:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉安",
+      "arrive_time": "10:44",
+      "depart_time": "10:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泰和",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "兴国",
+      "arrive_time": "12:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "赣州",
+      "arrive_time": "12:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 62.5
+  },
+  "fetched_at": "2026-05-01T10:14:58.396722"
+}

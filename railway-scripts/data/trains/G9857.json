@@ -1,0 +1,59 @@
+{
+  "train_no": "G9857",
+  "train_type": "G",
+  "depart_station": "福州南",
+  "arrive_station": "云霄",
+  "depart_time": "17:09",
+  "arrive_time": "18:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州南",
+      "arrive_time": "17:09",
+      "depart_time": "17:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莆田",
+      "arrive_time": "17:35",
+      "depart_time": "17:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "泉州南",
+      "arrive_time": "18:01",
+      "depart_time": "18:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "厦门北",
+      "arrive_time": "18:23",
+      "depart_time": "18:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "漳州",
+      "arrive_time": "18:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "云霄",
+      "arrive_time": "18:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 695.0,
+    "price_first": 318.0,
+    "price_second": 199.0,
+    "price_no_seat": 199.0
+  },
+  "fetched_at": "2026-05-01T09:26:20.015160"
+}

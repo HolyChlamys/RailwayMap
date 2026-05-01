@@ -1,0 +1,65 @@
+{
+  "train_no": "C9159",
+  "train_type": "C",
+  "depart_station": "贵阳北",
+  "arrive_station": "六盘水",
+  "depart_time": "10:25",
+  "arrive_time": "12:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "10:25",
+      "depart_time": "10:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵安",
+      "arrive_time": "10:50",
+      "depart_time": "10:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "安顺西",
+      "arrive_time": "11:15",
+      "depart_time": "11:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "六枝南",
+      "arrive_time": "11:40",
+      "depart_time": "11:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "冷坝",
+      "arrive_time": "11:57",
+      "depart_time": "11:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "六盘水东",
+      "arrive_time": "12:10",
+      "depart_time": "12:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "六盘水",
+      "arrive_time": "12:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 162.0,
+    "price_second": 102.0,
+    "price_no_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T02:41:24.413887"
+}

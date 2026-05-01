@@ -1,0 +1,56 @@
+{
+  "train_no": "K4162",
+  "train_type": "K",
+  "depart_station": "杭州",
+  "arrive_station": "阜阳",
+  "depart_time": "00:33",
+  "arrive_time": "07:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州",
+      "arrive_time": "00:33",
+      "depart_time": "00:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长兴南",
+      "arrive_time": "02:04",
+      "depart_time": "02:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "芜湖",
+      "arrive_time": "04:15",
+      "depart_time": "04:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥",
+      "arrive_time": "06:35",
+      "depart_time": "06:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "淮南",
+      "arrive_time": "07:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "阜阳",
+      "arrive_time": "07:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 148.5
+  },
+  "fetched_at": "2026-05-01T09:49:10.978902"
+}

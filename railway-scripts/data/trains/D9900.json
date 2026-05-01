@@ -1,0 +1,30 @@
+{
+  "train_no": "D9900",
+  "train_type": "D",
+  "depart_station": "厦门",
+  "arrive_station": "龙岩",
+  "depart_time": "00:00",
+  "arrive_time": "00:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门",
+      "arrive_time": "00:00",
+      "depart_time": "00:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙岩",
+      "arrive_time": "00:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 92.0,
+    "price_second": 58.0,
+    "price_no_seat": 58.0
+  },
+  "fetched_at": "2026-05-01T05:27:41.197228"
+}

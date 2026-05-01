@@ -1,0 +1,87 @@
+{
+  "train_no": "G8148",
+  "train_type": "G",
+  "depart_station": "通辽",
+  "arrive_station": "大连北",
+  "depart_time": "06:19",
+  "arrive_time": "09:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "通辽",
+      "arrive_time": "06:19",
+      "depart_time": "06:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "甘旗卡",
+      "arrive_time": "06:44",
+      "depart_time": "06:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "彰武",
+      "arrive_time": "07:07",
+      "depart_time": "07:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "新民北",
+      "arrive_time": "07:30",
+      "depart_time": "07:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳",
+      "arrive_time": "07:56",
+      "depart_time": "08:01",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "辽阳",
+      "arrive_time": "08:23",
+      "depart_time": "08:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "海城西",
+      "arrive_time": "08:43",
+      "depart_time": "08:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "营口东",
+      "arrive_time": "09:00",
+      "depart_time": "09:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "09:19",
+      "depart_time": "09:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "大连北",
+      "arrive_time": "09:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1061.0,
+    "price_first": 502.0,
+    "price_second": 313.0,
+    "price_no_seat": 313.0
+  },
+  "fetched_at": "2026-05-01T08:45:24.741699"
+}

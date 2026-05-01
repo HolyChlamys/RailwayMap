@@ -1,0 +1,33 @@
+{
+  "train_no": "Y815",
+  "train_type": "Y",
+  "depart_station": "哈密",
+  "arrive_station": "伊宁",
+  "depart_time": "16:45",
+  "arrive_time": "05:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈密",
+      "arrive_time": "16:45",
+      "depart_time": "16:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "精河南",
+      "arrive_time": "05:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "伊宁",
+      "arrive_time": "05:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:39:24.052185"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "D6286",
+  "train_type": "D",
+  "depart_station": "平潭",
+  "arrive_station": "福州",
+  "depart_time": "08:39",
+  "arrive_time": "09:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "平潭",
+      "arrive_time": "08:39",
+      "depart_time": "08:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福州南",
+      "arrive_time": "09:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "福州",
+      "arrive_time": "09:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 79.0,
+    "price_second": 50.0,
+    "price_no_seat": 50.0
+  },
+  "fetched_at": "2026-05-01T04:20:24.853633"
+}

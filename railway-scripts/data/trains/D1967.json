@@ -1,0 +1,72 @@
+{
+  "train_no": "D1967",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "成都东",
+  "depart_time": "06:39",
+  "arrive_time": "10:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "06:39",
+      "depart_time": "06:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉中",
+      "arrive_time": "07:54",
+      "depart_time": "07:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "朝天",
+      "arrive_time": "08:29",
+      "depart_time": "08:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广元",
+      "arrive_time": "08:51",
+      "depart_time": "08:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "江油",
+      "arrive_time": "09:29",
+      "depart_time": "09:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "青莲",
+      "arrive_time": "09:40",
+      "depart_time": "09:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广汉北",
+      "arrive_time": "10:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "成都东",
+      "arrive_time": "10:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 506.0,
+    "price_second": 316.0,
+    "price_no_seat": 316.0
+  },
+  "fetched_at": "2026-05-01T03:08:52.852870"
+}

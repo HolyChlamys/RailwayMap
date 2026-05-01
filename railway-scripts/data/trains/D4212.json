@@ -1,0 +1,52 @@
+{
+  "train_no": "D4212",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "青岛北",
+  "depart_time": "23:50",
+  "arrive_time": "02:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "23:50",
+      "depart_time": "23:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南通西",
+      "arrive_time": "00:55",
+      "depart_time": "00:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "盐城",
+      "arrive_time": "01:42",
+      "depart_time": "01:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "连云港",
+      "arrive_time": "02:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "青岛北",
+      "arrive_time": "02:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 988.0,
+    "price_first": 506.0,
+    "price_second": 318.0,
+    "price_no_seat": 318.0
+  },
+  "fetched_at": "2026-05-01T03:45:32.201874"
+}

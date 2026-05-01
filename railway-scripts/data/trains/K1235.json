@@ -1,0 +1,133 @@
+{
+  "train_no": "K1235",
+  "train_type": "K",
+  "depart_station": "九江",
+  "arrive_station": "昆明",
+  "depart_time": "16:20",
+  "arrive_time": "20:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "九江",
+      "arrive_time": "16:20",
+      "depart_time": "16:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌",
+      "arrive_time": "18:09",
+      "depart_time": "18:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "向塘",
+      "arrive_time": "18:37",
+      "depart_time": "18:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "樟树",
+      "arrive_time": "19:45",
+      "depart_time": "19:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "新余",
+      "arrive_time": "20:49",
+      "depart_time": "20:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "萍乡",
+      "arrive_time": "22:08",
+      "depart_time": "22:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "株洲",
+      "arrive_time": "23:18",
+      "depart_time": "23:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "怀化",
+      "arrive_time": "05:37",
+      "depart_time": "05:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "凯里",
+      "arrive_time": "09:52",
+      "depart_time": "09:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "贵定",
+      "arrive_time": "11:19",
+      "depart_time": "11:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "贵阳",
+      "arrive_time": "12:36",
+      "depart_time": "12:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "安顺",
+      "arrive_time": "13:53",
+      "depart_time": "13:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 13,
+      "station_name": "六枝南",
+      "arrive_time": "14:43",
+      "depart_time": "14:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 14,
+      "station_name": "六盘水",
+      "arrive_time": "16:44",
+      "depart_time": "16:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 15,
+      "station_name": "宣威",
+      "arrive_time": "18:59",
+      "depart_time": "18:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 16,
+      "station_name": "曲靖",
+      "arrive_time": "20:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 17,
+      "station_name": "昆明",
+      "arrive_time": "20:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 229.0
+  },
+  "fetched_at": "2026-05-01T09:33:09.689720"
+}

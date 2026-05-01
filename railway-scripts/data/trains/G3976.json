@@ -1,0 +1,59 @@
+{
+  "train_no": "G3976",
+  "train_type": "G",
+  "depart_station": "广州",
+  "arrive_station": "厦门",
+  "depart_time": "23:36",
+  "arrive_time": "01:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "23:36",
+      "depart_time": "23:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州东",
+      "arrive_time": "23:49",
+      "depart_time": "23:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州新塘",
+      "arrive_time": "00:14",
+      "depart_time": "00:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "01:07",
+      "depart_time": "01:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汕头",
+      "arrive_time": "01:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "厦门",
+      "arrive_time": "01:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1392.0,
+    "price_first": 624.0,
+    "price_second": 398.0,
+    "price_no_seat": 398.0
+  },
+  "fetched_at": "2026-05-01T06:52:08.629302"
+}

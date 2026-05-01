@@ -1,0 +1,112 @@
+{
+  "train_no": "K8352",
+  "train_type": "K",
+  "depart_station": "杭州",
+  "arrive_station": "连云港东",
+  "depart_time": "19:09",
+  "arrive_time": "08:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州",
+      "arrive_time": "19:09",
+      "depart_time": "19:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海宁",
+      "arrive_time": "19:50",
+      "depart_time": "19:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "嘉兴",
+      "arrive_time": "20:11",
+      "depart_time": "20:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆山",
+      "arrive_time": "22:00",
+      "depart_time": "22:15",
+      "stay_min": "15"
+    },
+    {
+      "seq": 5,
+      "station_name": "苏州",
+      "arrive_time": "22:39",
+      "depart_time": "22:48",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京",
+      "arrive_time": "01:09",
+      "depart_time": "01:17",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "蚌埠",
+      "arrive_time": "03:15",
+      "depart_time": "03:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "淮北",
+      "arrive_time": "04:49",
+      "depart_time": "04:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "徐州",
+      "arrive_time": "05:39",
+      "depart_time": "05:45",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "邳州东",
+      "arrive_time": "06:41",
+      "depart_time": "06:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "新沂",
+      "arrive_time": "07:10",
+      "depart_time": "07:15",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "东海县",
+      "arrive_time": "07:47",
+      "depart_time": "07:51",
+      "stay_min": "4"
+    },
+    {
+      "seq": 13,
+      "station_name": "连云港",
+      "arrive_time": "08:16",
+      "depart_time": "08:22",
+      "stay_min": "6"
+    },
+    {
+      "seq": 14,
+      "station_name": "连云港东",
+      "arrive_time": "08:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 135.5
+  },
+  "fetched_at": "2026-05-01T10:38:40.863608"
+}

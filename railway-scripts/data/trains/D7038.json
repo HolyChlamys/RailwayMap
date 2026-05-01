@@ -1,0 +1,51 @@
+{
+  "train_no": "D7038",
+  "train_type": "D",
+  "depart_station": "蕲春南",
+  "arrive_station": "武汉东",
+  "depart_time": "18:47",
+  "arrive_time": "19:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "蕲春南",
+      "arrive_time": "18:47",
+      "depart_time": "18:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄冈东",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄冈西",
+      "arrive_time": "19:21",
+      "depart_time": "19:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "葛店南",
+      "arrive_time": "19:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武汉东",
+      "arrive_time": "19:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 101.0,
+    "price_second": 63.0,
+    "price_no_seat": 63.0
+  },
+  "fetched_at": "2026-05-01T04:32:46.622038"
+}

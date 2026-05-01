@@ -1,0 +1,122 @@
+{
+  "train_no": "G2716",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "九江",
+  "depart_time": "08:50",
+  "arrive_time": "15:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "08:50",
+      "depart_time": "08:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞南",
+      "arrive_time": "09:06",
+      "depart_time": "09:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "河源东",
+      "arrive_time": "09:38",
+      "depart_time": "09:43",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "龙川西",
+      "arrive_time": "10:02",
+      "depart_time": "10:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "赣州西",
+      "arrive_time": "10:57",
+      "depart_time": "11:00",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "吉安西",
+      "arrive_time": "11:46",
+      "depart_time": "11:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "新干东",
+      "arrive_time": "12:10",
+      "depart_time": "12:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "南昌东",
+      "arrive_time": "12:46",
+      "depart_time": "12:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "鄱阳",
+      "arrive_time": "13:14",
+      "depart_time": "13:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "乐平北",
+      "arrive_time": "13:27",
+      "depart_time": "13:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "景德镇北",
+      "arrive_time": "13:45",
+      "depart_time": "14:05",
+      "stay_min": "20"
+    },
+    {
+      "seq": 12,
+      "station_name": "鄱阳北",
+      "arrive_time": "14:23",
+      "depart_time": "14:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "都昌",
+      "arrive_time": "14:46",
+      "depart_time": "14:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "湖口",
+      "arrive_time": "15:04",
+      "depart_time": "15:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "九江",
+      "arrive_time": "15:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2093.0,
+    "price_first": 1020.0,
+    "price_second": 638.0,
+    "price_no_seat": 638.0
+  },
+  "fetched_at": "2026-05-01T06:18:21.261824"
+}

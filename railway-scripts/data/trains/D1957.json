@@ -1,0 +1,114 @@
+{
+  "train_no": "D1957",
+  "train_type": "D",
+  "depart_station": "银川",
+  "arrive_station": "成都东",
+  "depart_time": "08:11",
+  "arrive_time": "15:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "08:11",
+      "depart_time": "08:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吴忠",
+      "arrive_time": "08:43",
+      "depart_time": "08:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "环县",
+      "arrive_time": "09:39",
+      "depart_time": "09:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "庆城",
+      "arrive_time": "10:01",
+      "depart_time": "10:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "庆阳",
+      "arrive_time": "10:21",
+      "depart_time": "10:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "宁县",
+      "arrive_time": "10:37",
+      "depart_time": "10:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "西安北",
+      "arrive_time": "11:37",
+      "depart_time": "11:59",
+      "stay_min": "22"
+    },
+    {
+      "seq": 8,
+      "station_name": "佛坪",
+      "arrive_time": "12:45",
+      "depart_time": "12:49",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "汉中",
+      "arrive_time": "13:20",
+      "depart_time": "13:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "广元",
+      "arrive_time": "14:09",
+      "depart_time": "14:13",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "剑门关",
+      "arrive_time": "14:27",
+      "depart_time": "14:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "德阳",
+      "arrive_time": "15:21",
+      "depart_time": "15:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "新都东",
+      "arrive_time": "15:40",
+      "depart_time": "15:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "成都东",
+      "arrive_time": "15:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 951.0,
+    "price_second": 594.0,
+    "price_no_seat": 594.0
+  },
+  "fetched_at": "2026-05-01T03:08:44.549473"
+}

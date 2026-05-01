@@ -1,0 +1,56 @@
+{
+  "train_no": "K4157",
+  "train_type": "K",
+  "depart_station": "周口",
+  "arrive_station": "广州白云",
+  "depart_time": "21:17",
+  "arrive_time": "17:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "周口",
+      "arrive_time": "21:17",
+      "depart_time": "21:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漯河",
+      "arrive_time": "22:07",
+      "depart_time": "22:42",
+      "stay_min": "35"
+    },
+    {
+      "seq": 3,
+      "station_name": "驻马店",
+      "arrive_time": "23:22",
+      "depart_time": "23:27",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "信阳",
+      "arrive_time": "00:29",
+      "depart_time": "00:53",
+      "stay_min": "24"
+    },
+    {
+      "seq": 5,
+      "station_name": "咸宁",
+      "arrive_time": "05:28",
+      "depart_time": "05:38",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "广州白云",
+      "arrive_time": "17:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 180.5
+  },
+  "fetched_at": "2026-05-01T09:49:06.041415"
+}

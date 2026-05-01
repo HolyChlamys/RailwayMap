@@ -1,0 +1,59 @@
+{
+  "train_no": "G9426",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "南京南",
+  "depart_time": "20:19",
+  "arrive_time": "21:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "20:19",
+      "depart_time": "20:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长兴",
+      "arrive_time": "20:46",
+      "depart_time": "20:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜兴",
+      "arrive_time": "21:01",
+      "depart_time": "21:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "溧阳",
+      "arrive_time": "21:17",
+      "depart_time": "21:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "溧水",
+      "arrive_time": "21:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "21:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 493.0,
+    "price_first": 225.0,
+    "price_second": 141.0,
+    "price_no_seat": 141.0
+  },
+  "fetched_at": "2026-05-01T09:13:43.178768"
+}

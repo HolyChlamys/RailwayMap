@@ -1,0 +1,31 @@
+{
+  "train_no": "C9177",
+  "train_type": "C",
+  "depart_station": "贵阳北",
+  "arrive_station": "荔波",
+  "depart_time": "06:37",
+  "arrive_time": "06:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "06:37",
+      "depart_time": "06:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荔波",
+      "arrive_time": "06:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 404.0,
+    "price_first": 186.0,
+    "price_second": 117.0,
+    "price_no_seat": 117.0
+  },
+  "fetched_at": "2026-05-01T02:41:55.716964"
+}

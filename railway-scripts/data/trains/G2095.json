@@ -1,0 +1,192 @@
+{
+  "train_no": "G2095",
+  "train_type": "G",
+  "depart_station": "青岛北",
+  "arrive_station": "兰州西",
+  "depart_time": "10:19",
+  "arrive_time": "22:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "10:19",
+      "depart_time": "10:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛机场",
+      "arrive_time": "10:42",
+      "depart_time": "10:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "胶州北",
+      "arrive_time": "10:51",
+      "depart_time": "10:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "高密北",
+      "arrive_time": "11:06",
+      "depart_time": "11:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "潍坊北",
+      "arrive_time": "11:27",
+      "depart_time": "11:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "淄博北",
+      "arrive_time": "11:56",
+      "depart_time": "12:01",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "济南东",
+      "arrive_time": "12:23",
+      "depart_time": "12:36",
+      "stay_min": "13"
+    },
+    {
+      "seq": 8,
+      "station_name": "平原东",
+      "arrive_time": "13:03",
+      "depart_time": "13:13",
+      "stay_min": "10"
+    },
+    {
+      "seq": 9,
+      "station_name": "德州东",
+      "arrive_time": "13:25",
+      "depart_time": "13:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "景州",
+      "arrive_time": "13:44",
+      "depart_time": "13:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "衡水北",
+      "arrive_time": "14:02",
+      "depart_time": "14:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "辛集南",
+      "arrive_time": "14:21",
+      "depart_time": "14:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "藁城南",
+      "arrive_time": "14:37",
+      "depart_time": "14:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "石家庄",
+      "arrive_time": "15:00",
+      "depart_time": "15:22",
+      "stay_min": "22"
+    },
+    {
+      "seq": 15,
+      "station_name": "邯郸东",
+      "arrive_time": "16:02",
+      "depart_time": "16:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "鹤壁东",
+      "arrive_time": "16:31",
+      "depart_time": "16:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "郑州东",
+      "arrive_time": "17:05",
+      "depart_time": "17:12",
+      "stay_min": "7"
+    },
+    {
+      "seq": 18,
+      "station_name": "洛阳龙门",
+      "arrive_time": "17:51",
+      "depart_time": "17:59",
+      "stay_min": "8"
+    },
+    {
+      "seq": 19,
+      "station_name": "渑池南",
+      "arrive_time": "18:21",
+      "depart_time": "18:26",
+      "stay_min": "5"
+    },
+    {
+      "seq": 20,
+      "station_name": "华山北",
+      "arrive_time": "19:04",
+      "depart_time": "19:09",
+      "stay_min": "5"
+    },
+    {
+      "seq": 21,
+      "station_name": "西安北",
+      "arrive_time": "19:37",
+      "depart_time": "19:42",
+      "stay_min": "5"
+    },
+    {
+      "seq": 22,
+      "station_name": "宝鸡南",
+      "arrive_time": "20:27",
+      "depart_time": "20:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 23,
+      "station_name": "天水南",
+      "arrive_time": "21:10",
+      "depart_time": "21:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 24,
+      "station_name": "定西北",
+      "arrive_time": "22:03",
+      "depart_time": "22:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 25,
+      "station_name": "兰州西",
+      "arrive_time": "22:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3365.0,
+    "price_first": 1601.0,
+    "price_second": 1000.0,
+    "price_no_seat": 1000.0
+  },
+  "fetched_at": "2026-05-01T06:01:37.840272"
+}

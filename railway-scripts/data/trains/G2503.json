@@ -1,0 +1,80 @@
+{
+  "train_no": "G2503",
+  "train_type": "G",
+  "depart_station": "清河",
+  "arrive_station": "包头",
+  "depart_time": "13:24",
+  "arrive_time": "17:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清河",
+      "arrive_time": "13:24",
+      "depart_time": "13:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "八达岭长城",
+      "arrive_time": "13:45",
+      "depart_time": "13:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宣化北",
+      "arrive_time": "14:13",
+      "depart_time": "14:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "张家口",
+      "arrive_time": "14:26",
+      "depart_time": "14:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乌兰察布",
+      "arrive_time": "15:17",
+      "depart_time": "15:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "呼和浩特东",
+      "arrive_time": "15:59",
+      "depart_time": "15:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "呼和浩特",
+      "arrive_time": "16:13",
+      "depart_time": "16:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "包头东",
+      "arrive_time": "17:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "包头",
+      "arrive_time": "17:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 772.5,
+    "price_first": 413.0,
+    "price_second": 257.5,
+    "price_no_seat": 257.5
+  },
+  "fetched_at": "2026-05-01T06:12:12.915699"
+}

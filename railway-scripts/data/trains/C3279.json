@@ -1,0 +1,38 @@
+{
+  "train_no": "C3279",
+  "train_type": "C",
+  "depart_station": "南京南",
+  "arrive_station": "宁波",
+  "depart_time": "00:23",
+  "arrive_time": "01:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "00:23",
+      "depart_time": "00:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "01:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宁波",
+      "arrive_time": "01:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 791.0,
+    "price_first": 361.0,
+    "price_second": 226.0,
+    "price_no_seat": 226.0
+  },
+  "fetched_at": "2026-05-01T00:55:51.803473"
+}

@@ -1,0 +1,30 @@
+{
+  "train_no": "C3090",
+  "train_type": "C",
+  "depart_station": "上海",
+  "arrive_station": "扬州东",
+  "depart_time": "01:13",
+  "arrive_time": "01:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "01:13",
+      "depart_time": "01:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "扬州东",
+      "arrive_time": "01:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 251.0,
+    "price_second": 157.0,
+    "price_no_seat": 157.0
+  },
+  "fetched_at": "2026-05-01T00:50:44.404311"
+}

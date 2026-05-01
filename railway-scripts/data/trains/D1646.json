@@ -1,0 +1,93 @@
+{
+  "train_no": "D1646",
+  "train_type": "D",
+  "depart_station": "运城北",
+  "arrive_station": "济南西",
+  "depart_time": "16:58",
+  "arrive_time": "22:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "运城北",
+      "arrive_time": "16:58",
+      "depart_time": "16:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "闻喜西",
+      "arrive_time": "17:12",
+      "depart_time": "17:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "霍州东",
+      "arrive_time": "18:00",
+      "depart_time": "18:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "太谷西",
+      "arrive_time": "18:40",
+      "depart_time": "18:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "太原南",
+      "arrive_time": "19:03",
+      "depart_time": "19:11",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "阳泉北",
+      "arrive_time": "19:57",
+      "depart_time": "20:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "石家庄",
+      "arrive_time": "20:40",
+      "depart_time": "20:46",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "辛集南",
+      "arrive_time": "21:14",
+      "depart_time": "21:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "衡水北",
+      "arrive_time": "21:32",
+      "depart_time": "21:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "德州东",
+      "arrive_time": "22:01",
+      "depart_time": "22:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "济南西",
+      "arrive_time": "22:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 525.0,
+    "price_second": 328.0,
+    "price_no_seat": 328.0
+  },
+  "fetched_at": "2026-05-01T03:02:03.519307"
+}

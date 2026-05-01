@@ -1,0 +1,98 @@
+{
+  "train_no": "K5521",
+  "train_type": "K",
+  "depart_station": "菏泽",
+  "arrive_station": "青岛北",
+  "depart_time": "09:00",
+  "arrive_time": "19:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "菏泽",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉祥",
+      "arrive_time": "09:52",
+      "depart_time": "09:57",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "济宁",
+      "arrive_time": "10:14",
+      "depart_time": "10:19",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "兖州",
+      "arrive_time": "10:48",
+      "depart_time": "11:35",
+      "stay_min": "47"
+    },
+    {
+      "seq": 5,
+      "station_name": "磁窑",
+      "arrive_time": "12:09",
+      "depart_time": "12:14",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "泰山",
+      "arrive_time": "12:38",
+      "depart_time": "12:48",
+      "stay_min": "10"
+    },
+    {
+      "seq": 7,
+      "station_name": "济南",
+      "arrive_time": "13:43",
+      "depart_time": "14:06",
+      "stay_min": "23"
+    },
+    {
+      "seq": 8,
+      "station_name": "淄博",
+      "arrive_time": "15:23",
+      "depart_time": "15:32",
+      "stay_min": "9"
+    },
+    {
+      "seq": 9,
+      "station_name": "潍坊",
+      "arrive_time": "16:34",
+      "depart_time": "16:46",
+      "stay_min": "12"
+    },
+    {
+      "seq": 10,
+      "station_name": "胶州",
+      "arrive_time": "17:48",
+      "depart_time": "17:58",
+      "stay_min": "10"
+    },
+    {
+      "seq": 11,
+      "station_name": "蓝村",
+      "arrive_time": "18:14",
+      "depart_time": "18:42",
+      "stay_min": "28"
+    },
+    {
+      "seq": 12,
+      "station_name": "青岛北",
+      "arrive_time": "19:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 93.0
+  },
+  "fetched_at": "2026-05-01T10:12:34.439023"
+}

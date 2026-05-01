@@ -1,0 +1,80 @@
+{
+  "train_no": "C3216",
+  "train_type": "C",
+  "depart_station": "安庆",
+  "arrive_station": "泗县东",
+  "depart_time": "17:28",
+  "arrive_time": "19:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安庆",
+      "arrive_time": "17:28",
+      "depart_time": "17:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桐城南",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桐城东",
+      "arrive_time": "18:02",
+      "depart_time": "18:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "庐江西",
+      "arrive_time": "18:15",
+      "depart_time": "18:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥西",
+      "arrive_time": "18:51",
+      "depart_time": "18:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "定远东",
+      "arrive_time": "19:25",
+      "depart_time": "19:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "明光西",
+      "arrive_time": "19:39",
+      "depart_time": "19:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "五河",
+      "arrive_time": "19:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "泗县东",
+      "arrive_time": "19:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 925.0,
+    "price_first": 423.0,
+    "price_second": 264.0,
+    "price_no_seat": 264.0
+  },
+  "fetched_at": "2026-05-01T00:54:14.886699"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "G8629",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "綦江东",
+  "depart_time": "20:22",
+  "arrive_time": "21:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "21:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "綦江东",
+      "arrive_time": "21:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 654.0,
+    "price_first": 305.0,
+    "price_second": 190.0,
+    "price_no_seat": 190.0
+  },
+  "fetched_at": "2026-05-01T08:56:20.703027"
+}

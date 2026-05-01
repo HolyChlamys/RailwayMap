@@ -1,0 +1,58 @@
+{
+  "train_no": "C9947",
+  "train_type": "C",
+  "depart_station": "汕头",
+  "arrive_station": "深圳北",
+  "depart_time": "22:15",
+  "arrive_time": "00:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "22:15",
+      "depart_time": "22:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "22:38",
+      "depart_time": "22:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "潮阳",
+      "arrive_time": "22:52",
+      "depart_time": "22:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "陆丰",
+      "arrive_time": "23:20",
+      "depart_time": "23:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "23:36",
+      "depart_time": "23:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "00:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 237.0,
+    "price_second": 148.0,
+    "price_no_seat": 148.0
+  },
+  "fetched_at": "2026-05-01T02:55:00.935496"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G3579",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "南宁东",
+  "depart_time": "18:47",
+  "arrive_time": "21:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "18:47",
+      "depart_time": "18:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙里北",
+      "arrive_time": "19:14",
+      "depart_time": "19:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "河池西",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁北",
+      "arrive_time": "21:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南宁东",
+      "arrive_time": "21:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 964.0,
+    "price_first": 441.0,
+    "price_second": 275.0,
+    "price_no_seat": 275.0
+  },
+  "fetched_at": "2026-05-01T06:41:49.908683"
+}

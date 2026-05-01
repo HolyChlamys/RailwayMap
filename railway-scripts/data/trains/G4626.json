@@ -1,0 +1,51 @@
+{
+  "train_no": "G4626",
+  "train_type": "G",
+  "depart_station": "广州东",
+  "arrive_station": "南昌东",
+  "depart_time": "03:10",
+  "arrive_time": "05:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "03:10",
+      "depart_time": "03:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "03:35",
+      "depart_time": "03:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "04:06",
+      "depart_time": "04:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州西",
+      "arrive_time": "05:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌东",
+      "arrive_time": "05:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 833.0,
+    "price_second": 528.0,
+    "price_no_seat": 528.0
+  },
+  "fetched_at": "2026-05-01T07:10:49.979623"
+}

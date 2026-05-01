@@ -1,0 +1,77 @@
+{
+  "train_no": "K4957",
+  "train_type": "K",
+  "depart_station": "九江",
+  "arrive_station": "广州白云",
+  "depart_time": "07:26",
+  "arrive_time": "00:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "九江",
+      "arrive_time": "07:26",
+      "depart_time": "07:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌",
+      "arrive_time": "09:45",
+      "depart_time": "10:03",
+      "stay_min": "18"
+    },
+    {
+      "seq": 3,
+      "station_name": "向塘",
+      "arrive_time": "10:25",
+      "depart_time": "10:30",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "新干",
+      "arrive_time": "11:52",
+      "depart_time": "11:56",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "吉安",
+      "arrive_time": "12:49",
+      "depart_time": "12:54",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "泰和",
+      "arrive_time": "13:16",
+      "depart_time": "13:33",
+      "stay_min": "17"
+    },
+    {
+      "seq": 7,
+      "station_name": "赣州",
+      "arrive_time": "15:23",
+      "depart_time": "15:30",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "信丰",
+      "arrive_time": "16:11",
+      "depart_time": "16:16",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "广州白云",
+      "arrive_time": "00:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 158.5
+  },
+  "fetched_at": "2026-05-01T10:00:48.583030"
+}

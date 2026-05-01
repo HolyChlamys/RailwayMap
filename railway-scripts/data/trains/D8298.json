@@ -1,0 +1,37 @@
+{
+  "train_no": "D8298",
+  "train_type": "D",
+  "depart_station": "桂林北",
+  "arrive_station": "全州南",
+  "depart_time": "08:15",
+  "arrive_time": "08:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "桂林北",
+      "arrive_time": "08:15",
+      "depart_time": "08:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴安北",
+      "arrive_time": "08:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "全州南",
+      "arrive_time": "08:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 54.0,
+    "price_second": 33.5,
+    "price_no_seat": 33.5
+  },
+  "fetched_at": "2026-05-01T04:53:34.176391"
+}

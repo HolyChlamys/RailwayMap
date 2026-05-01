@@ -1,0 +1,31 @@
+{
+  "train_no": "C139",
+  "train_type": "C",
+  "depart_station": "安康",
+  "arrive_station": "西安",
+  "depart_time": "14:50",
+  "arrive_time": "16:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安康",
+      "arrive_time": "14:50",
+      "depart_time": "14:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西安",
+      "arrive_time": "16:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 258.0,
+    "price_first": 118.0,
+    "price_second": 74.0,
+    "price_no_seat": 74.0
+  },
+  "fetched_at": "2026-05-01T00:25:41.339566"
+}

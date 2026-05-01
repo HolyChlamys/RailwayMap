@@ -1,0 +1,100 @@
+{
+  "train_no": "D2865",
+  "train_type": "D",
+  "depart_station": "青岛北",
+  "arrive_station": "南京南",
+  "depart_time": "13:21",
+  "arrive_time": "18:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "13:21",
+      "depart_time": "13:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "红岛",
+      "arrive_time": "13:36",
+      "depart_time": "13:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "青岛西",
+      "arrive_time": "14:02",
+      "depart_time": "14:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "日照西",
+      "arrive_time": "14:34",
+      "depart_time": "14:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "岚山西",
+      "arrive_time": "14:50",
+      "depart_time": "14:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "连云港",
+      "arrive_time": "15:26",
+      "depart_time": "15:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "灌南",
+      "arrive_time": "15:58",
+      "depart_time": "16:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "淮安东",
+      "arrive_time": "16:21",
+      "depart_time": "16:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "高邮",
+      "arrive_time": "16:52",
+      "depart_time": "16:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "扬州东",
+      "arrive_time": "17:09",
+      "depart_time": "17:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "镇江",
+      "arrive_time": "17:41",
+      "depart_time": "17:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "南京南",
+      "arrive_time": "18:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 453.0,
+    "price_second": 283.0,
+    "price_no_seat": 283.0
+  },
+  "fetched_at": "2026-05-01T03:24:48.739530"
+}

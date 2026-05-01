@@ -1,0 +1,59 @@
+{
+  "train_no": "G398",
+  "train_type": "G",
+  "depart_station": "珠海",
+  "arrive_station": "武汉",
+  "depart_time": "15:09",
+  "arrive_time": "18:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海",
+      "arrive_time": "15:09",
+      "depart_time": "15:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "中山",
+      "arrive_time": "15:34",
+      "depart_time": "15:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "16:09",
+      "depart_time": "16:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郴州西",
+      "arrive_time": "17:25",
+      "depart_time": "17:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "长沙南",
+      "arrive_time": "18:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "武汉",
+      "arrive_time": "18:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2140.0,
+    "price_first": 975.0,
+    "price_second": 623.0,
+    "price_no_seat": 623.0
+  },
+  "fetched_at": "2026-05-01T06:52:13.575413"
+}

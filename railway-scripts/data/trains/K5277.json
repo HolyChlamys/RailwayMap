@@ -1,0 +1,42 @@
+{
+  "train_no": "K5277",
+  "train_type": "K",
+  "depart_station": "北京丰台",
+  "arrive_station": "德州",
+  "depart_time": "15:36",
+  "arrive_time": "18:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京丰台",
+      "arrive_time": "15:36",
+      "depart_time": "15:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天津西",
+      "arrive_time": "17:02",
+      "depart_time": "17:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "沧州",
+      "arrive_time": "18:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "德州",
+      "arrive_time": "18:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 53.5
+  },
+  "fetched_at": "2026-05-01T10:07:26.067396"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "G8347",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "南京南",
+  "depart_time": "18:12",
+  "arrive_time": "21:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "18:12",
+      "depart_time": "18:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肥西",
+      "arrive_time": "18:24",
+      "depart_time": "18:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "舒城东",
+      "arrive_time": "18:38",
+      "depart_time": "18:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "庐江西",
+      "arrive_time": "18:52",
+      "depart_time": "18:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "桐城东",
+      "arrive_time": "19:05",
+      "depart_time": "19:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "安庆",
+      "arrive_time": "19:33",
+      "depart_time": "19:37",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "池州",
+      "arrive_time": "19:54",
+      "depart_time": "19:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "芜湖",
+      "arrive_time": "20:37",
+      "depart_time": "20:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "南京南",
+      "arrive_time": "21:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 757.0,
+    "price_first": 346.0,
+    "price_second": 217.0,
+    "price_no_seat": 217.0
+  },
+  "fetched_at": "2026-05-01T08:48:26.694961"
+}

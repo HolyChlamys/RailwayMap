@@ -1,0 +1,80 @@
+{
+  "train_no": "G1451",
+  "train_type": "G",
+  "depart_station": "杭州西",
+  "arrive_station": "武汉",
+  "depart_time": "16:47",
+  "arrive_time": "21:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "16:47",
+      "depart_time": "16:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "建德南",
+      "arrive_time": "17:30",
+      "depart_time": "17:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "衢州西",
+      "arrive_time": "17:53",
+      "depart_time": "17:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "常山",
+      "arrive_time": "18:14",
+      "depart_time": "18:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "九江",
+      "arrive_time": "20:19",
+      "depart_time": "20:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "阳新",
+      "arrive_time": "20:55",
+      "depart_time": "20:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "大冶北",
+      "arrive_time": "21:12",
+      "depart_time": "21:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "黄石北",
+      "arrive_time": "21:21",
+      "depart_time": "21:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "武汉",
+      "arrive_time": "21:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1190.0,
+    "price_first": 599.0,
+    "price_second": 375.0,
+    "price_no_seat": 375.0
+  },
+  "fetched_at": "2026-05-01T05:43:26.176004"
+}

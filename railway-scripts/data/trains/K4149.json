@@ -1,0 +1,42 @@
+{
+  "train_no": "K4149",
+  "train_type": "K",
+  "depart_station": "娄底",
+  "arrive_station": "重庆北",
+  "depart_time": "13:02",
+  "arrive_time": "01:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "娄底",
+      "arrive_time": "13:02",
+      "depart_time": "13:02",
+      "stay_min": "6"
+    },
+    {
+      "seq": 2,
+      "station_name": "秀山",
+      "arrive_time": "20:17",
+      "depart_time": "20:23",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "黔江",
+      "arrive_time": "21:47",
+      "depart_time": "21:56",
+      "stay_min": "9"
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆北",
+      "arrive_time": "01:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 198.0
+  },
+  "fetched_at": "2026-05-01T09:48:54.332727"
+}

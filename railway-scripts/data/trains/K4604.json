@@ -1,0 +1,70 @@
+{
+  "train_no": "K4604",
+  "train_type": "K",
+  "depart_station": "广州",
+  "arrive_station": "宝鸡",
+  "depart_time": "23:46",
+  "arrive_time": "06:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州",
+      "arrive_time": "23:46",
+      "depart_time": "23:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "襄阳",
+      "arrive_time": "16:48",
+      "depart_time": "17:14",
+      "stay_min": "26"
+    },
+    {
+      "seq": 3,
+      "station_name": "南阳",
+      "arrive_time": "18:59",
+      "depart_time": "19:04",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "鲁山",
+      "arrive_time": "20:16",
+      "depart_time": "20:20",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "汝州",
+      "arrive_time": "21:10",
+      "depart_time": "21:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "洛阳",
+      "arrive_time": "22:21",
+      "depart_time": "22:45",
+      "stay_min": "24"
+    },
+    {
+      "seq": 7,
+      "station_name": "西安",
+      "arrive_time": "04:18",
+      "depart_time": "04:26",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "宝鸡",
+      "arrive_time": "06:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 251.0
+  },
+  "fetched_at": "2026-05-01T09:56:17.169576"
+}

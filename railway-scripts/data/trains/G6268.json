@@ -1,0 +1,66 @@
+{
+  "train_no": "G6268",
+  "train_type": "G",
+  "depart_station": "汕头",
+  "arrive_station": "深圳北",
+  "depart_time": "17:33",
+  "arrive_time": "20:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "17:33",
+      "depart_time": "17:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "17:57",
+      "depart_time": "18:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "普宁",
+      "arrive_time": "18:18",
+      "depart_time": "18:30",
+      "stay_min": "12"
+    },
+    {
+      "seq": 4,
+      "station_name": "陆丰",
+      "arrive_time": "18:50",
+      "depart_time": "18:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "惠阳",
+      "arrive_time": "19:30",
+      "depart_time": "19:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳坪山",
+      "arrive_time": "19:41",
+      "depart_time": "19:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳北",
+      "arrive_time": "20:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 519.0,
+    "price_first": 237.0,
+    "price_second": 148.0,
+    "price_no_seat": 148.0
+  },
+  "fetched_at": "2026-05-01T07:53:45.366387"
+}

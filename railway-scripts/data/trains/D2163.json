@@ -1,0 +1,58 @@
+{
+  "train_no": "D2163",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "青岛",
+  "depart_time": "14:11",
+  "arrive_time": "19:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "14:11",
+      "depart_time": "14:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "盐城",
+      "arrive_time": "15:55",
+      "depart_time": "15:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "连云港",
+      "arrive_time": "17:07",
+      "depart_time": "17:13",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "日照西",
+      "arrive_time": "17:54",
+      "depart_time": "17:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "青岛北",
+      "arrive_time": "18:56",
+      "depart_time": "18:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "青岛",
+      "arrive_time": "19:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 506.0,
+    "price_second": 318.0,
+    "price_no_seat": 318.0
+  },
+  "fetched_at": "2026-05-01T03:11:21.768359"
+}

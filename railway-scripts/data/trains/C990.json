@@ -1,0 +1,31 @@
+{
+  "train_no": "C990",
+  "train_type": "C",
+  "depart_station": "香格里拉",
+  "arrive_station": "丽江",
+  "depart_time": "20:00",
+  "arrive_time": "20:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香格里拉",
+      "arrive_time": "20:00",
+      "depart_time": "20:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丽江",
+      "arrive_time": "20:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 243.0,
+    "price_first": 111.0,
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T02:53:38.387186"
+}

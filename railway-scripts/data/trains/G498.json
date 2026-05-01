@@ -1,0 +1,73 @@
+{
+  "train_no": "G498",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "上海虹桥",
+  "depart_time": "06:52",
+  "arrive_time": "11:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "06:52",
+      "depart_time": "06:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兰考南",
+      "arrive_time": "07:23",
+      "depart_time": "07:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "商丘",
+      "arrive_time": "07:49",
+      "depart_time": "07:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "萧县北",
+      "arrive_time": "08:29",
+      "depart_time": "08:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "徐州东",
+      "arrive_time": "08:49",
+      "depart_time": "09:06",
+      "stay_min": "17"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "10:13",
+      "depart_time": "10:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "苏州北",
+      "arrive_time": "10:59",
+      "depart_time": "11:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "上海虹桥",
+      "arrive_time": "11:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1703.0,
+    "price_first": 804.5,
+    "price_second": 502.5,
+    "price_no_seat": 502.5
+  },
+  "fetched_at": "2026-05-01T07:21:37.350665"
+}

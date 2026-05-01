@@ -1,0 +1,73 @@
+{
+  "train_no": "G3415",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "济南东",
+  "depart_time": "06:34",
+  "arrive_time": "14:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "06:34",
+      "depart_time": "06:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广元",
+      "arrive_time": "07:57",
+      "depart_time": "08:01",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "西安北",
+      "arrive_time": "09:52",
+      "depart_time": "09:58",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "11:50",
+      "depart_time": "12:02",
+      "stay_min": "12"
+    },
+    {
+      "seq": 5,
+      "station_name": "新乡东",
+      "arrive_time": "12:27",
+      "depart_time": "12:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "濮阳东",
+      "arrive_time": "13:01",
+      "depart_time": "13:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "济南西",
+      "arrive_time": "13:56",
+      "depart_time": "14:05",
+      "stay_min": "9"
+    },
+    {
+      "seq": 8,
+      "station_name": "济南东",
+      "arrive_time": "14:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2972.0,
+    "price_first": 1363.0,
+    "price_second": 851.0,
+    "price_no_seat": 851.0
+  },
+  "fetched_at": "2026-05-01T06:37:22.341604"
+}

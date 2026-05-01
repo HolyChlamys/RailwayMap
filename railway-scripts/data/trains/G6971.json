@@ -1,0 +1,59 @@
+{
+  "train_no": "G6971",
+  "train_type": "G",
+  "depart_station": "济南西",
+  "arrive_station": "青岛北",
+  "depart_time": "06:06",
+  "arrive_time": "07:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "06:06",
+      "depart_time": "06:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南",
+      "arrive_time": "06:25",
+      "depart_time": "06:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "济南东",
+      "arrive_time": "06:50",
+      "depart_time": "06:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "章丘北",
+      "arrive_time": "07:08",
+      "depart_time": "07:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "青州市北",
+      "arrive_time": "07:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "青岛北",
+      "arrive_time": "07:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 534.0,
+    "price_first": 275.0,
+    "price_second": 172.0,
+    "price_no_seat": 172.0
+  },
+  "fetched_at": "2026-05-01T08:14:03.050626"
+}

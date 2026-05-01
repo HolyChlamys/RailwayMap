@@ -1,0 +1,66 @@
+{
+  "train_no": "C377",
+  "train_type": "C",
+  "depart_station": "保山",
+  "arrive_station": "香格里拉",
+  "depart_time": "09:55",
+  "arrive_time": "15:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "保山",
+      "arrive_time": "09:55",
+      "depart_time": "09:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永平县",
+      "arrive_time": "10:22",
+      "depart_time": "10:26",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "漾濞",
+      "arrive_time": "11:06",
+      "depart_time": "11:11",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "大理",
+      "arrive_time": "11:39",
+      "depart_time": "11:47",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "丽江",
+      "arrive_time": "14:15",
+      "depart_time": "14:23",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "小中甸",
+      "arrive_time": "15:20",
+      "depart_time": "15:29",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "香格里拉",
+      "arrive_time": "15:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 715.0,
+    "price_first": 344.0,
+    "price_second": 217.0,
+    "price_no_seat": 217.0
+  },
+  "fetched_at": "2026-05-01T01:03:42.504648"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "D5459",
+  "train_type": "D",
+  "depart_station": "南京",
+  "arrive_station": "盐城",
+  "depart_time": "11:38",
+  "arrive_time": "14:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "11:38",
+      "depart_time": "11:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "仙林",
+      "arrive_time": "11:48",
+      "depart_time": "11:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "镇江",
+      "arrive_time": "12:07",
+      "depart_time": "12:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "大港南",
+      "arrive_time": "12:25",
+      "depart_time": "12:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "扬州东",
+      "arrive_time": "12:45",
+      "depart_time": "12:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "高邮",
+      "arrive_time": "13:02",
+      "depart_time": "13:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "宝应",
+      "arrive_time": "13:20",
+      "depart_time": "13:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "阜宁南",
+      "arrive_time": "13:48",
+      "depart_time": "13:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "盐城",
+      "arrive_time": "14:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 555.0,
+    "price_first": 264.0,
+    "price_second": 165.0,
+    "price_no_seat": 165.0
+  },
+  "fetched_at": "2026-05-01T04:07:18.720403"
+}

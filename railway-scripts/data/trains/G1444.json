@@ -1,0 +1,73 @@
+{
+  "train_no": "G1444",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "杭州西",
+  "depart_time": "12:25",
+  "arrive_time": "18:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "12:25",
+      "depart_time": "12:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉",
+      "arrive_time": "13:48",
+      "depart_time": "13:54",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "15:34",
+      "depart_time": "15:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "16:32",
+      "depart_time": "16:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "溧水",
+      "arrive_time": "16:50",
+      "depart_time": "16:55",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "宜兴",
+      "arrive_time": "17:17",
+      "depart_time": "17:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "长兴",
+      "arrive_time": "17:31",
+      "depart_time": "17:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "杭州西",
+      "arrive_time": "18:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1974.0,
+    "price_first": 913.0,
+    "price_second": 571.0,
+    "price_no_seat": 571.0
+  },
+  "fetched_at": "2026-05-01T05:43:12.927784"
+}

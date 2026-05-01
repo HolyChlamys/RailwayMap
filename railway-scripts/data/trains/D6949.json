@@ -1,0 +1,38 @@
+{
+  "train_no": "D6949",
+  "train_type": "D",
+  "depart_station": "哈尔滨西",
+  "arrive_station": "大庆东",
+  "depart_time": "15:20",
+  "arrive_time": "16:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨西",
+      "arrive_time": "15:20",
+      "depart_time": "15:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安达",
+      "arrive_time": "16:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大庆东",
+      "arrive_time": "16:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 163.0,
+    "price_first": 87.0,
+    "price_second": 54.0,
+    "price_no_seat": 54.0
+  },
+  "fetched_at": "2026-05-01T04:31:29.083181"
+}

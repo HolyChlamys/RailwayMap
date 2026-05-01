@@ -1,0 +1,51 @@
+{
+  "train_no": "D2750",
+  "train_type": "D",
+  "depart_station": "嘉峪关南",
+  "arrive_station": "兰州西",
+  "depart_time": "17:30",
+  "arrive_time": "20:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "嘉峪关南",
+      "arrive_time": "17:30",
+      "depart_time": "17:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "酒泉南",
+      "arrive_time": "17:42",
+      "depart_time": "17:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "张掖西",
+      "arrive_time": "18:49",
+      "depart_time": "18:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西宁",
+      "arrive_time": "20:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "兰州西",
+      "arrive_time": "20:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 344.0,
+    "price_second": 215.0,
+    "price_no_seat": 215.0
+  },
+  "fetched_at": "2026-05-01T03:22:15.747496"
+}

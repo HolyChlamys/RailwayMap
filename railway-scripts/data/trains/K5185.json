@@ -1,0 +1,35 @@
+{
+  "train_no": "K5185",
+  "train_type": "K",
+  "depart_station": "五常",
+  "arrive_station": "香坊",
+  "depart_time": "11:50",
+  "arrive_time": "12:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "五常",
+      "arrive_time": "11:50",
+      "depart_time": "11:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "拉林",
+      "arrive_time": "12:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "香坊",
+      "arrive_time": "12:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 16.5
+  },
+  "fetched_at": "2026-05-01T10:05:48.928045"
+}

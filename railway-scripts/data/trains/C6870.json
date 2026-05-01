@@ -1,0 +1,43 @@
+{
+  "train_no": "C6870",
+  "train_type": "C",
+  "depart_station": "飞霞",
+  "arrive_station": "广州  白云",
+  "depart_time": "06:12",
+  "arrive_time": "06:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "飞霞",
+      "arrive_time": "06:12",
+      "depart_time": "06:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "清城",
+      "arrive_time": "06:24",
+      "depart_time": "06:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "花都",
+      "arrive_time": "06:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州  白云",
+      "arrive_time": "06:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 36.0,
+    "price_no_seat": 36.0
+  },
+  "fetched_at": "2026-05-01T01:58:58.494794"
+}

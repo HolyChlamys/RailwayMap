@@ -1,0 +1,42 @@
+{
+  "train_no": "K9579",
+  "train_type": "K",
+  "depart_station": "重庆北",
+  "arrive_station": "阆中",
+  "depart_time": "19:37",
+  "arrive_time": "21:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "19:37",
+      "depart_time": "19:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合川",
+      "arrive_time": "20:29",
+      "depart_time": "20:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南充北",
+      "arrive_time": "21:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阆中",
+      "arrive_time": "21:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:47:18.320658"
+}

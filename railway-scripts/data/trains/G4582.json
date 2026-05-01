@@ -1,0 +1,45 @@
+{
+  "train_no": "G4582",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "安阳东",
+  "depart_time": "03:50",
+  "arrive_time": "08:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "03:50",
+      "depart_time": "03:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "05:01",
+      "depart_time": "05:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "08:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安阳东",
+      "arrive_time": "08:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2038.5,
+    "price_first": 958.5,
+    "price_second": 598.5,
+    "price_no_seat": 598.5
+  },
+  "fetched_at": "2026-05-01T07:09:30.128460"
+}

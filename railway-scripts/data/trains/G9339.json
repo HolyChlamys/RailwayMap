@@ -1,0 +1,59 @@
+{
+  "train_no": "G9339",
+  "train_type": "G",
+  "depart_station": "济南西",
+  "arrive_station": "菏泽东",
+  "depart_time": "06:06",
+  "arrive_time": "07:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "06:06",
+      "depart_time": "06:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰安",
+      "arrive_time": "06:28",
+      "depart_time": "06:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "曲阜东",
+      "arrive_time": "06:49",
+      "depart_time": "06:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "嘉祥北",
+      "arrive_time": "07:19",
+      "depart_time": "07:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "巨野北",
+      "arrive_time": "07:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "菏泽东",
+      "arrive_time": "07:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 564.0,
+    "price_first": 258.0,
+    "price_second": 161.0,
+    "price_no_seat": 161.0
+  },
+  "fetched_at": "2026-05-01T09:11:53.265443"
+}

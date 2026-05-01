@@ -1,0 +1,52 @@
+{
+  "train_no": "C7255",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "潮汕",
+  "depart_time": "20:49",
+  "arrive_time": "23:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "20:49",
+      "depart_time": "20:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "虎门",
+      "arrive_time": "21:06",
+      "depart_time": "21:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "21:26",
+      "depart_time": "21:32",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "普宁",
+      "arrive_time": "22:44",
+      "depart_time": "22:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "潮汕",
+      "arrive_time": "23:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 673.5,
+    "price_first": 316.5,
+    "price_second": 209.5,
+    "price_no_seat": 209.5
+  },
+  "fetched_at": "2026-05-01T02:10:16.885847"
+}

@@ -1,0 +1,122 @@
+{
+  "train_no": "G8322",
+  "train_type": "G",
+  "depart_station": "杭州西",
+  "arrive_station": "黄山西",
+  "depart_time": "09:32",
+  "arrive_time": "15:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "09:32",
+      "depart_time": "09:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "湖州东",
+      "arrive_time": "09:59",
+      "depart_time": "10:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "湖州南浔",
+      "arrive_time": "10:11",
+      "depart_time": "10:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "上海松江",
+      "arrive_time": "10:38",
+      "depart_time": "10:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "上海虹桥",
+      "arrive_time": "10:58",
+      "depart_time": "11:03",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "昆山南",
+      "arrive_time": "11:22",
+      "depart_time": "11:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "苏州",
+      "arrive_time": "11:35",
+      "depart_time": "11:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "无锡",
+      "arrive_time": "11:52",
+      "depart_time": "11:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "常州",
+      "arrive_time": "12:08",
+      "depart_time": "12:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "南京南",
+      "arrive_time": "12:56",
+      "depart_time": "13:02",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "马鞍山东",
+      "arrive_time": "13:18",
+      "depart_time": "13:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "芜湖",
+      "arrive_time": "13:37",
+      "depart_time": "13:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "宣城",
+      "arrive_time": "14:07",
+      "depart_time": "14:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "黄山北",
+      "arrive_time": "14:54",
+      "depart_time": "14:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "黄山西",
+      "arrive_time": "15:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1789.0,
+    "price_first": 829.0,
+    "price_second": 518.0,
+    "price_no_seat": 518.0
+  },
+  "fetched_at": "2026-05-01T08:48:00.005577"
+}

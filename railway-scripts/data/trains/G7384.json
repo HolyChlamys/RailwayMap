@@ -1,0 +1,38 @@
+{
+  "train_no": "G7384",
+  "train_type": "G",
+  "depart_station": "义乌",
+  "arrive_station": "杭州东",
+  "depart_time": "07:22",
+  "arrive_time": "07:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "义乌",
+      "arrive_time": "07:22",
+      "depart_time": "07:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "诸暨",
+      "arrive_time": "07:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "07:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 210.0,
+    "price_first": 96.0,
+    "price_second": 60.0,
+    "price_no_seat": 60.0
+  },
+  "fetched_at": "2026-05-01T08:25:57.890535"
+}

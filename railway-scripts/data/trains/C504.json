@@ -1,0 +1,65 @@
+{
+  "train_no": "C504",
+  "train_type": "C",
+  "depart_station": "白城",
+  "arrive_station": "长春",
+  "depart_time": "10:33",
+  "arrive_time": "13:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "白城",
+      "arrive_time": "10:33",
+      "depart_time": "10:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安广",
+      "arrive_time": "11:15",
+      "depart_time": "11:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "两家",
+      "arrive_time": "11:28",
+      "depart_time": "11:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大安",
+      "arrive_time": "11:46",
+      "depart_time": "11:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "松原",
+      "arrive_time": "12:22",
+      "depart_time": "12:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "农安",
+      "arrive_time": "13:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长春",
+      "arrive_time": "13:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 197.0,
+    "price_second": 123.0,
+    "price_no_seat": 123.0
+  },
+  "fetched_at": "2026-05-01T01:24:53.336928"
+}

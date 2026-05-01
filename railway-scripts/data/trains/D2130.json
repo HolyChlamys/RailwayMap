@@ -1,0 +1,65 @@
+{
+  "train_no": "D2130",
+  "train_type": "D",
+  "depart_station": "连云港",
+  "arrive_station": "济南东",
+  "depart_time": "19:17",
+  "arrive_time": "22:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "连云港",
+      "arrive_time": "19:17",
+      "depart_time": "19:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "赣榆",
+      "arrive_time": "19:35",
+      "depart_time": "19:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "日照西",
+      "arrive_time": "20:11",
+      "depart_time": "20:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "青岛西",
+      "arrive_time": "20:42",
+      "depart_time": "20:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "潍坊北",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "淄博北",
+      "arrive_time": "22:15",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "济南东",
+      "arrive_time": "22:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 351.0,
+    "price_second": 220.0,
+    "price_no_seat": 220.0
+  },
+  "fetched_at": "2026-05-01T03:10:30.399654"
+}

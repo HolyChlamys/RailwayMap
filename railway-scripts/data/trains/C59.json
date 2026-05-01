@@ -1,0 +1,45 @@
+{
+  "train_no": "C59",
+  "train_type": "C",
+  "depart_station": "成都南",
+  "arrive_station": "西昌西",
+  "depart_time": "15:31",
+  "arrive_time": "17:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "15:31",
+      "depart_time": "15:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "峨边南",
+      "arrive_time": "17:03",
+      "depart_time": "17:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "越西",
+      "arrive_time": "17:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西昌西",
+      "arrive_time": "17:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 522.0,
+    "price_first": 239.0,
+    "price_second": 149.0,
+    "price_no_seat": 149.0
+  },
+  "fetched_at": "2026-05-01T01:41:36.886151"
+}

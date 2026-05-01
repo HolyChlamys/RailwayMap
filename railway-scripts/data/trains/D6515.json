@@ -1,0 +1,51 @@
+{
+  "train_no": "D6515",
+  "train_type": "D",
+  "depart_station": "九江",
+  "arrive_station": "南城",
+  "depart_time": "10:07",
+  "arrive_time": "12:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "九江",
+      "arrive_time": "10:07",
+      "depart_time": "10:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "共青城",
+      "arrive_time": "10:34",
+      "depart_time": "10:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌",
+      "arrive_time": "11:13",
+      "depart_time": "11:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "抚州",
+      "arrive_time": "12:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南城",
+      "arrive_time": "12:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 151.0,
+    "price_second": 94.0,
+    "price_no_seat": 94.0
+  },
+  "fetched_at": "2026-05-01T04:23:59.742433"
+}

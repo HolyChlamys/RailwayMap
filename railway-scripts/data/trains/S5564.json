@@ -1,0 +1,65 @@
+{
+  "train_no": "S5564",
+  "train_type": "S",
+  "depart_station": "重庆西",
+  "arrive_station": "奉节",
+  "depart_time": "22:25",
+  "arrive_time": "00:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "22:25",
+      "depart_time": "22:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "22:55",
+      "depart_time": "22:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长寿北",
+      "arrive_time": "23:20",
+      "depart_time": "23:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "垫江",
+      "arrive_time": "23:41",
+      "depart_time": "23:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "梁平南",
+      "arrive_time": "00:01",
+      "depart_time": "00:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "万州北",
+      "arrive_time": "00:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "奉节",
+      "arrive_time": "00:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 288.0,
+    "price_second": 180.0,
+    "price_no_seat": 180.0
+  },
+  "fetched_at": "2026-05-01T11:08:53.789580"
+}

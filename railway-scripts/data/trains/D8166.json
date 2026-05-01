@@ -1,0 +1,37 @@
+{
+  "train_no": "D8166",
+  "train_type": "D",
+  "depart_station": "莱西",
+  "arrive_station": "青岛北",
+  "depart_time": "20:01",
+  "arrive_time": "20:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "莱西",
+      "arrive_time": "20:01",
+      "depart_time": "20:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "即墨北",
+      "arrive_time": "20:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "青岛北",
+      "arrive_time": "20:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 47.0,
+    "price_second": 30.0,
+    "price_no_seat": 30.0
+  },
+  "fetched_at": "2026-05-01T04:50:38.861939"
+}

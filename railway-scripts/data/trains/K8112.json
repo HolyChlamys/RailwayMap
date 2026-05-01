@@ -1,0 +1,35 @@
+{
+  "train_no": "K8112",
+  "train_type": "K",
+  "depart_station": "周口",
+  "arrive_station": "平顶山",
+  "depart_time": "09:47",
+  "arrive_time": "11:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "周口",
+      "arrive_time": "09:47",
+      "depart_time": "09:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漯河",
+      "arrive_time": "10:38",
+      "depart_time": "10:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "平顶山",
+      "arrive_time": "11:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 23.5
+  },
+  "fetched_at": "2026-05-01T10:35:43.450140"
+}

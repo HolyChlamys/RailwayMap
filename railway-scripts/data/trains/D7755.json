@@ -1,0 +1,93 @@
+{
+  "train_no": "D7755",
+  "train_type": "D",
+  "depart_station": "沈阳",
+  "arrive_station": "大连",
+  "depart_time": "15:59",
+  "arrive_time": "20:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "15:59",
+      "depart_time": "15:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "本溪",
+      "arrive_time": "16:30",
+      "depart_time": "16:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南芬北",
+      "arrive_time": "16:42",
+      "depart_time": "16:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "通远堡西",
+      "arrive_time": "16:58",
+      "depart_time": "17:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "凤城东",
+      "arrive_time": "17:14",
+      "depart_time": "17:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "丹东",
+      "arrive_time": "17:33",
+      "depart_time": "17:53",
+      "stay_min": "20"
+    },
+    {
+      "seq": 7,
+      "station_name": "东港北",
+      "arrive_time": "18:12",
+      "depart_time": "18:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "大孤山",
+      "arrive_time": "18:32",
+      "depart_time": "18:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "庄河北",
+      "arrive_time": "18:57",
+      "depart_time": "18:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "金州",
+      "arrive_time": "19:47",
+      "depart_time": "19:51",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "大连",
+      "arrive_time": "20:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 295.5,
+    "price_second": 184.5,
+    "price_no_seat": 184.5
+  },
+  "fetched_at": "2026-05-01T04:44:17.253718"
+}

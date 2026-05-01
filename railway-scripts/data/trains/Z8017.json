@@ -1,0 +1,40 @@
+{
+  "train_no": "Z8017",
+  "train_type": "Z",
+  "depart_station": "长沙",
+  "arrive_station": "衡阳",
+  "depart_time": "08:56",
+  "arrive_time": "10:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "08:56",
+      "depart_time": "08:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲",
+      "arrive_time": "09:36",
+      "depart_time": "09:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡山",
+      "arrive_time": "10:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "衡阳",
+      "arrive_time": "10:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:51:54.107756"
+}

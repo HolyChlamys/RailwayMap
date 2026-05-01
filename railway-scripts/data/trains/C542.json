@@ -1,0 +1,58 @@
+{
+  "train_no": "C542",
+  "train_type": "C",
+  "depart_station": "丹东",
+  "arrive_station": "大连",
+  "depart_time": "14:15",
+  "arrive_time": "16:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丹东",
+      "arrive_time": "14:15",
+      "depart_time": "14:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东港北",
+      "arrive_time": "14:38",
+      "depart_time": "14:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "庄河北",
+      "arrive_time": "15:29",
+      "depart_time": "15:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杏树屯",
+      "arrive_time": "16:12",
+      "depart_time": "16:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "金州",
+      "arrive_time": "16:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "大连",
+      "arrive_time": "16:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 185.5,
+    "price_second": 115.5,
+    "price_no_seat": 115.5
+  },
+  "fetched_at": "2026-05-01T01:33:27.920772"
+}

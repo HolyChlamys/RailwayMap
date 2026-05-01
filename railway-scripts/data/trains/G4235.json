@@ -1,0 +1,66 @@
+{
+  "train_no": "G4235",
+  "train_type": "G",
+  "depart_station": "南宁东",
+  "arrive_station": "深圳北",
+  "depart_time": "20:08",
+  "arrive_time": "23:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "20:08",
+      "depart_time": "20:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵港",
+      "arrive_time": "20:50",
+      "depart_time": "20:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "梧州南",
+      "arrive_time": "21:44",
+      "depart_time": "21:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "肇庆东",
+      "arrive_time": "22:36",
+      "depart_time": "22:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "佛山西",
+      "arrive_time": "23:06",
+      "depart_time": "23:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "23:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳北",
+      "arrive_time": "23:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1074.5,
+    "price_first": 499.5,
+    "price_second": 324.5,
+    "price_no_seat": 324.5
+  },
+  "fetched_at": "2026-05-01T06:59:43.225315"
+}

@@ -1,0 +1,115 @@
+{
+  "train_no": "G8138",
+  "train_type": "G",
+  "depart_station": "长春西",
+  "arrive_station": "长春",
+  "depart_time": "07:47",
+  "arrive_time": "14:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春西",
+      "arrive_time": "07:47",
+      "depart_time": "07:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "四平东",
+      "arrive_time": "08:13",
+      "depart_time": "08:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "铁岭西",
+      "arrive_time": "08:45",
+      "depart_time": "08:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳北",
+      "arrive_time": "09:04",
+      "depart_time": "09:25",
+      "stay_min": "21"
+    },
+    {
+      "seq": 5,
+      "station_name": "抚顺",
+      "arrive_time": "09:44",
+      "depart_time": "09:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "新宾",
+      "arrive_time": "10:15",
+      "depart_time": "10:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "通化",
+      "arrive_time": "10:37",
+      "depart_time": "10:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "白山东",
+      "arrive_time": "10:56",
+      "depart_time": "10:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "长白山西",
+      "arrive_time": "11:22",
+      "depart_time": "11:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "长白山",
+      "arrive_time": "11:43",
+      "depart_time": "11:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "永庆",
+      "arrive_time": "11:58",
+      "depart_time": "12:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "敦化",
+      "arrive_time": "12:29",
+      "depart_time": "12:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "吉林",
+      "arrive_time": "13:26",
+      "depart_time": "13:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "长春",
+      "arrive_time": "14:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2200.0,
+    "price_first": 1024.0,
+    "price_second": 640.0,
+    "price_no_seat": 640.0
+  },
+  "fetched_at": "2026-05-01T08:45:09.981818"
+}

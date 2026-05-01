@@ -1,0 +1,52 @@
+{
+  "train_no": "C5229",
+  "train_type": "C",
+  "depart_station": "南平市",
+  "arrive_station": "福州南",
+  "depart_time": "21:48",
+  "arrive_time": "23:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南平市",
+      "arrive_time": "21:48",
+      "depart_time": "21:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "建瓯西",
+      "arrive_time": "22:05",
+      "depart_time": "22:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "延平",
+      "arrive_time": "22:28",
+      "depart_time": "22:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福州",
+      "arrive_time": "23:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "福州南",
+      "arrive_time": "23:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 358.0,
+    "price_first": 188.0,
+    "price_second": 112.5,
+    "price_no_seat": 112.5
+  },
+  "fetched_at": "2026-05-01T01:30:12.772780"
+}

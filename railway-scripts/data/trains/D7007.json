@@ -1,0 +1,45 @@
+{
+  "train_no": "D7007",
+  "train_type": "D",
+  "depart_station": "武汉",
+  "arrive_station": "大冶北",
+  "depart_time": "08:37",
+  "arrive_time": "09:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "08:37",
+      "depart_time": "08:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄂州",
+      "arrive_time": "09:03",
+      "depart_time": "09:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄石北",
+      "arrive_time": "09:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大冶北",
+      "arrive_time": "09:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 137.0,
+    "price_first": 73.0,
+    "price_second": 46.0,
+    "price_no_seat": 46.0
+  },
+  "fetched_at": "2026-05-01T04:32:28.479423"
+}

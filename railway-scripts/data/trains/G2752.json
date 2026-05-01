@@ -1,0 +1,59 @@
+{
+  "train_no": "G2752",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "南昌西",
+  "depart_time": "18:54",
+  "arrive_time": "21:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "18:54",
+      "depart_time": "18:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠州北",
+      "arrive_time": "19:25",
+      "depart_time": "19:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "河源东",
+      "arrive_time": "19:46",
+      "depart_time": "19:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "和平北",
+      "arrive_time": "20:18",
+      "depart_time": "20:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "赣州西",
+      "arrive_time": "21:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南昌西",
+      "arrive_time": "21:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1593.0,
+    "price_first": 776.0,
+    "price_second": 485.0,
+    "price_no_seat": 485.0
+  },
+  "fetched_at": "2026-05-01T06:19:22.357108"
+}

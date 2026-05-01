@@ -1,0 +1,72 @@
+{
+  "train_no": "D3932",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "大理",
+  "depart_time": "07:13",
+  "arrive_time": "13:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "07:13",
+      "depart_time": "07:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁",
+      "arrive_time": "07:24",
+      "depart_time": "07:28",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "百色",
+      "arrive_time": "08:44",
+      "depart_time": "08:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明南",
+      "arrive_time": "11:17",
+      "depart_time": "11:22",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明",
+      "arrive_time": "11:40",
+      "depart_time": "11:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "楚雄",
+      "arrive_time": "12:45",
+      "depart_time": "12:48",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "祥云",
+      "arrive_time": "13:28",
+      "depart_time": "13:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "大理",
+      "arrive_time": "13:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 681.5,
+    "price_second": 427.0,
+    "price_no_seat": 427.0
+  },
+  "fetched_at": "2026-05-01T03:41:39.030629"
+}

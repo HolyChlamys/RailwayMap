@@ -1,0 +1,51 @@
+{
+  "train_no": "C3721",
+  "train_type": "C",
+  "depart_station": "南通",
+  "arrive_station": "上海虹桥",
+  "depart_time": "13:14",
+  "arrive_time": "14:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南通",
+      "arrive_time": "13:14",
+      "depart_time": "13:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张家港",
+      "arrive_time": "13:39",
+      "depart_time": "13:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "常熟",
+      "arrive_time": "13:51",
+      "depart_time": "13:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "太仓南",
+      "arrive_time": "14:17",
+      "depart_time": "14:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "上海虹桥",
+      "arrive_time": "14:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 137.0,
+    "price_second": 86.0,
+    "price_no_seat": 86.0
+  },
+  "fetched_at": "2026-05-01T01:03:17.895514"
+}

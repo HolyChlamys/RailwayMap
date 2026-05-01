@@ -1,0 +1,80 @@
+{
+  "train_no": "G3938",
+  "train_type": "G",
+  "depart_station": "佛山西",
+  "arrive_station": "内江北",
+  "depart_time": "05:51",
+  "arrive_time": "12:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佛山西",
+      "arrive_time": "05:51",
+      "depart_time": "05:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桂林西",
+      "arrive_time": "07:43",
+      "depart_time": "07:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "榕江",
+      "arrive_time": "08:39",
+      "depart_time": "08:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙洞堡",
+      "arrive_time": "09:31",
+      "depart_time": "09:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳东",
+      "arrive_time": "09:47",
+      "depart_time": "09:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "遵义",
+      "arrive_time": "10:37",
+      "depart_time": "10:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "桐梓北",
+      "arrive_time": "11:11",
+      "depart_time": "11:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "重庆西",
+      "arrive_time": "12:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "内江北",
+      "arrive_time": "12:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2168.0,
+    "price_first": 1022.0,
+    "price_second": 640.0,
+    "price_no_seat": 640.0
+  },
+  "fetched_at": "2026-05-01T06:51:05.659286"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G5498",
+  "train_type": "G",
+  "depart_station": "潍坊北",
+  "arrive_station": "青岛北",
+  "depart_time": "19:26",
+  "arrive_time": "21:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潍坊北",
+      "arrive_time": "19:26",
+      "depart_time": "19:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙口市",
+      "arrive_time": "20:07",
+      "depart_time": "20:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "蓬莱",
+      "arrive_time": "20:22",
+      "depart_time": "20:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "福山",
+      "arrive_time": "20:41",
+      "depart_time": "20:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "青岛北",
+      "arrive_time": "21:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 785.0,
+    "price_first": 359.0,
+    "price_second": 224.0,
+    "price_no_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T07:35:09.988160"
+}

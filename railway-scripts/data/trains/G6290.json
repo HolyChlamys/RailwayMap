@@ -1,0 +1,80 @@
+{
+  "train_no": "G6290",
+  "train_type": "G",
+  "depart_station": "秦皇岛",
+  "arrive_station": "邯郸东",
+  "depart_time": "08:10",
+  "arrive_time": "12:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "秦皇岛",
+      "arrive_time": "08:10",
+      "depart_time": "08:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "唐山",
+      "arrive_time": "08:48",
+      "depart_time": "08:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "天津西",
+      "arrive_time": "09:26",
+      "depart_time": "09:36",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "霸州西",
+      "arrive_time": "10:05",
+      "depart_time": "10:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "白洋淀",
+      "arrive_time": "10:26",
+      "depart_time": "10:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "保定东",
+      "arrive_time": "10:46",
+      "depart_time": "10:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "石家庄",
+      "arrive_time": "11:23",
+      "depart_time": "11:31",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "邢台东",
+      "arrive_time": "11:58",
+      "depart_time": "12:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "邯郸东",
+      "arrive_time": "12:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1308.0,
+    "price_first": 608.5,
+    "price_second": 380.5,
+    "price_no_seat": 380.5
+  },
+  "fetched_at": "2026-05-01T07:54:26.752559"
+}

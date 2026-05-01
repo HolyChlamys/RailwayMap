@@ -1,0 +1,56 @@
+{
+  "train_no": "K7188",
+  "train_type": "K",
+  "depart_station": "大庆西",
+  "arrive_station": "哈尔滨",
+  "depart_time": "15:20",
+  "arrive_time": "16:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大庆西",
+      "arrive_time": "15:20",
+      "depart_time": "15:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大庆",
+      "arrive_time": "15:33",
+      "depart_time": "15:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "安达",
+      "arrive_time": "16:01",
+      "depart_time": "16:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宋",
+      "arrive_time": "16:25",
+      "depart_time": "16:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "肇东",
+      "arrive_time": "16:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "哈尔滨",
+      "arrive_time": "16:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 24.5
+  },
+  "fetched_at": "2026-05-01T10:29:01.806699"
+}

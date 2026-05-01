@@ -1,0 +1,136 @@
+{
+  "train_no": "G2613",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "郑州东",
+  "depart_time": "15:53",
+  "arrive_time": "22:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "15:53",
+      "depart_time": "15:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "16:12",
+      "depart_time": "16:18",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "16:31",
+      "depart_time": "16:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "16:48",
+      "depart_time": "16:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "17:04",
+      "depart_time": "17:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "丹阳",
+      "arrive_time": "17:22",
+      "depart_time": "17:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "大港南",
+      "arrive_time": "17:39",
+      "depart_time": "17:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "扬州东",
+      "arrive_time": "17:59",
+      "depart_time": "18:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "淮安东",
+      "arrive_time": "18:40",
+      "depart_time": "18:43",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "宿迁",
+      "arrive_time": "19:11",
+      "depart_time": "19:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "徐州东",
+      "arrive_time": "19:47",
+      "depart_time": "19:52",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "永城北",
+      "arrive_time": "20:17",
+      "depart_time": "20:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "砀山南",
+      "arrive_time": "20:30",
+      "depart_time": "20:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "商丘",
+      "arrive_time": "20:50",
+      "depart_time": "20:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "民权北",
+      "arrive_time": "21:09",
+      "depart_time": "21:14",
+      "stay_min": "5"
+    },
+    {
+      "seq": 16,
+      "station_name": "开封北",
+      "arrive_time": "21:37",
+      "depart_time": "21:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "郑州东",
+      "arrive_time": "22:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1731.0,
+    "price_first": 813.0,
+    "price_second": 509.0,
+    "price_no_seat": 509.0
+  },
+  "fetched_at": "2026-05-01T06:15:18.286598"
+}

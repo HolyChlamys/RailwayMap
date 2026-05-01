@@ -1,0 +1,150 @@
+{
+  "train_no": "G3271",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "杭州西",
+  "depart_time": "15:01",
+  "arrive_time": "22:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "15:01",
+      "depart_time": "15:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄冈东",
+      "arrive_time": "15:32",
+      "depart_time": "15:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "浠水南",
+      "arrive_time": "15:50",
+      "depart_time": "15:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "蕲春南",
+      "arrive_time": "16:04",
+      "depart_time": "16:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "武穴北",
+      "arrive_time": "16:20",
+      "depart_time": "16:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "黄梅东",
+      "arrive_time": "16:33",
+      "depart_time": "16:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "安庆",
+      "arrive_time": "17:17",
+      "depart_time": "17:24",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "池州",
+      "arrive_time": "17:41",
+      "depart_time": "17:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "铜陵",
+      "arrive_time": "18:00",
+      "depart_time": "18:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "南京南",
+      "arrive_time": "18:58",
+      "depart_time": "19:06",
+      "stay_min": "8"
+    },
+    {
+      "seq": 11,
+      "station_name": "金坛",
+      "arrive_time": "19:32",
+      "depart_time": "19:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "江阴",
+      "arrive_time": "19:56",
+      "depart_time": "19:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "张家港",
+      "arrive_time": "20:12",
+      "depart_time": "20:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "太仓",
+      "arrive_time": "20:35",
+      "depart_time": "20:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "上海虹桥",
+      "arrive_time": "21:09",
+      "depart_time": "21:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 16,
+      "station_name": "苏州南",
+      "arrive_time": "21:38",
+      "depart_time": "21:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "盛泽",
+      "arrive_time": "21:51",
+      "depart_time": "21:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "湖州东",
+      "arrive_time": "22:07",
+      "depart_time": "22:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "杭州西",
+      "arrive_time": "22:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2102.0,
+    "price_first": 973.0,
+    "price_second": 610.0,
+    "price_no_seat": 610.0
+  },
+  "fetched_at": "2026-05-01T06:33:25.674818"
+}

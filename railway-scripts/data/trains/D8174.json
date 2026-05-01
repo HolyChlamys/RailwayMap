@@ -1,0 +1,44 @@
+{
+  "train_no": "D8174",
+  "train_type": "D",
+  "depart_station": "平度",
+  "arrive_station": "青岛",
+  "depart_time": "18:58",
+  "arrive_time": "20:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "平度",
+      "arrive_time": "18:58",
+      "depart_time": "18:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "夏格庄",
+      "arrive_time": "19:21",
+      "depart_time": "19:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "青岛北",
+      "arrive_time": "19:46",
+      "depart_time": "19:57",
+      "stay_min": "11"
+    },
+    {
+      "seq": 4,
+      "station_name": "青岛",
+      "arrive_time": "20:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 79.0,
+    "price_second": 50.0,
+    "price_no_seat": 50.0
+  },
+  "fetched_at": "2026-05-01T04:50:45.406255"
+}

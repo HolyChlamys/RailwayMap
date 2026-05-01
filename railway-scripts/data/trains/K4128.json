@@ -1,0 +1,35 @@
+{
+  "train_no": "K4128",
+  "train_type": "K",
+  "depart_station": "东莞东",
+  "arrive_station": "襄阳",
+  "depart_time": "10:10",
+  "arrive_time": "05:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东莞东",
+      "arrive_time": "10:10",
+      "depart_time": "10:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衡阳",
+      "arrive_time": "17:08",
+      "depart_time": "17:14",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "襄阳",
+      "arrive_time": "05:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 186.5
+  },
+  "fetched_at": "2026-05-01T09:48:22.912761"
+}

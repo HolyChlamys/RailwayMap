@@ -1,0 +1,45 @@
+{
+  "train_no": "G9789",
+  "train_type": "G",
+  "depart_station": "岳阳东",
+  "arrive_station": "邵阳",
+  "depart_time": "01:55",
+  "arrive_time": "03:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "岳阳东",
+      "arrive_time": "01:55",
+      "depart_time": "01:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙南",
+      "arrive_time": "02:35",
+      "depart_time": "02:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "娄底南",
+      "arrive_time": "03:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "邵阳",
+      "arrive_time": "03:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 622.0,
+    "price_first": 291.0,
+    "price_second": 182.5,
+    "price_no_seat": 182.5
+  },
+  "fetched_at": "2026-05-01T09:24:17.739922"
+}

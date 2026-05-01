@@ -1,0 +1,50 @@
+{
+  "train_no": "C7698",
+  "train_type": "C",
+  "depart_station": "珠海",
+  "arrive_station": "广州南",
+  "depart_time": "18:53",
+  "arrive_time": "19:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海",
+      "arrive_time": "18:53",
+      "depart_time": "18:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "明珠",
+      "arrive_time": "19:04",
+      "depart_time": "19:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "中山",
+      "arrive_time": "19:21",
+      "depart_time": "19:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "小榄",
+      "arrive_time": "19:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "19:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T02:21:39.329399"
+}

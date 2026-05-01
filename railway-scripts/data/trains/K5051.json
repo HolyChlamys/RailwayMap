@@ -1,0 +1,35 @@
+{
+  "train_no": "K5051",
+  "train_type": "K",
+  "depart_station": "锦州",
+  "arrive_station": "阜新南",
+  "depart_time": "11:30",
+  "arrive_time": "12:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "锦州",
+      "arrive_time": "11:30",
+      "depart_time": "11:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "义县",
+      "arrive_time": "12:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阜新南",
+      "arrive_time": "12:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 18.5
+  },
+  "fetched_at": "2026-05-01T10:02:44.114330"
+}

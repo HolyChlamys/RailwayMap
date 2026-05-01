@@ -1,0 +1,114 @@
+{
+  "train_no": "D1212",
+  "train_type": "D",
+  "depart_station": "兰州西",
+  "arrive_station": "大同南",
+  "depart_time": "07:35",
+  "arrive_time": "16:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "07:35",
+      "depart_time": "07:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "白银南",
+      "arrive_time": "08:23",
+      "depart_time": "08:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "靖远北",
+      "arrive_time": "08:43",
+      "depart_time": "08:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "中卫南",
+      "arrive_time": "09:22",
+      "depart_time": "09:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "吴忠",
+      "arrive_time": "10:05",
+      "depart_time": "10:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "银川",
+      "arrive_time": "10:41",
+      "depart_time": "10:47",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "惠农南",
+      "arrive_time": "11:19",
+      "depart_time": "11:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "乌海",
+      "arrive_time": "11:42",
+      "depart_time": "11:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "12:27",
+      "depart_time": "12:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "包头",
+      "arrive_time": "13:33",
+      "depart_time": "13:36",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "呼和浩特东",
+      "arrive_time": "14:40",
+      "depart_time": "14:46",
+      "stay_min": "6"
+    },
+    {
+      "seq": 12,
+      "station_name": "乌兰察布",
+      "arrive_time": "15:25",
+      "depart_time": "15:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "丰镇北",
+      "arrive_time": "15:50",
+      "depart_time": "15:58",
+      "stay_min": "8"
+    },
+    {
+      "seq": 14,
+      "station_name": "大同南",
+      "arrive_time": "16:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1100.0,
+    "price_second": 688.5,
+    "price_no_seat": 688.5
+  },
+  "fetched_at": "2026-05-01T02:59:43.238645"
+}

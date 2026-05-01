@@ -1,0 +1,79 @@
+{
+  "train_no": "D6221",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "诏安",
+  "depart_time": "11:30",
+  "arrive_time": "14:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "11:30",
+      "depart_time": "11:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "涵江",
+      "arrive_time": "12:12",
+      "depart_time": "12:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "仙游",
+      "arrive_time": "12:37",
+      "depart_time": "12:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "惠安",
+      "arrive_time": "12:56",
+      "depart_time": "12:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "泉州",
+      "arrive_time": "13:08",
+      "depart_time": "13:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "厦门北",
+      "arrive_time": "13:38",
+      "depart_time": "13:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "漳州",
+      "arrive_time": "14:05",
+      "depart_time": "14:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "云霄",
+      "arrive_time": "14:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "诏安",
+      "arrive_time": "14:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 279.0,
+    "price_second": 174.0,
+    "price_no_seat": 174.0
+  },
+  "fetched_at": "2026-05-01T04:19:18.617873"
+}

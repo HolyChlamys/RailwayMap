@@ -1,0 +1,44 @@
+{
+  "train_no": "D9490",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "徐州东",
+  "depart_time": "03:26",
+  "arrive_time": "06:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "03:26",
+      "depart_time": "03:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮安东",
+      "arrive_time": "05:37",
+      "depart_time": "05:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宿迁",
+      "arrive_time": "06:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "徐州东",
+      "arrive_time": "06:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 458.0,
+    "price_second": 287.0,
+    "price_no_seat": 287.0
+  },
+  "fetched_at": "2026-05-01T05:16:13.508648"
+}

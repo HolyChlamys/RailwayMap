@@ -1,0 +1,59 @@
+{
+  "train_no": "G6129",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "广州南",
+  "depart_time": "20:44",
+  "arrive_time": "22:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "20:44",
+      "depart_time": "20:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲西",
+      "arrive_time": "21:01",
+      "depart_time": "21:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳东",
+      "arrive_time": "21:28",
+      "depart_time": "21:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郴州西",
+      "arrive_time": "22:01",
+      "depart_time": "22:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "韶关",
+      "arrive_time": "22:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州南",
+      "arrive_time": "22:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1321.0,
+    "price_first": 604.0,
+    "price_second": 377.0,
+    "price_no_seat": 377.0
+  },
+  "fetched_at": "2026-05-01T07:49:42.572749"
+}

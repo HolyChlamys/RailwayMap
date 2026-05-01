@@ -1,0 +1,79 @@
+{
+  "train_no": "G7396",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "温州北",
+  "depart_time": "15:39",
+  "arrive_time": "17:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "15:39",
+      "depart_time": "15:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "诸暨",
+      "arrive_time": "16:03",
+      "depart_time": "16:08",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "义乌",
+      "arrive_time": "16:24",
+      "depart_time": "16:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州",
+      "arrive_time": "19:56",
+      "depart_time": "20:23",
+      "stay_min": "27"
+    },
+    {
+      "seq": 5,
+      "station_name": "横店",
+      "arrive_time": "16:43",
+      "depart_time": "16:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "嘉兴南",
+      "arrive_time": "20:52",
+      "depart_time": "20:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "仙居",
+      "arrive_time": "17:03",
+      "depart_time": "17:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "上海虹桥",
+      "arrive_time": "21:22",
+      "depart_time": "21:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "温州北",
+      "arrive_time": "17:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 303.0,
+    "price_second": 189.0,
+    "price_no_seat": 189.0
+  },
+  "fetched_at": "2026-05-01T08:26:12.784425"
+}

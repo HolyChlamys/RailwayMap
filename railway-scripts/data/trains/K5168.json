@@ -1,0 +1,49 @@
+{
+  "train_no": "K5168",
+  "train_type": "K",
+  "depart_station": "同江",
+  "arrive_station": "佳木斯",
+  "depart_time": "22:40",
+  "arrive_time": "01:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "同江",
+      "arrive_time": "22:40",
+      "depart_time": "22:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "富锦",
+      "arrive_time": "23:37",
+      "depart_time": "23:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "红兴隆",
+      "arrive_time": "00:37",
+      "depart_time": "00:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "福利屯",
+      "arrive_time": "01:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "佳木斯",
+      "arrive_time": "01:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:05:22.421240"
+}

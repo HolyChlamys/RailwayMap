@@ -1,0 +1,30 @@
+{
+  "train_no": "C247",
+  "train_type": "C",
+  "depart_station": "曹妃甸东",
+  "arrive_station": "唐山",
+  "depart_time": "15:35",
+  "arrive_time": "16:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "曹妃甸东",
+      "arrive_time": "15:35",
+      "depart_time": "15:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "唐山",
+      "arrive_time": "16:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 40.0,
+    "price_second": 25.0,
+    "price_no_seat": 25.0
+  },
+  "fetched_at": "2026-05-01T00:39:43.533869"
+}

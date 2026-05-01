@@ -1,0 +1,87 @@
+{
+  "train_no": "G7691",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "江山",
+  "depart_time": "08:49",
+  "arrive_time": "12:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "08:49",
+      "depart_time": "08:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "09:41",
+      "depart_time": "09:44",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "溧阳",
+      "arrive_time": "10:10",
+      "depart_time": "10:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "湖州",
+      "arrive_time": "10:37",
+      "depart_time": "10:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "德清",
+      "arrive_time": "10:51",
+      "depart_time": "10:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州东",
+      "arrive_time": "11:07",
+      "depart_time": "11:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "诸暨",
+      "arrive_time": "11:33",
+      "depart_time": "11:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "金华",
+      "arrive_time": "12:02",
+      "depart_time": "12:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "衢州",
+      "arrive_time": "12:26",
+      "depart_time": "12:32",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "江山",
+      "arrive_time": "12:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1239.0,
+    "price_first": 576.0,
+    "price_second": 361.0,
+    "price_no_seat": 361.0
+  },
+  "fetched_at": "2026-05-01T08:34:04.782281"
+}

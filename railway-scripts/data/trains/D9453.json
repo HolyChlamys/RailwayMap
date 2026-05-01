@@ -1,0 +1,30 @@
+{
+  "train_no": "D9453",
+  "train_type": "D",
+  "depart_station": "济南东",
+  "arrive_station": "淄博北",
+  "depart_time": "06:43",
+  "arrive_time": "06:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "06:43",
+      "depart_time": "06:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淄博北",
+      "arrive_time": "06:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 59.0,
+    "price_second": 37.0,
+    "price_no_seat": 37.0
+  },
+  "fetched_at": "2026-05-01T05:15:53.734039"
+}

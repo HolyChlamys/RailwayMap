@@ -1,0 +1,79 @@
+{
+  "train_no": "D1062",
+  "train_type": "D",
+  "depart_station": "巴彦淖尔",
+  "arrive_station": "清河",
+  "depart_time": "15:17",
+  "arrive_time": "19:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "15:17",
+      "depart_time": "15:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "五原",
+      "arrive_time": "15:39",
+      "depart_time": "15:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "包头",
+      "arrive_time": "16:30",
+      "depart_time": "16:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "呼和浩特",
+      "arrive_time": "17:33",
+      "depart_time": "17:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "呼和浩特东",
+      "arrive_time": "17:46",
+      "depart_time": "17:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "怀安",
+      "arrive_time": "18:56",
+      "depart_time": "18:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "张家口",
+      "arrive_time": "19:17",
+      "depart_time": "19:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "怀来",
+      "arrive_time": "19:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "清河",
+      "arrive_time": "19:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 622.0,
+    "price_second": 387.5,
+    "price_no_seat": 387.5
+  },
+  "fetched_at": "2026-05-01T02:56:58.217012"
+}

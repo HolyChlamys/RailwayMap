@@ -1,0 +1,37 @@
+{
+  "train_no": "D9522",
+  "train_type": "D",
+  "depart_station": "芜湖",
+  "arrive_station": "南京南",
+  "depart_time": "21:19",
+  "arrive_time": "21:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "芜湖",
+      "arrive_time": "21:19",
+      "depart_time": "21:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马鞍山东",
+      "arrive_time": "21:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "21:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 60.0,
+    "price_second": 38.0,
+    "price_no_seat": 38.0
+  },
+  "fetched_at": "2026-05-01T05:17:26.052983"
+}

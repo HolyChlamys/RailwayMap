@@ -1,0 +1,80 @@
+{
+  "train_no": "D1121",
+  "train_type": "D",
+  "depart_station": "清河",
+  "arrive_station": "太原南",
+  "depart_time": "15:40",
+  "arrive_time": "19:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "清河",
+      "arrive_time": "15:40",
+      "depart_time": "15:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张家口",
+      "arrive_time": "16:36",
+      "depart_time": "16:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大同南",
+      "arrive_time": "17:37",
+      "depart_time": "17:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "应县西",
+      "arrive_time": "17:59",
+      "depart_time": "17:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "朔州东",
+      "arrive_time": "18:18",
+      "depart_time": "18:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "雁门关",
+      "arrive_time": "18:36",
+      "depart_time": "18:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "原平西",
+      "arrive_time": "18:52",
+      "depart_time": "18:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "忻州西",
+      "arrive_time": "19:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "太原南",
+      "arrive_time": "19:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 875.0,
+    "price_first": 446.0,
+    "price_second": 278.0,
+    "price_no_seat": 278.0
+  },
+  "fetched_at": "2026-05-01T02:57:44.465319"
+}

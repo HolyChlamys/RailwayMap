@@ -1,0 +1,58 @@
+{
+  "train_no": "C4270",
+  "train_type": "C",
+  "depart_station": "兰州",
+  "arrive_station": "陇南",
+  "depart_time": "08:04",
+  "arrive_time": "10:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州",
+      "arrive_time": "08:04",
+      "depart_time": "08:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "渭源",
+      "arrive_time": "09:13",
+      "depart_time": "09:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "漳县",
+      "arrive_time": "09:38",
+      "depart_time": "09:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "岷县",
+      "arrive_time": "10:03",
+      "depart_time": "10:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "哈达铺",
+      "arrive_time": "10:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "陇南",
+      "arrive_time": "10:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 139.0,
+    "price_second": 87.0,
+    "price_no_seat": 87.0
+  },
+  "fetched_at": "2026-05-01T01:12:10.454689"
+}

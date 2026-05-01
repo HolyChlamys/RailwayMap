@@ -1,0 +1,44 @@
+{
+  "train_no": "G9444",
+  "train_type": "G",
+  "depart_station": "徐州东",
+  "arrive_station": "合肥",
+  "depart_time": "00:06",
+  "arrive_time": "21:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "徐州东",
+      "arrive_time": "00:06",
+      "depart_time": "00:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "01:19",
+      "depart_time": "01:23",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "上海",
+      "arrive_time": "02:34",
+      "depart_time": "02:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥",
+      "arrive_time": "21:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 549.0,
+    "price_second": 343.0,
+    "price_no_seat": 343.0
+  },
+  "fetched_at": "2026-05-01T09:14:16.736075"
+}

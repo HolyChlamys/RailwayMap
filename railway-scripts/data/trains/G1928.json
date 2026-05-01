@@ -1,0 +1,122 @@
+{
+  "train_no": "G1928",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "西安北",
+  "depart_time": "12:36",
+  "arrive_time": "20:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "12:36",
+      "depart_time": "12:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州北",
+      "arrive_time": "12:59",
+      "depart_time": "13:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "常州北",
+      "arrive_time": "13:23",
+      "depart_time": "13:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "13:57",
+      "depart_time": "14:00",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "定远",
+      "arrive_time": "14:30",
+      "depart_time": "14:41",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "蚌埠南",
+      "arrive_time": "14:57",
+      "depart_time": "14:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "徐州东",
+      "arrive_time": "15:38",
+      "depart_time": "15:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "永城北",
+      "arrive_time": "16:10",
+      "depart_time": "16:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "砀山南",
+      "arrive_time": "16:23",
+      "depart_time": "16:29",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "商丘",
+      "arrive_time": "16:47",
+      "depart_time": "16:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "郑州东",
+      "arrive_time": "17:39",
+      "depart_time": "17:44",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "洛阳龙门",
+      "arrive_time": "18:20",
+      "depart_time": "18:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "灵宝西",
+      "arrive_time": "19:07",
+      "depart_time": "19:12",
+      "stay_min": "5"
+    },
+    {
+      "seq": 14,
+      "station_name": "渭南北",
+      "arrive_time": "19:41",
+      "depart_time": "19:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "西安北",
+      "arrive_time": "20:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2807.0,
+    "price_first": 1283.0,
+    "price_second": 802.0,
+    "price_no_seat": 802.0
+  },
+  "fetched_at": "2026-05-01T05:56:50.068646"
+}

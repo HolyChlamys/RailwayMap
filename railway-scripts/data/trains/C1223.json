@@ -1,0 +1,37 @@
+{
+  "train_no": "C1223",
+  "train_type": "C",
+  "depart_station": "长春",
+  "arrive_station": "吉林",
+  "depart_time": "15:43",
+  "arrive_time": "16:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "15:43",
+      "depart_time": "15:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙嘉",
+      "arrive_time": "16:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吉林",
+      "arrive_time": "16:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 55.0,
+    "price_second": 34.0,
+    "price_no_seat": 34.0
+  },
+  "fetched_at": "2026-05-01T00:23:26.935414"
+}

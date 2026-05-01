@@ -1,0 +1,45 @@
+{
+  "train_no": "G7215",
+  "train_type": "G",
+  "depart_station": "南京南",
+  "arrive_station": "上海",
+  "depart_time": "05:49",
+  "arrive_time": "06:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "05:49",
+      "depart_time": "05:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "常州北",
+      "arrive_time": "06:23",
+      "depart_time": "06:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州北",
+      "arrive_time": "06:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "上海",
+      "arrive_time": "06:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 586.0,
+    "price_first": 268.0,
+    "price_second": 167.0,
+    "price_no_seat": 167.0
+  },
+  "fetched_at": "2026-05-01T08:20:50.557630"
+}

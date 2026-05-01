@@ -1,0 +1,38 @@
+{
+  "train_no": "C5227",
+  "train_type": "C",
+  "depart_station": "南昌西",
+  "arrive_station": "宜春",
+  "depart_time": "21:24",
+  "arrive_time": "22:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "21:24",
+      "depart_time": "21:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新余北",
+      "arrive_time": "22:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜春",
+      "arrive_time": "22:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 339.0,
+    "price_first": 155.0,
+    "price_second": 97.0,
+    "price_no_seat": 97.0
+  },
+  "fetched_at": "2026-05-01T01:30:09.438946"
+}

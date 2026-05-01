@@ -1,0 +1,77 @@
+{
+  "train_no": "K5493",
+  "train_type": "K",
+  "depart_station": "曹县",
+  "arrive_station": "青岛北",
+  "depart_time": "21:53",
+  "arrive_time": "07:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "曹县",
+      "arrive_time": "21:53",
+      "depart_time": "21:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "菏泽",
+      "arrive_time": "22:23",
+      "depart_time": "22:29",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "巨野",
+      "arrive_time": "23:08",
+      "depart_time": "23:13",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "济宁",
+      "arrive_time": "23:44",
+      "depart_time": "23:49",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "兖州",
+      "arrive_time": "00:18",
+      "depart_time": "01:13",
+      "stay_min": "55"
+    },
+    {
+      "seq": 6,
+      "station_name": "临沂",
+      "arrive_time": "02:58",
+      "depart_time": "03:09",
+      "stay_min": "11"
+    },
+    {
+      "seq": 7,
+      "station_name": "胶州",
+      "arrive_time": "06:13",
+      "depart_time": "06:18",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "蓝村",
+      "arrive_time": "06:34",
+      "depart_time": "06:42",
+      "stay_min": "8"
+    },
+    {
+      "seq": 9,
+      "station_name": "青岛北",
+      "arrive_time": "07:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T10:11:54.948734"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G4799",
+  "train_type": "G",
+  "depart_station": "驻马店西",
+  "arrive_station": "广州白云",
+  "depart_time": "20:30",
+  "arrive_time": "23:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "驻马店西",
+      "arrive_time": "20:30",
+      "depart_time": "20:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "信阳东",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武汉",
+      "arrive_time": "21:48",
+      "depart_time": "21:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "23:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州白云",
+      "arrive_time": "23:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2385.0,
+    "price_first": 1090.0,
+    "price_second": 681.0,
+    "price_no_seat": 681.0
+  },
+  "fetched_at": "2026-05-01T07:16:09.093304"
+}

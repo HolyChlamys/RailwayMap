@@ -1,0 +1,30 @@
+{
+  "train_no": "D9612",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "南昌西",
+  "depart_time": "00:19",
+  "arrive_time": "00:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "00:19",
+      "depart_time": "00:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌西",
+      "arrive_time": "00:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 324.0,
+    "price_second": 203.0,
+    "price_no_seat": 203.0
+  },
+  "fetched_at": "2026-05-01T05:19:54.708379"
+}

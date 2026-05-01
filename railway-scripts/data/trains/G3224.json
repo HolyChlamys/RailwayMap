@@ -1,0 +1,80 @@
+{
+  "train_no": "G3224",
+  "train_type": "G",
+  "depart_station": "青岛北",
+  "arrive_station": "襄阳东",
+  "depart_time": "15:54",
+  "arrive_time": "22:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "15:54",
+      "depart_time": "15:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潍坊",
+      "arrive_time": "16:49",
+      "depart_time": "16:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "淄博",
+      "arrive_time": "17:27",
+      "depart_time": "17:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南",
+      "arrive_time": "18:14",
+      "depart_time": "18:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "聊城西",
+      "arrive_time": "18:56",
+      "depart_time": "19:03",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "卫辉南",
+      "arrive_time": "19:52",
+      "depart_time": "19:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州东",
+      "arrive_time": "20:23",
+      "depart_time": "20:32",
+      "stay_min": "9"
+    },
+    {
+      "seq": 8,
+      "station_name": "南阳东",
+      "arrive_time": "21:37",
+      "depart_time": "21:43",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "襄阳东",
+      "arrive_time": "22:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1978.0,
+    "price_first": 953.0,
+    "price_second": 595.0,
+    "price_no_seat": 595.0
+  },
+  "fetched_at": "2026-05-01T06:32:08.941365"
+}

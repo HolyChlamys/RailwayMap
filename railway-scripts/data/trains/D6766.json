@@ -1,0 +1,72 @@
+{
+  "train_no": "D6766",
+  "train_type": "D",
+  "depart_station": "乌海",
+  "arrive_station": "乌兰察布",
+  "depart_time": "09:58",
+  "arrive_time": "13:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌海",
+      "arrive_time": "09:58",
+      "depart_time": "09:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "10:42",
+      "depart_time": "10:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乌拉特前旗",
+      "arrive_time": "11:17",
+      "depart_time": "11:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "包头",
+      "arrive_time": "11:56",
+      "depart_time": "11:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "包头东",
+      "arrive_time": "12:10",
+      "depart_time": "12:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "萨拉齐",
+      "arrive_time": "12:30",
+      "depart_time": "12:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "呼和浩特东",
+      "arrive_time": "13:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "乌兰察布",
+      "arrive_time": "13:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 539.0,
+    "price_second": 336.5,
+    "price_no_seat": 336.5
+  },
+  "fetched_at": "2026-05-01T04:28:18.497968"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "D7895",
+  "train_type": "D",
+  "depart_station": "南乐",
+  "arrive_station": "郑州东",
+  "depart_time": "19:03",
+  "arrive_time": "20:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南乐",
+      "arrive_time": "19:03",
+      "depart_time": "19:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "濮阳东",
+      "arrive_time": "19:18",
+      "depart_time": "19:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "内黄",
+      "arrive_time": "19:42",
+      "depart_time": "19:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新乡南",
+      "arrive_time": "20:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "20:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 438.0,
+    "price_first": 200.0,
+    "price_second": 126.0,
+    "price_no_seat": 126.0
+  },
+  "fetched_at": "2026-05-01T04:47:04.434996"
+}

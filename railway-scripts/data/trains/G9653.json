@@ -1,0 +1,38 @@
+{
+  "train_no": "G9653",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "深圳北",
+  "depart_time": "00:05",
+  "arrive_time": "02:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "00:05",
+      "depart_time": "00:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "02:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "02:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 956.5,
+    "price_first": 473.5,
+    "price_second": 288.5,
+    "price_no_seat": 288.5
+  },
+  "fetched_at": "2026-05-01T09:20:18.316576"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "G2837",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "大理",
+  "depart_time": "07:30",
+  "arrive_time": "15:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜宾",
+      "arrive_time": "08:43",
+      "depart_time": "08:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "10:33",
+      "depart_time": "10:38",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺西",
+      "arrive_time": "11:09",
+      "depart_time": "11:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明",
+      "arrive_time": "13:25",
+      "depart_time": "13:30",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "广通北",
+      "arrive_time": "14:21",
+      "depart_time": "14:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "楚雄",
+      "arrive_time": "14:38",
+      "depart_time": "14:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "大理",
+      "arrive_time": "15:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1178.0,
+    "price_second": 737.5,
+    "price_no_seat": 737.5
+  },
+  "fetched_at": "2026-05-01T06:21:37.497258"
+}

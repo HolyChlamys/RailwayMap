@@ -1,0 +1,35 @@
+{
+  "train_no": "K6210",
+  "train_type": "K",
+  "depart_station": "瑞金",
+  "arrive_station": "赣州",
+  "depart_time": "15:38",
+  "arrive_time": "16:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "瑞金",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "于都",
+      "arrive_time": "16:24",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "赣州",
+      "arrive_time": "16:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 19.5
+  },
+  "fetched_at": "2026-05-01T10:20:00.570786"
+}

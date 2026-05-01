@@ -1,0 +1,56 @@
+{
+  "train_no": "Z8992",
+  "train_type": "Z",
+  "depart_station": "拉萨",
+  "arrive_station": "西宁",
+  "depart_time": "17:30",
+  "arrive_time": "10:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "拉萨",
+      "arrive_time": "17:30",
+      "depart_time": "17:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "那曲",
+      "arrive_time": "20:55",
+      "depart_time": "20:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "不冻泉",
+      "arrive_time": "05:31",
+      "depart_time": "05:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "格尔木",
+      "arrive_time": "08:42",
+      "depart_time": "08:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "德令哈",
+      "arrive_time": "10:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西宁",
+      "arrive_time": "10:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T11:52:12.205046"
+}

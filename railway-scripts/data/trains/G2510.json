@@ -1,0 +1,66 @@
+{
+  "train_no": "G2510",
+  "train_type": "G",
+  "depart_station": "忻州西",
+  "arrive_station": "北京北",
+  "depart_time": "14:49",
+  "arrive_time": "17:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "忻州西",
+      "arrive_time": "14:49",
+      "depart_time": "14:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "原平西",
+      "arrive_time": "15:04",
+      "depart_time": "15:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "朔州东",
+      "arrive_time": "15:31",
+      "depart_time": "15:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大同南",
+      "arrive_time": "16:10",
+      "depart_time": "16:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "张家口",
+      "arrive_time": "17:05",
+      "depart_time": "17:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "下花园北",
+      "arrive_time": "17:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "北京北",
+      "arrive_time": "17:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 861.0,
+    "price_first": 438.0,
+    "price_second": 273.0,
+    "price_no_seat": 273.0
+  },
+  "fetched_at": "2026-05-01T06:12:26.054453"
+}

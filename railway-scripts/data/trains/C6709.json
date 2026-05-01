@@ -1,0 +1,36 @@
+{
+  "train_no": "C6709",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "湛江西",
+  "depart_time": "04:15",
+  "arrive_time": "06:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "04:15",
+      "depart_time": "04:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "茂名",
+      "arrive_time": "06:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "湛江西",
+      "arrive_time": "06:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 260.0,
+    "price_no_seat": 260.0
+  },
+  "fetched_at": "2026-05-01T01:54:17.170461"
+}

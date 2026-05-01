@@ -1,0 +1,70 @@
+{
+  "train_no": "K7571",
+  "train_type": "K",
+  "depart_station": "长春",
+  "arrive_station": "通化",
+  "depart_time": "12:43",
+  "arrive_time": "17:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "12:43",
+      "depart_time": "12:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "双阳",
+      "arrive_time": "13:43",
+      "depart_time": "13:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "伊通",
+      "arrive_time": "14:19",
+      "depart_time": "14:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "辽源",
+      "arrive_time": "15:25",
+      "depart_time": "15:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "东丰",
+      "arrive_time": "16:10",
+      "depart_time": "16:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "梅河口",
+      "arrive_time": "16:44",
+      "depart_time": "16:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "柳河",
+      "arrive_time": "17:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "通化",
+      "arrive_time": "17:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 53.5
+  },
+  "fetched_at": "2026-05-01T10:30:40.135845"
+}

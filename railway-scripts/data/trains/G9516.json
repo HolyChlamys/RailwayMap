@@ -1,0 +1,45 @@
+{
+  "train_no": "G9516",
+  "train_type": "G",
+  "depart_station": "安庆",
+  "arrive_station": "合肥南",
+  "depart_time": "20:42",
+  "arrive_time": "21:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安庆",
+      "arrive_time": "20:42",
+      "depart_time": "20:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "池州",
+      "arrive_time": "21:01",
+      "depart_time": "21:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "铜陵",
+      "arrive_time": "21:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥南",
+      "arrive_time": "21:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 385.0,
+    "price_first": 191.5,
+    "price_second": 116.0,
+    "price_no_seat": 116.0
+  },
+  "fetched_at": "2026-05-01T09:16:27.899287"
+}

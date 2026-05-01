@@ -1,0 +1,44 @@
+{
+  "train_no": "D8215",
+  "train_type": "D",
+  "depart_station": "全州南",
+  "arrive_station": "南宁东",
+  "depart_time": "11:44",
+  "arrive_time": "13:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "全州南",
+      "arrive_time": "11:44",
+      "depart_time": "11:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桂林",
+      "arrive_time": "12:35",
+      "depart_time": "12:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "柳州",
+      "arrive_time": "13:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁东",
+      "arrive_time": "13:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 286.0,
+    "price_second": 178.0,
+    "price_no_seat": 178.0
+  },
+  "fetched_at": "2026-05-01T04:51:23.580103"
+}

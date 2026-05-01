@@ -1,0 +1,31 @@
+{
+  "train_no": "C2440",
+  "train_type": "C",
+  "depart_station": "合肥西",
+  "arrive_station": "泗县东",
+  "depart_time": "20:53",
+  "arrive_time": "20:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥西",
+      "arrive_time": "20:53",
+      "depart_time": "20:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泗县东",
+      "arrive_time": "20:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 580.0,
+    "price_first": 265.0,
+    "price_second": 166.0,
+    "price_no_seat": 166.0
+  },
+  "fetched_at": "2026-05-01T00:39:23.792160"
+}

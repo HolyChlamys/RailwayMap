@@ -1,0 +1,79 @@
+{
+  "train_no": "G2451",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "张家界西",
+  "depart_time": "17:13",
+  "arrive_time": "21:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "17:13",
+      "depart_time": "17:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "18:38",
+      "depart_time": "18:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆东",
+      "arrive_time": "19:35",
+      "depart_time": "19:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南川北",
+      "arrive_time": "19:58",
+      "depart_time": "19:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "黔江",
+      "arrive_time": "20:46",
+      "depart_time": "20:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "咸丰",
+      "arrive_time": "21:10",
+      "depart_time": "21:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "来凤",
+      "arrive_time": "21:27",
+      "depart_time": "21:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "桑植",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "张家界西",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 704.0,
+    "price_second": 439.0,
+    "price_no_seat": 439.0
+  },
+  "fetched_at": "2026-05-01T06:10:43.618312"
+}

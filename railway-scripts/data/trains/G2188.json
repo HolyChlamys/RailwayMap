@@ -1,0 +1,143 @@
+{
+  "train_no": "G2188",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "成都东",
+  "depart_time": "07:15",
+  "arrive_time": "19:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "07:15",
+      "depart_time": "07:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "千岛湖",
+      "arrive_time": "08:05",
+      "depart_time": "08:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "黄山北",
+      "arrive_time": "08:46",
+      "depart_time": "08:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "上饶",
+      "arrive_time": "09:29",
+      "depart_time": "09:55",
+      "stay_min": "26"
+    },
+    {
+      "seq": 5,
+      "station_name": "鹰潭北",
+      "arrive_time": "10:26",
+      "depart_time": "10:37",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "南昌西",
+      "arrive_time": "11:14",
+      "depart_time": "11:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "宜春",
+      "arrive_time": "11:59",
+      "depart_time": "12:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "萍乡北",
+      "arrive_time": "12:19",
+      "depart_time": "12:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "长沙南",
+      "arrive_time": "12:51",
+      "depart_time": "12:57",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "湘潭北",
+      "arrive_time": "13:11",
+      "depart_time": "13:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "新化南",
+      "arrive_time": "13:58",
+      "depart_time": "14:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "怀化南",
+      "arrive_time": "14:33",
+      "depart_time": "14:38",
+      "stay_min": "5"
+    },
+    {
+      "seq": 13,
+      "station_name": "新晃西",
+      "arrive_time": "15:02",
+      "depart_time": "15:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "贵阳东",
+      "arrive_time": "16:11",
+      "depart_time": "16:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "黔西",
+      "arrive_time": "16:42",
+      "depart_time": "16:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "宜宾",
+      "arrive_time": "18:05",
+      "depart_time": "18:11",
+      "stay_min": "6"
+    },
+    {
+      "seq": 17,
+      "station_name": "自贡",
+      "arrive_time": "18:37",
+      "depart_time": "18:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "成都东",
+      "arrive_time": "19:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3938.5,
+    "price_first": 1886.0,
+    "price_second": 1173.0,
+    "price_no_seat": 1173.0
+  },
+  "fetched_at": "2026-05-01T06:03:48.335178"
+}

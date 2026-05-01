@@ -1,0 +1,59 @@
+{
+  "train_no": "G3735",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "深圳北",
+  "depart_time": "13:46",
+  "arrive_time": "17:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "13:46",
+      "depart_time": "13:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肇庆东",
+      "arrive_time": "16:56",
+      "depart_time": "16:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "佛山西",
+      "arrive_time": "17:16",
+      "depart_time": "17:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "17:40",
+      "depart_time": "17:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南沙北",
+      "arrive_time": "17:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "17:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1742.0,
+    "price_first": 805.5,
+    "price_second": 515.5,
+    "price_no_seat": 515.5
+  },
+  "fetched_at": "2026-05-01T06:46:06.590267"
+}

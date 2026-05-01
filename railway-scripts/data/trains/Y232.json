@@ -1,0 +1,47 @@
+{
+  "train_no": "Y232",
+  "train_type": "Y",
+  "depart_station": "曲阜",
+  "arrive_station": "焦作",
+  "depart_time": "19:35",
+  "arrive_time": "04:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "曲阜",
+      "arrive_time": "19:35",
+      "depart_time": "19:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兖州",
+      "arrive_time": "20:59",
+      "depart_time": "21:13",
+      "stay_min": "14"
+    },
+    {
+      "seq": 3,
+      "station_name": "菏泽南",
+      "arrive_time": "23:32",
+      "depart_time": "01:19",
+      "stay_min": "1333"
+    },
+    {
+      "seq": 4,
+      "station_name": "新乡",
+      "arrive_time": "03:31",
+      "depart_time": "03:54",
+      "stay_min": "23"
+    },
+    {
+      "seq": 5,
+      "station_name": "焦作",
+      "arrive_time": "04:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:30:25.990149"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G6480",
+  "train_type": "G",
+  "depart_station": "深圳",
+  "arrive_station": "汕头",
+  "depart_time": "08:45",
+  "arrive_time": "10:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "08:45",
+      "depart_time": "08:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠州南",
+      "arrive_time": "09:27",
+      "depart_time": "09:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汕尾",
+      "arrive_time": "09:57",
+      "depart_time": "09:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "陆丰南",
+      "arrive_time": "10:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汕头",
+      "arrive_time": "10:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 934.0,
+    "price_first": 412.0,
+    "price_second": 266.0,
+    "price_no_seat": 266.0
+  },
+  "fetched_at": "2026-05-01T08:00:05.138960"
+}

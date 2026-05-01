@@ -1,0 +1,66 @@
+{
+  "train_no": "C8929",
+  "train_type": "C",
+  "depart_station": "西安北",
+  "arrive_station": "汕头",
+  "depart_time": "21:51",
+  "arrive_time": "02:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "21:51",
+      "depart_time": "21:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "富平南",
+      "arrive_time": "22:13",
+      "depart_time": "22:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "铜川",
+      "arrive_time": "22:29",
+      "depart_time": "22:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "梅州西",
+      "arrive_time": "00:41",
+      "depart_time": "00:47",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "揭阳",
+      "arrive_time": "01:14",
+      "depart_time": "01:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "潮汕",
+      "arrive_time": "01:34",
+      "depart_time": "01:39",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "汕头",
+      "arrive_time": "02:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 249.0,
+    "price_first": 114.0,
+    "price_second": 71.0,
+    "price_no_seat": 71.0
+  },
+  "fetched_at": "2026-05-01T02:38:48.007787"
+}

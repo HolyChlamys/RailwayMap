@@ -1,0 +1,66 @@
+{
+  "train_no": "C924",
+  "train_type": "C",
+  "depart_station": "福州",
+  "arrive_station": "德化",
+  "depart_time": "14:04",
+  "arrive_time": "16:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "14:04",
+      "depart_time": "14:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莆田",
+      "arrive_time": "14:58",
+      "depart_time": "15:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "泉州",
+      "arrive_time": "15:32",
+      "depart_time": "15:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "南安北",
+      "arrive_time": "15:54",
+      "depart_time": "15:57",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "安溪东",
+      "arrive_time": "16:06",
+      "depart_time": "16:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "永春",
+      "arrive_time": "16:30",
+      "depart_time": "16:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "德化",
+      "arrive_time": "16:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 366.0,
+    "price_first": 167.0,
+    "price_second": 104.0,
+    "price_no_seat": 104.0
+  },
+  "fetched_at": "2026-05-01T02:43:03.344904"
+}

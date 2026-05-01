@@ -1,0 +1,80 @@
+{
+  "train_no": "G4782",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "西安北",
+  "depart_time": "20:22",
+  "arrive_time": "02:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州北",
+      "arrive_time": "20:45",
+      "depart_time": "20:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "常州北",
+      "arrive_time": "21:09",
+      "depart_time": "21:17",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "镇江南",
+      "arrive_time": "21:35",
+      "depart_time": "21:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "21:56",
+      "depart_time": "22:05",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "蚌埠南",
+      "arrive_time": "22:46",
+      "depart_time": "22:51",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "徐州东",
+      "arrive_time": "23:29",
+      "depart_time": "23:41",
+      "stay_min": "12"
+    },
+    {
+      "seq": 8,
+      "station_name": "郑州东",
+      "arrive_time": "01:10",
+      "depart_time": "01:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "西安北",
+      "arrive_time": "02:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2405.5,
+    "price_first": 1160.5,
+    "price_second": 725.0,
+    "price_no_seat": 725.0
+  },
+  "fetched_at": "2026-05-01T07:15:39.356426"
+}

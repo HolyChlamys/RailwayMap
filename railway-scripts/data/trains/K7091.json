@@ -1,0 +1,56 @@
+{
+  "train_no": "K7091",
+  "train_type": "K",
+  "depart_station": "哈尔滨",
+  "arrive_station": "满洲里",
+  "depart_time": "20:55",
+  "arrive_time": "08:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨",
+      "arrive_time": "20:55",
+      "depart_time": "20:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大庆西",
+      "arrive_time": "22:38",
+      "depart_time": "22:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "牙克石",
+      "arrive_time": "05:01",
+      "depart_time": "05:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "海拉尔",
+      "arrive_time": "06:27",
+      "depart_time": "06:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "扎赉诺尔西",
+      "arrive_time": "08:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "满洲里",
+      "arrive_time": "08:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 119.0
+  },
+  "fetched_at": "2026-05-01T10:27:55.420685"
+}

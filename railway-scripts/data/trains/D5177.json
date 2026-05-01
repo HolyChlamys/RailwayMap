@@ -1,0 +1,100 @@
+{
+  "train_no": "D5177",
+  "train_type": "D",
+  "depart_station": "潼南",
+  "arrive_station": "贵阳北",
+  "depart_time": "11:47",
+  "arrive_time": "15:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潼南",
+      "arrive_time": "11:47",
+      "depart_time": "11:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "11:02",
+      "depart_time": "11:08",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "合川",
+      "arrive_time": "12:10",
+      "depart_time": "12:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "綦江东",
+      "arrive_time": "11:33",
+      "depart_time": "11:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "重庆西",
+      "arrive_time": "12:42",
+      "depart_time": "12:55",
+      "stay_min": "13"
+    },
+    {
+      "seq": 6,
+      "station_name": "綦江东",
+      "arrive_time": "13:20",
+      "depart_time": "13:28",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "赶水东",
+      "arrive_time": "13:42",
+      "depart_time": "13:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "桐梓北",
+      "arrive_time": "14:04",
+      "depart_time": "14:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "桐梓东",
+      "arrive_time": "14:20",
+      "depart_time": "14:37",
+      "stay_min": "17"
+    },
+    {
+      "seq": 10,
+      "station_name": "乌江寨",
+      "arrive_time": "15:08",
+      "depart_time": "15:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "修文县",
+      "arrive_time": "15:37",
+      "depart_time": "15:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "贵阳北",
+      "arrive_time": "15:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 289.0,
+    "price_second": 181.0,
+    "price_no_seat": 181.0
+  },
+  "fetched_at": "2026-05-01T04:01:58.269362"
+}

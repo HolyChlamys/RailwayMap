@@ -1,0 +1,94 @@
+{
+  "train_no": "D282",
+  "train_type": "D",
+  "depart_station": "黄龙九寨",
+  "arrive_station": "昆明",
+  "depart_time": "11:51",
+  "arrive_time": "21:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄龙九寨",
+      "arrive_time": "11:51",
+      "depart_time": "11:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都西",
+      "arrive_time": "14:07",
+      "depart_time": "14:17",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "越西",
+      "arrive_time": "16:41",
+      "depart_time": "16:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "喜德西",
+      "arrive_time": "17:04",
+      "depart_time": "17:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "冕宁",
+      "arrive_time": "17:15",
+      "depart_time": "17:19",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "西昌西",
+      "arrive_time": "17:45",
+      "depart_time": "17:52",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "攀枝花南",
+      "arrive_time": "19:11",
+      "depart_time": "19:17",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "永仁",
+      "arrive_time": "19:45",
+      "depart_time": "19:48",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "元谋西",
+      "arrive_time": "20:10",
+      "depart_time": "20:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "广通北",
+      "arrive_time": "20:47",
+      "depart_time": "20:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "昆明",
+      "arrive_time": "21:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1491.0,
+    "price_first": 695.0,
+    "price_second": 434.0,
+    "price_no_seat": 434.0
+  },
+  "fetched_at": "2026-05-01T03:24:02.913716"
+}

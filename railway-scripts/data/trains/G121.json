@@ -1,0 +1,94 @@
+{
+  "train_no": "G121",
+  "train_type": "G",
+  "depart_station": "北京",
+  "arrive_station": "七台河西",
+  "depart_time": "14:12",
+  "arrive_time": "21:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京",
+      "arrive_time": "14:12",
+      "depart_time": "14:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "北京朝阳",
+      "arrive_time": "14:36",
+      "depart_time": "14:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "承德南",
+      "arrive_time": "15:28",
+      "depart_time": "15:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳北",
+      "arrive_time": "17:17",
+      "depart_time": "17:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "长春西",
+      "arrive_time": "18:23",
+      "depart_time": "18:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "哈尔滨西",
+      "arrive_time": "19:22",
+      "depart_time": "19:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "尚志南",
+      "arrive_time": "20:17",
+      "depart_time": "20:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "亚布力西",
+      "arrive_time": "20:39",
+      "depart_time": "20:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "牡丹江",
+      "arrive_time": "21:14",
+      "depart_time": "21:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "鸡西西",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "七台河西",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3034.0,
+    "price_first": 1413.0,
+    "price_second": 882.0,
+    "price_no_seat": 882.0
+  },
+  "fetched_at": "2026-05-01T05:36:15.193577"
+}

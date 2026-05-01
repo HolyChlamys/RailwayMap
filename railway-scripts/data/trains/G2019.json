@@ -1,0 +1,52 @@
+{
+  "train_no": "G2019",
+  "train_type": "G",
+  "depart_station": "济南西",
+  "arrive_station": "郑州东",
+  "depart_time": "09:13",
+  "arrive_time": "10:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "09:13",
+      "depart_time": "09:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "聊城西",
+      "arrive_time": "09:48",
+      "depart_time": "09:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莘县",
+      "arrive_time": "10:01",
+      "depart_time": "10:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新乡东",
+      "arrive_time": "10:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "10:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 816.0,
+    "price_first": 373.0,
+    "price_second": 233.0,
+    "price_no_seat": 233.0
+  },
+  "fetched_at": "2026-05-01T05:59:24.230959"
+}

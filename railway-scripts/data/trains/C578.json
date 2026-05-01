@@ -1,0 +1,51 @@
+{
+  "train_no": "C578",
+  "train_type": "C",
+  "depart_station": "建水",
+  "arrive_station": "昆明",
+  "depart_time": "10:20",
+  "arrive_time": "12:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "建水",
+      "arrive_time": "10:20",
+      "depart_time": "10:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "通海",
+      "arrive_time": "11:07",
+      "depart_time": "11:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "玉溪",
+      "arrive_time": "11:40",
+      "depart_time": "11:45",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明南",
+      "arrive_time": "12:24",
+      "depart_time": "12:30",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明",
+      "arrive_time": "12:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 103.0,
+    "price_second": 65.0,
+    "price_no_seat": 65.0
+  },
+  "fetched_at": "2026-05-01T01:38:14.104746"
+}

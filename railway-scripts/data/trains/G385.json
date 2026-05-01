@@ -1,0 +1,94 @@
+{
+  "train_no": "G385",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "香港西九龙",
+  "depart_time": "08:47",
+  "arrive_time": "17:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "08:47",
+      "depart_time": "08:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "无锡东",
+      "arrive_time": "09:29",
+      "depart_time": "09:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "10:22",
+      "depart_time": "10:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥南",
+      "arrive_time": "11:13",
+      "depart_time": "11:17",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "武汉",
+      "arrive_time": "13:02",
+      "depart_time": "13:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "岳阳东",
+      "arrive_time": "13:56",
+      "depart_time": "13:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙南",
+      "arrive_time": "14:33",
+      "depart_time": "14:37",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "郴州西",
+      "arrive_time": "15:38",
+      "depart_time": "15:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "广州南",
+      "arrive_time": "16:56",
+      "depart_time": "16:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "深圳北",
+      "arrive_time": "17:30",
+      "depart_time": "17:34",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "香港西九龙",
+      "arrive_time": "17:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3927.0,
+    "price_first": 1855.0,
+    "price_second": 1159.0,
+    "price_no_seat": 1159.0
+  },
+  "fetched_at": "2026-05-01T06:49:03.428909"
+}

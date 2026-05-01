@@ -1,0 +1,30 @@
+{
+  "train_no": "G8579",
+  "train_type": "G",
+  "depart_station": "荣昌北",
+  "arrive_station": "重庆西",
+  "depart_time": "21:17",
+  "arrive_time": "21:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荣昌北",
+      "arrive_time": "21:17",
+      "depart_time": "21:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "21:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 78.0,
+    "price_second": 49.0,
+    "price_no_seat": 49.0
+  },
+  "fetched_at": "2026-05-01T08:54:59.677746"
+}

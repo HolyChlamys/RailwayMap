@@ -1,0 +1,30 @@
+{
+  "train_no": "D9778",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "怀集",
+  "depart_time": "05:43",
+  "arrive_time": "05:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "05:43",
+      "depart_time": "05:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀集",
+      "arrive_time": "05:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 131.0,
+    "price_second": 82.0,
+    "price_no_seat": 82.0
+  },
+  "fetched_at": "2026-05-01T05:24:41.241957"
+}

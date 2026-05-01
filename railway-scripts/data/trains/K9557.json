@@ -1,0 +1,49 @@
+{
+  "train_no": "K9557",
+  "train_type": "K",
+  "depart_station": "昭通",
+  "arrive_station": "贵阳",
+  "depart_time": "12:45",
+  "arrive_time": "20:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昭通",
+      "arrive_time": "12:45",
+      "depart_time": "12:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "草海",
+      "arrive_time": "14:25",
+      "depart_time": "14:31",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "六盘水",
+      "arrive_time": "16:31",
+      "depart_time": "16:41",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺",
+      "arrive_time": "19:20",
+      "depart_time": "19:27",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳",
+      "arrive_time": "20:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 54.5
+  },
+  "fetched_at": "2026-05-01T10:46:53.523834"
+}

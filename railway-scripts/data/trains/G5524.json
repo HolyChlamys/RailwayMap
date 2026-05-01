@@ -1,0 +1,52 @@
+{
+  "train_no": "G5524",
+  "train_type": "G",
+  "depart_station": "菏泽东",
+  "arrive_station": "济南东",
+  "depart_time": "20:36",
+  "arrive_time": "22:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "菏泽东",
+      "arrive_time": "20:36",
+      "depart_time": "20:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲阜东",
+      "arrive_time": "21:20",
+      "depart_time": "21:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "泰安",
+      "arrive_time": "21:43",
+      "depart_time": "21:55",
+      "stay_min": "12"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南西",
+      "arrive_time": "22:13",
+      "depart_time": "22:17",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "济南东",
+      "arrive_time": "22:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 613.0,
+    "price_first": 284.0,
+    "price_second": 177.0,
+    "price_no_seat": 177.0
+  },
+  "fetched_at": "2026-05-01T07:35:55.271698"
+}

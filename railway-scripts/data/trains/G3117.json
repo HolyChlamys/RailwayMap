@@ -1,0 +1,52 @@
+{
+  "train_no": "G3117",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "杭州东",
+  "depart_time": "09:13",
+  "arrive_time": "12:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "09:13",
+      "depart_time": "09:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "周口东",
+      "arrive_time": "10:04",
+      "depart_time": "10:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "11:46",
+      "depart_time": "11:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖",
+      "arrive_time": "12:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州东",
+      "arrive_time": "12:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1571.5,
+    "price_first": 826.5,
+    "price_second": 514.5,
+    "price_no_seat": 514.5
+  },
+  "fetched_at": "2026-05-01T06:29:17.179284"
+}

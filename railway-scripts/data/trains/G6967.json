@@ -1,0 +1,101 @@
+{
+  "train_no": "G6967",
+  "train_type": "G",
+  "depart_station": "济南西",
+  "arrive_station": "济  南西",
+  "depart_time": "09:08",
+  "arrive_time": "14:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲阜东",
+      "arrive_time": "09:40",
+      "depart_time": "09:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "蒙山",
+      "arrive_time": "10:04",
+      "depart_time": "10:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "费县北",
+      "arrive_time": "10:17",
+      "depart_time": "10:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "临沂北",
+      "arrive_time": "10:32",
+      "depart_time": "10:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "日照西",
+      "arrive_time": "11:04",
+      "depart_time": "11:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "青岛北",
+      "arrive_time": "12:08",
+      "depart_time": "12:26",
+      "stay_min": "18"
+    },
+    {
+      "seq": 8,
+      "station_name": "青岛机场",
+      "arrive_time": "12:48",
+      "depart_time": "12:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "潍坊北",
+      "arrive_time": "13:18",
+      "depart_time": "13:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "淄博北",
+      "arrive_time": "13:48",
+      "depart_time": "13:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "济南东",
+      "arrive_time": "14:13",
+      "depart_time": "14:18",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "济  南西",
+      "arrive_time": "14:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1352.0,
+    "price_first": 660.0,
+    "price_second": 412.0,
+    "price_no_seat": 412.0
+  },
+  "fetched_at": "2026-05-01T08:13:56.352961"
+}

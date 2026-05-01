@@ -1,0 +1,42 @@
+{
+  "train_no": "K5169",
+  "train_type": "K",
+  "depart_station": "齐齐哈尔",
+  "arrive_station": "碾子山",
+  "depart_time": "15:53",
+  "arrive_time": "17:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "齐齐哈尔",
+      "arrive_time": "15:53",
+      "depart_time": "15:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "富拉尔基",
+      "arrive_time": "16:29",
+      "depart_time": "16:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙江",
+      "arrive_time": "17:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "碾子山",
+      "arrive_time": "17:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 18.5
+  },
+  "fetched_at": "2026-05-01T10:05:24.096000"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "G8645",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "沙坪坝",
+  "depart_time": "12:37",
+  "arrive_time": "13:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "12:37",
+      "depart_time": "12:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "简阳南",
+      "arrive_time": "12:56",
+      "depart_time": "12:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "隆昌北",
+      "arrive_time": "13:26",
+      "depart_time": "13:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大足南",
+      "arrive_time": "13:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沙坪坝",
+      "arrive_time": "13:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 576.0,
+    "price_first": 263.0,
+    "price_second": 164.0,
+    "price_no_seat": 164.0
+  },
+  "fetched_at": "2026-05-01T08:56:48.739271"
+}

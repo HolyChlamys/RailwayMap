@@ -1,0 +1,70 @@
+{
+  "train_no": "K4381",
+  "train_type": "K",
+  "depart_station": "重庆东",
+  "arrive_station": "福州",
+  "depart_time": "07:49",
+  "arrive_time": "12:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆东",
+      "arrive_time": "07:49",
+      "depart_time": "07:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黔江",
+      "arrive_time": "10:59",
+      "depart_time": "11:05",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "酉阳",
+      "arrive_time": "12:00",
+      "depart_time": "12:10",
+      "stay_min": "10"
+    },
+    {
+      "seq": 4,
+      "station_name": "秀山",
+      "arrive_time": "12:41",
+      "depart_time": "12:47",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "怀化",
+      "arrive_time": "15:37",
+      "depart_time": "15:45",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "娄底",
+      "arrive_time": "19:56",
+      "depart_time": "20:02",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "延平东",
+      "arrive_time": "09:03",
+      "depart_time": "09:13",
+      "stay_min": "10"
+    },
+    {
+      "seq": 8,
+      "station_name": "福州",
+      "arrive_time": "12:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T09:53:13.650660"
+}

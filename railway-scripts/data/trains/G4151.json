@@ -1,0 +1,52 @@
+{
+  "train_no": "G4151",
+  "train_type": "G",
+  "depart_station": "上海南",
+  "arrive_station": "南昌西",
+  "depart_time": "04:29",
+  "arrive_time": "07:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "04:29",
+      "depart_time": "04:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州东",
+      "arrive_time": "05:23",
+      "depart_time": "05:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "上饶",
+      "arrive_time": "06:50",
+      "depart_time": "06:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鹰潭北",
+      "arrive_time": "07:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌西",
+      "arrive_time": "07:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1407.0,
+    "price_first": 643.0,
+    "price_second": 402.0,
+    "price_no_seat": 402.0
+  },
+  "fetched_at": "2026-05-01T06:57:15.985101"
+}

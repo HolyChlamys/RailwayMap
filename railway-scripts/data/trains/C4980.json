@@ -1,0 +1,43 @@
+{
+  "train_no": "C4980",
+  "train_type": "C",
+  "depart_station": "佛山  西",
+  "arrive_station": "广州长隆",
+  "depart_time": "07:59",
+  "arrive_time": "08:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "佛山  西",
+      "arrive_time": "07:59",
+      "depart_time": "07:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "顺德北",
+      "arrive_time": "08:11",
+      "depart_time": "08:12",
+      "stay_min": "1"
+    },
+    {
+      "seq": 3,
+      "station_name": "番禺",
+      "arrive_time": "08:22",
+      "depart_time": "08:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "广州长隆",
+      "arrive_time": "08:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 28.0,
+    "price_no_seat": 28.0
+  },
+  "fetched_at": "2026-05-01T01:23:19.051860"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G5282",
+  "train_type": "G",
+  "depart_station": "菏泽东",
+  "arrive_station": "济南",
+  "depart_time": "10:39",
+  "arrive_time": "12:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "菏泽东",
+      "arrive_time": "10:39",
+      "depart_time": "10:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉祥北",
+      "arrive_time": "11:04",
+      "depart_time": "11:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "济宁北",
+      "arrive_time": "11:16",
+      "depart_time": "11:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "曲阜东",
+      "arrive_time": "11:41",
+      "depart_time": "11:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "泰安",
+      "arrive_time": "12:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "济南",
+      "arrive_time": "12:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 570.0,
+    "price_first": 260.0,
+    "price_second": 163.0,
+    "price_no_seat": 163.0
+  },
+  "fetched_at": "2026-05-01T07:30:06.593017"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G2993",
+  "train_type": "G",
+  "depart_station": "铜仁",
+  "arrive_station": "兴义南",
+  "depart_time": "19:09",
+  "arrive_time": "21:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "铜仁",
+      "arrive_time": "19:09",
+      "depart_time": "19:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三穗",
+      "arrive_time": "20:03",
+      "depart_time": "20:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "凯里南",
+      "arrive_time": "20:30",
+      "depart_time": "20:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "21:09",
+      "depart_time": "21:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "安顺西",
+      "arrive_time": "21:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兴义南",
+      "arrive_time": "21:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1315.0,
+    "price_first": 606.0,
+    "price_second": 378.0,
+    "price_no_seat": 378.0
+  },
+  "fetched_at": "2026-05-01T06:25:49.697646"
+}

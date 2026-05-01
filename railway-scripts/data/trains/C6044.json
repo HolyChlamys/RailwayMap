@@ -1,0 +1,58 @@
+{
+  "train_no": "C6044",
+  "train_type": "C",
+  "depart_station": "贵阳北",
+  "arrive_station": "六盘水",
+  "depart_time": "16:01",
+  "arrive_time": "17:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "16:01",
+      "depart_time": "16:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金阳",
+      "arrive_time": "16:16",
+      "depart_time": "16:20",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "贵安",
+      "arrive_time": "16:32",
+      "depart_time": "16:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺西",
+      "arrive_time": "16:58",
+      "depart_time": "17:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "黄桶北",
+      "arrive_time": "17:12",
+      "depart_time": "17:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "六盘水",
+      "arrive_time": "17:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 177.0,
+    "price_second": 111.0,
+    "price_no_seat": 111.0
+  },
+  "fetched_at": "2026-05-01T01:43:52.103892"
+}

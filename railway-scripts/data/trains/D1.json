@@ -1,0 +1,57 @@
+{
+  "train_no": "D1",
+  "train_type": "D",
+  "depart_station": "北京西",
+  "arrive_station": "长沙",
+  "depart_time": "17:59",
+  "arrive_time": "06:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "17:59",
+      "depart_time": "17:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "20:30",
+      "depart_time": "20:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州",
+      "arrive_time": "00:05",
+      "depart_time": "00:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武昌",
+      "arrive_time": "04:50",
+      "depart_time": "04:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "岳阳",
+      "arrive_time": "06:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙",
+      "arrive_time": "06:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 490.0,
+    "price_no_seat": 490.0
+  },
+  "fetched_at": "2026-05-01T02:55:19.194141"
+}

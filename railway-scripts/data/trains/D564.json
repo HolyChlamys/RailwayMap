@@ -1,0 +1,100 @@
+{
+  "train_no": "D564",
+  "train_type": "D",
+  "depart_station": "通辽",
+  "arrive_station": "佳木斯",
+  "depart_time": "06:41",
+  "arrive_time": "13:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "通辽",
+      "arrive_time": "06:41",
+      "depart_time": "06:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "甘旗卡",
+      "arrive_time": "07:05",
+      "depart_time": "07:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "彰武",
+      "arrive_time": "07:28",
+      "depart_time": "07:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳北",
+      "arrive_time": "08:14",
+      "depart_time": "08:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "四平东",
+      "arrive_time": "09:08",
+      "depart_time": "09:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "长春西",
+      "arrive_time": "09:41",
+      "depart_time": "09:44",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "哈尔滨西",
+      "arrive_time": "10:50",
+      "depart_time": "10:56",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "宾州",
+      "arrive_time": "11:31",
+      "depart_time": "11:34",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "胜利镇",
+      "arrive_time": "11:51",
+      "depart_time": "11:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "高楞",
+      "arrive_time": "12:31",
+      "depart_time": "12:34",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "依兰",
+      "arrive_time": "12:51",
+      "depart_time": "12:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "佳木斯",
+      "arrive_time": "13:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 693.0,
+    "price_second": 433.0,
+    "price_no_seat": 433.0
+  },
+  "fetched_at": "2026-05-01T04:09:29.334741"
+}

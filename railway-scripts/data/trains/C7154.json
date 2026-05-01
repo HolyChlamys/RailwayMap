@@ -1,0 +1,38 @@
+{
+  "train_no": "C7154",
+  "train_type": "C",
+  "depart_station": "深圳北",
+  "arrive_station": "郴州西",
+  "depart_time": "05:14",
+  "arrive_time": "05:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "05:14",
+      "depart_time": "05:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "05:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州西",
+      "arrive_time": "05:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 925.5,
+    "price_first": 431.5,
+    "price_second": 281.5,
+    "price_no_seat": 281.5
+  },
+  "fetched_at": "2026-05-01T02:07:30.177888"
+}

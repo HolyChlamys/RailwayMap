@@ -1,0 +1,49 @@
+{
+  "train_no": "K5067",
+  "train_type": "K",
+  "depart_station": "赤峰南",
+  "arrive_station": "通辽",
+  "depart_time": "18:13",
+  "arrive_time": "22:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赤峰南",
+      "arrive_time": "18:13",
+      "depart_time": "18:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "奈曼",
+      "arrive_time": "20:51",
+      "depart_time": "20:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "八仙筒",
+      "arrive_time": "21:30",
+      "depart_time": "21:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "治安",
+      "arrive_time": "22:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "通辽",
+      "arrive_time": "22:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 51.5
+  },
+  "fetched_at": "2026-05-01T10:03:07.125625"
+}

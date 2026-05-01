@@ -1,0 +1,73 @@
+{
+  "train_no": "G538",
+  "train_type": "G",
+  "depart_station": "桂林北",
+  "arrive_station": "长沙南",
+  "depart_time": "18:09",
+  "arrive_time": "21:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "桂林北",
+      "arrive_time": "18:09",
+      "depart_time": "18:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "全州南",
+      "arrive_time": "18:51",
+      "depart_time": "18:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东安东",
+      "arrive_time": "19:16",
+      "depart_time": "19:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "永州",
+      "arrive_time": "19:34",
+      "depart_time": "19:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "祁东",
+      "arrive_time": "20:02",
+      "depart_time": "20:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "衡阳东",
+      "arrive_time": "20:33",
+      "depart_time": "20:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "株洲西",
+      "arrive_time": "21:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "长沙南",
+      "arrive_time": "21:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 650.0,
+    "price_first": 321.0,
+    "price_second": 200.0,
+    "price_no_seat": 200.0
+  },
+  "fetched_at": "2026-05-01T07:32:29.174220"
+}

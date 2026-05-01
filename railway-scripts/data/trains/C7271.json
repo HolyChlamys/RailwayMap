@@ -1,0 +1,87 @@
+{
+  "train_no": "C7271",
+  "train_type": "C",
+  "depart_station": "深圳北",
+  "arrive_station": "张家界西",
+  "depart_time": "23:36",
+  "arrive_time": "06:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "23:36",
+      "depart_time": "23:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "00:05",
+      "depart_time": "00:13",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州西",
+      "arrive_time": "01:30",
+      "depart_time": "01:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "衡阳东",
+      "arrive_time": "02:06",
+      "depart_time": "02:18",
+      "stay_min": "12"
+    },
+    {
+      "seq": 5,
+      "station_name": "株洲西",
+      "arrive_time": "02:45",
+      "depart_time": "02:57",
+      "stay_min": "12"
+    },
+    {
+      "seq": 6,
+      "station_name": "长沙南",
+      "arrive_time": "03:12",
+      "depart_time": "03:32",
+      "stay_min": "20"
+    },
+    {
+      "seq": 7,
+      "station_name": "娄底南",
+      "arrive_time": "04:08",
+      "depart_time": "04:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "怀化南",
+      "arrive_time": "05:02",
+      "depart_time": "05:11",
+      "stay_min": "9"
+    },
+    {
+      "seq": 9,
+      "station_name": "吉首东",
+      "arrive_time": "05:42",
+      "depart_time": "05:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "张家界西",
+      "arrive_time": "06:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2634.5,
+    "price_first": 1212.5,
+    "price_second": 770.5,
+    "price_no_seat": 770.5
+  },
+  "fetched_at": "2026-05-01T02:10:46.520780"
+}

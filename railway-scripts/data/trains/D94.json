@@ -1,0 +1,78 @@
+{
+  "train_no": "D94",
+  "train_type": "D",
+  "depart_station": "西安",
+  "arrive_station": "上海",
+  "depart_time": "15:10",
+  "arrive_time": "06:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "15:10",
+      "depart_time": "15:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛阳",
+      "arrive_time": "19:38",
+      "depart_time": "19:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州",
+      "arrive_time": "21:04",
+      "depart_time": "21:11",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "开封",
+      "arrive_time": "21:48",
+      "depart_time": "21:52",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "商丘",
+      "arrive_time": "22:54",
+      "depart_time": "22:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "徐州",
+      "arrive_time": "00:13",
+      "depart_time": "00:23",
+      "stay_min": "10"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京",
+      "arrive_time": "03:21",
+      "depart_time": "03:29",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "苏州",
+      "arrive_time": "05:12",
+      "depart_time": "05:17",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "上海",
+      "arrive_time": "06:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 466.0,
+    "price_no_seat": 466.0
+  },
+  "fetched_at": "2026-05-01T05:15:04.206518"
+}

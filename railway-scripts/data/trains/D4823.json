@@ -1,0 +1,44 @@
+{
+  "train_no": "D4823",
+  "train_type": "D",
+  "depart_station": "上海虹桥",
+  "arrive_station": "汉口",
+  "depart_time": "02:47",
+  "arrive_time": "06:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "02:47",
+      "depart_time": "02:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "04:06",
+      "depart_time": "04:10",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "04:58",
+      "depart_time": "05:03",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "06:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 514.5,
+    "price_second": 322.0,
+    "price_no_seat": 322.0
+  },
+  "fetched_at": "2026-05-01T03:57:06.366269"
+}

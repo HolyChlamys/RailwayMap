@@ -1,0 +1,38 @@
+{
+  "train_no": "G5123",
+  "train_type": "G",
+  "depart_station": "厦门北",
+  "arrive_station": "诏安",
+  "depart_time": "06:40",
+  "arrive_time": "06:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "06:40",
+      "depart_time": "06:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "06:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "诏安",
+      "arrive_time": "06:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 256.0,
+    "price_first": 117.0,
+    "price_second": 73.0,
+    "price_no_seat": 73.0
+  },
+  "fetched_at": "2026-05-01T07:25:22.740837"
+}

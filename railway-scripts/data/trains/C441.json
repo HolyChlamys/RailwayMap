@@ -1,0 +1,38 @@
+{
+  "train_no": "C441",
+  "train_type": "C",
+  "depart_station": "丽江",
+  "arrive_station": "香格里拉",
+  "depart_time": "08:05",
+  "arrive_time": "09:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丽江",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "小中甸",
+      "arrive_time": "09:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "香格里拉",
+      "arrive_time": "09:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 243.0,
+    "price_first": 111.0,
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T01:15:05.241792"
+}

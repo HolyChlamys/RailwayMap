@@ -1,0 +1,66 @@
+{
+  "train_no": "G5072",
+  "train_type": "G",
+  "depart_station": "武平",
+  "arrive_station": "福州",
+  "depart_time": "10:42",
+  "arrive_time": "13:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武平",
+      "arrive_time": "10:42",
+      "depart_time": "10:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙岩",
+      "arrive_time": "11:19",
+      "depart_time": "11:25",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "漳州",
+      "arrive_time": "12:07",
+      "depart_time": "12:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "厦门北",
+      "arrive_time": "12:27",
+      "depart_time": "12:33",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "泉州南",
+      "arrive_time": "12:50",
+      "depart_time": "12:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "莆田",
+      "arrive_time": "13:16",
+      "depart_time": "13:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "福州",
+      "arrive_time": "13:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 857.5,
+    "price_first": 401.5,
+    "price_second": 251.5,
+    "price_no_seat": 251.5
+  },
+  "fetched_at": "2026-05-01T07:24:07.874909"
+}

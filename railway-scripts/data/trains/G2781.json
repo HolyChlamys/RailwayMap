@@ -1,0 +1,136 @@
+{
+  "train_no": "G2781",
+  "train_type": "G",
+  "depart_station": "南京南",
+  "arrive_station": "深圳",
+  "depart_time": "07:31",
+  "arrive_time": "15:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "07:31",
+      "depart_time": "07:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马鞍山东",
+      "arrive_time": "07:47",
+      "depart_time": "07:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "当涂东",
+      "arrive_time": "07:57",
+      "depart_time": "07:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖",
+      "arrive_time": "08:12",
+      "depart_time": "08:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "繁昌西",
+      "arrive_time": "08:32",
+      "depart_time": "08:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "铜陵",
+      "arrive_time": "08:48",
+      "depart_time": "08:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "池州",
+      "arrive_time": "09:08",
+      "depart_time": "09:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "安庆",
+      "arrive_time": "09:27",
+      "depart_time": "09:31",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "潜山",
+      "arrive_time": "09:52",
+      "depart_time": "09:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "太湖南",
+      "arrive_time": "10:06",
+      "depart_time": "10:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "庐山",
+      "arrive_time": "10:37",
+      "depart_time": "10:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "南昌西",
+      "arrive_time": "11:21",
+      "depart_time": "11:30",
+      "stay_min": "9"
+    },
+    {
+      "seq": 13,
+      "station_name": "吉安西",
+      "arrive_time": "12:25",
+      "depart_time": "12:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "赣州西",
+      "arrive_time": "13:14",
+      "depart_time": "13:19",
+      "stay_min": "5"
+    },
+    {
+      "seq": 15,
+      "station_name": "河源北",
+      "arrive_time": "14:16",
+      "depart_time": "14:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "河源东",
+      "arrive_time": "14:30",
+      "depart_time": "14:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "深圳",
+      "arrive_time": "15:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2564.0,
+    "price_first": 1212.0,
+    "price_second": 767.0,
+    "price_no_seat": 767.0
+  },
+  "fetched_at": "2026-05-01T06:20:05.662182"
+}

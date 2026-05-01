@@ -1,0 +1,75 @@
+{
+  "train_no": "K682",
+  "train_type": "K",
+  "depart_station": "大连",
+  "arrive_station": "北京",
+  "depart_time": "20:35",
+  "arrive_time": "08:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连",
+      "arrive_time": "20:35",
+      "depart_time": "20:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金州",
+      "arrive_time": "21:00",
+      "depart_time": "21:03",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "普兰店",
+      "arrive_time": "21:36",
+      "depart_time": "21:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "瓦房店",
+      "arrive_time": "22:01",
+      "depart_time": "22:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "熊岳城",
+      "arrive_time": "22:55",
+      "depart_time": "22:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "大石桥",
+      "arrive_time": "23:43",
+      "depart_time": "23:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "盘锦",
+      "arrive_time": "00:48",
+      "depart_time": "00:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "滦县",
+      "arrive_time": "06:15",
+      "depart_time": "06:37",
+      "stay_min": "22"
+    },
+    {
+      "seq": 9,
+      "station_name": "北京",
+      "arrive_time": "08:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T10:26:39.079197"
+}

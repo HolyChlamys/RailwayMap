@@ -1,0 +1,44 @@
+{
+  "train_no": "C1137",
+  "train_type": "C",
+  "depart_station": "通辽",
+  "arrive_station": "沈阳",
+  "depart_time": "18:40",
+  "arrive_time": "20:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "通辽",
+      "arrive_time": "18:40",
+      "depart_time": "18:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "甘旗卡",
+      "arrive_time": "19:05",
+      "depart_time": "19:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "彰武",
+      "arrive_time": "19:28",
+      "depart_time": "19:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "沈阳",
+      "arrive_time": "20:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 159.0,
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T00:22:05.132439"
+}

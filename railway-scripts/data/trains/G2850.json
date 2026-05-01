@@ -1,0 +1,80 @@
+{
+  "train_no": "G2850",
+  "train_type": "G",
+  "depart_station": "大理",
+  "arrive_station": "重庆西",
+  "depart_time": "09:55",
+  "arrive_time": "17:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "09:55",
+      "depart_time": "09:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "祥云",
+      "arrive_time": "10:16",
+      "depart_time": "10:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "楚雄",
+      "arrive_time": "10:59",
+      "depart_time": "11:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "广通北",
+      "arrive_time": "11:16",
+      "depart_time": "11:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明",
+      "arrive_time": "12:08",
+      "depart_time": "12:14",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "曲靖北",
+      "arrive_time": "13:04",
+      "depart_time": "13:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "安顺西",
+      "arrive_time": "14:32",
+      "depart_time": "14:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "贵阳北",
+      "arrive_time": "15:06",
+      "depart_time": "15:11",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "重庆西",
+      "arrive_time": "17:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 924.0,
+    "price_first": 868.0,
+    "price_second": 543.5,
+    "price_no_seat": 543.5
+  },
+  "fetched_at": "2026-05-01T06:22:00.550783"
+}

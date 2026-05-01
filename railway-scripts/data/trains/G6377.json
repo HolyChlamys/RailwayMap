@@ -1,0 +1,72 @@
+{
+  "train_no": "G6377",
+  "train_type": "G",
+  "depart_station": "吉首东",
+  "arrive_station": "长沙南",
+  "depart_time": "14:50",
+  "arrive_time": "17:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "吉首东",
+      "arrive_time": "14:50",
+      "depart_time": "14:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "凤凰古城",
+      "arrive_time": "15:00",
+      "depart_time": "15:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "麻阳西",
+      "arrive_time": "15:13",
+      "depart_time": "15:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "怀化南",
+      "arrive_time": "15:36",
+      "depart_time": "15:40",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "新化南",
+      "arrive_time": "16:12",
+      "depart_time": "16:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "娄底南",
+      "arrive_time": "16:38",
+      "depart_time": "16:43",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "湘潭北",
+      "arrive_time": "17:09",
+      "depart_time": "17:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "长沙南",
+      "arrive_time": "17:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 383.0,
+    "price_second": 240.0,
+    "price_no_seat": 240.0
+  },
+  "fetched_at": "2026-05-01T07:56:58.952755"
+}

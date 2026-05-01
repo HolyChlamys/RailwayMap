@@ -1,0 +1,44 @@
+{
+  "train_no": "D7721",
+  "train_type": "D",
+  "depart_station": "大连",
+  "arrive_station": "丹东",
+  "depart_time": "20:43",
+  "arrive_time": "22:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连",
+      "arrive_time": "20:43",
+      "depart_time": "20:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "庄河北",
+      "arrive_time": "21:54",
+      "depart_time": "21:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东港北",
+      "arrive_time": "22:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "丹东",
+      "arrive_time": "22:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 185.5,
+    "price_second": 115.5,
+    "price_no_seat": 115.5
+  },
+  "fetched_at": "2026-05-01T04:43:35.969040"
+}

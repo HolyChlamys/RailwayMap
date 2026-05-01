@@ -1,0 +1,86 @@
+{
+  "train_no": "G7272",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "安庆",
+  "depart_time": "18:43",
+  "arrive_time": "22:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "18:43",
+      "depart_time": "18:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "19:03",
+      "depart_time": "19:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡新区",
+      "arrive_time": "19:24",
+      "depart_time": "19:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "19:34",
+      "depart_time": "19:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "19:50",
+      "depart_time": "19:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "20:39",
+      "depart_time": "20:48",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "芜湖",
+      "arrive_time": "21:17",
+      "depart_time": "21:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "铜陵",
+      "arrive_time": "21:47",
+      "depart_time": "21:57",
+      "stay_min": "10"
+    },
+    {
+      "seq": 9,
+      "station_name": "池州",
+      "arrive_time": "22:16",
+      "depart_time": "22:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "安庆",
+      "arrive_time": "22:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 456.0,
+    "price_second": 285.0,
+    "price_no_seat": 285.0
+  },
+  "fetched_at": "2026-05-01T08:22:37.946243"
+}

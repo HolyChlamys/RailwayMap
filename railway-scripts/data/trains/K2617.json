@@ -1,0 +1,70 @@
+{
+  "train_no": "K2617",
+  "train_type": "K",
+  "depart_station": "成都西",
+  "arrive_station": "兰州",
+  "depart_time": "20:42",
+  "arrive_time": "08:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都西",
+      "arrive_time": "20:42",
+      "depart_time": "20:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广元",
+      "arrive_time": "01:53",
+      "depart_time": "02:01",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "陇南",
+      "arrive_time": "03:31",
+      "depart_time": "03:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "哈达铺",
+      "arrive_time": "05:11",
+      "depart_time": "05:14",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "岷县",
+      "arrive_time": "05:34",
+      "depart_time": "05:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "漳县",
+      "arrive_time": "06:07",
+      "depart_time": "06:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "渭源",
+      "arrive_time": "06:37",
+      "depart_time": "06:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "兰州",
+      "arrive_time": "08:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T09:41:52.984811"
+}

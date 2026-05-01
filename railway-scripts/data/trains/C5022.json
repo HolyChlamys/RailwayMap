@@ -1,0 +1,31 @@
+{
+  "train_no": "C5022",
+  "train_type": "C",
+  "depart_station": "阳新",
+  "arrive_station": "武汉",
+  "depart_time": "06:49",
+  "arrive_time": "06:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阳新",
+      "arrive_time": "06:49",
+      "depart_time": "06:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉",
+      "arrive_time": "06:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 190.0,
+    "price_first": 101.0,
+    "price_second": 63.0,
+    "price_no_seat": 63.0
+  },
+  "fetched_at": "2026-05-01T01:24:28.301716"
+}

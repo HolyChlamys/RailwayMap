@@ -1,0 +1,38 @@
+{
+  "train_no": "D9529",
+  "train_type": "D",
+  "depart_station": "杭州西",
+  "arrive_station": "千岛湖",
+  "depart_time": "20:06",
+  "arrive_time": "20:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州西",
+      "arrive_time": "20:06",
+      "depart_time": "20:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "建德",
+      "arrive_time": "20:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "千岛湖",
+      "arrive_time": "20:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 193.0,
+    "price_first": 95.0,
+    "price_second": 59.0,
+    "price_no_seat": 59.0
+  },
+  "fetched_at": "2026-05-01T05:17:37.693856"
+}

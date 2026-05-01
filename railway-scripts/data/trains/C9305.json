@@ -1,0 +1,45 @@
+{
+  "train_no": "C9305",
+  "train_type": "C",
+  "depart_station": "铜川",
+  "arrive_station": "西安北",
+  "depart_time": "08:55",
+  "arrive_time": "09:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "铜川",
+      "arrive_time": "08:55",
+      "depart_time": "08:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "富平南",
+      "arrive_time": "09:09",
+      "depart_time": "09:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "高陵",
+      "arrive_time": "09:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西安北",
+      "arrive_time": "09:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 249.0,
+    "price_first": 114.0,
+    "price_second": 71.0,
+    "price_no_seat": 71.0
+  },
+  "fetched_at": "2026-05-01T02:44:43.659294"
+}

@@ -1,0 +1,150 @@
+{
+  "train_no": "G3643",
+  "train_type": "G",
+  "depart_station": "济南东",
+  "arrive_station": "贵阳北",
+  "depart_time": "07:12",
+  "arrive_time": "18:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "07:12",
+      "depart_time": "07:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南西",
+      "arrive_time": "07:35",
+      "depart_time": "07:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "滕州东",
+      "arrive_time": "08:22",
+      "depart_time": "08:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "枣庄",
+      "arrive_time": "08:36",
+      "depart_time": "08:41",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "徐州东",
+      "arrive_time": "09:02",
+      "depart_time": "09:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "徐州",
+      "arrive_time": "09:21",
+      "depart_time": "09:26",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州东",
+      "arrive_time": "10:58",
+      "depart_time": "11:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "漯河西",
+      "arrive_time": "11:34",
+      "depart_time": "11:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "明港东",
+      "arrive_time": "12:06",
+      "depart_time": "12:15",
+      "stay_min": "9"
+    },
+    {
+      "seq": 10,
+      "station_name": "信阳东",
+      "arrive_time": "12:28",
+      "depart_time": "12:34",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "武汉",
+      "arrive_time": "13:18",
+      "depart_time": "13:22",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "岳阳东",
+      "arrive_time": "14:11",
+      "depart_time": "14:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "长沙南",
+      "arrive_time": "14:50",
+      "depart_time": "14:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "湘潭北",
+      "arrive_time": "15:08",
+      "depart_time": "15:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "娄底南",
+      "arrive_time": "15:36",
+      "depart_time": "15:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "怀化南",
+      "arrive_time": "16:31",
+      "depart_time": "16:42",
+      "stay_min": "11"
+    },
+    {
+      "seq": 17,
+      "station_name": "三穗",
+      "arrive_time": "17:21",
+      "depart_time": "17:26",
+      "stay_min": "5"
+    },
+    {
+      "seq": 18,
+      "station_name": "凯里南",
+      "arrive_time": "17:51",
+      "depart_time": "17:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "贵阳北",
+      "arrive_time": "18:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 4269.0,
+    "price_first": 1955.0,
+    "price_second": 1222.0,
+    "price_no_seat": 1222.0
+  },
+  "fetched_at": "2026-05-01T06:43:39.466015"
+}

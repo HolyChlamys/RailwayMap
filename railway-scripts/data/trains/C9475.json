@@ -1,0 +1,58 @@
+{
+  "train_no": "C9475",
+  "train_type": "C",
+  "depart_station": "双流机场",
+  "arrive_station": "黄龙九寨",
+  "depart_time": "13:19",
+  "arrive_time": "15:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "双流机场",
+      "arrive_time": "13:19",
+      "depart_time": "13:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都南",
+      "arrive_time": "13:29",
+      "depart_time": "13:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "成都东",
+      "arrive_time": "13:42",
+      "depart_time": "13:55",
+      "stay_min": "13"
+    },
+    {
+      "seq": 4,
+      "station_name": "青白江东",
+      "arrive_time": "14:11",
+      "depart_time": "14:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "三星堆",
+      "arrive_time": "14:21",
+      "depart_time": "14:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "黄龙九寨",
+      "arrive_time": "15:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 243.0,
+    "price_second": 151.0,
+    "price_no_seat": 151.0
+  },
+  "fetched_at": "2026-05-01T02:46:53.810007"
+}

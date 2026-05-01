@@ -1,0 +1,52 @@
+{
+  "train_no": "D4281",
+  "train_type": "D",
+  "depart_station": "宝鸡南",
+  "arrive_station": "兰州西",
+  "depart_time": "20:20",
+  "arrive_time": "22:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宝鸡南",
+      "arrive_time": "20:20",
+      "depart_time": "20:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天水南",
+      "arrive_time": "21:08",
+      "depart_time": "21:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "通渭",
+      "arrive_time": "21:43",
+      "depart_time": "21:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "定西北",
+      "arrive_time": "22:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "兰州西",
+      "arrive_time": "22:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 445.0,
+    "price_first": 238.0,
+    "price_second": 148.0,
+    "price_no_seat": 148.0
+  },
+  "fetched_at": "2026-05-01T03:46:51.444721"
+}

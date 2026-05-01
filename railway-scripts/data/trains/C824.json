@@ -1,0 +1,37 @@
+{
+  "train_no": "C824",
+  "train_type": "C",
+  "depart_station": "奎屯",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "15:15",
+  "arrive_time": "16:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "奎屯",
+      "arrive_time": "15:15",
+      "depart_time": "15:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石河子",
+      "arrive_time": "16:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "16:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 87.0,
+    "price_second": 55.0,
+    "price_no_seat": 55.0
+  },
+  "fetched_at": "2026-05-01T02:33:06.486954"
+}

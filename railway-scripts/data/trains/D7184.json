@@ -1,0 +1,79 @@
+{
+  "train_no": "D7184",
+  "train_type": "D",
+  "depart_station": "潮汕",
+  "arrive_station": "潮汕",
+  "depart_time": "06:38",
+  "arrive_time": "22:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潮汕",
+      "arrive_time": "06:38",
+      "depart_time": "06:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汕尾",
+      "arrive_time": "07:20",
+      "depart_time": "07:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "增城",
+      "arrive_time": "08:15",
+      "depart_time": "08:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "20:51",
+      "depart_time": "20:56",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州新塘",
+      "arrive_time": "08:29",
+      "depart_time": "08:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳坪山",
+      "arrive_time": "21:13",
+      "depart_time": "21:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "广州东",
+      "arrive_time": "08:54",
+      "depart_time": "08:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "汕尾",
+      "arrive_time": "21:49",
+      "depart_time": "21:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "潮汕",
+      "arrive_time": "22:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 319.0,
+    "price_second": 199.0,
+    "price_no_seat": 199.0
+  },
+  "fetched_at": "2026-05-01T04:35:15.618475"
+}

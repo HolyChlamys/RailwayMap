@@ -1,0 +1,28 @@
+{
+  "train_no": "K7192",
+  "train_type": "K",
+  "depart_station": "满洲里",
+  "arrive_station": "海拉尔",
+  "depart_time": "10:35",
+  "arrive_time": "10:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "满洲里",
+      "arrive_time": "10:35",
+      "depart_time": "10:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海拉尔",
+      "arrive_time": "10:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T10:29:05.141375"
+}

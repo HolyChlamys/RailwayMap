@@ -1,0 +1,52 @@
+{
+  "train_no": "G6111",
+  "train_type": "G",
+  "depart_station": "岳阳东",
+  "arrive_station": "广州",
+  "depart_time": "13:29",
+  "arrive_time": "16:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "岳阳东",
+      "arrive_time": "13:29",
+      "depart_time": "13:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙南",
+      "arrive_time": "14:14",
+      "depart_time": "14:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州西",
+      "arrive_time": "15:13",
+      "depart_time": "15:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州北",
+      "arrive_time": "16:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州",
+      "arrive_time": "16:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1567.0,
+    "price_first": 713.0,
+    "price_second": 448.0,
+    "price_no_seat": 448.0
+  },
+  "fetched_at": "2026-05-01T07:49:12.625747"
+}

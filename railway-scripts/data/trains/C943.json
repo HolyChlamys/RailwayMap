@@ -1,0 +1,52 @@
+{
+  "train_no": "C943",
+  "train_type": "C",
+  "depart_station": "哈尔滨",
+  "arrive_station": "鹤岗",
+  "depart_time": "07:44",
+  "arrive_time": "11:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "哈尔滨",
+      "arrive_time": "07:44",
+      "depart_time": "07:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "依兰",
+      "arrive_time": "09:35",
+      "depart_time": "09:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "佳木斯",
+      "arrive_time": "10:37",
+      "depart_time": "10:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鹤立",
+      "arrive_time": "11:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "鹤岗",
+      "arrive_time": "11:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 473.0,
+    "price_first": 245.0,
+    "price_second": 153.0,
+    "price_no_seat": 153.0
+  },
+  "fetched_at": "2026-05-01T02:46:09.412135"
+}

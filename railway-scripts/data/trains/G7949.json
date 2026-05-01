@@ -1,0 +1,31 @@
+{
+  "train_no": "G7949",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "洛阳龙门",
+  "depart_time": "22:11",
+  "arrive_time": "22:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "22:11",
+      "depart_time": "22:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "洛阳龙门",
+      "arrive_time": "22:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 275.0,
+    "price_first": 126.0,
+    "price_second": 79.0,
+    "price_no_seat": 79.0
+  },
+  "fetched_at": "2026-05-01T08:41:00.289615"
+}

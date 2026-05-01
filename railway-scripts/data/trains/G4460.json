@@ -1,0 +1,80 @@
+{
+  "train_no": "G4460",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "北京丰台",
+  "depart_time": "02:32",
+  "arrive_time": "07:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "02:32",
+      "depart_time": "02:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州东",
+      "arrive_time": "04:31",
+      "depart_time": "04:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "邯郸东",
+      "arrive_time": "05:27",
+      "depart_time": "05:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "邢台东",
+      "arrive_time": "05:46",
+      "depart_time": "05:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "定州东",
+      "arrive_time": "06:34",
+      "depart_time": "06:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "保定东",
+      "arrive_time": "06:53",
+      "depart_time": "06:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "高碑店东",
+      "arrive_time": "07:12",
+      "depart_time": "07:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "涿州东",
+      "arrive_time": "07:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "北京丰台",
+      "arrive_time": "07:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2151.0,
+    "price_first": 983.0,
+    "price_second": 614.0,
+    "price_no_seat": 614.0
+  },
+  "fetched_at": "2026-05-01T07:06:04.692514"
+}

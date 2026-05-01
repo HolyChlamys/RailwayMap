@@ -1,0 +1,65 @@
+{
+  "train_no": "D6257",
+  "train_type": "D",
+  "depart_station": "婺源",
+  "arrive_station": "南昌西",
+  "depart_time": "15:30",
+  "arrive_time": "17:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "婺源",
+      "arrive_time": "15:30",
+      "depart_time": "15:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "景德镇北",
+      "arrive_time": "16:00",
+      "depart_time": "16:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄱阳北",
+      "arrive_time": "16:20",
+      "depart_time": "16:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "都昌",
+      "arrive_time": "16:43",
+      "depart_time": "16:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "湖口",
+      "arrive_time": "17:01",
+      "depart_time": "17:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "九江",
+      "arrive_time": "17:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南昌西",
+      "arrive_time": "17:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 200.0,
+    "price_second": 125.0,
+    "price_no_seat": 125.0
+  },
+  "fetched_at": "2026-05-01T04:19:51.782732"
+}

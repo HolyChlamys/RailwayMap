@@ -1,0 +1,58 @@
+{
+  "train_no": "C70",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "巴中东",
+  "depart_time": "16:03",
+  "arrive_time": "18:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "16:03",
+      "depart_time": "16:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大英东",
+      "arrive_time": "16:58",
+      "depart_time": "16:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南充北",
+      "arrive_time": "17:55",
+      "depart_time": "17:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "仪陇",
+      "arrive_time": "18:26",
+      "depart_time": "18:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "马鞍",
+      "arrive_time": "18:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "巴中东",
+      "arrive_time": "18:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 219.0,
+    "price_second": 137.0,
+    "price_no_seat": 137.0
+  },
+  "fetched_at": "2026-05-01T02:02:47.696827"
+}

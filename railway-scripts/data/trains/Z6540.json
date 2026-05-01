@@ -1,0 +1,49 @@
+{
+  "train_no": "Z6540",
+  "train_type": "Z",
+  "depart_station": "和田",
+  "arrive_station": "喀什",
+  "depart_time": "15:00",
+  "arrive_time": "18:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "和田",
+      "arrive_time": "15:00",
+      "depart_time": "15:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "叶城",
+      "arrive_time": "16:50",
+      "depart_time": "16:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莎车",
+      "arrive_time": "17:22",
+      "depart_time": "17:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "英吉沙",
+      "arrive_time": "18:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "喀什",
+      "arrive_time": "18:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T11:51:12.624154"
+}

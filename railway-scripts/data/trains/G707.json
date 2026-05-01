@@ -1,0 +1,101 @@
+{
+  "train_no": "G707",
+  "train_type": "G",
+  "depart_station": "大连北",
+  "arrive_station": "牡丹江",
+  "depart_time": "07:48",
+  "arrive_time": "13:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "07:48",
+      "depart_time": "07:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金普",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "营口东",
+      "arrive_time": "08:51",
+      "depart_time": "08:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "辽阳",
+      "arrive_time": "09:19",
+      "depart_time": "09:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳",
+      "arrive_time": "09:44",
+      "depart_time": "09:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "铁岭西",
+      "arrive_time": "10:07",
+      "depart_time": "10:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "昌图西",
+      "arrive_time": "10:32",
+      "depart_time": "10:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "公主岭南",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "长春西",
+      "arrive_time": "11:20",
+      "depart_time": "11:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "哈尔滨西",
+      "arrive_time": "12:25",
+      "depart_time": "12:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "尚志南",
+      "arrive_time": "13:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "牡丹江",
+      "arrive_time": "13:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2037.0,
+    "price_first": 957.0,
+    "price_second": 598.0,
+    "price_no_seat": 598.0
+  },
+  "fetched_at": "2026-05-01T08:16:44.447216"
+}

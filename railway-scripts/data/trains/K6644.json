@@ -1,0 +1,35 @@
+{
+  "train_no": "K6644",
+  "train_type": "K",
+  "depart_station": "长沙",
+  "arrive_station": "东莞东",
+  "depart_time": "23:15",
+  "arrive_time": "08:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "23:15",
+      "depart_time": "23:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州北",
+      "arrive_time": "07:21",
+      "depart_time": "07:27",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "东莞东",
+      "arrive_time": "08:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 120.0
+  },
+  "fetched_at": "2026-05-01T10:24:41.351694"
+}

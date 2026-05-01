@@ -1,0 +1,108 @@
+{
+  "train_no": "G8987",
+  "train_type": "G",
+  "depart_station": "盐城",
+  "arrive_station": "上海",
+  "depart_time": "12:08",
+  "arrive_time": "15:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "盐城",
+      "arrive_time": "12:08",
+      "depart_time": "12:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "建湖",
+      "arrive_time": "12:22",
+      "depart_time": "12:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "阜宁南",
+      "arrive_time": "12:32",
+      "depart_time": "12:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宝应",
+      "arrive_time": "13:02",
+      "depart_time": "13:09",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "高邮",
+      "arrive_time": "13:26",
+      "depart_time": "13:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州东",
+      "arrive_time": "13:43",
+      "depart_time": "13:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "大港南",
+      "arrive_time": "14:02",
+      "depart_time": "14:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "丹阳",
+      "arrive_time": "14:22",
+      "depart_time": "14:29",
+      "stay_min": "7"
+    },
+    {
+      "seq": 9,
+      "station_name": "常州",
+      "arrive_time": "14:44",
+      "depart_time": "14:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "无锡",
+      "arrive_time": "15:00",
+      "depart_time": "15:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "苏州",
+      "arrive_time": "15:17",
+      "depart_time": "15:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "昆山南",
+      "arrive_time": "15:31",
+      "depart_time": "15:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "上海",
+      "arrive_time": "15:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 876.0,
+    "price_first": 411.0,
+    "price_second": 257.0,
+    "price_no_seat": 257.0
+  },
+  "fetched_at": "2026-05-01T09:05:17.105212"
+}

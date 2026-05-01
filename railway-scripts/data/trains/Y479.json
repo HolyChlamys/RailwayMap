@@ -1,0 +1,33 @@
+{
+  "train_no": "Y479",
+  "train_type": "Y",
+  "depart_station": "银川",
+  "arrive_station": "兰州",
+  "depart_time": "23:50",
+  "arrive_time": "03:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "银川",
+      "arrive_time": "23:50",
+      "depart_time": "23:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "中卫",
+      "arrive_time": "03:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兰州",
+      "arrive_time": "03:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:33:33.520447"
+}

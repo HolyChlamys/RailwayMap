@@ -1,0 +1,31 @@
+{
+  "train_no": "C37",
+  "train_type": "C",
+  "depart_station": "苍溪",
+  "arrive_station": "广元",
+  "depart_time": "07:54",
+  "arrive_time": "07:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "苍溪",
+      "arrive_time": "07:54",
+      "depart_time": "07:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广元",
+      "arrive_time": "07:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 106.0,
+    "price_first": 49.0,
+    "price_second": 30.0,
+    "price_no_seat": 30.0
+  },
+  "fetched_at": "2026-05-01T01:02:51.612926"
+}

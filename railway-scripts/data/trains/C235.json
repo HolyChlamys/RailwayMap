@@ -1,0 +1,30 @@
+{
+  "train_no": "C235",
+  "train_type": "C",
+  "depart_station": "西安",
+  "arrive_station": "安康",
+  "depart_time": "13:52",
+  "arrive_time": "16:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "13:52",
+      "depart_time": "13:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "安康",
+      "arrive_time": "16:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 89.0,
+    "price_second": 74.0,
+    "price_no_seat": 74.0
+  },
+  "fetched_at": "2026-05-01T00:36:48.116685"
+}

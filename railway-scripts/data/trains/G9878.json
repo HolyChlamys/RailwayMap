@@ -1,0 +1,80 @@
+{
+  "train_no": "G9878",
+  "train_type": "G",
+  "depart_station": "景德镇北",
+  "arrive_station": "福州南",
+  "depart_time": "18:35",
+  "arrive_time": "22:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "景德镇北",
+      "arrive_time": "18:35",
+      "depart_time": "18:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "婺源",
+      "arrive_time": "19:01",
+      "depart_time": "19:10",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "五府山",
+      "arrive_time": "19:42",
+      "depart_time": "19:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南平市",
+      "arrive_time": "20:08",
+      "depart_time": "20:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "建瓯西",
+      "arrive_time": "20:26",
+      "depart_time": "20:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "延平",
+      "arrive_time": "20:44",
+      "depart_time": "20:50",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "古田北",
+      "arrive_time": "21:05",
+      "depart_time": "21:16",
+      "stay_min": "11"
+    },
+    {
+      "seq": 8,
+      "station_name": "福州",
+      "arrive_time": "21:44",
+      "depart_time": "21:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "福州南",
+      "arrive_time": "22:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 694.5,
+    "price_first": 370.5,
+    "price_second": 221.5,
+    "price_no_seat": 221.5
+  },
+  "fetched_at": "2026-05-01T09:26:57.917918"
+}

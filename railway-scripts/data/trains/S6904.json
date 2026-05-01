@@ -1,0 +1,78 @@
+{
+  "train_no": "S6904",
+  "train_type": "S",
+  "depart_station": "湘潭",
+  "arrive_station": "长沙",
+  "depart_time": "07:13",
+  "arrive_time": "08:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "湘潭",
+      "arrive_time": "07:13",
+      "depart_time": "07:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "板塘",
+      "arrive_time": "07:21",
+      "depart_time": "07:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "芙蓉南",
+      "arrive_time": "07:38",
+      "depart_time": "07:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "先锋",
+      "arrive_time": "07:44",
+      "depart_time": "07:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "洞井",
+      "arrive_time": "07:50",
+      "depart_time": "07:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "湘府路",
+      "arrive_time": "07:55",
+      "depart_time": "07:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "香樟路",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "树木岭",
+      "arrive_time": "08:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "长沙",
+      "arrive_time": "08:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 25.0,
+    "price_no_seat": 25.0
+  },
+  "fetched_at": "2026-05-01T11:11:09.478053"
+}

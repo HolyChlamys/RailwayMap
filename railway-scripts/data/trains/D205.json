@@ -1,0 +1,135 @@
+{
+  "train_no": "D205",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "兰州",
+  "depart_time": "07:51",
+  "arrive_time": "19:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "07:51",
+      "depart_time": "07:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遵义",
+      "arrive_time": "08:49",
+      "depart_time": "08:52",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "娄山关南",
+      "arrive_time": "09:09",
+      "depart_time": "09:15",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "桐梓东",
+      "arrive_time": "09:29",
+      "depart_time": "09:37",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "桐梓北",
+      "arrive_time": "09:53",
+      "depart_time": "09:56",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "綦江东",
+      "arrive_time": "10:32",
+      "depart_time": "10:39",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "重庆西",
+      "arrive_time": "11:10",
+      "depart_time": "11:23",
+      "stay_min": "13"
+    },
+    {
+      "seq": 8,
+      "station_name": "合川",
+      "arrive_time": "11:54",
+      "depart_time": "11:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "南充北",
+      "arrive_time": "12:51",
+      "depart_time": "12:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "南部",
+      "arrive_time": "13:23",
+      "depart_time": "13:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "阆中",
+      "arrive_time": "13:38",
+      "depart_time": "13:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "苍溪",
+      "arrive_time": "13:54",
+      "depart_time": "13:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "广元",
+      "arrive_time": "14:40",
+      "depart_time": "14:47",
+      "stay_min": "7"
+    },
+    {
+      "seq": 14,
+      "station_name": "陇南",
+      "arrive_time": "15:55",
+      "depart_time": "16:00",
+      "stay_min": "5"
+    },
+    {
+      "seq": 15,
+      "station_name": "哈达铺",
+      "arrive_time": "16:57",
+      "depart_time": "16:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "岷县",
+      "arrive_time": "17:14",
+      "depart_time": "17:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "兰州",
+      "arrive_time": "19:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 623.0,
+    "price_second": 390.0,
+    "price_no_seat": 390.0
+  },
+  "fetched_at": "2026-05-01T03:09:53.917327"
+}

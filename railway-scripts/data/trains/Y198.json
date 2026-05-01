@@ -1,0 +1,75 @@
+{
+  "train_no": "Y198",
+  "train_type": "Y",
+  "depart_station": "西安",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "15:45",
+  "arrive_time": "06:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "15:45",
+      "depart_time": "15:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延安",
+      "arrive_time": "19:29",
+      "depart_time": "20:35",
+      "stay_min": "66"
+    },
+    {
+      "seq": 3,
+      "station_name": "中卫",
+      "arrive_time": "04:33",
+      "depart_time": "04:48",
+      "stay_min": "15"
+    },
+    {
+      "seq": 4,
+      "station_name": "张掖",
+      "arrive_time": "11:22",
+      "depart_time": "11:30",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "柳园",
+      "arrive_time": "18:28",
+      "depart_time": "18:48",
+      "stay_min": "20"
+    },
+    {
+      "seq": 6,
+      "station_name": "哈密东",
+      "arrive_time": "22:34",
+      "depart_time": "22:42",
+      "stay_min": "8"
+    },
+    {
+      "seq": 7,
+      "station_name": "哈密",
+      "arrive_time": "23:11",
+      "depart_time": "23:31",
+      "stay_min": "20"
+    },
+    {
+      "seq": 8,
+      "station_name": "吐鲁番",
+      "arrive_time": "04:08",
+      "depart_time": "04:14",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "06:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:30:05.115336"
+}

@@ -1,0 +1,58 @@
+{
+  "train_no": "D6863",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "宁强南",
+  "depart_time": "14:13",
+  "arrive_time": "15:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "14:13",
+      "depart_time": "14:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西安西",
+      "arrive_time": "14:26",
+      "depart_time": "14:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄠邑",
+      "arrive_time": "14:41",
+      "depart_time": "14:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "佛坪",
+      "arrive_time": "15:17",
+      "depart_time": "15:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "汉中",
+      "arrive_time": "15:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宁强南",
+      "arrive_time": "15:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 244.0,
+    "price_second": 153.0,
+    "price_no_seat": 153.0
+  },
+  "fetched_at": "2026-05-01T04:29:57.976511"
+}

@@ -1,0 +1,31 @@
+{
+  "train_no": "C9922",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "清远",
+  "depart_time": "05:50",
+  "arrive_time": "05:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "05:50",
+      "depart_time": "05:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "清远",
+      "arrive_time": "05:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 160.0,
+    "price_first": 73.0,
+    "price_second": 46.0,
+    "price_no_seat": 46.0
+  },
+  "fetched_at": "2026-05-01T02:54:19.701809"
+}

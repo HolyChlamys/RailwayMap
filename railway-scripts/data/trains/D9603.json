@@ -1,0 +1,44 @@
+{
+  "train_no": "D9603",
+  "train_type": "D",
+  "depart_station": "龙岩",
+  "arrive_station": "厦门",
+  "depart_time": "07:40",
+  "arrive_time": "08:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "龙岩",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南靖",
+      "arrive_time": "08:14",
+      "depart_time": "08:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "漳州",
+      "arrive_time": "08:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "厦门",
+      "arrive_time": "08:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 92.0,
+    "price_second": 58.0,
+    "price_no_seat": 58.0
+  },
+  "fetched_at": "2026-05-01T05:19:38.115070"
+}

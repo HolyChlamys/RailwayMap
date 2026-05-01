@@ -1,0 +1,52 @@
+{
+  "train_no": "C3076",
+  "train_type": "C",
+  "depart_station": "开化",
+  "arrive_station": "杭州西",
+  "depart_time": "19:33",
+  "arrive_time": "20:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "开化",
+      "arrive_time": "19:33",
+      "depart_time": "19:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "常山",
+      "arrive_time": "19:46",
+      "depart_time": "19:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衢州西",
+      "arrive_time": "20:08",
+      "depart_time": "20:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "建德南",
+      "arrive_time": "20:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州西",
+      "arrive_time": "20:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 558.0,
+    "price_first": 262.0,
+    "price_second": 164.0,
+    "price_no_seat": 164.0
+  },
+  "fetched_at": "2026-05-01T00:50:21.351507"
+}

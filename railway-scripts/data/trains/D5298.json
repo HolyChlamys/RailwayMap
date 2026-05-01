@@ -1,0 +1,30 @@
+{
+  "train_no": "D5298",
+  "train_type": "D",
+  "depart_station": "汉中",
+  "arrive_station": "西安北",
+  "depart_time": "00:06",
+  "arrive_time": "00:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉中",
+      "arrive_time": "00:06",
+      "depart_time": "00:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西安北",
+      "arrive_time": "00:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 186.0,
+    "price_second": 116.0,
+    "price_no_seat": 116.0
+  },
+  "fetched_at": "2026-05-01T04:04:17.094944"
+}

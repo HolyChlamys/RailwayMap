@@ -1,0 +1,45 @@
+{
+  "train_no": "G123",
+  "train_type": "G",
+  "depart_station": "北京朝阳",
+  "arrive_station": "哈尔滨西",
+  "depart_time": "14:50",
+  "arrive_time": "18:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京朝阳",
+      "arrive_time": "14:50",
+      "depart_time": "14:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳北",
+      "arrive_time": "17:22",
+      "depart_time": "17:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长春西",
+      "arrive_time": "18:29",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨西",
+      "arrive_time": "18:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2369.0,
+    "price_first": 1083.0,
+    "price_second": 677.0,
+    "price_no_seat": 677.0
+  },
+  "fetched_at": "2026-05-01T05:36:51.653723"
+}

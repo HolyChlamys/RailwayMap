@@ -1,0 +1,44 @@
+{
+  "train_no": "D6144",
+  "train_type": "D",
+  "depart_station": "重庆北",
+  "arrive_station": "黄水",
+  "depart_time": "11:53",
+  "arrive_time": "13:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "11:53",
+      "depart_time": "11:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丰都",
+      "arrive_time": "12:49",
+      "depart_time": "12:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "石柱县",
+      "arrive_time": "13:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄水",
+      "arrive_time": "13:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 132.0,
+    "price_second": 83.0,
+    "price_no_seat": 83.0
+  },
+  "fetched_at": "2026-05-01T04:17:51.197538"
+}

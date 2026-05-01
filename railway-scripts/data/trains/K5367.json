@@ -1,0 +1,63 @@
+{
+  "train_no": "K5367",
+  "train_type": "K",
+  "depart_station": "灵宝",
+  "arrive_station": "许昌",
+  "depart_time": "16:32",
+  "arrive_time": "21:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "灵宝",
+      "arrive_time": "16:32",
+      "depart_time": "16:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三门峡西",
+      "arrive_time": "16:56",
+      "depart_time": "17:01",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "三门峡",
+      "arrive_time": "17:23",
+      "depart_time": "17:28",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "新安县",
+      "arrive_time": "18:46",
+      "depart_time": "18:51",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "洛阳",
+      "arrive_time": "19:20",
+      "depart_time": "19:25",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州",
+      "arrive_time": "20:58",
+      "depart_time": "21:08",
+      "stay_min": "10"
+    },
+    {
+      "seq": 7,
+      "station_name": "许昌",
+      "arrive_time": "21:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 54.5
+  },
+  "fetched_at": "2026-05-01T10:08:56.941327"
+}

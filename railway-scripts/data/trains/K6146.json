@@ -1,0 +1,49 @@
+{
+  "train_no": "K6146",
+  "train_type": "K",
+  "depart_station": "昆明",
+  "arrive_station": "威舍",
+  "depart_time": "10:00",
+  "arrive_time": "14:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "10:00",
+      "depart_time": "10:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "陆良",
+      "arrive_time": "12:18",
+      "depart_time": "12:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "师宗",
+      "arrive_time": "12:52",
+      "depart_time": "12:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "罗平",
+      "arrive_time": "14:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "威舍",
+      "arrive_time": "14:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 46.5
+  },
+  "fetched_at": "2026-05-01T10:18:34.746428"
+}

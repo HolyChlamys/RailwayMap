@@ -1,0 +1,66 @@
+{
+  "train_no": "G5560",
+  "train_type": "G",
+  "depart_station": "菏泽东",
+  "arrive_station": "日照",
+  "depart_time": "20:05",
+  "arrive_time": "22:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "菏泽东",
+      "arrive_time": "20:05",
+      "depart_time": "20:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巨野北",
+      "arrive_time": "20:24",
+      "depart_time": "20:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "济宁东",
+      "arrive_time": "20:44",
+      "depart_time": "20:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "曲阜东",
+      "arrive_time": "21:21",
+      "depart_time": "21:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "蒙山",
+      "arrive_time": "21:44",
+      "depart_time": "21:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "临沂北",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "日照",
+      "arrive_time": "22:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 726.0,
+    "price_first": 362.0,
+    "price_second": 227.0,
+    "price_no_seat": 227.0
+  },
+  "fetched_at": "2026-05-01T07:36:57.534877"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "D5235",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "云梦东",
+  "depart_time": "10:55",
+  "arrive_time": "11:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "10:55",
+      "depart_time": "10:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "天河机场",
+      "arrive_time": "11:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "云梦东",
+      "arrive_time": "11:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 63.0,
+    "price_second": 39.0,
+    "price_no_seat": 39.0
+  },
+  "fetched_at": "2026-05-01T04:02:57.903308"
+}

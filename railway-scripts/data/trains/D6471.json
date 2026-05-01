@@ -1,0 +1,44 @@
+{
+  "train_no": "D6471",
+  "train_type": "D",
+  "depart_station": "长汀南",
+  "arrive_station": "龙岩",
+  "depart_time": "20:25",
+  "arrive_time": "21:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长汀南",
+      "arrive_time": "20:25",
+      "depart_time": "20:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "冠豸山南",
+      "arrive_time": "20:44",
+      "depart_time": "20:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "古田会址",
+      "arrive_time": "21:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "龙岩",
+      "arrive_time": "21:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 66.0,
+    "price_second": 41.0,
+    "price_no_seat": 41.0
+  },
+  "fetched_at": "2026-05-01T04:23:28.112923"
+}

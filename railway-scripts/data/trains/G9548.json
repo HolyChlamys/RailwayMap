@@ -1,0 +1,38 @@
+{
+  "train_no": "G9548",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "怀化南",
+  "depart_time": "03:20",
+  "arrive_time": "07:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "03:20",
+      "depart_time": "03:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙南",
+      "arrive_time": "05:38",
+      "depart_time": "05:55",
+      "stay_min": "17"
+    },
+    {
+      "seq": 3,
+      "station_name": "怀化南",
+      "arrive_time": "07:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1960.0,
+    "price_first": 896.0,
+    "price_second": 560.0,
+    "price_no_seat": 560.0
+  },
+  "fetched_at": "2026-05-01T09:17:25.366592"
+}

@@ -1,0 +1,30 @@
+{
+  "train_no": "D7776",
+  "train_type": "D",
+  "depart_station": "沈阳南",
+  "arrive_station": "辽宁朝阳",
+  "depart_time": "06:22",
+  "arrive_time": "06:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳南",
+      "arrive_time": "06:22",
+      "depart_time": "06:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "辽宁朝阳",
+      "arrive_time": "06:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 224.0,
+    "price_second": 140.0,
+    "price_no_seat": 140.0
+  },
+  "fetched_at": "2026-05-01T04:44:37.109487"
+}

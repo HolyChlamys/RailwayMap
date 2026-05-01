@@ -1,0 +1,52 @@
+{
+  "train_no": "C8859",
+  "train_type": "C",
+  "depart_station": "梅州西",
+  "arrive_station": "深圳北",
+  "depart_time": "07:22",
+  "arrive_time": "08:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梅州西",
+      "arrive_time": "07:22",
+      "depart_time": "07:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "龙川西",
+      "arrive_time": "07:52",
+      "depart_time": "07:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "08:27",
+      "depart_time": "08:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "东莞南",
+      "arrive_time": "08:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "08:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 711.0,
+    "price_first": 325.0,
+    "price_second": 203.0,
+    "price_no_seat": 203.0
+  },
+  "fetched_at": "2026-05-01T02:36:53.583824"
+}

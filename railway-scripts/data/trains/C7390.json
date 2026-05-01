@@ -1,0 +1,38 @@
+{
+  "train_no": "C7390",
+  "train_type": "C",
+  "depart_station": "深圳北",
+  "arrive_station": "陆丰",
+  "depart_time": "04:45",
+  "arrive_time": "05:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "04:45",
+      "depart_time": "04:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汕尾",
+      "arrive_time": "05:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "陆丰",
+      "arrive_time": "05:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 297.0,
+    "price_first": 136.0,
+    "price_second": 85.0,
+    "price_no_seat": 85.0
+  },
+  "fetched_at": "2026-05-01T02:13:52.932842"
+}

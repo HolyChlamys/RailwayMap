@@ -1,0 +1,44 @@
+{
+  "train_no": "D4897",
+  "train_type": "D",
+  "depart_station": "长沙南",
+  "arrive_station": "桂林北",
+  "depart_time": "06:00",
+  "arrive_time": "07:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "06:00",
+      "depart_time": "06:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衡阳东",
+      "arrive_time": "06:49",
+      "depart_time": "06:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "永州",
+      "arrive_time": "07:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "桂林北",
+      "arrive_time": "07:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 321.0,
+    "price_second": 200.0,
+    "price_no_seat": 200.0
+  },
+  "fetched_at": "2026-05-01T03:58:15.587324"
+}

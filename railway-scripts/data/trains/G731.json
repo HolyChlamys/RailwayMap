@@ -1,0 +1,65 @@
+{
+  "train_no": "G731",
+  "train_type": "G",
+  "depart_station": "大连北",
+  "arrive_station": "哈尔滨西",
+  "depart_time": "19:00",
+  "arrive_time": "22:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "营口东",
+      "arrive_time": "19:51",
+      "depart_time": "19:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鞍山西",
+      "arrive_time": "20:14",
+      "depart_time": "20:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "辽阳",
+      "arrive_time": "20:32",
+      "depart_time": "20:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "长春西",
+      "arrive_time": "22:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "哈尔滨西",
+      "arrive_time": "22:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 773.0,
+    "price_second": 483.0,
+    "price_no_seat": 483.0
+  },
+  "fetched_at": "2026-05-01T08:23:47.906767"
+}

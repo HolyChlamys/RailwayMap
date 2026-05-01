@@ -1,0 +1,45 @@
+{
+  "train_no": "G7872",
+  "train_type": "G",
+  "depart_station": "密云",
+  "arrive_station": "北京朝阳",
+  "depart_time": "06:39",
+  "arrive_time": "07:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "密云",
+      "arrive_time": "06:39",
+      "depart_time": "06:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀柔南",
+      "arrive_time": "06:49",
+      "depart_time": "06:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "顺义西",
+      "arrive_time": "07:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "北京朝阳",
+      "arrive_time": "07:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 125.0,
+    "price_first": 57.0,
+    "price_second": 36.0,
+    "price_no_seat": 36.0
+  },
+  "fetched_at": "2026-05-01T08:38:49.559167"
+}

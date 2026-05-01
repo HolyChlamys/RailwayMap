@@ -1,0 +1,80 @@
+{
+  "train_no": "D7791",
+  "train_type": "D",
+  "depart_station": "大连北",
+  "arrive_station": "赤峰",
+  "depart_time": "09:12",
+  "arrive_time": "13:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "09:12",
+      "depart_time": "09:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "09:55",
+      "depart_time": "09:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "盘锦",
+      "arrive_time": "10:41",
+      "depart_time": "10:45",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "锦州北",
+      "arrive_time": "11:19",
+      "depart_time": "11:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "巴图营",
+      "arrive_time": "11:39",
+      "depart_time": "11:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "辽宁朝阳",
+      "arrive_time": "11:55",
+      "depart_time": "11:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "宁城",
+      "arrive_time": "12:41",
+      "depart_time": "12:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "平庄",
+      "arrive_time": "12:58",
+      "depart_time": "13:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "赤峰",
+      "arrive_time": "13:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 943.0,
+    "price_first": 449.0,
+    "price_second": 281.0,
+    "price_no_seat": 281.0
+  },
+  "fetched_at": "2026-05-01T04:44:55.352360"
+}

@@ -1,0 +1,101 @@
+{
+  "train_no": "G8378",
+  "train_type": "G",
+  "depart_station": "砀山南",
+  "arrive_station": "南通",
+  "depart_time": "10:00",
+  "arrive_time": "13:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "砀山南",
+      "arrive_time": "10:00",
+      "depart_time": "10:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "徐州东",
+      "arrive_time": "10:30",
+      "depart_time": "10:35",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "观音机场",
+      "arrive_time": "10:50",
+      "depart_time": "10:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "睢宁",
+      "arrive_time": "11:05",
+      "depart_time": "11:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "宿迁",
+      "arrive_time": "11:19",
+      "depart_time": "11:28",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "泗阳",
+      "arrive_time": "11:43",
+      "depart_time": "11:50",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "淮安东",
+      "arrive_time": "12:07",
+      "depart_time": "12:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "建湖",
+      "arrive_time": "12:31",
+      "depart_time": "12:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "盐城",
+      "arrive_time": "12:48",
+      "depart_time": "12:52",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "盐城大丰",
+      "arrive_time": "13:03",
+      "depart_time": "13:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "东台",
+      "arrive_time": "13:17",
+      "depart_time": "13:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "南通",
+      "arrive_time": "13:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 959.0,
+    "price_first": 472.0,
+    "price_second": 295.0,
+    "price_no_seat": 295.0
+  },
+  "fetched_at": "2026-05-01T08:49:14.391869"
+}

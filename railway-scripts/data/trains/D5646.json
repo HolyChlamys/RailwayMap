@@ -1,0 +1,31 @@
+{
+  "train_no": "D5646",
+  "train_type": "D",
+  "depart_station": "马鞍山东",
+  "arrive_station": "南京南",
+  "depart_time": "07:13",
+  "arrive_time": "07:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "马鞍山东",
+      "arrive_time": "07:13",
+      "depart_time": "07:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "07:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 65.0,
+    "price_first": 30.0,
+    "price_second": 19.0,
+    "price_no_seat": 19.0
+  },
+  "fetched_at": "2026-05-01T04:09:35.898684"
+}

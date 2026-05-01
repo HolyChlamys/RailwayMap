@@ -1,0 +1,45 @@
+{
+  "train_no": "G4169",
+  "train_type": "G",
+  "depart_station": "商丘",
+  "arrive_station": "上海虹桥",
+  "depart_time": "21:07",
+  "arrive_time": "01:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "商丘",
+      "arrive_time": "21:07",
+      "depart_time": "21:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥",
+      "arrive_time": "22:42",
+      "depart_time": "22:58",
+      "stay_min": "16"
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "23:53",
+      "depart_time": "23:59",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "上海虹桥",
+      "arrive_time": "01:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1477.0,
+    "price_first": 737.0,
+    "price_second": 460.0,
+    "price_no_seat": 460.0
+  },
+  "fetched_at": "2026-05-01T06:57:45.682451"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "C9712",
+  "train_type": "C",
+  "depart_station": "南京",
+  "arrive_station": "徐州东",
+  "depart_time": "01:35",
+  "arrive_time": "04:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京",
+      "arrive_time": "01:35",
+      "depart_time": "01:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "扬州东",
+      "arrive_time": "02:23",
+      "depart_time": "02:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "淮安东",
+      "arrive_time": "03:04",
+      "depart_time": "03:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宿迁",
+      "arrive_time": "03:35",
+      "depart_time": "03:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "徐州东",
+      "arrive_time": "04:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 717.0,
+    "price_first": 349.0,
+    "price_second": 219.0,
+    "price_no_seat": 219.0
+  },
+  "fetched_at": "2026-05-01T02:51:57.411336"
+}

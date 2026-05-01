@@ -1,0 +1,66 @@
+{
+  "train_no": "G7400",
+  "train_type": "G",
+  "depart_station": "永康南",
+  "arrive_station": "上海虹桥",
+  "depart_time": "07:26",
+  "arrive_time": "09:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "永康南",
+      "arrive_time": "07:26",
+      "depart_time": "07:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金华南",
+      "arrive_time": "07:46",
+      "depart_time": "07:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "义乌",
+      "arrive_time": "08:07",
+      "depart_time": "08:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "08:43",
+      "depart_time": "08:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "临平南",
+      "arrive_time": "08:55",
+      "depart_time": "08:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "桐乡",
+      "arrive_time": "09:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "上海虹桥",
+      "arrive_time": "09:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 644.5,
+    "price_first": 298.5,
+    "price_second": 186.5,
+    "price_no_seat": 186.5
+  },
+  "fetched_at": "2026-05-01T08:26:19.457507"
+}

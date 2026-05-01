@@ -1,0 +1,31 @@
+{
+  "train_no": "G9177",
+  "train_type": "G",
+  "depart_station": "阜新",
+  "arrive_station": "沈阳北",
+  "depart_time": "22:54",
+  "arrive_time": "22:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜新",
+      "arrive_time": "22:54",
+      "depart_time": "22:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳北",
+      "arrive_time": "22:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 304.0,
+    "price_first": 139.0,
+    "price_second": 87.0,
+    "price_no_seat": 87.0
+  },
+  "fetched_at": "2026-05-01T09:07:43.930496"
+}

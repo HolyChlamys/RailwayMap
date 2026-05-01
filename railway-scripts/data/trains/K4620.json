@@ -1,0 +1,42 @@
+{
+  "train_no": "K4620",
+  "train_type": "K",
+  "depart_station": "贵阳",
+  "arrive_station": "玉屏",
+  "depart_time": "15:52",
+  "arrive_time": "19:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳",
+      "arrive_time": "15:52",
+      "depart_time": "15:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "凯里",
+      "arrive_time": "18:28",
+      "depart_time": "18:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "施秉",
+      "arrive_time": "19:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "玉屏",
+      "arrive_time": "19:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 50.5
+  },
+  "fetched_at": "2026-05-01T09:56:32.213860"
+}

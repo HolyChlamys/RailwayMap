@@ -1,0 +1,59 @@
+{
+  "train_no": "G4682",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "襄阳东",
+  "depart_time": "01:49",
+  "arrive_time": "07:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "01:49",
+      "depart_time": "01:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉",
+      "arrive_time": "05:31",
+      "depart_time": "05:45",
+      "stay_min": "14"
+    },
+    {
+      "seq": 3,
+      "station_name": "汉口",
+      "arrive_time": "06:05",
+      "depart_time": "06:28",
+      "stay_min": "23"
+    },
+    {
+      "seq": 4,
+      "station_name": "孝感东",
+      "arrive_time": "06:54",
+      "depart_time": "06:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "随州南",
+      "arrive_time": "07:24",
+      "depart_time": "07:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "襄阳东",
+      "arrive_time": "07:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2426.0,
+    "price_first": 1147.0,
+    "price_second": 716.0,
+    "price_no_seat": 716.0
+  },
+  "fetched_at": "2026-05-01T07:12:32.816969"
+}

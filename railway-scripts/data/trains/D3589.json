@@ -1,0 +1,38 @@
+{
+  "train_no": "D3589",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "庆阳",
+  "depart_time": "13:01",
+  "arrive_time": "13:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "13:01",
+      "depart_time": "13:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳北",
+      "arrive_time": "13:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "庆阳",
+      "arrive_time": "13:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 369.0,
+    "price_first": 169.0,
+    "price_second": 106.0,
+    "price_no_seat": 106.0
+  },
+  "fetched_at": "2026-05-01T03:35:05.723576"
+}

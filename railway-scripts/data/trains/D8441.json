@@ -1,0 +1,51 @@
+{
+  "train_no": "D8441",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "玉林",
+  "depart_time": "23:30",
+  "arrive_time": "00:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "23:30",
+      "depart_time": "23:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宾阳",
+      "arrive_time": "23:57",
+      "depart_time": "23:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵港",
+      "arrive_time": "00:23",
+      "depart_time": "00:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "兴业",
+      "arrive_time": "00:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "玉林",
+      "arrive_time": "00:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 143.0,
+    "price_second": 89.5,
+    "price_no_seat": 89.5
+  },
+  "fetched_at": "2026-05-01T04:57:13.912221"
+}

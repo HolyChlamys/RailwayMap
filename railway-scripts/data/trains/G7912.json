@@ -1,0 +1,66 @@
+{
+  "train_no": "G7912",
+  "train_type": "G",
+  "depart_station": "洛阳龙门",
+  "arrive_station": "濮阳东",
+  "depart_time": "06:50",
+  "arrive_time": "08:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "洛阳龙门",
+      "arrive_time": "06:50",
+      "depart_time": "06:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州",
+      "arrive_time": "07:29",
+      "depart_time": "07:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "07:49",
+      "depart_time": "07:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "新乡东",
+      "arrive_time": "08:16",
+      "depart_time": "08:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "滑浚",
+      "arrive_time": "08:37",
+      "depart_time": "08:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "内黄",
+      "arrive_time": "08:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "濮阳东",
+      "arrive_time": "08:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 676.0,
+    "price_first": 309.0,
+    "price_second": 192.0,
+    "price_no_seat": 192.0
+  },
+  "fetched_at": "2026-05-01T08:39:57.724890"
+}

@@ -1,0 +1,101 @@
+{
+  "train_no": "G2843",
+  "train_type": "G",
+  "depart_station": "大理",
+  "arrive_station": "成都东",
+  "depart_time": "07:04",
+  "arrive_time": "15:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "07:04",
+      "depart_time": "07:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "祥云",
+      "arrive_time": "07:25",
+      "depart_time": "07:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "楚雄",
+      "arrive_time": "08:07",
+      "depart_time": "08:12",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "广通北",
+      "arrive_time": "08:26",
+      "depart_time": "08:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "禄丰南",
+      "arrive_time": "08:45",
+      "depart_time": "08:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明",
+      "arrive_time": "09:26",
+      "depart_time": "09:32",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "安顺西",
+      "arrive_time": "11:43",
+      "depart_time": "11:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "贵阳北",
+      "arrive_time": "12:17",
+      "depart_time": "12:22",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "毕节",
+      "arrive_time": "13:10",
+      "depart_time": "13:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "乐山",
+      "arrive_time": "14:51",
+      "depart_time": "14:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "双流机场",
+      "arrive_time": "15:28",
+      "depart_time": "15:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "成都东",
+      "arrive_time": "15:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2229.0,
+    "price_first": 1121.0,
+    "price_second": 701.5,
+    "price_no_seat": 701.5
+  },
+  "fetched_at": "2026-05-01T06:21:49.035518"
+}

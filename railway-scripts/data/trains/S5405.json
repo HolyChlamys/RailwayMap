@@ -1,0 +1,78 @@
+{
+  "train_no": "S5405",
+  "train_type": "S",
+  "depart_station": "花溪大学城",
+  "arrive_station": "开阳",
+  "depart_time": "13:18",
+  "arrive_time": "14:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "花溪大学城",
+      "arrive_time": "13:18",
+      "depart_time": "13:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "花溪南",
+      "arrive_time": "13:23",
+      "depart_time": "13:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "孟关",
+      "arrive_time": "13:30",
+      "depart_time": "13:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "双龙南",
+      "arrive_time": "13:39",
+      "depart_time": "13:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳",
+      "arrive_time": "13:52",
+      "depart_time": "13:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳北",
+      "arrive_time": "14:05",
+      "depart_time": "14:10",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "贵阳东",
+      "arrive_time": "14:20",
+      "depart_time": "14:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "百宜",
+      "arrive_time": "14:38",
+      "depart_time": "14:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "开阳",
+      "arrive_time": "14:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 38.0,
+    "price_no_seat": 38.0
+  },
+  "fetched_at": "2026-05-01T11:05:44.581575"
+}

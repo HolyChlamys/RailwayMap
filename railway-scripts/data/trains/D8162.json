@@ -1,0 +1,65 @@
+{
+  "train_no": "D8162",
+  "train_type": "D",
+  "depart_station": "青岛北",
+  "arrive_station": "济南西",
+  "depart_time": "20:02",
+  "arrive_time": "22:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "20:02",
+      "depart_time": "20:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛机场",
+      "arrive_time": "20:26",
+      "depart_time": "20:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "胶州北",
+      "arrive_time": "20:38",
+      "depart_time": "20:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "潍坊北",
+      "arrive_time": "21:08",
+      "depart_time": "21:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "淄博北",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "济南东",
+      "arrive_time": "22:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "济南西",
+      "arrive_time": "22:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 234.0,
+    "price_second": 146.0,
+    "price_no_seat": 146.0
+  },
+  "fetched_at": "2026-05-01T04:50:33.908398"
+}

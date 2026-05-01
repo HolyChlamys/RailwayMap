@@ -1,0 +1,58 @@
+{
+  "train_no": "C375",
+  "train_type": "C",
+  "depart_station": "丽江",
+  "arrive_station": "保山",
+  "depart_time": "12:02",
+  "arrive_time": "15:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丽江",
+      "arrive_time": "12:02",
+      "depart_time": "12:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹤庆",
+      "arrive_time": "12:30",
+      "depart_time": "12:35",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "大理",
+      "arrive_time": "14:14",
+      "depart_time": "14:20",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "漾濞",
+      "arrive_time": "14:44",
+      "depart_time": "14:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "永平县",
+      "arrive_time": "15:18",
+      "depart_time": "15:22",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "保山",
+      "arrive_time": "15:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 233.0,
+    "price_second": 147.0,
+    "price_no_seat": 147.0
+  },
+  "fetched_at": "2026-05-01T01:03:24.458179"
+}

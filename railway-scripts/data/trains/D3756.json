@@ -1,0 +1,51 @@
+{
+  "train_no": "D3756",
+  "train_type": "D",
+  "depart_station": "广州白云",
+  "arrive_station": "柳州",
+  "depart_time": "11:15",
+  "arrive_time": "14:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "11:15",
+      "depart_time": "11:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "11:40",
+      "depart_time": "11:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "梧州南",
+      "arrive_time": "12:51",
+      "depart_time": "12:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "来宾北",
+      "arrive_time": "14:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "柳州",
+      "arrive_time": "14:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 438.0,
+    "price_second": 274.0,
+    "price_no_seat": 274.0
+  },
+  "fetched_at": "2026-05-01T03:38:33.863225"
+}

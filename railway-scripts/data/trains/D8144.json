@@ -1,0 +1,51 @@
+{
+  "train_no": "D8144",
+  "train_type": "D",
+  "depart_station": "昆明南",
+  "arrive_station": "富宁",
+  "depart_time": "07:55",
+  "arrive_time": "09:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "07:55",
+      "depart_time": "07:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "弥勒",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "普者黑",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "珠琳",
+      "arrive_time": "09:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "富宁",
+      "arrive_time": "09:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 217.0,
+    "price_second": 135.5,
+    "price_no_seat": 135.5
+  },
+  "fetched_at": "2026-05-01T04:50:12.419528"
+}

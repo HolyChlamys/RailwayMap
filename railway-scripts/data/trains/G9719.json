@@ -1,0 +1,44 @@
+{
+  "train_no": "G9719",
+  "train_type": "G",
+  "depart_station": "怀化南",
+  "arrive_station": "广州南",
+  "depart_time": "22:13",
+  "arrive_time": "00:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "怀化南",
+      "arrive_time": "22:13",
+      "depart_time": "22:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衡阳东",
+      "arrive_time": "00:17",
+      "depart_time": "00:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州西",
+      "arrive_time": "00:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州南",
+      "arrive_time": "00:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 668.0,
+    "price_second": 418.0,
+    "price_no_seat": 418.0
+  },
+  "fetched_at": "2026-05-01T09:22:10.937596"
+}

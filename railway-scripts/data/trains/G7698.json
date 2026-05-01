@@ -1,0 +1,129 @@
+{
+  "train_no": "G7698",
+  "train_type": "G",
+  "depart_station": "淮北",
+  "arrive_station": "江山",
+  "depart_time": "07:55",
+  "arrive_time": "13:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "淮北",
+      "arrive_time": "07:55",
+      "depart_time": "07:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮北北",
+      "arrive_time": "08:06",
+      "depart_time": "08:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "萧县北",
+      "arrive_time": "08:22",
+      "depart_time": "08:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "徐州东",
+      "arrive_time": "08:42",
+      "depart_time": "08:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "宿州东",
+      "arrive_time": "09:02",
+      "depart_time": "09:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "10:08",
+      "depart_time": "10:15",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "溧水",
+      "arrive_time": "10:32",
+      "depart_time": "10:37",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "溧阳",
+      "arrive_time": "10:52",
+      "depart_time": "10:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "宜兴",
+      "arrive_time": "11:07",
+      "depart_time": "11:15",
+      "stay_min": "8"
+    },
+    {
+      "seq": 10,
+      "station_name": "长兴",
+      "arrive_time": "11:27",
+      "depart_time": "11:32",
+      "stay_min": "5"
+    },
+    {
+      "seq": 11,
+      "station_name": "湖州",
+      "arrive_time": "11:42",
+      "depart_time": "11:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "杭州东",
+      "arrive_time": "12:06",
+      "depart_time": "12:10",
+      "stay_min": "4"
+    },
+    {
+      "seq": 13,
+      "station_name": "义乌",
+      "arrive_time": "12:45",
+      "depart_time": "12:48",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "金华",
+      "arrive_time": "13:05",
+      "depart_time": "13:09",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "衢州",
+      "arrive_time": "13:30",
+      "depart_time": "13:39",
+      "stay_min": "9"
+    },
+    {
+      "seq": 16,
+      "station_name": "江山",
+      "arrive_time": "13:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1767.0,
+    "price_first": 810.0,
+    "price_second": 507.0,
+    "price_no_seat": 507.0
+  },
+  "fetched_at": "2026-05-01T08:34:16.352157"
+}

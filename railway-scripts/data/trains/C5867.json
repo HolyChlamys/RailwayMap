@@ -1,0 +1,50 @@
+{
+  "train_no": "C5867",
+  "train_type": "C",
+  "depart_station": "毕节",
+  "arrive_station": "花溪南",
+  "depart_time": "21:23",
+  "arrive_time": "23:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "毕节",
+      "arrive_time": "21:23",
+      "depart_time": "21:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大方",
+      "arrive_time": "21:33",
+      "depart_time": "21:39",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "贵阳北",
+      "arrive_time": "22:30",
+      "depart_time": "22:34",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "花溪大学城",
+      "arrive_time": "22:59",
+      "depart_time": "23:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "花溪南",
+      "arrive_time": "23:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 102.0,
+    "price_no_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T01:40:39.336520"
+}

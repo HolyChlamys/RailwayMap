@@ -1,0 +1,44 @@
+{
+  "train_no": "G8573",
+  "train_type": "G",
+  "depart_station": "荣昌北",
+  "arrive_station": "沙坪坝",
+  "depart_time": "14:08",
+  "arrive_time": "14:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荣昌北",
+      "arrive_time": "14:08",
+      "depart_time": "14:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永川东",
+      "arrive_time": "14:21",
+      "depart_time": "14:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "璧山",
+      "arrive_time": "14:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "沙坪坝",
+      "arrive_time": "14:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 76.0,
+    "price_second": 47.0,
+    "price_no_seat": 47.0
+  },
+  "fetched_at": "2026-05-01T08:54:49.732782"
+}

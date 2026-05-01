@@ -1,0 +1,87 @@
+{
+  "train_no": "D7714",
+  "train_type": "D",
+  "depart_station": "沈阳",
+  "arrive_station": "庄河北",
+  "depart_time": "06:11",
+  "arrive_time": "09:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "06:11",
+      "depart_time": "06:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "本溪",
+      "arrive_time": "06:42",
+      "depart_time": "06:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "通远堡西",
+      "arrive_time": "07:04",
+      "depart_time": "07:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "凤城东",
+      "arrive_time": "07:20",
+      "depart_time": "07:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "五龙背东",
+      "arrive_time": "07:33",
+      "depart_time": "07:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "丹东",
+      "arrive_time": "07:45",
+      "depart_time": "08:05",
+      "stay_min": "20"
+    },
+    {
+      "seq": 7,
+      "station_name": "东港北",
+      "arrive_time": "08:24",
+      "depart_time": "08:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "大孤山",
+      "arrive_time": "08:44",
+      "depart_time": "08:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "青堆",
+      "arrive_time": "09:00",
+      "depart_time": "09:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "庄河北",
+      "arrive_time": "09:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 382.0,
+    "price_first": 202.0,
+    "price_second": 125.5,
+    "price_no_seat": 125.5
+  },
+  "fetched_at": "2026-05-01T04:43:24.417064"
+}

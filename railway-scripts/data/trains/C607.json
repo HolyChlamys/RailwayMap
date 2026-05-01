@@ -1,0 +1,30 @@
+{
+  "train_no": "C607",
+  "train_type": "C",
+  "depart_station": "兰州西",
+  "arrive_station": "中川机场东",
+  "depart_time": "16:33",
+  "arrive_time": "16:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "16:33",
+      "depart_time": "16:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "中川机场东",
+      "arrive_time": "16:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 48.0,
+    "price_second": 30.0,
+    "price_no_seat": 30.0
+  },
+  "fetched_at": "2026-05-01T01:44:13.589570"
+}

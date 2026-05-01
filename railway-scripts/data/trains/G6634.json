@@ -1,0 +1,73 @@
+{
+  "train_no": "G6634",
+  "train_type": "G",
+  "depart_station": "高平东",
+  "arrive_station": "濮阳东",
+  "depart_time": "11:03",
+  "arrive_time": "13:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "高平东",
+      "arrive_time": "11:03",
+      "depart_time": "11:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "晋城东",
+      "arrive_time": "11:13",
+      "depart_time": "11:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州",
+      "arrive_time": "12:06",
+      "depart_time": "12:12",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "12:29",
+      "depart_time": "12:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "新乡东",
+      "arrive_time": "12:57",
+      "depart_time": "12:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "滑浚",
+      "arrive_time": "13:18",
+      "depart_time": "13:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "内黄",
+      "arrive_time": "13:31",
+      "depart_time": "13:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "濮阳东",
+      "arrive_time": "13:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 704.0,
+    "price_first": 330.0,
+    "price_second": 206.0,
+    "price_no_seat": 206.0
+  },
+  "fetched_at": "2026-05-01T08:04:30.367582"
+}

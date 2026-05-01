@@ -1,0 +1,79 @@
+{
+  "train_no": "C701",
+  "train_type": "C",
+  "depart_station": "巴中",
+  "arrive_station": "秀山",
+  "depart_time": "15:06",
+  "arrive_time": "23:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "巴中",
+      "arrive_time": "15:06",
+      "depart_time": "15:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巴中东",
+      "arrive_time": "15:18",
+      "depart_time": "15:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "平昌",
+      "arrive_time": "15:50",
+      "depart_time": "15:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "达州",
+      "arrive_time": "17:10",
+      "depart_time": "17:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "渠县",
+      "arrive_time": "17:50",
+      "depart_time": "17:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广安",
+      "arrive_time": "18:18",
+      "depart_time": "18:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "重庆北",
+      "arrive_time": "19:46",
+      "depart_time": "19:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "酉阳",
+      "arrive_time": "23:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "秀山",
+      "arrive_time": "23:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 352.0,
+    "price_second": 220.0,
+    "price_no_seat": 220.0
+  },
+  "fetched_at": "2026-05-01T02:03:07.587750"
+}

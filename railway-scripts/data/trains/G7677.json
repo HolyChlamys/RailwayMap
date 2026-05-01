@@ -1,0 +1,122 @@
+{
+  "train_no": "G7677",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "温州南",
+  "depart_time": "15:57",
+  "arrive_time": "21:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "15:57",
+      "depart_time": "15:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "16:48",
+      "depart_time": "16:52",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "江宁",
+      "arrive_time": "17:00",
+      "depart_time": "17:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "溧水",
+      "arrive_time": "17:15",
+      "depart_time": "17:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "宜兴",
+      "arrive_time": "17:39",
+      "depart_time": "17:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "湖州",
+      "arrive_time": "17:57",
+      "depart_time": "17:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "杭州东",
+      "arrive_time": "18:22",
+      "depart_time": "18:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "绍兴东",
+      "arrive_time": "18:49",
+      "depart_time": "18:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "余姚北",
+      "arrive_time": "19:03",
+      "depart_time": "19:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "宁波",
+      "arrive_time": "19:25",
+      "depart_time": "19:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "宁海",
+      "arrive_time": "19:57",
+      "depart_time": "19:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "临海",
+      "arrive_time": "20:20",
+      "depart_time": "20:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "台州西",
+      "arrive_time": "20:34",
+      "depart_time": "20:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "温岭",
+      "arrive_time": "20:47",
+      "depart_time": "20:51",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "温州南",
+      "arrive_time": "21:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1446.0,
+    "price_first": 670.0,
+    "price_second": 420.0,
+    "price_no_seat": 420.0
+  },
+  "fetched_at": "2026-05-01T08:33:43.427763"
+}

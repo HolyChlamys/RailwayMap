@@ -1,0 +1,73 @@
+{
+  "train_no": "G6942",
+  "train_type": "G",
+  "depart_station": "曲阜东",
+  "arrive_station": "威海",
+  "depart_time": "07:04",
+  "arrive_time": "11:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "曲阜东",
+      "arrive_time": "07:04",
+      "depart_time": "07:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰安",
+      "arrive_time": "07:23",
+      "depart_time": "07:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "济南",
+      "arrive_time": "07:49",
+      "depart_time": "07:56",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博",
+      "arrive_time": "08:38",
+      "depart_time": "08:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "潍坊",
+      "arrive_time": "09:16",
+      "depart_time": "09:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "莱西",
+      "arrive_time": "10:22",
+      "depart_time": "10:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "荣成",
+      "arrive_time": "11:12",
+      "depart_time": "11:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "威海",
+      "arrive_time": "11:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1221.0,
+    "price_first": 559.0,
+    "price_second": 349.0,
+    "price_no_seat": 349.0
+  },
+  "fetched_at": "2026-05-01T08:13:16.560144"
+}

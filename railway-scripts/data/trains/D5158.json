@@ -1,0 +1,44 @@
+{
+  "train_no": "D5158",
+  "train_type": "D",
+  "depart_station": "遂宁",
+  "arrive_station": "重庆北",
+  "depart_time": "06:41",
+  "arrive_time": "07:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "遂宁",
+      "arrive_time": "06:41",
+      "depart_time": "06:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潼南",
+      "arrive_time": "07:09",
+      "depart_time": "07:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "合川",
+      "arrive_time": "07:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆北",
+      "arrive_time": "07:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 94.0,
+    "price_second": 59.0,
+    "price_no_seat": 59.0
+  },
+  "fetched_at": "2026-05-01T04:01:31.904582"
+}

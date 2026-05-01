@@ -1,0 +1,86 @@
+{
+  "train_no": "D2986",
+  "train_type": "D",
+  "depart_station": "东安东",
+  "arrive_station": "广州南",
+  "depart_time": "11:38",
+  "arrive_time": "16:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "东安东",
+      "arrive_time": "11:38",
+      "depart_time": "11:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "全州南",
+      "arrive_time": "12:01",
+      "depart_time": "12:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "桂林",
+      "arrive_time": "12:50",
+      "depart_time": "13:10",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "桂林北",
+      "arrive_time": "13:20",
+      "depart_time": "13:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "阳朔",
+      "arrive_time": "13:48",
+      "depart_time": "14:13",
+      "stay_min": "25"
+    },
+    {
+      "seq": 6,
+      "station_name": "贺州",
+      "arrive_time": "14:49",
+      "depart_time": "14:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "广宁",
+      "arrive_time": "15:33",
+      "depart_time": "15:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "肇庆东",
+      "arrive_time": "15:52",
+      "depart_time": "15:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "三水南",
+      "arrive_time": "16:05",
+      "depart_time": "16:10",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "广州南",
+      "arrive_time": "16:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 427.0,
+    "price_second": 266.5,
+    "price_no_seat": 266.5
+  },
+  "fetched_at": "2026-05-01T03:26:23.801249"
+}

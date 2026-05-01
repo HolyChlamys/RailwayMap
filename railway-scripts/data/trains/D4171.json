@@ -1,0 +1,79 @@
+{
+  "train_no": "D4171",
+  "train_type": "D",
+  "depart_station": "太原南",
+  "arrive_station": "西安北",
+  "depart_time": "10:09",
+  "arrive_time": "13:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "10:09",
+      "depart_time": "10:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "平遥古城",
+      "arrive_time": "10:42",
+      "depart_time": "10:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "介休东",
+      "arrive_time": "10:54",
+      "depart_time": "10:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "霍州东",
+      "arrive_time": "11:18",
+      "depart_time": "11:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "洪洞西",
+      "arrive_time": "11:39",
+      "depart_time": "11:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "襄汾西",
+      "arrive_time": "12:00",
+      "depart_time": "12:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "运城北",
+      "arrive_time": "12:38",
+      "depart_time": "12:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "渭南北",
+      "arrive_time": "13:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "西安北",
+      "arrive_time": "13:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 286.0,
+    "price_second": 178.5,
+    "price_no_seat": 178.5
+  },
+  "fetched_at": "2026-05-01T03:44:55.988935"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G358",
+  "train_type": "G",
+  "depart_station": "延安",
+  "arrive_station": "北京西",
+  "depart_time": "08:39",
+  "arrive_time": "14:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "延安",
+      "arrive_time": "08:39",
+      "depart_time": "08:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "西安北",
+      "arrive_time": "09:47",
+      "depart_time": "10:02",
+      "stay_min": "15"
+    },
+    {
+      "seq": 3,
+      "station_name": "洛阳龙门",
+      "arrive_time": "11:19",
+      "depart_time": "11:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "11:59",
+      "depart_time": "12:03",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "石家庄",
+      "arrive_time": "13:18",
+      "depart_time": "13:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "北京西",
+      "arrive_time": "14:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2997.0,
+    "price_first": 1370.0,
+    "price_second": 857.0,
+    "price_no_seat": 857.0
+  },
+  "fetched_at": "2026-05-01T06:41:51.530228"
+}

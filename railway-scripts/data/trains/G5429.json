@@ -1,0 +1,45 @@
+{
+  "train_no": "G5429",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "荔波",
+  "depart_time": "06:10",
+  "arrive_time": "07:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "06:10",
+      "depart_time": "06:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳",
+      "arrive_time": "06:23",
+      "depart_time": "06:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "都匀东",
+      "arrive_time": "07:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "荔波",
+      "arrive_time": "07:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 386.0,
+    "price_first": 180.0,
+    "price_second": 112.0,
+    "price_no_seat": 112.0
+  },
+  "fetched_at": "2026-05-01T07:33:47.130827"
+}

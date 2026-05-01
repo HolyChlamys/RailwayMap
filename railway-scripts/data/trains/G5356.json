@@ -1,0 +1,52 @@
+{
+  "train_no": "G5356",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "兴义南",
+  "depart_time": "13:29",
+  "arrive_time": "15:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "13:29",
+      "depart_time": "13:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵安",
+      "arrive_time": "13:53",
+      "depart_time": "13:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "盘州",
+      "arrive_time": "15:07",
+      "depart_time": "15:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "保田",
+      "arrive_time": "15:30",
+      "depart_time": "15:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "兴义南",
+      "arrive_time": "15:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 726.0,
+    "price_first": 332.0,
+    "price_second": 207.0,
+    "price_no_seat": 207.0
+  },
+  "fetched_at": "2026-05-01T07:31:51.222862"
+}

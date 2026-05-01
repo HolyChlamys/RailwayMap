@@ -1,0 +1,79 @@
+{
+  "train_no": "D7144",
+  "train_type": "D",
+  "depart_station": "广州东",
+  "arrive_station": "汕头",
+  "depart_time": "14:00",
+  "arrive_time": "17:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "14:00",
+      "depart_time": "14:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "14:23",
+      "depart_time": "14:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州南",
+      "arrive_time": "14:55",
+      "depart_time": "14:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "惠东",
+      "arrive_time": "15:10",
+      "depart_time": "15:21",
+      "stay_min": "11"
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "15:46",
+      "depart_time": "15:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "普宁",
+      "arrive_time": "16:19",
+      "depart_time": "16:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "潮汕",
+      "arrive_time": "16:42",
+      "depart_time": "16:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "潮安",
+      "arrive_time": "16:58",
+      "depart_time": "17:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "汕头",
+      "arrive_time": "17:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 376.0,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T04:34:19.308027"
+}

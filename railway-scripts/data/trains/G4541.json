@@ -1,0 +1,45 @@
+{
+  "train_no": "G4541",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "赣州西",
+  "depart_time": "03:16",
+  "arrive_time": "06:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "03:16",
+      "depart_time": "03:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌东",
+      "arrive_time": "05:58",
+      "depart_time": "05:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吉安西",
+      "arrive_time": "06:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州西",
+      "arrive_time": "06:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1781.0,
+    "price_first": 866.0,
+    "price_second": 541.0,
+    "price_no_seat": 541.0
+  },
+  "fetched_at": "2026-05-01T07:08:20.386063"
+}

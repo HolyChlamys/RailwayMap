@@ -1,0 +1,87 @@
+{
+  "train_no": "G2288",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "南阳东",
+  "depart_time": "07:27",
+  "arrive_time": "11:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "07:27",
+      "depart_time": "07:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉口",
+      "arrive_time": "07:46",
+      "depart_time": "08:05",
+      "stay_min": "19"
+    },
+    {
+      "seq": 3,
+      "station_name": "仙桃西",
+      "arrive_time": "08:49",
+      "depart_time": "08:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "荆州",
+      "arrive_time": "09:24",
+      "depart_time": "09:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "沙洋西",
+      "arrive_time": "09:43",
+      "depart_time": "09:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "荆门西",
+      "arrive_time": "10:02",
+      "depart_time": "10:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "宜城",
+      "arrive_time": "10:29",
+      "depart_time": "10:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "襄阳东",
+      "arrive_time": "10:48",
+      "depart_time": "11:00",
+      "stay_min": "12"
+    },
+    {
+      "seq": 9,
+      "station_name": "邓州东",
+      "arrive_time": "11:20",
+      "depart_time": "11:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "南阳东",
+      "arrive_time": "11:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1054.0,
+    "price_first": 500.0,
+    "price_second": 312.0,
+    "price_no_seat": 312.0
+  },
+  "fetched_at": "2026-05-01T06:06:28.571428"
+}

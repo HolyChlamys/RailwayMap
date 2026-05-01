@@ -1,0 +1,30 @@
+{
+  "train_no": "D3386",
+  "train_type": "D",
+  "depart_station": "长治东",
+  "arrive_station": "太原南",
+  "depart_time": "19:19",
+  "arrive_time": "19:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长治东",
+      "arrive_time": "19:19",
+      "depart_time": "19:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太原南",
+      "arrive_time": "19:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 167.0,
+    "price_second": 105.0,
+    "price_no_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T03:33:17.444103"
+}

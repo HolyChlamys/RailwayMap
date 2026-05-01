@@ -1,0 +1,37 @@
+{
+  "train_no": "D7476",
+  "train_type": "D",
+  "depart_station": "三亚",
+  "arrive_station": "海口东",
+  "depart_time": "20:50",
+  "arrive_time": "22:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "三亚",
+      "arrive_time": "20:50",
+      "depart_time": "20:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "美兰",
+      "arrive_time": "22:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "海口东",
+      "arrive_time": "22:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 181.0,
+    "price_second": 113.0,
+    "price_no_seat": 113.0
+  },
+  "fetched_at": "2026-05-01T04:39:36.889848"
+}

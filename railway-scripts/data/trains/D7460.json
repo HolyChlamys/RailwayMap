@@ -1,0 +1,37 @@
+{
+  "train_no": "D7460",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "怀集",
+  "depart_time": "21:53",
+  "arrive_time": "22:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "21:53",
+      "depart_time": "21:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "22:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "怀集",
+      "arrive_time": "22:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 131.0,
+    "price_second": 82.0,
+    "price_no_seat": 82.0
+  },
+  "fetched_at": "2026-05-01T04:39:13.734498"
+}

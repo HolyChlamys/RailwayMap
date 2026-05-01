@@ -1,0 +1,45 @@
+{
+  "train_no": "G5296",
+  "train_type": "G",
+  "depart_station": "威海",
+  "arrive_station": "济南东",
+  "depart_time": "20:39",
+  "arrive_time": "22:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "威海",
+      "arrive_time": "20:39",
+      "depart_time": "20:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荣成",
+      "arrive_time": "20:58",
+      "depart_time": "20:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊北",
+      "arrive_time": "22:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "济南东",
+      "arrive_time": "22:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 938.0,
+    "price_first": 450.0,
+    "price_second": 281.0,
+    "price_no_seat": 281.0
+  },
+  "fetched_at": "2026-05-01T07:30:32.030485"
+}

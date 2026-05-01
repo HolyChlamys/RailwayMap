@@ -1,0 +1,93 @@
+{
+  "train_no": "D2801",
+  "train_type": "D",
+  "depart_station": "太原南",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "16:22",
+  "arrive_time": "20:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "16:22",
+      "depart_time": "16:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "忻州西",
+      "arrive_time": "16:57",
+      "depart_time": "16:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "原平西",
+      "arrive_time": "17:12",
+      "depart_time": "17:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "雁门关",
+      "arrive_time": "17:29",
+      "depart_time": "17:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "朔州东",
+      "arrive_time": "17:47",
+      "depart_time": "17:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "应县西",
+      "arrive_time": "18:09",
+      "depart_time": "18:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "怀仁东",
+      "arrive_time": "18:22",
+      "depart_time": "18:25",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "大同南",
+      "arrive_time": "18:39",
+      "depart_time": "18:45",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "丰镇北",
+      "arrive_time": "19:07",
+      "depart_time": "19:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "乌兰察布",
+      "arrive_time": "19:30",
+      "depart_time": "19:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "呼和浩特东",
+      "arrive_time": "20:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 387.0,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T03:23:34.847346"
+}

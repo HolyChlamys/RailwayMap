@@ -1,0 +1,52 @@
+{
+  "train_no": "G8996",
+  "train_type": "G",
+  "depart_station": "常熟",
+  "arrive_station": "南京南",
+  "depart_time": "16:53",
+  "arrive_time": "17:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "常熟",
+      "arrive_time": "16:53",
+      "depart_time": "16:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "江阴",
+      "arrive_time": "17:13",
+      "depart_time": "17:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "金坛",
+      "arrive_time": "17:36",
+      "depart_time": "17:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "句容",
+      "arrive_time": "17:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "17:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 437.0,
+    "price_first": 200.0,
+    "price_second": 125.0,
+    "price_no_seat": 125.0
+  },
+  "fetched_at": "2026-05-01T09:05:30.274599"
+}

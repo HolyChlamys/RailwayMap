@@ -1,0 +1,93 @@
+{
+  "train_no": "D1170",
+  "train_type": "D",
+  "depart_station": "太原南",
+  "arrive_station": "巴彦淖尔",
+  "depart_time": "10:01",
+  "arrive_time": "16:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "10:01",
+      "depart_time": "10:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "朔州东",
+      "arrive_time": "11:04",
+      "depart_time": "11:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "山阴南",
+      "arrive_time": "11:20",
+      "depart_time": "11:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "怀仁东",
+      "arrive_time": "11:38",
+      "depart_time": "11:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "大同南",
+      "arrive_time": "11:55",
+      "depart_time": "12:07",
+      "stay_min": "12"
+    },
+    {
+      "seq": 6,
+      "station_name": "丰镇北",
+      "arrive_time": "12:29",
+      "depart_time": "12:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "乌兰察布",
+      "arrive_time": "12:53",
+      "depart_time": "12:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "呼和浩特东",
+      "arrive_time": "13:36",
+      "depart_time": "13:42",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "萨拉齐",
+      "arrive_time": "14:24",
+      "depart_time": "14:27",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "包头",
+      "arrive_time": "14:53",
+      "depart_time": "14:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "16:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 702.0,
+    "price_second": 439.5,
+    "price_no_seat": 439.5
+  },
+  "fetched_at": "2026-05-01T02:58:33.791464"
+}

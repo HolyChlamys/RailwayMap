@@ -1,0 +1,49 @@
+{
+  "train_no": "S602",
+  "train_type": "S",
+  "depart_station": "密云北",
+  "arrive_station": "通州西",
+  "depart_time": "07:10",
+  "arrive_time": "08:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "密云北",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀柔",
+      "arrive_time": "07:34",
+      "depart_time": "07:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "牛栏山",
+      "arrive_time": "07:50",
+      "depart_time": "07:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "顺义",
+      "arrive_time": "08:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "通州西",
+      "arrive_time": "08:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 8.0
+  },
+  "fetched_at": "2026-05-01T11:09:21.806821"
+}

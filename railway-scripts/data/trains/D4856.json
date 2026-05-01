@@ -1,0 +1,65 @@
+{
+  "train_no": "D4856",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "桂平",
+  "depart_time": "18:53",
+  "arrive_time": "21:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "18:53",
+      "depart_time": "18:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "19:15",
+      "depart_time": "19:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "肇庆东",
+      "arrive_time": "19:38",
+      "depart_time": "19:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "云浮东",
+      "arrive_time": "20:01",
+      "depart_time": "20:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "梧州南",
+      "arrive_time": "20:40",
+      "depart_time": "20:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "平南南",
+      "arrive_time": "21:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "桂平",
+      "arrive_time": "21:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 259.0,
+    "price_second": 162.0,
+    "price_no_seat": 162.0
+  },
+  "fetched_at": "2026-05-01T03:57:32.700172"
+}

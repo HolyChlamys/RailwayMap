@@ -1,0 +1,135 @@
+{
+  "train_no": "D3545",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "呼和浩特东",
+  "depart_time": "13:29",
+  "arrive_time": "21:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "13:29",
+      "depart_time": "13:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "礼泉南",
+      "arrive_time": "13:49",
+      "depart_time": "13:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "永寿西",
+      "arrive_time": "14:06",
+      "depart_time": "14:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宁县",
+      "arrive_time": "14:39",
+      "depart_time": "14:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "庆阳",
+      "arrive_time": "14:58",
+      "depart_time": "15:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "环县",
+      "arrive_time": "15:34",
+      "depart_time": "15:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "吴忠",
+      "arrive_time": "16:30",
+      "depart_time": "16:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "银川",
+      "arrive_time": "17:05",
+      "depart_time": "17:13",
+      "stay_min": "8"
+    },
+    {
+      "seq": 9,
+      "station_name": "惠农南",
+      "arrive_time": "17:45",
+      "depart_time": "17:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "乌海",
+      "arrive_time": "18:07",
+      "depart_time": "18:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "18:51",
+      "depart_time": "18:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "五原",
+      "arrive_time": "19:13",
+      "depart_time": "19:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "包头",
+      "arrive_time": "20:03",
+      "depart_time": "20:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "包头东",
+      "arrive_time": "20:18",
+      "depart_time": "20:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "萨拉齐",
+      "arrive_time": "20:39",
+      "depart_time": "20:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "呼和浩特",
+      "arrive_time": "21:19",
+      "depart_time": "21:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 17,
+      "station_name": "呼和浩特东",
+      "arrive_time": "21:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1040.0,
+    "price_second": 649.5,
+    "price_no_seat": 649.5
+  },
+  "fetched_at": "2026-05-01T03:34:32.643622"
+}

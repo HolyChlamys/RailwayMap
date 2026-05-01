@@ -1,0 +1,66 @@
+{
+  "train_no": "C7489",
+  "train_type": "C",
+  "depart_station": "福田",
+  "arrive_station": "潮汕",
+  "depart_time": "23:07",
+  "arrive_time": "01:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福田",
+      "arrive_time": "23:07",
+      "depart_time": "23:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳北",
+      "arrive_time": "23:15",
+      "depart_time": "23:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "五华",
+      "arrive_time": "00:29",
+      "depart_time": "00:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "兴宁南",
+      "arrive_time": "00:40",
+      "depart_time": "00:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "梅州西",
+      "arrive_time": "00:55",
+      "depart_time": "00:59",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "揭阳",
+      "arrive_time": "01:26",
+      "depart_time": "01:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "潮汕",
+      "arrive_time": "01:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 966.0,
+    "price_first": 460.0,
+    "price_second": 290.0,
+    "price_no_seat": 290.0
+  },
+  "fetched_at": "2026-05-01T02:16:29.840470"
+}

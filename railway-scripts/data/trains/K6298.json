@@ -1,0 +1,49 @@
+{
+  "train_no": "K6298",
+  "train_type": "K",
+  "depart_station": "石城东",
+  "arrive_station": "南昌",
+  "depart_time": "14:07",
+  "arrive_time": "18:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "石城东",
+      "arrive_time": "14:07",
+      "depart_time": "14:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁都",
+      "arrive_time": "14:43",
+      "depart_time": "14:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吉安",
+      "arrive_time": "17:17",
+      "depart_time": "17:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "樟树东",
+      "arrive_time": "18:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌",
+      "arrive_time": "18:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 64.5
+  },
+  "fetched_at": "2026-05-01T10:21:01.939656"
+}

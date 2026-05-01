@@ -1,0 +1,80 @@
+{
+  "train_no": "G3503",
+  "train_type": "G",
+  "depart_station": "北京朝阳",
+  "arrive_station": "哈尔滨西",
+  "depart_time": "08:25",
+  "arrive_time": "13:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京朝阳",
+      "arrive_time": "08:25",
+      "depart_time": "08:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "顺义西",
+      "arrive_time": "08:44",
+      "depart_time": "08:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "承德南",
+      "arrive_time": "09:26",
+      "depart_time": "09:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "平泉北",
+      "arrive_time": "10:01",
+      "depart_time": "10:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "喀左",
+      "arrive_time": "10:28",
+      "depart_time": "10:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "沈阳北",
+      "arrive_time": "11:59",
+      "depart_time": "11:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "铁岭西",
+      "arrive_time": "12:18",
+      "depart_time": "12:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "长春西",
+      "arrive_time": "13:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "哈尔滨西",
+      "arrive_time": "13:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2369.0,
+    "price_first": 1083.0,
+    "price_second": 677.0,
+    "price_no_seat": 677.0
+  },
+  "fetched_at": "2026-05-01T06:39:42.592329"
+}

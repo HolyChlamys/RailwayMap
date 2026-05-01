@@ -1,0 +1,59 @@
+{
+  "train_no": "C3072",
+  "train_type": "C",
+  "depart_station": "苍南",
+  "arrive_station": "上海南",
+  "depart_time": "11:37",
+  "arrive_time": "14:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "苍南",
+      "arrive_time": "11:37",
+      "depart_time": "11:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "温州南",
+      "arrive_time": "12:04",
+      "depart_time": "12:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "义乌",
+      "arrive_time": "13:04",
+      "depart_time": "13:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州西",
+      "arrive_time": "13:44",
+      "depart_time": "13:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "苏州南",
+      "arrive_time": "14:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "上海南",
+      "arrive_time": "14:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1302.0,
+    "price_first": 594.0,
+    "price_second": 373.0,
+    "price_no_seat": 373.0
+  },
+  "fetched_at": "2026-05-01T00:50:16.353716"
+}

@@ -1,0 +1,143 @@
+{
+  "train_no": "G3030",
+  "train_type": "G",
+  "depart_station": "温州南",
+  "arrive_station": "商丘",
+  "depart_time": "13:07",
+  "arrive_time": "21:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "温州南",
+      "arrive_time": "13:07",
+      "depart_time": "13:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乐清东",
+      "arrive_time": "13:27",
+      "depart_time": "13:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "台州西",
+      "arrive_time": "13:55",
+      "depart_time": "13:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "临海",
+      "arrive_time": "14:09",
+      "depart_time": "14:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "奉化",
+      "arrive_time": "14:45",
+      "depart_time": "14:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "宁波",
+      "arrive_time": "15:05",
+      "depart_time": "15:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "余姚北",
+      "arrive_time": "15:27",
+      "depart_time": "15:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "杭州东",
+      "arrive_time": "16:02",
+      "depart_time": "16:08",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "湖州",
+      "arrive_time": "16:29",
+      "depart_time": "16:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "宜兴",
+      "arrive_time": "16:48",
+      "depart_time": "16:52",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "溧水",
+      "arrive_time": "17:15",
+      "depart_time": "17:21",
+      "stay_min": "6"
+    },
+    {
+      "seq": 12,
+      "station_name": "江宁",
+      "arrive_time": "17:33",
+      "depart_time": "17:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "南京南",
+      "arrive_time": "17:44",
+      "depart_time": "17:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "合肥",
+      "arrive_time": "18:39",
+      "depart_time": "18:42",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "水家湖",
+      "arrive_time": "19:05",
+      "depart_time": "19:21",
+      "stay_min": "16"
+    },
+    {
+      "seq": 16,
+      "station_name": "淮南南",
+      "arrive_time": "19:30",
+      "depart_time": "19:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "阜阳西",
+      "arrive_time": "20:05",
+      "depart_time": "20:17",
+      "stay_min": "12"
+    },
+    {
+      "seq": 18,
+      "station_name": "商丘",
+      "arrive_time": "21:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2096.0,
+    "price_first": 1019.0,
+    "price_second": 637.0,
+    "price_no_seat": 637.0
+  },
+  "fetched_at": "2026-05-01T06:26:43.657934"
+}

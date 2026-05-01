@@ -1,0 +1,44 @@
+{
+  "train_no": "C215",
+  "train_type": "C",
+  "depart_station": "西安",
+  "arrive_station": "商洛北",
+  "depart_time": "07:10",
+  "arrive_time": "09:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "渭南西",
+      "arrive_time": "07:41",
+      "depart_time": "07:46",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "商洛",
+      "arrive_time": "09:02",
+      "depart_time": "09:17",
+      "stay_min": "15"
+    },
+    {
+      "seq": 4,
+      "station_name": "商洛北",
+      "arrive_time": "09:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 67.0,
+    "price_second": 56.0,
+    "price_no_seat": 56.0
+  },
+  "fetched_at": "2026-05-01T00:30:47.356893"
+}

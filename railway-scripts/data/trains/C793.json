@@ -1,0 +1,73 @@
+{
+  "train_no": "C793",
+  "train_type": "C",
+  "depart_station": "高兴",
+  "arrive_station": "成都南",
+  "depart_time": "18:18",
+  "arrive_time": "21:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "高兴",
+      "arrive_time": "18:18",
+      "depart_time": "18:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广安南",
+      "arrive_time": "18:41",
+      "depart_time": "18:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "岳池",
+      "arrive_time": "18:54",
+      "depart_time": "18:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南充",
+      "arrive_time": "19:31",
+      "depart_time": "19:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "蓬溪",
+      "arrive_time": "19:58",
+      "depart_time": "19:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "遂宁",
+      "arrive_time": "20:16",
+      "depart_time": "20:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "成都东",
+      "arrive_time": "21:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "成都南",
+      "arrive_time": "21:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 339.0,
+    "price_first": 155.0,
+    "price_second": 97.0,
+    "price_no_seat": 97.0
+  },
+  "fetched_at": "2026-05-01T02:28:10.528695"
+}

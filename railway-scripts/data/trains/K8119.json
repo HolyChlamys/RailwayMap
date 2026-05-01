@@ -1,0 +1,49 @@
+{
+  "train_no": "K8119",
+  "train_type": "K",
+  "depart_station": "武昌",
+  "arrive_station": "阳新",
+  "depart_time": "05:57",
+  "arrive_time": "07:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "05:57",
+      "depart_time": "05:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武汉东",
+      "arrive_time": "06:24",
+      "depart_time": "06:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鄂州",
+      "arrive_time": "07:09",
+      "depart_time": "07:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄石",
+      "arrive_time": "07:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "阳新",
+      "arrive_time": "07:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 23.5
+  },
+  "fetched_at": "2026-05-01T10:35:55.698274"
+}

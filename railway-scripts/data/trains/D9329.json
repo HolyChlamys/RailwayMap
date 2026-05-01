@@ -1,0 +1,66 @@
+{
+  "train_no": "D9329",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "丹江口",
+  "depart_time": "08:40",
+  "arrive_time": "10:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "08:40",
+      "depart_time": "08:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感东",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "安陆西",
+      "arrive_time": "09:27",
+      "depart_time": "09:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "随州南",
+      "arrive_time": "09:47",
+      "depart_time": "09:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "襄阳东",
+      "arrive_time": "10:28",
+      "depart_time": "10:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "谷城北",
+      "arrive_time": "10:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "丹江口",
+      "arrive_time": "10:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 540.0,
+    "price_first": 288.0,
+    "price_second": 180.0,
+    "price_no_seat": 180.0
+  },
+  "fetched_at": "2026-05-01T05:13:23.186100"
+}

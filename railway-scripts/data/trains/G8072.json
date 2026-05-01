@@ -1,0 +1,38 @@
+{
+  "train_no": "G8072",
+  "train_type": "G",
+  "depart_station": "营口东",
+  "arrive_station": "大连",
+  "depart_time": "07:06",
+  "arrive_time": "07:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "营口东",
+      "arrive_time": "07:06",
+      "depart_time": "07:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "07:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大连",
+      "arrive_time": "07:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 429.0,
+    "price_first": 196.0,
+    "price_second": 123.0,
+    "price_no_seat": 123.0
+  },
+  "fetched_at": "2026-05-01T08:43:58.346375"
+}

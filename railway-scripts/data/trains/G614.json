@@ -1,0 +1,38 @@
+{
+  "train_no": "G614",
+  "train_type": "G",
+  "depart_station": "太原南",
+  "arrive_station": "北京西",
+  "depart_time": "15:31",
+  "arrive_time": "16:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "太原南",
+      "arrive_time": "15:31",
+      "depart_time": "15:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄",
+      "arrive_time": "16:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "北京西",
+      "arrive_time": "16:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 842.0,
+    "price_first": 384.0,
+    "price_second": 241.0,
+    "price_no_seat": 241.0
+  },
+  "fetched_at": "2026-05-01T07:50:02.361696"
+}

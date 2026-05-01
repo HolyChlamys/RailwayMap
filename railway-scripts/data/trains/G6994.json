@@ -1,0 +1,80 @@
+{
+  "train_no": "G6994",
+  "train_type": "G",
+  "depart_station": "临沂北",
+  "arrive_station": "青岛",
+  "depart_time": "09:30",
+  "arrive_time": "13:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "临沂北",
+      "arrive_time": "09:30",
+      "depart_time": "09:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "费县北",
+      "arrive_time": "09:43",
+      "depart_time": "09:49",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "蒙山",
+      "arrive_time": "10:00",
+      "depart_time": "10:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "泗水南",
+      "arrive_time": "10:15",
+      "depart_time": "10:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "曲阜东",
+      "arrive_time": "10:30",
+      "depart_time": "10:34",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南",
+      "arrive_time": "11:11",
+      "depart_time": "11:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "淄博",
+      "arrive_time": "11:56",
+      "depart_time": "11:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "潍坊",
+      "arrive_time": "12:32",
+      "depart_time": "12:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "青岛",
+      "arrive_time": "13:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 984.0,
+    "price_first": 467.0,
+    "price_second": 293.0,
+    "price_no_seat": 293.0
+  },
+  "fetched_at": "2026-05-01T08:14:42.687003"
+}

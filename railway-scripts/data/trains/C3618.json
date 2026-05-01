@@ -1,0 +1,38 @@
+{
+  "train_no": "C3618",
+  "train_type": "C",
+  "depart_station": "上海虹桥",
+  "arrive_station": "安庆",
+  "depart_time": "02:14",
+  "arrive_time": "05:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "02:14",
+      "depart_time": "02:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "03:42",
+      "depart_time": "03:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "安庆",
+      "arrive_time": "05:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 998.0,
+    "price_first": 456.0,
+    "price_second": 285.0,
+    "price_no_seat": 285.0
+  },
+  "fetched_at": "2026-05-01T01:01:07.627732"
+}

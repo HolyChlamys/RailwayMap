@@ -1,0 +1,31 @@
+{
+  "train_no": "G9278",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "上海南",
+  "depart_time": "01:04",
+  "arrive_time": "01:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "01:04",
+      "depart_time": "01:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "上海南",
+      "arrive_time": "01:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 302.0,
+    "price_first": 138.0,
+    "price_second": 86.0,
+    "price_no_seat": 86.0
+  },
+  "fetched_at": "2026-05-01T09:10:06.385172"
+}

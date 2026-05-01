@@ -1,0 +1,63 @@
+{
+  "train_no": "K6242",
+  "train_type": "K",
+  "depart_station": "福州",
+  "arrive_station": "松溪",
+  "depart_time": "13:23",
+  "arrive_time": "16:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "13:23",
+      "depart_time": "13:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "支提山",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "周宁",
+      "arrive_time": "14:55",
+      "depart_time": "14:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "屏南",
+      "arrive_time": "15:21",
+      "depart_time": "15:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "建瓯东",
+      "arrive_time": "15:59",
+      "depart_time": "15:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "政和",
+      "arrive_time": "16:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "松溪",
+      "arrive_time": "16:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:20:30.396575"
+}

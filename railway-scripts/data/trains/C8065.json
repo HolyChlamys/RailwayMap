@@ -1,0 +1,73 @@
+{
+  "train_no": "C8065",
+  "train_type": "C",
+  "depart_station": "汕头",
+  "arrive_station": "深圳北",
+  "depart_time": "21:04",
+  "arrive_time": "23:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "21:04",
+      "depart_time": "21:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮安",
+      "arrive_time": "21:15",
+      "depart_time": "21:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "潮汕",
+      "arrive_time": "21:32",
+      "depart_time": "21:36",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "潮阳",
+      "arrive_time": "21:47",
+      "depart_time": "21:54",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "普宁",
+      "arrive_time": "22:04",
+      "depart_time": "22:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "陆丰",
+      "arrive_time": "22:26",
+      "depart_time": "22:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "汕尾",
+      "arrive_time": "22:41",
+      "depart_time": "22:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "深圳北",
+      "arrive_time": "23:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 519.0,
+    "price_first": 237.0,
+    "price_second": 148.0,
+    "price_no_seat": 148.0
+  },
+  "fetched_at": "2026-05-01T02:31:40.445954"
+}

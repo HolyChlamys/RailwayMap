@@ -1,0 +1,51 @@
+{
+  "train_no": "D4344",
+  "train_type": "D",
+  "depart_station": "广州东",
+  "arrive_station": "南昌西",
+  "depart_time": "20:55",
+  "arrive_time": "23:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "20:55",
+      "depart_time": "20:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "21:20",
+      "depart_time": "21:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州北",
+      "arrive_time": "21:52",
+      "depart_time": "21:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州西",
+      "arrive_time": "23:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌西",
+      "arrive_time": "23:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 704.0,
+    "price_second": 447.0,
+    "price_no_seat": 447.0
+  },
+  "fetched_at": "2026-05-01T03:48:18.881760"
+}

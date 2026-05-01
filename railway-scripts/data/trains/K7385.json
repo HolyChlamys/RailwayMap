@@ -1,0 +1,119 @@
+{
+  "train_no": "K7385",
+  "train_type": "K",
+  "depart_station": "大连",
+  "arrive_station": "通化",
+  "depart_time": "17:36",
+  "arrive_time": "05:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连",
+      "arrive_time": "17:36",
+      "depart_time": "17:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金州",
+      "arrive_time": "18:14",
+      "depart_time": "18:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "普兰店",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "瓦房店",
+      "arrive_time": "19:14",
+      "depart_time": "19:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "熊岳城",
+      "arrive_time": "20:08",
+      "depart_time": "20:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "盖州",
+      "arrive_time": "20:32",
+      "depart_time": "20:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "大石桥",
+      "arrive_time": "21:02",
+      "depart_time": "21:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "鞍山",
+      "arrive_time": "21:52",
+      "depart_time": "21:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "辽阳",
+      "arrive_time": "22:12",
+      "depart_time": "22:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "沈阳",
+      "arrive_time": "23:29",
+      "depart_time": "23:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "辽源",
+      "arrive_time": "02:31",
+      "depart_time": "02:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "梅河口",
+      "arrive_time": "03:47",
+      "depart_time": "03:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 13,
+      "station_name": "柳河",
+      "arrive_time": "04:25",
+      "depart_time": "04:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 14,
+      "station_name": "三源浦",
+      "arrive_time": "05:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 15,
+      "station_name": "通化",
+      "arrive_time": "05:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T10:29:45.325429"
+}

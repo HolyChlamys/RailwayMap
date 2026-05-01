@@ -1,0 +1,31 @@
+{
+  "train_no": "C9320",
+  "train_type": "C",
+  "depart_station": "西安北",
+  "arrive_station": "延安",
+  "depart_time": "14:10",
+  "arrive_time": "14:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "14:10",
+      "depart_time": "14:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延安",
+      "arrive_time": "14:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 836.0,
+    "price_first": 382.0,
+    "price_second": 239.0,
+    "price_no_seat": 239.0
+  },
+  "fetched_at": "2026-05-01T02:45:11.645415"
+}

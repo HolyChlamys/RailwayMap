@@ -1,0 +1,40 @@
+{
+  "train_no": "K5655",
+  "train_type": "K",
+  "depart_station": "阜阳",
+  "arrive_station": "芜湖",
+  "depart_time": "11:15",
+  "arrive_time": "15:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜阳",
+      "arrive_time": "11:15",
+      "depart_time": "11:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮南",
+      "arrive_time": "12:41",
+      "depart_time": "12:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥",
+      "arrive_time": "15:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖",
+      "arrive_time": "15:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T10:13:45.339900"
+}

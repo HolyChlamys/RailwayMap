@@ -1,0 +1,47 @@
+{
+  "train_no": "Y387",
+  "train_type": "Y",
+  "depart_station": "海拉尔",
+  "arrive_station": "敦化",
+  "depart_time": "19:19",
+  "arrive_time": "17:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "海拉尔",
+      "arrive_time": "19:19",
+      "depart_time": "19:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "哈尔滨东",
+      "arrive_time": "04:31",
+      "depart_time": "05:00",
+      "stay_min": "29"
+    },
+    {
+      "seq": 3,
+      "station_name": "五常",
+      "arrive_time": "09:09",
+      "depart_time": "09:32",
+      "stay_min": "23"
+    },
+    {
+      "seq": 4,
+      "station_name": "吉林",
+      "arrive_time": "13:01",
+      "depart_time": "13:31",
+      "stay_min": "30"
+    },
+    {
+      "seq": 5,
+      "station_name": "敦化",
+      "arrive_time": "17:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:31:22.093806"
+}

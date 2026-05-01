@@ -1,0 +1,51 @@
+{
+  "train_no": "D4573",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "成都东",
+  "depart_time": "05:01",
+  "arrive_time": "08:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "05:01",
+      "depart_time": "05:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉中",
+      "arrive_time": "06:16",
+      "depart_time": "06:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广元",
+      "arrive_time": "07:08",
+      "depart_time": "07:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绵阳",
+      "arrive_time": "08:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都东",
+      "arrive_time": "08:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 506.0,
+    "price_second": 316.0,
+    "price_no_seat": 316.0
+  },
+  "fetched_at": "2026-05-01T03:53:33.712527"
+}

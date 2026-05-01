@@ -1,0 +1,80 @@
+{
+  "train_no": "G1619",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "南宁东",
+  "depart_time": "16:30",
+  "arrive_time": "22:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "16:30",
+      "depart_time": "16:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "韶山南",
+      "arrive_time": "16:55",
+      "depart_time": "16:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "怀化南",
+      "arrive_time": "18:03",
+      "depart_time": "18:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "芷江",
+      "arrive_time": "18:17",
+      "depart_time": "18:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "凯里南",
+      "arrive_time": "19:12",
+      "depart_time": "19:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳北",
+      "arrive_time": "19:56",
+      "depart_time": "19:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "河池西",
+      "arrive_time": "21:38",
+      "depart_time": "21:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "都安",
+      "arrive_time": "22:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "南宁东",
+      "arrive_time": "22:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2393.0,
+    "price_first": 1095.0,
+    "price_second": 684.0,
+    "price_no_seat": 684.0
+  },
+  "fetched_at": "2026-05-01T05:48:06.866167"
+}

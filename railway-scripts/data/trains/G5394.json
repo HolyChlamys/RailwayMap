@@ -1,0 +1,59 @@
+{
+  "train_no": "G5394",
+  "train_type": "G",
+  "depart_station": "六盘水",
+  "arrive_station": "成都东",
+  "depart_time": "15:36",
+  "arrive_time": "17:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "六盘水",
+      "arrive_time": "15:36",
+      "depart_time": "15:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "六盘水东",
+      "arrive_time": "15:52",
+      "depart_time": "15:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "六枝南",
+      "arrive_time": "16:16",
+      "depart_time": "16:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安顺西",
+      "arrive_time": "16:40",
+      "depart_time": "16:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "贵阳北",
+      "arrive_time": "17:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "成都东",
+      "arrive_time": "17:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1255.0,
+    "price_first": 654.0,
+    "price_second": 409.0,
+    "price_no_seat": 409.0
+  },
+  "fetched_at": "2026-05-01T07:32:52.395969"
+}

@@ -1,0 +1,50 @@
+{
+  "train_no": "S8108",
+  "train_type": "S",
+  "depart_station": "海口东",
+  "arrive_station": "老城镇",
+  "depart_time": "07:00",
+  "arrive_time": "07:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "海口东",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "城西",
+      "arrive_time": "07:03",
+      "depart_time": "07:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "秀英",
+      "arrive_time": "07:10",
+      "depart_time": "07:11",
+      "stay_min": "1"
+    },
+    {
+      "seq": 4,
+      "station_name": "长流",
+      "arrive_time": "07:17",
+      "depart_time": "07:18",
+      "stay_min": "1"
+    },
+    {
+      "seq": 5,
+      "station_name": "老城镇",
+      "arrive_time": "07:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 13.0,
+    "price_no_seat": 13.0
+  },
+  "fetched_at": "2026-05-01T11:18:55.065973"
+}

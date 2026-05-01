@@ -1,0 +1,79 @@
+{
+  "train_no": "D7119",
+  "train_type": "D",
+  "depart_station": "郁南",
+  "arrive_station": "深圳",
+  "depart_time": "18:15",
+  "arrive_time": "20:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郁南",
+      "arrive_time": "18:15",
+      "depart_time": "18:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南江口",
+      "arrive_time": "18:34",
+      "depart_time": "18:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "云浮东",
+      "arrive_time": "18:50",
+      "depart_time": "18:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州",
+      "arrive_time": "19:50",
+      "depart_time": "19:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州东",
+      "arrive_time": "20:05",
+      "depart_time": "20:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州新塘",
+      "arrive_time": "20:21",
+      "depart_time": "20:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "东莞",
+      "arrive_time": "20:37",
+      "depart_time": "20:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "常平",
+      "arrive_time": "20:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳",
+      "arrive_time": "20:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 262.5,
+    "price_second": 181.5,
+    "price_no_seat": 181.5
+  },
+  "fetched_at": "2026-05-01T04:33:38.047995"
+}

@@ -1,0 +1,71 @@
+{
+  "train_no": "D105",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "上海南",
+  "depart_time": "20:21",
+  "arrive_time": "06:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "20:21",
+      "depart_time": "20:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武昌",
+      "arrive_time": "20:39",
+      "depart_time": "20:49",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "鄂州",
+      "arrive_time": "21:46",
+      "depart_time": "21:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "黄石",
+      "arrive_time": "22:04",
+      "depart_time": "22:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "九江",
+      "arrive_time": "23:33",
+      "depart_time": "23:39",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "杭州南",
+      "arrive_time": "04:12",
+      "depart_time": "04:18",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "嘉兴",
+      "arrive_time": "05:16",
+      "depart_time": "05:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "上海南",
+      "arrive_time": "06:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 325.0,
+    "price_no_seat": 325.0
+  },
+  "fetched_at": "2026-05-01T02:56:35.175948"
+}

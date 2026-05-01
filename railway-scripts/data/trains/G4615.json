@@ -1,0 +1,66 @@
+{
+  "train_no": "G4615",
+  "train_type": "G",
+  "depart_station": "上饶",
+  "arrive_station": "深圳北",
+  "depart_time": "20:08",
+  "arrive_time": "23:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上饶",
+      "arrive_time": "20:08",
+      "depart_time": "20:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鹰潭北",
+      "arrive_time": "20:36",
+      "depart_time": "20:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌东",
+      "arrive_time": "21:35",
+      "depart_time": "21:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "樟树东",
+      "arrive_time": "22:04",
+      "depart_time": "22:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "吉安西",
+      "arrive_time": "22:34",
+      "depart_time": "22:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "赣州西",
+      "arrive_time": "23:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "深圳北",
+      "arrive_time": "23:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2061.0,
+    "price_first": 993.0,
+    "price_second": 620.0,
+    "price_no_seat": 620.0
+  },
+  "fetched_at": "2026-05-01T07:10:30.188122"
+}

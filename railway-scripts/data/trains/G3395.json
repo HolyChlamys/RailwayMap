@@ -1,0 +1,45 @@
+{
+  "train_no": "G3395",
+  "train_type": "G",
+  "depart_station": "兴义南",
+  "arrive_station": "昆明南",
+  "depart_time": "12:19",
+  "arrive_time": "14:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兴义南",
+      "arrive_time": "12:19",
+      "depart_time": "12:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "盘州",
+      "arrive_time": "12:52",
+      "depart_time": "13:12",
+      "stay_min": "20"
+    },
+    {
+      "seq": 3,
+      "station_name": "曲靖北",
+      "arrive_time": "13:50",
+      "depart_time": "13:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明南",
+      "arrive_time": "14:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 651.0,
+    "price_first": 298.0,
+    "price_second": 186.0,
+    "price_no_seat": 186.0
+  },
+  "fetched_at": "2026-05-01T06:36:55.700677"
+}

@@ -1,0 +1,65 @@
+{
+  "train_no": "D8732",
+  "train_type": "D",
+  "depart_station": "大理",
+  "arrive_station": "昆明南",
+  "depart_time": "20:24",
+  "arrive_time": "23:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "20:24",
+      "depart_time": "20:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "祥云",
+      "arrive_time": "20:45",
+      "depart_time": "20:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南华",
+      "arrive_time": "21:16",
+      "depart_time": "21:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "楚雄",
+      "arrive_time": "21:34",
+      "depart_time": "21:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "广通北",
+      "arrive_time": "21:51",
+      "depart_time": "21:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明",
+      "arrive_time": "22:44",
+      "depart_time": "22:48",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "昆明南",
+      "arrive_time": "23:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 231.0,
+    "price_second": 145.0,
+    "price_no_seat": 145.0
+  },
+  "fetched_at": "2026-05-01T05:03:57.137861"
+}

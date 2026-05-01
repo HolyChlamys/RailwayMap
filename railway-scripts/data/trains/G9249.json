@@ -1,0 +1,129 @@
+{
+  "train_no": "G9249",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "徐州东",
+  "depart_time": "12:51",
+  "arrive_time": "17:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "12:51",
+      "depart_time": "12:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "02:24",
+      "depart_time": "02:30",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆山南",
+      "arrive_time": "13:12",
+      "depart_time": "13:18",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "苏州园区",
+      "arrive_time": "13:28",
+      "depart_time": "13:38",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "苏州",
+      "arrive_time": "13:45",
+      "depart_time": "13:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "无锡新区",
+      "arrive_time": "13:59",
+      "depart_time": "14:05",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "无锡",
+      "arrive_time": "14:13",
+      "depart_time": "14:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "常州",
+      "arrive_time": "14:29",
+      "depart_time": "14:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "丹徒",
+      "arrive_time": "14:51",
+      "depart_time": "14:59",
+      "stay_min": "8"
+    },
+    {
+      "seq": 10,
+      "station_name": "大港南",
+      "arrive_time": "15:11",
+      "depart_time": "15:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "扬州东",
+      "arrive_time": "15:30",
+      "depart_time": "15:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "高邮北",
+      "arrive_time": "15:54",
+      "depart_time": "15:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "淮安东",
+      "arrive_time": "16:18",
+      "depart_time": "16:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "宿迁",
+      "arrive_time": "16:48",
+      "depart_time": "16:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "睢宁",
+      "arrive_time": "17:02",
+      "depart_time": "17:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 16,
+      "station_name": "徐州东",
+      "arrive_time": "17:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1038.0,
+    "price_first": 496.0,
+    "price_second": 311.0,
+    "price_no_seat": 311.0
+  },
+  "fetched_at": "2026-05-01T09:09:13.189411"
+}

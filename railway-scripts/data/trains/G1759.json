@@ -1,0 +1,115 @@
+{
+  "train_no": "G1759",
+  "train_type": "G",
+  "depart_station": "南昌西",
+  "arrive_station": "重庆西",
+  "depart_time": "07:02",
+  "arrive_time": "14:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "07:02",
+      "depart_time": "07:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "高安",
+      "arrive_time": "07:17",
+      "depart_time": "07:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "新余北",
+      "arrive_time": "07:41",
+      "depart_time": "07:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宜春",
+      "arrive_time": "07:58",
+      "depart_time": "08:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "萍乡北",
+      "arrive_time": "08:18",
+      "depart_time": "08:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "醴陵东",
+      "arrive_time": "08:32",
+      "depart_time": "08:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙南",
+      "arrive_time": "08:57",
+      "depart_time": "09:03",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "娄底南",
+      "arrive_time": "09:38",
+      "depart_time": "09:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "新化南",
+      "arrive_time": "10:04",
+      "depart_time": "10:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "怀化南",
+      "arrive_time": "10:39",
+      "depart_time": "10:49",
+      "stay_min": "10"
+    },
+    {
+      "seq": 11,
+      "station_name": "新晃西",
+      "arrive_time": "11:13",
+      "depart_time": "11:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "贵阳东",
+      "arrive_time": "12:22",
+      "depart_time": "12:29",
+      "stay_min": "7"
+    },
+    {
+      "seq": 13,
+      "station_name": "遵义",
+      "arrive_time": "13:16",
+      "depart_time": "13:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "重庆西",
+      "arrive_time": "14:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2300.0,
+    "price_first": 1083.0,
+    "price_second": 677.0,
+    "price_no_seat": 677.0
+  },
+  "fetched_at": "2026-05-01T05:51:59.042517"
+}

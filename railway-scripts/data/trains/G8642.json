@@ -1,0 +1,66 @@
+{
+  "train_no": "G8642",
+  "train_type": "G",
+  "depart_station": "重庆北",
+  "arrive_station": "成都东",
+  "depart_time": "07:12",
+  "arrive_time": "08:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "07:12",
+      "depart_time": "07:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荣昌北",
+      "arrive_time": "07:51",
+      "depart_time": "07:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "隆昌北",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "内江北",
+      "arrive_time": "08:17",
+      "depart_time": "08:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "资中北",
+      "arrive_time": "08:34",
+      "depart_time": "08:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "资阳北",
+      "arrive_time": "08:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "成都东",
+      "arrive_time": "08:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 614.0,
+    "price_first": 281.0,
+    "price_second": 175.0,
+    "price_no_seat": 175.0
+  },
+  "fetched_at": "2026-05-01T08:56:45.465452"
+}

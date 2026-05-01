@@ -1,0 +1,31 @@
+{
+  "train_no": "D7005",
+  "train_type": "D",
+  "depart_station": "武汉",
+  "arrive_station": "鄂州",
+  "depart_time": "07:14",
+  "arrive_time": "07:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "07:14",
+      "depart_time": "07:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄂州",
+      "arrive_time": "07:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 81.0,
+    "price_first": 43.0,
+    "price_second": 27.0,
+    "price_no_seat": 27.0
+  },
+  "fetched_at": "2026-05-01T04:32:26.834610"
+}

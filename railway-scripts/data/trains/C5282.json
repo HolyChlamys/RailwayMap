@@ -1,0 +1,45 @@
+{
+  "train_no": "C5282",
+  "train_type": "C",
+  "depart_station": "龙岩",
+  "arrive_station": "福州南",
+  "depart_time": "23:28",
+  "arrive_time": "01:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "龙岩",
+      "arrive_time": "23:28",
+      "depart_time": "23:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延平",
+      "arrive_time": "00:54",
+      "depart_time": "00:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "福州",
+      "arrive_time": "01:31",
+      "depart_time": "01:35",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "福州南",
+      "arrive_time": "01:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 489.0,
+    "price_first": 224.0,
+    "price_second": 140.0,
+    "price_no_seat": 140.0
+  },
+  "fetched_at": "2026-05-01T01:31:55.549439"
+}

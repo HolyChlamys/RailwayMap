@@ -1,0 +1,42 @@
+{
+  "train_no": "T5302",
+  "train_type": "T",
+  "depart_station": "榆树",
+  "arrive_station": "长春",
+  "depart_time": "11:16",
+  "arrive_time": "12:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "榆树",
+      "arrive_time": "11:16",
+      "depart_time": "11:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "五棵树",
+      "arrive_time": "11:53",
+      "depart_time": "11:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "德惠",
+      "arrive_time": "12:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长春",
+      "arrive_time": "12:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T11:26:21.554937"
+}

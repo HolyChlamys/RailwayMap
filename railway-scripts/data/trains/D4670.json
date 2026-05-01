@@ -1,0 +1,72 @@
+{
+  "train_no": "D4670",
+  "train_type": "D",
+  "depart_station": "珠海",
+  "arrive_station": "上海虹桥",
+  "depart_time": "03:40",
+  "arrive_time": "01:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "珠海",
+      "arrive_time": "03:40",
+      "depart_time": "03:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "04:31",
+      "depart_time": "04:39",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "佛山西",
+      "arrive_time": "04:57",
+      "depart_time": "04:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "梧州南",
+      "arrive_time": "06:05",
+      "depart_time": "06:09",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵港",
+      "arrive_time": "06:58",
+      "depart_time": "07:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南宁东",
+      "arrive_time": "07:43",
+      "depart_time": "07:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南京南",
+      "arrive_time": "23:28",
+      "depart_time": "23:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "上海虹桥",
+      "arrive_time": "01:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 490.0,
+    "price_second": 320.0,
+    "price_no_seat": 320.0
+  },
+  "fetched_at": "2026-05-01T03:54:55.999881"
+}

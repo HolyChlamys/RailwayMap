@@ -1,0 +1,86 @@
+{
+  "train_no": "D8697",
+  "train_type": "D",
+  "depart_station": "红河",
+  "arrive_station": "大理",
+  "depart_time": "08:05",
+  "arrive_time": "12:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "红河",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "开远南",
+      "arrive_time": "08:19",
+      "depart_time": "08:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "朋普",
+      "arrive_time": "08:35",
+      "depart_time": "08:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "弥勒",
+      "arrive_time": "08:58",
+      "depart_time": "09:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "阳宗",
+      "arrive_time": "09:34",
+      "depart_time": "09:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "昆明南",
+      "arrive_time": "09:46",
+      "depart_time": "09:57",
+      "stay_min": "11"
+    },
+    {
+      "seq": 7,
+      "station_name": "昆明",
+      "arrive_time": "10:16",
+      "depart_time": "10:21",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "禄丰南",
+      "arrive_time": "11:01",
+      "depart_time": "11:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "楚雄",
+      "arrive_time": "11:29",
+      "depart_time": "11:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "大理",
+      "arrive_time": "12:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 387.0,
+    "price_second": 242.5,
+    "price_no_seat": 242.5
+  },
+  "fetched_at": "2026-05-01T05:03:04.222324"
+}

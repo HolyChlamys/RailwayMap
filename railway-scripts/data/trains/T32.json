@@ -1,0 +1,140 @@
+{
+  "train_no": "T32",
+  "train_type": "T",
+  "depart_station": "深圳",
+  "arrive_station": "昆山",
+  "depart_time": "12:20",
+  "arrive_time": "13:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳",
+      "arrive_time": "12:20",
+      "depart_time": "12:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "东莞东",
+      "arrive_time": "13:00",
+      "depart_time": "13:06",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州",
+      "arrive_time": "13:46",
+      "depart_time": "13:51",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "河源",
+      "arrive_time": "14:39",
+      "depart_time": "14:44",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "龙川",
+      "arrive_time": "15:38",
+      "depart_time": "15:42",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "赣州",
+      "arrive_time": "18:35",
+      "depart_time": "18:45",
+      "stay_min": "10"
+    },
+    {
+      "seq": 7,
+      "station_name": "兴国",
+      "arrive_time": "19:30",
+      "depart_time": "19:34",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "泰和",
+      "arrive_time": "20:23",
+      "depart_time": "20:27",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "吉安",
+      "arrive_time": "20:48",
+      "depart_time": "20:53",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "南昌",
+      "arrive_time": "23:39",
+      "depart_time": "23:52",
+      "stay_min": "13"
+    },
+    {
+      "seq": 11,
+      "station_name": "九江",
+      "arrive_time": "01:07",
+      "depart_time": "01:17",
+      "stay_min": "10"
+    },
+    {
+      "seq": 12,
+      "station_name": "芜湖",
+      "arrive_time": "06:44",
+      "depart_time": "06:49",
+      "stay_min": "5"
+    },
+    {
+      "seq": 13,
+      "station_name": "马鞍山",
+      "arrive_time": "07:29",
+      "depart_time": "07:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "南京",
+      "arrive_time": "09:25",
+      "depart_time": "10:24",
+      "stay_min": "59"
+    },
+    {
+      "seq": 15,
+      "station_name": "常州",
+      "arrive_time": "11:38",
+      "depart_time": "11:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 16,
+      "station_name": "无锡",
+      "arrive_time": "12:04",
+      "depart_time": "12:08",
+      "stay_min": "4"
+    },
+    {
+      "seq": 17,
+      "station_name": "苏州",
+      "arrive_time": "12:33",
+      "depart_time": "12:45",
+      "stay_min": "12"
+    },
+    {
+      "seq": 18,
+      "station_name": "昆山",
+      "arrive_time": "13:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 239.0
+  },
+  "fetched_at": "2026-05-01T11:24:28.110309"
+}

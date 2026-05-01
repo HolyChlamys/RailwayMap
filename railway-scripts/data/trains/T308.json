@@ -1,0 +1,154 @@
+{
+  "train_no": "T308",
+  "train_type": "T",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "南昌",
+  "depart_time": "21:12",
+  "arrive_time": "15:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "21:12",
+      "depart_time": "21:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吐鲁番北",
+      "arrive_time": "23:00",
+      "depart_time": "23:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "鄯善北",
+      "arrive_time": "23:49",
+      "depart_time": "23:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "哈密",
+      "arrive_time": "02:27",
+      "depart_time": "02:38",
+      "stay_min": "11"
+    },
+    {
+      "seq": 5,
+      "station_name": "嘉峪关南",
+      "arrive_time": "07:17",
+      "depart_time": "07:25",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "张掖西",
+      "arrive_time": "09:10",
+      "depart_time": "09:17",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "西宁",
+      "arrive_time": "11:41",
+      "depart_time": "11:47",
+      "stay_min": "6"
+    },
+    {
+      "seq": 8,
+      "station_name": "兰州",
+      "arrive_time": "14:35",
+      "depart_time": "14:57",
+      "stay_min": "22"
+    },
+    {
+      "seq": 9,
+      "station_name": "定西",
+      "arrive_time": "16:17",
+      "depart_time": "16:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "陇西",
+      "arrive_time": "17:12",
+      "depart_time": "17:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "甘谷",
+      "arrive_time": "18:05",
+      "depart_time": "18:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "天水",
+      "arrive_time": "19:30",
+      "depart_time": "19:36",
+      "stay_min": "6"
+    },
+    {
+      "seq": 13,
+      "station_name": "宝鸡",
+      "arrive_time": "22:05",
+      "depart_time": "22:28",
+      "stay_min": "23"
+    },
+    {
+      "seq": 14,
+      "station_name": "西安",
+      "arrive_time": "00:17",
+      "depart_time": "00:28",
+      "stay_min": "11"
+    },
+    {
+      "seq": 15,
+      "station_name": "南阳",
+      "arrive_time": "05:19",
+      "depart_time": "05:50",
+      "stay_min": "31"
+    },
+    {
+      "seq": 16,
+      "station_name": "信阳",
+      "arrive_time": "08:31",
+      "depart_time": "08:37",
+      "stay_min": "6"
+    },
+    {
+      "seq": 17,
+      "station_name": "花园",
+      "arrive_time": "09:56",
+      "depart_time": "10:00",
+      "stay_min": "4"
+    },
+    {
+      "seq": 18,
+      "station_name": "武昌",
+      "arrive_time": "11:12",
+      "depart_time": "11:37",
+      "stay_min": "25"
+    },
+    {
+      "seq": 19,
+      "station_name": "鄂州",
+      "arrive_time": "12:33",
+      "depart_time": "12:36",
+      "stay_min": "3"
+    },
+    {
+      "seq": 20,
+      "station_name": "南昌",
+      "arrive_time": "15:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 360.0
+  },
+  "fetched_at": "2026-05-01T11:24:24.790980"
+}

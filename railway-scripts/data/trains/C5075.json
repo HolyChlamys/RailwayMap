@@ -1,0 +1,38 @@
+{
+  "train_no": "C5075",
+  "train_type": "C",
+  "depart_station": "汉口",
+  "arrive_station": "荆州",
+  "depart_time": "05:47",
+  "arrive_time": "06:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "05:47",
+      "depart_time": "05:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潜江",
+      "arrive_time": "06:40",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "荆州",
+      "arrive_time": "06:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 317.0,
+    "price_first": 145.0,
+    "price_second": 91.0,
+    "price_no_seat": 91.0
+  },
+  "fetched_at": "2026-05-01T01:25:56.628369"
+}

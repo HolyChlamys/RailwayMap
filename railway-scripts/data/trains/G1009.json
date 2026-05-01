@@ -1,0 +1,94 @@
+{
+  "train_no": "G1009",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "深圳北",
+  "depart_time": "17:28",
+  "arrive_time": "22:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "17:28",
+      "depart_time": "17:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸宁北",
+      "arrive_time": "17:54",
+      "depart_time": "17:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "岳阳东",
+      "arrive_time": "18:26",
+      "depart_time": "18:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "19:04",
+      "depart_time": "19:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡阳东",
+      "arrive_time": "19:40",
+      "depart_time": "19:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "耒阳西",
+      "arrive_time": "19:58",
+      "depart_time": "19:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "郴州西",
+      "arrive_time": "20:20",
+      "depart_time": "20:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "韶关",
+      "arrive_time": "20:59",
+      "depart_time": "20:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "广州南",
+      "arrive_time": "21:57",
+      "depart_time": "21:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "虎门",
+      "arrive_time": "22:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "深圳北",
+      "arrive_time": "22:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2134.5,
+    "price_first": 984.5,
+    "price_second": 627.5,
+    "price_no_seat": 627.5
+  },
+  "fetched_at": "2026-05-01T05:30:25.769284"
+}

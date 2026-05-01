@@ -1,0 +1,100 @@
+{
+  "train_no": "C561",
+  "train_type": "C",
+  "depart_station": "河口北",
+  "arrive_station": "曲靖",
+  "depart_time": "08:30",
+  "arrive_time": "14:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "河口北",
+      "arrive_time": "08:30",
+      "depart_time": "08:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "屏边",
+      "arrive_time": "09:11",
+      "depart_time": "09:15",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "蒙自",
+      "arrive_time": "09:44",
+      "depart_time": "09:49",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "红河",
+      "arrive_time": "10:08",
+      "depart_time": "10:13",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "个旧",
+      "arrive_time": "10:28",
+      "depart_time": "10:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "建水",
+      "arrive_time": "11:08",
+      "depart_time": "11:11",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "通海",
+      "arrive_time": "11:46",
+      "depart_time": "11:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "玉溪",
+      "arrive_time": "12:19",
+      "depart_time": "12:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "昆阳",
+      "arrive_time": "12:46",
+      "depart_time": "12:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "昆明",
+      "arrive_time": "13:34",
+      "depart_time": "13:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "昆明",
+      "arrive_time": "13:34",
+      "depart_time": "13:40",
+      "stay_min": "6"
+    },
+    {
+      "seq": 12,
+      "station_name": "曲靖",
+      "arrive_time": "14:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 260.0,
+    "price_second": 162.0,
+    "price_no_seat": 162.0
+  },
+  "fetched_at": "2026-05-01T01:35:33.707824"
+}

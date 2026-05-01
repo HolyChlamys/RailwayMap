@@ -1,0 +1,30 @@
+{
+  "train_no": "D5135",
+  "train_type": "D",
+  "depart_station": "重庆北",
+  "arrive_station": "潼南",
+  "depart_time": "20:33",
+  "arrive_time": "20:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "20:33",
+      "depart_time": "20:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潼南",
+      "arrive_time": "20:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 63.0,
+    "price_second": 39.0,
+    "price_no_seat": 39.0
+  },
+  "fetched_at": "2026-05-01T04:01:08.690525"
+}

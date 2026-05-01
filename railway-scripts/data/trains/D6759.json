@@ -1,0 +1,58 @@
+{
+  "train_no": "D6759",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "包头",
+  "depart_time": "14:01",
+  "arrive_time": "15:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "14:01",
+      "depart_time": "14:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "呼和浩特",
+      "arrive_time": "14:13",
+      "depart_time": "14:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "察素齐",
+      "arrive_time": "14:36",
+      "depart_time": "14:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "萨拉齐",
+      "arrive_time": "14:59",
+      "depart_time": "14:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "包头东",
+      "arrive_time": "15:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "包头",
+      "arrive_time": "15:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 85.0,
+    "price_second": 53.5,
+    "price_no_seat": 53.5
+  },
+  "fetched_at": "2026-05-01T04:28:05.192558"
+}

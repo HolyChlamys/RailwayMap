@@ -1,0 +1,38 @@
+{
+  "train_no": "G8151",
+  "train_type": "G",
+  "depart_station": "沈阳北",
+  "arrive_station": "通化",
+  "depart_time": "06:17",
+  "arrive_time": "06:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "06:17",
+      "depart_time": "06:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚顺",
+      "arrive_time": "06:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "通化",
+      "arrive_time": "06:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 624.0,
+    "price_first": 285.0,
+    "price_second": 178.0,
+    "price_no_seat": 178.0
+  },
+  "fetched_at": "2026-05-01T08:45:28.011959"
+}

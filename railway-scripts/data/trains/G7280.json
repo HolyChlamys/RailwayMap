@@ -1,0 +1,73 @@
+{
+  "train_no": "G7280",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "扬州东",
+  "depart_time": "12:15",
+  "arrive_time": "13:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "12:15",
+      "depart_time": "12:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "上海西",
+      "arrive_time": "12:29",
+      "depart_time": "12:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "昆山南",
+      "arrive_time": "12:48",
+      "depart_time": "12:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "苏州",
+      "arrive_time": "13:02",
+      "depart_time": "13:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "无锡",
+      "arrive_time": "13:19",
+      "depart_time": "13:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "常州",
+      "arrive_time": "13:35",
+      "depart_time": "13:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "丹阳",
+      "arrive_time": "13:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "扬州东",
+      "arrive_time": "13:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 548.0,
+    "price_first": 251.0,
+    "price_second": 157.0,
+    "price_no_seat": 157.0
+  },
+  "fetched_at": "2026-05-01T08:22:53.371977"
+}

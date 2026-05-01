@@ -1,0 +1,63 @@
+{
+  "train_no": "K4326",
+  "train_type": "K",
+  "depart_station": "宜昌东",
+  "arrive_station": "西安",
+  "depart_time": "20:25",
+  "arrive_time": "09:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "20:25",
+      "depart_time": "20:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "当阳",
+      "arrive_time": "21:13",
+      "depart_time": "21:18",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "荆门",
+      "arrive_time": "22:15",
+      "depart_time": "22:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "襄阳",
+      "arrive_time": "00:21",
+      "depart_time": "00:31",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "安康",
+      "arrive_time": "05:44",
+      "depart_time": "06:16",
+      "stay_min": "32"
+    },
+    {
+      "seq": 6,
+      "station_name": "引镇",
+      "arrive_time": "08:42",
+      "depart_time": "08:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "西安",
+      "arrive_time": "09:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 102.0
+  },
+  "fetched_at": "2026-05-01T09:52:03.141647"
+}

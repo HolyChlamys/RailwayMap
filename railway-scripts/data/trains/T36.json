@@ -1,0 +1,63 @@
+{
+  "train_no": "T36",
+  "train_type": "T",
+  "depart_station": "合肥",
+  "arrive_station": "北京",
+  "depart_time": "18:12",
+  "arrive_time": "04:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥",
+      "arrive_time": "18:12",
+      "depart_time": "18:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蚌埠",
+      "arrive_time": "20:30",
+      "depart_time": "20:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宿州",
+      "arrive_time": "21:21",
+      "depart_time": "21:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "徐州",
+      "arrive_time": "22:12",
+      "depart_time": "22:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "沧州",
+      "arrive_time": "03:16",
+      "depart_time": "03:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "天津西",
+      "arrive_time": "04:43",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "北京",
+      "arrive_time": "04:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 141.5
+  },
+  "fetched_at": "2026-05-01T11:24:44.736364"
+}

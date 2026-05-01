@@ -1,0 +1,63 @@
+{
+  "train_no": "K5876",
+  "train_type": "K",
+  "depart_station": "南昌",
+  "arrive_station": "玉山",
+  "depart_time": "08:29",
+  "arrive_time": "11:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "08:29",
+      "depart_time": "08:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "向塘",
+      "arrive_time": "08:55",
+      "depart_time": "08:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "进贤",
+      "arrive_time": "09:26",
+      "depart_time": "09:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鹰潭",
+      "arrive_time": "10:23",
+      "depart_time": "10:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "横峰",
+      "arrive_time": "11:08",
+      "depart_time": "11:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "上饶",
+      "arrive_time": "11:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "玉山",
+      "arrive_time": "11:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T10:15:47.897532"
+}

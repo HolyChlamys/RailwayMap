@@ -1,0 +1,59 @@
+{
+  "train_no": "D4062",
+  "train_type": "D",
+  "depart_station": "兰州西",
+  "arrive_station": "西安北",
+  "depart_time": "06:18",
+  "arrive_time": "08:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州西",
+      "arrive_time": "06:18",
+      "depart_time": "06:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "通渭",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天水南",
+      "arrive_time": "07:43",
+      "depart_time": "07:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "宝鸡南",
+      "arrive_time": "08:27",
+      "depart_time": "08:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杨陵南",
+      "arrive_time": "08:54",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西安北",
+      "arrive_time": "08:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 839.0,
+    "price_first": 384.0,
+    "price_second": 240.0,
+    "price_no_seat": 240.0
+  },
+  "fetched_at": "2026-05-01T03:43:25.093737"
+}

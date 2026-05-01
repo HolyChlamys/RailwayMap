@@ -1,0 +1,101 @@
+{
+  "train_no": "D3902",
+  "train_type": "D",
+  "depart_station": "昆明南",
+  "arrive_station": "桂林",
+  "depart_time": "08:05",
+  "arrive_time": "14:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "弥勒",
+      "arrive_time": "08:42",
+      "depart_time": "08:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "普者黑",
+      "arrive_time": "09:18",
+      "depart_time": "09:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "珠琳",
+      "arrive_time": "09:37",
+      "depart_time": "09:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "富宁",
+      "arrive_time": "10:20",
+      "depart_time": "10:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "百色",
+      "arrive_time": "11:04",
+      "depart_time": "11:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "平果",
+      "arrive_time": "11:48",
+      "depart_time": "11:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南宁",
+      "arrive_time": "12:41",
+      "depart_time": "12:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "南宁东",
+      "arrive_time": "12:55",
+      "depart_time": "12:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "来宾北",
+      "arrive_time": "13:38",
+      "depart_time": "13:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "柳州",
+      "arrive_time": "14:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "桂林",
+      "arrive_time": "14:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1230.0,
+    "price_first": 643.0,
+    "price_second": 402.5,
+    "price_no_seat": 402.5
+  },
+  "fetched_at": "2026-05-01T03:41:12.662010"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G4126",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "武汉",
+  "depart_time": "02:51",
+  "arrive_time": "07:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "02:51",
+      "depart_time": "02:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "怀化南",
+      "arrive_time": "04:27",
+      "depart_time": "04:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "娄底南",
+      "arrive_time": "05:20",
+      "depart_time": "05:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "05:59",
+      "depart_time": "05:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "咸宁北",
+      "arrive_time": "07:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "武汉",
+      "arrive_time": "07:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2016.0,
+    "price_first": 922.0,
+    "price_second": 576.0,
+    "price_no_seat": 576.0
+  },
+  "fetched_at": "2026-05-01T06:56:29.526818"
+}

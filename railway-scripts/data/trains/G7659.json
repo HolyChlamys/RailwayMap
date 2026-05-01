@@ -1,0 +1,101 @@
+{
+  "train_no": "G7659",
+  "train_type": "G",
+  "depart_station": "杭州东",
+  "arrive_station": "温州南",
+  "depart_time": "06:25",
+  "arrive_time": "09:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "06:25",
+      "depart_time": "06:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绍兴北",
+      "arrive_time": "06:46",
+      "depart_time": "06:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "绍兴东",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "余姚北",
+      "arrive_time": "07:16",
+      "depart_time": "07:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "庄桥",
+      "arrive_time": "07:32",
+      "depart_time": "07:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宁波",
+      "arrive_time": "07:46",
+      "depart_time": "07:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宁海",
+      "arrive_time": "08:16",
+      "depart_time": "08:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "临海",
+      "arrive_time": "08:41",
+      "depart_time": "08:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "台州西",
+      "arrive_time": "08:55",
+      "depart_time": "08:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "乐清",
+      "arrive_time": "09:28",
+      "depart_time": "09:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "温州北",
+      "arrive_time": "09:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "温州南",
+      "arrive_time": "09:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 697.0,
+    "price_first": 318.0,
+    "price_second": 199.0,
+    "price_no_seat": 199.0
+  },
+  "fetched_at": "2026-05-01T08:33:13.711375"
+}

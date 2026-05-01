@@ -1,0 +1,51 @@
+{
+  "train_no": "D5174",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "潼南",
+  "depart_time": "08:32",
+  "arrive_time": "11:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "赶水东",
+      "arrive_time": "10:00",
+      "depart_time": "10:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆西",
+      "arrive_time": "10:38",
+      "depart_time": "10:45",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "合川",
+      "arrive_time": "11:12",
+      "depart_time": "11:24",
+      "stay_min": "12"
+    },
+    {
+      "seq": 5,
+      "station_name": "潼南",
+      "arrive_time": "11:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 289.0,
+    "price_second": 181.0,
+    "price_no_seat": 181.0
+  },
+  "fetched_at": "2026-05-01T04:01:53.319045"
+}

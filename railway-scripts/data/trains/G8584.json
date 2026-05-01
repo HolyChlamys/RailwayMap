@@ -1,0 +1,30 @@
+{
+  "train_no": "G8584",
+  "train_type": "G",
+  "depart_station": "重庆北",
+  "arrive_station": "永川东",
+  "depart_time": "06:51",
+  "arrive_time": "06:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "06:51",
+      "depart_time": "06:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永川东",
+      "arrive_time": "06:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 65.0,
+    "price_second": 41.0,
+    "price_no_seat": 41.0
+  },
+  "fetched_at": "2026-05-01T08:55:07.956499"
+}

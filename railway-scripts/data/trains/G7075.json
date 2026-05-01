@@ -1,0 +1,115 @@
+{
+  "train_no": "G7075",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "上海",
+  "depart_time": "08:10",
+  "arrive_time": "13:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "08:10",
+      "depart_time": "08:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肥西",
+      "arrive_time": "08:22",
+      "depart_time": "08:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "舒城东",
+      "arrive_time": "08:36",
+      "depart_time": "08:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "桐城东",
+      "arrive_time": "08:56",
+      "depart_time": "08:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "安庆",
+      "arrive_time": "09:24",
+      "depart_time": "09:28",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "铜陵",
+      "arrive_time": "09:59",
+      "depart_time": "10:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "马鞍山东",
+      "arrive_time": "10:42",
+      "depart_time": "10:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "南京南",
+      "arrive_time": "11:01",
+      "depart_time": "11:07",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "常州",
+      "arrive_time": "11:55",
+      "depart_time": "11:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "无锡",
+      "arrive_time": "12:12",
+      "depart_time": "12:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "苏州",
+      "arrive_time": "12:29",
+      "depart_time": "12:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "昆山南",
+      "arrive_time": "12:44",
+      "depart_time": "12:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "上海西",
+      "arrive_time": "13:05",
+      "depart_time": "13:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "上海",
+      "arrive_time": "13:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1356.0,
+    "price_first": 620.0,
+    "price_second": 388.0,
+    "price_no_seat": 388.0
+  },
+  "fetched_at": "2026-05-01T08:16:51.165377"
+}

@@ -1,0 +1,143 @@
+{
+  "train_no": "G1908",
+  "train_type": "G",
+  "depart_station": "济南西",
+  "arrive_station": "银川",
+  "depart_time": "06:35",
+  "arrive_time": "16:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "06:35",
+      "depart_time": "06:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰安",
+      "arrive_time": "06:53",
+      "depart_time": "06:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "滕州东",
+      "arrive_time": "07:26",
+      "depart_time": "07:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "枣庄",
+      "arrive_time": "07:40",
+      "depart_time": "07:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "徐州东",
+      "arrive_time": "08:01",
+      "depart_time": "08:23",
+      "stay_min": "22"
+    },
+    {
+      "seq": 6,
+      "station_name": "萧县北",
+      "arrive_time": "08:41",
+      "depart_time": "08:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "永城北",
+      "arrive_time": "08:56",
+      "depart_time": "08:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "商丘",
+      "arrive_time": "09:22",
+      "depart_time": "09:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "民权北",
+      "arrive_time": "09:40",
+      "depart_time": "09:42",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "兰考南",
+      "arrive_time": "09:54",
+      "depart_time": "09:57",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "郑州东",
+      "arrive_time": "10:29",
+      "depart_time": "10:38",
+      "stay_min": "9"
+    },
+    {
+      "seq": 12,
+      "station_name": "巩义南",
+      "arrive_time": "11:05",
+      "depart_time": "11:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "洛阳龙门",
+      "arrive_time": "11:21",
+      "depart_time": "11:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "华山北",
+      "arrive_time": "12:15",
+      "depart_time": "12:20",
+      "stay_min": "5"
+    },
+    {
+      "seq": 15,
+      "station_name": "渭南北",
+      "arrive_time": "12:37",
+      "depart_time": "12:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 16,
+      "station_name": "西安北",
+      "arrive_time": "13:00",
+      "depart_time": "13:06",
+      "stay_min": "6"
+    },
+    {
+      "seq": 17,
+      "station_name": "庆阳",
+      "arrive_time": "14:12",
+      "depart_time": "14:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "银川",
+      "arrive_time": "16:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3134.0,
+    "price_first": 1440.0,
+    "price_second": 900.0,
+    "price_no_seat": 900.0
+  },
+  "fetched_at": "2026-05-01T05:56:18.634791"
+}

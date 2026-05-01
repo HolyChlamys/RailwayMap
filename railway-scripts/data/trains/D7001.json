@@ -1,0 +1,44 @@
+{
+  "train_no": "D7001",
+  "train_type": "D",
+  "depart_station": "武汉",
+  "arrive_station": "阳新",
+  "depart_time": "06:06",
+  "arrive_time": "06:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "06:06",
+      "depart_time": "06:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄂州",
+      "arrive_time": "06:30",
+      "depart_time": "06:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄石北",
+      "arrive_time": "06:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阳新",
+      "arrive_time": "06:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 101.0,
+    "price_second": 63.0,
+    "price_no_seat": 63.0
+  },
+  "fetched_at": "2026-05-01T04:32:21.848313"
+}

@@ -1,0 +1,52 @@
+{
+  "train_no": "C9276",
+  "train_type": "C",
+  "depart_station": "十堰东",
+  "arrive_station": "襄阳东",
+  "depart_time": "18:16",
+  "arrive_time": "18:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "十堰东",
+      "arrive_time": "18:16",
+      "depart_time": "18:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武当山西",
+      "arrive_time": "18:28",
+      "depart_time": "18:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "丹江口",
+      "arrive_time": "18:43",
+      "depart_time": "18:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "谷城北",
+      "arrive_time": "18:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "襄阳东",
+      "arrive_time": "18:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 295.0,
+    "price_first": 158.0,
+    "price_second": 98.0,
+    "price_no_seat": 98.0
+  },
+  "fetched_at": "2026-05-01T02:44:01.004833"
+}

@@ -1,0 +1,40 @@
+{
+  "train_no": "Y913",
+  "train_type": "Y",
+  "depart_station": "安顺",
+  "arrive_station": "广元",
+  "depart_time": "22:32",
+  "arrive_time": "09:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安顺",
+      "arrive_time": "22:32",
+      "depart_time": "22:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆西",
+      "arrive_time": "04:10",
+      "depart_time": "04:30",
+      "stay_min": "20"
+    },
+    {
+      "seq": 3,
+      "station_name": "南充北",
+      "arrive_time": "06:23",
+      "depart_time": "06:30",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "广元",
+      "arrive_time": "09:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:41:26.262022"
+}

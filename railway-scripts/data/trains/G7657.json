@@ -1,0 +1,52 @@
+{
+  "train_no": "G7657",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "宁波",
+  "depart_time": "19:48",
+  "arrive_time": "21:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "19:48",
+      "depart_time": "19:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉善南",
+      "arrive_time": "20:13",
+      "depart_time": "20:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "20:43",
+      "depart_time": "20:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绍兴北",
+      "arrive_time": "21:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宁波",
+      "arrive_time": "21:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 604.0,
+    "price_first": 276.0,
+    "price_second": 172.0,
+    "price_no_seat": 172.0
+  },
+  "fetched_at": "2026-05-01T08:33:10.412768"
+}

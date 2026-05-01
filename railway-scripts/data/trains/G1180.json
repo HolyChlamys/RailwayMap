@@ -1,0 +1,87 @@
+{
+  "train_no": "G1180",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "天津西",
+  "depart_time": "14:24",
+  "arrive_time": "19:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "14:24",
+      "depart_time": "14:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感北",
+      "arrive_time": "15:04",
+      "depart_time": "15:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "信阳东",
+      "arrive_time": "15:24",
+      "depart_time": "15:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "16:34",
+      "depart_time": "16:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "鹤壁东",
+      "arrive_time": "17:07",
+      "depart_time": "17:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "石家庄",
+      "arrive_time": "18:12",
+      "depart_time": "18:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "定州东",
+      "arrive_time": "18:53",
+      "depart_time": "18:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "保定东",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "白沟",
+      "arrive_time": "19:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "天津西",
+      "arrive_time": "19:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2144.0,
+    "price_first": 990.5,
+    "price_second": 619.5,
+    "price_no_seat": 619.5
+  },
+  "fetched_at": "2026-05-01T05:35:27.234226"
+}

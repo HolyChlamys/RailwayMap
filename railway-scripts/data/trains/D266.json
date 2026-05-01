@@ -1,0 +1,71 @@
+{
+  "train_no": "D266",
+  "train_type": "D",
+  "depart_station": "北京西",
+  "arrive_station": "银川",
+  "depart_time": "19:56",
+  "arrive_time": "07:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京西",
+      "arrive_time": "19:56",
+      "depart_time": "19:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石家庄北",
+      "arrive_time": "22:29",
+      "depart_time": "22:37",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "太原",
+      "arrive_time": "00:19",
+      "depart_time": "00:27",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "定边",
+      "arrive_time": "04:47",
+      "depart_time": "04:52",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "盐池",
+      "arrive_time": "05:09",
+      "depart_time": "05:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "宁东",
+      "arrive_time": "05:58",
+      "depart_time": "06:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "灵武",
+      "arrive_time": "06:18",
+      "depart_time": "06:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "银川",
+      "arrive_time": "07:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 356.0,
+    "price_no_seat": 356.0
+  },
+  "fetched_at": "2026-05-01T03:20:03.685357"
+}

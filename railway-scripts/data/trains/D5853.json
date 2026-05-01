@@ -1,0 +1,30 @@
+{
+  "train_no": "D5853",
+  "train_type": "D",
+  "depart_station": "武汉东",
+  "arrive_station": "黄冈东",
+  "depart_time": "12:50",
+  "arrive_time": "12:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉东",
+      "arrive_time": "12:50",
+      "depart_time": "12:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄冈东",
+      "arrive_time": "12:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 56.0,
+    "price_second": 35.0,
+    "price_no_seat": 35.0
+  },
+  "fetched_at": "2026-05-01T04:12:32.207962"
+}

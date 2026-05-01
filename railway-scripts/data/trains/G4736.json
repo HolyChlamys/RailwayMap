@@ -1,0 +1,52 @@
+{
+  "train_no": "G4736",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "阳新",
+  "depart_time": "01:55",
+  "arrive_time": "07:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "01:55",
+      "depart_time": "01:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "03:03",
+      "depart_time": "03:13",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥南",
+      "arrive_time": "04:01",
+      "depart_time": "04:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "武汉",
+      "arrive_time": "06:11",
+      "depart_time": "06:24",
+      "stay_min": "13"
+    },
+    {
+      "seq": 5,
+      "station_name": "阳新",
+      "arrive_time": "07:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1546.0,
+    "price_first": 731.0,
+    "price_second": 457.0,
+    "price_no_seat": 457.0
+  },
+  "fetched_at": "2026-05-01T07:14:10.762745"
+}

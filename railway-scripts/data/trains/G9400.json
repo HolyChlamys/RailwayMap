@@ -1,0 +1,45 @@
+{
+  "train_no": "G9400",
+  "train_type": "G",
+  "depart_station": "唐山",
+  "arrive_station": "天津西",
+  "depart_time": "09:45",
+  "arrive_time": "10:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "唐山",
+      "arrive_time": "09:45",
+      "depart_time": "09:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "滨海西",
+      "arrive_time": "10:07",
+      "depart_time": "10:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "天津",
+      "arrive_time": "10:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "天津西",
+      "arrive_time": "10:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 165.5,
+    "price_first": 88.0,
+    "price_second": 52.5,
+    "price_no_seat": 52.5
+  },
+  "fetched_at": "2026-05-01T09:13:12.895915"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "C6741",
+  "train_type": "C",
+  "depart_station": "阳江北",
+  "arrive_station": "深圳",
+  "depart_time": "02:10",
+  "arrive_time": "04:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阳江北",
+      "arrive_time": "02:10",
+      "depart_time": "02:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州",
+      "arrive_time": "03:34",
+      "depart_time": "03:38",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳",
+      "arrive_time": "04:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 357.5,
+    "price_second": 240.5,
+    "price_no_seat": 240.5
+  },
+  "fetched_at": "2026-05-01T01:55:13.202268"
+}

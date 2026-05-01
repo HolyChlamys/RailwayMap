@@ -1,0 +1,52 @@
+{
+  "train_no": "C9551",
+  "train_type": "C",
+  "depart_station": "福鼎",
+  "arrive_station": "厦门北",
+  "depart_time": "22:57",
+  "arrive_time": "00:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福鼎",
+      "arrive_time": "22:57",
+      "depart_time": "22:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁德",
+      "arrive_time": "23:36",
+      "depart_time": "23:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "福州南",
+      "arrive_time": "00:15",
+      "depart_time": "00:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "莆田",
+      "arrive_time": "00:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "厦门北",
+      "arrive_time": "00:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 662.0,
+    "price_first": 302.0,
+    "price_second": 189.0,
+    "price_no_seat": 189.0
+  },
+  "fetched_at": "2026-05-01T02:48:57.362701"
+}

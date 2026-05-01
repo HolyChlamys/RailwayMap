@@ -1,0 +1,65 @@
+{
+  "train_no": "D9682",
+  "train_type": "D",
+  "depart_station": "玉林",
+  "arrive_station": "桂林北",
+  "depart_time": "11:27",
+  "arrive_time": "14:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "玉林",
+      "arrive_time": "11:27",
+      "depart_time": "11:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴业",
+      "arrive_time": "11:51",
+      "depart_time": "11:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵港",
+      "arrive_time": "12:27",
+      "depart_time": "12:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "柳州",
+      "arrive_time": "13:34",
+      "depart_time": "13:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "鹿寨北",
+      "arrive_time": "14:02",
+      "depart_time": "14:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "桂林",
+      "arrive_time": "14:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "桂林北",
+      "arrive_time": "14:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 252.0,
+    "price_second": 158.0,
+    "price_no_seat": 158.0
+  },
+  "fetched_at": "2026-05-01T05:21:53.487409"
+}

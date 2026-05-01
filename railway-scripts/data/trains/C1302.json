@@ -1,0 +1,58 @@
+{
+  "train_no": "C1302",
+  "train_type": "C",
+  "depart_station": "长春",
+  "arrive_station": "长白山",
+  "depart_time": "06:52",
+  "arrive_time": "09:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "06:52",
+      "depart_time": "06:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉林",
+      "arrive_time": "07:32",
+      "depart_time": "07:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "蛟河西",
+      "arrive_time": "08:01",
+      "depart_time": "08:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "敦化",
+      "arrive_time": "08:35",
+      "depart_time": "08:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "永庆",
+      "arrive_time": "09:07",
+      "depart_time": "09:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "长白山",
+      "arrive_time": "09:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 212.0,
+    "price_second": 132.0,
+    "price_no_seat": 132.0
+  },
+  "fetched_at": "2026-05-01T00:24:07.945866"
+}

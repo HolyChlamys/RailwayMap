@@ -1,0 +1,65 @@
+{
+  "train_no": "D4731",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "潼南",
+  "depart_time": "02:00",
+  "arrive_time": "08:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "02:00",
+      "depart_time": "02:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜昌东",
+      "arrive_time": "03:51",
+      "depart_time": "03:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "恩施",
+      "arrive_time": "05:40",
+      "depart_time": "05:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黄水",
+      "arrive_time": "06:49",
+      "depart_time": "06:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "重庆北",
+      "arrive_time": "08:17",
+      "depart_time": "08:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "合川",
+      "arrive_time": "08:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "潼南",
+      "arrive_time": "08:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 598.0,
+    "price_second": 374.0,
+    "price_no_seat": 374.0
+  },
+  "fetched_at": "2026-05-01T03:56:15.180949"
+}

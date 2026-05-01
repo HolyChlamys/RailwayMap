@@ -1,0 +1,59 @@
+{
+  "train_no": "G2743",
+  "train_type": "G",
+  "depart_station": "南昌南",
+  "arrive_station": "深圳",
+  "depart_time": "14:05",
+  "arrive_time": "17:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌南",
+      "arrive_time": "14:05",
+      "depart_time": "14:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "樟树东",
+      "arrive_time": "14:34",
+      "depart_time": "14:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "吉安西",
+      "arrive_time": "15:04",
+      "depart_time": "15:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "赣州西",
+      "arrive_time": "15:55",
+      "depart_time": "15:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "惠州北",
+      "arrive_time": "17:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳",
+      "arrive_time": "17:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1631.0,
+    "price_first": 779.0,
+    "price_second": 497.0,
+    "price_no_seat": 497.0
+  },
+  "fetched_at": "2026-05-01T06:19:07.497744"
+}

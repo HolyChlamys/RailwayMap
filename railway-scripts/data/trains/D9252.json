@@ -1,0 +1,65 @@
+{
+  "train_no": "D9252",
+  "train_type": "D",
+  "depart_station": "乌海",
+  "arrive_station": "包头",
+  "depart_time": "12:12",
+  "arrive_time": "13:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌海",
+      "arrive_time": "12:12",
+      "depart_time": "12:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "碱柜",
+      "arrive_time": "12:24",
+      "depart_time": "12:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "磴口",
+      "arrive_time": "12:46",
+      "depart_time": "12:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "巴彦淖尔",
+      "arrive_time": "13:08",
+      "depart_time": "13:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "五原",
+      "arrive_time": "13:30",
+      "depart_time": "13:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "乌拉特前旗",
+      "arrive_time": "13:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "包头",
+      "arrive_time": "13:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 378.0,
+    "price_second": 236.0,
+    "price_no_seat": 236.0
+  },
+  "fetched_at": "2026-05-01T05:11:12.624099"
+}

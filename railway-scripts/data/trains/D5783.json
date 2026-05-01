@@ -1,0 +1,100 @@
+{
+  "train_no": "D5783",
+  "train_type": "D",
+  "depart_station": "黄冈东",
+  "arrive_station": "利川",
+  "depart_time": "08:02",
+  "arrive_time": "14:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "黄冈东",
+      "arrive_time": "08:02",
+      "depart_time": "08:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄冈西",
+      "arrive_time": "08:10",
+      "depart_time": "08:13",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "武汉",
+      "arrive_time": "08:40",
+      "depart_time": "08:48",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "汉口",
+      "arrive_time": "09:10",
+      "depart_time": "09:18",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "仙桃西",
+      "arrive_time": "10:03",
+      "depart_time": "10:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "潜江",
+      "arrive_time": "10:16",
+      "depart_time": "10:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "宜昌东",
+      "arrive_time": "11:14",
+      "depart_time": "11:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "野三关",
+      "arrive_time": "12:13",
+      "depart_time": "12:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "高坪",
+      "arrive_time": "12:31",
+      "depart_time": "12:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "建始",
+      "arrive_time": "12:55",
+      "depart_time": "12:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "恩施",
+      "arrive_time": "13:20",
+      "depart_time": "13:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "利川",
+      "arrive_time": "14:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 441.0,
+    "price_second": 276.0,
+    "price_no_seat": 276.0
+  },
+  "fetched_at": "2026-05-01T04:11:08.968849"
+}

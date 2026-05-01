@@ -1,0 +1,59 @@
+{
+  "train_no": "G6923",
+  "train_type": "G",
+  "depart_station": "青岛",
+  "arrive_station": "聊城西",
+  "depart_time": "19:03",
+  "arrive_time": "21:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛",
+      "arrive_time": "19:03",
+      "depart_time": "19:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潍坊北",
+      "arrive_time": "19:59",
+      "depart_time": "20:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "章丘北",
+      "arrive_time": "20:38",
+      "depart_time": "20:43",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "济南东",
+      "arrive_time": "20:56",
+      "depart_time": "20:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "济南",
+      "arrive_time": "21:15",
+      "depart_time": "21:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "聊城西",
+      "arrive_time": "21:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 754.0,
+    "price_first": 376.0,
+    "price_second": 235.0,
+    "price_no_seat": 235.0
+  },
+  "fetched_at": "2026-05-01T08:12:51.879004"
+}

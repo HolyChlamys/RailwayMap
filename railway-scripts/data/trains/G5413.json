@@ -1,0 +1,31 @@
+{
+  "train_no": "G5413",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "兴义南",
+  "depart_time": "01:43",
+  "arrive_time": "01:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "01:43",
+      "depart_time": "01:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴义南",
+      "arrive_time": "01:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 726.0,
+    "price_first": 332.0,
+    "price_second": 207.0,
+    "price_no_seat": 207.0
+  },
+  "fetched_at": "2026-05-01T07:33:18.827669"
+}

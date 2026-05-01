@@ -1,0 +1,91 @@
+{
+  "train_no": "K462",
+  "train_type": "K",
+  "depart_station": "平顶山",
+  "arrive_station": "上海",
+  "depart_time": "21:27",
+  "arrive_time": "13:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "平顶山",
+      "arrive_time": "21:27",
+      "depart_time": "21:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漯河",
+      "arrive_time": "22:34",
+      "depart_time": "22:42",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "周口",
+      "arrive_time": "23:32",
+      "depart_time": "23:37",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "项城",
+      "arrive_time": "23:59",
+      "depart_time": "00:04",
+      "stay_min": "1435"
+    },
+    {
+      "seq": 5,
+      "station_name": "沈丘",
+      "arrive_time": "00:22",
+      "depart_time": "00:27",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "阜阳",
+      "arrive_time": "01:50",
+      "depart_time": "02:18",
+      "stay_min": "28"
+    },
+    {
+      "seq": 7,
+      "station_name": "蚌埠",
+      "arrive_time": "06:28",
+      "depart_time": "06:35",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "南京",
+      "arrive_time": "08:36",
+      "depart_time": "08:42",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "无锡",
+      "arrive_time": "10:28",
+      "depart_time": "10:31",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "苏州",
+      "arrive_time": "11:52",
+      "depart_time": "12:02",
+      "stay_min": "10"
+    },
+    {
+      "seq": 11,
+      "station_name": "上海",
+      "arrive_time": "13:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 135.5
+  },
+  "fetched_at": "2026-05-01T09:56:30.554080"
+}

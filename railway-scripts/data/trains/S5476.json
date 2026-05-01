@@ -1,0 +1,58 @@
+{
+  "train_no": "S5476",
+  "train_type": "S",
+  "depart_station": "重庆北",
+  "arrive_station": "巫山",
+  "depart_time": "09:52",
+  "arrive_time": "11:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "09:52",
+      "depart_time": "09:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "梁平南",
+      "arrive_time": "10:46",
+      "depart_time": "10:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "万州北",
+      "arrive_time": "11:09",
+      "depart_time": "11:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "云阳",
+      "arrive_time": "11:25",
+      "depart_time": "11:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "奉节",
+      "arrive_time": "11:46",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "巫山",
+      "arrive_time": "11:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 314.0,
+    "price_second": 196.0,
+    "price_no_seat": 196.0
+  },
+  "fetched_at": "2026-05-01T11:07:15.110458"
+}

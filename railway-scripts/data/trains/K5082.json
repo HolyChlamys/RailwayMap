@@ -1,0 +1,56 @@
+{
+  "train_no": "K5082",
+  "train_type": "K",
+  "depart_station": "锦州",
+  "arrive_station": "大连",
+  "depart_time": "12:49",
+  "arrive_time": "18:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "锦州",
+      "arrive_time": "12:49",
+      "depart_time": "12:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沟帮子",
+      "arrive_time": "13:30",
+      "depart_time": "13:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "盘锦",
+      "arrive_time": "13:59",
+      "depart_time": "14:04",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "大石桥",
+      "arrive_time": "15:58",
+      "depart_time": "16:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "熊岳城",
+      "arrive_time": "16:38",
+      "depart_time": "16:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "大连",
+      "arrive_time": "18:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 64.5
+  },
+  "fetched_at": "2026-05-01T10:03:28.471008"
+}

@@ -1,0 +1,93 @@
+{
+  "train_no": "C411",
+  "train_type": "C",
+  "depart_station": "上海南",
+  "arrive_station": "开化",
+  "depart_time": "09:55",
+  "arrive_time": "14:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "09:55",
+      "depart_time": "09:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉兴",
+      "arrive_time": "10:42",
+      "depart_time": "10:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "海宁",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州东",
+      "arrive_time": "11:35",
+      "depart_time": "11:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州南",
+      "arrive_time": "11:55",
+      "depart_time": "11:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "诸暨",
+      "arrive_time": "12:23",
+      "depart_time": "12:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "义乌",
+      "arrive_time": "12:44",
+      "depart_time": "12:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "金华",
+      "arrive_time": "13:19",
+      "depart_time": "13:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "衢州",
+      "arrive_time": "14:05",
+      "depart_time": "14:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "常山",
+      "arrive_time": "14:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "开化",
+      "arrive_time": "14:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 253.0,
+    "price_second": 158.0,
+    "price_no_seat": 158.0
+  },
+  "fetched_at": "2026-05-01T01:08:51.472290"
+}

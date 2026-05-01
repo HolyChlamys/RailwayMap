@@ -1,0 +1,156 @@
+{
+  "train_no": "D2322",
+  "train_type": "D",
+  "depart_station": "南昌西",
+  "arrive_station": "广州东",
+  "depart_time": "08:14",
+  "arrive_time": "17:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "08:14",
+      "depart_time": "08:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚州",
+      "arrive_time": "08:52",
+      "depart_time": "08:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南城",
+      "arrive_time": "09:13",
+      "depart_time": "09:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "建宁县北",
+      "arrive_time": "09:44",
+      "depart_time": "09:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "泰宁",
+      "arrive_time": "09:59",
+      "depart_time": "10:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "三明北",
+      "arrive_time": "10:34",
+      "depart_time": "10:52",
+      "stay_min": "18"
+    },
+    {
+      "seq": 7,
+      "station_name": "三明",
+      "arrive_time": "11:07",
+      "depart_time": "11:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "永安南",
+      "arrive_time": "11:25",
+      "depart_time": "11:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "龙岩",
+      "arrive_time": "12:13",
+      "depart_time": "12:19",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "漳州",
+      "arrive_time": "13:02",
+      "depart_time": "13:18",
+      "stay_min": "16"
+    },
+    {
+      "seq": 11,
+      "station_name": "云霄",
+      "arrive_time": "13:44",
+      "depart_time": "13:49",
+      "stay_min": "5"
+    },
+    {
+      "seq": 12,
+      "station_name": "潮汕",
+      "arrive_time": "14:21",
+      "depart_time": "14:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "葵潭",
+      "arrive_time": "14:49",
+      "depart_time": "14:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "鲘门",
+      "arrive_time": "15:20",
+      "depart_time": "15:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "惠东南",
+      "arrive_time": "15:35",
+      "depart_time": "15:41",
+      "stay_min": "6"
+    },
+    {
+      "seq": 16,
+      "station_name": "深圳北",
+      "arrive_time": "16:16",
+      "depart_time": "16:24",
+      "stay_min": "8"
+    },
+    {
+      "seq": 17,
+      "station_name": "东莞南",
+      "arrive_time": "16:42",
+      "depart_time": "16:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 18,
+      "station_name": "东莞",
+      "arrive_time": "17:06",
+      "depart_time": "17:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "广州新塘",
+      "arrive_time": "17:21",
+      "depart_time": "17:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 20,
+      "station_name": "广州东",
+      "arrive_time": "17:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 825.0,
+    "price_second": 533.0,
+    "price_no_seat": 533.0
+  },
+  "fetched_at": "2026-05-01T03:14:56.619499"
+}

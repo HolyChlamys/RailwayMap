@@ -1,0 +1,108 @@
+{
+  "train_no": "G3527",
+  "train_type": "G",
+  "depart_station": "沈阳北",
+  "arrive_station": "哈尔滨西",
+  "depart_time": "13:13",
+  "arrive_time": "19:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "13:13",
+      "depart_time": "13:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚顺",
+      "arrive_time": "13:32",
+      "depart_time": "13:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "新宾",
+      "arrive_time": "14:02",
+      "depart_time": "14:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "通化",
+      "arrive_time": "14:24",
+      "depart_time": "14:27",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "白山东",
+      "arrive_time": "14:45",
+      "depart_time": "14:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "长白山西",
+      "arrive_time": "15:11",
+      "depart_time": "15:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "长白山",
+      "arrive_time": "15:32",
+      "depart_time": "15:35",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "永庆",
+      "arrive_time": "15:47",
+      "depart_time": "15:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "敦化",
+      "arrive_time": "16:18",
+      "depart_time": "16:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "蛟河西",
+      "arrive_time": "16:52",
+      "depart_time": "16:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "吉林",
+      "arrive_time": "17:21",
+      "depart_time": "17:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "长春",
+      "arrive_time": "18:04",
+      "depart_time": "18:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "哈尔滨西",
+      "arrive_time": "19:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2088.0,
+    "price_first": 973.0,
+    "price_second": 608.0,
+    "price_no_seat": 608.0
+  },
+  "fetched_at": "2026-05-01T06:40:25.414805"
+}

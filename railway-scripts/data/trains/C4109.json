@@ -1,0 +1,36 @@
+{
+  "train_no": "C4109",
+  "train_type": "C",
+  "depart_station": "长沙",
+  "arrive_station": "衡阳",
+  "depart_time": "07:32",
+  "arrive_time": "08:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙",
+      "arrive_time": "07:32",
+      "depart_time": "07:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲",
+      "arrive_time": "08:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳",
+      "arrive_time": "08:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 57.0,
+    "price_no_seat": 57.0
+  },
+  "fetched_at": "2026-05-01T01:08:49.824710"
+}

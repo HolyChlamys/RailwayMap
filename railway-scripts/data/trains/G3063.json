@@ -1,0 +1,101 @@
+{
+  "train_no": "G3063",
+  "train_type": "G",
+  "depart_station": "南昌",
+  "arrive_station": "广州东",
+  "depart_time": "07:06",
+  "arrive_time": "11:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "07:06",
+      "depart_time": "07:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丰城东",
+      "arrive_time": "07:44",
+      "depart_time": "07:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "樟树东",
+      "arrive_time": "07:57",
+      "depart_time": "07:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "峡江",
+      "arrive_time": "08:18",
+      "depart_time": "08:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "吉安西",
+      "arrive_time": "08:38",
+      "depart_time": "08:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兴国西",
+      "arrive_time": "09:11",
+      "depart_time": "09:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "赣州西",
+      "arrive_time": "09:37",
+      "depart_time": "09:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "和平北",
+      "arrive_time": "10:19",
+      "depart_time": "10:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "河源北",
+      "arrive_time": "10:44",
+      "depart_time": "10:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "惠州北",
+      "arrive_time": "11:12",
+      "depart_time": "11:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "广州新塘",
+      "arrive_time": "11:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 12,
+      "station_name": "广州东",
+      "arrive_time": "11:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1628.5,
+    "price_first": 796.0,
+    "price_second": 498.0,
+    "price_no_seat": 498.0
+  },
+  "fetched_at": "2026-05-01T06:27:43.712838"
+}

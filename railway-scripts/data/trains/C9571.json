@@ -1,0 +1,38 @@
+{
+  "train_no": "C9571",
+  "train_type": "C",
+  "depart_station": "泉州南",
+  "arrive_station": "厦门",
+  "depart_time": "10:01",
+  "arrive_time": "10:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "泉州南",
+      "arrive_time": "10:01",
+      "depart_time": "10:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "厦门北",
+      "arrive_time": "10:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "厦门",
+      "arrive_time": "10:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 166.0,
+    "price_first": 76.0,
+    "price_second": 47.0,
+    "price_no_seat": 47.0
+  },
+  "fetched_at": "2026-05-01T02:49:33.657788"
+}

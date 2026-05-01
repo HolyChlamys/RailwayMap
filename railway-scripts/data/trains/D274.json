@@ -1,0 +1,121 @@
+{
+  "train_no": "D274",
+  "train_type": "D",
+  "depart_station": "成都南",
+  "arrive_station": "西双版纳",
+  "depart_time": "08:16",
+  "arrive_time": "19:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "08:16",
+      "depart_time": "08:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "彭山",
+      "arrive_time": "08:45",
+      "depart_time": "08:48",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "西昌西",
+      "arrive_time": "11:22",
+      "depart_time": "11:29",
+      "stay_min": "7"
+    },
+    {
+      "seq": 4,
+      "station_name": "德昌西",
+      "arrive_time": "11:55",
+      "depart_time": "12:08",
+      "stay_min": "13"
+    },
+    {
+      "seq": 5,
+      "station_name": "米易东",
+      "arrive_time": "12:36",
+      "depart_time": "12:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "盐边",
+      "arrive_time": "12:59",
+      "depart_time": "13:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "攀枝花南",
+      "arrive_time": "13:17",
+      "depart_time": "13:25",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "元谋西",
+      "arrive_time": "14:14",
+      "depart_time": "14:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "广通北",
+      "arrive_time": "14:52",
+      "depart_time": "14:55",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "禄丰南",
+      "arrive_time": "15:13",
+      "depart_time": "15:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "昆明",
+      "arrive_time": "15:56",
+      "depart_time": "16:02",
+      "stay_min": "6"
+    },
+    {
+      "seq": 12,
+      "station_name": "昆明南",
+      "arrive_time": "16:21",
+      "depart_time": "16:29",
+      "stay_min": "8"
+    },
+    {
+      "seq": 13,
+      "station_name": "玉溪",
+      "arrive_time": "17:06",
+      "depart_time": "17:10",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "普洱",
+      "arrive_time": "18:59",
+      "depart_time": "19:03",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "西双版纳",
+      "arrive_time": "19:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 857.0,
+    "price_second": 535.0,
+    "price_no_seat": 535.0
+  },
+  "fetched_at": "2026-05-01T03:22:01.525798"
+}

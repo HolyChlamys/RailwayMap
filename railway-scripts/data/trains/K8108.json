@@ -1,0 +1,56 @@
+{
+  "train_no": "K8108",
+  "train_type": "K",
+  "depart_station": "平顶山",
+  "arrive_station": "信阳",
+  "depart_time": "11:00",
+  "arrive_time": "14:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "平顶山",
+      "arrive_time": "11:00",
+      "depart_time": "11:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漯河",
+      "arrive_time": "12:02",
+      "depart_time": "12:08",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "西平",
+      "arrive_time": "12:23",
+      "depart_time": "12:27",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "驻马店",
+      "arrive_time": "12:54",
+      "depart_time": "12:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "确山",
+      "arrive_time": "13:14",
+      "depart_time": "13:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "信阳",
+      "arrive_time": "14:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T10:35:34.527502"
+}

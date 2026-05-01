@@ -1,0 +1,45 @@
+{
+  "train_no": "G9897",
+  "train_type": "G",
+  "depart_station": "北京",
+  "arrive_station": "秦皇岛",
+  "depart_time": "12:30",
+  "arrive_time": "14:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京",
+      "arrive_time": "12:30",
+      "depart_time": "12:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宝坻",
+      "arrive_time": "13:20",
+      "depart_time": "13:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "北戴河",
+      "arrive_time": "14:12",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "秦皇岛",
+      "arrive_time": "14:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 615.0,
+    "price_first": 281.0,
+    "price_second": 175.0,
+    "price_no_seat": 175.0
+  },
+  "fetched_at": "2026-05-01T09:27:29.219631"
+}

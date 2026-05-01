@@ -1,0 +1,73 @@
+{
+  "train_no": "G8183",
+  "train_type": "G",
+  "depart_station": "大连北",
+  "arrive_station": "辽宁朝阳",
+  "depart_time": "18:21",
+  "arrive_time": "21:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连北",
+      "arrive_time": "18:21",
+      "depart_time": "18:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "营口东",
+      "arrive_time": "19:10",
+      "depart_time": "19:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "鞍山西",
+      "arrive_time": "19:32",
+      "depart_time": "19:40",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "辽阳",
+      "arrive_time": "19:51",
+      "depart_time": "19:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "沈阳",
+      "arrive_time": "20:16",
+      "depart_time": "20:28",
+      "stay_min": "12"
+    },
+    {
+      "seq": 6,
+      "station_name": "阜新",
+      "arrive_time": "21:15",
+      "depart_time": "21:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "北票",
+      "arrive_time": "21:39",
+      "depart_time": "21:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "辽宁朝阳",
+      "arrive_time": "21:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1257.0,
+    "price_first": 575.0,
+    "price_second": 359.0,
+    "price_no_seat": 359.0
+  },
+  "fetched_at": "2026-05-01T08:45:49.451819"
+}

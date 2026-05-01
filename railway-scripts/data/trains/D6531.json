@@ -1,0 +1,86 @@
+{
+  "train_no": "D6531",
+  "train_type": "D",
+  "depart_station": "南昌",
+  "arrive_station": "厦门",
+  "depart_time": "17:29",
+  "arrive_time": "21:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "17:29",
+      "depart_time": "17:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚州",
+      "arrive_time": "18:26",
+      "depart_time": "18:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南城",
+      "arrive_time": "18:47",
+      "depart_time": "18:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南丰",
+      "arrive_time": "19:03",
+      "depart_time": "19:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "建宁县北",
+      "arrive_time": "19:25",
+      "depart_time": "19:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "泰宁",
+      "arrive_time": "19:40",
+      "depart_time": "19:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "三明北",
+      "arrive_time": "20:17",
+      "depart_time": "20:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "莆田",
+      "arrive_time": "21:26",
+      "depart_time": "21:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "泉州",
+      "arrive_time": "21:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "厦门",
+      "arrive_time": "21:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 437.0,
+    "price_second": 273.5,
+    "price_no_seat": 273.5
+  },
+  "fetched_at": "2026-05-01T04:24:26.503212"
+}

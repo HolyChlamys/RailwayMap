@@ -1,0 +1,35 @@
+{
+  "train_no": "K6734",
+  "train_type": "K",
+  "depart_station": "图木舒克",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "12:50",
+  "arrive_time": "05:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "图木舒克",
+      "arrive_time": "12:50",
+      "depart_time": "12:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阿克苏",
+      "arrive_time": "15:25",
+      "depart_time": "15:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "05:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:25:31.510081"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G9695",
+  "train_type": "G",
+  "depart_station": "衡阳东",
+  "arrive_station": "福田",
+  "depart_time": "23:32",
+  "arrive_time": "02:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "衡阳东",
+      "arrive_time": "23:32",
+      "depart_time": "23:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郴州西",
+      "arrive_time": "00:08",
+      "depart_time": "00:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "01:31",
+      "depart_time": "01:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "虎门",
+      "arrive_time": "01:52",
+      "depart_time": "01:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "02:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "福田",
+      "arrive_time": "02:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 635.0,
+    "price_first": 290.0,
+    "price_second": 182.0,
+    "price_no_seat": 182.0
+  },
+  "fetched_at": "2026-05-01T09:21:26.472384"
+}

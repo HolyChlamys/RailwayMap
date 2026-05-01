@@ -1,0 +1,84 @@
+{
+  "train_no": "K9782",
+  "train_type": "K",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "阿拉尔",
+  "depart_time": "20:17",
+  "arrive_time": "11:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "20:17",
+      "depart_time": "20:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吐鲁番北",
+      "arrive_time": "21:59",
+      "depart_time": "22:34",
+      "stay_min": "35"
+    },
+    {
+      "seq": 3,
+      "station_name": "焉耆",
+      "arrive_time": "01:36",
+      "depart_time": "01:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "库尔勒",
+      "arrive_time": "02:17",
+      "depart_time": "02:37",
+      "stay_min": "20"
+    },
+    {
+      "seq": 5,
+      "station_name": "轮台",
+      "arrive_time": "05:23",
+      "depart_time": "05:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "库车",
+      "arrive_time": "06:21",
+      "depart_time": "06:27",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "新和",
+      "arrive_time": "06:56",
+      "depart_time": "06:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "阿克苏",
+      "arrive_time": "08:47",
+      "depart_time": "09:21",
+      "stay_min": "34"
+    },
+    {
+      "seq": 9,
+      "station_name": "阿瓦提",
+      "arrive_time": "10:18",
+      "depart_time": "10:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "阿拉尔",
+      "arrive_time": "11:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 141.5
+  },
+  "fetched_at": "2026-05-01T10:49:15.629551"
+}

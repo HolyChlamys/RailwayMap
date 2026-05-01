@@ -1,0 +1,122 @@
+{
+  "train_no": "D6267",
+  "train_type": "D",
+  "depart_station": "南昌",
+  "arrive_station": "南 昌",
+  "depart_time": "09:05",
+  "arrive_time": "15:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "09:05",
+      "depart_time": "09:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永修",
+      "arrive_time": "09:31",
+      "depart_time": "09:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "共青城",
+      "arrive_time": "09:45",
+      "depart_time": "09:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "德安",
+      "arrive_time": "09:53",
+      "depart_time": "09:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "九江",
+      "arrive_time": "10:17",
+      "depart_time": "10:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "湖口",
+      "arrive_time": "10:44",
+      "depart_time": "10:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "都昌",
+      "arrive_time": "11:02",
+      "depart_time": "11:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "鄱阳北",
+      "arrive_time": "11:26",
+      "depart_time": "11:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "景德镇北",
+      "arrive_time": "11:46",
+      "depart_time": "11:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "婺源",
+      "arrive_time": "12:15",
+      "depart_time": "12:24",
+      "stay_min": "9"
+    },
+    {
+      "seq": 11,
+      "station_name": "德兴",
+      "arrive_time": "12:36",
+      "depart_time": "12:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "上饶",
+      "arrive_time": "13:00",
+      "depart_time": "13:21",
+      "stay_min": "21"
+    },
+    {
+      "seq": 13,
+      "station_name": "鹰潭北",
+      "arrive_time": "13:55",
+      "depart_time": "14:00",
+      "stay_min": "5"
+    },
+    {
+      "seq": 14,
+      "station_name": "抚州东",
+      "arrive_time": "14:14",
+      "depart_time": "14:21",
+      "stay_min": "7"
+    },
+    {
+      "seq": 15,
+      "station_name": "南 昌",
+      "arrive_time": "15:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 650.0,
+    "price_first": 346.5,
+    "price_second": 216.5,
+    "price_no_seat": 216.5
+  },
+  "fetched_at": "2026-05-01T04:20:03.443987"
+}

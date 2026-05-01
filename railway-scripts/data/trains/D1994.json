@@ -1,0 +1,86 @@
+{
+  "train_no": "D1994",
+  "train_type": "D",
+  "depart_station": "峨眉山",
+  "arrive_station": "西安北",
+  "depart_time": "18:49",
+  "arrive_time": "22:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "峨眉山",
+      "arrive_time": "18:49",
+      "depart_time": "18:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "峨眉",
+      "arrive_time": "18:59",
+      "depart_time": "18:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "乐山",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "眉山东",
+      "arrive_time": "19:34",
+      "depart_time": "19:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "双流机场",
+      "arrive_time": "19:57",
+      "depart_time": "19:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "成都东",
+      "arrive_time": "20:17",
+      "depart_time": "20:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "绵阳",
+      "arrive_time": "20:56",
+      "depart_time": "20:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "广元",
+      "arrive_time": "21:51",
+      "depart_time": "21:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "汉中",
+      "arrive_time": "22:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "西安北",
+      "arrive_time": "22:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 610.0,
+    "price_second": 381.0,
+    "price_no_seat": 381.0
+  },
+  "fetched_at": "2026-05-01T03:09:24.069062"
+}

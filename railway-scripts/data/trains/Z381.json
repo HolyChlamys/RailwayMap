@@ -1,0 +1,70 @@
+{
+  "train_no": "Z381",
+  "train_type": "Z",
+  "depart_station": "陇西",
+  "arrive_station": "乌鲁木齐",
+  "depart_time": "19:00",
+  "arrive_time": "12:52",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "陇西",
+      "arrive_time": "19:00",
+      "depart_time": "19:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "定西",
+      "arrive_time": "19:57",
+      "depart_time": "19:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兰州",
+      "arrive_time": "21:45",
+      "depart_time": "21:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西宁",
+      "arrive_time": "23:51",
+      "depart_time": "23:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "嘉峪关南",
+      "arrive_time": "05:26",
+      "depart_time": "05:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "哈密",
+      "arrive_time": "10:17",
+      "depart_time": "10:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "吐鲁番北",
+      "arrive_time": "12:52",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "12:52",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T11:48:30.738533"
+}

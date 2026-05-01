@@ -1,0 +1,63 @@
+{
+  "train_no": "K6124",
+  "train_type": "K",
+  "depart_station": "红河",
+  "arrive_station": "宣威",
+  "depart_time": "15:48",
+  "arrive_time": "22:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "红河",
+      "arrive_time": "15:48",
+      "depart_time": "15:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆明",
+      "arrive_time": "05:17",
+      "depart_time": "05:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "个旧",
+      "arrive_time": "16:14",
+      "depart_time": "16:19",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "建水",
+      "arrive_time": "16:48",
+      "depart_time": "16:53",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "昆明",
+      "arrive_time": "19:26",
+      "depart_time": "19:32",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "曲靖",
+      "arrive_time": "21:28",
+      "depart_time": "21:33",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "宣威",
+      "arrive_time": "22:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T10:18:06.748647"
+}

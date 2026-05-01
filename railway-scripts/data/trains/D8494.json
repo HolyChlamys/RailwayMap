@@ -1,0 +1,37 @@
+{
+  "train_no": "D8494",
+  "train_type": "D",
+  "depart_station": "玉林",
+  "arrive_station": "贵港",
+  "depart_time": "19:34",
+  "arrive_time": "19:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "玉林",
+      "arrive_time": "19:34",
+      "depart_time": "19:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴业",
+      "arrive_time": "19:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "贵港",
+      "arrive_time": "19:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 44.0,
+    "price_second": 27.5,
+    "price_no_seat": 27.5
+  },
+  "fetched_at": "2026-05-01T04:58:33.289499"
+}

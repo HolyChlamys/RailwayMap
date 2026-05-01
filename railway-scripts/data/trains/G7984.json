@@ -1,0 +1,66 @@
+{
+  "train_no": "G7984",
+  "train_type": "G",
+  "depart_station": "邓州东",
+  "arrive_station": "濮阳东",
+  "depart_time": "17:21",
+  "arrive_time": "19:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邓州东",
+      "arrive_time": "17:21",
+      "depart_time": "17:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南阳东",
+      "arrive_time": "17:42",
+      "depart_time": "17:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "平顶山西",
+      "arrive_time": "18:12",
+      "depart_time": "18:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长葛北",
+      "arrive_time": "18:42",
+      "depart_time": "18:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "新乡东",
+      "arrive_time": "19:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "濮阳东",
+      "arrive_time": "19:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 936.0,
+    "price_first": 469.0,
+    "price_second": 292.0,
+    "price_no_seat": 292.0
+  },
+  "fetched_at": "2026-05-01T08:41:49.362851"
+}

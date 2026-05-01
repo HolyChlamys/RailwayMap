@@ -1,0 +1,136 @@
+{
+  "train_no": "G1856",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "青岛北",
+  "depart_time": "12:59",
+  "arrive_time": "20:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "12:59",
+      "depart_time": "12:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "华山北",
+      "arrive_time": "13:27",
+      "depart_time": "13:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "渑池南",
+      "arrive_time": "14:08",
+      "depart_time": "14:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "洛阳龙门",
+      "arrive_time": "14:28",
+      "depart_time": "14:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "15:08",
+      "depart_time": "15:17",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "商丘",
+      "arrive_time": "16:06",
+      "depart_time": "16:11",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "永城北",
+      "arrive_time": "16:35",
+      "depart_time": "16:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "萧县北",
+      "arrive_time": "16:51",
+      "depart_time": "16:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "徐州东",
+      "arrive_time": "17:10",
+      "depart_time": "17:20",
+      "stay_min": "10"
+    },
+    {
+      "seq": 10,
+      "station_name": "邳州东",
+      "arrive_time": "17:42",
+      "depart_time": "17:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "新沂南",
+      "arrive_time": "17:55",
+      "depart_time": "17:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "东海县",
+      "arrive_time": "18:12",
+      "depart_time": "18:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "连云港",
+      "arrive_time": "18:27",
+      "depart_time": "18:34",
+      "stay_min": "7"
+    },
+    {
+      "seq": 14,
+      "station_name": "岚山西",
+      "arrive_time": "19:04",
+      "depart_time": "19:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "日照西",
+      "arrive_time": "19:20",
+      "depart_time": "19:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 16,
+      "station_name": "青岛西",
+      "arrive_time": "19:53",
+      "depart_time": "19:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "青岛北",
+      "arrive_time": "20:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2181.0,
+    "price_first": 1012.0,
+    "price_second": 633.0,
+    "price_no_seat": 633.0
+  },
+  "fetched_at": "2026-05-01T05:54:50.915659"
+}

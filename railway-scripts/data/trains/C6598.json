@@ -1,0 +1,51 @@
+{
+  "train_no": "C6598",
+  "train_type": "C",
+  "depart_station": "牟平",
+  "arrive_station": "青岛",
+  "depart_time": "20:22",
+  "arrive_time": "22:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "牟平",
+      "arrive_time": "20:22",
+      "depart_time": "20:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "威海北",
+      "arrive_time": "20:35",
+      "depart_time": "20:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "荣成",
+      "arrive_time": "21:01",
+      "depart_time": "21:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "青岛北",
+      "arrive_time": "22:27",
+      "depart_time": "22:30",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "青岛",
+      "arrive_time": "22:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 253.0,
+    "price_second": 158.0,
+    "price_no_seat": 158.0
+  },
+  "fetched_at": "2026-05-01T01:52:51.429215"
+}

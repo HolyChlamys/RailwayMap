@@ -1,0 +1,58 @@
+{
+  "train_no": "D4489",
+  "train_type": "D",
+  "depart_station": "西安北",
+  "arrive_station": "峨眉山",
+  "depart_time": "03:51",
+  "arrive_time": "08:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "03:51",
+      "depart_time": "03:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "汉中",
+      "arrive_time": "05:08",
+      "depart_time": "05:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广元",
+      "arrive_time": "05:57",
+      "depart_time": "05:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "成都东",
+      "arrive_time": "07:44",
+      "depart_time": "07:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乐山",
+      "arrive_time": "08:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "峨眉山",
+      "arrive_time": "08:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 610.0,
+    "price_second": 381.0,
+    "price_no_seat": 381.0
+  },
+  "fetched_at": "2026-05-01T03:51:46.671093"
+}

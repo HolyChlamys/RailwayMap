@@ -1,0 +1,87 @@
+{
+  "train_no": "G917",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "香港西九龙",
+  "depart_time": "10:41",
+  "arrive_time": "18:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "10:41",
+      "depart_time": "10:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乐山",
+      "arrive_time": "11:29",
+      "depart_time": "11:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜宾西",
+      "arrive_time": "12:11",
+      "depart_time": "12:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳东",
+      "arrive_time": "13:59",
+      "depart_time": "13:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "桂林西",
+      "arrive_time": "15:43",
+      "depart_time": "15:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "肇庆东",
+      "arrive_time": "17:16",
+      "depart_time": "17:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "广州南",
+      "arrive_time": "17:56",
+      "depart_time": "17:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南沙北",
+      "arrive_time": "18:13",
+      "depart_time": "18:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳北",
+      "arrive_time": "18:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "香港西九龙",
+      "arrive_time": "18:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3058.0,
+    "price_first": 1514.0,
+    "price_second": 946.0,
+    "price_no_seat": 946.0
+  },
+  "fetched_at": "2026-05-01T09:07:30.712876"
+}

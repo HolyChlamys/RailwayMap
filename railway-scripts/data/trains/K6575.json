@@ -1,0 +1,42 @@
+{
+  "train_no": "K6575",
+  "train_type": "K",
+  "depart_station": "怀化",
+  "arrive_station": "广州白云",
+  "depart_time": "20:32",
+  "arrive_time": "01:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "怀化",
+      "arrive_time": "20:32",
+      "depart_time": "20:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邵阳",
+      "arrive_time": "22:51",
+      "depart_time": "22:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衡阳",
+      "arrive_time": "01:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州白云",
+      "arrive_time": "01:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 50.5
+  },
+  "fetched_at": "2026-05-01T10:23:13.944340"
+}

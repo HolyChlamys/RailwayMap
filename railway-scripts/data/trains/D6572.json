@@ -1,0 +1,114 @@
+{
+  "train_no": "D6572",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "赣州",
+  "depart_time": "06:25",
+  "arrive_time": "11:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "06:25",
+      "depart_time": "06:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "延平",
+      "arrive_time": "07:04",
+      "depart_time": "07:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "三明北",
+      "arrive_time": "07:28",
+      "depart_time": "07:32",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "三明",
+      "arrive_time": "07:46",
+      "depart_time": "07:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "永安南",
+      "arrive_time": "08:04",
+      "depart_time": "08:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "双洋",
+      "arrive_time": "08:22",
+      "depart_time": "08:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "漳平西",
+      "arrive_time": "08:38",
+      "depart_time": "08:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "龙岩",
+      "arrive_time": "09:04",
+      "depart_time": "09:22",
+      "stay_min": "18"
+    },
+    {
+      "seq": 9,
+      "station_name": "古田会址",
+      "arrive_time": "09:38",
+      "depart_time": "09:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "长汀南",
+      "arrive_time": "10:10",
+      "depart_time": "10:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "瑞金",
+      "arrive_time": "10:28",
+      "depart_time": "10:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "会昌北",
+      "arrive_time": "10:44",
+      "depart_time": "10:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "于都",
+      "arrive_time": "11:03",
+      "depart_time": "11:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "赣州",
+      "arrive_time": "11:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 375.5,
+    "price_second": 235.5,
+    "price_no_seat": 235.5
+  },
+  "fetched_at": "2026-05-01T04:25:31.378012"
+}

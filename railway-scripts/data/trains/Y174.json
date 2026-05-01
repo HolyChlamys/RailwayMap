@@ -1,0 +1,54 @@
+{
+  "train_no": "Y174",
+  "train_type": "Y",
+  "depart_station": "常德",
+  "arrive_station": "洛阳",
+  "depart_time": "18:19",
+  "arrive_time": "07:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "常德",
+      "arrive_time": "18:19",
+      "depart_time": "18:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石门县北",
+      "arrive_time": "19:10",
+      "depart_time": "19:16",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "石门县北",
+      "arrive_time": "19:24",
+      "depart_time": "19:30",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "洛阳",
+      "arrive_time": "07:15",
+      "depart_time": "07:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "襄阳",
+      "arrive_time": "01:00",
+      "depart_time": "01:22",
+      "stay_min": "22"
+    },
+    {
+      "seq": 6,
+      "station_name": "洛阳",
+      "arrive_time": "07:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:29:54.465616"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "C3078",
+  "train_type": "C",
+  "depart_station": "横店",
+  "arrive_station": "上海南",
+  "depart_time": "07:04",
+  "arrive_time": "08:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "横店",
+      "arrive_time": "07:04",
+      "depart_time": "07:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州西",
+      "arrive_time": "07:50",
+      "depart_time": "07:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "湖州东",
+      "arrive_time": "08:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "上海南",
+      "arrive_time": "08:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 835.0,
+    "price_first": 381.0,
+    "price_second": 240.0,
+    "price_no_seat": 240.0
+  },
+  "fetched_at": "2026-05-01T00:50:24.686022"
+}

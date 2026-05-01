@@ -1,0 +1,33 @@
+{
+  "train_no": "Y27",
+  "train_type": "Y",
+  "depart_station": "昆明",
+  "arrive_station": "西双版纳",
+  "depart_time": "21:40",
+  "arrive_time": "09:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "21:40",
+      "depart_time": "21:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "野象谷",
+      "arrive_time": "09:06",
+      "depart_time": "09:12",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "西双版纳",
+      "arrive_time": "09:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:30:35.935942"
+}

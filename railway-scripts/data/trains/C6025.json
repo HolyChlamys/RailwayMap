@@ -1,0 +1,59 @@
+{
+  "train_no": "C6025",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "峨眉山",
+  "depart_time": "19:55",
+  "arrive_time": "21:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "19:55",
+      "depart_time": "19:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新津南",
+      "arrive_time": "20:21",
+      "depart_time": "20:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "眉山东",
+      "arrive_time": "20:35",
+      "depart_time": "20:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "青神",
+      "arrive_time": "20:52",
+      "depart_time": "20:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乐山",
+      "arrive_time": "21:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "峨眉山",
+      "arrive_time": "21:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 194.0,
+    "price_first": 104.0,
+    "price_second": 65.0,
+    "price_no_seat": 65.0
+  },
+  "fetched_at": "2026-05-01T01:43:22.528538"
+}

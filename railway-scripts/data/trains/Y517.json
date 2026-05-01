@@ -1,0 +1,56 @@
+{
+  "train_no": "Y517",
+  "train_type": "Y",
+  "depart_station": "延安",
+  "arrive_station": "西安",
+  "depart_time": "16:20",
+  "arrive_time": "19:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "延安",
+      "arrive_time": "16:20",
+      "depart_time": "16:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "张桥",
+      "arrive_time": "18:46",
+      "depart_time": "19:02",
+      "stay_min": "16"
+    },
+    {
+      "seq": 3,
+      "station_name": "西安",
+      "arrive_time": "20:03",
+      "depart_time": "20:11",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "咸阳",
+      "arrive_time": "20:28",
+      "depart_time": "20:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "咸阳",
+      "arrive_time": "18:29",
+      "depart_time": "19:00",
+      "stay_min": "31"
+    },
+    {
+      "seq": 6,
+      "station_name": "西安",
+      "arrive_time": "19:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 21.5
+  },
+  "fetched_at": "2026-05-01T11:34:34.803633"
+}

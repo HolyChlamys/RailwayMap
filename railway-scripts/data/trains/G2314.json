@@ -1,0 +1,129 @@
+{
+  "train_no": "G2314",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "温州南",
+  "depart_time": "13:04",
+  "arrive_time": "19:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "13:04",
+      "depart_time": "13:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "萍乡北",
+      "arrive_time": "13:33",
+      "depart_time": "13:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "宜春",
+      "arrive_time": "13:53",
+      "depart_time": "13:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "新余北",
+      "arrive_time": "14:10",
+      "depart_time": "14:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南昌西",
+      "arrive_time": "14:45",
+      "depart_time": "14:52",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "抚州东",
+      "arrive_time": "15:18",
+      "depart_time": "15:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "弋阳",
+      "arrive_time": "15:44",
+      "depart_time": "15:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "上饶",
+      "arrive_time": "16:03",
+      "depart_time": "16:22",
+      "stay_min": "19"
+    },
+    {
+      "seq": 9,
+      "station_name": "龙游",
+      "arrive_time": "16:57",
+      "depart_time": "16:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "金华",
+      "arrive_time": "17:14",
+      "depart_time": "17:18",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "金华南",
+      "arrive_time": "17:30",
+      "depart_time": "17:33",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "武义北",
+      "arrive_time": "17:44",
+      "depart_time": "17:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "永康南",
+      "arrive_time": "17:58",
+      "depart_time": "18:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "缙云西",
+      "arrive_time": "18:10",
+      "depart_time": "18:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "丽水",
+      "arrive_time": "18:25",
+      "depart_time": "18:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 16,
+      "station_name": "温州南",
+      "arrive_time": "19:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1644.5,
+    "price_first": 767.5,
+    "price_second": 480.0,
+    "price_no_seat": 480.0
+  },
+  "fetched_at": "2026-05-01T06:07:09.301507"
+}

@@ -1,0 +1,79 @@
+{
+  "train_no": "D3322",
+  "train_type": "D",
+  "depart_station": "晋城东",
+  "arrive_station": "大同南",
+  "depart_time": "09:44",
+  "arrive_time": "13:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "晋城东",
+      "arrive_time": "09:44",
+      "depart_time": "09:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长治东",
+      "arrive_time": "10:16",
+      "depart_time": "10:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武乡",
+      "arrive_time": "10:47",
+      "depart_time": "10:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "太谷东",
+      "arrive_time": "11:13",
+      "depart_time": "11:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太原",
+      "arrive_time": "11:47",
+      "depart_time": "11:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "朔州东",
+      "arrive_time": "12:46",
+      "depart_time": "12:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "应县西",
+      "arrive_time": "13:07",
+      "depart_time": "13:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "怀仁东",
+      "arrive_time": "13:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "大同南",
+      "arrive_time": "13:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 452.0,
+    "price_second": 283.0,
+    "price_no_seat": 283.0
+  },
+  "fetched_at": "2026-05-01T03:32:03.290180"
+}

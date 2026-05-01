@@ -1,0 +1,45 @@
+{
+  "train_no": "C5299",
+  "train_type": "C",
+  "depart_station": "南昌西",
+  "arrive_station": "萍乡北",
+  "depart_time": "07:50",
+  "arrive_time": "08:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌西",
+      "arrive_time": "07:50",
+      "depart_time": "07:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "新余北",
+      "arrive_time": "08:24",
+      "depart_time": "08:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜春",
+      "arrive_time": "08:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "萍乡北",
+      "arrive_time": "08:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 456.0,
+    "price_first": 209.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T01:32:23.530133"
+}

@@ -1,0 +1,44 @@
+{
+  "train_no": "D9894",
+  "train_type": "D",
+  "depart_station": "福州南",
+  "arrive_station": "霞浦",
+  "depart_time": "21:33",
+  "arrive_time": "22:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州南",
+      "arrive_time": "21:33",
+      "depart_time": "21:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁德",
+      "arrive_time": "22:07",
+      "depart_time": "22:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "福安",
+      "arrive_time": "22:21",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "霞浦",
+      "arrive_time": "22:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 104.0,
+    "price_second": 65.0,
+    "price_no_seat": 65.0
+  },
+  "fetched_at": "2026-05-01T05:27:31.329080"
+}

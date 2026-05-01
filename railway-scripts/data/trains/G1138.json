@@ -1,0 +1,115 @@
+{
+  "train_no": "G1138",
+  "train_type": "G",
+  "depart_station": "宜昌东",
+  "arrive_station": "广州南",
+  "depart_time": "06:15",
+  "arrive_time": "13:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "06:15",
+      "depart_time": "06:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枝江北",
+      "arrive_time": "06:34",
+      "depart_time": "06:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "荆州",
+      "arrive_time": "06:55",
+      "depart_time": "06:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "天门南",
+      "arrive_time": "07:39",
+      "depart_time": "07:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汉口",
+      "arrive_time": "08:16",
+      "depart_time": "08:20",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "武汉",
+      "arrive_time": "08:45",
+      "depart_time": "08:49",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "岳阳东",
+      "arrive_time": "09:39",
+      "depart_time": "09:44",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "汨罗东",
+      "arrive_time": "10:04",
+      "depart_time": "10:09",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "长沙南",
+      "arrive_time": "10:30",
+      "depart_time": "10:42",
+      "stay_min": "12"
+    },
+    {
+      "seq": 10,
+      "station_name": "株洲西",
+      "arrive_time": "10:57",
+      "depart_time": "10:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "耒阳西",
+      "arrive_time": "11:38",
+      "depart_time": "11:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "韶关",
+      "arrive_time": "12:27",
+      "depart_time": "12:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "清远",
+      "arrive_time": "13:00",
+      "depart_time": "13:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "广州南",
+      "arrive_time": "13:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2429.0,
+    "price_first": 1113.0,
+    "price_second": 696.0,
+    "price_no_seat": 696.0
+  },
+  "fetched_at": "2026-05-01T05:34:08.391013"
+}

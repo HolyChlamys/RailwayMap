@@ -1,0 +1,86 @@
+{
+  "train_no": "D5752",
+  "train_type": "D",
+  "depart_station": "宜昌东",
+  "arrive_station": "咸宁南",
+  "depart_time": "14:58",
+  "arrive_time": "18:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "14:58",
+      "depart_time": "14:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枝江北",
+      "arrive_time": "15:17",
+      "depart_time": "15:24",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "荆州",
+      "arrive_time": "15:43",
+      "depart_time": "15:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "武昌",
+      "arrive_time": "17:07",
+      "depart_time": "17:15",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "南湖东",
+      "arrive_time": "17:27",
+      "depart_time": "17:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "汤逊湖",
+      "arrive_time": "17:35",
+      "depart_time": "17:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "庙山",
+      "arrive_time": "17:41",
+      "depart_time": "17:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "纸坊东",
+      "arrive_time": "17:49",
+      "depart_time": "17:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "山坡东",
+      "arrive_time": "18:03",
+      "depart_time": "18:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "咸宁南",
+      "arrive_time": "18:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 289.0,
+    "price_second": 180.0,
+    "price_no_seat": 180.0
+  },
+  "fetched_at": "2026-05-01T04:10:22.417127"
+}

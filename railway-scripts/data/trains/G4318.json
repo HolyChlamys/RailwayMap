@@ -1,0 +1,80 @@
+{
+  "train_no": "G4318",
+  "train_type": "G",
+  "depart_station": "景德镇北",
+  "arrive_station": "杭州西",
+  "depart_time": "10:22",
+  "arrive_time": "13:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "景德镇北",
+      "arrive_time": "10:22",
+      "depart_time": "10:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "浮梁东",
+      "arrive_time": "10:50",
+      "depart_time": "10:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "祁门南",
+      "arrive_time": "11:10",
+      "depart_time": "11:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黟县东",
+      "arrive_time": "11:28",
+      "depart_time": "11:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "黄山北",
+      "arrive_time": "11:55",
+      "depart_time": "11:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "歙县北",
+      "arrive_time": "12:05",
+      "depart_time": "12:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "千岛湖",
+      "arrive_time": "12:49",
+      "depart_time": "12:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "桐庐东",
+      "arrive_time": "13:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "杭州西",
+      "arrive_time": "13:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 637.0,
+    "price_first": 309.0,
+    "price_second": 193.0,
+    "price_no_seat": 193.0
+  },
+  "fetched_at": "2026-05-01T07:02:02.015863"
+}

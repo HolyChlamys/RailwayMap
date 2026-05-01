@@ -1,0 +1,73 @@
+{
+  "train_no": "C3687",
+  "train_type": "C",
+  "depart_station": "南京南",
+  "arrive_station": "祁门南",
+  "depart_time": "10:13",
+  "arrive_time": "12:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "10:13",
+      "depart_time": "10:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马鞍山东",
+      "arrive_time": "10:31",
+      "depart_time": "10:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "当涂东",
+      "arrive_time": "10:41",
+      "depart_time": "10:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖",
+      "arrive_time": "10:57",
+      "depart_time": "10:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宣城",
+      "arrive_time": "11:26",
+      "depart_time": "11:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "宁国南",
+      "arrive_time": "11:44",
+      "depart_time": "11:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "黄山北",
+      "arrive_time": "12:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "祁门南",
+      "arrive_time": "12:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 682.0,
+    "price_first": 323.0,
+    "price_second": 201.0,
+    "price_no_seat": 201.0
+  },
+  "fetched_at": "2026-05-01T01:02:28.507459"
+}

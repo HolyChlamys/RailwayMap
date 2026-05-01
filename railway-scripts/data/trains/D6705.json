@@ -1,0 +1,44 @@
+{
+  "train_no": "D6705",
+  "train_type": "D",
+  "depart_station": "北京北",
+  "arrive_station": "延庆",
+  "depart_time": "11:47",
+  "arrive_time": "12:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京北",
+      "arrive_time": "11:47",
+      "depart_time": "11:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "清河",
+      "arrive_time": "12:02",
+      "depart_time": "12:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "八达岭长城",
+      "arrive_time": "12:35",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "延庆",
+      "arrive_time": "12:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 50.0,
+    "price_second": 31.0,
+    "price_no_seat": 31.0
+  },
+  "fetched_at": "2026-05-01T04:27:17.333008"
+}

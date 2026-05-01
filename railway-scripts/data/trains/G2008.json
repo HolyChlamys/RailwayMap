@@ -1,0 +1,150 @@
+{
+  "train_no": "G2008",
+  "train_type": "G",
+  "depart_station": "西安北",
+  "arrive_station": "烟台",
+  "depart_time": "14:51",
+  "arrive_time": "23:15",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安北",
+      "arrive_time": "14:51",
+      "depart_time": "14:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "华山北",
+      "arrive_time": "15:19",
+      "depart_time": "15:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "渑池南",
+      "arrive_time": "16:00",
+      "depart_time": "16:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "16:53",
+      "depart_time": "16:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "新乡南",
+      "arrive_time": "17:15",
+      "depart_time": "17:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "新乡东",
+      "arrive_time": "17:29",
+      "depart_time": "17:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "滑浚",
+      "arrive_time": "17:50",
+      "depart_time": "17:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "内黄",
+      "arrive_time": "18:03",
+      "depart_time": "18:05",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "濮阳东",
+      "arrive_time": "18:18",
+      "depart_time": "18:23",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "南乐",
+      "arrive_time": "18:36",
+      "depart_time": "18:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "聊城西",
+      "arrive_time": "18:57",
+      "depart_time": "18:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "茌平南",
+      "arrive_time": "19:13",
+      "depart_time": "19:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "济南",
+      "arrive_time": "19:43",
+      "depart_time": "19:47",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "淄博",
+      "arrive_time": "20:29",
+      "depart_time": "20:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "青州市",
+      "arrive_time": "20:50",
+      "depart_time": "20:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 16,
+      "station_name": "潍坊",
+      "arrive_time": "21:14",
+      "depart_time": "21:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 17,
+      "station_name": "高密",
+      "arrive_time": "21:44",
+      "depart_time": "21:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "即墨北",
+      "arrive_time": "22:15",
+      "depart_time": "22:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "烟台",
+      "arrive_time": "23:15",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2541.0,
+    "price_first": 1162.0,
+    "price_second": 725.0,
+    "price_no_seat": 725.0
+  },
+  "fetched_at": "2026-05-01T05:59:04.362331"
+}

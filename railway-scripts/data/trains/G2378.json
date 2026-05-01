@@ -1,0 +1,59 @@
+{
+  "train_no": "G2378",
+  "train_type": "G",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "清河",
+  "depart_time": "09:03",
+  "arrive_time": "11:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "09:03",
+      "depart_time": "09:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "卓资东",
+      "arrive_time": "09:28",
+      "depart_time": "09:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "张家口",
+      "arrive_time": "10:30",
+      "depart_time": "10:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "怀来",
+      "arrive_time": "10:56",
+      "depart_time": "10:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "八达岭长城",
+      "arrive_time": "11:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "清河",
+      "arrive_time": "11:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 627.0,
+    "price_first": 335.0,
+    "price_second": 209.0,
+    "price_no_seat": 209.0
+  },
+  "fetched_at": "2026-05-01T06:08:47.757613"
+}

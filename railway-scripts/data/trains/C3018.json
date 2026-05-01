@@ -1,0 +1,73 @@
+{
+  "train_no": "C3018",
+  "train_type": "C",
+  "depart_station": "上海南",
+  "arrive_station": "合肥南",
+  "depart_time": "16:27",
+  "arrive_time": "19:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海南",
+      "arrive_time": "16:27",
+      "depart_time": "16:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州南",
+      "arrive_time": "16:53",
+      "depart_time": "16:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "盛泽",
+      "arrive_time": "17:07",
+      "depart_time": "17:12",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "湖州东",
+      "arrive_time": "17:26",
+      "depart_time": "17:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "湖州",
+      "arrive_time": "17:40",
+      "depart_time": "17:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "溧阳",
+      "arrive_time": "18:07",
+      "depart_time": "18:12",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京南",
+      "arrive_time": "18:39",
+      "depart_time": "18:46",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "合肥南",
+      "arrive_time": "19:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 950.0,
+    "price_first": 444.0,
+    "price_second": 279.0,
+    "price_no_seat": 279.0
+  },
+  "fetched_at": "2026-05-01T00:48:47.064937"
+}

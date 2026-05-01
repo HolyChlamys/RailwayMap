@@ -1,0 +1,35 @@
+{
+  "train_no": "K9532",
+  "train_type": "K",
+  "depart_station": "重庆北",
+  "arrive_station": "开江",
+  "depart_time": "21:47",
+  "arrive_time": "00:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "21:47",
+      "depart_time": "21:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "达州",
+      "arrive_time": "00:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "开江",
+      "arrive_time": "00:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T10:46:41.940329"
+}

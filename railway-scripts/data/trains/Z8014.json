@@ -1,0 +1,35 @@
+{
+  "train_no": "Z8014",
+  "train_type": "Z",
+  "depart_station": "深圳东",
+  "arrive_station": "韶关东",
+  "depart_time": "15:50",
+  "arrive_time": "17:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳东",
+      "arrive_time": "15:50",
+      "depart_time": "15:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州北",
+      "arrive_time": "17:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "韶关东",
+      "arrive_time": "17:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 65.5
+  },
+  "fetched_at": "2026-05-01T11:51:49.186069"
+}

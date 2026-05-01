@@ -1,0 +1,38 @@
+{
+  "train_no": "C3213",
+  "train_type": "C",
+  "depart_station": "杭州东",
+  "arrive_station": "衢州",
+  "depart_time": "23:28",
+  "arrive_time": "00:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州东",
+      "arrive_time": "23:28",
+      "depart_time": "23:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金华",
+      "arrive_time": "00:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "衢州",
+      "arrive_time": "00:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 460.0,
+    "price_first": 210.0,
+    "price_second": 131.0,
+    "price_no_seat": 131.0
+  },
+  "fetched_at": "2026-05-01T00:54:09.978750"
+}

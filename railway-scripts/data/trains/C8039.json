@@ -1,0 +1,71 @@
+{
+  "train_no": "C8039",
+  "train_type": "C",
+  "depart_station": "邵阳",
+  "arrive_station": "永州",
+  "depart_time": "15:28",
+  "arrive_time": "18:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "邵阳",
+      "arrive_time": "15:28",
+      "depart_time": "15:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "邵东",
+      "arrive_time": "15:51",
+      "depart_time": "15:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杨桥",
+      "arrive_time": "16:11",
+      "depart_time": "16:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西渡",
+      "arrive_time": "16:35",
+      "depart_time": "16:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡阳东",
+      "arrive_time": "17:07",
+      "depart_time": "17:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "祁东",
+      "arrive_time": "17:48",
+      "depart_time": "17:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "祁阳",
+      "arrive_time": "18:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "永州",
+      "arrive_time": "18:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 101.5,
+    "price_no_seat": 101.5
+  },
+  "fetched_at": "2026-05-01T02:30:59.250730"
+}

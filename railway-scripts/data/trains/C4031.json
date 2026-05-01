@@ -1,0 +1,43 @@
+{
+  "train_no": "C4031",
+  "train_type": "C",
+  "depart_station": "达州",
+  "arrive_station": "重庆北",
+  "depart_time": "23:49",
+  "arrive_time": "01:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "达州",
+      "arrive_time": "23:49",
+      "depart_time": "23:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "渠县",
+      "arrive_time": "00:31",
+      "depart_time": "00:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广安",
+      "arrive_time": "01:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆北",
+      "arrive_time": "01:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 71.0,
+    "price_no_seat": 71.0
+  },
+  "fetched_at": "2026-05-01T01:06:35.496225"
+}

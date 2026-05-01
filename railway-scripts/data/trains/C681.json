@@ -1,0 +1,58 @@
+{
+  "train_no": "C681",
+  "train_type": "C",
+  "depart_station": "陇南",
+  "arrive_station": "兰州西",
+  "depart_time": "11:02",
+  "arrive_time": "14:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "陇南",
+      "arrive_time": "11:02",
+      "depart_time": "11:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "哈达铺",
+      "arrive_time": "12:01",
+      "depart_time": "12:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "岷县",
+      "arrive_time": "12:18",
+      "depart_time": "12:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "渭源",
+      "arrive_time": "12:58",
+      "depart_time": "12:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "兰州",
+      "arrive_time": "14:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "兰州西",
+      "arrive_time": "14:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 149.0,
+    "price_second": 93.0,
+    "price_no_seat": 93.0
+  },
+  "fetched_at": "2026-05-01T01:57:13.932128"
+}

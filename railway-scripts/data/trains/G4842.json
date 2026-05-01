@@ -1,0 +1,73 @@
+{
+  "train_no": "G4842",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "洛阳龙门",
+  "depart_time": "22:25",
+  "arrive_time": "06:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "22:25",
+      "depart_time": "22:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "22:54",
+      "depart_time": "22:57",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙南",
+      "arrive_time": "01:14",
+      "depart_time": "01:19",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "武汉",
+      "arrive_time": "02:38",
+      "depart_time": "02:43",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "许昌东",
+      "arrive_time": "04:40",
+      "depart_time": "04:56",
+      "stay_min": "16"
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州",
+      "arrive_time": "05:25",
+      "depart_time": "05:34",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "郑州西",
+      "arrive_time": "05:51",
+      "depart_time": "05:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "洛阳龙门",
+      "arrive_time": "06:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3073.0,
+    "price_first": 1420.0,
+    "price_second": 900.0,
+    "price_no_seat": 900.0
+  },
+  "fetched_at": "2026-05-01T07:17:28.994779"
+}

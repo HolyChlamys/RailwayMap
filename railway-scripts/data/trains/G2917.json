@@ -1,0 +1,80 @@
+{
+  "train_no": "G2917",
+  "train_type": "G",
+  "depart_station": "北海",
+  "arrive_station": "深圳北",
+  "depart_time": "18:31",
+  "arrive_time": "23:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北海",
+      "arrive_time": "18:31",
+      "depart_time": "18:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁东",
+      "arrive_time": "19:30",
+      "depart_time": "19:48",
+      "stay_min": "18"
+    },
+    {
+      "seq": 3,
+      "station_name": "贵港",
+      "arrive_time": "20:28",
+      "depart_time": "20:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "梧州南",
+      "arrive_time": "21:23",
+      "depart_time": "21:26",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "云浮东",
+      "arrive_time": "22:00",
+      "depart_time": "22:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "肇庆东",
+      "arrive_time": "22:22",
+      "depart_time": "22:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "佛山西",
+      "arrive_time": "22:43",
+      "depart_time": "22:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "23:04",
+      "depart_time": "23:09",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "深圳北",
+      "arrive_time": "23:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1380.5,
+    "price_first": 639.5,
+    "price_second": 411.5,
+    "price_no_seat": 411.5
+  },
+  "fetched_at": "2026-05-01T06:23:42.519383"
+}

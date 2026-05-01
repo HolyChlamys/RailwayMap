@@ -1,0 +1,43 @@
+{
+  "train_no": "C7733",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "江门",
+  "depart_time": "06:55",
+  "arrive_time": "07:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "06:55",
+      "depart_time": "06:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "小榄",
+      "arrive_time": "07:15",
+      "depart_time": "07:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "江门东",
+      "arrive_time": "07:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "江门",
+      "arrive_time": "07:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 57.0,
+    "price_no_seat": 57.0
+  },
+  "fetched_at": "2026-05-01T02:22:48.948462"
+}

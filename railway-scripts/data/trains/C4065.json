@@ -1,0 +1,80 @@
+{
+  "train_no": "C4065",
+  "train_type": "C",
+  "depart_station": "成都南",
+  "arrive_station": "西昌西",
+  "depart_time": "13:25",
+  "arrive_time": "16:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "13:25",
+      "depart_time": "13:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南充北",
+      "arrive_time": "03:17",
+      "depart_time": "03:22",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "夹江",
+      "arrive_time": "14:22",
+      "depart_time": "14:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "合川",
+      "arrive_time": "04:13",
+      "depart_time": "04:28",
+      "stay_min": "15"
+    },
+    {
+      "seq": 5,
+      "station_name": "甘洛南",
+      "arrive_time": "15:29",
+      "depart_time": "15:35",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "重庆西",
+      "arrive_time": "05:08",
+      "depart_time": "05:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "越西",
+      "arrive_time": "15:59",
+      "depart_time": "16:02",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "喜德西",
+      "arrive_time": "16:24",
+      "depart_time": "16:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "西昌西",
+      "arrive_time": "16:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 522.0,
+    "price_first": 239.0,
+    "price_second": 149.0,
+    "price_no_seat": 149.0
+  },
+  "fetched_at": "2026-05-01T01:07:38.292112"
+}

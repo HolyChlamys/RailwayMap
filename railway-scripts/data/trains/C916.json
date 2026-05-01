@@ -1,0 +1,52 @@
+{
+  "train_no": "C916",
+  "train_type": "C",
+  "depart_station": "西昌西",
+  "arrive_station": "成都南",
+  "depart_time": "13:16",
+  "arrive_time": "15:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西昌西",
+      "arrive_time": "13:16",
+      "depart_time": "13:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金口河南",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "峨边南",
+      "arrive_time": "14:56",
+      "depart_time": "14:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "眉山",
+      "arrive_time": "15:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "成都南",
+      "arrive_time": "15:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 522.0,
+    "price_first": 239.0,
+    "price_second": 149.0,
+    "price_no_seat": 149.0
+  },
+  "fetched_at": "2026-05-01T02:41:26.066716"
+}

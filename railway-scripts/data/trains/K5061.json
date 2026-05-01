@@ -1,0 +1,28 @@
+{
+  "train_no": "K5061",
+  "train_type": "K",
+  "depart_station": "阜新南",
+  "arrive_station": "沈阳",
+  "depart_time": "22:20",
+  "arrive_time": "22:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜新南",
+      "arrive_time": "22:20",
+      "depart_time": "22:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳",
+      "arrive_time": "22:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T10:03:00.557986"
+}

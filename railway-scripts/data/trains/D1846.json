@@ -1,0 +1,128 @@
+{
+  "train_no": "D1846",
+  "train_type": "D",
+  "depart_station": "广州南",
+  "arrive_station": "六盘水",
+  "depart_time": "07:04",
+  "arrive_time": "14:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "07:04",
+      "depart_time": "07:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "07:22",
+      "depart_time": "07:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "肇庆东",
+      "arrive_time": "07:44",
+      "depart_time": "07:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "贺州",
+      "arrive_time": "08:37",
+      "depart_time": "08:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "恭城",
+      "arrive_time": "09:07",
+      "depart_time": "09:18",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "阳朔",
+      "arrive_time": "09:32",
+      "depart_time": "09:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "桂林西",
+      "arrive_time": "09:59",
+      "depart_time": "10:03",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "三江南",
+      "arrive_time": "10:35",
+      "depart_time": "10:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "从江",
+      "arrive_time": "10:59",
+      "depart_time": "11:09",
+      "stay_min": "10"
+    },
+    {
+      "seq": 10,
+      "station_name": "龙里北",
+      "arrive_time": "12:17",
+      "depart_time": "12:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "贵阳北",
+      "arrive_time": "12:44",
+      "depart_time": "13:04",
+      "stay_min": "20"
+    },
+    {
+      "seq": 12,
+      "station_name": "平坝南",
+      "arrive_time": "13:24",
+      "depart_time": "13:31",
+      "stay_min": "7"
+    },
+    {
+      "seq": 13,
+      "station_name": "安顺西",
+      "arrive_time": "13:46",
+      "depart_time": "13:50",
+      "stay_min": "4"
+    },
+    {
+      "seq": 14,
+      "station_name": "黄桶北",
+      "arrive_time": "14:03",
+      "depart_time": "14:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "六枝南",
+      "arrive_time": "14:20",
+      "depart_time": "14:23",
+      "stay_min": "3"
+    },
+    {
+      "seq": 16,
+      "station_name": "六盘水",
+      "arrive_time": "14:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 721.0,
+    "price_second": 450.0,
+    "price_no_seat": 450.0
+  },
+  "fetched_at": "2026-05-01T03:06:07.380056"
+}

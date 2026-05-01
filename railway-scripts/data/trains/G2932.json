@@ -1,0 +1,94 @@
+{
+  "train_no": "G2932",
+  "train_type": "G",
+  "depart_station": "汕头",
+  "arrive_station": "桂林北",
+  "depart_time": "13:11",
+  "arrive_time": "18:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "13:11",
+      "depart_time": "13:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "13:34",
+      "depart_time": "13:37",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "普宁",
+      "arrive_time": "13:54",
+      "depart_time": "13:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "陆丰",
+      "arrive_time": "14:16",
+      "depart_time": "14:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "15:18",
+      "depart_time": "15:26",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "虎门",
+      "arrive_time": "15:43",
+      "depart_time": "15:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "广州南",
+      "arrive_time": "16:02",
+      "depart_time": "16:05",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "三水南",
+      "arrive_time": "16:32",
+      "depart_time": "16:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "广宁",
+      "arrive_time": "16:58",
+      "depart_time": "17:01",
+      "stay_min": "3"
+    },
+    {
+      "seq": 10,
+      "station_name": "恭城",
+      "arrive_time": "17:55",
+      "depart_time": "18:01",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "桂林北",
+      "arrive_time": "18:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1545.5,
+    "price_first": 714.5,
+    "price_second": 458.5,
+    "price_no_seat": 458.5
+  },
+  "fetched_at": "2026-05-01T06:24:07.361646"
+}

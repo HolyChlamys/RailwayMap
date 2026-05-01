@@ -1,0 +1,73 @@
+{
+  "train_no": "G5292",
+  "train_type": "G",
+  "depart_station": "烟台",
+  "arrive_station": "临沂北",
+  "depart_time": "19:43",
+  "arrive_time": "23:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "烟台",
+      "arrive_time": "19:43",
+      "depart_time": "19:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海阳北",
+      "arrive_time": "20:13",
+      "depart_time": "20:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊北",
+      "arrive_time": "21:01",
+      "depart_time": "21:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博北",
+      "arrive_time": "21:32",
+      "depart_time": "21:34",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "济南东",
+      "arrive_time": "21:57",
+      "depart_time": "21:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南西",
+      "arrive_time": "22:22",
+      "depart_time": "22:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "曲阜东",
+      "arrive_time": "22:56",
+      "depart_time": "22:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "临沂北",
+      "arrive_time": "23:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1182.0,
+    "price_first": 582.0,
+    "price_second": 364.0,
+    "price_no_seat": 364.0
+  },
+  "fetched_at": "2026-05-01T07:30:25.480709"
+}

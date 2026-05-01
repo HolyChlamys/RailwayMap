@@ -1,0 +1,44 @@
+{
+  "train_no": "D1092",
+  "train_type": "D",
+  "depart_station": "乌兰察布",
+  "arrive_station": "清河",
+  "depart_time": "13:33",
+  "arrive_time": "14:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌兰察布",
+      "arrive_time": "13:33",
+      "depart_time": "13:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴和北",
+      "arrive_time": "14:01",
+      "depart_time": "14:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "张家口",
+      "arrive_time": "14:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "清河",
+      "arrive_time": "14:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 232.0,
+    "price_second": 144.0,
+    "price_no_seat": 144.0
+  },
+  "fetched_at": "2026-05-01T02:57:32.846469"
+}

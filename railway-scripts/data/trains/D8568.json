@@ -1,0 +1,38 @@
+{
+  "train_no": "D8568",
+  "train_type": "D",
+  "depart_station": "贵阳北",
+  "arrive_station": "遵义",
+  "depart_time": "12:41",
+  "arrive_time": "13:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "12:41",
+      "depart_time": "12:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "息烽",
+      "arrive_time": "13:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "遵义",
+      "arrive_time": "13:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 151.0,
+    "price_first": 81.0,
+    "price_second": 50.0,
+    "price_no_seat": 50.0
+  },
+  "fetched_at": "2026-05-01T04:59:47.470115"
+}

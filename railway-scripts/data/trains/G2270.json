@@ -1,0 +1,87 @@
+{
+  "train_no": "G2270",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "深圳北",
+  "depart_time": "07:29",
+  "arrive_time": "13:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "07:29",
+      "depart_time": "07:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "萍乡北",
+      "arrive_time": "07:56",
+      "depart_time": "07:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌西",
+      "arrive_time": "08:55",
+      "depart_time": "09:04",
+      "stay_min": "9"
+    },
+    {
+      "seq": 4,
+      "station_name": "吉水西",
+      "arrive_time": "09:55",
+      "depart_time": "09:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "万安县",
+      "arrive_time": "10:21",
+      "depart_time": "10:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "赣县北",
+      "arrive_time": "10:46",
+      "depart_time": "10:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "赣州西",
+      "arrive_time": "11:02",
+      "depart_time": "11:07",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "和平北",
+      "arrive_time": "11:46",
+      "depart_time": "11:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "东莞南",
+      "arrive_time": "12:43",
+      "depart_time": "12:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "深圳北",
+      "arrive_time": "13:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2251.0,
+    "price_first": 1077.0,
+    "price_second": 673.0,
+    "price_no_seat": 673.0
+  },
+  "fetched_at": "2026-05-01T06:06:05.505562"
+}

@@ -1,0 +1,36 @@
+{
+  "train_no": "C6879",
+  "train_type": "C",
+  "depart_station": "广州  白云",
+  "arrive_station": "清城",
+  "depart_time": "13:41",
+  "arrive_time": "13:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州  白云",
+      "arrive_time": "13:41",
+      "depart_time": "13:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "花都",
+      "arrive_time": "13:59",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "清城",
+      "arrive_time": "13:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 38.0,
+    "price_no_seat": 38.0
+  },
+  "fetched_at": "2026-05-01T01:59:13.444795"
+}

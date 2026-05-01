@@ -1,0 +1,42 @@
+{
+  "train_no": "T8702",
+  "train_type": "T",
+  "depart_station": "凭祥",
+  "arrive_station": "南宁",
+  "depart_time": "06:05",
+  "arrive_time": "08:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "凭祥",
+      "arrive_time": "06:05",
+      "depart_time": "06:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁明",
+      "arrive_time": "06:53",
+      "depart_time": "06:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "崇左",
+      "arrive_time": "08:01",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁",
+      "arrive_time": "08:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T11:27:52.755817"
+}

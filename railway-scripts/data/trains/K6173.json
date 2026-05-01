@@ -1,0 +1,56 @@
+{
+  "train_no": "K6173",
+  "train_type": "K",
+  "depart_station": "武昌",
+  "arrive_station": "襄阳",
+  "depart_time": "00:49",
+  "arrive_time": "04:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "00:49",
+      "depart_time": "00:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "云梦",
+      "arrive_time": "01:56",
+      "depart_time": "01:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "安陆",
+      "arrive_time": "02:16",
+      "depart_time": "02:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "随州",
+      "arrive_time": "02:55",
+      "depart_time": "03:06",
+      "stay_min": "11"
+    },
+    {
+      "seq": 5,
+      "station_name": "枣阳",
+      "arrive_time": "03:56",
+      "depart_time": "03:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "襄阳",
+      "arrive_time": "04:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 50.5
+  },
+  "fetched_at": "2026-05-01T10:19:19.275883"
+}

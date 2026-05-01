@@ -1,0 +1,92 @@
+{
+  "train_no": "S8050",
+  "train_type": "S",
+  "depart_station": "美兰",
+  "arrive_station": "海口",
+  "depart_time": "21:36",
+  "arrive_time": "22:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "美兰",
+      "arrive_time": "21:36",
+      "depart_time": "21:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长流",
+      "arrive_time": "08:19",
+      "depart_time": "08:20",
+      "stay_min": "1"
+    },
+    {
+      "seq": 3,
+      "station_name": "海口东",
+      "arrive_time": "21:45",
+      "depart_time": "21:48",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "城西",
+      "arrive_time": "21:51",
+      "depart_time": "21:52",
+      "stay_min": "1"
+    },
+    {
+      "seq": 5,
+      "station_name": "秀英",
+      "arrive_time": "08:26",
+      "depart_time": "08:27",
+      "stay_min": "1"
+    },
+    {
+      "seq": 6,
+      "station_name": "城西",
+      "arrive_time": "08:32",
+      "depart_time": "08:33",
+      "stay_min": "1"
+    },
+    {
+      "seq": 7,
+      "station_name": "秀英",
+      "arrive_time": "21:57",
+      "depart_time": "21:58",
+      "stay_min": "1"
+    },
+    {
+      "seq": 8,
+      "station_name": "海口东",
+      "arrive_time": "08:36",
+      "depart_time": "08:37",
+      "stay_min": "1"
+    },
+    {
+      "seq": 9,
+      "station_name": "长流",
+      "arrive_time": "22:04",
+      "depart_time": "22:05",
+      "stay_min": "1"
+    },
+    {
+      "seq": 10,
+      "station_name": "美兰",
+      "arrive_time": "08:47",
+      "depart_time": "08:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 11,
+      "station_name": "海口",
+      "arrive_time": "22:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 13.0,
+    "price_no_seat": 13.0
+  },
+  "fetched_at": "2026-05-01T11:17:21.055274"
+}

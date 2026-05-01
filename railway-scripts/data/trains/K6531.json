@@ -1,0 +1,56 @@
+{
+  "train_no": "K6531",
+  "train_type": "K",
+  "depart_station": "坪石",
+  "arrive_station": "广州白云",
+  "depart_time": "14:13",
+  "arrive_time": "17:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "坪石",
+      "arrive_time": "14:13",
+      "depart_time": "14:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乐昌",
+      "arrive_time": "14:45",
+      "depart_time": "14:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "韶关东",
+      "arrive_time": "15:23",
+      "depart_time": "15:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "英德",
+      "arrive_time": "16:19",
+      "depart_time": "16:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "源潭",
+      "arrive_time": "17:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "广州白云",
+      "arrive_time": "17:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 46.5
+  },
+  "fetched_at": "2026-05-01T10:21:54.125279"
+}

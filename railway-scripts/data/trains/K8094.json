@@ -1,0 +1,56 @@
+{
+  "train_no": "K8094",
+  "train_type": "K",
+  "depart_station": "荆门",
+  "arrive_station": "武昌",
+  "depart_time": "11:05",
+  "arrive_time": "15:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荆门",
+      "arrive_time": "11:05",
+      "depart_time": "11:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "钟祥",
+      "arrive_time": "11:54",
+      "depart_time": "12:06",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "京山",
+      "arrive_time": "12:56",
+      "depart_time": "13:02",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "天门北",
+      "arrive_time": "13:24",
+      "depart_time": "13:28",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "应城",
+      "arrive_time": "13:50",
+      "depart_time": "13:58",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "武昌",
+      "arrive_time": "15:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:35:17.004739"
+}

@@ -1,0 +1,80 @@
+{
+  "train_no": "G106",
+  "train_type": "G",
+  "depart_station": "七台河西",
+  "arrive_station": "北京朝阳",
+  "depart_time": "06:49",
+  "arrive_time": "11:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "七台河西",
+      "arrive_time": "06:49",
+      "depart_time": "06:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鸡西西",
+      "arrive_time": "07:11",
+      "depart_time": "07:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "牡丹江",
+      "arrive_time": "07:58",
+      "depart_time": "07:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "阿城北",
+      "arrive_time": "09:10",
+      "depart_time": "09:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "哈尔滨",
+      "arrive_time": "09:38",
+      "depart_time": "09:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "哈尔滨西",
+      "arrive_time": "09:52",
+      "depart_time": "09:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长春西",
+      "arrive_time": "10:50",
+      "depart_time": "10:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "沈阳北",
+      "arrive_time": "11:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "北京朝阳",
+      "arrive_time": "11:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3009.0,
+    "price_first": 1402.0,
+    "price_second": 875.0,
+    "price_no_seat": 875.0
+  },
+  "fetched_at": "2026-05-01T05:31:48.446912"
+}

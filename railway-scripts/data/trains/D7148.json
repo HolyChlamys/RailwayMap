@@ -1,0 +1,86 @@
+{
+  "train_no": "D7148",
+  "train_type": "D",
+  "depart_station": "广州东",
+  "arrive_station": "汕头",
+  "depart_time": "06:33",
+  "arrive_time": "09:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "06:33",
+      "depart_time": "06:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "06:56",
+      "depart_time": "06:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "惠州南",
+      "arrive_time": "07:28",
+      "depart_time": "07:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "惠东",
+      "arrive_time": "07:42",
+      "depart_time": "07:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "汕尾",
+      "arrive_time": "08:09",
+      "depart_time": "08:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "陆丰",
+      "arrive_time": "08:24",
+      "depart_time": "08:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "潮阳",
+      "arrive_time": "08:52",
+      "depart_time": "08:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "潮汕",
+      "arrive_time": "09:08",
+      "depart_time": "09:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "潮安",
+      "arrive_time": "09:23",
+      "depart_time": "09:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "汕头",
+      "arrive_time": "09:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 376.0,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T04:34:26.070998"
+}

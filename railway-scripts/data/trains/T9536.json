@@ -1,0 +1,33 @@
+{
+  "train_no": "T9536",
+  "train_type": "T",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "阿克苏",
+  "depart_time": "21:48",
+  "arrive_time": "09:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "21:48",
+      "depart_time": "21:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "库车",
+      "arrive_time": "06:42",
+      "depart_time": "06:50",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "阿克苏",
+      "arrive_time": "09:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:28:46.441968"
+}

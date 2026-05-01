@@ -1,0 +1,65 @@
+{
+  "train_no": "D2891",
+  "train_type": "D",
+  "depart_station": "武汉",
+  "arrive_station": "太湖南",
+  "depart_time": "19:23",
+  "arrive_time": "19:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "19:23",
+      "depart_time": "19:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "葛店南",
+      "arrive_time": "19:39",
+      "depart_time": "19:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "蕲春南",
+      "arrive_time": "20:16",
+      "depart_time": "20:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "武穴北",
+      "arrive_time": "20:31",
+      "depart_time": "20:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "黄梅东",
+      "arrive_time": "20:46",
+      "depart_time": "20:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黄梅东",
+      "arrive_time": "19:10",
+      "depart_time": "19:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "太湖南",
+      "arrive_time": "19:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 141.0,
+    "price_second": 88.0,
+    "price_no_seat": 88.0
+  },
+  "fetched_at": "2026-05-01T03:25:13.387658"
+}

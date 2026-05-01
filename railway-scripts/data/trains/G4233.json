@@ -1,0 +1,73 @@
+{
+  "train_no": "G4233",
+  "train_type": "G",
+  "depart_station": "郑州东",
+  "arrive_station": "广州南",
+  "depart_time": "06:46",
+  "arrive_time": "12:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "06:46",
+      "depart_time": "06:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "许昌东",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武汉",
+      "arrive_time": "09:05",
+      "depart_time": "09:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "长沙南",
+      "arrive_time": "10:29",
+      "depart_time": "10:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡阳东",
+      "arrive_time": "11:08",
+      "depart_time": "11:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "郴州西",
+      "arrive_time": "11:43",
+      "depart_time": "11:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "韶关",
+      "arrive_time": "12:20",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "广州南",
+      "arrive_time": "12:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2740.0,
+    "price_first": 1253.0,
+    "price_second": 783.0,
+    "price_no_seat": 783.0
+  },
+  "fetched_at": "2026-05-01T06:59:39.828985"
+}

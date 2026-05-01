@@ -1,0 +1,38 @@
+{
+  "train_no": "S5549",
+  "train_type": "S",
+  "depart_station": "万州北",
+  "arrive_station": "重庆北",
+  "depart_time": "20:14",
+  "arrive_time": "20:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "万州北",
+      "arrive_time": "20:14",
+      "depart_time": "20:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "梁平南",
+      "arrive_time": "20:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "20:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 411.0,
+    "price_first": 188.0,
+    "price_second": 117.0,
+    "price_no_seat": 117.0
+  },
+  "fetched_at": "2026-05-01T11:08:36.753428"
+}

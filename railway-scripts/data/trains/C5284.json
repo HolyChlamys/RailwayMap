@@ -1,0 +1,101 @@
+{
+  "train_no": "C5284",
+  "train_type": "C",
+  "depart_station": "厦门北",
+  "arrive_station": "南昌西",
+  "depart_time": "12:46",
+  "arrive_time": "17:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "厦门北",
+      "arrive_time": "12:46",
+      "depart_time": "12:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "13:05",
+      "depart_time": "13:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "南靖",
+      "arrive_time": "13:23",
+      "depart_time": "13:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "延平",
+      "arrive_time": "21:34",
+      "depart_time": "21:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "龙岩",
+      "arrive_time": "13:57",
+      "depart_time": "14:02",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "三明北",
+      "arrive_time": "21:59",
+      "depart_time": "22:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "冠豸山南",
+      "arrive_time": "14:31",
+      "depart_time": "14:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "长汀南",
+      "arrive_time": "14:51",
+      "depart_time": "14:53",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "龙岩",
+      "arrive_time": "23:09",
+      "depart_time": "23:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "吉安西",
+      "arrive_time": "16:18",
+      "depart_time": "16:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "新干东",
+      "arrive_time": "16:42",
+      "depart_time": "16:53",
+      "stay_min": "11"
+    },
+    {
+      "seq": 12,
+      "station_name": "南昌西",
+      "arrive_time": "17:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1043.5,
+    "price_first": 549.0,
+    "price_second": 343.0,
+    "price_no_seat": 343.0
+  },
+  "fetched_at": "2026-05-01T01:31:58.832464"
+}

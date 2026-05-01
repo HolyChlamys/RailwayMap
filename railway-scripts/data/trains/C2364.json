@@ -1,0 +1,80 @@
+{
+  "train_no": "C2364",
+  "train_type": "C",
+  "depart_station": "合肥南",
+  "arrive_station": "杭州西",
+  "depart_time": "09:39",
+  "arrive_time": "13:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "09:39",
+      "depart_time": "09:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "舒城东",
+      "arrive_time": "09:58",
+      "depart_time": "10:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "庐江西",
+      "arrive_time": "10:12",
+      "depart_time": "10:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "安庆",
+      "arrive_time": "10:46",
+      "depart_time": "10:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "池州",
+      "arrive_time": "11:06",
+      "depart_time": "11:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "九华山",
+      "arrive_time": "11:22",
+      "depart_time": "11:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "黟县东",
+      "arrive_time": "11:50",
+      "depart_time": "11:52",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "黄山北",
+      "arrive_time": "12:04",
+      "depart_time": "12:08",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "杭州西",
+      "arrive_time": "13:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1097.0,
+    "price_first": 520.0,
+    "price_second": 325.0,
+    "price_no_seat": 325.0
+  },
+  "fetched_at": "2026-05-01T00:37:09.637478"
+}

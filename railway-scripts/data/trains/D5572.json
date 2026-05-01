@@ -1,0 +1,52 @@
+{
+  "train_no": "D5572",
+  "train_type": "D",
+  "depart_station": "千岛湖",
+  "arrive_station": "杭州东",
+  "depart_time": "19:59",
+  "arrive_time": "20:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "千岛湖",
+      "arrive_time": "19:59",
+      "depart_time": "19:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "建德",
+      "arrive_time": "20:18",
+      "depart_time": "20:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桐庐",
+      "arrive_time": "20:39",
+      "depart_time": "20:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "富阳",
+      "arrive_time": "20:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "杭州东",
+      "arrive_time": "20:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 210.0,
+    "price_first": 110.0,
+    "price_second": 68.0,
+    "price_no_seat": 68.0
+  },
+  "fetched_at": "2026-05-01T04:08:53.023980"
+}

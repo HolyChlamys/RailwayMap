@@ -1,0 +1,86 @@
+{
+  "train_no": "D83",
+  "train_type": "D",
+  "depart_station": "昆明",
+  "arrive_station": "万象",
+  "depart_time": "10:55",
+  "arrive_time": "20:59",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "10:55",
+      "depart_time": "10:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆明南",
+      "arrive_time": "11:14",
+      "depart_time": "11:20",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "普洱",
+      "arrive_time": "13:42",
+      "depart_time": "13:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "西双版纳",
+      "arrive_time": "14:30",
+      "depart_time": "14:36",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "磨憨",
+      "arrive_time": "15:50",
+      "depart_time": "16:42",
+      "stay_min": "52"
+    },
+    {
+      "seq": 6,
+      "station_name": "磨丁",
+      "arrive_time": "16:54",
+      "depart_time": "17:44",
+      "stay_min": "50"
+    },
+    {
+      "seq": 7,
+      "station_name": "孟赛",
+      "arrive_time": "18:15",
+      "depart_time": "18:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "琅勃拉邦",
+      "arrive_time": "19:07",
+      "depart_time": "19:11",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "万荣",
+      "arrive_time": "20:02",
+      "depart_time": "20:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "万象",
+      "arrive_time": "20:59",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 881.0,
+    "price_second": 552.0,
+    "price_no_seat": 552.0
+  },
+  "fetched_at": "2026-05-01T04:53:37.488613"
+}

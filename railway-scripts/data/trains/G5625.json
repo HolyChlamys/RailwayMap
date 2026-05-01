@@ -1,0 +1,37 @@
+{
+  "train_no": "G5625",
+  "train_type": "G",
+  "depart_station": "深圳北",
+  "arrive_station": "香港西九龙",
+  "depart_time": "07:35",
+  "arrive_time": "07:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "07:35",
+      "depart_time": "07:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福田",
+      "arrive_time": "07:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "香港西九龙",
+      "arrive_time": "07:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 120.0,
+    "price_second": 75.0,
+    "price_no_seat": 75.0
+  },
+  "fetched_at": "2026-05-01T07:38:53.001303"
+}

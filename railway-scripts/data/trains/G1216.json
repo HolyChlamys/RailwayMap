@@ -1,0 +1,192 @@
+{
+  "train_no": "G1216",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "沈阳",
+  "depart_time": "08:00",
+  "arrive_time": "21:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "岳阳东",
+      "arrive_time": "08:34",
+      "depart_time": "08:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "武汉",
+      "arrive_time": "09:28",
+      "depart_time": "09:37",
+      "stay_min": "9"
+    },
+    {
+      "seq": 4,
+      "station_name": "信阳东",
+      "arrive_time": "10:20",
+      "depart_time": "10:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "许昌东",
+      "arrive_time": "11:13",
+      "depart_time": "11:16",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州东",
+      "arrive_time": "11:39",
+      "depart_time": "11:43",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "鹤壁东",
+      "arrive_time": "12:15",
+      "depart_time": "12:18",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "安阳东",
+      "arrive_time": "12:32",
+      "depart_time": "12:53",
+      "stay_min": "21"
+    },
+    {
+      "seq": 9,
+      "station_name": "邢台东",
+      "arrive_time": "13:25",
+      "depart_time": "13:29",
+      "stay_min": "4"
+    },
+    {
+      "seq": 10,
+      "station_name": "石家庄",
+      "arrive_time": "13:56",
+      "depart_time": "13:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "保定东",
+      "arrive_time": "14:34",
+      "depart_time": "14:36",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "白沟",
+      "arrive_time": "14:58",
+      "depart_time": "15:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "霸州西",
+      "arrive_time": "15:11",
+      "depart_time": "15:20",
+      "stay_min": "9"
+    },
+    {
+      "seq": 14,
+      "station_name": "胜芳",
+      "arrive_time": "15:36",
+      "depart_time": "15:39",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "天津西",
+      "arrive_time": "15:55",
+      "depart_time": "16:00",
+      "stay_min": "5"
+    },
+    {
+      "seq": 16,
+      "station_name": "唐山",
+      "arrive_time": "16:37",
+      "depart_time": "16:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 17,
+      "station_name": "滦河",
+      "arrive_time": "16:57",
+      "depart_time": "16:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "北戴河",
+      "arrive_time": "17:19",
+      "depart_time": "17:32",
+      "stay_min": "13"
+    },
+    {
+      "seq": 19,
+      "station_name": "秦皇岛",
+      "arrive_time": "17:43",
+      "depart_time": "18:02",
+      "stay_min": "19"
+    },
+    {
+      "seq": 20,
+      "station_name": "山海关",
+      "arrive_time": "18:17",
+      "depart_time": "18:20",
+      "stay_min": "3"
+    },
+    {
+      "seq": 21,
+      "station_name": "锦州南",
+      "arrive_time": "19:15",
+      "depart_time": "19:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 22,
+      "station_name": "盘锦",
+      "arrive_time": "19:51",
+      "depart_time": "19:58",
+      "stay_min": "7"
+    },
+    {
+      "seq": 23,
+      "station_name": "鞍山西",
+      "arrive_time": "20:28",
+      "depart_time": "20:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 24,
+      "station_name": "辽阳",
+      "arrive_time": "20:41",
+      "depart_time": "20:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 25,
+      "station_name": "沈阳",
+      "arrive_time": "21:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3897.0,
+    "price_first": 1809.5,
+    "price_second": 1131.0,
+    "price_no_seat": 1131.0
+  },
+  "fetched_at": "2026-05-01T05:36:26.833521"
+}

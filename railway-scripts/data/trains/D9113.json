@@ -1,0 +1,45 @@
+{
+  "train_no": "D9113",
+  "train_type": "D",
+  "depart_station": "大理",
+  "arrive_station": "昆明南",
+  "depart_time": "23:00",
+  "arrive_time": "01:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "23:00",
+      "depart_time": "23:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广通北",
+      "arrive_time": "23:24",
+      "depart_time": "23:28",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "00:59",
+      "depart_time": "01:03",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明南",
+      "arrive_time": "01:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 433.0,
+    "price_first": 231.0,
+    "price_second": 145.0,
+    "price_no_seat": 145.0
+  },
+  "fetched_at": "2026-05-01T05:07:28.400004"
+}

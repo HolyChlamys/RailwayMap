@@ -1,0 +1,66 @@
+{
+  "train_no": "C3653",
+  "train_type": "C",
+  "depart_station": "上海",
+  "arrive_station": "芜湖",
+  "depart_time": "09:21",
+  "arrive_time": "12:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "09:21",
+      "depart_time": "09:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "太仓",
+      "arrive_time": "09:58",
+      "depart_time": "10:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "张家港",
+      "arrive_time": "10:20",
+      "depart_time": "10:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "江阴",
+      "arrive_time": "10:36",
+      "depart_time": "10:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "武进",
+      "arrive_time": "10:52",
+      "depart_time": "10:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "11:29",
+      "depart_time": "11:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "芜湖",
+      "arrive_time": "12:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 735.5,
+    "price_first": 340.0,
+    "price_second": 213.5,
+    "price_no_seat": 213.5
+  },
+  "fetched_at": "2026-05-01T01:01:52.155200"
+}

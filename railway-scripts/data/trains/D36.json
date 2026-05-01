@@ -1,0 +1,57 @@
+{
+  "train_no": "D36",
+  "train_type": "D",
+  "depart_station": "广州白云",
+  "arrive_station": "北京西",
+  "depart_time": "16:00",
+  "arrive_time": "08:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "16:00",
+      "depart_time": "16:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长沙",
+      "arrive_time": "23:30",
+      "depart_time": "23:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武昌",
+      "arrive_time": "02:57",
+      "depart_time": "02:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州",
+      "arrive_time": "07:46",
+      "depart_time": "07:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "新乡",
+      "arrive_time": "08:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "北京西",
+      "arrive_time": "08:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 706.0,
+    "price_no_seat": 706.0
+  },
+  "fetched_at": "2026-05-01T03:35:18.972101"
+}

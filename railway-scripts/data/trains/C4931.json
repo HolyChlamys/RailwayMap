@@ -1,0 +1,78 @@
+{
+  "train_no": "C4931",
+  "train_type": "C",
+  "depart_station": "花都",
+  "arrive_station": "飞霞",
+  "depart_time": "23:05",
+  "arrive_time": "23:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "花都",
+      "arrive_time": "23:05",
+      "depart_time": "23:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乐同",
+      "arrive_time": "23:11",
+      "depart_time": "23:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "狮岭",
+      "arrive_time": "23:17",
+      "depart_time": "23:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "银盏",
+      "arrive_time": "23:25",
+      "depart_time": "23:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "龙塘镇",
+      "arrive_time": "23:32",
+      "depart_time": "23:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "清城",
+      "arrive_time": "23:39",
+      "depart_time": "23:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "燕湖",
+      "arrive_time": "23:44",
+      "depart_time": "23:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "洲心",
+      "arrive_time": "23:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "飞霞",
+      "arrive_time": "23:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 36.0,
+    "price_no_seat": 36.0
+  },
+  "fetched_at": "2026-05-01T01:22:04.503915"
+}

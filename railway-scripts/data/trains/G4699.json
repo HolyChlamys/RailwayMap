@@ -1,0 +1,51 @@
+{
+  "train_no": "G4699",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "广州南",
+  "depart_time": "21:23",
+  "arrive_time": "00:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "21:23",
+      "depart_time": "21:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "自贡",
+      "arrive_time": "22:21",
+      "depart_time": "22:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "宜宾",
+      "arrive_time": "22:52",
+      "depart_time": "22:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳东",
+      "arrive_time": "00:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "广州南",
+      "arrive_time": "00:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1223.0,
+    "price_second": 765.0,
+    "price_no_seat": 765.0
+  },
+  "fetched_at": "2026-05-01T07:13:02.908083"
+}

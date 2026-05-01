@@ -1,0 +1,31 @@
+{
+  "train_no": "C40",
+  "train_type": "C",
+  "depart_station": "成都东",
+  "arrive_station": "遂宁",
+  "depart_time": "00:08",
+  "arrive_time": "00:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "00:08",
+      "depart_time": "00:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "遂宁",
+      "arrive_time": "00:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 336.0,
+    "price_first": 153.0,
+    "price_second": 96.0,
+    "price_no_seat": 96.0
+  },
+  "fetched_at": "2026-05-01T01:06:07.398761"
+}

@@ -1,0 +1,63 @@
+{
+  "train_no": "K5138",
+  "train_type": "K",
+  "depart_station": "满洲里",
+  "arrive_station": "哈尔滨",
+  "depart_time": "22:53",
+  "arrive_time": "09:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "满洲里",
+      "arrive_time": "22:53",
+      "depart_time": "22:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "海拉尔",
+      "arrive_time": "00:55",
+      "depart_time": "00:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "扎兰屯",
+      "arrive_time": "05:15",
+      "depart_time": "05:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "昂昂溪",
+      "arrive_time": "07:06",
+      "depart_time": "07:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "大庆西",
+      "arrive_time": "08:22",
+      "depart_time": "08:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "肇东",
+      "arrive_time": "09:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "哈尔滨",
+      "arrive_time": "09:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 119.0
+  },
+  "fetched_at": "2026-05-01T10:04:42.686568"
+}

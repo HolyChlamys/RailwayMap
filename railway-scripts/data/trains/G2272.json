@@ -1,0 +1,87 @@
+{
+  "train_no": "G2272",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "贵阳北",
+  "depart_time": "12:55",
+  "arrive_time": "17:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "12:55",
+      "depart_time": "12:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "三水南",
+      "arrive_time": "13:26",
+      "depart_time": "13:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "肇庆东",
+      "arrive_time": "13:39",
+      "depart_time": "13:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贺州",
+      "arrive_time": "14:31",
+      "depart_time": "14:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "恭城",
+      "arrive_time": "15:03",
+      "depart_time": "15:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "桂林西",
+      "arrive_time": "15:35",
+      "depart_time": "15:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "榕江",
+      "arrive_time": "16:29",
+      "depart_time": "16:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "都匀东",
+      "arrive_time": "16:59",
+      "depart_time": "16:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "贵阳",
+      "arrive_time": "17:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "贵阳北",
+      "arrive_time": "17:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1490.0,
+    "price_first": 684.0,
+    "price_second": 427.0,
+    "price_no_seat": 427.0
+  },
+  "fetched_at": "2026-05-01T06:06:08.792377"
+}

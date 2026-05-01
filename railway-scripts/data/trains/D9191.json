@@ -1,0 +1,30 @@
+{
+  "train_no": "D9191",
+  "train_type": "D",
+  "depart_station": "三明北",
+  "arrive_station": "厦门北",
+  "depart_time": "23:38",
+  "arrive_time": "23:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "三明北",
+      "arrive_time": "23:38",
+      "depart_time": "23:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "厦门北",
+      "arrive_time": "23:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 215.0,
+    "price_second": 135.0,
+    "price_no_seat": 135.0
+  },
+  "fetched_at": "2026-05-01T05:09:38.140145"
+}

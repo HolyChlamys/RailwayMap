@@ -1,0 +1,56 @@
+{
+  "train_no": "K5395",
+  "train_type": "K",
+  "depart_station": "荆门",
+  "arrive_station": "武昌",
+  "depart_time": "10:20",
+  "arrive_time": "14:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "荆门",
+      "arrive_time": "10:20",
+      "depart_time": "10:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "钟祥",
+      "arrive_time": "10:57",
+      "depart_time": "11:05",
+      "stay_min": "8"
+    },
+    {
+      "seq": 3,
+      "station_name": "京山",
+      "arrive_time": "11:48",
+      "depart_time": "11:54",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "天门北",
+      "arrive_time": "12:27",
+      "depart_time": "12:39",
+      "stay_min": "12"
+    },
+    {
+      "seq": 5,
+      "station_name": "应城",
+      "arrive_time": "13:01",
+      "depart_time": "13:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "武昌",
+      "arrive_time": "14:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 40.5
+  },
+  "fetched_at": "2026-05-01T10:09:25.049843"
+}

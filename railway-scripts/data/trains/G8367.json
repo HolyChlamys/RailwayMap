@@ -1,0 +1,59 @@
+{
+  "train_no": "G8367",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "连云港",
+  "depart_time": "06:17",
+  "arrive_time": "09:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "06:17",
+      "depart_time": "06:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南京南",
+      "arrive_time": "07:09",
+      "depart_time": "07:13",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "镇江",
+      "arrive_time": "07:39",
+      "depart_time": "07:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "淮安东",
+      "arrive_time": "08:46",
+      "depart_time": "08:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "涟水",
+      "arrive_time": "08:59",
+      "depart_time": "09:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "连云港",
+      "arrive_time": "09:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 887.0,
+    "price_first": 429.0,
+    "price_second": 270.0,
+    "price_no_seat": 270.0
+  },
+  "fetched_at": "2026-05-01T08:48:54.682030"
+}

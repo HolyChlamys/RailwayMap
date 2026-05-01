@@ -1,0 +1,42 @@
+{
+  "train_no": "K9418",
+  "train_type": "K",
+  "depart_station": "南充",
+  "arrive_station": "重庆北",
+  "depart_time": "18:00",
+  "arrive_time": "21:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南充",
+      "arrive_time": "18:00",
+      "depart_time": "18:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "岳池",
+      "arrive_time": "19:15",
+      "depart_time": "19:33",
+      "stay_min": "18"
+    },
+    {
+      "seq": 3,
+      "station_name": "广安南",
+      "arrive_time": "19:46",
+      "depart_time": "19:51",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "重庆北",
+      "arrive_time": "21:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 33.5
+  },
+  "fetched_at": "2026-05-01T10:45:11.285049"
+}

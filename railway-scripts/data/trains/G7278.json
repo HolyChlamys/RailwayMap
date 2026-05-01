@@ -1,0 +1,66 @@
+{
+  "train_no": "G7278",
+  "train_type": "G",
+  "depart_station": "界首南",
+  "arrive_station": "上海",
+  "depart_time": "17:56",
+  "arrive_time": "21:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "界首南",
+      "arrive_time": "17:56",
+      "depart_time": "17:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "临泉",
+      "arrive_time": "18:06",
+      "depart_time": "18:09",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "阜阳西",
+      "arrive_time": "18:23",
+      "depart_time": "18:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "淮南南",
+      "arrive_time": "19:00",
+      "depart_time": "19:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥",
+      "arrive_time": "19:29",
+      "depart_time": "19:34",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "20:29",
+      "depart_time": "20:34",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "上海",
+      "arrive_time": "21:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1274.0,
+    "price_first": 629.0,
+    "price_second": 393.0,
+    "price_no_seat": 393.0
+  },
+  "fetched_at": "2026-05-01T08:22:48.231021"
+}

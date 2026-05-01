@@ -1,0 +1,45 @@
+{
+  "train_no": "G9515",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "安庆",
+  "depart_time": "18:44",
+  "arrive_time": "19:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "18:44",
+      "depart_time": "18:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "无为",
+      "arrive_time": "19:15",
+      "depart_time": "19:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "铜陵",
+      "arrive_time": "19:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "安庆",
+      "arrive_time": "19:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 385.0,
+    "price_first": 191.5,
+    "price_second": 116.0,
+    "price_no_seat": 116.0
+  },
+  "fetched_at": "2026-05-01T09:16:26.252500"
+}

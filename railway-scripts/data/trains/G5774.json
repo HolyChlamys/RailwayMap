@@ -1,0 +1,52 @@
+{
+  "train_no": "G5774",
+  "train_type": "G",
+  "depart_station": "重庆西",
+  "arrive_station": "乐山",
+  "depart_time": "11:22",
+  "arrive_time": "13:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "11:22",
+      "depart_time": "11:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泸州",
+      "arrive_time": "11:52",
+      "depart_time": "11:54",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "宜宾",
+      "arrive_time": "12:20",
+      "depart_time": "12:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "宜宾西",
+      "arrive_time": "12:29",
+      "depart_time": "12:33",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "乐山",
+      "arrive_time": "13:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 645.0,
+    "price_first": 308.0,
+    "price_second": 192.0,
+    "price_no_seat": 192.0
+  },
+  "fetched_at": "2026-05-01T07:42:00.513653"
+}

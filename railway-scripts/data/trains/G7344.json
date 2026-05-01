@@ -1,0 +1,80 @@
+{
+  "train_no": "G7344",
+  "train_type": "G",
+  "depart_station": "瑞安",
+  "arrive_station": "上海虹桥",
+  "depart_time": "06:27",
+  "arrive_time": "09:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "瑞安",
+      "arrive_time": "06:27",
+      "depart_time": "06:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "温州南",
+      "arrive_time": "06:44",
+      "depart_time": "06:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "丽水",
+      "arrive_time": "07:20",
+      "depart_time": "07:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "缙云西",
+      "arrive_time": "07:35",
+      "depart_time": "07:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武义北",
+      "arrive_time": "07:55",
+      "depart_time": "07:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "诸暨",
+      "arrive_time": "08:34",
+      "depart_time": "08:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "杭州东",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "嘉兴南",
+      "arrive_time": "09:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "上海虹桥",
+      "arrive_time": "09:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 836.0,
+    "price_first": 397.5,
+    "price_second": 248.5,
+    "price_no_seat": 248.5
+  },
+  "fetched_at": "2026-05-01T08:24:49.064623"
+}

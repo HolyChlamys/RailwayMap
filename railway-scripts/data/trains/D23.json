@@ -1,0 +1,36 @@
+{
+  "train_no": "D23",
+  "train_type": "D",
+  "depart_station": "汉口",
+  "arrive_station": "深圳",
+  "depart_time": "19:13",
+  "arrive_time": "19:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "19:13",
+      "depart_time": "19:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "武昌",
+      "arrive_time": "19:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳",
+      "arrive_time": "19:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 376.0,
+    "price_no_seat": 376.0
+  },
+  "fetched_at": "2026-05-01T03:14:26.877084"
+}

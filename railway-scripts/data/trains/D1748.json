@@ -1,0 +1,58 @@
+{
+  "train_no": "D1748",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "贵阳北",
+  "depart_time": "14:14",
+  "arrive_time": "16:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "14:14",
+      "depart_time": "14:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁北",
+      "arrive_time": "14:34",
+      "depart_time": "14:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "马山县",
+      "arrive_time": "14:58",
+      "depart_time": "14:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "环江",
+      "arrive_time": "15:36",
+      "depart_time": "15:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "荔波",
+      "arrive_time": "16:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳北",
+      "arrive_time": "16:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 428.0,
+    "price_second": 267.0,
+    "price_no_seat": 267.0
+  },
+  "fetched_at": "2026-05-01T03:04:18.869563"
+}

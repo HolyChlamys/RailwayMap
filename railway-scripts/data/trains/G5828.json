@@ -1,0 +1,30 @@
+{
+  "train_no": "G5828",
+  "train_type": "G",
+  "depart_station": "香港西九龙",
+  "arrive_station": "福田",
+  "depart_time": "16:10",
+  "arrive_time": "16:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "香港西九龙",
+      "arrive_time": "16:10",
+      "depart_time": "16:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "福田",
+      "arrive_time": "16:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 109.0,
+    "price_second": 68.0,
+    "price_no_seat": 68.0
+  },
+  "fetched_at": "2026-05-01T07:43:32.675449"
+}

@@ -1,0 +1,73 @@
+{
+  "train_no": "C956",
+  "train_type": "C",
+  "depart_station": "广元",
+  "arrive_station": "西昌西",
+  "depart_time": "08:53",
+  "arrive_time": "15:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广元",
+      "arrive_time": "08:53",
+      "depart_time": "08:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苍溪",
+      "arrive_time": "09:33",
+      "depart_time": "09:36",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "阆中",
+      "arrive_time": "09:51",
+      "depart_time": "09:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "南部",
+      "arrive_time": "10:06",
+      "depart_time": "10:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南充北",
+      "arrive_time": "10:38",
+      "depart_time": "10:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "成都东",
+      "arrive_time": "12:19",
+      "depart_time": "12:26",
+      "stay_min": "7"
+    },
+    {
+      "seq": 7,
+      "station_name": "眉山",
+      "arrive_time": "13:09",
+      "depart_time": "13:14",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "西昌西",
+      "arrive_time": "15:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1019.0,
+    "price_first": 468.0,
+    "price_second": 293.0,
+    "price_no_seat": 293.0
+  },
+  "fetched_at": "2026-05-01T02:49:12.193871"
+}

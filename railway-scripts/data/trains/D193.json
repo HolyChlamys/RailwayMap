@@ -1,0 +1,92 @@
+{
+  "train_no": "D193",
+  "train_type": "D",
+  "depart_station": "广州白云",
+  "arrive_station": "成都东",
+  "depart_time": "20:50",
+  "arrive_time": "21:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "20:50",
+      "depart_time": "20:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲",
+      "arrive_time": "03:40",
+      "depart_time": "03:44",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "长沙",
+      "arrive_time": "04:22",
+      "depart_time": "04:28",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "岳阳",
+      "arrive_time": "05:47",
+      "depart_time": "05:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "武昌",
+      "arrive_time": "08:05",
+      "depart_time": "08:14",
+      "stay_min": "9"
+    },
+    {
+      "seq": 6,
+      "station_name": "襄阳",
+      "arrive_time": "11:06",
+      "depart_time": "11:27",
+      "stay_min": "21"
+    },
+    {
+      "seq": 7,
+      "station_name": "十堰",
+      "arrive_time": "13:13",
+      "depart_time": "13:18",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "安康",
+      "arrive_time": "15:25",
+      "depart_time": "15:31",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "万源",
+      "arrive_time": "17:21",
+      "depart_time": "17:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "达州",
+      "arrive_time": "18:49",
+      "depart_time": "18:55",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "成都东",
+      "arrive_time": "21:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 745.0,
+    "price_no_seat": 745.0
+  },
+  "fetched_at": "2026-05-01T03:08:01.476117"
+}

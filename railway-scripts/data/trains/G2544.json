@@ -1,0 +1,45 @@
+{
+  "train_no": "G2544",
+  "train_type": "G",
+  "depart_station": "朔州东",
+  "arrive_station": "北京北",
+  "depart_time": "15:45",
+  "arrive_time": "17:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "朔州东",
+      "arrive_time": "15:45",
+      "depart_time": "15:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大同南",
+      "arrive_time": "16:25",
+      "depart_time": "16:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "张家口",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "北京北",
+      "arrive_time": "17:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 702.0,
+    "price_first": 361.0,
+    "price_second": 225.0,
+    "price_no_seat": 225.0
+  },
+  "fetched_at": "2026-05-01T06:13:26.981196"
+}

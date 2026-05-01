@@ -1,0 +1,119 @@
+{
+  "train_no": "K8205",
+  "train_type": "K",
+  "depart_station": "西安",
+  "arrive_station": "汉中",
+  "depart_time": "09:46",
+  "arrive_time": "19:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "09:46",
+      "depart_time": "09:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "咸阳",
+      "arrive_time": "10:03",
+      "depart_time": "10:06",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "兴平",
+      "arrive_time": "10:23",
+      "depart_time": "10:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "杨陵",
+      "arrive_time": "10:50",
+      "depart_time": "10:53",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "蔡家坡",
+      "arrive_time": "11:20",
+      "depart_time": "11:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "宝鸡",
+      "arrive_time": "11:52",
+      "depart_time": "12:01",
+      "stay_min": "9"
+    },
+    {
+      "seq": 7,
+      "station_name": "秦岭",
+      "arrive_time": "12:51",
+      "depart_time": "13:00",
+      "stay_min": "9"
+    },
+    {
+      "seq": 8,
+      "station_name": "凤州",
+      "arrive_time": "13:49",
+      "depart_time": "13:51",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "凤县",
+      "arrive_time": "14:11",
+      "depart_time": "14:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "两当",
+      "arrive_time": "14:42",
+      "depart_time": "14:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "徽县",
+      "arrive_time": "15:05",
+      "depart_time": "15:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "略阳",
+      "arrive_time": "16:22",
+      "depart_time": "16:28",
+      "stay_min": "6"
+    },
+    {
+      "seq": 13,
+      "station_name": "阳平关",
+      "arrive_time": "17:33",
+      "depart_time": "18:10",
+      "stay_min": "37"
+    },
+    {
+      "seq": 14,
+      "station_name": "勉县",
+      "arrive_time": "19:08",
+      "depart_time": "19:12",
+      "stay_min": "4"
+    },
+    {
+      "seq": 15,
+      "station_name": "汉中",
+      "arrive_time": "19:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 78.0
+  },
+  "fetched_at": "2026-05-01T10:36:53.412146"
+}

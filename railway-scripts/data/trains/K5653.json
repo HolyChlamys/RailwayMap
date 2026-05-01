@@ -1,0 +1,35 @@
+{
+  "train_no": "K5653",
+  "train_type": "K",
+  "depart_station": "阜阳",
+  "arrive_station": "合肥",
+  "depart_time": "07:05",
+  "arrive_time": "08:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "阜阳",
+      "arrive_time": "07:05",
+      "depart_time": "07:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮南",
+      "arrive_time": "08:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "合肥",
+      "arrive_time": "08:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T10:13:42.032740"
+}

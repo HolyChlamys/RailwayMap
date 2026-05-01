@@ -1,0 +1,63 @@
+{
+  "train_no": "K8291",
+  "train_type": "K",
+  "depart_station": "济南",
+  "arrive_station": "东营",
+  "depart_time": "06:54",
+  "arrive_time": "09:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "06:54",
+      "depart_time": "06:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大明湖",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "章丘",
+      "arrive_time": "07:40",
+      "depart_time": "07:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博",
+      "arrive_time": "08:23",
+      "depart_time": "08:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "桓台",
+      "arrive_time": "08:54",
+      "depart_time": "08:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "博兴",
+      "arrive_time": "09:16",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "东营",
+      "arrive_time": "09:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 32.5
+  },
+  "fetched_at": "2026-05-01T10:38:01.229250"
+}

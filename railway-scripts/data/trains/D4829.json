@@ -1,0 +1,65 @@
+{
+  "train_no": "D4829",
+  "train_type": "D",
+  "depart_station": "南京南",
+  "arrive_station": "宜昌东",
+  "depart_time": "14:02",
+  "arrive_time": "17:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "14:02",
+      "depart_time": "14:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "14:55",
+      "depart_time": "14:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汉口",
+      "arrive_time": "16:45",
+      "depart_time": "16:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汉川",
+      "arrive_time": "17:10",
+      "depart_time": "17:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "仙桃西",
+      "arrive_time": "17:37",
+      "depart_time": "17:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "潜江",
+      "arrive_time": "17:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "宜昌东",
+      "arrive_time": "17:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 576.0,
+    "price_second": 361.0,
+    "price_no_seat": 361.0
+  },
+  "fetched_at": "2026-05-01T03:57:16.244667"
+}

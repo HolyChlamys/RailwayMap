@@ -1,0 +1,87 @@
+{
+  "train_no": "G2859",
+  "train_type": "G",
+  "depart_station": "铜仁",
+  "arrive_station": "南宁东",
+  "depart_time": "09:58",
+  "arrive_time": "14:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "铜仁",
+      "arrive_time": "09:58",
+      "depart_time": "09:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "朱砂古镇",
+      "arrive_time": "10:12",
+      "depart_time": "10:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "凯里南",
+      "arrive_time": "11:02",
+      "depart_time": "11:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳北",
+      "arrive_time": "11:39",
+      "depart_time": "11:45",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵安",
+      "arrive_time": "11:59",
+      "depart_time": "12:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "都匀东",
+      "arrive_time": "12:48",
+      "depart_time": "12:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "荔波",
+      "arrive_time": "13:17",
+      "depart_time": "13:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "河池西",
+      "arrive_time": "13:44",
+      "depart_time": "13:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "南宁北",
+      "arrive_time": "14:30",
+      "depart_time": "14:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "南宁东",
+      "arrive_time": "14:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1593.0,
+    "price_first": 734.0,
+    "price_second": 458.0,
+    "price_no_seat": 458.0
+  },
+  "fetched_at": "2026-05-01T06:22:15.938062"
+}

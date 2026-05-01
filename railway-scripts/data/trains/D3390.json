@@ -1,0 +1,72 @@
+{
+  "train_no": "D3390",
+  "train_type": "D",
+  "depart_station": "郑州东",
+  "arrive_station": "太原南",
+  "depart_time": "09:02",
+  "arrive_time": "12:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "郑州东",
+      "arrive_time": "09:02",
+      "depart_time": "09:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州",
+      "arrive_time": "09:18",
+      "depart_time": "09:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "焦作",
+      "arrive_time": "09:55",
+      "depart_time": "09:58",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "晋城东",
+      "arrive_time": "10:21",
+      "depart_time": "10:24",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "长治东",
+      "arrive_time": "10:53",
+      "depart_time": "10:57",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "襄垣东",
+      "arrive_time": "11:12",
+      "depart_time": "11:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "武乡",
+      "arrive_time": "11:33",
+      "depart_time": "11:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "太原南",
+      "arrive_time": "12:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 355.0,
+    "price_second": 222.0,
+    "price_no_seat": 222.0
+  },
+  "fetched_at": "2026-05-01T03:33:22.344664"
+}

@@ -1,0 +1,66 @@
+{
+  "train_no": "G9288",
+  "train_type": "G",
+  "depart_station": "宣城",
+  "arrive_station": "阜阳西",
+  "depart_time": "13:11",
+  "arrive_time": "15:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宣城",
+      "arrive_time": "13:11",
+      "depart_time": "13:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "芜湖",
+      "arrive_time": "13:40",
+      "depart_time": "13:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "巢湖东",
+      "arrive_time": "14:03",
+      "depart_time": "14:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "合肥南",
+      "arrive_time": "14:31",
+      "depart_time": "14:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥西",
+      "arrive_time": "14:47",
+      "depart_time": "14:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "淮南南",
+      "arrive_time": "15:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "阜阳西",
+      "arrive_time": "15:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 700.5,
+    "price_first": 373.5,
+    "price_second": 230.5,
+    "price_no_seat": 230.5
+  },
+  "fetched_at": "2026-05-01T09:10:24.637682"
+}

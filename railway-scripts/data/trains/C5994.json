@@ -1,0 +1,30 @@
+{
+  "train_no": "C5994",
+  "train_type": "C",
+  "depart_station": "贵阳北",
+  "arrive_station": "成都南",
+  "depart_time": "14:53",
+  "arrive_time": "14:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "14:53",
+      "depart_time": "14:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "成都南",
+      "arrive_time": "14:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 470.0,
+    "price_second": 294.0,
+    "price_no_seat": 294.0
+  },
+  "fetched_at": "2026-05-01T01:42:52.648210"
+}

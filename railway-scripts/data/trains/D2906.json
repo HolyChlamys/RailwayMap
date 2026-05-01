@@ -1,0 +1,79 @@
+{
+  "train_no": "D2906",
+  "train_type": "D",
+  "depart_station": "上海",
+  "arrive_station": "青岛",
+  "depart_time": "08:41",
+  "arrive_time": "14:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "08:41",
+      "depart_time": "08:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "09:09",
+      "depart_time": "09:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡",
+      "arrive_time": "09:26",
+      "depart_time": "09:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "常州",
+      "arrive_time": "09:43",
+      "depart_time": "09:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "淮安东",
+      "arrive_time": "11:01",
+      "depart_time": "11:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "连云港",
+      "arrive_time": "11:48",
+      "depart_time": "11:52",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "岚山西",
+      "arrive_time": "12:21",
+      "depart_time": "12:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "日照西",
+      "arrive_time": "12:37",
+      "depart_time": "12:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "青岛",
+      "arrive_time": "14:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 566.0,
+    "price_second": 353.0,
+    "price_no_seat": 353.0
+  },
+  "fetched_at": "2026-05-01T03:25:31.543699"
+}

@@ -1,0 +1,58 @@
+{
+  "train_no": "D8276",
+  "train_type": "D",
+  "depart_station": "南宁东",
+  "arrive_station": "环江",
+  "depart_time": "13:21",
+  "arrive_time": "14:47",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南宁东",
+      "arrive_time": "13:21",
+      "depart_time": "13:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南宁北",
+      "arrive_time": "13:41",
+      "depart_time": "13:41",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "马山县",
+      "arrive_time": "14:05",
+      "depart_time": "14:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "都安",
+      "arrive_time": "14:17",
+      "depart_time": "14:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "河池西",
+      "arrive_time": "14:47",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "环江",
+      "arrive_time": "14:47",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 190.0,
+    "price_second": 119.0,
+    "price_no_seat": 119.0
+  },
+  "fetched_at": "2026-05-01T04:52:59.408311"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "G2983",
+  "train_type": "G",
+  "depart_station": "铜仁",
+  "arrive_station": "重庆西",
+  "depart_time": "18:51",
+  "arrive_time": "23:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "铜仁",
+      "arrive_time": "18:51",
+      "depart_time": "18:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "朱砂古镇",
+      "arrive_time": "19:05",
+      "depart_time": "19:07",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "三穗",
+      "arrive_time": "19:36",
+      "depart_time": "19:41",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "凯里南",
+      "arrive_time": "20:06",
+      "depart_time": "20:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "贵定北",
+      "arrive_time": "20:28",
+      "depart_time": "20:39",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "贵阳东",
+      "arrive_time": "20:55",
+      "depart_time": "20:59",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "遵义",
+      "arrive_time": "21:46",
+      "depart_time": "21:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "重庆西",
+      "arrive_time": "23:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 499.0,
+    "price_second": 311.0,
+    "price_no_seat": 311.0
+  },
+  "fetched_at": "2026-05-01T06:25:32.565427"
+}

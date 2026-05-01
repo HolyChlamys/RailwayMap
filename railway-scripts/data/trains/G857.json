@@ -1,0 +1,66 @@
+{
+  "train_no": "G857",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "西安北",
+  "depart_time": "09:42",
+  "arrive_time": "14:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "09:42",
+      "depart_time": "09:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "信阳东",
+      "arrive_time": "10:25",
+      "depart_time": "10:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "漯河西",
+      "arrive_time": "11:06",
+      "depart_time": "11:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "许昌东",
+      "arrive_time": "11:25",
+      "depart_time": "11:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州",
+      "arrive_time": "11:59",
+      "depart_time": "12:07",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "洛阳龙门",
+      "arrive_time": "12:44",
+      "depart_time": "12:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "西安北",
+      "arrive_time": "14:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1906.0,
+    "price_first": 871.0,
+    "price_second": 545.0,
+    "price_no_seat": 545.0
+  },
+  "fetched_at": "2026-05-01T08:54:43.163799"
+}

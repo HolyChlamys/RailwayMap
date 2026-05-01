@@ -1,0 +1,87 @@
+{
+  "train_no": "G682",
+  "train_type": "G",
+  "depart_station": "长治东",
+  "arrive_station": "北京丰台",
+  "depart_time": "07:01",
+  "arrive_time": "11:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长治东",
+      "arrive_time": "07:01",
+      "depart_time": "07:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "襄垣东",
+      "arrive_time": "07:18",
+      "depart_time": "07:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "武乡",
+      "arrive_time": "07:39",
+      "depart_time": "07:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "晋中",
+      "arrive_time": "08:13",
+      "depart_time": "08:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "太原南",
+      "arrive_time": "08:31",
+      "depart_time": "08:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "太原",
+      "arrive_time": "08:48",
+      "depart_time": "08:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "石家庄",
+      "arrive_time": "10:07",
+      "depart_time": "10:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "保定东",
+      "arrive_time": "10:46",
+      "depart_time": "10:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "涿州东",
+      "arrive_time": "11:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "北京丰台",
+      "arrive_time": "11:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1194.0,
+    "price_first": 545.0,
+    "price_second": 342.0,
+    "price_no_seat": 342.0
+  },
+  "fetched_at": "2026-05-01T08:09:48.653172"
+}

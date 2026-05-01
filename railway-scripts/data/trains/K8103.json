@@ -1,0 +1,35 @@
+{
+  "train_no": "K8103",
+  "train_type": "K",
+  "depart_station": "周口",
+  "arrive_station": "平顶山",
+  "depart_time": "08:06",
+  "arrive_time": "10:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "周口",
+      "arrive_time": "08:06",
+      "depart_time": "08:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漯河",
+      "arrive_time": "08:56",
+      "depart_time": "09:02",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "平顶山",
+      "arrive_time": "10:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 23.5
+  },
+  "fetched_at": "2026-05-01T10:35:26.125157"
+}

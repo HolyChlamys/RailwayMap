@@ -1,0 +1,52 @@
+{
+  "train_no": "G7951",
+  "train_type": "G",
+  "depart_station": "洛阳龙门",
+  "arrive_station": "南阳东",
+  "depart_time": "07:12",
+  "arrive_time": "09:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "洛阳龙门",
+      "arrive_time": "07:12",
+      "depart_time": "07:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州西",
+      "arrive_time": "07:37",
+      "depart_time": "07:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "07:56",
+      "depart_time": "08:17",
+      "stay_min": "21"
+    },
+    {
+      "seq": 4,
+      "station_name": "平顶山西",
+      "arrive_time": "08:59",
+      "depart_time": "09:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南阳东",
+      "arrive_time": "09:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 712.0,
+    "price_first": 359.0,
+    "price_second": 225.0,
+    "price_no_seat": 225.0
+  },
+  "fetched_at": "2026-05-01T08:41:03.576766"
+}

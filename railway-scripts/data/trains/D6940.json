@@ -1,0 +1,37 @@
+{
+  "train_no": "D6940",
+  "train_type": "D",
+  "depart_station": "齐齐哈尔",
+  "arrive_station": "哈尔滨",
+  "depart_time": "19:48",
+  "arrive_time": "20:33",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "齐齐哈尔",
+      "arrive_time": "19:48",
+      "depart_time": "19:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大庆东",
+      "arrive_time": "20:33",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "哈尔滨",
+      "arrive_time": "20:33",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 160.0,
+    "price_second": 100.0,
+    "price_no_seat": 100.0
+  },
+  "fetched_at": "2026-05-01T04:31:22.501016"
+}

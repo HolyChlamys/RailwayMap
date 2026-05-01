@@ -1,0 +1,58 @@
+{
+  "train_no": "D8434",
+  "train_type": "D",
+  "depart_station": "北海",
+  "arrive_station": "梧州南",
+  "depart_time": "19:19",
+  "arrive_time": "22:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北海",
+      "arrive_time": "19:19",
+      "depart_time": "19:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "钦州东",
+      "arrive_time": "19:48",
+      "depart_time": "19:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "南宁东",
+      "arrive_time": "20:25",
+      "depart_time": "20:45",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "贵港",
+      "arrive_time": "21:25",
+      "depart_time": "21:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "藤县",
+      "arrive_time": "22:10",
+      "depart_time": "22:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "梧州南",
+      "arrive_time": "22:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 365.0,
+    "price_second": 228.0,
+    "price_no_seat": 228.0
+  },
+  "fetched_at": "2026-05-01T04:57:02.304057"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "G3704",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "成都东",
+  "depart_time": "11:59",
+  "arrive_time": "17:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "11:59",
+      "depart_time": "11:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肇庆东",
+      "arrive_time": "12:35",
+      "depart_time": "12:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "怀集",
+      "arrive_time": "13:04",
+      "depart_time": "13:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "贵阳东",
+      "arrive_time": "15:55",
+      "depart_time": "15:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜宾西",
+      "arrive_time": "17:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "成都东",
+      "arrive_time": "17:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2413.0,
+    "price_first": 1170.0,
+    "price_second": 731.0,
+    "price_no_seat": 731.0
+  },
+  "fetched_at": "2026-05-01T06:45:21.845228"
+}

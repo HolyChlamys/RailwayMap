@@ -1,0 +1,77 @@
+{
+  "train_no": "K816",
+  "train_type": "K",
+  "depart_station": "西宁",
+  "arrive_station": "银川",
+  "depart_time": "19:10",
+  "arrive_time": "06:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西宁",
+      "arrive_time": "19:10",
+      "depart_time": "19:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兰州西",
+      "arrive_time": "22:02",
+      "depart_time": "22:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "兰州",
+      "arrive_time": "22:39",
+      "depart_time": "22:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "皋兰",
+      "arrive_time": "23:45",
+      "depart_time": "23:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "白银西",
+      "arrive_time": "00:29",
+      "depart_time": "00:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "中卫",
+      "arrive_time": "04:36",
+      "depart_time": "04:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "中宁",
+      "arrive_time": "05:17",
+      "depart_time": "05:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "青铜峡",
+      "arrive_time": "06:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "银川",
+      "arrive_time": "06:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 93.0
+  },
+  "fetched_at": "2026-05-01T10:36:30.291500"
+}

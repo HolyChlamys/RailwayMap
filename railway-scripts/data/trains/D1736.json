@@ -1,0 +1,37 @@
+{
+  "train_no": "D1736",
+  "train_type": "D",
+  "depart_station": "六盘水",
+  "arrive_station": "安顺西",
+  "depart_time": "08:32",
+  "arrive_time": "09:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "六盘水",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "六枝南",
+      "arrive_time": "09:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "安顺西",
+      "arrive_time": "09:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 729.0,
+    "price_second": 455.5,
+    "price_no_seat": 455.5
+  },
+  "fetched_at": "2026-05-01T03:04:08.997023"
+}

@@ -1,0 +1,100 @@
+{
+  "train_no": "D3942",
+  "train_type": "D",
+  "depart_station": "大理",
+  "arrive_station": "桂林北",
+  "depart_time": "12:32",
+  "arrive_time": "21:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大理",
+      "arrive_time": "12:32",
+      "depart_time": "12:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "楚雄",
+      "arrive_time": "13:29",
+      "depart_time": "13:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "昆明",
+      "arrive_time": "14:30",
+      "depart_time": "14:36",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "昆明南",
+      "arrive_time": "14:54",
+      "depart_time": "14:59",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "禄丰南",
+      "arrive_time": "12:17",
+      "depart_time": "12:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "百色",
+      "arrive_time": "17:26",
+      "depart_time": "17:30",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "南宁",
+      "arrive_time": "18:49",
+      "depart_time": "18:53",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "南宁东",
+      "arrive_time": "19:04",
+      "depart_time": "19:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "来宾北",
+      "arrive_time": "19:48",
+      "depart_time": "19:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "柳州",
+      "arrive_time": "20:16",
+      "depart_time": "20:19",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "桂林",
+      "arrive_time": "21:19",
+      "depart_time": "21:22",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "桂林北",
+      "arrive_time": "21:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 902.5,
+    "price_second": 565.0,
+    "price_no_seat": 565.0
+  },
+  "fetched_at": "2026-05-01T03:41:55.491217"
+}

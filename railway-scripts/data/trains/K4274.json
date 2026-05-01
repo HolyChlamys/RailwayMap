@@ -1,0 +1,77 @@
+{
+  "train_no": "K4274",
+  "train_type": "K",
+  "depart_station": "信阳",
+  "arrive_station": "东莞东",
+  "depart_time": "15:00",
+  "arrive_time": "09:35",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "信阳",
+      "arrive_time": "15:00",
+      "depart_time": "15:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潢川",
+      "arrive_time": "16:13",
+      "depart_time": "16:17",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "麻城",
+      "arrive_time": "17:32",
+      "depart_time": "17:38",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "黄州",
+      "arrive_time": "18:18",
+      "depart_time": "18:22",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "浠水",
+      "arrive_time": "18:45",
+      "depart_time": "18:49",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "蕲春",
+      "arrive_time": "19:09",
+      "depart_time": "19:13",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "九江",
+      "arrive_time": "20:18",
+      "depart_time": "20:22",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "惠州",
+      "arrive_time": "08:45",
+      "depart_time": "08:51",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "东莞东",
+      "arrive_time": "09:35",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 202.5
+  },
+  "fetched_at": "2026-05-01T09:51:28.351437"
+}

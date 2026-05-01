@@ -1,0 +1,94 @@
+{
+  "train_no": "G490",
+  "train_type": "G",
+  "depart_station": "汉口",
+  "arrive_station": "成都东",
+  "depart_time": "18:31",
+  "arrive_time": "01:21",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "18:31",
+      "depart_time": "18:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感东",
+      "arrive_time": "18:56",
+      "depart_time": "18:58",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "安陆西",
+      "arrive_time": "19:16",
+      "depart_time": "19:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "随州南",
+      "arrive_time": "19:33",
+      "depart_time": "19:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "襄阳东",
+      "arrive_time": "20:05",
+      "depart_time": "20:25",
+      "stay_min": "20"
+    },
+    {
+      "seq": 6,
+      "station_name": "兴山",
+      "arrive_time": "21:12",
+      "depart_time": "21:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "巫山",
+      "arrive_time": "21:41",
+      "depart_time": "21:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "万州北",
+      "arrive_time": "22:26",
+      "depart_time": "22:29",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "重庆北",
+      "arrive_time": "23:39",
+      "depart_time": "23:47",
+      "stay_min": "8"
+    },
+    {
+      "seq": 10,
+      "station_name": "永川东",
+      "arrive_time": "00:21",
+      "depart_time": "00:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "成都东",
+      "arrive_time": "01:21",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2311.0,
+    "price_first": 1092.0,
+    "price_second": 681.0,
+    "price_no_seat": 681.0
+  },
+  "fetched_at": "2026-05-01T07:19:17.706664"
+}

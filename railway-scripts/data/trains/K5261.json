@@ -1,0 +1,49 @@
+{
+  "train_no": "K5261",
+  "train_type": "K",
+  "depart_station": "北京丰台",
+  "arrive_station": "枣强",
+  "depart_time": "06:59",
+  "arrive_time": "11:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京丰台",
+      "arrive_time": "06:59",
+      "depart_time": "06:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "肃宁",
+      "arrive_time": "09:29",
+      "depart_time": "09:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深州",
+      "arrive_time": "10:08",
+      "depart_time": "10:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "衡水",
+      "arrive_time": "11:03",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "枣强",
+      "arrive_time": "11:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 43.5
+  },
+  "fetched_at": "2026-05-01T10:07:01.397038"
+}

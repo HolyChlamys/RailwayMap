@@ -1,0 +1,49 @@
+{
+  "train_no": "K8051",
+  "train_type": "K",
+  "depart_station": "襄阳",
+  "arrive_station": "宜昌东",
+  "depart_time": "16:00",
+  "arrive_time": "18:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳",
+      "arrive_time": "16:00",
+      "depart_time": "16:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜城南",
+      "arrive_time": "16:39",
+      "depart_time": "16:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "荆门",
+      "arrive_time": "17:29",
+      "depart_time": "17:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "当阳",
+      "arrive_time": "18:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜昌东",
+      "arrive_time": "18:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 37.5
+  },
+  "fetched_at": "2026-05-01T10:34:22.225714"
+}

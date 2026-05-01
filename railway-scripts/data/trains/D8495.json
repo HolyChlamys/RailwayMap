@@ -1,0 +1,58 @@
+{
+  "train_no": "D8495",
+  "train_type": "D",
+  "depart_station": "三江南",
+  "arrive_station": "南宁东",
+  "depart_time": "18:24",
+  "arrive_time": "20:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "三江南",
+      "arrive_time": "18:24",
+      "depart_time": "18:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "桂林北",
+      "arrive_time": "19:07",
+      "depart_time": "19:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "桂林",
+      "arrive_time": "19:20",
+      "depart_time": "19:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "柳州",
+      "arrive_time": "20:23",
+      "depart_time": "20:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "来宾北",
+      "arrive_time": "20:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "南宁东",
+      "arrive_time": "20:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 303.0,
+    "price_second": 189.5,
+    "price_no_seat": 189.5
+  },
+  "fetched_at": "2026-05-01T04:58:34.938624"
+}

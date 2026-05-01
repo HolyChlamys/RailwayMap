@@ -1,0 +1,45 @@
+{
+  "train_no": "C5603",
+  "train_type": "C",
+  "depart_station": "武汉东",
+  "arrive_station": "武穴北",
+  "depart_time": "16:06",
+  "arrive_time": "17:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉东",
+      "arrive_time": "16:06",
+      "depart_time": "16:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄冈东",
+      "arrive_time": "16:37",
+      "depart_time": "16:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "蕲春南",
+      "arrive_time": "17:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "武穴北",
+      "arrive_time": "17:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 292.0,
+    "price_first": 141.0,
+    "price_second": 88.0,
+    "price_no_seat": 88.0
+  },
+  "fetched_at": "2026-05-01T01:35:30.419345"
+}

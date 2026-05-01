@@ -1,0 +1,94 @@
+{
+  "train_no": "G1784",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "张家港",
+  "depart_time": "08:06",
+  "arrive_time": "14:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "08:06",
+      "depart_time": "08:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "岳阳东",
+      "arrive_time": "08:39",
+      "depart_time": "08:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "赤壁北",
+      "arrive_time": "09:04",
+      "depart_time": "09:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "咸宁北",
+      "arrive_time": "09:20",
+      "depart_time": "09:26",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "武汉",
+      "arrive_time": "09:52",
+      "depart_time": "09:58",
+      "stay_min": "6"
+    },
+    {
+      "seq": 6,
+      "station_name": "六安",
+      "arrive_time": "11:17",
+      "depart_time": "11:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "合肥南",
+      "arrive_time": "11:44",
+      "depart_time": "11:49",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "南京南",
+      "arrive_time": "12:47",
+      "depart_time": "12:53",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "金坛",
+      "arrive_time": "13:19",
+      "depart_time": "13:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "江阴",
+      "arrive_time": "13:43",
+      "depart_time": "13:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "张家港",
+      "arrive_time": "14:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1903.0,
+    "price_first": 880.0,
+    "price_second": 550.0,
+    "price_no_seat": 550.0
+  },
+  "fetched_at": "2026-05-01T05:52:41.960586"
+}

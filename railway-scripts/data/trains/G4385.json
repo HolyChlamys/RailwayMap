@@ -1,0 +1,52 @@
+{
+  "train_no": "G4385",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "张家港",
+  "depart_time": "02:38",
+  "arrive_time": "06:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "02:38",
+      "depart_time": "02:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "合肥南",
+      "arrive_time": "04:17",
+      "depart_time": "04:29",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "05:21",
+      "depart_time": "05:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "江阴",
+      "arrive_time": "06:13",
+      "depart_time": "06:23",
+      "stay_min": "10"
+    },
+    {
+      "seq": 5,
+      "station_name": "张家港",
+      "arrive_time": "06:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1206.0,
+    "price_first": 561.0,
+    "price_second": 351.0,
+    "price_no_seat": 351.0
+  },
+  "fetched_at": "2026-05-01T07:03:57.442014"
+}

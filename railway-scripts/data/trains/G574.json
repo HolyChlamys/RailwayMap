@@ -1,0 +1,59 @@
+{
+  "train_no": "G574",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "济南",
+  "depart_time": "09:00",
+  "arrive_time": "12:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漯河西",
+      "arrive_time": "10:24",
+      "depart_time": "10:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "许昌东",
+      "arrive_time": "10:47",
+      "depart_time": "10:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "郑州东",
+      "arrive_time": "11:12",
+      "depart_time": "11:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "聊城西",
+      "arrive_time": "12:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "济南",
+      "arrive_time": "12:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1871.0,
+    "price_first": 856.0,
+    "price_second": 534.0,
+    "price_no_seat": 534.0
+  },
+  "fetched_at": "2026-05-01T07:41:17.571864"
+}

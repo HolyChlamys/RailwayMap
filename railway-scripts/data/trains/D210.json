@@ -1,0 +1,106 @@
+{
+  "train_no": "D210",
+  "train_type": "D",
+  "depart_station": "济南",
+  "arrive_station": "长沙",
+  "depart_time": "18:58",
+  "arrive_time": "11:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南",
+      "arrive_time": "18:58",
+      "depart_time": "18:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "泰山",
+      "arrive_time": "19:44",
+      "depart_time": "19:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "兖州",
+      "arrive_time": "20:37",
+      "depart_time": "20:57",
+      "stay_min": "20"
+    },
+    {
+      "seq": 4,
+      "station_name": "济宁",
+      "arrive_time": "21:21",
+      "depart_time": "21:27",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "嘉祥",
+      "arrive_time": "21:44",
+      "depart_time": "21:47",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "巨野",
+      "arrive_time": "22:04",
+      "depart_time": "22:07",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "菏泽",
+      "arrive_time": "22:49",
+      "depart_time": "23:07",
+      "stay_min": "18"
+    },
+    {
+      "seq": 8,
+      "station_name": "九江",
+      "arrive_time": "05:19",
+      "depart_time": "05:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "南昌",
+      "arrive_time": "06:27",
+      "depart_time": "06:36",
+      "stay_min": "9"
+    },
+    {
+      "seq": 10,
+      "station_name": "宜春",
+      "arrive_time": "08:37",
+      "depart_time": "08:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 11,
+      "station_name": "萍乡",
+      "arrive_time": "09:16",
+      "depart_time": "09:20",
+      "stay_min": "4"
+    },
+    {
+      "seq": 12,
+      "station_name": "株洲",
+      "arrive_time": "10:34",
+      "depart_time": "10:54",
+      "stay_min": "20"
+    },
+    {
+      "seq": 13,
+      "station_name": "长沙",
+      "arrive_time": "11:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 488.0,
+    "price_no_seat": 488.0
+  },
+  "fetched_at": "2026-05-01T03:10:03.920901"
+}

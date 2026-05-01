@@ -1,0 +1,44 @@
+{
+  "train_no": "D8532",
+  "train_type": "D",
+  "depart_station": "牡丹江",
+  "arrive_station": "哈尔滨",
+  "depart_time": "12:50",
+  "arrive_time": "13:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "牡丹江",
+      "arrive_time": "12:50",
+      "depart_time": "12:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "亚布力西",
+      "arrive_time": "13:22",
+      "depart_time": "13:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "尚志南",
+      "arrive_time": "13:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨",
+      "arrive_time": "13:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 178.0,
+    "price_second": 111.0,
+    "price_no_seat": 111.0
+  },
+  "fetched_at": "2026-05-01T04:59:12.876753"
+}

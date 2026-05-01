@@ -1,0 +1,44 @@
+{
+  "train_no": "D6184",
+  "train_type": "D",
+  "depart_station": "重庆北",
+  "arrive_station": "石柱县",
+  "depart_time": "17:30",
+  "arrive_time": "18:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "17:30",
+      "depart_time": "17:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长寿北",
+      "arrive_time": "18:02",
+      "depart_time": "18:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "丰都",
+      "arrive_time": "18:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "石柱县",
+      "arrive_time": "18:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 90.0,
+    "price_second": 56.5,
+    "price_no_seat": 56.5
+  },
+  "fetched_at": "2026-05-01T04:18:37.093442"
+}

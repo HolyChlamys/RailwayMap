@@ -1,0 +1,35 @@
+{
+  "train_no": "K6215",
+  "train_type": "K",
+  "depart_station": "共青城",
+  "arrive_station": "向塘",
+  "depart_time": "16:45",
+  "arrive_time": "18:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "共青城",
+      "arrive_time": "16:45",
+      "depart_time": "16:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南昌",
+      "arrive_time": "18:39",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "向塘",
+      "arrive_time": "18:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 9.5
+  },
+  "fetched_at": "2026-05-01T10:20:08.795229"
+}

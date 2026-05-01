@@ -1,0 +1,49 @@
+{
+  "train_no": "K4856",
+  "train_type": "K",
+  "depart_station": "上海",
+  "arrive_station": "常州",
+  "depart_time": "02:13",
+  "arrive_time": "03:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "02:13",
+      "depart_time": "02:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山",
+      "arrive_time": "02:53",
+      "depart_time": "02:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "03:23",
+      "depart_time": "03:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "03:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "03:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 240.0
+  },
+  "fetched_at": "2026-05-01T09:59:47.397488"
+}

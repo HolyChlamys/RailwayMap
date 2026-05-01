@@ -1,0 +1,59 @@
+{
+  "train_no": "G9295",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "上海",
+  "depart_time": "23:00",
+  "arrive_time": "00:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "23:00",
+      "depart_time": "23:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "阜阳西",
+      "arrive_time": "00:07",
+      "depart_time": "00:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "亳州南",
+      "arrive_time": "00:36",
+      "depart_time": "00:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "23:03",
+      "depart_time": "23:11",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "无锡",
+      "arrive_time": "00:06",
+      "depart_time": "00:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "上海",
+      "arrive_time": "00:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 559.0,
+    "price_first": 298.5,
+    "price_second": 185.5,
+    "price_no_seat": 185.5
+  },
+  "fetched_at": "2026-05-01T09:10:37.774371"
+}

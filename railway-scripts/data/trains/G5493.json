@@ -1,0 +1,87 @@
+{
+  "train_no": "G5493",
+  "train_type": "G",
+  "depart_station": "济南东",
+  "arrive_station": "烟台",
+  "depart_time": "16:25",
+  "arrive_time": "18:57",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南东",
+      "arrive_time": "16:25",
+      "depart_time": "16:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潍坊北",
+      "arrive_time": "17:15",
+      "depart_time": "17:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "灰埠",
+      "arrive_time": "17:35",
+      "depart_time": "17:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "莱州",
+      "arrive_time": "17:48",
+      "depart_time": "17:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "招远",
+      "arrive_time": "18:05",
+      "depart_time": "18:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "龙口市",
+      "arrive_time": "18:18",
+      "depart_time": "18:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "蓬莱",
+      "arrive_time": "18:32",
+      "depart_time": "18:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "烟台西",
+      "arrive_time": "18:44",
+      "depart_time": "18:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "福山",
+      "arrive_time": "18:57",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "烟台",
+      "arrive_time": "18:57",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 841.0,
+    "price_first": 406.0,
+    "price_second": 253.0,
+    "price_no_seat": 253.0
+  },
+  "fetched_at": "2026-05-01T07:35:01.149932"
+}

@@ -1,0 +1,72 @@
+{
+  "train_no": "C515",
+  "train_type": "C",
+  "depart_station": "山海关",
+  "arrive_station": "沈阳",
+  "depart_time": "06:13",
+  "arrive_time": "08:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "山海关",
+      "arrive_time": "06:13",
+      "depart_time": "06:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "绥中北",
+      "arrive_time": "06:43",
+      "depart_time": "06:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "葫芦岛北",
+      "arrive_time": "07:11",
+      "depart_time": "07:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "锦州南",
+      "arrive_time": "07:33",
+      "depart_time": "07:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "盘锦北",
+      "arrive_time": "08:04",
+      "depart_time": "08:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "台安",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "辽中",
+      "arrive_time": "08:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "沈阳",
+      "arrive_time": "08:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 191.0,
+    "price_second": 119.5,
+    "price_no_seat": 119.5
+  },
+  "fetched_at": "2026-05-01T01:27:57.548730"
+}

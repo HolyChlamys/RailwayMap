@@ -1,0 +1,30 @@
+{
+  "train_no": "C8001",
+  "train_type": "C",
+  "depart_station": "广州东",
+  "arrive_station": "深圳",
+  "depart_time": "07:00",
+  "arrive_time": "07:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "07:00",
+      "depart_time": "07:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "深圳",
+      "arrive_time": "07:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 99.5,
+    "price_second": 79.5,
+    "price_no_seat": 79.5
+  },
+  "fetched_at": "2026-05-01T02:29:51.650061"
+}

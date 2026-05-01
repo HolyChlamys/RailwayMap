@@ -1,0 +1,45 @@
+{
+  "train_no": "G4199",
+  "train_type": "G",
+  "depart_station": "贵阳北",
+  "arrive_station": "深圳北",
+  "depart_time": "00:26",
+  "arrive_time": "04:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵阳北",
+      "arrive_time": "00:26",
+      "depart_time": "00:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "佛山西",
+      "arrive_time": "04:05",
+      "depart_time": "04:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "广州南",
+      "arrive_time": "04:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "深圳北",
+      "arrive_time": "04:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1742.0,
+    "price_first": 805.5,
+    "price_second": 515.5,
+    "price_no_seat": 515.5
+  },
+  "fetched_at": "2026-05-01T06:58:35.359009"
+}

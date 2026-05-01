@@ -1,0 +1,49 @@
+{
+  "train_no": "K6220",
+  "train_type": "K",
+  "depart_station": "赣州",
+  "arrive_station": "九江",
+  "depart_time": "14:10",
+  "arrive_time": "20:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "赣州",
+      "arrive_time": "14:10",
+      "depart_time": "14:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "吉安",
+      "arrive_time": "16:08",
+      "depart_time": "16:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南昌",
+      "arrive_time": "19:05",
+      "depart_time": "19:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "共青城",
+      "arrive_time": "20:02",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "九江",
+      "arrive_time": "20:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 75.0
+  },
+  "fetched_at": "2026-05-01T10:20:17.331365"
+}

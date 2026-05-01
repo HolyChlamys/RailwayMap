@@ -1,0 +1,91 @@
+{
+  "train_no": "K6751",
+  "train_type": "K",
+  "depart_station": "莎车",
+  "arrive_station": "石河子",
+  "depart_time": "08:00",
+  "arrive_time": "07:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "莎车",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "英吉沙",
+      "arrive_time": "09:15",
+      "depart_time": "09:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "阿克陶",
+      "arrive_time": "09:37",
+      "depart_time": "09:42",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "喀什",
+      "arrive_time": "10:40",
+      "depart_time": "11:07",
+      "stay_min": "27"
+    },
+    {
+      "seq": 5,
+      "station_name": "阿图什",
+      "arrive_time": "11:40",
+      "depart_time": "11:48",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "巴楚",
+      "arrive_time": "16:01",
+      "depart_time": "16:05",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "阿克苏",
+      "arrive_time": "18:45",
+      "depart_time": "18:53",
+      "stay_min": "8"
+    },
+    {
+      "seq": 8,
+      "station_name": "库车",
+      "arrive_time": "21:09",
+      "depart_time": "21:15",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "库尔勒",
+      "arrive_time": "23:54",
+      "depart_time": "00:19",
+      "stay_min": "1415"
+    },
+    {
+      "seq": 10,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "05:30",
+      "depart_time": "05:55",
+      "stay_min": "25"
+    },
+    {
+      "seq": 11,
+      "station_name": "石河子",
+      "arrive_time": "07:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 206.0
+  },
+  "fetched_at": "2026-05-01T10:25:59.553808"
+}

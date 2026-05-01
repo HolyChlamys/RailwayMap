@@ -1,0 +1,36 @@
+{
+  "train_no": "C3372",
+  "train_type": "C",
+  "depart_station": "成都南",
+  "arrive_station": "雅安",
+  "depart_time": "11:24",
+  "arrive_time": "12:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "11:24",
+      "depart_time": "11:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "崇州",
+      "arrive_time": "11:47",
+      "depart_time": "11:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "雅安",
+      "arrive_time": "12:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 58.0,
+    "price_no_seat": 58.0
+  },
+  "fetched_at": "2026-05-01T00:57:48.637574"
+}

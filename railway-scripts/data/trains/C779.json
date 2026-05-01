@@ -1,0 +1,59 @@
+{
+  "train_no": "C779",
+  "train_type": "C",
+  "depart_station": "巴中",
+  "arrive_station": "成都东",
+  "depart_time": "06:53",
+  "arrive_time": "09:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "巴中",
+      "arrive_time": "06:53",
+      "depart_time": "06:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "平昌",
+      "arrive_time": "07:30",
+      "depart_time": "07:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "营山",
+      "arrive_time": "08:55",
+      "depart_time": "08:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "蓬安",
+      "arrive_time": "09:07",
+      "depart_time": "09:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南充",
+      "arrive_time": "09:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "成都东",
+      "arrive_time": "09:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 471.0,
+    "price_first": 215.0,
+    "price_second": 134.0,
+    "price_no_seat": 134.0
+  },
+  "fetched_at": "2026-05-01T02:24:24.191937"
+}

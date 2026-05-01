@@ -1,0 +1,45 @@
+{
+  "train_no": "G8052",
+  "train_type": "G",
+  "depart_station": "沈阳",
+  "arrive_station": "大连",
+  "depart_time": "12:29",
+  "arrive_time": "13:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "12:29",
+      "depart_time": "12:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "13:26",
+      "depart_time": "13:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "瓦房店西",
+      "arrive_time": "13:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "大连",
+      "arrive_time": "13:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 760.0,
+    "price_first": 348.0,
+    "price_second": 217.0,
+    "price_no_seat": 217.0
+  },
+  "fetched_at": "2026-05-01T08:43:21.370856"
+}

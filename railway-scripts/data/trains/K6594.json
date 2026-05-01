@@ -1,0 +1,63 @@
+{
+  "train_no": "K6594",
+  "train_type": "K",
+  "depart_station": "永州",
+  "arrive_station": "长沙",
+  "depart_time": "08:32",
+  "arrive_time": "12:17",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "永州",
+      "arrive_time": "08:32",
+      "depart_time": "08:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "祁阳",
+      "arrive_time": "09:00",
+      "depart_time": "09:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "祁东",
+      "arrive_time": "09:24",
+      "depart_time": "09:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "衡阳",
+      "arrive_time": "10:38",
+      "depart_time": "10:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "衡山",
+      "arrive_time": "11:13",
+      "depart_time": "11:13",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "株洲",
+      "arrive_time": "12:17",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙",
+      "arrive_time": "12:17",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 50.5
+  },
+  "fetched_at": "2026-05-01T10:23:43.636229"
+}

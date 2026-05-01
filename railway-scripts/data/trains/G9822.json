@@ -1,0 +1,45 @@
+{
+  "train_no": "G9822",
+  "train_type": "G",
+  "depart_station": "萍乡北",
+  "arrive_station": "南昌西",
+  "depart_time": "09:15",
+  "arrive_time": "10:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "萍乡北",
+      "arrive_time": "09:15",
+      "depart_time": "09:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜春",
+      "arrive_time": "09:35",
+      "depart_time": "09:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "高安",
+      "arrive_time": "10:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南昌西",
+      "arrive_time": "10:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 456.0,
+    "price_first": 209.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T09:25:19.666201"
+}

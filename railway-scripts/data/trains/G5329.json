@@ -1,0 +1,45 @@
+{
+  "train_no": "G5329",
+  "train_type": "G",
+  "depart_station": "日照",
+  "arrive_station": "临沂北",
+  "depart_time": "17:51",
+  "arrive_time": "18:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "日照",
+      "arrive_time": "17:51",
+      "depart_time": "17:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "厉家寨",
+      "arrive_time": "18:17",
+      "depart_time": "18:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "莒南北",
+      "arrive_time": "18:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "临沂北",
+      "arrive_time": "18:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 185.0,
+    "price_first": 99.0,
+    "price_second": 62.0,
+    "price_no_seat": 62.0
+  },
+  "fetched_at": "2026-05-01T07:31:06.550641"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "G9195",
+  "train_type": "G",
+  "depart_station": "长治东",
+  "arrive_station": "郑州东",
+  "depart_time": "23:05",
+  "arrive_time": "00:40",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长治东",
+      "arrive_time": "23:05",
+      "depart_time": "23:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "郑州",
+      "arrive_time": "00:20",
+      "depart_time": "00:24",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "00:40",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 392.0,
+    "price_first": 187.0,
+    "price_second": 117.0,
+    "price_no_seat": 117.0
+  },
+  "fetched_at": "2026-05-01T09:07:52.247896"
+}

@@ -1,0 +1,45 @@
+{
+  "train_no": "G5571",
+  "train_type": "G",
+  "depart_station": "青岛北",
+  "arrive_station": "曲阜东",
+  "depart_time": "08:00",
+  "arrive_time": "09:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "08:00",
+      "depart_time": "08:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "日照西",
+      "arrive_time": "09:03",
+      "depart_time": "09:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "临沂北",
+      "arrive_time": "09:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "曲阜东",
+      "arrive_time": "09:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 558.0,
+    "price_first": 298.0,
+    "price_second": 186.0,
+    "price_no_seat": 186.0
+  },
+  "fetched_at": "2026-05-01T07:37:17.402360"
+}

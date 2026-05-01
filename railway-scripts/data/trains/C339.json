@@ -1,0 +1,72 @@
+{
+  "train_no": "C339",
+  "train_type": "C",
+  "depart_station": "蒲缥",
+  "arrive_station": "昆明",
+  "depart_time": "08:20",
+  "arrive_time": "13:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "蒲缥",
+      "arrive_time": "08:20",
+      "depart_time": "08:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "保山",
+      "arrive_time": "08:36",
+      "depart_time": "08:51",
+      "stay_min": "15"
+    },
+    {
+      "seq": 3,
+      "station_name": "永平县",
+      "arrive_time": "09:18",
+      "depart_time": "09:22",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "漾濞",
+      "arrive_time": "09:50",
+      "depart_time": "09:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "大理",
+      "arrive_time": "10:34",
+      "depart_time": "10:41",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "楚雄",
+      "arrive_time": "11:47",
+      "depart_time": "11:51",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "广通北",
+      "arrive_time": "12:06",
+      "depart_time": "12:13",
+      "stay_min": "7"
+    },
+    {
+      "seq": 8,
+      "station_name": "昆明",
+      "arrive_time": "13:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 356.0,
+    "price_second": 223.0,
+    "price_no_seat": 223.0
+  },
+  "fetched_at": "2026-05-01T00:58:16.471703"
+}

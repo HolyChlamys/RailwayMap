@@ -1,0 +1,49 @@
+{
+  "train_no": "K5465",
+  "train_type": "K",
+  "depart_station": "西安",
+  "arrive_station": "安康",
+  "depart_time": "06:28",
+  "arrive_time": "10:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "06:28",
+      "depart_time": "06:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "引镇",
+      "arrive_time": "07:07",
+      "depart_time": "07:13",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "镇安",
+      "arrive_time": "08:25",
+      "depart_time": "08:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "旬阳北",
+      "arrive_time": "09:20",
+      "depart_time": "09:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "安康",
+      "arrive_time": "10:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 41.5
+  },
+  "fetched_at": "2026-05-01T10:11:10.513846"
+}

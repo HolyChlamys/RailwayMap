@@ -1,0 +1,37 @@
+{
+  "train_no": "G8595",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "重庆西",
+  "depart_time": "23:44",
+  "arrive_time": "00:25",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "23:44",
+      "depart_time": "23:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "内江北",
+      "arrive_time": "00:25",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆西",
+      "arrive_time": "00:25",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 266.0,
+    "price_second": 166.0,
+    "price_no_seat": 166.0
+  },
+  "fetched_at": "2026-05-01T08:55:26.252271"
+}

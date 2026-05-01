@@ -1,0 +1,112 @@
+{
+  "train_no": "K789",
+  "train_type": "K",
+  "depart_station": "西安",
+  "arrive_station": "南昌",
+  "depart_time": "15:33",
+  "arrive_time": "09:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西安",
+      "arrive_time": "15:33",
+      "depart_time": "15:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "渭南西",
+      "arrive_time": "16:21",
+      "depart_time": "16:30",
+      "stay_min": "9"
+    },
+    {
+      "seq": 3,
+      "station_name": "商洛",
+      "arrive_time": "18:00",
+      "depart_time": "18:03",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "丹凤",
+      "arrive_time": "18:31",
+      "depart_time": "18:39",
+      "stay_min": "8"
+    },
+    {
+      "seq": 5,
+      "station_name": "西峡",
+      "arrive_time": "20:47",
+      "depart_time": "20:52",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "内乡",
+      "arrive_time": "21:20",
+      "depart_time": "21:25",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "唐河",
+      "arrive_time": "23:01",
+      "depart_time": "23:06",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "桐柏",
+      "arrive_time": "23:51",
+      "depart_time": "23:54",
+      "stay_min": "3"
+    },
+    {
+      "seq": 9,
+      "station_name": "信阳",
+      "arrive_time": "01:02",
+      "depart_time": "01:34",
+      "stay_min": "32"
+    },
+    {
+      "seq": 10,
+      "station_name": "潢川",
+      "arrive_time": "02:47",
+      "depart_time": "02:57",
+      "stay_min": "10"
+    },
+    {
+      "seq": 11,
+      "station_name": "麻城",
+      "arrive_time": "04:12",
+      "depart_time": "04:28",
+      "stay_min": "16"
+    },
+    {
+      "seq": 12,
+      "station_name": "武穴",
+      "arrive_time": "06:41",
+      "depart_time": "06:44",
+      "stay_min": "3"
+    },
+    {
+      "seq": 13,
+      "station_name": "九江",
+      "arrive_time": "07:25",
+      "depart_time": "07:30",
+      "stay_min": "5"
+    },
+    {
+      "seq": 14,
+      "station_name": "南昌",
+      "arrive_time": "09:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 152.5
+  },
+  "fetched_at": "2026-05-01T10:32:26.695781"
+}

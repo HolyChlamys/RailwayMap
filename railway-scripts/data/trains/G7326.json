@@ -1,0 +1,87 @@
+{
+  "train_no": "G7326",
+  "train_type": "G",
+  "depart_station": "瑞安",
+  "arrive_station": "上海南",
+  "depart_time": "12:49",
+  "arrive_time": "15:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "瑞安",
+      "arrive_time": "12:49",
+      "depart_time": "12:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "温州南",
+      "arrive_time": "13:03",
+      "depart_time": "13:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "青田",
+      "arrive_time": "13:24",
+      "depart_time": "13:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "缙云西",
+      "arrive_time": "13:54",
+      "depart_time": "13:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "永康南",
+      "arrive_time": "14:07",
+      "depart_time": "14:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "武义北",
+      "arrive_time": "14:20",
+      "depart_time": "14:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "义乌",
+      "arrive_time": "14:49",
+      "depart_time": "14:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "杭州东",
+      "arrive_time": "15:24",
+      "depart_time": "15:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "金山北",
+      "arrive_time": "15:58",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "上海南",
+      "arrive_time": "15:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 744.0,
+    "price_first": 355.5,
+    "price_second": 222.5,
+    "price_no_seat": 222.5
+  },
+  "fetched_at": "2026-05-01T08:24:17.650893"
+}

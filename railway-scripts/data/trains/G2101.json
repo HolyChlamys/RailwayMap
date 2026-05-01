@@ -1,0 +1,178 @@
+{
+  "train_no": "G2101",
+  "train_type": "G",
+  "depart_station": "信阳东",
+  "arrive_station": "牟平",
+  "depart_time": "06:39",
+  "arrive_time": "15:43",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "信阳东",
+      "arrive_time": "06:39",
+      "depart_time": "06:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "驻马店西",
+      "arrive_time": "07:04",
+      "depart_time": "07:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "漯河西",
+      "arrive_time": "07:24",
+      "depart_time": "07:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "许昌东",
+      "arrive_time": "07:42",
+      "depart_time": "07:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "郑州东",
+      "arrive_time": "08:07",
+      "depart_time": "08:11",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "兰考南",
+      "arrive_time": "08:42",
+      "depart_time": "08:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "庄寨",
+      "arrive_time": "09:01",
+      "depart_time": "09:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "菏泽东",
+      "arrive_time": "09:16",
+      "depart_time": "09:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "济宁北",
+      "arrive_time": "09:46",
+      "depart_time": "09:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "曲阜东",
+      "arrive_time": "10:09",
+      "depart_time": "10:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "济南",
+      "arrive_time": "10:48",
+      "depart_time": "10:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "淄博",
+      "arrive_time": "11:33",
+      "depart_time": "11:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "潍坊",
+      "arrive_time": "12:10",
+      "depart_time": "12:12",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "即墨北",
+      "arrive_time": "13:06",
+      "depart_time": "13:13",
+      "stay_min": "7"
+    },
+    {
+      "seq": 15,
+      "station_name": "夏格庄",
+      "arrive_time": "13:24",
+      "depart_time": "13:33",
+      "stay_min": "9"
+    },
+    {
+      "seq": 16,
+      "station_name": "莱西",
+      "arrive_time": "13:42",
+      "depart_time": "13:47",
+      "stay_min": "5"
+    },
+    {
+      "seq": 17,
+      "station_name": "莱阳南",
+      "arrive_time": "13:59",
+      "depart_time": "14:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 18,
+      "station_name": "海阳",
+      "arrive_time": "14:15",
+      "depart_time": "14:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 19,
+      "station_name": "乳山南",
+      "arrive_time": "14:30",
+      "depart_time": "14:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 20,
+      "station_name": "威海南海",
+      "arrive_time": "14:45",
+      "depart_time": "14:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 21,
+      "station_name": "荣成",
+      "arrive_time": "15:04",
+      "depart_time": "15:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 22,
+      "station_name": "威海",
+      "arrive_time": "15:25",
+      "depart_time": "15:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 23,
+      "station_name": "牟平",
+      "arrive_time": "15:43",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2620.0,
+    "price_first": 1198.0,
+    "price_second": 749.0,
+    "price_no_seat": 749.0
+  },
+  "fetched_at": "2026-05-01T06:01:49.365922"
+}

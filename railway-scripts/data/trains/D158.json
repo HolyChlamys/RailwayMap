@@ -1,0 +1,93 @@
+{
+  "train_no": "D158",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "衢州",
+  "depart_time": "09:06",
+  "arrive_time": "15:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "09:06",
+      "depart_time": "09:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁德",
+      "arrive_time": "09:54",
+      "depart_time": "10:01",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "周宁",
+      "arrive_time": "10:34",
+      "depart_time": "10:38",
+      "stay_min": "4"
+    },
+    {
+      "seq": 4,
+      "station_name": "屏南",
+      "arrive_time": "10:59",
+      "depart_time": "11:04",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "政和",
+      "arrive_time": "11:43",
+      "depart_time": "11:47",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "松溪",
+      "arrive_time": "12:03",
+      "depart_time": "12:15",
+      "stay_min": "12"
+    },
+    {
+      "seq": 7,
+      "station_name": "庆元",
+      "arrive_time": "12:29",
+      "depart_time": "12:51",
+      "stay_min": "22"
+    },
+    {
+      "seq": 8,
+      "station_name": "龙泉市",
+      "arrive_time": "13:35",
+      "depart_time": "13:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "松阳",
+      "arrive_time": "14:09",
+      "depart_time": "14:14",
+      "stay_min": "5"
+    },
+    {
+      "seq": 10,
+      "station_name": "遂昌",
+      "arrive_time": "14:31",
+      "depart_time": "14:35",
+      "stay_min": "4"
+    },
+    {
+      "seq": 11,
+      "station_name": "衢州",
+      "arrive_time": "15:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 251.0,
+    "price_second": 157.0,
+    "price_no_seat": 157.0
+  },
+  "fetched_at": "2026-05-01T03:00:44.328190"
+}

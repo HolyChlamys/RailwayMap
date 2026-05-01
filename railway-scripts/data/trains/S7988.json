@@ -1,0 +1,64 @@
+{
+  "train_no": "S7988",
+  "train_type": "S",
+  "depart_station": "株洲南",
+  "arrive_station": "长沙",
+  "depart_time": "22:11",
+  "arrive_time": "22:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "株洲南",
+      "arrive_time": "22:11",
+      "depart_time": "22:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "株洲",
+      "arrive_time": "22:19",
+      "depart_time": "22:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大丰",
+      "arrive_time": "22:26",
+      "depart_time": "22:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "先锋",
+      "arrive_time": "22:42",
+      "depart_time": "22:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "香樟路",
+      "arrive_time": "22:51",
+      "depart_time": "22:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "树木岭",
+      "arrive_time": "22:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "长沙",
+      "arrive_time": "22:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 29.0,
+    "price_no_seat": 29.0
+  },
+  "fetched_at": "2026-05-01T11:16:00.245744"
+}

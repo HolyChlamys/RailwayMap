@@ -1,0 +1,84 @@
+{
+  "train_no": "K8366",
+  "train_type": "K",
+  "depart_station": "上海",
+  "arrive_station": "亳州",
+  "depart_time": "22:33",
+  "arrive_time": "09:54",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "22:33",
+      "depart_time": "22:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山",
+      "arrive_time": "23:07",
+      "depart_time": "23:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "苏州",
+      "arrive_time": "23:34",
+      "depart_time": "23:39",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡",
+      "arrive_time": "00:07",
+      "depart_time": "00:11",
+      "stay_min": "4"
+    },
+    {
+      "seq": 5,
+      "station_name": "常州",
+      "arrive_time": "00:38",
+      "depart_time": "00:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京",
+      "arrive_time": "02:23",
+      "depart_time": "02:33",
+      "stay_min": "10"
+    },
+    {
+      "seq": 7,
+      "station_name": "蚌埠",
+      "arrive_time": "04:35",
+      "depart_time": "05:05",
+      "stay_min": "30"
+    },
+    {
+      "seq": 8,
+      "station_name": "淮南",
+      "arrive_time": "06:35",
+      "depart_time": "06:39",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "阜阳",
+      "arrive_time": "08:37",
+      "depart_time": "08:43",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "亳州",
+      "arrive_time": "09:54",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T10:38:54.068775"
+}

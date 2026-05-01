@@ -1,0 +1,73 @@
+{
+  "train_no": "G5496",
+  "train_type": "G",
+  "depart_station": "青岛北",
+  "arrive_station": "潍坊北",
+  "depart_time": "16:17",
+  "arrive_time": "18:58",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "16:17",
+      "depart_time": "16:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "莱西",
+      "arrive_time": "16:45",
+      "depart_time": "16:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "莱阳",
+      "arrive_time": "16:56",
+      "depart_time": "16:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "烟台西",
+      "arrive_time": "17:39",
+      "depart_time": "17:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "蓬莱",
+      "arrive_time": "17:51",
+      "depart_time": "17:55",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "龙口市",
+      "arrive_time": "18:07",
+      "depart_time": "18:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "莱州",
+      "arrive_time": "18:31",
+      "depart_time": "18:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "潍坊北",
+      "arrive_time": "18:58",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 785.0,
+    "price_first": 359.0,
+    "price_second": 224.0,
+    "price_no_seat": 224.0
+  },
+  "fetched_at": "2026-05-01T07:35:06.088108"
+}

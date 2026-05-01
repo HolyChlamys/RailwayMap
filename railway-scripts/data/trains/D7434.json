@@ -1,0 +1,45 @@
+{
+  "train_no": "D7434",
+  "train_type": "D",
+  "depart_station": "深圳北",
+  "arrive_station": "汕尾",
+  "depart_time": "19:32",
+  "arrive_time": "20:19",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "深圳北",
+      "arrive_time": "19:32",
+      "depart_time": "19:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "惠阳",
+      "arrive_time": "19:56",
+      "depart_time": "19:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "鲘门",
+      "arrive_time": "20:19",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "20:19",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 191.0,
+    "price_first": 87.0,
+    "price_second": 55.0,
+    "price_no_seat": 55.0
+  },
+  "fetched_at": "2026-05-01T04:38:40.563789"
+}

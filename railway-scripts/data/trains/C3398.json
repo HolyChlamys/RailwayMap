@@ -1,0 +1,43 @@
+{
+  "train_no": "C3398",
+  "train_type": "C",
+  "depart_station": "雅安",
+  "arrive_station": "成都南",
+  "depart_time": "12:57",
+  "arrive_time": "14:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "雅安",
+      "arrive_time": "12:57",
+      "depart_time": "12:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大邑",
+      "arrive_time": "13:33",
+      "depart_time": "13:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "羊马",
+      "arrive_time": "13:46",
+      "depart_time": "13:49",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "成都南",
+      "arrive_time": "14:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 58.0,
+    "price_no_seat": 58.0
+  },
+  "fetched_at": "2026-05-01T00:58:31.214715"
+}

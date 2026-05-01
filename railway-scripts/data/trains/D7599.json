@@ -1,0 +1,51 @@
+{
+  "train_no": "D7599",
+  "train_type": "D",
+  "depart_station": "广州东",
+  "arrive_station": "深圳北",
+  "depart_time": "19:51",
+  "arrive_time": "20:50",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州东",
+      "arrive_time": "19:51",
+      "depart_time": "19:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州新塘",
+      "arrive_time": "20:07",
+      "depart_time": "20:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东莞",
+      "arrive_time": "20:28",
+      "depart_time": "20:28",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "东莞南",
+      "arrive_time": "20:50",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "20:50",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 103.0,
+    "price_second": 83.0,
+    "price_no_seat": 83.0
+  },
+  "fetched_at": "2026-05-01T04:41:28.547792"
+}

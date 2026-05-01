@@ -1,0 +1,65 @@
+{
+  "train_no": "D3281",
+  "train_type": "D",
+  "depart_station": "武汉",
+  "arrive_station": "景德镇北",
+  "depart_time": "20:11",
+  "arrive_time": "23:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "20:11",
+      "depart_time": "20:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "鄂州",
+      "arrive_time": "20:33",
+      "depart_time": "20:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "黄石北",
+      "arrive_time": "20:47",
+      "depart_time": "20:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "大冶北",
+      "arrive_time": "20:57",
+      "depart_time": "20:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "阳新",
+      "arrive_time": "21:13",
+      "depart_time": "21:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "九江",
+      "arrive_time": "21:50",
+      "depart_time": "21:54",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "景德镇北",
+      "arrive_time": "23:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 260.0,
+    "price_second": 163.0,
+    "price_no_seat": 163.0
+  },
+  "fetched_at": "2026-05-01T03:31:03.991220"
+}

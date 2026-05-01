@@ -1,0 +1,37 @@
+{
+  "train_no": "C6680",
+  "train_type": "C",
+  "depart_station": "宜宾",
+  "arrive_station": "成都东",
+  "depart_time": "12:53",
+  "arrive_time": "13:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜宾",
+      "arrive_time": "12:53",
+      "depart_time": "12:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "南溪北",
+      "arrive_time": "13:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "成都东",
+      "arrive_time": "13:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 209.0,
+    "price_second": 131.0,
+    "price_no_seat": 131.0
+  },
+  "fetched_at": "2026-05-01T01:53:55.830513"
+}

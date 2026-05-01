@@ -1,0 +1,114 @@
+{
+  "train_no": "D7740",
+  "train_type": "D",
+  "depart_station": "大连",
+  "arrive_station": "沈阳",
+  "depart_time": "06:19",
+  "arrive_time": "10:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "大连",
+      "arrive_time": "06:19",
+      "depart_time": "06:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "金州",
+      "arrive_time": "06:44",
+      "depart_time": "06:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "城子坦",
+      "arrive_time": "07:18",
+      "depart_time": "07:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "花园口",
+      "arrive_time": "07:29",
+      "depart_time": "07:31",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "庄河北",
+      "arrive_time": "07:46",
+      "depart_time": "07:48",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "青堆",
+      "arrive_time": "08:00",
+      "depart_time": "08:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "大孤山",
+      "arrive_time": "08:16",
+      "depart_time": "08:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "北井子",
+      "arrive_time": "08:31",
+      "depart_time": "08:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "东港北",
+      "arrive_time": "08:43",
+      "depart_time": "08:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "丹东",
+      "arrive_time": "09:04",
+      "depart_time": "09:27",
+      "stay_min": "23"
+    },
+    {
+      "seq": 11,
+      "station_name": "通远堡西",
+      "arrive_time": "09:53",
+      "depart_time": "09:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "本溪",
+      "arrive_time": "10:16",
+      "depart_time": "10:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "沈阳南",
+      "arrive_time": "10:43",
+      "depart_time": "10:45",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "沈阳",
+      "arrive_time": "10:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 295.5,
+    "price_second": 184.5,
+    "price_no_seat": 184.5
+  },
+  "fetched_at": "2026-05-01T04:43:57.427594"
+}

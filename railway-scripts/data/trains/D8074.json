@@ -1,0 +1,37 @@
+{
+  "train_no": "D8074",
+  "train_type": "D",
+  "depart_station": "沈阳",
+  "arrive_station": "锦州北",
+  "depart_time": "16:35",
+  "arrive_time": "17:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "16:35",
+      "depart_time": "16:35",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "辽中",
+      "arrive_time": "17:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "锦州北",
+      "arrive_time": "17:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 124.0,
+    "price_second": 78.0,
+    "price_no_seat": 78.0
+  },
+  "fetched_at": "2026-05-01T04:49:09.675604"
+}

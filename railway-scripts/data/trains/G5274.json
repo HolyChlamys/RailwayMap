@@ -1,0 +1,45 @@
+{
+  "train_no": "G5274",
+  "train_type": "G",
+  "depart_station": "湛江北",
+  "arrive_station": "广州白云",
+  "depart_time": "20:15",
+  "arrive_time": "21:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "湛江北",
+      "arrive_time": "20:15",
+      "depart_time": "20:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "茂名南",
+      "arrive_time": "20:38",
+      "depart_time": "20:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阳江北",
+      "arrive_time": "21:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "广州白云",
+      "arrive_time": "21:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1152.0,
+    "price_first": 526.0,
+    "price_second": 329.0,
+    "price_no_seat": 329.0
+  },
+  "fetched_at": "2026-05-01T07:29:53.154864"
+}

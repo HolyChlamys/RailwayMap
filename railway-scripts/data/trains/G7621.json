@@ -1,0 +1,52 @@
+{
+  "train_no": "G7621",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "横店",
+  "depart_time": "21:15",
+  "arrive_time": "22:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "21:15",
+      "depart_time": "21:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉兴南",
+      "arrive_time": "21:47",
+      "depart_time": "21:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "杭州东",
+      "arrive_time": "22:14",
+      "depart_time": "22:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "义乌",
+      "arrive_time": "22:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "横店",
+      "arrive_time": "22:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 618.0,
+    "price_first": 283.0,
+    "price_second": 176.0,
+    "price_no_seat": 176.0
+  },
+  "fetched_at": "2026-05-01T08:32:24.143765"
+}

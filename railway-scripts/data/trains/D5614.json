@@ -1,0 +1,72 @@
+{
+  "train_no": "D5614",
+  "train_type": "D",
+  "depart_station": "南京南",
+  "arrive_station": "黄山北",
+  "depart_time": "19:02",
+  "arrive_time": "21:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "19:02",
+      "depart_time": "19:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "马鞍山东",
+      "arrive_time": "19:18",
+      "depart_time": "19:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "芜湖",
+      "arrive_time": "19:37",
+      "depart_time": "19:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "铜陵",
+      "arrive_time": "20:07",
+      "depart_time": "20:14",
+      "stay_min": "7"
+    },
+    {
+      "seq": 5,
+      "station_name": "池州",
+      "arrive_time": "20:32",
+      "depart_time": "20:48",
+      "stay_min": "16"
+    },
+    {
+      "seq": 6,
+      "station_name": "九华山",
+      "arrive_time": "21:02",
+      "depart_time": "21:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "黄山西",
+      "arrive_time": "21:19",
+      "depart_time": "21:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "黄山北",
+      "arrive_time": "21:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 279.0,
+    "price_second": 175.0,
+    "price_no_seat": 175.0
+  },
+  "fetched_at": "2026-05-01T04:09:21.139841"
+}

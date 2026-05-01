@@ -1,0 +1,66 @@
+{
+  "train_no": "C34",
+  "train_type": "C",
+  "depart_station": "西昌西",
+  "arrive_station": "成都南",
+  "depart_time": "16:17",
+  "arrive_time": "18:41",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "西昌西",
+      "arrive_time": "16:17",
+      "depart_time": "16:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "冕宁",
+      "arrive_time": "16:43",
+      "depart_time": "16:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "越西",
+      "arrive_time": "17:12",
+      "depart_time": "17:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "甘洛南",
+      "arrive_time": "17:38",
+      "depart_time": "17:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "峨边南",
+      "arrive_time": "18:10",
+      "depart_time": "18:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "峨眉",
+      "arrive_time": "18:41",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "成都南",
+      "arrive_time": "18:41",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 522.0,
+    "price_first": 239.0,
+    "price_second": 149.0,
+    "price_no_seat": 149.0
+  },
+  "fetched_at": "2026-05-01T00:58:34.476779"
+}

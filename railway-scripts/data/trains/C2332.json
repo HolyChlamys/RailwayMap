@@ -1,0 +1,37 @@
+{
+  "train_no": "C2332",
+  "train_type": "C",
+  "depart_station": "南京南",
+  "arrive_station": "徐州东",
+  "depart_time": "22:31",
+  "arrive_time": "23:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "22:31",
+      "depart_time": "22:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蚌埠南",
+      "arrive_time": "23:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "23:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 291.0,
+    "price_second": 182.0,
+    "price_no_seat": 182.0
+  },
+  "fetched_at": "2026-05-01T00:36:44.849577"
+}

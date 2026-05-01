@@ -1,0 +1,122 @@
+{
+  "train_no": "G828",
+  "train_type": "G",
+  "depart_station": "青岛北",
+  "arrive_station": "上海",
+  "depart_time": "13:50",
+  "arrive_time": "21:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "青岛北",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "青岛机场",
+      "arrive_time": "14:12",
+      "depart_time": "14:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "潍坊",
+      "arrive_time": "14:54",
+      "depart_time": "14:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "青州市",
+      "arrive_time": "15:18",
+      "depart_time": "15:20",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "淄博",
+      "arrive_time": "15:39",
+      "depart_time": "15:43",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "济南",
+      "arrive_time": "16:32",
+      "depart_time": "16:37",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "曲阜东",
+      "arrive_time": "17:15",
+      "depart_time": "17:17",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "徐州东",
+      "arrive_time": "17:55",
+      "depart_time": "17:57",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "蚌埠南",
+      "arrive_time": "18:36",
+      "depart_time": "18:38",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "定远",
+      "arrive_time": "18:54",
+      "depart_time": "19:03",
+      "stay_min": "9"
+    },
+    {
+      "seq": 11,
+      "station_name": "南京南",
+      "arrive_time": "19:33",
+      "depart_time": "19:36",
+      "stay_min": "3"
+    },
+    {
+      "seq": 12,
+      "station_name": "常州北",
+      "arrive_time": "20:08",
+      "depart_time": "20:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "无锡东",
+      "arrive_time": "20:27",
+      "depart_time": "20:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 14,
+      "station_name": "昆山南",
+      "arrive_time": "20:45",
+      "depart_time": "20:48",
+      "stay_min": "3"
+    },
+    {
+      "seq": 15,
+      "station_name": "上海",
+      "arrive_time": "21:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2191.0,
+    "price_first": 1007.0,
+    "price_second": 629.0,
+    "price_no_seat": 629.0
+  },
+  "fetched_at": "2026-05-01T08:46:50.530824"
+}

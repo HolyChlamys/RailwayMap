@@ -1,0 +1,58 @@
+{
+  "train_no": "D2179",
+  "train_type": "D",
+  "depart_station": "武汉",
+  "arrive_station": "黄梅东",
+  "depart_time": "06:21",
+  "arrive_time": "07:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "06:21",
+      "depart_time": "06:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "黄冈东",
+      "arrive_time": "06:54",
+      "depart_time": "06:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "浠水南",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "蕲春南",
+      "arrive_time": "07:23",
+      "depart_time": "07:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "武穴北",
+      "arrive_time": "07:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黄梅东",
+      "arrive_time": "07:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 141.0,
+    "price_second": 88.0,
+    "price_no_seat": 88.0
+  },
+  "fetched_at": "2026-05-01T03:11:33.362506"
+}

@@ -1,0 +1,38 @@
+{
+  "train_no": "C4224",
+  "train_type": "C",
+  "depart_station": "丽江",
+  "arrive_station": "保山",
+  "depart_time": "07:10",
+  "arrive_time": "11:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "丽江",
+      "arrive_time": "07:10",
+      "depart_time": "07:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大理",
+      "arrive_time": "08:50",
+      "depart_time": "09:09",
+      "stay_min": "19"
+    },
+    {
+      "seq": 3,
+      "station_name": "保山",
+      "arrive_time": "11:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 472.0,
+    "price_first": 233.0,
+    "price_second": 147.0,
+    "price_no_seat": 147.0
+  },
+  "fetched_at": "2026-05-01T01:11:11.183853"
+}

@@ -1,0 +1,73 @@
+{
+  "train_no": "G8616",
+  "train_type": "G",
+  "depart_station": "成都东",
+  "arrive_station": "巫山",
+  "depart_time": "11:18",
+  "arrive_time": "15:03",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都东",
+      "arrive_time": "11:18",
+      "depart_time": "11:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "12:35",
+      "depart_time": "12:41",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "垫江",
+      "arrive_time": "13:20",
+      "depart_time": "13:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "梁平南",
+      "arrive_time": "13:39",
+      "depart_time": "13:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "万州北",
+      "arrive_time": "14:03",
+      "depart_time": "14:07",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "云阳",
+      "arrive_time": "14:20",
+      "depart_time": "14:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "奉节",
+      "arrive_time": "14:41",
+      "depart_time": "14:43",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "巫山",
+      "arrive_time": "15:03",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1329.0,
+    "price_first": 608.0,
+    "price_second": 379.0,
+    "price_no_seat": 379.0
+  },
+  "fetched_at": "2026-05-01T08:55:57.515901"
+}

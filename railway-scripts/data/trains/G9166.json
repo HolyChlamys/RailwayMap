@@ -1,0 +1,59 @@
+{
+  "train_no": "G9166",
+  "train_type": "G",
+  "depart_station": "沈阳",
+  "arrive_station": "大连北",
+  "depart_time": "14:09",
+  "arrive_time": "15:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳",
+      "arrive_time": "14:09",
+      "depart_time": "14:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳南",
+      "arrive_time": "14:22",
+      "depart_time": "14:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "辽阳",
+      "arrive_time": "14:39",
+      "depart_time": "14:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鞍山西",
+      "arrive_time": "14:52",
+      "depart_time": "14:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "鲅鱼圈",
+      "arrive_time": "15:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "大连北",
+      "arrive_time": "15:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 728.0,
+    "price_first": 333.0,
+    "price_second": 208.0,
+    "price_no_seat": 208.0
+  },
+  "fetched_at": "2026-05-01T09:07:24.113260"
+}

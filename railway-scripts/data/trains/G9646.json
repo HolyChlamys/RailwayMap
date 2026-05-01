@@ -1,0 +1,66 @@
+{
+  "train_no": "G9646",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "邵阳",
+  "depart_time": "12:25",
+  "arrive_time": "15:26",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "12:25",
+      "depart_time": "12:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "韶关",
+      "arrive_time": "13:19",
+      "depart_time": "13:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州西",
+      "arrive_time": "13:52",
+      "depart_time": "13:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "衡阳东",
+      "arrive_time": "14:29",
+      "depart_time": "14:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西渡",
+      "arrive_time": "14:55",
+      "depart_time": "14:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "邵东",
+      "arrive_time": "15:26",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "邵阳",
+      "arrive_time": "15:26",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1194.0,
+    "price_first": 560.0,
+    "price_second": 350.0,
+    "price_no_seat": 350.0
+  },
+  "fetched_at": "2026-05-01T09:20:04.995862"
+}

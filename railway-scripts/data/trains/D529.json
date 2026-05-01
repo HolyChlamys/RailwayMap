@@ -1,0 +1,79 @@
+{
+  "train_no": "D529",
+  "train_type": "D",
+  "depart_station": "齐齐哈尔南",
+  "arrive_station": "吉林",
+  "depart_time": "17:43",
+  "arrive_time": "21:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "齐齐哈尔南",
+      "arrive_time": "17:43",
+      "depart_time": "17:43",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大庆东",
+      "arrive_time": "18:21",
+      "depart_time": "18:23",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "哈尔滨",
+      "arrive_time": "19:07",
+      "depart_time": "19:10",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "哈尔滨西",
+      "arrive_time": "19:20",
+      "depart_time": "19:26",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "双城北",
+      "arrive_time": "19:42",
+      "depart_time": "19:45",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "扶余北",
+      "arrive_time": "20:02",
+      "depart_time": "20:04",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "德惠西",
+      "arrive_time": "20:23",
+      "depart_time": "20:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "长春",
+      "arrive_time": "20:53",
+      "depart_time": "20:58",
+      "stay_min": "5"
+    },
+    {
+      "seq": 9,
+      "station_name": "吉林",
+      "arrive_time": "21:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 357.0,
+    "price_second": 223.0,
+    "price_no_seat": 223.0
+  },
+  "fetched_at": "2026-05-01T04:04:05.604369"
+}

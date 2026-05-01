@@ -1,0 +1,122 @@
+{
+  "train_no": "G2819",
+  "train_type": "G",
+  "depart_station": "上海",
+  "arrive_station": "武汉",
+  "depart_time": "16:22",
+  "arrive_time": "22:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "16:22",
+      "depart_time": "16:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "常熟",
+      "arrive_time": "17:11",
+      "depart_time": "17:13",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "张家港",
+      "arrive_time": "17:22",
+      "depart_time": "17:24",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "江阴",
+      "arrive_time": "17:38",
+      "depart_time": "17:40",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "武进",
+      "arrive_time": "17:54",
+      "depart_time": "17:56",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "金坛",
+      "arrive_time": "18:08",
+      "depart_time": "18:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "句容",
+      "arrive_time": "18:25",
+      "depart_time": "18:27",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "南京南",
+      "arrive_time": "18:45",
+      "depart_time": "18:49",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "马鞍山东",
+      "arrive_time": "19:06",
+      "depart_time": "19:08",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "当涂东",
+      "arrive_time": "19:16",
+      "depart_time": "19:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "芜湖",
+      "arrive_time": "19:31",
+      "depart_time": "19:33",
+      "stay_min": "2"
+    },
+    {
+      "seq": 12,
+      "station_name": "铜陵",
+      "arrive_time": "20:01",
+      "depart_time": "20:03",
+      "stay_min": "2"
+    },
+    {
+      "seq": 13,
+      "station_name": "安庆",
+      "arrive_time": "20:35",
+      "depart_time": "20:38",
+      "stay_min": "3"
+    },
+    {
+      "seq": 14,
+      "station_name": "潜山",
+      "arrive_time": "20:59",
+      "depart_time": "21:01",
+      "stay_min": "2"
+    },
+    {
+      "seq": 15,
+      "station_name": "武汉",
+      "arrive_time": "22:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1615.5,
+    "price_first": 750.0,
+    "price_second": 469.5,
+    "price_no_seat": 469.5
+  },
+  "fetched_at": "2026-05-01T06:21:09.274262"
+}

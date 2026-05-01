@@ -1,0 +1,66 @@
+{
+  "train_no": "G332",
+  "train_type": "G",
+  "depart_station": "重庆北",
+  "arrive_station": "北京西",
+  "depart_time": "14:33",
+  "arrive_time": "21:07",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "14:33",
+      "depart_time": "14:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "襄阳东",
+      "arrive_time": "17:26",
+      "depart_time": "17:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "19:09",
+      "depart_time": "19:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "邢台东",
+      "arrive_time": "20:07",
+      "depart_time": "20:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "石家庄",
+      "arrive_time": "20:34",
+      "depart_time": "20:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "保定东",
+      "arrive_time": "21:07",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "北京西",
+      "arrive_time": "21:07",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 3185.0,
+    "price_first": 1505.0,
+    "price_second": 941.0,
+    "price_no_seat": 941.0
+  },
+  "fetched_at": "2026-05-01T06:34:43.721787"
+}

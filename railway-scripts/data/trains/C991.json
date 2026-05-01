@@ -1,0 +1,52 @@
+{
+  "train_no": "C991",
+  "train_type": "C",
+  "depart_station": "博乐",
+  "arrive_station": "伊宁",
+  "depart_time": "19:50",
+  "arrive_time": "23:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "博乐",
+      "arrive_time": "19:50",
+      "depart_time": "19:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "双河市",
+      "arrive_time": "20:12",
+      "depart_time": "20:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "精河",
+      "arrive_time": "21:01",
+      "depart_time": "21:04",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "精河南",
+      "arrive_time": "21:16",
+      "depart_time": "21:18",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "伊宁",
+      "arrive_time": "23:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 253.0,
+    "price_first": 116.0,
+    "price_second": 72.0,
+    "price_no_seat": 72.0
+  },
+  "fetched_at": "2026-05-01T02:53:56.513111"
+}

@@ -1,0 +1,86 @@
+{
+  "train_no": "G7505",
+  "train_type": "G",
+  "depart_station": "南京南",
+  "arrive_station": "宁波",
+  "depart_time": "07:11",
+  "arrive_time": "10:37",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南京南",
+      "arrive_time": "07:11",
+      "depart_time": "07:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "镇江南",
+      "arrive_time": "07:32",
+      "depart_time": "07:32",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "常州北",
+      "arrive_time": "07:51",
+      "depart_time": "07:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "无锡东",
+      "arrive_time": "08:10",
+      "depart_time": "08:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "苏州北",
+      "arrive_time": "08:23",
+      "depart_time": "08:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "上海虹桥",
+      "arrive_time": "08:49",
+      "depart_time": "08:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "嘉兴南",
+      "arrive_time": "09:34",
+      "depart_time": "09:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "杭州东",
+      "arrive_time": "10:03",
+      "depart_time": "10:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "余姚北",
+      "arrive_time": "10:37",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "宁波",
+      "arrive_time": "10:37",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 536.0,
+    "price_second": 334.0,
+    "price_no_seat": 334.0
+  },
+  "fetched_at": "2026-05-01T08:29:04.604660"
+}

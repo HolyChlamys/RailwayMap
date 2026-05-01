@@ -1,0 +1,80 @@
+{
+  "train_no": "G6194",
+  "train_type": "G",
+  "depart_station": "长沙南",
+  "arrive_station": "惠州北",
+  "depart_time": "09:16",
+  "arrive_time": "13:16",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长沙南",
+      "arrive_time": "09:16",
+      "depart_time": "09:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "衡阳东",
+      "arrive_time": "09:49",
+      "depart_time": "09:54",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "郴州西",
+      "arrive_time": "10:24",
+      "depart_time": "10:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "韶关",
+      "arrive_time": "10:57",
+      "depart_time": "10:59",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "广州白云",
+      "arrive_time": "11:47",
+      "depart_time": "11:52",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "广州东",
+      "arrive_time": "12:09",
+      "depart_time": "12:12",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "广州新塘",
+      "arrive_time": "12:35",
+      "depart_time": "12:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "增城",
+      "arrive_time": "12:48",
+      "depart_time": "12:54",
+      "stay_min": "6"
+    },
+    {
+      "seq": 9,
+      "station_name": "惠州北",
+      "arrive_time": "13:16",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1603.0,
+    "price_first": 720.0,
+    "price_second": 458.0,
+    "price_no_seat": 458.0
+  },
+  "fetched_at": "2026-05-01T07:51:33.205908"
+}

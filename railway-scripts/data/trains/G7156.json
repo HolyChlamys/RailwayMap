@@ -1,0 +1,65 @@
+{
+  "train_no": "G7156",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "芜湖",
+  "depart_time": "20:15",
+  "arrive_time": "22:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "20:15",
+      "depart_time": "20:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州园区",
+      "arrive_time": "20:39",
+      "depart_time": "20:41",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡",
+      "arrive_time": "20:58",
+      "depart_time": "21:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "常州",
+      "arrive_time": "21:14",
+      "depart_time": "21:16",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "22:05",
+      "depart_time": "22:08",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "马鞍山东",
+      "arrive_time": "22:24",
+      "depart_time": "22:26",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "芜湖",
+      "arrive_time": "22:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 334.0,
+    "price_second": 209.0,
+    "price_no_seat": 209.0
+  },
+  "fetched_at": "2026-05-01T08:19:05.096551"
+}

@@ -1,0 +1,87 @@
+{
+  "train_no": "G935",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "济南东",
+  "depart_time": "17:30",
+  "arrive_time": "22:01",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "17:30",
+      "depart_time": "17:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "昆山南",
+      "arrive_time": "17:45",
+      "depart_time": "17:50",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "镇江南",
+      "arrive_time": "18:28",
+      "depart_time": "18:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "18:48",
+      "depart_time": "18:51",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "蚌埠南",
+      "arrive_time": "19:30",
+      "depart_time": "19:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "宿州东",
+      "arrive_time": "19:54",
+      "depart_time": "20:07",
+      "stay_min": "13"
+    },
+    {
+      "seq": 7,
+      "station_name": "徐州东",
+      "arrive_time": "20:25",
+      "depart_time": "20:28",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "曲阜东",
+      "arrive_time": "21:02",
+      "depart_time": "21:06",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "济南西",
+      "arrive_time": "21:37",
+      "depart_time": "21:39",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "济南东",
+      "arrive_time": "22:01",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1725.0,
+    "price_first": 792.0,
+    "price_second": 495.0,
+    "price_no_seat": 495.0
+  },
+  "fetched_at": "2026-05-01T09:12:03.153710"
+}

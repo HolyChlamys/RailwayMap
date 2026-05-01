@@ -1,0 +1,73 @@
+{
+  "train_no": "G5293",
+  "train_type": "G",
+  "depart_station": "济南西",
+  "arrive_station": "牟平",
+  "depart_time": "08:05",
+  "arrive_time": "12:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "济南西",
+      "arrive_time": "08:05",
+      "depart_time": "08:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济南",
+      "arrive_time": "08:24",
+      "depart_time": "08:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "章丘",
+      "arrive_time": "08:49",
+      "depart_time": "08:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "淄博",
+      "arrive_time": "09:15",
+      "depart_time": "09:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "潍坊",
+      "arrive_time": "09:56",
+      "depart_time": "09:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "荣成",
+      "arrive_time": "11:48",
+      "depart_time": "11:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "威海北",
+      "arrive_time": "12:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "牟平",
+      "arrive_time": "12:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1071.0,
+    "price_first": 490.0,
+    "price_second": 306.0,
+    "price_no_seat": 306.0
+  },
+  "fetched_at": "2026-05-01T07:30:27.124919"
+}

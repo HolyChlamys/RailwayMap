@@ -1,0 +1,94 @@
+{
+  "train_no": "G1426",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "湘潭北",
+  "depart_time": "10:52",
+  "arrive_time": "17:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "10:52",
+      "depart_time": "10:52",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州北",
+      "arrive_time": "11:15",
+      "depart_time": "11:19",
+      "stay_min": "4"
+    },
+    {
+      "seq": 3,
+      "station_name": "无锡东",
+      "arrive_time": "11:30",
+      "depart_time": "11:32",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "常州北",
+      "arrive_time": "11:48",
+      "depart_time": "11:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "南京南",
+      "arrive_time": "12:23",
+      "depart_time": "12:30",
+      "stay_min": "7"
+    },
+    {
+      "seq": 6,
+      "station_name": "合肥南",
+      "arrive_time": "13:18",
+      "depart_time": "13:21",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "六安",
+      "arrive_time": "13:45",
+      "depart_time": "13:47",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "麻城北",
+      "arrive_time": "14:35",
+      "depart_time": "14:37",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "武汉",
+      "arrive_time": "15:16",
+      "depart_time": "15:24",
+      "stay_min": "8"
+    },
+    {
+      "seq": 10,
+      "station_name": "长沙南",
+      "arrive_time": "16:44",
+      "depart_time": "16:50",
+      "stay_min": "6"
+    },
+    {
+      "seq": 11,
+      "station_name": "湘潭北",
+      "arrive_time": "17:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2103.0,
+    "price_first": 972.0,
+    "price_second": 607.0,
+    "price_no_seat": 607.0
+  },
+  "fetched_at": "2026-05-01T05:42:39.510868"
+}

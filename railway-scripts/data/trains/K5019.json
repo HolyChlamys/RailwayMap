@@ -1,0 +1,56 @@
+{
+  "train_no": "K5019",
+  "train_type": "K",
+  "depart_station": "沈阳北",
+  "arrive_station": "吉林",
+  "depart_time": "19:22",
+  "arrive_time": "00:31",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈阳北",
+      "arrive_time": "19:22",
+      "depart_time": "19:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "铁岭",
+      "arrive_time": "20:49",
+      "depart_time": "20:49",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "开原",
+      "arrive_time": "21:15",
+      "depart_time": "21:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "四平",
+      "arrive_time": "22:47",
+      "depart_time": "22:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "长春",
+      "arrive_time": "00:31",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "吉林",
+      "arrive_time": "00:31",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 62.5
+  },
+  "fetched_at": "2026-05-01T10:01:54.573807"
+}

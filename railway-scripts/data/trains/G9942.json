@@ -1,0 +1,30 @@
+{
+  "train_no": "G9942",
+  "train_type": "G",
+  "depart_station": "昆明南",
+  "arrive_station": "曲靖北",
+  "depart_time": "08:42",
+  "arrive_time": "08:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明南",
+      "arrive_time": "08:42",
+      "depart_time": "08:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲靖北",
+      "arrive_time": "08:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 113.0,
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T09:28:31.930596"
+}

@@ -1,0 +1,51 @@
+{
+  "train_no": "D9747",
+  "train_type": "D",
+  "depart_station": "汕头",
+  "arrive_station": "深圳北",
+  "depart_time": "21:30",
+  "arrive_time": "23:39",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汕头",
+      "arrive_time": "21:30",
+      "depart_time": "21:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "潮汕",
+      "arrive_time": "21:53",
+      "depart_time": "21:58",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "潮阳",
+      "arrive_time": "22:09",
+      "depart_time": "22:11",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "汕尾",
+      "arrive_time": "22:47",
+      "depart_time": "22:49",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "深圳北",
+      "arrive_time": "23:39",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 237.0,
+    "price_second": 148.0,
+    "price_no_seat": 148.0
+  },
+  "fetched_at": "2026-05-01T05:23:44.214182"
+}

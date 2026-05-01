@@ -1,0 +1,52 @@
+{
+  "train_no": "G9370",
+  "train_type": "G",
+  "depart_station": "武汉",
+  "arrive_station": "漯河西",
+  "depart_time": "21:39",
+  "arrive_time": "23:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武汉",
+      "arrive_time": "21:39",
+      "depart_time": "21:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感北",
+      "arrive_time": "22:11",
+      "depart_time": "22:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "信阳东",
+      "arrive_time": "22:33",
+      "depart_time": "22:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "驻马店西",
+      "arrive_time": "23:00",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "漯河西",
+      "arrive_time": "23:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 733.0,
+    "price_first": 335.0,
+    "price_second": 210.0,
+    "price_no_seat": 210.0
+  },
+  "fetched_at": "2026-05-01T09:12:29.961617"
+}

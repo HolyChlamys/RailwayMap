@@ -1,0 +1,57 @@
+{
+  "train_no": "C2876",
+  "train_type": "C",
+  "depart_station": "新郑机场",
+  "arrive_station": "开封",
+  "depart_time": "11:36",
+  "arrive_time": "12:34",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "新郑机场",
+      "arrive_time": "11:36",
+      "depart_time": "11:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孟庄",
+      "arrive_time": "11:44",
+      "depart_time": "11:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "郑州东",
+      "arrive_time": "12:04",
+      "depart_time": "12:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "绿博园",
+      "arrive_time": "12:17",
+      "depart_time": "12:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宋城路",
+      "arrive_time": "12:34",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "开封",
+      "arrive_time": "12:34",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 39.0,
+    "price_no_seat": 39.0
+  },
+  "fetched_at": "2026-05-01T00:45:48.811072"
+}

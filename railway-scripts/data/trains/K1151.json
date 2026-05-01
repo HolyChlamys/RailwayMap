@@ -1,0 +1,98 @@
+{
+  "train_no": "K1151",
+  "train_type": "K",
+  "depart_station": "重庆西",
+  "arrive_station": "杭州",
+  "depart_time": "11:33",
+  "arrive_time": "12:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆西",
+      "arrive_time": "11:33",
+      "depart_time": "11:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "重庆北",
+      "arrive_time": "12:02",
+      "depart_time": "12:14",
+      "stay_min": "12"
+    },
+    {
+      "seq": 3,
+      "station_name": "恩施",
+      "arrive_time": "17:36",
+      "depart_time": "17:45",
+      "stay_min": "9"
+    },
+    {
+      "seq": 4,
+      "station_name": "高坪",
+      "arrive_time": "18:39",
+      "depart_time": "19:00",
+      "stay_min": "21"
+    },
+    {
+      "seq": 5,
+      "station_name": "野三关",
+      "arrive_time": "19:21",
+      "depart_time": "19:32",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "宜昌东",
+      "arrive_time": "20:48",
+      "depart_time": "21:11",
+      "stay_min": "23"
+    },
+    {
+      "seq": 7,
+      "station_name": "襄阳",
+      "arrive_time": "23:48",
+      "depart_time": "00:13",
+      "stay_min": "1415"
+    },
+    {
+      "seq": 8,
+      "station_name": "信阳",
+      "arrive_time": "03:10",
+      "depart_time": "03:25",
+      "stay_min": "15"
+    },
+    {
+      "seq": 9,
+      "station_name": "潢川",
+      "arrive_time": "04:38",
+      "depart_time": "04:44",
+      "stay_min": "6"
+    },
+    {
+      "seq": 10,
+      "station_name": "合肥",
+      "arrive_time": "07:17",
+      "depart_time": "07:46",
+      "stay_min": "29"
+    },
+    {
+      "seq": 11,
+      "station_name": "芜湖",
+      "arrive_time": "09:14",
+      "depart_time": "09:21",
+      "stay_min": "7"
+    },
+    {
+      "seq": 12,
+      "station_name": "杭州",
+      "arrive_time": "12:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 213.0
+  },
+  "fetched_at": "2026-05-01T09:31:56.905785"
+}

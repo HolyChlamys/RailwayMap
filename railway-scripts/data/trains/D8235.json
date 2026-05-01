@@ -1,0 +1,52 @@
+{
+  "train_no": "D8235",
+  "train_type": "D",
+  "depart_station": "河池西",
+  "arrive_station": "南宁东",
+  "depart_time": "17:48",
+  "arrive_time": "18:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "河池西",
+      "arrive_time": "17:48",
+      "depart_time": "17:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "都安",
+      "arrive_time": "18:16",
+      "depart_time": "18:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "马山县",
+      "arrive_time": "18:30",
+      "depart_time": "18:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "南宁北",
+      "arrive_time": "18:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "南宁东",
+      "arrive_time": "18:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 313.0,
+    "price_first": 143.0,
+    "price_second": 90.0,
+    "price_no_seat": 90.0
+  },
+  "fetched_at": "2026-05-01T04:51:53.386625"
+}

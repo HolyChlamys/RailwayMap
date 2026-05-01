@@ -1,0 +1,80 @@
+{
+  "train_no": "G4571",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "赣州西",
+  "depart_time": "19:34",
+  "arrive_time": "23:53",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "19:34",
+      "depart_time": "19:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州南",
+      "arrive_time": "20:02",
+      "depart_time": "20:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "湖州东",
+      "arrive_time": "20:24",
+      "depart_time": "20:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "杭州西",
+      "arrive_time": "20:55",
+      "depart_time": "20:55",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "千岛湖",
+      "arrive_time": "21:38",
+      "depart_time": "21:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "黄山北",
+      "arrive_time": "22:18",
+      "depart_time": "22:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "景德镇北",
+      "arrive_time": "23:06",
+      "depart_time": "23:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "南昌东",
+      "arrive_time": "23:53",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "赣州西",
+      "arrive_time": "23:53",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 2121.0,
+    "price_first": 1037.0,
+    "price_second": 650.0,
+    "price_no_seat": 650.0
+  },
+  "fetched_at": "2026-05-01T07:09:10.106492"
+}

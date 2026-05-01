@@ -1,0 +1,65 @@
+{
+  "train_no": "G4965",
+  "train_type": "G",
+  "depart_station": "上海虹桥",
+  "arrive_station": "南昌东",
+  "depart_time": "02:50",
+  "arrive_time": "07:09",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海虹桥",
+      "arrive_time": "02:50",
+      "depart_time": "02:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "杭州西",
+      "arrive_time": "03:59",
+      "depart_time": "03:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "黄山北",
+      "arrive_time": "05:15",
+      "depart_time": "05:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "景德镇北",
+      "arrive_time": "06:26",
+      "depart_time": "06:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乐平北",
+      "arrive_time": "06:48",
+      "depart_time": "06:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "鄱阳",
+      "arrive_time": "07:09",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "南昌东",
+      "arrive_time": "07:09",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 678.0,
+    "price_second": 426.0,
+    "price_no_seat": 426.0
+  },
+  "fetched_at": "2026-05-01T07:21:12.453428"
+}

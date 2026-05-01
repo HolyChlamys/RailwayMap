@@ -1,0 +1,38 @@
+{
+  "train_no": "G9293",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "芜湖",
+  "depart_time": "20:09",
+  "arrive_time": "20:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "20:09",
+      "depart_time": "20:09",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "巢湖东",
+      "arrive_time": "20:32",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "芜湖",
+      "arrive_time": "20:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 197.5,
+    "price_first": 105.0,
+    "price_second": 64.0,
+    "price_no_seat": 64.0
+  },
+  "fetched_at": "2026-05-01T09:10:34.475703"
+}

@@ -1,0 +1,42 @@
+{
+  "train_no": "K7721",
+  "train_type": "K",
+  "depart_station": "北京丰台",
+  "arrive_station": "衡水",
+  "depart_time": "18:00",
+  "arrive_time": "20:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "北京丰台",
+      "arrive_time": "18:00",
+      "depart_time": "18:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "任丘",
+      "arrive_time": "20:08",
+      "depart_time": "20:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "肃宁",
+      "arrive_time": "20:42",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "衡水",
+      "arrive_time": "20:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 41.5
+  },
+  "fetched_at": "2026-05-01T10:31:27.077187"
+}

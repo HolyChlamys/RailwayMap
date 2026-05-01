@@ -1,0 +1,58 @@
+{
+  "train_no": "D6532",
+  "train_type": "D",
+  "depart_station": "福州",
+  "arrive_station": "泰宁",
+  "depart_time": "18:57",
+  "arrive_time": "20:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "福州",
+      "arrive_time": "18:57",
+      "depart_time": "18:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "永泰",
+      "arrive_time": "19:24",
+      "depart_time": "19:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "尤溪",
+      "arrive_time": "20:01",
+      "depart_time": "20:01",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "三明北",
+      "arrive_time": "20:21",
+      "depart_time": "20:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "将乐",
+      "arrive_time": "20:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "泰宁",
+      "arrive_time": "20:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 170.0,
+    "price_second": 106.0,
+    "price_no_seat": 106.0
+  },
+  "fetched_at": "2026-05-01T04:24:28.152738"
+}

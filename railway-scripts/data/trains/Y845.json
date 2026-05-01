@@ -1,0 +1,33 @@
+{
+  "train_no": "Y845",
+  "train_type": "Y",
+  "depart_station": "伊宁",
+  "arrive_station": "库尔勒",
+  "depart_time": "21:30",
+  "arrive_time": "10:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "伊宁",
+      "arrive_time": "21:30",
+      "depart_time": "21:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "库尔勒",
+      "arrive_time": "10:38",
+      "depart_time": "10:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "库尔勒",
+      "arrive_time": "10:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {},
+  "fetched_at": "2026-05-01T11:39:51.989789"
+}

@@ -1,0 +1,49 @@
+{
+  "train_no": "K9765",
+  "train_type": "K",
+  "depart_station": "乌鲁木齐",
+  "arrive_station": "阿勒泰",
+  "depart_time": "23:40",
+  "arrive_time": "04:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌鲁木齐",
+      "arrive_time": "23:40",
+      "depart_time": "23:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "石河子",
+      "arrive_time": "01:15",
+      "depart_time": "01:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "奎屯",
+      "arrive_time": "02:16",
+      "depart_time": "02:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "克拉玛依",
+      "arrive_time": "04:08",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "阿勒泰",
+      "arrive_time": "04:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 105.0
+  },
+  "fetched_at": "2026-05-01T10:48:47.068826"
+}

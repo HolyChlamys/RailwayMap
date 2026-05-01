@@ -1,0 +1,56 @@
+{
+  "train_no": "K6154",
+  "train_type": "K",
+  "depart_station": "襄阳",
+  "arrive_station": "武昌",
+  "depart_time": "13:30",
+  "arrive_time": "17:32",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "襄阳",
+      "arrive_time": "13:30",
+      "depart_time": "13:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "枣阳",
+      "arrive_time": "14:15",
+      "depart_time": "14:21",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "随州",
+      "arrive_time": "15:11",
+      "depart_time": "15:16",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "安陆",
+      "arrive_time": "15:52",
+      "depart_time": "15:57",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "云梦",
+      "arrive_time": "16:16",
+      "depart_time": "16:20",
+      "stay_min": "4"
+    },
+    {
+      "seq": 6,
+      "station_name": "武昌",
+      "arrive_time": "17:32",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 50.5
+  },
+  "fetched_at": "2026-05-01T10:18:44.991604"
+}

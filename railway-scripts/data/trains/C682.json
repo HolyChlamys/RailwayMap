@@ -1,0 +1,44 @@
+{
+  "train_no": "C682",
+  "train_type": "C",
+  "depart_station": "兰州",
+  "arrive_station": "陇南",
+  "depart_time": "07:38",
+  "arrive_time": "09:38",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "兰州",
+      "arrive_time": "07:38",
+      "depart_time": "07:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "渭源",
+      "arrive_time": "08:57",
+      "depart_time": "08:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "岷县",
+      "arrive_time": "09:38",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "陇南",
+      "arrive_time": "09:38",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 139.0,
+    "price_second": 87.0,
+    "price_no_seat": 87.0
+  },
+  "fetched_at": "2026-05-01T01:57:32.264860"
+}

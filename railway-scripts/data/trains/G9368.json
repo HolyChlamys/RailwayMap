@@ -1,0 +1,38 @@
+{
+  "train_no": "G9368",
+  "train_type": "G",
+  "depart_station": "巴东",
+  "arrive_station": "汉口",
+  "depart_time": "01:44",
+  "arrive_time": "03:04",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "巴东",
+      "arrive_time": "01:44",
+      "depart_time": "01:44",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "襄阳东",
+      "arrive_time": "03:04",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "汉口",
+      "arrive_time": "03:04",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 896.0,
+    "price_first": 444.0,
+    "price_second": 277.0,
+    "price_no_seat": 277.0
+  },
+  "fetched_at": "2026-05-01T09:12:24.961192"
+}

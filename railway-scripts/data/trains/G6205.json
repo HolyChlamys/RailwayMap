@@ -1,0 +1,38 @@
+{
+  "train_no": "G6205",
+  "train_type": "G",
+  "depart_station": "广州南",
+  "arrive_station": "深圳北",
+  "depart_time": "19:50",
+  "arrive_time": "20:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "19:50",
+      "depart_time": "19:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "光明城",
+      "arrive_time": "20:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "20:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 199.5,
+    "price_first": 99.5,
+    "price_second": 74.5,
+    "price_no_seat": 74.5
+  },
+  "fetched_at": "2026-05-01T07:51:51.404116"
+}

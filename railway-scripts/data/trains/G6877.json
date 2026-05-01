@@ -1,0 +1,66 @@
+{
+  "train_no": "G6877",
+  "train_type": "G",
+  "depart_station": "汉口",
+  "arrive_station": "襄阳东",
+  "depart_time": "13:19",
+  "arrive_time": "16:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "13:19",
+      "depart_time": "13:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "仙桃西",
+      "arrive_time": "14:03",
+      "depart_time": "14:09",
+      "stay_min": "6"
+    },
+    {
+      "seq": 3,
+      "station_name": "潜江",
+      "arrive_time": "14:20",
+      "depart_time": "14:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "荆州",
+      "arrive_time": "14:48",
+      "depart_time": "14:50",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "荆门西",
+      "arrive_time": "15:19",
+      "depart_time": "15:24",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "宜城",
+      "arrive_time": "15:47",
+      "depart_time": "15:50",
+      "stay_min": "3"
+    },
+    {
+      "seq": 7,
+      "station_name": "襄阳东",
+      "arrive_time": "16:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 809.0,
+    "price_first": 370.0,
+    "price_second": 231.0,
+    "price_no_seat": 231.0
+  },
+  "fetched_at": "2026-05-01T08:11:33.020826"
+}

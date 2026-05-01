@@ -1,0 +1,38 @@
+{
+  "train_no": "G6305",
+  "train_type": "G",
+  "depart_station": "广州北",
+  "arrive_station": "深圳北",
+  "depart_time": "23:33",
+  "arrive_time": "23:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州北",
+      "arrive_time": "23:33",
+      "depart_time": "23:33",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "广州南",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "深圳北",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 289.5,
+    "price_first": 140.5,
+    "price_second": 100.5,
+    "price_no_seat": 100.5
+  },
+  "fetched_at": "2026-05-01T07:54:51.480720"
+}

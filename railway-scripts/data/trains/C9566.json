@@ -1,0 +1,38 @@
+{
+  "train_no": "C9566",
+  "train_type": "C",
+  "depart_station": "诏安",
+  "arrive_station": "厦门北",
+  "depart_time": "21:51",
+  "arrive_time": "22:27",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "诏安",
+      "arrive_time": "21:51",
+      "depart_time": "21:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "漳州",
+      "arrive_time": "22:27",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "厦门北",
+      "arrive_time": "22:27",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 233.0,
+    "price_first": 107.0,
+    "price_second": 67.0,
+    "price_no_seat": 67.0
+  },
+  "fetched_at": "2026-05-01T02:49:23.749329"
+}

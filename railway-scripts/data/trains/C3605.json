@@ -1,0 +1,66 @@
+{
+  "train_no": "C3605",
+  "train_type": "C",
+  "depart_station": "芜湖",
+  "arrive_station": "上海南",
+  "depart_time": "06:54",
+  "arrive_time": "09:12",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "芜湖",
+      "arrive_time": "06:54",
+      "depart_time": "06:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "湾沚南",
+      "arrive_time": "07:12",
+      "depart_time": "07:14",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "宣城",
+      "arrive_time": "07:26",
+      "depart_time": "07:28",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "盛泽",
+      "arrive_time": "08:20",
+      "depart_time": "08:22",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "苏州南",
+      "arrive_time": "08:34",
+      "depart_time": "08:39",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "上海松江",
+      "arrive_time": "08:53",
+      "depart_time": "08:55",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "上海南",
+      "arrive_time": "09:12",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 694.0,
+    "price_first": 342.0,
+    "price_second": 214.0,
+    "price_no_seat": 214.0
+  },
+  "fetched_at": "2026-05-01T01:00:46.096986"
+}

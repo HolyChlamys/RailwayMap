@@ -1,0 +1,37 @@
+{
+  "train_no": "G8010",
+  "train_type": "G",
+  "depart_station": "长春",
+  "arrive_station": "大连",
+  "depart_time": "10:53",
+  "arrive_time": "12:06",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "长春",
+      "arrive_time": "10:53",
+      "depart_time": "10:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "沈阳北",
+      "arrive_time": "12:06",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "大连",
+      "arrive_time": "12:06",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 606.0,
+    "price_second": 379.0,
+    "price_no_seat": 379.0
+  },
+  "fetched_at": "2026-05-01T08:42:33.661116"
+}

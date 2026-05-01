@@ -1,0 +1,29 @@
+{
+  "train_no": "S5303",
+  "train_type": "S",
+  "depart_station": "贵安",
+  "arrive_station": "贵阳北",
+  "depart_time": "19:20",
+  "arrive_time": "19:20",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "贵安",
+      "arrive_time": "19:20",
+      "depart_time": "19:20",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "贵阳北",
+      "arrive_time": "19:20",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 22.0,
+    "price_no_seat": 22.0
+  },
+  "fetched_at": "2026-05-01T11:05:23.123145"
+}

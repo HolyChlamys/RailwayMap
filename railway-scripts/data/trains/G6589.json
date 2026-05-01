@@ -1,0 +1,73 @@
+{
+  "train_no": "G6589",
+  "train_type": "G",
+  "depart_station": "梅州西",
+  "arrive_station": "香港西九龙",
+  "depart_time": "11:03",
+  "arrive_time": "13:22",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "梅州西",
+      "arrive_time": "11:03",
+      "depart_time": "11:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "兴宁南",
+      "arrive_time": "11:21",
+      "depart_time": "11:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "龙川西",
+      "arrive_time": "11:46",
+      "depart_time": "11:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "河源东",
+      "arrive_time": "12:07",
+      "depart_time": "12:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "东莞南",
+      "arrive_time": "12:40",
+      "depart_time": "12:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "深圳北",
+      "arrive_time": "13:05",
+      "depart_time": "13:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "福田",
+      "arrive_time": "13:22",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "香港西九龙",
+      "arrive_time": "13:22",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 937.0,
+    "price_first": 445.0,
+    "price_second": 278.0,
+    "price_no_seat": 278.0
+  },
+  "fetched_at": "2026-05-01T08:03:16.160904"
+}

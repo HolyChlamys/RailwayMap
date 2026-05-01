@@ -1,0 +1,80 @@
+{
+  "train_no": "G6682",
+  "train_type": "G",
+  "depart_station": "沈丘北",
+  "arrive_station": "濮阳东",
+  "depart_time": "13:12",
+  "arrive_time": "15:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "沈丘北",
+      "arrive_time": "13:12",
+      "depart_time": "13:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "淮阳南",
+      "arrive_time": "13:24",
+      "depart_time": "13:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "周口东",
+      "arrive_time": "13:38",
+      "depart_time": "13:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "西华",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "鄢陵",
+      "arrive_time": "14:15",
+      "depart_time": "14:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州东",
+      "arrive_time": "14:56",
+      "depart_time": "14:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "新乡东",
+      "arrive_time": "15:24",
+      "depart_time": "15:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "滑浚",
+      "arrive_time": "15:44",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "濮阳东",
+      "arrive_time": "15:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 773.0,
+    "price_first": 381.0,
+    "price_second": 238.0,
+    "price_no_seat": 238.0
+  },
+  "fetched_at": "2026-05-01T08:05:49.861089"
+}

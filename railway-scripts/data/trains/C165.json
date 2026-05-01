@@ -1,0 +1,52 @@
+{
+  "train_no": "C165",
+  "train_type": "C",
+  "depart_station": "潼关",
+  "arrive_station": "西安",
+  "depart_time": "19:05",
+  "arrive_time": "20:10",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "潼关",
+      "arrive_time": "19:05",
+      "depart_time": "19:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "华山",
+      "arrive_time": "19:24",
+      "depart_time": "19:24",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "华州",
+      "arrive_time": "19:46",
+      "depart_time": "19:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "渭南",
+      "arrive_time": "20:10",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "西安",
+      "arrive_time": "20:10",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 146.0,
+    "price_first": 67.0,
+    "price_second": 42.0,
+    "price_no_seat": 42.0
+  },
+  "fetched_at": "2026-05-01T00:27:10.497064"
+}

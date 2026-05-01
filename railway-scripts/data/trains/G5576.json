@@ -1,0 +1,66 @@
+{
+  "train_no": "G5576",
+  "train_type": "G",
+  "depart_station": "菏泽东",
+  "arrive_station": "青岛北",
+  "depart_time": "14:51",
+  "arrive_time": "17:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "菏泽东",
+      "arrive_time": "14:51",
+      "depart_time": "14:51",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "济宁北",
+      "arrive_time": "15:21",
+      "depart_time": "15:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "曲阜东",
+      "arrive_time": "16:00",
+      "depart_time": "16:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "临沂北",
+      "arrive_time": "16:39",
+      "depart_time": "16:39",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "日照西",
+      "arrive_time": "17:10",
+      "depart_time": "17:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "董家口",
+      "arrive_time": "17:30",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "青岛北",
+      "arrive_time": "17:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 876.0,
+    "price_first": 443.0,
+    "price_second": 277.0,
+    "price_no_seat": 277.0
+  },
+  "fetched_at": "2026-05-01T07:37:25.658735"
+}

@@ -1,0 +1,59 @@
+{
+  "train_no": "C9280",
+  "train_type": "C",
+  "depart_station": "十堰东",
+  "arrive_station": "汉口",
+  "depart_time": "23:05",
+  "arrive_time": "00:48",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "十堰东",
+      "arrive_time": "23:05",
+      "depart_time": "23:05",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "谷城北",
+      "arrive_time": "23:31",
+      "depart_time": "23:31",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "襄阳东",
+      "arrive_time": "23:58",
+      "depart_time": "23:58",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "枣阳",
+      "arrive_time": "00:15",
+      "depart_time": "00:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "安陆西",
+      "arrive_time": "00:48",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "汉口",
+      "arrive_time": "00:48",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 746.0,
+    "price_first": 398.0,
+    "price_second": 248.0,
+    "price_no_seat": 248.0
+  },
+  "fetched_at": "2026-05-01T02:44:04.292067"
+}

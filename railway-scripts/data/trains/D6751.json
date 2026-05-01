@@ -1,0 +1,51 @@
+{
+  "train_no": "D6751",
+  "train_type": "D",
+  "depart_station": "乌兰察布",
+  "arrive_station": "包头",
+  "depart_time": "07:18",
+  "arrive_time": "09:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "乌兰察布",
+      "arrive_time": "07:18",
+      "depart_time": "07:18",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "呼和浩特东",
+      "arrive_time": "08:06",
+      "depart_time": "08:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "呼和浩特",
+      "arrive_time": "08:19",
+      "depart_time": "08:19",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "包头东",
+      "arrive_time": "09:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "包头",
+      "arrive_time": "09:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 153.0,
+    "price_second": 95.5,
+    "price_no_seat": 95.5
+  },
+  "fetched_at": "2026-05-01T04:27:51.901921"
+}

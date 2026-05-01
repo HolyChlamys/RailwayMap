@@ -1,0 +1,51 @@
+{
+  "train_no": "C6265",
+  "train_type": "C",
+  "depart_station": "成都南",
+  "arrive_station": "乐山",
+  "depart_time": "21:34",
+  "arrive_time": "22:14",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "成都南",
+      "arrive_time": "21:34",
+      "depart_time": "21:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "双流机场",
+      "arrive_time": "21:46",
+      "depart_time": "21:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "彭山北",
+      "arrive_time": "22:04",
+      "depart_time": "22:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "眉山东",
+      "arrive_time": "22:14",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乐山",
+      "arrive_time": "22:14",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 81.0,
+    "price_second": 51.0,
+    "price_no_seat": 51.0
+  },
+  "fetched_at": "2026-05-01T01:47:51.327999"
+}

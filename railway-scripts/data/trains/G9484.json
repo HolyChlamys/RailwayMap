@@ -1,0 +1,45 @@
+{
+  "train_no": "G9484",
+  "train_type": "G",
+  "depart_station": "合肥南",
+  "arrive_station": "淮北",
+  "depart_time": "20:36",
+  "arrive_time": "04:29",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "合肥南",
+      "arrive_time": "20:36",
+      "depart_time": "20:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "蚌埠南",
+      "arrive_time": "21:26",
+      "depart_time": "21:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "徐州东",
+      "arrive_time": "03:49",
+      "depart_time": "03:54",
+      "stay_min": "5"
+    },
+    {
+      "seq": 4,
+      "station_name": "淮北",
+      "arrive_time": "04:29",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 220.5,
+    "price_first": 117.5,
+    "price_second": 70.0,
+    "price_no_seat": 70.0
+  },
+  "fetched_at": "2026-05-01T09:15:28.353796"
+}

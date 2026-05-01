@@ -1,0 +1,84 @@
+{
+  "train_no": "K6178",
+  "train_type": "K",
+  "depart_station": "武昌",
+  "arrive_station": "周口",
+  "depart_time": "10:03",
+  "arrive_time": "17:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "武昌",
+      "arrive_time": "10:03",
+      "depart_time": "10:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "孝感",
+      "arrive_time": "11:06",
+      "depart_time": "11:16",
+      "stay_min": "10"
+    },
+    {
+      "seq": 3,
+      "station_name": "花园",
+      "arrive_time": "11:38",
+      "depart_time": "11:41",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "广水",
+      "arrive_time": "12:12",
+      "depart_time": "12:15",
+      "stay_min": "3"
+    },
+    {
+      "seq": 5,
+      "station_name": "信阳",
+      "arrive_time": "13:15",
+      "depart_time": "13:23",
+      "stay_min": "8"
+    },
+    {
+      "seq": 6,
+      "station_name": "确山",
+      "arrive_time": "14:13",
+      "depart_time": "14:18",
+      "stay_min": "5"
+    },
+    {
+      "seq": 7,
+      "station_name": "驻马店",
+      "arrive_time": "14:34",
+      "depart_time": "14:39",
+      "stay_min": "5"
+    },
+    {
+      "seq": 8,
+      "station_name": "西平",
+      "arrive_time": "15:06",
+      "depart_time": "15:10",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "漯河",
+      "arrive_time": "15:30",
+      "depart_time": "16:10",
+      "stay_min": "40"
+    },
+    {
+      "seq": 10,
+      "station_name": "周口",
+      "arrive_time": "17:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 69.0
+  },
+  "fetched_at": "2026-05-01T10:19:27.550122"
+}

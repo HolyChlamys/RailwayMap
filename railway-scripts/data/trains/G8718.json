@@ -1,0 +1,80 @@
+{
+  "train_no": "G8718",
+  "train_type": "G",
+  "depart_station": "内江北",
+  "arrive_station": "巫山",
+  "depart_time": "09:47",
+  "arrive_time": "13:30",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "内江北",
+      "arrive_time": "09:47",
+      "depart_time": "09:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "大足南",
+      "arrive_time": "10:07",
+      "depart_time": "10:12",
+      "stay_min": "5"
+    },
+    {
+      "seq": 3,
+      "station_name": "重庆北",
+      "arrive_time": "10:51",
+      "depart_time": "10:59",
+      "stay_min": "8"
+    },
+    {
+      "seq": 4,
+      "station_name": "长寿湖",
+      "arrive_time": "11:27",
+      "depart_time": "11:29",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "垫江",
+      "arrive_time": "11:45",
+      "depart_time": "11:55",
+      "stay_min": "10"
+    },
+    {
+      "seq": 6,
+      "station_name": "梁平南",
+      "arrive_time": "12:13",
+      "depart_time": "12:15",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "万州北",
+      "arrive_time": "12:37",
+      "depart_time": "12:40",
+      "stay_min": "3"
+    },
+    {
+      "seq": 8,
+      "station_name": "奉节",
+      "arrive_time": "13:08",
+      "depart_time": "13:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "巫山",
+      "arrive_time": "13:30",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 1035.0,
+    "price_first": 473.0,
+    "price_second": 295.0,
+    "price_no_seat": 295.0
+  },
+  "fetched_at": "2026-05-01T08:58:36.041919"
+}

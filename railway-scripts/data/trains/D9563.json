@@ -1,0 +1,65 @@
+{
+  "train_no": "D9563",
+  "train_type": "D",
+  "depart_station": "南通",
+  "arrive_station": "南京",
+  "depart_time": "07:17",
+  "arrive_time": "10:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南通",
+      "arrive_time": "07:17",
+      "depart_time": "07:17",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "如皋",
+      "arrive_time": "07:42",
+      "depart_time": "07:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "海安",
+      "arrive_time": "07:56",
+      "depart_time": "07:59",
+      "stay_min": "3"
+    },
+    {
+      "seq": 4,
+      "station_name": "姜堰",
+      "arrive_time": "08:17",
+      "depart_time": "08:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "泰州",
+      "arrive_time": "08:29",
+      "depart_time": "08:32",
+      "stay_min": "3"
+    },
+    {
+      "seq": 6,
+      "station_name": "扬州",
+      "arrive_time": "09:04",
+      "depart_time": "09:10",
+      "stay_min": "6"
+    },
+    {
+      "seq": 7,
+      "station_name": "南京",
+      "arrive_time": "10:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 169.0,
+    "price_second": 106.0,
+    "price_no_seat": 106.0
+  },
+  "fetched_at": "2026-05-01T05:18:32.156534"
+}

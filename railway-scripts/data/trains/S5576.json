@@ -1,0 +1,44 @@
+{
+  "train_no": "S5576",
+  "train_type": "S",
+  "depart_station": "重庆北",
+  "arrive_station": "梁平南",
+  "depart_time": "23:47",
+  "arrive_time": "00:45",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "23:47",
+      "depart_time": "23:47",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长寿北",
+      "arrive_time": "00:21",
+      "depart_time": "00:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "垫江",
+      "arrive_time": "00:45",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "梁平南",
+      "arrive_time": "00:45",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 138.0,
+    "price_second": 86.0,
+    "price_no_seat": 86.0
+  },
+  "fetched_at": "2026-05-01T11:09:07.035416"
+}

@@ -1,0 +1,79 @@
+{
+  "train_no": "D957",
+  "train_type": "D",
+  "depart_station": "上海",
+  "arrive_station": "重庆北",
+  "depart_time": "09:30",
+  "arrive_time": "20:08",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "上海",
+      "arrive_time": "09:30",
+      "depart_time": "09:30",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "苏州",
+      "arrive_time": "09:58",
+      "depart_time": "10:00",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "常州",
+      "arrive_time": "10:28",
+      "depart_time": "10:30",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "南京南",
+      "arrive_time": "11:21",
+      "depart_time": "11:26",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "合肥南",
+      "arrive_time": "12:14",
+      "depart_time": "12:19",
+      "stay_min": "5"
+    },
+    {
+      "seq": 6,
+      "station_name": "汉口",
+      "arrive_time": "14:07",
+      "depart_time": "14:11",
+      "stay_min": "4"
+    },
+    {
+      "seq": 7,
+      "station_name": "宜昌东",
+      "arrive_time": "15:54",
+      "depart_time": "15:58",
+      "stay_min": "4"
+    },
+    {
+      "seq": 8,
+      "station_name": "恩施",
+      "arrive_time": "17:42",
+      "depart_time": "17:46",
+      "stay_min": "4"
+    },
+    {
+      "seq": 9,
+      "station_name": "重庆北",
+      "arrive_time": "20:08",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 1125.0,
+    "price_second": 704.0,
+    "price_no_seat": 704.0
+  },
+  "fetched_at": "2026-05-01T05:18:42.064157"
+}

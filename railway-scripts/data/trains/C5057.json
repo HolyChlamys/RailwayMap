@@ -1,0 +1,66 @@
+{
+  "train_no": "C5057",
+  "train_type": "C",
+  "depart_station": "宜昌东",
+  "arrive_station": "武汉",
+  "depart_time": "19:59",
+  "arrive_time": "23:02",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "宜昌东",
+      "arrive_time": "19:59",
+      "depart_time": "19:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "荆州",
+      "arrive_time": "20:33",
+      "depart_time": "20:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 3,
+      "station_name": "仙桃西",
+      "arrive_time": "21:08",
+      "depart_time": "21:10",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "天门南",
+      "arrive_time": "21:24",
+      "depart_time": "21:29",
+      "stay_min": "5"
+    },
+    {
+      "seq": 5,
+      "station_name": "汉川",
+      "arrive_time": "21:45",
+      "depart_time": "21:57",
+      "stay_min": "12"
+    },
+    {
+      "seq": 6,
+      "station_name": "汉口",
+      "arrive_time": "22:21",
+      "depart_time": "22:38",
+      "stay_min": "17"
+    },
+    {
+      "seq": 7,
+      "station_name": "武汉",
+      "arrive_time": "23:02",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 454.0,
+    "price_first": 207.0,
+    "price_second": 130.0,
+    "price_no_seat": 130.0
+  },
+  "fetched_at": "2026-05-01T01:25:25.335643"
+}

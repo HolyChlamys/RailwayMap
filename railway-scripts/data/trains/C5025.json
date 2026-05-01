@@ -1,0 +1,31 @@
+{
+  "train_no": "C5025",
+  "train_type": "C",
+  "depart_station": "汉口",
+  "arrive_station": "宜昌北",
+  "depart_time": "01:00",
+  "arrive_time": "01:00",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "汉口",
+      "arrive_time": "01:00",
+      "depart_time": "01:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宜昌北",
+      "arrive_time": "01:00",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 766.0,
+    "price_first": 350.0,
+    "price_second": 219.0,
+    "price_no_seat": 219.0
+  },
+  "fetched_at": "2026-05-01T01:24:33.191210"
+}

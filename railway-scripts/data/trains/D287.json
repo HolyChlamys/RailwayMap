@@ -1,0 +1,58 @@
+{
+  "train_no": "D287",
+  "train_type": "D",
+  "depart_station": "南阳",
+  "arrive_station": "西安",
+  "depart_time": "15:38",
+  "arrive_time": "18:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南阳",
+      "arrive_time": "15:38",
+      "depart_time": "15:38",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "镇平",
+      "arrive_time": "16:10",
+      "depart_time": "16:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "西峡",
+      "arrive_time": "16:59",
+      "depart_time": "16:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "商南",
+      "arrive_time": "17:54",
+      "depart_time": "17:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "商洛北",
+      "arrive_time": "18:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "西安",
+      "arrive_time": "18:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 223.0,
+    "price_second": 139.0,
+    "price_no_seat": 139.0
+  },
+  "fetched_at": "2026-05-01T03:24:56.928393"
+}

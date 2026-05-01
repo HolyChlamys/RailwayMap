@@ -1,0 +1,79 @@
+{
+  "train_no": "D4382",
+  "train_type": "D",
+  "depart_station": "重庆北",
+  "arrive_station": "南京南",
+  "depart_time": "22:21",
+  "arrive_time": "06:49",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "重庆北",
+      "arrive_time": "22:21",
+      "depart_time": "22:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "长寿北",
+      "arrive_time": "22:53",
+      "depart_time": "22:53",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "涪陵北",
+      "arrive_time": "23:07",
+      "depart_time": "23:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "丰都",
+      "arrive_time": "23:29",
+      "depart_time": "23:29",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜昌东",
+      "arrive_time": "02:54",
+      "depart_time": "02:54",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "汉口",
+      "arrive_time": "04:42",
+      "depart_time": "04:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "六安",
+      "arrive_time": "06:21",
+      "depart_time": "06:21",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "合肥南",
+      "arrive_time": "06:49",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "南京南",
+      "arrive_time": "06:49",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 904.0,
+    "price_second": 566.0,
+    "price_no_seat": 566.0
+  },
+  "fetched_at": "2026-05-01T03:49:18.376926"
+}

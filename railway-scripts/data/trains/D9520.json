@@ -1,0 +1,38 @@
+{
+  "train_no": "D9520",
+  "train_type": "D",
+  "depart_station": "池州",
+  "arrive_station": "南京南",
+  "depart_time": "23:12",
+  "arrive_time": "23:55",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "池州",
+      "arrive_time": "23:12",
+      "depart_time": "23:12",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "芜湖",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南京南",
+      "arrive_time": "23:55",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 328.0,
+    "price_first": 150.0,
+    "price_second": 94.0,
+    "price_no_seat": 94.0
+  },
+  "fetched_at": "2026-05-01T05:17:22.749952"
+}

@@ -1,0 +1,37 @@
+{
+  "train_no": "C518",
+  "train_type": "C",
+  "depart_station": "白城",
+  "arrive_station": "长春",
+  "depart_time": "08:45",
+  "arrive_time": "10:11",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "白城",
+      "arrive_time": "08:45",
+      "depart_time": "08:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "松原",
+      "arrive_time": "10:11",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "长春",
+      "arrive_time": "10:11",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 197.0,
+    "price_second": 123.0,
+    "price_no_seat": 123.0
+  },
+  "fetched_at": "2026-05-01T01:28:48.615732"
+}

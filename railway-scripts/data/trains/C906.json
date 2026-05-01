@@ -1,0 +1,30 @@
+{
+  "train_no": "C906",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "曲靖",
+  "depart_time": "16:42",
+  "arrive_time": "16:42",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "16:42",
+      "depart_time": "16:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "曲靖",
+      "arrive_time": "16:42",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 78.0,
+    "price_second": 48.0,
+    "price_no_seat": 48.0
+  },
+  "fetched_at": "2026-05-01T02:39:49.075050"
+}

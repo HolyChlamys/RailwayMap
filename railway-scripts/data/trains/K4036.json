@@ -1,0 +1,35 @@
+{
+  "train_no": "K4036",
+  "train_type": "K",
+  "depart_station": "广州白云",
+  "arrive_station": "阜阳",
+  "depart_time": "10:26",
+  "arrive_time": "03:36",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "10:26",
+      "depart_time": "10:26",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "麻城",
+      "arrive_time": "03:36",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阜阳",
+      "arrive_time": "03:36",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 173.5
+  },
+  "fetched_at": "2026-05-01T09:45:58.925659"
+}

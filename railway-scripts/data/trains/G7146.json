@@ -1,0 +1,94 @@
+{
+  "train_no": "G7146",
+  "train_type": "G",
+  "depart_station": "安庆",
+  "arrive_station": "上海虹桥",
+  "depart_time": "13:57",
+  "arrive_time": "17:44",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "安庆",
+      "arrive_time": "13:57",
+      "depart_time": "13:57",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "池州",
+      "arrive_time": "14:14",
+      "depart_time": "14:17",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "繁昌西",
+      "arrive_time": "14:44",
+      "depart_time": "14:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "芜湖",
+      "arrive_time": "15:04",
+      "depart_time": "15:06",
+      "stay_min": "2"
+    },
+    {
+      "seq": 5,
+      "station_name": "马鞍山东",
+      "arrive_time": "15:23",
+      "depart_time": "15:25",
+      "stay_min": "2"
+    },
+    {
+      "seq": 6,
+      "station_name": "南京南",
+      "arrive_time": "15:42",
+      "depart_time": "15:44",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "丹阳",
+      "arrive_time": "16:20",
+      "depart_time": "16:29",
+      "stay_min": "9"
+    },
+    {
+      "seq": 8,
+      "station_name": "常州",
+      "arrive_time": "16:44",
+      "depart_time": "16:46",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "无锡",
+      "arrive_time": "17:00",
+      "depart_time": "17:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 10,
+      "station_name": "苏州",
+      "arrive_time": "17:17",
+      "depart_time": "17:19",
+      "stay_min": "2"
+    },
+    {
+      "seq": 11,
+      "station_name": "上海虹桥",
+      "arrive_time": "17:44",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 998.0,
+    "price_first": 456.0,
+    "price_second": 285.0,
+    "price_no_seat": 285.0
+  },
+  "fetched_at": "2026-05-01T08:18:50.241825"
+}

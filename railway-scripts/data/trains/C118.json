@@ -1,0 +1,45 @@
+{
+  "train_no": "C118",
+  "train_type": "C",
+  "depart_station": "昆明",
+  "arrive_station": "香格里拉",
+  "depart_time": "09:08",
+  "arrive_time": "14:24",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "昆明",
+      "arrive_time": "09:08",
+      "depart_time": "09:08",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "丽江",
+      "arrive_time": "12:55",
+      "depart_time": "13:02",
+      "stay_min": "7"
+    },
+    {
+      "seq": 3,
+      "station_name": "小中甸",
+      "arrive_time": "13:58",
+      "depart_time": "14:04",
+      "stay_min": "6"
+    },
+    {
+      "seq": 4,
+      "station_name": "香格里拉",
+      "arrive_time": "14:24",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 901.0,
+    "price_first": 462.0,
+    "price_second": 290.0,
+    "price_no_seat": 290.0
+  },
+  "fetched_at": "2026-05-01T00:22:54.215473"
+}

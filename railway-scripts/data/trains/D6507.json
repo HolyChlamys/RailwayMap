@@ -1,0 +1,72 @@
+{
+  "train_no": "D6507",
+  "train_type": "D",
+  "depart_station": "南昌",
+  "arrive_station": "福州",
+  "depart_time": "13:50",
+  "arrive_time": "17:18",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "南昌",
+      "arrive_time": "13:50",
+      "depart_time": "13:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "抚州",
+      "arrive_time": "14:45",
+      "depart_time": "14:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "南城",
+      "arrive_time": "15:06",
+      "depart_time": "15:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "建宁县北",
+      "arrive_time": "15:37",
+      "depart_time": "15:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "三明北",
+      "arrive_time": "16:22",
+      "depart_time": "16:22",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "尤溪",
+      "arrive_time": "16:42",
+      "depart_time": "16:42",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "永泰",
+      "arrive_time": "17:18",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "福州",
+      "arrive_time": "17:18",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 320.0,
+    "price_second": 200.5,
+    "price_no_seat": 200.5
+  },
+  "fetched_at": "2026-05-01T04:23:46.329582"
+}

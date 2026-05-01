@@ -1,0 +1,49 @@
+{
+  "train_no": "K7929",
+  "train_type": "K",
+  "depart_station": "包头东",
+  "arrive_station": "乌审旗",
+  "depart_time": "07:07",
+  "arrive_time": "09:05",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "包头东",
+      "arrive_time": "07:07",
+      "depart_time": "07:07",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "包头",
+      "arrive_time": "07:34",
+      "depart_time": "07:34",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "东胜西",
+      "arrive_time": "08:46",
+      "depart_time": "08:46",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "鄂尔多斯",
+      "arrive_time": "09:05",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "乌审旗",
+      "arrive_time": "09:05",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 50.5
+  },
+  "fetched_at": "2026-05-01T10:33:06.190763"
+}

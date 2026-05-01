@@ -1,0 +1,57 @@
+{
+  "train_no": "C6789",
+  "train_type": "C",
+  "depart_station": "广州南",
+  "arrive_station": "湛江西",
+  "depart_time": "22:50",
+  "arrive_time": "01:13",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州南",
+      "arrive_time": "22:50",
+      "depart_time": "22:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "台山",
+      "arrive_time": "23:36",
+      "depart_time": "23:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "阳江",
+      "arrive_time": "00:16",
+      "depart_time": "00:16",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "茂名",
+      "arrive_time": "00:59",
+      "depart_time": "00:59",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "吴川",
+      "arrive_time": "01:13",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "湛江西",
+      "arrive_time": "01:13",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_second": 260.0,
+    "price_no_seat": 260.0
+  },
+  "fetched_at": "2026-05-01T01:56:39.176577"
+}

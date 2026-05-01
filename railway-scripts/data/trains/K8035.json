@@ -1,0 +1,70 @@
+{
+  "train_no": "K8035",
+  "train_type": "K",
+  "depart_station": "商丘",
+  "arrive_station": "三门峡",
+  "depart_time": "14:25",
+  "arrive_time": "18:51",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "商丘",
+      "arrive_time": "14:25",
+      "depart_time": "14:25",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "宁陵县",
+      "arrive_time": "14:56",
+      "depart_time": "14:56",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "民权",
+      "arrive_time": "15:14",
+      "depart_time": "15:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "兰考",
+      "arrive_time": "15:40",
+      "depart_time": "15:40",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "开封",
+      "arrive_time": "16:15",
+      "depart_time": "16:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "郑州",
+      "arrive_time": "17:11",
+      "depart_time": "17:11",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "洛阳",
+      "arrive_time": "18:51",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "三门峡",
+      "arrive_time": "18:51",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 64.5
+  },
+  "fetched_at": "2026-05-01T10:34:05.703619"
+}

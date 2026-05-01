@@ -1,0 +1,52 @@
+{
+  "train_no": "G7360",
+  "train_type": "G",
+  "depart_station": "杭州",
+  "arrive_station": "上海",
+  "depart_time": "20:00",
+  "arrive_time": "21:28",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "杭州",
+      "arrive_time": "20:00",
+      "depart_time": "20:00",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "嘉善南",
+      "arrive_time": "20:36",
+      "depart_time": "20:36",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "上海虹桥",
+      "arrive_time": "21:03",
+      "depart_time": "21:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "上海西",
+      "arrive_time": "21:28",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "上海",
+      "arrive_time": "21:28",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_business": 379.0,
+    "price_first": 173.0,
+    "price_second": 108.0,
+    "price_no_seat": 108.0
+  },
+  "fetched_at": "2026-05-01T08:25:19.091803"
+}

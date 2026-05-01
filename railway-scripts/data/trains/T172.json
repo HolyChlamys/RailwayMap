@@ -1,0 +1,84 @@
+{
+  "train_no": "T172",
+  "train_type": "T",
+  "depart_station": "广州白云",
+  "arrive_station": "南昌",
+  "depart_time": "21:15",
+  "arrive_time": "08:56",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "广州白云",
+      "arrive_time": "21:15",
+      "depart_time": "21:15",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "韶关东",
+      "arrive_time": "23:37",
+      "depart_time": "23:37",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "株洲",
+      "arrive_time": "04:50",
+      "depart_time": "04:50",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "萍乡",
+      "arrive_time": "05:45",
+      "depart_time": "05:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "宜春",
+      "arrive_time": "06:27",
+      "depart_time": "06:27",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "新余",
+      "arrive_time": "07:03",
+      "depart_time": "07:03",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "樟树",
+      "arrive_time": "07:48",
+      "depart_time": "07:48",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "丰城",
+      "arrive_time": "08:14",
+      "depart_time": "08:14",
+      "stay_min": ""
+    },
+    {
+      "seq": 9,
+      "station_name": "向塘",
+      "arrive_time": "08:56",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 10,
+      "station_name": "南昌",
+      "arrive_time": "08:56",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 128.5
+  },
+  "fetched_at": "2026-05-01T11:22:29.938517"
+}

@@ -1,0 +1,70 @@
+{
+  "train_no": "K7158",
+  "train_type": "K",
+  "depart_station": "虎林",
+  "arrive_station": "鸡西",
+  "depart_time": "05:10",
+  "arrive_time": "08:23",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "虎林",
+      "arrive_time": "05:10",
+      "depart_time": "05:10",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "密山",
+      "arrive_time": "06:45",
+      "depart_time": "06:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 3,
+      "station_name": "连珠山",
+      "arrive_time": "07:06",
+      "depart_time": "07:06",
+      "stay_min": ""
+    },
+    {
+      "seq": 4,
+      "station_name": "黑台",
+      "arrive_time": "07:23",
+      "depart_time": "07:23",
+      "stay_min": ""
+    },
+    {
+      "seq": 5,
+      "station_name": "永安乡",
+      "arrive_time": "07:45",
+      "depart_time": "07:45",
+      "stay_min": ""
+    },
+    {
+      "seq": 6,
+      "station_name": "东海",
+      "arrive_time": "08:02",
+      "depart_time": "08:02",
+      "stay_min": ""
+    },
+    {
+      "seq": 7,
+      "station_name": "鸡东",
+      "arrive_time": "08:23",
+      "depart_time": "",
+      "stay_min": ""
+    },
+    {
+      "seq": 8,
+      "station_name": "鸡西",
+      "arrive_time": "08:23",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_hard_seat": 28.5
+  },
+  "fetched_at": "2026-05-01T10:28:50.227414"
+}

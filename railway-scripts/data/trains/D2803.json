@@ -1,0 +1,79 @@
+{
+  "train_no": "D2803",
+  "train_type": "D",
+  "depart_station": "呼和浩特东",
+  "arrive_station": "太原南",
+  "depart_time": "12:04",
+  "arrive_time": "15:46",
+  "stops": [
+    {
+      "seq": 1,
+      "station_name": "呼和浩特东",
+      "arrive_time": "12:04",
+      "depart_time": "12:04",
+      "stay_min": ""
+    },
+    {
+      "seq": 2,
+      "station_name": "乌兰察布",
+      "arrive_time": "12:43",
+      "depart_time": "12:46",
+      "stay_min": "3"
+    },
+    {
+      "seq": 3,
+      "station_name": "丰镇北",
+      "arrive_time": "13:07",
+      "depart_time": "13:09",
+      "stay_min": "2"
+    },
+    {
+      "seq": 4,
+      "station_name": "大同南",
+      "arrive_time": "13:32",
+      "depart_time": "13:38",
+      "stay_min": "6"
+    },
+    {
+      "seq": 5,
+      "station_name": "应县西",
+      "arrive_time": "13:58",
+      "depart_time": "14:09",
+      "stay_min": "11"
+    },
+    {
+      "seq": 6,
+      "station_name": "山阴南",
+      "arrive_time": "14:19",
+      "depart_time": "14:21",
+      "stay_min": "2"
+    },
+    {
+      "seq": 7,
+      "station_name": "朔州东",
+      "arrive_time": "14:33",
+      "depart_time": "14:35",
+      "stay_min": "2"
+    },
+    {
+      "seq": 8,
+      "station_name": "原平西",
+      "arrive_time": "15:00",
+      "depart_time": "15:02",
+      "stay_min": "2"
+    },
+    {
+      "seq": 9,
+      "station_name": "太原南",
+      "arrive_time": "15:46",
+      "depart_time": "",
+      "stay_min": ""
+    }
+  ],
+  "fares": {
+    "price_first": 387.0,
+    "price_second": 243.0,
+    "price_no_seat": 243.0
+  },
+  "fetched_at": "2026-05-01T03:23:38.211616"
+}
