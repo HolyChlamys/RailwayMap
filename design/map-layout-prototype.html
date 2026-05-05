@@ -1,0 +1,1378 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>中国铁路地图 — 布局原型</title>
+<style>
+/* ============================================================
+   DESIGN TOKENS
+   ============================================================ */
+:root {
+  --map-bg: #e8e0d5;
+  --map-grid: #dad3c5;
+  --map-shore: #d5cdbc;
+  --map-terrain-1: #e4dccf;
+  --map-terrain-2: #ece5d9;
+
+  --glass-bg: rgba(255,255,255,0.86);
+  --glass-bg-hover: rgba(255,255,255,0.94);
+  --glass-bg-active: rgba(255,255,255,0.98);
+  --glass-border: rgba(255,255,255,0.45);
+  --glass-blur: 16px;
+
+  --text-primary: #1a1a1a;
+  --text-secondary: #5c5c5c;
+  --text-tertiary: #999999;
+  --text-inverse: #ffffff;
+
+  --red-highspeed: #e74c3c;
+  --red-dark: #c0392b;
+  --orange-rapid: #e67e22;
+  --blue-conventional: #3498db;
+  --blue-dark: #2980b9;
+  --brown-freight: #8B4513;
+  --green-passenger: #27ae60;
+  --gray-other: #95a5a6;
+  --cyan-subway: #85C1E9;
+  --purple-depot: #8e44ad;
+
+  --shadow-sm: 0 1px 4px rgba(0,0,0,0.06);
+  --shadow-md: 0 4px 16px rgba(0,0,0,0.10);
+  --shadow-lg: 0 8px 32px rgba(0,0,0,0.14);
+  --shadow-xl: 0 16px 48px rgba(0,0,0,0.18);
+
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-full: 9999px;
+
+  --space-2xs: 2px;
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+
+  --font-sm: 12px;
+  --font-base: 14px;
+  --font-lg: 16px;
+  --font-xl: 18px;
+  --font-2xl: 22px;
+
+  --ease-out: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-in-out: cubic-bezier(0.4, 0, 0.6, 1);
+  --duration-fast: 150ms;
+  --duration-normal: 250ms;
+  --duration-slow: 350ms;
+}
+
+/* ============================================================
+   RESET & BASE
+   ============================================================ */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  width: 100%; height: 100%; overflow: hidden;
+  font-family: "PingFang SC", "Microsoft YaHei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+  font-size: var(--font-base);
+  color: var(--text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  user-select: none;
+}
+
+/* ============================================================
+   MAP BACKGROUND LAYER
+   ============================================================ */
+.map-background {
+  position: absolute; inset: 0;
+  background-color: var(--map-bg);
+  background-image:
+    /* Subtle terrain modulation */
+    radial-gradient(ellipse 1200px 800px at 65% 35%, var(--map-terrain-2) 0%, transparent 70%),
+    radial-gradient(ellipse 900px 600px at 35% 60%, var(--map-terrain-1) 0%, transparent 70%),
+    radial-gradient(ellipse 700px 500px at 75% 70%, var(--map-shore) 0%, transparent 60%),
+    /* Grid lines */
+    linear-gradient(rgba(0,0,0,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,0,0,0.03) 1px, transparent 1px);
+  background-size:
+    100% 100%, 100% 100%, 100% 100%,
+    80px 80px, 80px 80px;
+  z-index: 0;
+}
+
+/* Grid label hints */
+.map-background::after {
+  content: '';
+  position: absolute; inset: 0;
+  background:
+    linear-gradient(rgba(0,0,0,0.015) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,0,0,0.015) 1px, transparent 1px);
+  background-size: 320px 320px;
+}
+
+/* Railway lines SVG layer */
+.map-railways {
+  position: absolute; inset: 0;
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* ============================================================
+   STATION MARKERS ON MAP
+   ============================================================ */
+.station-marker {
+  position: absolute; z-index: 2;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  pointer-events: auto;
+  transition: transform var(--duration-fast) var(--ease-out);
+}
+.station-marker:hover { transform: translate(-50%, -50%) scale(1.3); }
+.station-marker:active { transform: translate(-50%, -50%) scale(0.95); }
+
+.station-marker .dot {
+  width: 12px; height: 12px;
+  border-radius: 50%;
+  border: 2px solid white;
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow var(--duration-fast);
+}
+.station-marker:hover .dot { box-shadow: var(--shadow-md); }
+
+.station-marker .label {
+  position: absolute; top: 14px; left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  font-size: var(--font-sm);
+  font-weight: 500;
+  color: var(--text-primary);
+  text-shadow: 0 0 4px white, 0 0 8px white, 0 0 12px white;
+  pointer-events: none;
+}
+
+.station-marker.major .dot {
+  width: 16px; height: 16px;
+  background: var(--red-highspeed);
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%,
+                     50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  border-radius: 0;
+}
+.station-marker.medium .dot { background: var(--orange-rapid); width: 10px; height: 10px; }
+.station-marker.small .dot { background: var(--gray-other); width: 8px; height: 8px; }
+.station-marker.yard .dot {
+  background: var(--blue-conventional); width: 10px; height: 10px;
+  border-radius: 2px; transform: rotate(45deg);
+}
+
+/* ============================================================
+   TOP SEARCH BAR
+   ============================================================ */
+.search-bar-container {
+  position: absolute; top: var(--space-lg); left: 50%;
+  transform: translateX(-50%);
+  z-index: 100;
+  width: 480px;
+  max-width: calc(100vw - 48px);
+  transition: width var(--duration-normal) var(--ease-out);
+}
+.search-bar-container.focused { width: 560px; }
+
+.search-bar {
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  transition:
+    background var(--duration-normal) var(--ease-out),
+    box-shadow var(--duration-normal) var(--ease-out);
+  overflow: hidden;
+}
+.search-bar-container.focused .search-bar {
+  background: var(--glass-bg-active);
+  box-shadow: var(--shadow-lg);
+}
+
+.search-bar-inner {
+  display: flex; align-items: center;
+  padding: var(--space-sm) var(--space-md);
+  gap: var(--space-sm);
+}
+
+/* Tab switcher inside search bar */
+.search-tabs {
+  display: flex; gap: 2px;
+  background: rgba(0,0,0,0.04);
+  border-radius: var(--radius-sm);
+  padding: 2px;
+  flex-shrink: 0;
+}
+.search-tab {
+  padding: 5px 12px; border: none; background: transparent;
+  border-radius: 6px; cursor: pointer;
+  font-size: var(--font-sm); font-weight: 500;
+  color: var(--text-secondary);
+  transition: all var(--duration-fast) var(--ease-out);
+  white-space: nowrap;
+}
+.search-tab.active {
+  background: white;
+  color: var(--text-primary);
+  box-shadow: var(--shadow-sm);
+}
+.search-tab:hover:not(.active) { color: var(--text-primary); }
+
+/* Input area */
+.search-input-wrap {
+  flex: 1; display: flex; align-items: center;
+  gap: var(--space-sm); min-width: 0;
+}
+.search-icon {
+  flex-shrink: 0; width: 18px; height: 18px;
+  color: var(--text-tertiary);
+}
+.search-input-wrap input {
+  flex: 1; border: none; outline: none;
+  background: transparent;
+  font-size: var(--font-lg); color: var(--text-primary);
+  font-family: inherit;
+  min-width: 0;
+}
+.search-input-wrap input::placeholder { color: var(--text-tertiary); }
+
+.search-shortcut {
+  flex-shrink: 0;
+  font-size: 11px; color: var(--text-tertiary);
+  background: rgba(0,0,0,0.05); padding: 2px 8px;
+  border-radius: var(--radius-xs);
+  letter-spacing: 0.5px;
+}
+
+/* Search dropdown */
+.search-dropdown {
+  display: none;
+  border-top: 1px solid rgba(0,0,0,0.06);
+  padding: var(--space-sm);
+  max-height: 320px; overflow-y: auto;
+}
+.search-bar-container.focused .search-dropdown { display: block; }
+
+.search-dropdown-section { padding: var(--space-sm) var(--space-sm) var(--space-xs); }
+.search-dropdown-title {
+  font-size: 11px; font-weight: 600; color: var(--text-tertiary);
+  text-transform: uppercase; letter-spacing: 1px;
+  padding: 0 var(--space-sm); margin-bottom: var(--space-xs);
+}
+.search-result-item {
+  display: flex; align-items: center; gap: var(--space-sm);
+  padding: var(--space-sm) var(--space-sm);
+  border-radius: var(--radius-sm); cursor: pointer;
+  transition: background var(--duration-fast);
+}
+.search-result-item:hover { background: rgba(0,0,0,0.04); }
+
+.search-result-item .type-badge {
+  width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0;
+}
+.search-result-item .type-badge.highspeed { background: var(--red-highspeed); }
+.search-result-item .type-badge.conventional { background: var(--blue-conventional); }
+.search-result-item .type-badge.station-major { background: var(--red-highspeed); clip-path: polygon(50% 0%,61% 35%,98% 35%,68% 57%,79% 91%,50% 70%,21% 91%,32% 57%,2% 35%,39% 35%); }
+.search-result-item .type-badge.station-medium { background: var(--orange-rapid); }
+
+.search-result-item .result-name { font-weight: 500; font-size: var(--font-base); }
+.search-result-item .result-sub {
+  margin-left: auto; font-size: var(--font-sm);
+  color: var(--text-tertiary);
+}
+
+/* ============================================================
+   LEGEND PANEL (BOTTOM-LEFT)
+   ============================================================ */
+.legend-panel {
+  position: absolute; left: var(--space-lg); bottom: var(--space-lg);
+  z-index: 100;
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  width: 260px;
+  max-height: calc(100vh - 200px);
+  display: flex; flex-direction: column;
+  transition:
+    max-height var(--duration-slow) var(--ease-out),
+    box-shadow var(--duration-normal) var(--ease-out);
+  overflow: hidden;
+}
+.legend-panel.collapsed { max-height: 44px; }
+
+.legend-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 10px var(--space-md);
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: background var(--duration-fast);
+}
+.legend-header:hover { background: rgba(0,0,0,0.02); }
+
+.legend-header-left {
+  display: flex; align-items: center; gap: var(--space-sm);
+  font-weight: 600; font-size: var(--font-base);
+}
+.legend-header-left .dot-row {
+  display: flex; gap: 3px; align-items: center;
+}
+.legend-header-left .dot-row span {
+  width: 6px; height: 6px; border-radius: 50%;
+}
+.legend-toggle {
+  width: 24px; height: 24px; border: none; background: none;
+  cursor: pointer; color: var(--text-tertiary);
+  display: flex; align-items: center; justify-content: center;
+  transition: transform var(--duration-normal) var(--ease-out);
+  font-size: 16px;
+}
+.legend-panel.collapsed .legend-toggle { transform: rotate(-90deg); }
+
+.legend-body {
+  overflow-y: auto; flex: 1;
+  padding: 0 var(--space-md) var(--space-md);
+  transition: opacity var(--duration-normal);
+}
+.legend-panel.collapsed .legend-body { opacity: 0; pointer-events: none; }
+
+.legend-section { margin-bottom: var(--space-md); }
+.legend-section-title {
+  font-size: 11px; font-weight: 600; color: var(--text-tertiary);
+  text-transform: uppercase; letter-spacing: 1px;
+  margin-bottom: var(--space-xs);
+  padding: var(--space-xs) 0;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+
+.legend-item {
+  display: flex; align-items: center; gap: var(--space-sm);
+  padding: 5px var(--space-xs);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background var(--duration-fast);
+  font-size: var(--font-sm);
+}
+.legend-item:hover { background: rgba(0,0,0,0.03); }
+
+.legend-item input[type="checkbox"] {
+  accent-color: var(--text-secondary);
+  width: 14px; height: 14px; flex-shrink: 0; cursor: pointer;
+}
+.legend-item .symbol {
+  width: 16px; height: 16px; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+}
+.legend-item .symbol .circle { border-radius: 50%; }
+.legend-item .symbol .diamond {
+  border-radius: 2px; transform: rotate(45deg);
+}
+.legend-item .symbol .square { border-radius: 2px; }
+.legend-item .symbol .triangle {
+  width: 0; height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 10px solid;
+}
+.legend-item .symbol .star {
+  font-size: 12px; line-height: 1;
+}
+.legend-item .symbol .line-sample {
+  width: 16px; height: 0;
+  border-top: 3px solid;
+  border-radius: 1px;
+}
+.legend-item .symbol .line-sample.dashed {
+  border-top-style: dashed;
+}
+.legend-item .item-label { flex: 1; color: var(--text-secondary); }
+.legend-item .item-count {
+  font-size: 11px; color: var(--text-tertiary);
+  flex-shrink: 0;
+}
+
+/* ============================================================
+   MAP CONTROLS (BOTTOM-RIGHT)
+   ============================================================ */
+.map-controls {
+  position: absolute; right: var(--space-lg); bottom: var(--space-lg);
+  z-index: 100;
+  display: flex; flex-direction: column; gap: var(--space-sm);
+}
+
+.map-control-btn {
+  width: 40px; height: 40px;
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-sm);
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  box-shadow: var(--shadow-sm);
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  transition: all var(--duration-fast) var(--ease-out);
+  color: var(--text-secondary);
+}
+.map-control-btn:hover {
+  background: var(--glass-bg-hover);
+  box-shadow: var(--shadow-md);
+  color: var(--text-primary);
+}
+.map-control-btn:active { transform: scale(0.95); }
+
+.map-control-btn svg { width: 20px; height: 20px; }
+
+.map-control-group {
+  display: flex; flex-direction: column;
+  border-radius: var(--radius-sm); overflow: hidden;
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--shadow-sm);
+}
+.map-control-group .map-control-btn {
+  border: none; border-radius: 0; box-shadow: none;
+}
+.map-control-group .map-control-btn + .map-control-btn {
+  border-top: 1px solid rgba(0,0,0,0.06);
+}
+.map-control-group .map-control-btn:first-child { border-radius: var(--radius-sm) var(--radius-sm) 0 0; }
+.map-control-group .map-control-btn:last-child { border-radius: 0 0 var(--radius-sm) var(--radius-sm); }
+
+/* ============================================================
+   INFO CARD DRAWER (BOTTOM)
+   ============================================================ */
+.info-card-overlay {
+  position: absolute; bottom: 0; left: 0; right: 0;
+  z-index: 200;
+  display: flex; justify-content: center;
+  pointer-events: none;
+}
+.info-card-overlay.active { pointer-events: auto; }
+
+.info-card {
+  background: var(--glass-bg-active);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+  box-shadow: var(--shadow-xl);
+  width: 520px; max-width: 100vw;
+  transform: translateY(100%);
+  transition: transform var(--duration-slow) var(--ease-out);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+.info-card-overlay.active .info-card { transform: translateY(0); }
+
+.info-card-handle {
+  display: flex; justify-content: center;
+  padding: var(--space-sm);
+  cursor: grab;
+}
+.info-card-handle::before {
+  content: '';
+  width: 32px; height: 4px;
+  background: rgba(0,0,0,0.15);
+  border-radius: 2px;
+}
+
+.info-card-header {
+  display: flex; align-items: flex-start; justify-content: space-between;
+  padding: 0 var(--space-lg) var(--space-sm);
+}
+.info-card-title-group { display: flex; align-items: center; gap: var(--space-sm); }
+.info-card-station-icon {
+  width: 36px; height: 36px; border-radius: 50%;
+  background: var(--red-highspeed);
+  display: flex; align-items: center; justify-content: center;
+  color: white; font-weight: 700; font-size: 16px;
+  box-shadow: 0 2px 8px rgba(231,76,60,0.3);
+}
+.info-card-title {
+  font-size: var(--font-xl); font-weight: 700;
+}
+.info-card-subtitle {
+  font-size: var(--font-sm); color: var(--text-secondary);
+}
+.info-card-close {
+  width: 32px; height: 32px; border: none; background: rgba(0,0,0,0.04);
+  border-radius: 50%; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text-tertiary);
+  transition: all var(--duration-fast);
+  font-size: 18px;
+}
+.info-card-close:hover { background: rgba(0,0,0,0.08); color: var(--text-primary); }
+
+.info-card-body { padding: var(--space-sm) var(--space-lg) var(--space-lg); }
+
+.info-row {
+  display: flex; align-items: center; gap: var(--space-sm);
+  padding: var(--space-sm) 0;
+  font-size: var(--font-base);
+}
+.info-row-label { color: var(--text-tertiary); width: 56px; flex-shrink: 0; font-size: var(--font-sm); }
+.info-row-value { color: var(--text-primary); font-weight: 500; }
+
+.info-tags { display: flex; gap: var(--space-sm); flex-wrap: wrap; }
+.info-tag {
+  padding: 3px 10px; border-radius: var(--radius-full);
+  font-size: var(--font-sm); font-weight: 500;
+}
+.info-tag.major { background: rgba(231,76,60,0.1); color: var(--red-highspeed); }
+.info-tag.passenger { background: rgba(39,174,96,0.1); color: var(--green-passenger); }
+
+.info-card-actions {
+  display: flex; gap: var(--space-sm);
+  padding-top: var(--space-md);
+}
+.info-action-btn {
+  flex: 1; padding: 10px var(--space-md);
+  border: none; border-radius: var(--radius-sm);
+  font-size: var(--font-base); font-weight: 600;
+  cursor: pointer;
+  transition: all var(--duration-fast) var(--ease-out);
+  font-family: inherit;
+}
+.info-action-btn.primary {
+  background: var(--text-primary); color: var(--text-inverse);
+}
+.info-action-btn.primary:hover { filter: brightness(1.2); }
+.info-action-btn.secondary {
+  background: rgba(0,0,0,0.04); color: var(--text-primary);
+}
+.info-action-btn.secondary:hover { background: rgba(0,0,0,0.08); }
+
+/* ============================================================
+   TOAST NOTIFICATION
+   ============================================================ */
+.toast {
+  position: absolute; top: 100px; left: 50%;
+  transform: translateX(-50%) translateY(-20px);
+  z-index: 300;
+  background: var(--text-primary); color: white;
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-full);
+  font-size: var(--font-sm); font-weight: 500;
+  box-shadow: var(--shadow-lg);
+  opacity: 0; transition: all var(--duration-normal) var(--ease-out);
+  pointer-events: none;
+}
+.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+/* ============================================================
+   TWEAKS PANEL
+   ============================================================ */
+.tweaks-toggle {
+  position: absolute; top: var(--space-lg); right: var(--space-lg);
+  z-index: 500;
+  width: 36px; height: 36px;
+  border: 1px solid var(--glass-border);
+  border-radius: 50%;
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  box-shadow: var(--shadow-sm);
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text-tertiary);
+  font-size: 14px;
+  transition: all var(--duration-fast);
+}
+.tweaks-toggle:hover { color: var(--text-primary); box-shadow: var(--shadow-md); }
+
+.tweaks-panel {
+  position: absolute; top: calc(var(--space-lg) + 48px); right: var(--space-lg);
+  z-index: 500;
+  background: var(--glass-bg-active);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
+  padding: var(--space-md);
+  width: 240px;
+  display: none;
+  flex-direction: column; gap: var(--space-md);
+}
+.tweaks-panel.open { display: flex; }
+
+.tweaks-panel h3 {
+  font-size: var(--font-sm); font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase; letter-spacing: 1px;
+}
+.tweak-row {
+  display: flex; align-items: center; justify-content: space-between;
+  font-size: var(--font-sm);
+}
+.tweak-row label { color: var(--text-secondary); }
+.tweak-row select, .tweak-row input[type="range"] {
+  font-size: var(--font-sm);
+  border: 1px solid rgba(0,0,0,0.1);
+  border-radius: var(--radius-xs);
+  padding: 2px 6px;
+  background: white;
+  font-family: inherit;
+}
+
+/* ============================================================
+   ANIMATIONS
+   ============================================================ */
+@keyframes pulse-ring {
+  0% { box-shadow: 0 0 0 0 rgba(231,76,60,0.4); }
+  70% { box-shadow: 0 0 0 10px rgba(231,76,60,0); }
+  100% { box-shadow: 0 0 0 0 rgba(231,76,60,0); }
+}
+.station-marker.selected .dot { animation: pulse-ring 2s ease-out infinite; }
+
+/* ============================================================
+   RESPONSIVE: SMALLER SCREENS
+   ============================================================ */
+@media (max-width: 768px) {
+  .search-bar-container { width: calc(100vw - 32px); }
+  .search-bar-container.focused { width: calc(100vw - 32px); }
+  .legend-panel {
+    left: var(--space-sm); bottom: var(--space-sm);
+    width: 220px; max-height: 40vh;
+  }
+  .map-controls { right: var(--space-sm); bottom: var(--space-sm); }
+  .info-card { width: 100vw; border-radius: var(--radius-lg) var(--radius-lg) 0 0; }
+}
+</style>
+</head>
+<body>
+
+<!-- ============================================================
+     MAP BACKGROUND
+     ============================================================ -->
+<div class="map-background"></div>
+
+<!-- Simulated railway lines -->
+<svg class="map-railways" viewBox="0 0 1920 1080" preserveAspectRatio="none">
+  <defs>
+    <filter id="line-glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- High-speed rail: Beijing → Shanghai -->
+  <path d="M 1248 300 C 1300 380, 1380 450, 1500 560" stroke="#e74c3c" stroke-width="3" fill="none" opacity="0.8" filter="url(#line-glow)"/>
+  <!-- High-speed rail: Beijing → Guangzhou -->
+  <path d="M 1248 300 C 1200 420, 1150 580, 1100 780" stroke="#e74c3c" stroke-width="3" fill="none" opacity="0.8" filter="url(#line-glow)"/>
+  <!-- High-speed rail: Beijing → Xi'an → Chengdu -->
+  <path d="M 1248 300 C 1100 350, 1000 420, 950 480 C 900 530, 820 600, 750 630" stroke="#e74c3c" stroke-width="2.5" fill="none" opacity="0.7"/>
+
+  <!-- Conventional rail: Beijing → Harbin -->
+  <path d="M 1248 300 C 1350 250, 1450 200, 1580 120" stroke="#3498db" stroke-width="2.5" fill="none" opacity="0.7"/>
+  <!-- Conventional rail: Lanzhou → Urumqi -->
+  <path d="M 550 420 C 450 400, 350 380, 200 350" stroke="#3498db" stroke-width="2" fill="none" opacity="0.6"/>
+
+  <!-- Freight rail: north corridor -->
+  <path d="M 1580 120 C 1450 180, 1300 350, 1100 450 C 950 520, 800 560, 750 630" stroke="#8B4513" stroke-width="2" fill="none" opacity="0.6" stroke-dasharray="8 4"/>
+
+  <!-- Rapid transit: coastal -->
+  <path d="M 1500 560 C 1480 650, 1400 720, 1250 800 C 1150 850, 1100 850, 1100 780" stroke="#e67e22" stroke-width="2" fill="none" opacity="0.6"/>
+
+  <!-- Subway: city loops -->
+  <ellipse cx="1248" cy="300" rx="80" ry="50" stroke="#85C1E9" stroke-width="1.5" fill="none" opacity="0.5" stroke-dasharray="4 3"/>
+  <ellipse cx="1500" cy="560" rx="60" ry="40" stroke="#85C1E9" stroke-width="1.5" fill="none" opacity="0.5" stroke-dasharray="4 3"/>
+  <ellipse cx="1100" cy="780" rx="55" ry="35" stroke="#85C1E9" stroke-width="1.5" fill="none" opacity="0.5" stroke-dasharray="4 3"/>
+
+  <!-- Other rail (connecting lines) -->
+  <path d="M 950 480 C 1000 550, 1050 600, 1100 780" stroke="#95a5a6" stroke-width="1.5" fill="none" opacity="0.5" stroke-dasharray="6 6"/>
+  <path d="M 1248 300 C 1150 320, 1000 380, 950 480" stroke="#95a5a6" stroke-width="1.5" fill="none" opacity="0.5"/>
+</svg>
+
+<!-- Station markers -->
+<div class="station-marker major" style="left:65%;top:28%;" data-station="北京" data-type="major_hub" data-city="北京市" data-routes="G1,G2,G3,D301">
+  <div class="dot"></div>
+  <div class="label">北京</div>
+</div>
+<div class="station-marker major" style="left:78%;top:52%;" data-station="上海虹桥" data-type="major_passenger" data-city="上海市" data-routes="G1,D301,G8">
+  <div class="dot"></div>
+  <div class="label">上海虹桥</div>
+</div>
+<div class="station-marker major" style="left:57%;top:72%;" data-station="广州南" data-type="major_hub" data-city="广州市" data-routes="G2,D940">
+  <div class="dot"></div>
+  <div class="label">广州南</div>
+</div>
+<div class="station-marker medium" style="left:39%;top:58%;" data-station="成都东" data-type="major_passenger" data-city="成都市" data-routes="D940,G89">
+  <div class="dot"></div>
+  <div class="label">成都东</div>
+</div>
+<div class="station-marker medium" style="left:49%;top:39%;" data-station="西安北" data-type="major_hub" data-city="西安市" data-routes="G89,D301">
+  <div class="dot"></div>
+  <div class="label">西安北</div>
+</div>
+<div class="station-marker medium" style="left:60%;top:50%;" data-station="武汉" data-type="major_passenger" data-city="武汉市" data-routes="G2,D940">
+  <div class="dot"></div>
+  <div class="label">武汉</div>
+</div>
+<div class="station-marker small" style="left:82%;top:11%;" data-station="哈尔滨西" data-type="major_passenger" data-city="哈尔滨市" data-routes="D101">
+  <div class="dot"></div>
+  <div class="label">哈尔滨西</div>
+</div>
+<div class="station-marker small" style="left:29%;top:35%;" data-station="兰州" data-type="medium_passenger" data-city="兰州市" data-routes="Z55">
+  <div class="dot"></div>
+  <div class="label">兰州</div>
+</div>
+<div class="station-marker yard" style="left:68%;top:44%;" data-station="济南西" data-type="large_yard" data-city="济南市" data-routes="G1,D301">
+  <div class="dot"></div>
+  <div class="label">济南西</div>
+</div>
+<div class="station-marker yard" style="left:60%;top:60%;" data-station="郑州东" data-type="large_yard" data-city="郑州市" data-routes="G2,G89">
+  <div class="dot"></div>
+  <div class="label">郑州东</div>
+</div>
+
+<!-- ============================================================
+     TOP SEARCH BAR
+     ============================================================ -->
+<div class="search-bar-container" id="searchContainer">
+  <div class="search-bar">
+    <div class="search-bar-inner">
+      <div class="search-tabs">
+        <button class="search-tab active" data-tab="station">车站</button>
+        <button class="search-tab" data-tab="train">车次</button>
+        <button class="search-tab" data-tab="transfer">换乘</button>
+      </div>
+      <div class="search-input-wrap">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/>
+        </svg>
+        <input type="text" id="searchInput" placeholder="搜索车站、线路或车次..." autocomplete="off">
+        <span class="search-shortcut">⌘K</span>
+      </div>
+    </div>
+    <div class="search-dropdown" id="searchDropdown">
+      <div class="search-dropdown-section">
+        <div class="search-dropdown-title">热门车站</div>
+        <div class="search-result-item" data-station-name="北京">
+          <span class="type-badge station-major"></span>
+          <span class="result-name">北京</span>
+          <span class="result-sub">枢纽站</span>
+        </div>
+        <div class="search-result-item" data-station-name="上海虹桥">
+          <span class="type-badge station-major"></span>
+          <span class="result-name">上海虹桥</span>
+          <span class="result-sub">主要站</span>
+        </div>
+        <div class="search-result-item" data-station-name="广州南">
+          <span class="type-badge station-major"></span>
+          <span class="result-name">广州南</span>
+          <span class="result-sub">枢纽站</span>
+        </div>
+        <div class="search-result-item" data-station-name="成都东">
+          <span class="type-badge station-medium"></span>
+          <span class="result-name">成都东</span>
+          <span class="result-sub">主要站</span>
+        </div>
+      </div>
+      <div class="search-dropdown-section">
+        <div class="search-dropdown-title">最近搜索</div>
+        <div class="search-result-item" data-station-name="西安北">
+          <span class="type-badge station-medium"></span>
+          <span class="result-name">西安北</span>
+          <span class="result-sub">枢纽站</span>
+        </div>
+        <div class="search-result-item" data-station-name="武汉">
+          <span class="type-badge station-medium"></span>
+          <span class="result-name">武汉</span>
+          <span class="result-sub">主要站</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================
+     LEGEND PANEL
+     ============================================================ -->
+<div class="legend-panel" id="legendPanel">
+  <div class="legend-header" id="legendHeader">
+    <div class="legend-header-left">
+      图例
+      <div class="dot-row">
+        <span style="background:#e74c3c;"></span>
+        <span style="background:#3498db;"></span>
+        <span style="background:#e67e22;"></span>
+        <span style="background:#8B4513;"></span>
+      </div>
+    </div>
+    <button class="legend-toggle" id="legendToggle">▼</button>
+  </div>
+  <div class="legend-body">
+
+    <!-- 车站分类 -->
+    <div class="legend-section">
+      <div class="legend-section-title">车站分类 (12)</div>
+
+      <label class="legend-item">
+        <input type="checkbox" checked onchange="toggleLayer('station-major_hub', this)">
+        <span class="symbol"><span class="star" style="color:#e74c3c;">★</span></span>
+        <span class="item-label">重要枢纽</span>
+        <span class="item-count">12</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" checked onchange="toggleLayer('station-major_passenger', this)">
+        <span class="symbol"><span class="circle" style="display:inline-block;width:10px;height:10px;background:#e74c3c;border-radius:50%;"></span></span>
+        <span class="item-label">主要车站</span>
+        <span class="item-count">86</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" checked onchange="toggleLayer('station-medium_passenger', this)">
+        <span class="symbol"><span class="circle" style="display:inline-block;width:7px;height:7px;background:#f39c12;border-radius:50%;"></span></span>
+        <span class="item-label">中等车站</span>
+        <span class="item-count">310</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" checked onchange="toggleLayer('station-small_passenger', this)">
+        <span class="symbol"><span class="circle" style="display:inline-block;width:5px;height:5px;background:#f39c12;border-radius:50%;"></span></span>
+        <span class="item-label">小型车站</span>
+        <span class="item-count">2,140</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" checked onchange="toggleLayer('station-small_non_passenger', this)">
+        <span class="symbol"><span class="circle" style="display:inline-block;width:5px;height:5px;background:#95a5a6;border-radius:50%;"></span></span>
+        <span class="item-label">小型站 (无客运)</span>
+        <span class="item-count">580</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" checked onchange="toggleLayer('station-large_yard', this)">
+        <span class="symbol"><span class="diamond" style="display:inline-block;width:8px;height:8px;background:#3498db;transform:rotate(45deg);"></span></span>
+        <span class="item-label">大型编组站</span>
+        <span class="item-count">24</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" checked onchange="toggleLayer('station-medium_yard', this)">
+        <span class="symbol"><span class="diamond" style="display:inline-block;width:6px;height:6px;background:#3498db;transform:rotate(45deg);"></span></span>
+        <span class="item-label">中小编组站</span>
+        <span class="item-count">68</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" onchange="toggleLayer('station-major_freight', this)">
+        <span class="symbol"><span class="square" style="display:inline-block;width:10px;height:10px;background:#8B4513;"></span></span>
+        <span class="item-label">重要货运站</span>
+        <span class="item-count">45</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" onchange="toggleLayer('station-signal_station', this)">
+        <span class="symbol"><span class="triangle" style="border-bottom-color:#27ae60;"></span></span>
+        <span class="item-label">线路所/信号站</span>
+        <span class="item-count">320</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" onchange="toggleLayer('station-other_facility', this)">
+        <span class="symbol" style="color:#95a5a6;font-size:10px;">✕</span>
+        <span class="item-label">其他设施</span>
+        <span class="item-count">190</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" onchange="toggleLayer('station-freight_yard', this)">
+        <span class="symbol"><span class="square" style="display:inline-block;width:7px;height:7px;background:#8B4513;"></span></span>
+        <span class="item-label">铁路货场</span>
+        <span class="item-count">95</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" onchange="toggleLayer('station-emu_depot', this)">
+        <span class="symbol"><span class="triangle" style="border-bottom-color:#8e44ad;"></span></span>
+        <span class="item-label">动车整备场</span>
+        <span class="item-count">38</span>
+      </label>
+    </div>
+
+    <!-- 铁路线分类 -->
+    <div class="legend-section">
+      <div class="legend-section-title">铁路线分类 (7)</div>
+
+      <label class="legend-item">
+        <input type="checkbox" checked onchange="toggleLayer('rail-conventional', this)">
+        <span class="symbol"><span class="line-sample" style="border-color:#e74c3c;"></span></span>
+        <span class="item-label">铁路 (双线/单线)</span>
+        <span class="item-count">2,310</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" checked onchange="toggleLayer('rail-high_speed', this)">
+        <span class="symbol"><span class="line-sample" style="border-color:#c0392b; border-top-width:4px;"></span></span>
+        <span class="item-label">高速铁路</span>
+        <span class="item-count">186</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" checked onchange="toggleLayer('rail-rapid_transit', this)">
+        <span class="symbol"><span class="line-sample" style="border-color:#e67e22;"></span></span>
+        <span class="item-label">快速/城际铁路</span>
+        <span class="item-count">94</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" onchange="toggleLayer('rail-passenger_rail', this)">
+        <span class="symbol"><span class="line-sample" style="border-color:#27ae60;"></span></span>
+        <span class="item-label">普通铁路 (客运)</span>
+        <span class="item-count">420</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" onchange="toggleLayer('rail-freight_rail', this)">
+        <span class="symbol"><span class="line-sample" style="border-color:#8B4513;"></span></span>
+        <span class="item-label">普通铁路 (货运)</span>
+        <span class="item-count">680</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" onchange="toggleLayer('rail-other_rail', this)">
+        <span class="symbol"><span class="line-sample dashed" style="border-color:#95a5a6;"></span></span>
+        <span class="item-label">其他 (专用/联络线)</span>
+        <span class="item-count">1,120</span>
+      </label>
+      <label class="legend-item">
+        <input type="checkbox" onchange="toggleLayer('rail-subway', this)">
+        <span class="symbol"><span class="line-sample" style="border-color:#85C1E9;border-top-width:2px;"></span></span>
+        <span class="item-label">地铁</span>
+        <span class="item-count">305</span>
+      </label>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================
+     MAP CONTROLS
+     ============================================================ -->
+<div class="map-controls">
+  <div class="map-control-group">
+    <button class="map-control-btn" title="放大" onclick="zoomIn()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/>
+      </svg>
+    </button>
+    <button class="map-control-btn" title="缩小" onclick="zoomOut()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <line x1="5" y1="12" x2="19" y2="12"/>
+      </svg>
+    </button>
+  </div>
+  <button class="map-control-btn" title="定位到我" onclick="locateMe()">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="12" cy="12" r="3"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4"/>
+    </svg>
+  </button>
+  <button class="map-control-btn" title="图层切换" onclick="toggleBaseMap()">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+    </svg>
+  </button>
+</div>
+
+<!-- ============================================================
+     INFO CARD DRAWER
+     ============================================================ -->
+<div class="info-card-overlay" id="infoCardOverlay">
+  <div class="info-card" id="infoCard">
+    <div class="info-card-handle" id="infoCardHandle"></div>
+    <div class="info-card-header">
+      <div>
+        <div class="info-card-title-group">
+          <div class="info-card-station-icon" id="infoIcon">京</div>
+          <div>
+            <div class="info-card-title" id="infoTitle">北京</div>
+            <div class="info-card-subtitle" id="infoSubtitle">北京市 · 重要枢纽站</div>
+          </div>
+        </div>
+      </div>
+      <button class="info-card-close" id="infoCardClose">✕</button>
+    </div>
+    <div class="info-card-body">
+      <div class="info-tags" id="infoTags">
+        <span class="info-tag major">枢纽站</span>
+        <span class="info-tag passenger">客运</span>
+      </div>
+      <div class="info-row">
+        <span class="info-row-label">途经线路</span>
+        <span class="info-row-value" id="infoRoutes">京沪线 · 京广线 · 京哈线</span>
+      </div>
+      <div class="info-row">
+        <span class="info-row-label">途经车次</span>
+        <span class="info-row-value" id="infoTrains">G1 · G2 · G3 · D301 · Z55</span>
+      </div>
+      <div class="info-card-actions">
+        <button class="info-action-btn primary">设为起点</button>
+        <button class="info-action-btn secondary">查看途经车次</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================
+     TOAST
+     ============================================================ -->
+<div class="toast" id="toast"></div>
+
+<!-- ============================================================
+     TWEAKS PANEL
+     ============================================================ -->
+<button class="tweaks-toggle" id="tweaksToggle" title="设计参数调整">⚙</button>
+<div class="tweaks-panel" id="tweaksPanel">
+  <h3>Tweaks</h3>
+  <div class="tweak-row">
+    <label>面板透明度</label>
+    <input type="range" min="70" max="98" value="86" oninput="updateGlassOpacity(this.value)">
+  </div>
+  <div class="tweak-row">
+    <label>圆角大小</label>
+    <select onchange="updateRadius(this.value)">
+      <option value="sharp">锐利 (4px)</option>
+      <option value="moderate" selected>适中 (8-12px)</option>
+      <option value="round">圆润 (16-20px)</option>
+    </select>
+  </div>
+  <div class="tweak-row">
+    <label>图例位置</label>
+    <select onchange="updateLegendPosition(this.value)">
+      <option value="bottom-left" selected>左下角</option>
+      <option value="bottom-right">右下角</option>
+      <option value="top-left">左上角</option>
+    </select>
+  </div>
+  <div class="tweak-row">
+    <label>搜索栏宽度</label>
+    <select onchange="updateSearchWidth(this.value)">
+      <option value="compact">紧凑 (380px)</option>
+      <option value="normal" selected>标准 (480px)</option>
+      <option value="wide">宽屏 (600px)</option>
+    </select>
+  </div>
+</div>
+
+<!-- ============================================================
+     JAVASCRIPT
+     ============================================================ -->
+<script>
+// ============================================================
+// SEARCH BAR INTERACTIONS
+// ============================================================
+const searchContainer = document.getElementById('searchContainer');
+const searchInput = document.getElementById('searchInput');
+
+searchInput.addEventListener('focus', () => {
+  searchContainer.classList.add('focused');
+});
+
+document.addEventListener('click', (e) => {
+  if (!searchContainer.contains(e.target)) {
+    searchContainer.classList.remove('focused');
+  }
+});
+
+// Tab switching
+document.querySelectorAll('.search-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.search-tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    searchInput.placeholder = {
+      station: '搜索车站、线路或地名...',
+      train: '搜索车次 (如 G1, D301)...',
+      transfer: '出发站 → 到达站'
+    }[tab.dataset.tab];
+    searchInput.value = '';
+    searchInput.focus();
+    searchContainer.classList.add('focused');
+  });
+});
+
+// Search result click → show info card
+document.querySelectorAll('.search-result-item').forEach(item => {
+  item.addEventListener('click', () => {
+    const name = item.dataset.stationName;
+    showInfoCard({ name, type: 'major_hub', city: name + '市', routes: 'G1 · D301' });
+    searchContainer.classList.remove('focused');
+    searchInput.value = name;
+  });
+});
+
+// Keyboard shortcut: Ctrl+K / Cmd+K
+document.addEventListener('keydown', (e) => {
+  if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+    e.preventDefault();
+    searchInput.focus();
+    searchContainer.classList.add('focused');
+  }
+  if (e.key === 'Escape') {
+    searchContainer.classList.remove('focused');
+    searchInput.blur();
+    hideInfoCard();
+  }
+});
+
+// ============================================================
+// LEGEND PANEL COLLAPSE/EXPAND
+// ============================================================
+const legendPanel = document.getElementById('legendPanel');
+const legendHeader = document.getElementById('legendHeader');
+const legendToggle = document.getElementById('legendToggle');
+
+legendHeader.addEventListener('click', () => {
+  legendPanel.classList.toggle('collapsed');
+});
+
+// ============================================================
+// STATION MARKER CLICK → INFO CARD
+// ============================================================
+document.querySelectorAll('.station-marker').forEach(marker => {
+  marker.addEventListener('click', (e) => {
+    e.stopPropagation();
+    // Remove previous selection
+    document.querySelectorAll('.station-marker.selected').forEach(m => m.classList.remove('selected'));
+    marker.classList.add('selected');
+
+    const data = marker.dataset;
+    showInfoCard({
+      name: data.station,
+      type: data.type,
+      city: data.city,
+      routes: data.routes
+    });
+  });
+});
+
+// ============================================================
+// INFO CARD SHOW/HIDE
+// ============================================================
+const infoCardOverlay = document.getElementById('infoCardOverlay');
+let isInfoCardVisible = false;
+
+function showInfoCard(station) {
+  document.getElementById('infoIcon').textContent = station.name.charAt(0);
+  document.getElementById('infoTitle').textContent = station.name;
+  document.getElementById('infoSubtitle').textContent = `${station.city} · ${getTypeLabel(station.type)}`;
+  document.getElementById('infoRoutes').textContent = getRoutesForStation(station.name);
+  document.getElementById('infoTrains').textContent = station.routes.split(',').join(' · ');
+
+  // Update tags
+  const tagsEl = document.getElementById('infoTags');
+  const tags = [];
+  if (station.type === 'major_hub') tags.push('<span class="info-tag major">枢纽站</span>');
+  if (station.type === 'major_passenger') tags.push('<span class="info-tag major">主要站</span>');
+  if (station.type !== 'small_non_passenger' && station.type !== 'major_freight' && station.type !== 'freight_yard') {
+    tags.push('<span class="info-tag passenger">客运</span>');
+  }
+  tagsEl.innerHTML = tags.join('');
+
+  infoCardOverlay.classList.add('active');
+  isInfoCardVisible = true;
+}
+
+function hideInfoCard() {
+  infoCardOverlay.classList.remove('active');
+  isInfoCardVisible = false;
+  document.querySelectorAll('.station-marker.selected').forEach(m => m.classList.remove('selected'));
+}
+
+document.getElementById('infoCardClose').addEventListener('click', hideInfoCard);
+
+// Click on map background → dismiss
+document.querySelector('.map-background').addEventListener('click', () => {
+  if (isInfoCardVisible) hideInfoCard();
+});
+
+// Simple drag-to-dismiss on info card handle
+const infoCardHandle = document.getElementById('infoCardHandle');
+let dragStartY = 0;
+infoCardHandle.addEventListener('mousedown', (e) => {
+  dragStartY = e.clientY;
+  const onMove = (ev) => {
+    const dy = ev.clientY - dragStartY;
+    if (dy > 40) {
+      hideInfoCard();
+      cleanup();
+    }
+  };
+  const cleanup = () => {
+    document.removeEventListener('mousemove', onMove);
+    document.removeEventListener('mouseup', cleanup);
+  };
+  document.addEventListener('mousemove', onMove);
+  document.addEventListener('mouseup', cleanup);
+});
+
+function getTypeLabel(type) {
+  const labels = {
+    major_hub: '重要枢纽站', major_passenger: '主要车站',
+    medium_passenger: '中等车站', small_passenger: '小型车站',
+    small_non_passenger: '小型站 (无客运)', large_yard: '大型编组站',
+    medium_yard: '中小编组站', major_freight: '重要货运站',
+    signal_station: '线路所', other_facility: '其他设施',
+    freight_yard: '铁路货场', emu_depot: '动车整备场'
+  };
+  return labels[type] || type;
+}
+
+function getRoutesForStation(name) {
+  const routes = {
+    '北京': '京沪线 · 京广线 · 京哈线 · 京张线',
+    '上海虹桥': '京沪线 · 沪昆线 · 沪宁线',
+    '广州南': '京广线 · 广深线 · 南广线',
+    '成都东': '成渝线 · 西成线 · 成贵线',
+    '西安北': '陇海线 · 西成线 · 大西线',
+    '武汉': '京广线 · 沪汉蓉线 · 武九线',
+    '哈尔滨西': '京哈线 · 哈大线 · 哈齐线',
+    '兰州': '陇海线 · 兰新线 · 包兰线',
+    '济南西': '京沪线 · 胶济线',
+    '郑州东': '京广线 · 陇海线 · 郑徐线'
+  };
+  return routes[name] || '暂无数据';
+}
+
+// ============================================================
+// MAP CONTROLS
+// ============================================================
+function zoomIn() {
+  showToast('放大 — 实际项目中使用 MapLibre GL JS 控制');
+}
+
+function zoomOut() {
+  showToast('缩小 — 实际项目中使用 MapLibre GL JS 控制');
+}
+
+function locateMe() {
+  showToast('定位到当前城市 — 需要浏览器定位权限');
+}
+
+function toggleBaseMap() {
+  const mapBg = document.querySelector('.map-background');
+  if (mapBg.style.filter === 'invert(0.9) hue-rotate(180deg)') {
+    mapBg.style.filter = '';
+    showToast('底图切换: 标准模式');
+  } else {
+    mapBg.style.filter = 'invert(0.9) hue-rotate(180deg)';
+    showToast('底图切换: 暗色模式');
+  }
+}
+
+// ============================================================
+// LEGEND LAYER TOGGLES
+// ============================================================
+function toggleLayer(layerId, checkbox) {
+  const action = checkbox.checked ? '显示' : '隐藏';
+  showToast(`图层 "${layerId}" → ${action}`);
+}
+
+// ============================================================
+// TOAST
+// ============================================================
+let toastTimer;
+function showToast(message) {
+  const toast = document.getElementById('toast');
+  toast.textContent = message;
+  toast.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toast.classList.remove('show'), 1800);
+}
+
+// ============================================================
+// TWEAKS PANEL
+// ============================================================
+const tweaksToggle = document.getElementById('tweaksToggle');
+const tweaksPanel = document.getElementById('tweaksPanel');
+
+tweaksToggle.addEventListener('click', (e) => {
+  e.stopPropagation();
+  tweaksPanel.classList.toggle('open');
+});
+
+document.addEventListener('click', (e) => {
+  if (!tweaksPanel.contains(e.target) && e.target !== tweaksToggle) {
+    tweaksPanel.classList.remove('open');
+  }
+});
+
+function updateGlassOpacity(value) {
+  const alpha = value / 100;
+  document.documentElement.style.setProperty('--glass-bg', `rgba(255,255,255,${alpha})`);
+  document.documentElement.style.setProperty('--glass-bg-hover', `rgba(255,255,255,${Math.min(alpha + 0.08, 0.99)})`);
+  document.documentElement.style.setProperty('--glass-bg-active', `rgba(255,255,255,${Math.min(alpha + 0.12, 1)})`);
+}
+
+function updateRadius(value) {
+  const root = document.documentElement;
+  if (value === 'sharp') {
+    root.style.setProperty('--radius-sm', '4px');
+    root.style.setProperty('--radius-md', '6px');
+    root.style.setProperty('--radius-lg', '8px');
+    root.style.setProperty('--radius-xl', '12px');
+  } else if (value === 'moderate') {
+    root.style.setProperty('--radius-sm', '8px');
+    root.style.setProperty('--radius-md', '12px');
+    root.style.setProperty('--radius-lg', '16px');
+    root.style.setProperty('--radius-xl', '20px');
+  } else {
+    root.style.setProperty('--radius-sm', '12px');
+    root.style.setProperty('--radius-md', '16px');
+    root.style.setProperty('--radius-lg', '20px');
+    root.style.setProperty('--radius-xl', '28px');
+  }
+}
+
+function updateLegendPosition(value) {
+  const panel = document.getElementById('legendPanel');
+  panel.style.removeProperty('left');
+  panel.style.removeProperty('right');
+  panel.style.removeProperty('top');
+  panel.style.removeProperty('bottom');
+
+  if (value === 'bottom-left') {
+    panel.style.left = 'var(--space-lg)';
+    panel.style.bottom = 'var(--space-lg)';
+  } else if (value === 'bottom-right') {
+    panel.style.right = 'var(--space-lg)';
+    panel.style.bottom = 'var(--space-lg)';
+  } else if (value === 'top-left') {
+    panel.style.left = 'var(--space-lg)';
+    panel.style.top = '120px';
+  }
+}
+
+function updateSearchWidth(value) {
+  const container = document.getElementById('searchContainer');
+  const widths = { compact: '380px', normal: '480px', wide: '600px' };
+  container.style.width = widths[value];
+
+  // Store default width for focus expansion
+  container.dataset.baseWidth = widths[value];
+  container.dataset.focusWidth = {
+    compact: '440px', normal: '560px', wide: '680px'
+  }[value];
+}
+
+// Override focus behavior for custom widths
+const origFocus = searchInput.addEventListener;
+document.getElementById('searchContainer').addEventListener('focusin', function(e) {
+  if (e.target === searchInput || searchInput.contains(e.target)) {
+    const fw = this.dataset.focusWidth;
+    if (fw) this.style.width = fw;
+  }
+});
+
+document.getElementById('searchContainer').addEventListener('focusout', function(e) {
+  if (!this.contains(e.relatedTarget)) {
+    const bw = this.dataset.baseWidth;
+    if (bw) this.style.width = bw;
+  }
+});
+
+// ============================================================
+// INITIAL STATE: Auto-collapse legend after 3s to show feature
+// ============================================================
+// Legend starts expanded so the user can see the full design.
+// Uncomment below to demo auto-collapse:
+// setTimeout(() => legendPanel.classList.add('collapsed'), 5000);
+</script>
+
+</body>
+</html>
