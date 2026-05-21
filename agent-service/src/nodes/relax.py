@@ -31,10 +31,10 @@ async def relax(state: AgentState) -> dict:
     if field == "via":
         relaxed.pop("via", None)
     elif field == "dMax":
-        current = relaxed.get("dMax", 240)
+        current = relaxed.get("dMax") or 240
         relaxed["dMax"] = min(current * 2, 720)
     elif field == "maxTransfers":
-        current = relaxed.get("maxTransfers", 2)
+        current = relaxed.get("maxTransfers") or 2
         relaxed["maxTransfers"] = current + 1
     elif field == "tStart_tEnd":
         relaxed.pop("tStart", None)
