@@ -9,7 +9,7 @@ async def search(state: AgentState) -> dict:
     tasks = []
 
     if intent == "station_query" or intent == "timetable_query":
-        name = constraints.get("stationName") or constraints.get("from")
+        name = constraints.get("stationName") or constraints.get("from") or constraints.get("to") or constraints.get("query")
         if name:
             tasks.append(("search_stations", ALL_TOOLS["search_stations"](name)))
         elif constraints.get("stationId"):

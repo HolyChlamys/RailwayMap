@@ -19,6 +19,8 @@ class ChatResponse(BaseModel):
     text: str
     instructions: list[dict]
     suggestions: list[str]
+    station: dict | None = None
+    routes: list[dict] | None = None
 
 
 sessions: dict[str, AgentState] = {}
@@ -39,6 +41,8 @@ def get_or_create_session(session_id: str | None) -> tuple[str, AgentState]:
             instructions=[],
             suggestions=[],
             relax_history=[],
+            station=None,
+            routes_data=None,
         )
     return sid, sessions[sid]
 
@@ -80,6 +84,8 @@ async def chat(req: ChatRequest):
     reply = sessions[sid].get("reply_text", "")
     instructions = sessions[sid].get("instructions", [])
     suggestions = sessions[sid].get("suggestions", [])
+    station = sessions[sid].get("station")
+    routes = sessions[sid].get("routes_data")
 
     sessions[sid]["messages"].append({"role": "agent", "content": reply})
 
@@ -88,6 +94,8 @@ async def chat(req: ChatRequest):
         text=reply,
         instructions=instructions,
         suggestions=suggestions,
+        station=station,
+        routes=routes,
     )
 
 

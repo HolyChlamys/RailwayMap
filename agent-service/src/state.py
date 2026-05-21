@@ -13,3 +13,5 @@ class AgentState(TypedDict):
     instructions: list[dict]      # [{action, ...params}]
     suggestions: list[str]
     relax_history: list[dict]     # [{original_constraints, relaxed_constraints, result_count}]
+    station: dict | None          # station data to pass to frontend
+    routes_data: list[dict] | None  # route plan data to pass to frontend

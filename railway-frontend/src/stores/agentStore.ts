@@ -74,8 +74,9 @@ export const useAgentStore = defineStore('agent', () => {
     switch (instruction.action) {
       case 'flyToStation': {
         const { stationId } = instruction as FlyToStationInstruction
+        const id = parseInt(stationId, 10)
         mapStore.setFocusStation(stationId)
-        stationStore.setCurrentStation(stationId)
+        stationStore.setCurrentStation(isNaN(id) ? null : id)
         break
       }
       case 'highlightTrain': {
@@ -95,7 +96,9 @@ export const useAgentStore = defineStore('agent', () => {
         break
       }
       case 'openPanel': {
-        // Panel opening handled by App.vue watch on stores
+        // StationPanel shows when stationStore.hasStation is true
+        // TrainPanel shows when trainStore has a current train
+        // Both are set by flyToStation / highlightTrain above
         break
       }
       case 'openModal': {

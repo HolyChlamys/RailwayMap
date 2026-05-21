@@ -6,33 +6,55 @@ async def format_reply(state: AgentState) -> dict:
     tool_results = state.get("tool_results", [])
     relax_history = state.get("relax_history", [])
     constraints = state.get("constraints") or {}
-    instructions = []
+    station = None
+    routes_data = None
     suggestions = []
 
     if intent == "station_query" or intent == "timetable_query":
-        reply_text, instructions = _format_station_result(tool_results, intent)
+        reply_text, instructions, station = _format_station_result(tool_results, intent)
     elif intent == "train_query":
-        reply_text, instructions = _format_train_result(tool_results)
+        reply_text, instructions, station = _format_train_result(tool_results)
     elif intent == "route_planning":
-        reply_text, instructions = _format_route_result(tool_results, relax_history, constraints)
+        reply_text, instructions, routes_data = _format_route_result(tool_results, relax_history, constraints)
         suggestions = ["只看高铁", "最少换乘", "尝试其他时间段"]
     elif intent == "isochrone":
         reply_text, instructions = _format_isochrone_result(tool_results, constraints)
         suggestions = ["细看哪个方向？", "从这些城市中选一个目的地规划路线"]
     else:
         reply_text = "有什么我可以帮你的？"
+        suggestions = []
 
-    return {
+    result = {
         "reply_text": reply_text,
         "instructions": instructions,
         "suggestions": suggestions,
     }
+    if station is not None:
+        result["station"] = station
+    if routes_data is not None:
+        result["routes_data"] = routes_data
+    return result
 
 
-def _format_station_result(tool_results: list[dict], intent: str) -> tuple[str, list[dict]]:
+def _nested_get(d: dict, *keys, default=None):
+    for k in keys:
+        if isinstance(d, dict):
+            d = d.get(k, default)
+        else:
+            return default
+    return d
+
+
+def _format_station_result(tool_results: list[dict], intent: str) -> tuple[str, list[dict], dict | None]:
     for r in tool_results:
-        if r.get("tool") in ("search_stations", "get_station_detail", "get_station_timetable"):
-            station = r.get("station") or (r.get("stations", [None])[0] if r.get("stations") else None)
+        t = r.get("tool", "")
+        if t in ("search_stations", "get_station_detail", "get_station_timetable"):
+            # Try multiple possible keys for station data
+            station = r.get("station")
+            if not station:
+                stations_list = r.get("stations")
+                if stations_list and len(stations_list) > 0:
+                    station = stations_list[0]
             if not station:
                 continue
             name = station.get("name", "未知站")
@@ -44,29 +66,54 @@ def _format_station_result(tool_results: list[dict], intent: str) -> tuple[str, 
             ]
             if intent == "timetable_query":
                 instructions.append({"action": "openModal", "modal": "timetable", "stationId": str(sid)})
-            return f"**{name}**，{city}。详细信息已在左侧面板展示。", instructions
-    return "抱歉，未找到该车站的信息。", []
+            # Build a simplified station dict for the frontend to cache
+            station_data = {
+                "id": sid,
+                "name": name,
+                "city": city,
+                "province": station.get("province"),
+                "category": station.get("category", "small_passenger"),
+                "lon": station.get("lon", 0),
+                "lat": station.get("lat", 0),
+                "routes": station.get("passingTrains") or station.get("routes"),
+            }
+            return f"**{name}**，{city}。详细信息已在左侧面板展示。", instructions, station_data
+    return "抱歉，未找到该车站的信息。", [], None
 
 
-def _format_train_result(tool_results: list[dict]) -> tuple[str, list[dict]]:
+def _format_train_result(tool_results: list[dict]) -> tuple[str, list[dict], dict | None]:
     for r in tool_results:
         if r.get("tool") == "get_train_route":
             train = r.get("train", {})
             no = train.get("trainNo", "")
-            from_s = train.get("fromStation", {}).get("name", "")
-            to_s = train.get("toStation", {}).get("name", "")
+            from_s = _nested_get(train, "fromStation", "name", default="")
+            to_s = _nested_get(train, "toStation", "name", default="")
             stops = train.get("stops", [])
+            # Build station-like data for the origin station
+            station_data = None
+            from_station = train.get("fromStation")
+            if from_station and from_station.get("id"):
+                station_data = {
+                    "id": from_station.get("id"),
+                    "name": from_s,
+                    "city": from_station.get("city", ""),
+                    "province": from_station.get("province"),
+                    "category": from_station.get("category", "major_passenger"),
+                    "lon": from_station.get("lon", 0),
+                    "lat": from_station.get("lat", 0),
+                }
             return (
                 f"**{no}** 次列车，{from_s} → {to_s}，共 {len(stops)} 站。\n\n线路已在地图高亮显示。",
                 [
                     {"action": "highlightTrain", "trainNo": no},
                     {"action": "openPanel", "panel": "train"},
                 ],
+                station_data,
             )
-    return "抱歉，未找到该车次的信息。", []
+    return "抱歉，未找到该车次的信息。", [], None
 
 
-def _format_route_result(tool_results: list[dict], relax_history: list[dict], constraints: dict) -> tuple[str, list[dict]]:
+def _format_route_result(tool_results: list[dict], relax_history: list[dict], constraints: dict) -> tuple[str, list[dict], list[dict] | None]:
     from .relax import format_relax_diff
 
     for r in tool_results:
@@ -75,7 +122,7 @@ def _format_route_result(tool_results: list[dict], relax_history: list[dict], co
             count = r.get("count", len(routes))
 
             if count == 0:
-                return "抱歉，没找到符合条件的中转路线。" + format_relax_diff(relax_history), []
+                return "抱歉，没找到符合条件的中转路线。" + format_relax_diff(relax_history), [], None
 
             lines = [f"从 **{constraints.get('from')}** 到 **{constraints.get('to')}**，找到 {count} 条路线：\n"]
             for i, route in enumerate(routes[:5]):
@@ -96,9 +143,10 @@ def _format_route_result(tool_results: list[dict], relax_history: list[dict], co
             route_ids = [r.get("id", f"plan-{i}") for i, r in enumerate(routes[:3])]
             instructions = [{"action": "highlightRoutes", "routeIds": route_ids}]
 
-            return "\n".join(lines) + diff_text, instructions
+            # Return routes for frontend to cache
+            return "\n".join(lines) + diff_text, instructions, routes[:3]
 
-    return "抱歉，路线规划失败，请稍后重试。", []
+    return "抱歉，路线规划失败，请稍后重试。", [], None
 
 
 def _format_isochrone_result(tool_results: list[dict], constraints: dict) -> tuple[str, list[dict]]:

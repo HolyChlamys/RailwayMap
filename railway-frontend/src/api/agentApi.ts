@@ -11,6 +11,8 @@ export interface AgentChatResponse {
   text: string
   instructions: AgentInstruction[]
   suggestions: string[]
+  station?: Record<string, unknown> | null
+  routes?: Record<string, unknown>[] | null
 }
 
 export const agentApi = {
