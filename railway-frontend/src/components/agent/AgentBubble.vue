@@ -8,6 +8,7 @@ defineProps<{
 
 const emit = defineEmits<{
   navigate: [type: string, action: string]
+  quickReply: [prompt: string]
 }>()
 
 function formatText(text: string): string {
@@ -24,6 +25,21 @@ function formatText(text: string): string {
 
     <div class="bubble-content">
       <div class="bubble-text" v-html="formatText(message.content.text)" />
+
+      <!-- Follow-up suggestions -->
+      <div
+        v-if="message.role === 'agent' && message.content.suggestions?.length"
+        class="bubble-suggestions"
+      >
+        <button
+          v-for="sug in message.content.suggestions"
+          :key="sug"
+          class="bubble-suggestion-chip"
+          @click="emit('quickReply', sug)"
+        >
+          {{ sug }}
+        </button>
+      </div>
 
       <!-- Route plan cards -->
       <AgentRouteCard
@@ -125,5 +141,29 @@ function formatText(text: string): string {
 
 .bubble-wrapper.user .bubble-time {
   text-align: right;
+}
+
+.bubble-suggestions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 8px;
+}
+
+.bubble-suggestion-chip {
+  padding: 4px 10px;
+  border-radius: var(--radius-full);
+  border: 1px solid var(--border-medium);
+  background: var(--glass-bg-active);
+  font-size: var(--text-xs);
+  color: var(--text-secondary);
+  cursor: pointer;
+  font-family: inherit;
+  transition: all var(--duration-fast);
+}
+
+.bubble-suggestion-chip:hover {
+  background: var(--border-light);
+  color: var(--text-primary);
 }
 </style>

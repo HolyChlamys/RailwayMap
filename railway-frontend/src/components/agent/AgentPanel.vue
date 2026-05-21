@@ -78,7 +78,7 @@ function handleKeydown(e: KeyboardEvent) {
           class="quick-suggestions"
         >
           <button
-            v-for="chip in agentStore.defaultQuickSuggestions"
+            v-for="chip in agentStore.quickSuggestions"
             :key="chip.prompt"
             class="quick-chip"
             @click="handleQuickChip(chip.prompt)"
@@ -93,6 +93,7 @@ function handleKeydown(e: KeyboardEvent) {
           :key="msg.id"
           :message="msg"
           @navigate="(t, a) => emit('navigate', t, a)"
+          @quick-reply="handleQuickChip"
         />
 
         <!-- Typing indicator -->
