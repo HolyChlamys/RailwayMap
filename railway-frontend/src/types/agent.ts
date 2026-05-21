@@ -15,6 +15,10 @@ export interface AgentMessageContent {
   trainNo?: string
   /** Optional city reference */
   city?: string
+  /** Frontend instructions for map/panel actions */
+  instructions?: AgentInstruction[]
+  /** Follow-up suggestion chips */
+  suggestions?: string[]
 }
 
 /** A single chat message */
@@ -32,4 +36,42 @@ export type AgentPanelState = 'closed' | 'open'
 export interface QuickSuggestion {
   label: string
   prompt: string
+}
+
+/** Frontend instruction dispatched from agent response */
+export interface AgentInstruction {
+  action: 'flyToStation' | 'highlightTrain' | 'highlightRoutes' | 'highlightIsochrone'
+    | 'openPanel' | 'openModal' | 'clearHighlights'
+  [key: string]: unknown
+}
+
+export interface FlyToStationInstruction extends AgentInstruction {
+  action: 'flyToStation'
+  stationId: string
+}
+
+export interface HighlightTrainInstruction extends AgentInstruction {
+  action: 'highlightTrain'
+  trainNo: string
+}
+
+export interface HighlightRoutesInstruction extends AgentInstruction {
+  action: 'highlightRoutes'
+  routeIds: string[]
+}
+
+export interface HighlightIsochroneInstruction extends AgentInstruction {
+  action: 'highlightIsochrone'
+  stationId: string
+}
+
+export interface OpenPanelInstruction extends AgentInstruction {
+  action: 'openPanel'
+  panel: 'station' | 'train' | 'routePlan'
+}
+
+export interface OpenModalInstruction extends AgentInstruction {
+  action: 'openModal'
+  modal: 'timetable'
+  stationId: string
 }
