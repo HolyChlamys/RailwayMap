@@ -34,7 +34,7 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "10010:8080"
+      - "10010:10010"
     environment:
       DB_HOST: db
       DB_USER: railway

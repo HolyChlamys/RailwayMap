@@ -11,7 +11,7 @@ async def format_reply(state: AgentState) -> dict:
     suggestions = []
 
     if intent == "station_query" or intent == "timetable_query":
-        reply_text, instructions, station = _format_station_result(tool_results, intent)
+        reply_text, instructions, station = await _format_station_result(tool_results, intent)
     elif intent == "train_query":
         reply_text, instructions, station = _format_train_result(tool_results)
     elif intent == "route_planning":
@@ -45,7 +45,8 @@ def _nested_get(d: dict, *keys, default=None):
     return d
 
 
-def _format_station_result(tool_results: list[dict], intent: str) -> tuple[str, list[dict], dict | None]:
+async def _format_station_result(tool_results: list[dict], intent: str) -> tuple[str, list[dict], dict | None]:
+    from ..tools import ALL_TOOLS
     for r in tool_results:
         t = r.get("tool", "")
         if t in ("search_stations", "get_station_detail", "get_station_timetable"):
@@ -57,25 +58,39 @@ def _format_station_result(tool_results: list[dict], intent: str) -> tuple[str, 
                     station = stations_list[0]
             if not station:
                 continue
-            name = station.get("name", "未知站")
-            city = station.get("city", "")
             sid = station.get("id")
+            # Fetch full detail to get routes/passingTrains
+            detail = None
+            if t == "search_stations" and sid:
+                try:
+                    detail_result = await ALL_TOOLS["get_station_detail"](str(sid))
+                    detail = detail_result.get("station", {})
+                except Exception:
+                    detail = {}
+            # Merge detail into station data — only take routes/timetable from detail
+            rich_station = dict(station)
+            if detail:
+                for k in ("passingTrains", "timetable"):
+                    if detail.get(k):
+                        rich_station[k] = detail[k]
+            name = rich_station.get("name", "未知站")
+            city = rich_station.get("city", "")
             instructions = [
                 {"action": "flyToStation", "stationId": str(sid)},
                 {"action": "openPanel", "panel": "station"},
             ]
             if intent == "timetable_query":
                 instructions.append({"action": "openModal", "modal": "timetable", "stationId": str(sid)})
-            # Build a simplified station dict for the frontend to cache
+            # Build a station dict for the frontend to cache (with routes from detail)
             station_data = {
                 "id": sid,
                 "name": name,
                 "city": city,
-                "province": station.get("province"),
-                "category": station.get("category", "small_passenger"),
-                "lon": station.get("lon", 0),
-                "lat": station.get("lat", 0),
-                "routes": station.get("passingTrains") or station.get("routes"),
+                "province": rich_station.get("province"),
+                "category": rich_station.get("category", "small_passenger"),
+                "lon": rich_station.get("lon", 0),
+                "lat": rich_station.get("lat", 0),
+                "routes": rich_station.get("passingTrains") or rich_station.get("routes"),
             }
             return f"**{name}**，{city}。详细信息已在左侧面板展示。", instructions, station_data
     return "抱歉，未找到该车站的信息。", [], None
