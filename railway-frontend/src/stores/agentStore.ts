@@ -1,6 +1,10 @@
 import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
-import type { ChatMessage, AgentMessageContent, AgentPanelState, QuickSuggestion } from '../types/agent'
+import type { ChatMessage, AgentMessageContent, AgentPanelState, QuickSuggestion, AgentInstruction, FlyToStationInstruction, HighlightTrainInstruction, HighlightRoutesInstruction, HighlightIsochroneInstruction } from '../types/agent'
+import { useMapStore } from './mapStore'
+import { useStationStore } from './stationStore'
+import { useTrainStore } from './trainStore'
+import { useRoutePlanStore } from './routePlanStore'
 
 export const useAgentStore = defineStore('agent', () => {
   // ---- State ----
@@ -17,6 +21,8 @@ export const useAgentStore = defineStore('agent', () => {
     { label: '查询G1车次', prompt: '查询G1车次' },
     { label: '上海虹桥有哪些车', prompt: '上海虹桥有哪些车' },
   ]
+
+  const quickSuggestions = ref<QuickSuggestion[]>([...defaultQuickSuggestions])
 
   // ---- Actions ----
   function openPanel() {
@@ -59,6 +65,55 @@ export const useAgentStore = defineStore('agent', () => {
     isProcessing.value = p
   }
 
+  function dispatchInstruction(instruction: AgentInstruction) {
+    const mapStore = useMapStore()
+    const stationStore = useStationStore()
+    const trainStore = useTrainStore()
+    const routePlanStore = useRoutePlanStore()
+
+    switch (instruction.action) {
+      case 'flyToStation': {
+        const { stationId } = instruction as FlyToStationInstruction
+        mapStore.setFocusStation(stationId)
+        stationStore.setCurrentStation(stationId)
+        break
+      }
+      case 'highlightTrain': {
+        const { trainNo } = instruction as HighlightTrainInstruction
+        mapStore.setFocusTrain(trainNo)
+        trainStore.setCurrentTrain(trainNo)
+        break
+      }
+      case 'highlightRoutes': {
+        const { routeIds } = instruction as HighlightRoutesInstruction
+        routePlanStore.setActivePlanIds(routeIds)
+        break
+      }
+      case 'highlightIsochrone': {
+        const { stationId } = instruction as HighlightIsochroneInstruction
+        mapStore.setFocusStation(stationId)
+        break
+      }
+      case 'openPanel': {
+        // Panel opening handled by App.vue watch on stores
+        break
+      }
+      case 'openModal': {
+        // Modal opening handled by component
+        break
+      }
+      case 'clearHighlights': {
+        mapStore.clearAllFocus()
+        routePlanStore.clear()
+        break
+      }
+    }
+  }
+
+  function setQuickSuggestions(sugs: QuickSuggestion[]) {
+    quickSuggestions.value = sugs
+  }
+
   function clearMessages() {
     messages.value = []
     addWelcomeMessage()
@@ -71,11 +126,14 @@ export const useAgentStore = defineStore('agent', () => {
     isOpen,
     messageCount,
     defaultQuickSuggestions,
+    quickSuggestions,
     openPanel,
     closePanel,
     togglePanel,
     addMessage,
     setProcessing,
     clearMessages,
+    dispatchInstruction,
+    setQuickSuggestions,
   }
 })

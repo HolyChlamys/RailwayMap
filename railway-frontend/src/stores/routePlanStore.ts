@@ -42,6 +42,12 @@ export const useRoutePlanStore = defineStore('routePlan', () => {
     activePlanIndices.value = plans.value.map((_, i) => i)
   }
 
+  function setActivePlanIds(ids: string[]) {
+    activePlanIndices.value = ids
+      .map(id => plans.value.findIndex(p => p.id === id))
+      .filter(i => i !== -1)
+  }
+
   function clear() {
     plans.value = []
     activePlanIndices.value = []
@@ -58,6 +64,7 @@ export const useRoutePlanStore = defineStore('routePlan', () => {
     hasPlans,
     activePlans,
     setPlans,
+    setActivePlanIds,
     filterByConstraint,
     resetFilter,
     clear,
