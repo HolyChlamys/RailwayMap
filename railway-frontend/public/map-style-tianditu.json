@@ -1,0 +1,33 @@
+{
+  "version": 8,
+  "name": "RailwayMap — Tianditu",
+  "sources": {
+    "tianditu-vec": {
+      "type": "raster",
+      "scheme": "xyz",
+      "tiles": [
+        "http://t0.tianditu.gov.cn/DataServer?T=vec_w&x={x}&y={y}&l={z}&tk=a7e0e6643320cdb2b6da20e5e86b7d62",
+        "http://t1.tianditu.gov.cn/DataServer?T=vec_w&x={x}&y={y}&l={z}&tk=a7e0e6643320cdb2b6da20e5e86b7d62"
+      ],
+      "tileSize": 256,
+      "minzoom": 0,
+      "maxzoom": 18,
+      "attribution": "<a href='https://www.tianditu.gov.cn/' target='_blank'>天地图</a> &copy; 自然资源部"
+    },
+    "tianditu-cva": {
+      "type": "raster",
+      "scheme": "xyz",
+      "tiles": [
+        "http://t0.tianditu.gov.cn/DataServer?T=cva_w&x={x}&y={y}&l={z}&tk=a7e0e6643320cdb2b6da20e5e86b7d62",
+        "http://t1.tianditu.gov.cn/DataServer?T=cva_w&x={x}&y={y}&l={z}&tk=a7e0e6643320cdb2b6da20e5e86b7d62"
+      ],
+      "tileSize": 256,
+      "minzoom": 0,
+      "maxzoom": 18
+    }
+  },
+  "layers": [
+    { "id": "tianditu-vec-layer", "type": "raster", "source": "tianditu-vec", "minzoom": 0, "maxzoom": 18 },
+    { "id": "tianditu-cva-layer", "type": "raster", "source": "tianditu-cva", "minzoom": 0, "maxzoom": 18 }
+  ]
+}

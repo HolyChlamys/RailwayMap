@@ -1,0 +1,1553 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>中国铁路地图 — 交互原型 v2</title>
+<style>
+/* ============================================================
+   DESIGN TOKENS
+   ============================================================ */
+:root {
+  --map-bg: #e8e0d5;
+  --map-terrain-1: #e4dccf;
+  --map-terrain-2: #ece5d9;
+  --map-shore: #d5cdbc;
+
+  --glass-bg: rgba(255,255,255,0.86);
+  --glass-bg-hover: rgba(255,255,255,0.94);
+  --glass-bg-active: rgba(255,255,255,0.98);
+  --glass-border: rgba(255,255,255,0.45);
+  --glass-blur: 16px;
+
+  --text-primary: #1a1a1a;
+  --text-secondary: #5c5c5c;
+  --text-tertiary: #999;
+  --text-inverse: #fff;
+
+  --red-highspeed: #e74c3c;
+  --red-dark: #c0392b;
+  --orange-rapid: #e67e22;
+  --blue-conventional: #3498db;
+  --brown-freight: #8B4513;
+  --green-passenger: #27ae60;
+  --gray-other: #95a5a6;
+  --cyan-subway: #85C1E9;
+  --purple-depot: #8e44ad;
+  --link-color: #2563eb;
+
+  --shadow-sm: 0 1px 4px rgba(0,0,0,0.06);
+  --shadow-md: 0 4px 16px rgba(0,0,0,0.10);
+  --shadow-lg: 0 8px 32px rgba(0,0,0,0.14);
+  --shadow-xl: 0 16px 48px rgba(0,0,0,0.18);
+
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+
+  --font-sm: 12px;
+  --font-base: 14px;
+  --font-lg: 16px;
+  --font-xl: 18px;
+  --font-2xl: 22px;
+
+  --ease-out: cubic-bezier(0.4, 0, 0.2, 1);
+  --duration-fast: 150ms;
+  --duration-normal: 250ms;
+  --duration-slow: 350ms;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  width: 100%; height: 100%; overflow: hidden;
+  font-family: "PingFang SC", "Microsoft YaHei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+  font-size: var(--font-base); color: var(--text-primary);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ============================================================
+   MAP
+   ============================================================ */
+.map-background {
+  position: absolute; inset: 0; z-index: 0;
+  background-color: var(--map-bg);
+  background-image:
+    radial-gradient(ellipse 1200px 800px at 65% 35%, var(--map-terrain-2) 0%, transparent 70%),
+    radial-gradient(ellipse 900px 600px at 35% 60%, var(--map-terrain-1) 0%, transparent 70%),
+    radial-gradient(ellipse 700px 500px at 75% 70%, var(--map-shore) 0%, transparent 60%),
+    linear-gradient(rgba(0,0,0,0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,0,0,0.025) 1px, transparent 1px);
+  background-size: 100% 100%, 100% 100%, 100% 100%, 80px 80px, 80px 80px;
+}
+.map-background::after {
+  content: ''; position: absolute; inset: 0;
+  background: linear-gradient(rgba(0,0,0,0.012) 1px, transparent 1px),
+              linear-gradient(90deg, rgba(0,0,0,0.012) 1px, transparent 1px);
+  background-size: 320px 320px;
+}
+.map-railways { position: absolute; inset: 0; z-index: 1; pointer-events: none; }
+.map-route-overlay { position: absolute; inset: 0; z-index: 3; pointer-events: none; }
+
+/* ============================================================
+   STATION MARKERS
+   ============================================================ */
+.station-marker {
+  position: absolute; z-index: 2;
+  transform: translate(-50%, -50%);
+  cursor: pointer; pointer-events: auto;
+  transition: transform var(--duration-fast) var(--ease-out);
+}
+.station-marker:hover { transform: translate(-50%, -50%) scale(1.25); }
+.station-marker:active { transform: translate(-50%, -50%) scale(0.95); }
+.station-marker .dot {
+  width: 12px; height: 12px;
+  border-radius: 50%; border: 2px solid white;
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow var(--duration-fast), filter var(--duration-fast);
+}
+.station-marker:hover .dot { box-shadow: var(--shadow-md); }
+.station-marker.selected .dot {
+  animation: pulse-ring 2s ease-out infinite;
+  box-shadow: 0 0 0 4px rgba(231,76,60,0.3);
+}
+.station-marker.highlighted .dot {
+  box-shadow: 0 0 0 5px rgba(37,99,235,0.35);
+  filter: brightness(1.2);
+}
+.station-marker .label {
+  position: absolute; top: 14px; left: 50%;
+  transform: translateX(-50%); white-space: nowrap;
+  font-size: var(--font-sm); font-weight: 500;
+  color: var(--text-primary);
+  text-shadow: 0 0 4px white, 0 0 8px white;
+  pointer-events: none;
+  transition: font-weight var(--duration-fast);
+}
+.station-marker.highlighted .label { font-weight: 700; color: var(--link-color); }
+
+/* Star shape for hubs */
+.station-marker.major .dot {
+  width: 16px; height: 16px; background: var(--red-highspeed);
+  clip-path: polygon(50% 0%,61% 35%,98% 35%,68% 57%,79% 91%,50% 70%,21% 91%,32% 57%,2% 35%,39% 35%);
+  border-radius: 0;
+}
+.station-marker.medium .dot { background: var(--orange-rapid); width: 10px; height: 10px; }
+.station-marker.small .dot { background: var(--gray-other); width: 8px; height: 8px; }
+
+/* ============================================================
+   TOP SEARCH BAR
+   ============================================================ */
+.search-bar-container {
+  position: absolute; top: var(--space-lg); left: 50%;
+  transform: translateX(-50%); z-index: 100;
+  width: 420px; max-width: calc(100vw - 48px);
+  transition: width var(--duration-normal) var(--ease-out);
+}
+.search-bar-container.focused { width: 500px; }
+
+.search-bar {
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  transition: background var(--duration-normal), box-shadow var(--duration-normal);
+  overflow: hidden;
+}
+.search-bar-container.focused .search-bar {
+  background: var(--glass-bg-active);
+  box-shadow: var(--shadow-lg);
+}
+
+.search-bar-inner {
+  display: flex; align-items: center;
+  padding: var(--space-sm) var(--space-md); gap: var(--space-sm);
+}
+
+.search-tabs {
+  display: flex; gap: 2px;
+  background: rgba(0,0,0,0.04); border-radius: var(--radius-sm);
+  padding: 2px; flex-shrink: 0;
+}
+.search-tab {
+  padding: 5px 14px; border: none; background: transparent;
+  border-radius: 6px; cursor: pointer;
+  font-size: var(--font-sm); font-weight: 500;
+  color: var(--text-secondary);
+  transition: all var(--duration-fast) var(--ease-out);
+  white-space: nowrap; font-family: inherit;
+}
+.search-tab.active {
+  background: white; color: var(--text-primary);
+  box-shadow: var(--shadow-sm);
+}
+.search-tab:hover:not(.active) { color: var(--text-primary); }
+
+.search-input-wrap {
+  flex: 1; display: flex; align-items: center;
+  gap: var(--space-sm); min-width: 0;
+}
+.search-icon {
+  flex-shrink: 0; width: 18px; height: 18px; color: var(--text-tertiary);
+}
+.search-input-wrap input {
+  flex: 1; border: none; outline: none; background: transparent;
+  font-size: var(--font-lg); color: var(--text-primary);
+  font-family: inherit; min-width: 0;
+}
+.search-input-wrap input::placeholder { color: var(--text-tertiary); }
+.search-shortcut {
+  flex-shrink: 0; font-size: 11px; color: var(--text-tertiary);
+  background: rgba(0,0,0,0.05); padding: 2px 8px;
+  border-radius: var(--radius-xs);
+}
+
+.search-dropdown {
+  display: none; border-top: 1px solid rgba(0,0,0,0.06);
+  padding: var(--space-sm); max-height: 340px; overflow-y: auto;
+}
+.search-bar-container.focused .search-dropdown { display: block; }
+
+.search-dropdown-section { padding: var(--space-sm) var(--space-sm) var(--space-xs); }
+.search-dropdown-title {
+  font-size: 11px; font-weight: 600; color: var(--text-tertiary);
+  letter-spacing: 1px; padding: 0 var(--space-sm); margin-bottom: var(--space-xs);
+}
+.search-result-item {
+  display: flex; align-items: center; gap: var(--space-sm);
+  padding: var(--space-sm); border-radius: var(--radius-sm); cursor: pointer;
+  transition: background var(--duration-fast);
+}
+.search-result-item:hover { background: rgba(0,0,0,0.04); }
+.search-result-item .dot-mini {
+  width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0;
+}
+.search-result-item .dot-mini.star {
+  clip-path: polygon(50% 0%,61% 35%,98% 35%,68% 57%,79% 91%,50% 70%,21% 91%,32% 57%,2% 35%,39% 35%);
+  width: 10px; height: 10px; border-radius: 0;
+}
+.search-result-item .train-type-tag {
+  font-size: 10px; font-weight: 700; padding: 1px 5px;
+  border-radius: 3px; flex-shrink: 0; color: white;
+}
+.train-type-tag.G { background: var(--red-highspeed); }
+.train-type-tag.D { background: var(--orange-rapid); }
+.train-type-tag.Z { background: var(--blue-conventional); }
+
+.search-result-item .result-name { font-weight: 500; }
+.search-result-item .result-sub {
+  margin-left: auto; font-size: var(--font-sm); color: var(--text-tertiary);
+}
+.search-result-item .result-detail { font-size: var(--font-sm); color: var(--text-secondary); }
+
+/* ============================================================
+   MAP CONTROLS
+   ============================================================ */
+.map-controls {
+  position: absolute; right: var(--space-lg); bottom: var(--space-lg);
+  z-index: 100; display: flex; flex-direction: column; gap: var(--space-sm);
+}
+.map-control-btn {
+  width: 40px; height: 40px;
+  border: 1px solid var(--glass-border); border-radius: var(--radius-sm);
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  box-shadow: var(--shadow-sm); cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  transition: all var(--duration-fast) var(--ease-out);
+  color: var(--text-secondary);
+}
+.map-control-btn:hover { background: var(--glass-bg-hover); box-shadow: var(--shadow-md); color: var(--text-primary); }
+.map-control-btn:active { transform: scale(0.95); }
+.map-control-btn svg { width: 20px; height: 20px; }
+
+.map-control-group {
+  display: flex; flex-direction: column;
+  border-radius: var(--radius-sm); overflow: hidden;
+  border: 1px solid var(--glass-border); box-shadow: var(--shadow-sm);
+}
+.map-control-group .map-control-btn {
+  border: none; border-radius: 0; box-shadow: none;
+}
+.map-control-group .map-control-btn + .map-control-btn {
+  border-top: 1px solid rgba(0,0,0,0.06);
+}
+
+/* ============================================================
+   PANEL SYSTEM (Bottom Drawer + Floating Overlay)
+   ============================================================ */
+.drawer-overlay {
+  position: absolute; bottom: 0; left: 0; right: 0; z-index: 200;
+  display: flex; justify-content: center;
+  pointer-events: none;
+}
+.drawer-overlay.active { pointer-events: auto; }
+
+.drawer {
+  background: var(--glass-bg-active);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+  box-shadow: var(--shadow-xl);
+  width: 560px; max-width: 100vw;
+  transform: translateY(100%);
+  transition: transform var(--duration-slow) var(--ease-out);
+  max-height: 65vh; display: flex; flex-direction: column;
+}
+.drawer-overlay.active .drawer { transform: translateY(0); }
+
+.drawer-handle {
+  display: flex; justify-content: center; padding: var(--space-sm);
+  cursor: grab; flex-shrink: 0;
+}
+.drawer-handle::before {
+  content: ''; width: 32px; height: 4px;
+  background: rgba(0,0,0,0.15); border-radius: 2px;
+}
+
+.drawer-header {
+  display: flex; align-items: flex-start; justify-content: space-between;
+  padding: 0 var(--space-lg) var(--space-sm); flex-shrink: 0;
+}
+.drawer-back-btn {
+  display: none; width: 28px; height: 28px;
+  border: none; background: rgba(0,0,0,0.04); border-radius: 50%;
+  cursor: pointer; align-items: center; justify-content: center;
+  color: var(--text-secondary); margin-right: var(--space-sm);
+  transition: all var(--duration-fast); font-size: 14px; flex-shrink: 0;
+}
+.drawer-back-btn:hover { background: rgba(0,0,0,0.08); color: var(--text-primary); }
+.drawer-back-btn.visible { display: flex; }
+
+.drawer-title-group {
+  display: flex; align-items: center; gap: var(--space-sm); flex: 1; min-width: 0;
+}
+.drawer-icon {
+  width: 36px; height: 36px; border-radius: 50%; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+  color: white; font-weight: 700; font-size: 16px;
+  box-shadow: 0 2px 8px rgba(231,76,60,0.3);
+}
+.drawer-icon.station { background: var(--red-highspeed); }
+.drawer-icon.train { background: var(--red-dark); border-radius: var(--radius-xs); }
+
+.drawer-title { font-size: var(--font-xl); font-weight: 700; }
+.drawer-subtitle { font-size: var(--font-sm); color: var(--text-secondary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+.drawer-close {
+  width: 32px; height: 32px; border: none; background: rgba(0,0,0,0.04);
+  border-radius: 50%; cursor: pointer; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text-tertiary); font-size: 16px;
+  transition: all var(--duration-fast);
+}
+.drawer-close:hover { background: rgba(0,0,0,0.08); color: var(--text-primary); }
+
+.drawer-body {
+  overflow-y: auto; flex: 1;
+  padding: var(--space-sm) var(--space-lg) var(--space-lg);
+}
+.drawer-body::-webkit-scrollbar { width: 4px; }
+.drawer-body::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.1); border-radius: 2px; }
+
+/* ---- Station info ---- */
+.drawer-tags { display: flex; gap: var(--space-sm); flex-wrap: wrap; margin-bottom: var(--space-md); }
+.drawer-tag {
+  padding: 3px 10px; border-radius: var(--radius-full);
+  font-size: var(--font-sm); font-weight: 500;
+}
+.drawer-tag.major { background: rgba(231,76,60,0.1); color: var(--red-highspeed); }
+.drawer-tag.passenger { background: rgba(39,174,96,0.1); color: var(--green-passenger); }
+.drawer-tag.freight { background: rgba(139,69,19,0.1); color: var(--brown-freight); }
+
+.drawer-info-row {
+  display: flex; align-items: flex-start; gap: var(--space-sm);
+  padding: var(--space-xs) 0; font-size: var(--font-base);
+}
+.drawer-info-label { color: var(--text-tertiary); min-width: 60px; flex-shrink: 0; font-size: var(--font-sm); padding-top: 2px; }
+.drawer-info-value { color: var(--text-primary); font-weight: 500; line-height: 1.5; }
+
+.drawer-actions { display: flex; gap: var(--space-sm); padding-top: var(--space-lg); }
+.drawer-btn {
+  flex: 1; padding: 11px var(--space-md);
+  border: none; border-radius: var(--radius-sm);
+  font-size: var(--font-base); font-weight: 600; cursor: pointer;
+  transition: all var(--duration-fast) var(--ease-out);
+  font-family: inherit;
+}
+.drawer-btn.primary { background: var(--text-primary); color: var(--text-inverse); }
+.drawer-btn.primary:hover { filter: brightness(1.15); }
+.drawer-btn.secondary { background: rgba(0,0,0,0.04); color: var(--text-primary); }
+.drawer-btn.secondary:hover { background: rgba(0,0,0,0.08); }
+
+/* ---- Train list ---- */
+.train-list-table { width: 100%; border-collapse: collapse; }
+.train-list-table th {
+  text-align: left; font-size: 11px; font-weight: 600;
+  color: var(--text-tertiary); letter-spacing: 0.5px;
+  padding: var(--space-sm) var(--space-sm); border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+.train-list-table td {
+  padding: var(--space-sm); font-size: var(--font-base);
+  border-bottom: 1px solid rgba(0,0,0,0.03);
+}
+.train-list-table tr { transition: background var(--duration-fast); }
+.train-list-table tbody tr:hover { background: rgba(0,0,0,0.02); }
+
+/* ---- Train detail: stop list ---- */
+.stop-timeline { position: relative; padding-left: 24px; }
+.stop-timeline::before {
+  content: ''; position: absolute; left: 7px; top: 8px; bottom: 8px;
+  width: 2px; background: rgba(0,0,0,0.1); border-radius: 1px;
+}
+.stop-item {
+  position: relative; padding: var(--space-sm) 0 var(--space-sm) var(--space-md);
+  display: flex; align-items: center; gap: var(--space-md);
+}
+.stop-item::before {
+  content: ''; position: absolute; left: -19px; top: 50%;
+  transform: translateY(-50%);
+  width: 8px; height: 8px; border-radius: 50%;
+  border: 2px solid var(--red-highspeed); background: white;
+}
+.stop-item.terminal::before { background: var(--red-highspeed); }
+.stop-item .stop-time { font-size: var(--font-base); font-weight: 600; min-width: 48px; color: var(--text-primary); }
+.stop-item .stop-dash { color: var(--text-tertiary); font-size: var(--font-sm); }
+.stop-item .stop-station { flex: 1; }
+.stop-item .stop-info { font-size: var(--font-sm); color: var(--text-tertiary); }
+
+/* ============================================================
+   HYPERLINKS
+   ============================================================ */
+a.hyperlink {
+  color: var(--link-color); text-decoration: underline;
+  text-underline-offset: 2px; cursor: pointer;
+  transition: color var(--duration-fast);
+}
+a.hyperlink:hover { color: #1d4ed8; }
+a.hyperlink:active { color: #1e40af; }
+
+/* ============================================================
+   ANIMATED TRAIN ROUTE ON MAP
+   ============================================================ */
+.route-highlight-path {
+  fill: none; stroke: #ff6b35;
+  stroke-width: 4; stroke-linecap: round; stroke-linejoin: round;
+  filter: drop-shadow(0 0 6px rgba(255,107,53,0.5));
+}
+.route-animated {
+  animation: route-flow 1.5s linear infinite;
+}
+@keyframes route-flow {
+  to { stroke-dashoffset: -40; }
+}
+@keyframes pulse-ring {
+  0% { box-shadow: 0 0 0 0 rgba(231,76,60,0.4); }
+  70% { box-shadow: 0 0 0 10px rgba(231,76,60,0); }
+  100% { box-shadow: 0 0 0 0 rgba(231,76,60,0); }
+}
+
+/* ============================================================
+   CITY FOCUS INDICATOR
+   ============================================================ */
+.city-focus-indicator {
+  position: absolute; z-index: 2;
+  width: 60px; height: 60px;
+  border: 3px solid rgba(37,99,235,0.5);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(37,99,235,0.08);
+  pointer-events: none;
+  animation: city-pulse 1.5s ease-out forwards;
+}
+@keyframes city-pulse {
+  0% { transform: translate(-50%, -50%) scale(0.5); opacity: 1; }
+  100% { transform: translate(-50%, -50%) scale(2.5); opacity: 0; }
+}
+
+/* ============================================================
+   TOAST & LEGEND (kept from v1, compact)
+   ============================================================ */
+.toast {
+  position: absolute; top: 100px; left: 50%;
+  transform: translateX(-50%) translateY(-20px);
+  z-index: 300; background: var(--text-primary); color: white;
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-full);
+  font-size: var(--font-sm); font-weight: 500;
+  box-shadow: var(--shadow-lg);
+  opacity: 0; transition: all var(--duration-normal) var(--ease-out);
+  pointer-events: none;
+}
+.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+.legend-panel {
+  position: absolute; left: var(--space-lg); bottom: var(--space-lg);
+  z-index: 100;
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  width: 250px; max-height: calc(100vh - 200px);
+  display: flex; flex-direction: column;
+  transition: max-height var(--duration-slow) var(--ease-out);
+  overflow: hidden;
+}
+.legend-panel.collapsed { max-height: 42px; }
+.legend-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 10px var(--space-md); cursor: pointer; flex-shrink: 0;
+  font-weight: 600; font-size: var(--font-base);
+}
+.legend-header:hover { background: rgba(0,0,0,0.02); }
+.legend-toggle {
+  width: 24px; height: 24px; border: none; background: none;
+  cursor: pointer; color: var(--text-tertiary); font-size: 14px;
+  transition: transform var(--duration-normal) var(--ease-out);
+}
+.legend-panel.collapsed .legend-toggle { transform: rotate(-90deg); }
+.legend-body {
+  overflow-y: auto; flex: 1;
+  padding: 0 var(--space-md) var(--space-md);
+  transition: opacity var(--duration-normal);
+}
+.legend-panel.collapsed .legend-body { opacity: 0; pointer-events: none; }
+.legend-section-title {
+  font-size: 11px; font-weight: 600; color: var(--text-tertiary);
+  letter-spacing: 1px; margin: var(--space-sm) 0 var(--space-xs);
+  padding: var(--space-xs) 0; border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+.legend-item {
+  display: flex; align-items: center; gap: var(--space-sm);
+  padding: 4px var(--space-xs); border-radius: var(--radius-sm);
+  cursor: pointer; font-size: var(--font-sm);
+  transition: background var(--duration-fast);
+}
+.legend-item:hover { background: rgba(0,0,0,0.03); }
+.legend-item input[type="checkbox"] { width: 13px; height: 13px; accent-color: var(--text-secondary); cursor: pointer; }
+.legend-item .sym { width: 16px; height: 16px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: var(--text-secondary); }
+.legend-item .sym .ln { width: 14px; border-top: 3px solid; border-radius: 1px; }
+.legend-item .sym .ln.dashed { border-top-style: dashed; }
+.legend-item .lbl { flex: 1; color: var(--text-secondary); }
+.legend-item .cnt { font-size: 10px; color: var(--text-tertiary); }
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+@media (max-width: 768px) {
+  .search-bar-container, .search-bar-container.focused { width: calc(100vw - 32px); }
+  .legend-panel { left: var(--space-sm); bottom: var(--space-sm); width: 210px; max-height: 35vh; }
+  .map-controls { right: var(--space-sm); bottom: var(--space-sm); }
+  .drawer { width: 100vw; border-radius: var(--radius-lg) var(--radius-lg) 0 0; max-height: 55vh; }
+}
+</style>
+</head>
+<body>
+
+<!-- ============================================================
+     MAP BACKGROUND + RAILWAYS
+     ============================================================ -->
+<div class="map-background"></div>
+
+<svg class="map-railways" viewBox="0 0 1920 1080" preserveAspectRatio="none">
+  <defs>
+    <filter id="line-glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- High-speed: Beijing → Shanghai -->
+  <path id="rail-bj-sh" d="M 1248 300 C 1290 370, 1350 440, 1500 560" stroke="#e74c3c" stroke-width="3" fill="none" opacity="0.8" filter="url(#line-glow)"/>
+  <!-- High-speed: Beijing → Guangzhou -->
+  <path id="rail-bj-gz" d="M 1248 300 C 1200 420, 1150 580, 1100 780" stroke="#e74c3c" stroke-width="3" fill="none" opacity="0.8" filter="url(#line-glow)"/>
+  <!-- High-speed: Beijing → Xi'an → Chengdu -->
+  <path id="rail-bj-cd" d="M 1248 300 C 1100 350, 1000 420, 950 480 C 900 530, 820 600, 750 630" stroke="#e74c3c" stroke-width="2.5" fill="none" opacity="0.7"/>
+
+  <!-- Conventional: Beijing → Harbin -->
+  <path id="rail-bj-heb" d="M 1248 300 C 1350 250, 1450 200, 1580 120" stroke="#3498db" stroke-width="2.5" fill="none" opacity="0.7"/>
+  <!-- Conventional: Lanzhou → Urumqi -->
+  <path d="M 550 420 C 450 400, 350 380, 200 350" stroke="#3498db" stroke-width="2" fill="none" opacity="0.6"/>
+
+  <!-- Freight corridor -->
+  <path d="M 1580 120 C 1450 180, 1300 350, 1100 450 C 950 520, 800 560, 750 630" stroke="#8B4513" stroke-width="2" fill="none" opacity="0.6" stroke-dasharray="8 4"/>
+
+  <!-- Rapid transit: coastal -->
+  <path d="M 1500 560 C 1480 650, 1400 720, 1250 800 C 1150 850, 1100 850, 1100 780" stroke="#e67e22" stroke-width="2" fill="none" opacity="0.6"/>
+
+  <!-- Subway loops -->
+  <ellipse cx="1248" cy="300" rx="80" ry="50" stroke="#85C1E9" stroke-width="1.5" fill="none" opacity="0.5" stroke-dasharray="4 3"/>
+  <ellipse cx="1500" cy="560" rx="60" ry="40" stroke="#85C1E9" stroke-width="1.5" fill="none" opacity="0.5" stroke-dasharray="4 3"/>
+  <ellipse cx="1100" cy="780" rx="55" ry="35" stroke="#85C1E9" stroke-width="1.5" fill="none" opacity="0.5" stroke-dasharray="4 3"/>
+
+  <!-- Other/connecting -->
+  <path d="M 950 480 C 1000 550, 1050 600, 1100 780" stroke="#95a5a6" stroke-width="1.5" fill="none" opacity="0.5" stroke-dasharray="6 6"/>
+  <path d="M 1248 300 C 1150 320, 1000 380, 950 480" stroke="#95a5a6" stroke-width="1.5" fill="none" opacity="0.5"/>
+</svg>
+
+<!-- Animated route overlay (drawn dynamically) -->
+<svg class="map-route-overlay" id="routeOverlay" viewBox="0 0 1920 1080" preserveAspectRatio="none"></svg>
+
+<!-- ============================================================
+     STATION MARKERS
+     ============================================================ -->
+<div id="stationMarkers">
+  <div class="station-marker major" style="left:65%;top:28%;"
+       data-id="bj" data-station="北京" data-type="major_hub" data-city="北京市"
+       data-routes="G1,G2,G3,D301,Z55">
+    <div class="dot"></div><div class="label">北京</div>
+  </div>
+  <div class="station-marker major" style="left:78%;top:52%;"
+       data-id="shhq" data-station="上海虹桥" data-type="major_passenger" data-city="上海市"
+       data-routes="G1,G8">
+    <div class="dot"></div><div class="label">上海虹桥</div>
+  </div>
+  <div class="station-marker major" style="left:57%;top:72%;"
+       data-id="gzn" data-station="广州南" data-type="major_hub" data-city="广州市"
+       data-routes="G2,D940">
+    <div class="dot"></div><div class="label">广州南</div>
+  </div>
+  <div class="station-marker medium" style="left:39%;top:58%;"
+       data-id="cdd" data-station="成都东" data-type="major_passenger" data-city="成都市"
+       data-routes="D940,G89">
+    <div class="dot"></div><div class="label">成都东</div>
+  </div>
+  <div class="station-marker medium" style="left:49%;top:39%;"
+       data-id="xab" data-station="西安北" data-type="major_hub" data-city="西安市"
+       data-routes="G89,D301">
+    <div class="dot"></div><div class="label">西安北</div>
+  </div>
+  <div class="station-marker medium" style="left:60%;top:50%;"
+       data-id="wh" data-station="武汉" data-type="major_passenger" data-city="武汉市"
+       data-routes="G2">
+    <div class="dot"></div><div class="label">武汉</div>
+  </div>
+  <div class="station-marker small" style="left:82%;top:11%;"
+       data-id="hebx" data-station="哈尔滨西" data-type="major_passenger" data-city="哈尔滨市"
+       data-routes="D101">
+    <div class="dot"></div><div class="label">哈尔滨西</div>
+  </div>
+  <div class="station-marker small" style="left:29%;top:35%;"
+       data-id="lz" data-station="兰州" data-type="medium_passenger" data-city="兰州市"
+       data-routes="Z55">
+    <div class="dot"></div><div class="label">兰州</div>
+  </div>
+  <div class="station-marker medium" style="left:68%;top:44%;"
+       data-id="jnx" data-station="济南西" data-type="large_yard" data-city="济南市"
+       data-routes="G1,G3,G8">
+    <div class="dot"></div><div class="label">济南西</div>
+  </div>
+  <div class="station-marker medium" style="left:60%;top:60%;"
+       data-id="zzd" data-station="郑州东" data-type="large_yard" data-city="郑州市"
+       data-routes="G2,G89">
+    <div class="dot"></div><div class="label">郑州东</div>
+  </div>
+  <!-- Additional stations for train stops -->
+  <div class="station-marker small" style="left:73%;top:48%;"
+       data-id="njn" data-station="南京南" data-type="major_passenger" data-city="南京市"
+       data-routes="G1,G3,G8">
+    <div class="dot"></div><div class="label">南京南</div>
+  </div>
+  <div class="station-marker small" style="left:60%;top:36%;"
+       data-id="sjz" data-station="石家庄" data-type="medium_passenger" data-city="石家庄市"
+       data-routes="G2,D301">
+    <div class="dot"></div><div class="label">石家庄</div>
+  </div>
+  <div class="station-marker small" style="left:51%;top:58%;"
+       data-id="tyn" data-station="太原南" data-type="medium_passenger" data-city="太原市"
+       data-routes="D301">
+    <div class="dot"></div><div class="label">太原南</div>
+  </div>
+  <div class="station-marker small" style="left:55%;top:68%;"
+       data-id="csn" data-station="长沙南" data-type="medium_passenger" data-city="长沙市"
+       data-routes="G2">
+    <div class="dot"></div><div class="label">长沙南</div>
+  </div>
+  <div class="station-marker small" style="left:49%;top:66%;"
+       data-id="cqx" data-station="重庆西" data-type="medium_passenger" data-city="重庆市"
+       data-routes="D940">
+    <div class="dot"></div><div class="label">重庆西</div>
+  </div>
+  <div class="station-marker small" style="left:81%;top:19%;"
+       data-id="syb" data-station="沈阳北" data-type="medium_passenger" data-city="沈阳市"
+       data-routes="D101">
+    <div class="dot"></div><div class="label">沈阳北</div>
+  </div>
+  <div class="station-marker small" style="left:68%;top:18%;"
+       data-id="cc" data-station="长春" data-type="medium_passenger" data-city="长春市"
+       data-routes="D101">
+    <div class="dot"></div><div class="label">长春</div>
+  </div>
+  <div class="station-marker small" style="left:64.5%;top:29%;"
+       data-id="bjn" data-station="北京南" data-type="major_hub" data-city="北京市"
+       data-routes="G1,G2,G3,G8">
+    <div class="dot"></div><div class="label">北京南</div>
+  </div>
+  <div class="station-marker small" style="left:50%;top:41%;"
+       data-id="xa" data-station="西安" data-type="major_passenger" data-city="西安市"
+       data-routes="Z55">
+    <div class="dot"></div><div class="label">西安</div>
+  </div>
+  <div class="station-marker small" style="left:64%;top:31%;"
+       data-id="bjx" data-station="北京西" data-type="major_passenger" data-city="北京市"
+       data-routes="Z55">
+    <div class="dot"></div><div class="label">北京西</div>
+  </div>
+  <div class="station-marker small" style="left:36%;top:38%;"
+       data-id="xn" data-station="西宁" data-type="medium_passenger" data-city="西宁市"
+       data-routes="Z55">
+    <div class="dot"></div><div class="label">西宁</div>
+  </div>
+  <div class="station-marker small" style="left:43%;top:44%;"
+       data-id="hz" data-station="汉中" data-type="small_passenger" data-city="汉中市"
+       data-routes="G89">
+    <div class="dot"></div><div class="label">汉中</div>
+  </div>
+</div>
+
+<!-- ============================================================
+     TOP SEARCH BAR
+     ============================================================ -->
+<div class="search-bar-container" id="searchContainer">
+  <div class="search-bar">
+    <div class="search-bar-inner">
+      <div class="search-tabs" id="searchTabs">
+        <button class="search-tab active" data-tab="station">车站</button>
+        <button class="search-tab" data-tab="train">车次</button>
+      </div>
+      <div class="search-input-wrap">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/>
+        </svg>
+        <input type="text" id="searchInput" placeholder="搜索车站、线路或地名..." autocomplete="off">
+        <span class="search-shortcut">⌘K</span>
+      </div>
+    </div>
+    <div class="search-dropdown" id="searchDropdown"></div>
+  </div>
+</div>
+
+<!-- ============================================================
+     LEGEND PANEL
+     ============================================================ -->
+<div class="legend-panel" id="legendPanel">
+  <div class="legend-header" id="legendHeader">
+    图例 ▸ ●▬▬
+    <button class="legend-toggle">▼</button>
+  </div>
+  <div class="legend-body">
+    <div class="legend-section-title">车站分类</div>
+    <label class="legend-item"><input type="checkbox" checked><span class="sym">★</span><span class="lbl">重要枢纽</span><span class="cnt">12</span></label>
+    <label class="legend-item"><input type="checkbox" checked><span class="sym">●</span><span class="lbl">主要车站</span><span class="cnt">86</span></label>
+    <label class="legend-item"><input type="checkbox" checked><span class="sym"><span style="display:inline-block;width:7px;height:7px;background:#f39c12;border-radius:50%;"></span></span><span class="lbl">中等车站</span><span class="cnt">310</span></label>
+    <label class="legend-item"><input type="checkbox" checked><span class="sym"><span style="display:inline-block;width:5px;height:5px;background:#f39c12;border-radius:50%;"></span></span><span class="lbl">小型车站</span><span class="cnt">2,140</span></label>
+    <label class="legend-item"><input type="checkbox" checked><span class="sym"><span style="display:inline-block;width:5px;height:5px;background:#95a5a6;border-radius:50%;"></span></span><span class="lbl">小型站(无客运)</span><span class="cnt">580</span></label>
+    <label class="legend-item"><input type="checkbox" checked><span class="sym"><span style="display:inline-block;width:8px;height:8px;background:#3498db;transform:rotate(45deg);"></span></span><span class="lbl">编组站</span><span class="cnt">92</span></label>
+    <label class="legend-item"><input type="checkbox"><span class="sym"><span style="display:inline-block;width:10px;height:10px;background:#8B4513;"></span></span><span class="lbl">货运站</span><span class="cnt">140</span></label>
+    <label class="legend-item"><input type="checkbox"><span class="sym"><span style="width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-bottom:8px solid #27ae60;"></span></span><span class="lbl">信号站/其他</span><span class="cnt">510</span></label>
+
+    <div class="legend-section-title">铁路线分类</div>
+    <label class="legend-item"><input type="checkbox" checked><span class="sym"><span class="ln" style="border-color:#e74c3c;"></span></span><span class="lbl">铁路(双/单线)</span><span class="cnt">2,310</span></label>
+    <label class="legend-item"><input type="checkbox" checked><span class="sym"><span class="ln" style="border-color:#c0392b;border-top-width:4px;"></span></span><span class="lbl">高速铁路</span><span class="cnt">186</span></label>
+    <label class="legend-item"><input type="checkbox" checked><span class="sym"><span class="ln" style="border-color:#e67e22;"></span></span><span class="lbl">快速/城际铁路</span><span class="cnt">94</span></label>
+    <label class="legend-item"><input type="checkbox"><span class="sym"><span class="ln" style="border-color:#27ae60;"></span></span><span class="lbl">普通铁路(客运)</span><span class="cnt">420</span></label>
+    <label class="legend-item"><input type="checkbox"><span class="sym"><span class="ln" style="border-color:#8B4513;"></span></span><span class="lbl">普通铁路(货运)</span><span class="cnt">680</span></label>
+    <label class="legend-item"><input type="checkbox"><span class="sym"><span class="ln dashed" style="border-color:#95a5a6;"></span></span><span class="lbl">其他(专用/联络)</span><span class="cnt">1,120</span></label>
+    <label class="legend-item"><input type="checkbox"><span class="sym"><span class="ln" style="border-color:#85C1E9;border-top-width:2px;"></span></span><span class="lbl">地铁</span><span class="cnt">305</span></label>
+  </div>
+</div>
+
+<!-- ============================================================
+     MAP CONTROLS
+     ============================================================ -->
+<div class="map-controls">
+  <div class="map-control-group">
+    <button class="map-control-btn" title="放大" id="btnZoomIn">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/>
+      </svg>
+    </button>
+    <button class="map-control-btn" title="缩小" id="btnZoomOut">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <line x1="5" y1="12" x2="19" y2="12"/>
+      </svg>
+    </button>
+  </div>
+  <button class="map-control-btn" title="定位" id="btnLocate">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="12" cy="12" r="3"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4"/>
+    </svg>
+  </button>
+  <button class="map-control-btn" title="图层" id="btnLayer">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+    </svg>
+  </button>
+</div>
+
+<!-- ============================================================
+     DRAWER (Station Info / Train List / Train Detail)
+     ============================================================ -->
+<div class="drawer-overlay" id="drawerOverlay">
+  <div class="drawer" id="drawer">
+    <div class="drawer-handle"></div>
+    <div class="drawer-header">
+      <button class="drawer-back-btn" id="drawerBack">←</button>
+      <div class="drawer-title-group">
+        <div class="drawer-icon station" id="drawerIcon">京</div>
+        <div>
+          <div class="drawer-title" id="drawerTitle">北京</div>
+          <div class="drawer-subtitle" id="drawerSubtitle">北京市 · 重要枢纽站</div>
+        </div>
+      </div>
+      <button class="drawer-close" id="drawerClose">✕</button>
+    </div>
+    <div class="drawer-body" id="drawerBody">
+      <!-- Content rendered dynamically -->
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================
+     TOAST
+     ============================================================ -->
+<div class="toast" id="toast"></div>
+
+<!-- ============================================================
+     JAVASCRIPT DATA STORE
+     ============================================================ -->
+<script>
+// ---- STATION DATA ----
+const STATIONS = {
+  bj:   { id:'bj',   name:'北京',     city:'北京市',   type:'major_hub',          pos:[65,28],   routes:['G1','G2','G3','D301','Z55'] },
+  bjn:  { id:'bjn',  name:'北京南',   city:'北京市',   type:'major_hub',          pos:[64.5,29], routes:['G1','G2','G3','G8'] },
+  bjx:  { id:'bjx',  name:'北京西',   city:'北京市',   type:'major_passenger',    pos:[64,31],   routes:['Z55'] },
+  shhq: { id:'shhq', name:'上海虹桥', city:'上海市',   type:'major_passenger',    pos:[78,52],   routes:['G1','G8'] },
+  gzn:  { id:'gzn',  name:'广州南',   city:'广州市',   type:'major_hub',          pos:[57,72],   routes:['G2','D940'] },
+  cdd:  { id:'cdd',  name:'成都东',   city:'成都市',   type:'major_passenger',    pos:[39,58],   routes:['D940','G89'] },
+  xab:  { id:'xab',  name:'西安北',   city:'西安市',   type:'major_hub',          pos:[49,39],   routes:['G89','D301'] },
+  wh:   { id:'wh',   name:'武汉',     city:'武汉市',   type:'major_passenger',    pos:[60,50],   routes:['G2'] },
+  hebx: { id:'hebx', name:'哈尔滨西', city:'哈尔滨市', type:'major_passenger',    pos:[82,11],   routes:['D101'] },
+  lz:   { id:'lz',   name:'兰州',     city:'兰州市',   type:'medium_passenger',   pos:[29,35],   routes:['Z55'] },
+  jnx:  { id:'jnx',  name:'济南西',   city:'济南市',   type:'large_yard',         pos:[68,44],   routes:['G1','G3','G8'] },
+  zzd:  { id:'zzd',  name:'郑州东',   city:'郑州市',   type:'large_yard',         pos:[60,60],   routes:['G2','G89'] },
+  njn:  { id:'njn',  name:'南京南',   city:'南京市',   type:'major_passenger',    pos:[73,48],   routes:['G1','G3','G8'] },
+  sjz:  { id:'sjz',  name:'石家庄',   city:'石家庄市', type:'medium_passenger',   pos:[60,36],   routes:['G2','D301'] },
+  tyn:  { id:'tyn',  name:'太原南',   city:'太原市',   type:'medium_passenger',   pos:[51,58],   routes:['D301'] },
+  csn:  { id:'csn',  name:'长沙南',   city:'长沙市',   type:'medium_passenger',   pos:[55,68],   routes:['G2'] },
+  cqx:  { id:'cqx',  name:'重庆西',   city:'重庆市',   type:'medium_passenger',   pos:[49,66],   routes:['D940'] },
+  syb:  { id:'syb',  name:'沈阳北',   city:'沈阳市',   type:'medium_passenger',   pos:[81,19],   routes:['D101'] },
+  cc:   { id:'cc',   name:'长春',     city:'长春市',   type:'medium_passenger',   pos:[68,18],   routes:['D101'] },
+  xa:   { id:'xa',   name:'西安',     city:'西安市',   type:'major_passenger',    pos:[50,41],   routes:['Z55'] },
+  xn:   { id:'xn',   name:'西宁',     city:'西宁市',   type:'medium_passenger',   pos:[36,38],   routes:['Z55'] },
+  hz:   { id:'hz',   name:'汉中',     city:'汉中市',   type:'small_passenger',    pos:[43,44],   routes:['G89'] },
+  ty:   { id:'ty',   name:'太原',     city:'太原市',   type:'major_passenger',    pos:[52,56],   routes:['Z55'] },
+};
+
+// ---- TRAIN DATA ----
+const TRAINS = {
+  'G1': {
+    no:'G1', type:'G',
+    from:'北京南', to:'上海虹桥',
+    departTime:'09:00', arriveTime:'13:28', durationMin:268,
+    stops: [
+      { station:'北京南', arrive:'-', depart:'09:00' },
+      { station:'济南西', arrive:'10:22', depart:'10:25' },
+      { station:'南京南', arrive:'12:10', depart:'12:13' },
+      { station:'上海虹桥', arrive:'13:28', depart:'-' },
+    ]
+  },
+  'G2': {
+    no:'G2', type:'G',
+    from:'北京南', to:'广州南',
+    departTime:'08:30', arriveTime:'16:45', durationMin:495,
+    stops: [
+      { station:'北京南', arrive:'-', depart:'08:30' },
+      { station:'石家庄', arrive:'09:40', depart:'09:43' },
+      { station:'郑州东', arrive:'11:15', depart:'11:18' },
+      { station:'武汉', arrive:'12:55', depart:'12:58' },
+      { station:'长沙南', arrive:'14:20', depart:'14:23' },
+      { station:'广州南', arrive:'16:45', depart:'-' },
+    ]
+  },
+  'G3': {
+    no:'G3', type:'G',
+    from:'北京南', to:'南京南',
+    departTime:'14:00', arriveTime:'17:30', durationMin:210,
+    stops: [
+      { station:'北京南', arrive:'-', depart:'14:00' },
+      { station:'济南西', arrive:'15:22', depart:'15:25' },
+      { station:'南京南', arrive:'17:30', depart:'-' },
+    ]
+  },
+  'G8': {
+    no:'G8', type:'G',
+    from:'上海虹桥', to:'北京南',
+    departTime:'16:00', arriveTime:'20:28', durationMin:268,
+    stops: [
+      { station:'上海虹桥', arrive:'-', depart:'16:00' },
+      { station:'南京南', arrive:'17:15', depart:'17:18' },
+      { station:'济南西', arrive:'19:03', depart:'19:06' },
+      { station:'北京南', arrive:'20:28', depart:'-' },
+    ]
+  },
+  'G89': {
+    no:'G89', type:'G',
+    from:'西安北', to:'成都东',
+    departTime:'07:20', arriveTime:'10:55', durationMin:215,
+    stops: [
+      { station:'西安北', arrive:'-', depart:'07:20' },
+      { station:'汉中', arrive:'08:35', depart:'08:38' },
+      { station:'成都东', arrive:'10:55', depart:'-' },
+    ]
+  },
+  'D301': {
+    no:'D301', type:'D',
+    from:'北京', to:'西安北',
+    departTime:'11:15', arriveTime:'17:40', durationMin:385,
+    stops: [
+      { station:'北京', arrive:'-', depart:'11:15' },
+      { station:'石家庄', arrive:'12:55', depart:'12:58' },
+      { station:'太原南', arrive:'14:20', depart:'14:25' },
+      { station:'西安北', arrive:'17:40', depart:'-' },
+    ]
+  },
+  'D940': {
+    no:'D940', type:'D',
+    from:'成都东', to:'广州南',
+    departTime:'08:00', arriveTime:'18:30', durationMin:630,
+    stops: [
+      { station:'成都东', arrive:'-', depart:'08:00' },
+      { station:'重庆西', arrive:'09:30', depart:'09:35' },
+      { station:'广州南', arrive:'18:30', depart:'-' },
+    ]
+  },
+  'D101': {
+    no:'D101', type:'D',
+    from:'北京', to:'哈尔滨西',
+    departTime:'06:30', arriveTime:'14:20', durationMin:470,
+    stops: [
+      { station:'北京', arrive:'-', depart:'06:30' },
+      { station:'沈阳北', arrive:'10:15', depart:'10:20' },
+      { station:'长春', arrive:'12:05', depart:'12:08' },
+      { station:'哈尔滨西', arrive:'14:20', depart:'-' },
+    ]
+  },
+  'Z55': {
+    no:'Z55', type:'Z',
+    from:'兰州', to:'北京西',
+    departTime:'20:35', arriveTime:'08:42', durationMin:727,
+    stops: [
+      { station:'兰州', arrive:'-', depart:'20:35' },
+      { station:'西宁', arrive:'22:50', depart:'22:58' },
+      { station:'西安', arrive:'06:30', depart:'06:38' },
+      { station:'太原', arrive:'08:00', depart:'08:05' },
+      { station:'北京西', arrive:'08:42', depart:'-' },
+    ]
+  },
+};
+
+// ---- ROUTE PATHS (SVG coords for animated route) ----
+const ROUTE_PATHS = {
+  'G1': 'M 1240 314 C 1280 370, 1340 440, 1500 560',
+  'G2': 'M 1240 314 C 1190 390, 1155 470, 1160 540 C 1160 620, 1110 700, 1100 780',
+  'G3': 'M 1240 314 C 1280 390, 1320 440, 1400 518',
+  'G8': 'M 1500 560 C 1440 510, 1380 454, 1400 518 C 1340 460, 1280 380, 1240 314',
+  'G89': 'M 950 420 C 880 440, 830 470, 780 500 C 770 540, 760 580, 750 630',
+  'D301': 'M 1248 300 C 1190 320, 1140 360, 1160 390 C 1120 420, 1060 500, 1000 530 C 980 550, 960 500, 950 420',
+  'D940': 'M 750 630 C 780 640, 850 670, 940 710 C 1020 740, 1080 780, 1100 780',
+  'D101': 'M 1248 300 C 1350 250, 1450 200, 1560 150 C 1580 140, 1580 120, 1580 120',
+  'Z55': 'M 550 380 C 600 390, 650 400, 700 410 C 750 420, 850 440, 950 420 C 1000 420, 1020 430, 1100 440 C 1150 440, 1220 380, 1230 330',
+};
+
+/* return path from station data */
+function getPathForTrain(trainNo) { return ROUTE_PATHS[trainNo] || ''; }
+
+// Build lookup: station name → id
+const stationNameToId = {};
+Object.values(STATIONS).forEach(s => { stationNameToId[s.name] = s.id; });
+</script>
+
+<!-- ============================================================
+     JAVASCRIPT: MAIN LOGIC
+     ============================================================ -->
+<script>
+// ============ DOM REFS ============
+const $ = (sel) => document.querySelector(sel);
+const $$ = (sel) => document.querySelectorAll(sel);
+
+const searchContainer = $('#searchContainer');
+const searchInput = $('#searchInput');
+const searchDropdown = $('#searchDropdown');
+const searchTabs = $('#searchTabs');
+const drawerOverlay = $('#drawerOverlay');
+const drawer = $('#drawer');
+const drawerBack = $('#drawerBack');
+const drawerClose = $('#drawerClose');
+const drawerIcon = $('#drawerIcon');
+const drawerTitle = $('#drawerTitle');
+const drawerSubtitle = $('#drawerSubtitle');
+const drawerBody = $('#drawerBody');
+const routeOverlay = $('#routeOverlay');
+const legendPanel = $('#legendPanel');
+const toast = $('#toast');
+
+let activeTab = 'station';
+let drawerHistory = []; // stack of {type:'station'|'train'|'trainList', id|no}
+let currentHighlighted = []; // station marker elements currently highlighted
+
+// ============ SEARCH BAR ============
+searchInput.addEventListener('focus', () => {
+  searchContainer.classList.add('focused');
+  renderSearchDropdown();
+});
+
+document.addEventListener('click', (e) => {
+  if (!searchContainer.contains(e.target) && !e.target.closest('.drawer-overlay')) {
+    searchContainer.classList.remove('focused');
+  }
+});
+
+searchTabs.addEventListener('click', (e) => {
+  const tab = e.target.closest('.search-tab');
+  if (!tab) return;
+  $$('.search-tab').forEach(t => t.classList.remove('active'));
+  tab.classList.add('active');
+  activeTab = tab.dataset.tab;
+  searchInput.value = '';
+  searchInput.placeholder = activeTab === 'station' ? '搜索车站、线路或地名…' : '搜索车次（如 G1、D301）…';
+  searchInput.focus();
+  searchContainer.classList.add('focused');
+  renderSearchDropdown();
+});
+
+searchInput.addEventListener('input', () => { renderSearchDropdown(); });
+
+function renderSearchDropdown() {
+  const q = searchInput.value.trim().toLowerCase();
+  let html = '';
+
+  if (activeTab === 'station') {
+    if (!q) {
+      html += '<div class="search-dropdown-section"><div class="search-dropdown-title">热门车站</div>';
+      ['北京','上海虹桥','广州南','成都东','西安北','武汉'].forEach(n => {
+        const s = STATIONS[stationNameToId[n]];
+        html += `<div class="search-result-item" data-action="station" data-id="${s.id}">
+          <span class="dot-mini" style="background:${s.type==='major_hub'?'var(--red-highspeed)':'var(--orange-rapid)'}"></span>
+          <span class="result-name">${n}</span><span class="result-sub">${typeLabel(s.type)}</span>
+        </div>`;
+      });
+      html += '</div>';
+    } else {
+      const results = searchStations(q);
+      if (results.length) {
+        html += '<div class="search-dropdown-section"><div class="search-dropdown-title">车站</div>';
+        results.forEach(s => {
+          html += `<div class="search-result-item" data-action="station" data-id="${s.id}">
+            <span class="dot-mini" style="background:${s.type==='major_hub'?'var(--red-highspeed)':'var(--orange-rapid)'}"></span>
+            <span class="result-name">${s.name}</span><span class="result-sub">${s.city} · ${typeLabel(s.type)}</span>
+          </div>`;
+        });
+        html += '</div>';
+      }
+      const cities = searchCities(q);
+      if (cities.length) {
+        html += '<div class="search-dropdown-section"><div class="search-dropdown-title">城市</div>';
+        cities.forEach(c => {
+          html += `<div class="search-result-item" data-action="city" data-city="${c.city}">
+            <span class="dot-mini" style="background:var(--link-color)"></span>
+            <span class="result-name">${c.city}</span><span class="result-sub">${c.count} 个车站</span>
+          </div>`;
+        });
+        html += '</div>';
+      }
+      if (!results.length && !cities.length) {
+        html += '<div class="search-dropdown-section"><div class="search-dropdown-title" style="color:var(--text-tertiary)">无匹配结果</div></div>';
+      }
+    }
+  } else {
+    // Train tab
+    if (!q) {
+      html += '<div class="search-dropdown-section"><div class="search-dropdown-title">热门车次</div>';
+      ['G1','G2','G3','D301','G89','Z55'].forEach(no => {
+        const t = TRAINS[no];
+        html += `<div class="search-result-item" data-action="train" data-no="${no}">
+          <span class="train-type-tag ${t.type}">${t.type}</span>
+          <span class="result-name">${no}</span><span class="result-detail">${t.from} → ${t.to}</span>
+        </div>`;
+      });
+      html += '</div>';
+    } else {
+      const results = searchTrains(q);
+      if (results.length) {
+        html += '<div class="search-dropdown-section">';
+        results.forEach(t => {
+          html += `<div class="search-result-item" data-action="train" data-no="${t.no}">
+            <span class="train-type-tag ${t.type}">${t.type}</span>
+            <span class="result-name">${t.no}</span><span class="result-detail">${t.from} → ${t.to}</span>
+          </div>`;
+        });
+        html += '</div>';
+      } else {
+        html += '<div class="search-dropdown-section"><div class="search-dropdown-title" style="color:var(--text-tertiary)">无匹配车次</div></div>';
+      }
+    }
+  }
+
+  searchDropdown.innerHTML = html;
+
+  // Bind click on dropdown items
+  searchDropdown.querySelectorAll('.search-result-item').forEach(item => {
+    item.addEventListener('click', () => {
+      const action = item.dataset.action;
+      searchContainer.classList.remove('focused');
+      if (action === 'station') {
+        searchInput.value = STATIONS[item.dataset.id].name;
+        openStation(item.dataset.id);
+      } else if (action === 'city') {
+        searchInput.value = item.dataset.city;
+        focusCity(item.dataset.city);
+      } else if (action === 'train') {
+        searchInput.value = item.dataset.no;
+        openTrain(item.dataset.no);
+      }
+    });
+  });
+}
+
+function searchStations(q) {
+  return Object.values(STATIONS).filter(s =>
+    s.name.toLowerCase().includes(q) ||
+    s.city.toLowerCase().includes(q) ||
+    s.name.includes(q)
+  ).slice(0, 8);
+}
+
+function searchCities(q) {
+  const cities = {};
+  Object.values(STATIONS).forEach(s => {
+    if (s.city.toLowerCase().includes(q) || s.city.includes(q)) {
+      if (!cities[s.city]) cities[s.city] = { city: s.city, count: 0 };
+      cities[s.city].count++;
+    }
+  });
+  return Object.values(cities).slice(0, 5);
+}
+
+function searchTrains(q) {
+  const upper = q.toUpperCase();
+  return Object.values(TRAINS).filter(t =>
+    t.no.toUpperCase().includes(upper) ||
+    t.from.includes(q) ||
+    t.to.includes(q)
+  ).slice(0, 8);
+}
+
+// ============ DRAWER: STATION INFO ============
+function openStation(stationId) {
+  clearHighlights();
+  clearRouteOverlay();
+  const s = STATIONS[stationId];
+  if (!s) return;
+
+  drawerHistory = [{ type: 'station', id: stationId }];
+  updateBackButton();
+
+  const marker = getMarkerEl(stationId);
+  if (marker) marker.classList.add('selected');
+
+  drawerIcon.className = 'drawer-icon station';
+  drawerIcon.textContent = s.name.charAt(0);
+  drawerTitle.textContent = s.name;
+  drawerSubtitle.textContent = `${s.city} · ${typeLabel(s.type)}`;
+
+  const tagClass = s.type === 'major_hub' ? 'major' : (s.type.includes('passenger') ? 'passenger' : '');
+  drawerBody.innerHTML = `
+    <div class="drawer-tags">
+      <span class="drawer-tag major">${typeLabel(s.type)}</span>
+      ${s.type !== 'small_non_passenger' && s.type !== 'major_freight' && s.type !== 'freight_yard' ? '<span class="drawer-tag passenger">客运</span>' : ''}
+    </div>
+    <div class="drawer-info-row">
+      <span class="drawer-info-label">所属城市</span>
+      <span class="drawer-info-value"><a class="hyperlink" data-action="city" data-city="${s.city}">${s.city}</a></span>
+    </div>
+    <div class="drawer-info-row">
+      <span class="drawer-info-label">途经线路</span>
+      <span class="drawer-info-value">${getRoutesForStation(s.name)}</span>
+    </div>
+    <div class="drawer-actions">
+      <button class="drawer-btn secondary" id="btnAllTrains">所有车次 (${s.routes.length})</button>
+    </div>
+  `;
+
+  drawerOverlay.classList.add('active');
+
+  // Bind "所有车次" button
+  setTimeout(() => {
+    const btn = $('#btnAllTrains');
+    if (btn) btn.addEventListener('click', () => openTrainList(stationId));
+  }, 100);
+
+  // Bind hyperlinks
+  bindDrawerHyperlinks();
+}
+
+// ============ DRAWER: TRAIN LIST AT STATION ============
+function openTrainList(stationId) {
+  const s = STATIONS[stationId];
+  if (!s) return;
+
+  drawerHistory.push({ type: 'trainList', id: stationId });
+  updateBackButton();
+
+  drawerIcon.className = 'drawer-icon station';
+  drawerIcon.textContent = s.name.charAt(0);
+  drawerTitle.textContent = s.name + ' — 经停车次';
+  drawerSubtitle.textContent = `${s.city} · 共 ${s.routes.length} 趟列车`;
+
+  const trains = s.routes.map(no => TRAINS[no]).filter(Boolean);
+  const rows = trains.map(t => {
+    const stop = t.stops.find(st => st.station === s.name);
+    return `<tr>
+      <td><span class="train-type-tag ${t.type}">${t.type}</span></td>
+      <td><a class="hyperlink" data-action="train" data-no="${t.no}">${t.no}</a></td>
+      <td><a class="hyperlink" data-action="station" data-station="${t.from}">${t.from}</a></td>
+      <td><a class="hyperlink" data-action="station" data-station="${t.to}">${t.to}</a></td>
+      <td>${stop ? (stop.arrive === '-' ? '—' : stop.arrive) : '—'}</td>
+      <td>${stop ? (stop.depart === '-' ? '—' : stop.depart) : '—'}</td>
+    </tr>`;
+  }).join('');
+
+  drawerBody.innerHTML = `
+    <table class="train-list-table">
+      <thead><tr>
+        <th>类型</th><th>车次</th><th>始发站</th><th>终到站</th><th>到达</th><th>发车</th>
+      </tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  `;
+
+  bindDrawerHyperlinks();
+}
+
+// ============ DRAWER: TRAIN DETAIL ============
+function openTrain(trainNo) {
+  clearHighlights();
+  const t = TRAINS[trainNo];
+  if (!t) return;
+
+  drawerHistory = [{ type: 'train', no: trainNo }];
+  updateBackButton();
+
+  // Draw animated route
+  drawTrainRoute(trainNo);
+
+  drawerIcon.className = 'drawer-icon train';
+  drawerIcon.textContent = t.type;
+  drawerTitle.textContent = t.no;
+  drawerSubtitle.textContent = `${t.from} → ${t.to} · ${t.departTime}—${t.arriveTime} · ${Math.floor(t.durationMin/60)}h${t.durationMin%60}min`;
+
+  const stopsHtml = t.stops.map((stop, i) => {
+    const isTerminal = i === 0 || i === t.stops.length - 1;
+    return `<div class="stop-item${isTerminal ? ' terminal' : ''}">
+      <span class="stop-time">${stop.arrive === '-' ? stop.depart : stop.arrive}</span>
+      <span class="stop-station"><a class="hyperlink" data-action="station" data-station="${stop.station}">${stop.station}</a></span>
+      ${stop.arrive === '-' ? '<span class="stop-info">始发</span>' :
+        stop.depart === '-' ? '<span class="stop-info">终到</span>' :
+        '<span class="stop-info">停'+(timeDiff(stop.arrive, stop.depart))+'分</span>'}
+    </div>`;
+  }).join('');
+
+  drawerBody.innerHTML = `
+    <div class="drawer-tags">
+      <span class="drawer-tag major">${t.type}字头</span>
+      <span class="drawer-tag passenger">${t.type === 'G' ? '高速动车' : t.type === 'D' ? '动车组' : '直达特快'}</span>
+    </div>
+    <div class="drawer-info-row">
+      <span class="drawer-info-label">始发站</span>
+      <span class="drawer-info-value"><a class="hyperlink" data-action="station" data-station="${t.from}">${t.from}</a></span>
+    </div>
+    <div class="drawer-info-row">
+      <span class="drawer-info-label">终到站</span>
+      <span class="drawer-info-value"><a class="hyperlink" data-action="station" data-station="${t.to}">${t.to}</a></span>
+    </div>
+    <div class="drawer-info-row">
+      <span class="drawer-info-label">全程时间</span>
+      <span class="drawer-info-value">${Math.floor(t.durationMin/60)} 小时 ${t.durationMin%60} 分钟</span>
+    </div>
+    <div class="drawer-section-title" style="margin-top:var(--space-md)">经停站 (${t.stops.length})</div>
+    <div class="stop-timeline">
+      ${stopsHtml}
+    </div>
+  `;
+
+  drawerOverlay.classList.add('active');
+  bindDrawerHyperlinks();
+}
+
+// ============ DRAWER: BACK NAVIGATION ============
+function updateBackButton() {
+  if (drawerHistory.length > 1) {
+    drawerBack.classList.add('visible');
+  } else {
+    drawerBack.classList.remove('visible');
+  }
+}
+
+drawerBack.addEventListener('click', () => {
+  if (drawerHistory.length <= 1) return;
+  drawerHistory.pop(); // remove current
+  const prev = drawerHistory[drawerHistory.length - 1];
+  if (prev.type === 'station') {
+    openStation(prev.id);
+    drawerHistory = [{ type: 'station', id: prev.id }]; // reset stack to avoid deep nesting
+  } else if (prev.type === 'train') {
+    openTrain(prev.no);
+    drawerHistory = [{ type: 'train', no: prev.no }];
+  } else if (prev.type === 'trainList') {
+    const stationId = prev.id;
+    drawerHistory = [{ type: 'station', id: stationId }];
+    openStation(stationId);
+    setTimeout(() => openTrainList(stationId), 50);
+  }
+  updateBackButton();
+});
+
+drawerClose.addEventListener('click', () => {
+  hideDrawer();
+});
+
+// ============ DRAWER HYPERLINKS ============
+function bindDrawerHyperlinks() {
+  drawerBody.querySelectorAll('a.hyperlink').forEach(link => {
+    link.addEventListener('click', (e) => {
+      e.preventDefault();
+      const action = link.dataset.action;
+      if (action === 'station') {
+        const stationName = link.dataset.station;
+        const id = stationNameToId[stationName];
+        if (id) openStation(id);
+      } else if (action === 'train') {
+        openTrain(link.dataset.no);
+      } else if (action === 'city') {
+        focusCity(link.dataset.city);
+      }
+    });
+  });
+}
+
+function hideDrawer() {
+  drawerOverlay.classList.remove('active');
+  drawerHistory = [];
+  updateBackButton();
+  clearHighlights();
+  clearRouteOverlay();
+}
+
+// ============ MAP STATION CLICK ============
+document.getElementById('stationMarkers').addEventListener('click', (e) => {
+  const marker = e.target.closest('.station-marker');
+  if (!marker) return;
+  const stationId = marker.dataset.id;
+  $$('.station-marker.selected').forEach(m => m.classList.remove('selected'));
+  marker.classList.add('selected');
+  openStation(stationId);
+});
+
+// ============ MAP BACKGROUND CLICK → DISMISS ============
+document.querySelector('.map-background').addEventListener('click', (e) => {
+  if (e.target.classList.contains('map-background') && drawerOverlay.classList.contains('active')) {
+    hideDrawer();
+  }
+});
+
+// ============ CITY FOCUS ============
+function focusCity(city) {
+  clearHighlights();
+  clearRouteOverlay();
+  hideDrawer();
+
+  // Find all stations in this city
+  const stations = Object.values(STATIONS).filter(s => s.city === city);
+  if (!stations.length) return;
+
+  // Highlight stations starting with city name
+  const highlighted = [];
+  document.querySelectorAll('.station-marker').forEach(marker => {
+    const stationName = marker.dataset.station;
+    if (stationName && stationName.startsWith(city.replace('市','').replace('省',''))) {
+      marker.classList.add('highlighted');
+      highlighted.push(marker);
+    }
+  });
+  currentHighlighted = highlighted;
+
+  // Calculate city center from station positions
+  let cx = 0, cy = 0;
+  stations.forEach(s => { cx += s.pos[0]; cy += s.pos[1]; });
+  cx /= stations.length; cy /= stations.length;
+
+  // Show city focus indicator
+  const indicator = document.createElement('div');
+  indicator.className = 'city-focus-indicator';
+  indicator.style.left = cx + '%';
+  indicator.style.top = cy + '%';
+  document.body.appendChild(indicator);
+  setTimeout(() => indicator.remove(), 1600);
+
+  showToast(`聚焦 ${city} — 高亮 ${highlighted.length} 个车站，点击车站查看详情`);
+}
+
+function clearHighlights() {
+  currentHighlighted.forEach(m => m.classList.remove('highlighted'));
+  currentHighlighted = [];
+  $$('.station-marker.selected').forEach(m => m.classList.remove('selected'));
+}
+
+// ============ ANIMATED TRAIN ROUTE ============
+function drawTrainRoute(trainNo) {
+  clearRouteOverlay();
+  const path = getPathForTrain(trainNo);
+  if (!path) return;
+
+  routeOverlay.innerHTML = `
+    <path class="route-highlight-path route-animated"
+          d="${path}"
+          stroke-dasharray="20 20"
+          stroke="#ff6b35"
+          stroke-width="4"
+          fill="none" />`;
+}
+
+function clearRouteOverlay() {
+  routeOverlay.innerHTML = '';
+}
+
+// ============ MAP CONTROLS ============
+$('#btnZoomIn').addEventListener('click', () => showToast('放大 — 实际使用 MapLibre GL JS'));
+$('#btnZoomOut').addEventListener('click', () => showToast('缩小 — 实际使用 MapLibre GL JS'));
+$('#btnLocate').addEventListener('click', () => showToast('定位到当前城市'));
+$('#btnLayer').addEventListener('click', () => {
+  const mapBg = document.querySelector('.map-background');
+  if (mapBg.style.filter) {
+    mapBg.style.filter = '';
+    showToast('底图切换: 标准模式');
+  } else {
+    mapBg.style.filter = 'invert(0.9) hue-rotate(180deg)';
+    showToast('底图切换: 暗色模式');
+  }
+});
+
+// ============ LEGEND COLLAPSE ============
+$('#legendHeader').addEventListener('click', () => {
+  legendPanel.classList.toggle('collapsed');
+});
+
+// ============ TOAST ============
+let toastTimer;
+function showToast(msg) {
+  toast.textContent = msg;
+  toast.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toast.classList.remove('show'), 2000);
+}
+
+// ============ KEYBOARD SHORTCUTS ============
+document.addEventListener('keydown', (e) => {
+  if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+    e.preventDefault();
+    searchInput.focus();
+    searchContainer.classList.add('focused');
+  }
+  if (e.key === 'Escape') {
+    searchContainer.classList.remove('focused');
+    searchInput.blur();
+    hideDrawer();
+  }
+});
+
+// ============ DRAG TO DISMISS DRAWER ============
+let dragStartY = 0;
+document.querySelector('.drawer-handle').addEventListener('mousedown', (e) => {
+  dragStartY = e.clientY;
+  const onMove = (ev) => {
+    if (ev.clientY - dragStartY > 50) { hideDrawer(); cleanup(); }
+  };
+  const cleanup = () => {
+    document.removeEventListener('mousemove', onMove);
+    document.removeEventListener('mouseup', cleanup);
+  };
+  document.addEventListener('mousemove', onMove);
+  document.addEventListener('mouseup', cleanup);
+});
+
+// ============ UTILS ============
+function typeLabel(t) {
+  const m = {
+    major_hub:'重要枢纽站', major_passenger:'主要车站',
+    medium_passenger:'中等车站', small_passenger:'小型车站',
+    small_non_passenger:'小型站(无客运)', large_yard:'大型编组站',
+    medium_yard:'中小编组站', major_freight:'重要货运站',
+    signal_station:'线路所', other_facility:'其他设施',
+    freight_yard:'铁路货场', emu_depot:'动车整备场'
+  };
+  return m[t] || t;
+}
+
+function getRoutesForStation(name) {
+  const m = {
+    '北京':'京沪线 · 京广线 · 京哈线 · 京张线',
+    '北京南':'京沪线 · 京广线',
+    '北京西':'京广线 · 京九线',
+    '上海虹桥':'京沪线 · 沪昆线 · 沪宁线',
+    '广州南':'京广线 · 广深线 · 南广线',
+    '成都东':'成渝线 · 西成线 · 成贵线',
+    '西安北':'陇海线 · 西成线 · 大西线',
+    '西安':'陇海线 · 西康线',
+    '武汉':'京广线 · 沪汉蓉线 · 武九线',
+    '哈尔滨西':'京哈线 · 哈大线 · 哈齐线',
+    '兰州':'陇海线 · 兰新线 · 包兰线',
+    '济南西':'京沪线 · 胶济线',
+    '郑州东':'京广线 · 陇海线 · 郑徐线',
+    '南京南':'京沪线 · 沪汉蓉线 · 宁杭线',
+    '石家庄':'京广线 · 石太线',
+    '太原南':'石太线 · 大西线',
+    '太原':'石太线 · 同蒲线',
+    '长沙南':'京广线 · 沪昆线',
+    '重庆西':'成渝线 · 渝贵线',
+    '沈阳北':'京哈线 · 哈大线',
+    '长春':'京哈线 · 长吉线',
+    '西宁':'兰新线 · 青藏线',
+    '汉中':'西成线',
+  };
+  return m[name] || '暂无数据';
+}
+
+function timeDiff(arrive, depart) {
+  if (arrive === '-' || depart === '-') return 0;
+  const [ah, am] = arrive.split(':').map(Number);
+  const [dh, dm] = depart.split(':').map(Number);
+  return (dh * 60 + dm) - (ah * 60 + am);
+}
+
+function getMarkerEl(stationId) {
+  return document.querySelector(`.station-marker[data-id="${stationId}"]`);
+}
+</script>
+
+</body>
+</html>

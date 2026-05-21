@@ -46,6 +46,10 @@ public class StationSearchService {
         return stationMapper.searchByCity(city.trim(), limit);
     }
 
+    public List<StationSearchResult> getHotStations(int limit) {
+        return stationMapper.findHotStations(limit);
+    }
+
     /**
      * 生成或更新车站的拼音索引
      */

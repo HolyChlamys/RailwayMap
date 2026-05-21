@@ -1,5 +1,7 @@
 package com.railwaymap.common.util;
 
+import java.util.Locale;
+
 /**
  * 矢量瓦片坐标转换工具
  */
@@ -34,7 +36,7 @@ public final class TileUtils {
      */
     public static String tileToEnvelopeSql(int z, int x, int y) {
         double[] bbox = tileToBBox(z, x, y);
-        return String.format("ST_MakeEnvelope(%f, %f, %f, %f, 4326)",
+        return String.format(Locale.US, "ST_MakeEnvelope(%f, %f, %f, %f, 4326)",
                 bbox[0], bbox[1], bbox[2], bbox[3]);
     }
 }

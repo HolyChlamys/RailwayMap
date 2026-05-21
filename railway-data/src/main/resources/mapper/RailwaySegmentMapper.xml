@@ -15,6 +15,13 @@
                 electrified,
                 max_speed,
                 track_count,
+                length_km,
+                CASE
+                    WHEN usage = 'main' THEN 'trunk'
+                    WHEN usage = 'branch' THEN 'branch'
+                    WHEN usage = 'spur' THEN 'spur'
+                    ELSE 'trunk'
+                END AS display_group,
                 ST_AsMVTGeom(
                     geom,
                     ${envelope},
@@ -25,10 +32,7 @@
             FROM railway_segments
             WHERE geom &amp;&amp; ${envelope}
               AND ST_Intersects(geom, ${envelope})
-              AND category IN (
-                'conventional', 'high_speed', 'rapid_transit',
-                'passenger_rail', 'freight_rail', 'other_rail', 'subway'
-              )
+              AND category IN ('conventional', 'high_speed', 'other_rail')
         ) AS tile
         WHERE geom IS NOT NULL
     </select>

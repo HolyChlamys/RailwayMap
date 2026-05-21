@@ -14,6 +14,7 @@ node_modules/
 dist/
 .vite/
 *.local
+test-results/
 
 # ===== IDE =====
 .idea/
@@ -44,8 +45,10 @@ import_errors.log
 # ===== Data =====
 frontend/data/
 *.geojson
+*.gpkg
 grid_queue.json
 skipped_grids.json
+Others/MAP-gpkg/
 
 # ===== Claude =====
 .claude/

@@ -5,6 +5,7 @@ import com.railwaymap.common.dto.StationSearchResult;
 import com.railwaymap.common.entity.Station;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
+import org.apache.ibatis.annotations.Select;
 import org.apache.ibatis.annotations.Update;
 
 import java.util.List;
@@ -32,4 +33,12 @@ public interface StationMapper extends BaseMapper<Station> {
 
     @Update("UPDATE stations SET name_pinyin = #{pinyin}, updated_at = NOW() WHERE id = #{id}")
     int updatePinyin(@Param("id") Long id, @Param("pinyin") String pinyin);
+
+    @Select("SELECT id, name, city, category, "
+            + "ST_X(geom) AS lon, ST_Y(geom) AS lat "
+            + "FROM stations "
+            + "ORDER BY CASE category WHEN 'major_hub' THEN 0 WHEN 'major_passenger' THEN 1 WHEN 'medium_passenger' THEN 2 ELSE 3 END, "
+            + "id "
+            + "LIMIT #{limit}")
+    List<StationSearchResult> findHotStations(@Param("limit") int limit);
 }

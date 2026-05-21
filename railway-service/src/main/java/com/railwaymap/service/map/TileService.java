@@ -10,6 +10,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.HexFormat;
 import java.util.List;
+import java.util.Locale;
 
 @Service
 @RequiredArgsConstructor
@@ -22,20 +23,20 @@ public class TileService {
 
     public byte[] getTile(String layer, int z, int x, int y) {
         double[] bbox = TileUtils.tileToBBox(z, x, y);
-        String envelope = String.format("ST_MakeEnvelope(%f, %f, %f, %f, 4326)",
+        String envelope = String.format(Locale.US, "ST_MakeEnvelope(%f, %f, %f, %f, 4326)",
                 bbox[0], bbox[1], bbox[2], bbox[3]);
         log.info("[TILE] {}/{}/{}/{} bbox={}", layer, z, x, y, envelope);
 
         List<String> hexResults;
         return switch (layer) {
             case "railways" -> {
-                if (z < 6) yield emptyTile();
+                if (z < 2) yield emptyTile();
                 hexResults = railwaySegmentMapper.getVectorTile(envelope, z, x, y, "railways");
                 log.info("[TILE] railways query returned {} results", hexResults != null ? hexResults.size() : 0);
                 yield hexToBytes(hexResults);
             }
             case "stations" -> {
-                if (z < 8) yield emptyTile();
+                if (z < 5) yield emptyTile();
                 hexResults = stationMapper.getVectorTile(envelope, z, x, y, "stations");
                 yield hexToBytes(hexResults);
             }

@@ -53,6 +53,9 @@ def import_grid_file(path: Path, conn, cur, index: int, total: int) -> dict:
         wkt = f"LINESTRING({wkt_coords})"
 
         railway_val = props.get("railway", "rail")
+        if is_skipped_railway(railway_val, props):
+            continue
+
         usage_val = props.get("usage")
         if usage_val and len(usage_val) > 30:
             usage_val = usage_val[:30]
@@ -65,6 +68,7 @@ def import_grid_file(path: Path, conn, cur, index: int, total: int) -> dict:
              gauge, max_speed, track_count, geom, length_km, source_grid, data_quality)
             VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,
                     ST_GeomFromText(%s,4326),%s,%s,'osm')
+            ON CONFLICT (osm_id, source_grid) DO NOTHING
         """, (
             props.get("osm_id"),
             (props.get("name", "") or "")[:300],
@@ -92,6 +96,11 @@ def import_grid_file(path: Path, conn, cur, index: int, total: int) -> dict:
         if not name:
             continue
 
+        # Skip non-railway nodes (tram stops, subway entrances, etc.)
+        rw_type = props.get("railway", "")
+        if rw_type in ("tram_stop", "subway_entrance", "funicular"):
+            continue
+
         wkt = f"POINT({coords[0]:.7f} {coords[1]:.7f})"
 
         cur.execute("""
@@ -100,6 +109,7 @@ def import_grid_file(path: Path, conn, cur, index: int, total: int) -> dict:
              geom, source_grid, data_quality)
             VALUES (%s,%s,%s,%s,%s,
                     ST_GeomFromText(%s,4326),%s,'osm')
+            ON CONFLICT (osm_id, source_grid) DO NOTHING
         """, (
             props.get("osm_id"),
             name[:200],
@@ -116,9 +126,16 @@ def import_grid_file(path: Path, conn, cur, index: int, total: int) -> dict:
     return {"rail": rail_count, "station": station_count}
 
 
-def classify_railway(railway: str, props: dict) -> str:
+def is_skipped_railway(railway: str, props: dict) -> bool:
+    """Return True if this railway feature should be skipped (subway/metro)."""
     if railway == "subway":
-        return "subway"
+        return True
+    if railway in ("monorail", "light_rail", "tram"):
+        return True
+    return False
+
+
+def classify_railway(railway: str, props: dict) -> str:
     highspeed = props.get("highspeed", "")
     if highspeed in ("yes", "high_speed"):
         return "high_speed"

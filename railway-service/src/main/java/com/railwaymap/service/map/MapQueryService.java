@@ -1,5 +1,6 @@
 package com.railwaymap.service.map;
 
+import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.railwaymap.common.dto.StationSearchResult;
 import com.railwaymap.common.entity.*;
 import com.railwaymap.data.mapper.*;
@@ -7,6 +8,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 @Service
 @RequiredArgsConstructor
@@ -15,6 +17,7 @@ public class MapQueryService {
     private final StationMapper stationMapper;
     private final RailwaySegmentMapper segmentMapper;
     private final TrainStopMapper trainStopMapper;
+    private final TrainRouteMapper trainRouteMapper;
     private final TrainSegmentMappingMapper mappingMapper;
 
     /**
@@ -47,7 +50,7 @@ public class MapQueryService {
     }
 
     /**
-     * 获取车站详情
+     * 获取车站详情 — 包含所有途经车次时刻表，一次查询完成。
      */
     public Map<String, Object> getStationDetail(Long stationId) {
         Station station = stationMapper.selectById(stationId);
@@ -65,18 +68,52 @@ public class MapQueryService {
         detail.put("lon", station.getLon());
         detail.put("lat", station.getLat());
 
-        // 途经车次
+        // 途经车次及到发时刻 — 一次查询 + 一次批量查路线
         List<TrainStop> stops = trainStopMapper.selectList(
-                new com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper<TrainStop>()
-                        .eq(TrainStop::getStationId, stationId)
-                        .last("LIMIT 50"));
-        List<String> trainNos = stops.stream()
-                .map(TrainStop::getTrainNo)
-                .distinct()
-                .sorted()
-                .toList();
+                new LambdaQueryWrapper<TrainStop>()
+                        .eq(TrainStop::getStationName, station.getName())
+                        .orderByAsc(TrainStop::getTrainNo)
+                        .last("LIMIT 300"));
+
+        // Deduplicate by train_no (keep first occurrence for this station's times)
+        Map<String, TrainStop> stopByTrain = stops.stream()
+                .collect(Collectors.toMap(
+                        TrainStop::getTrainNo,
+                        s -> s,
+                        (a, b) -> a.getArriveTime() != null ? a : b));
+
+        List<String> trainNos = stopByTrain.keySet().stream().sorted().toList();
         detail.put("passingTrains", trainNos);
         detail.put("trainCount", trainNos.size());
+
+        // Batch query train_routes for type / departStation / arriveStation
+        if (!trainNos.isEmpty()) {
+            List<TrainRoute> routes = trainRouteMapper.selectList(
+                    new LambdaQueryWrapper<TrainRoute>()
+                            .in(TrainRoute::getTrainNo, trainNos));
+            Map<String, TrainRoute> routeMap = routes.stream()
+                    .collect(Collectors.toMap(TrainRoute::getTrainNo, r -> r, (a, b) -> a));
+
+            List<Map<String, Object>> timetable = new ArrayList<>();
+            for (String no : trainNos) {
+                TrainStop stop = stopByTrain.get(no);
+                TrainRoute route = routeMap.get(no);
+                if (stop == null) continue;
+
+                Map<String, Object> entry = new LinkedHashMap<>();
+                entry.put("trainNo", no);
+                entry.put("trainType", route != null ? route.getTrainType() : no.substring(0, 1));
+                entry.put("departStation", route != null ? route.getDepartStation() : "");
+                entry.put("arriveStation", route != null ? route.getArriveStation() : "");
+                if (stop.getArriveTime() != null) entry.put("arriveTime", stop.getArriveTime().toString());
+                if (stop.getDepartTime() != null) entry.put("departTime", stop.getDepartTime().toString());
+                timetable.add(entry);
+            }
+            detail.put("timetable", timetable);
+        }
+
+        detail.put("lon", station.getLon());
+        detail.put("lat", station.getLat());
 
         return detail;
     }

@@ -41,4 +41,9 @@ public class StationController {
             @RequestParam Long from, @RequestParam Long to) {
         return mapQueryService.findSegmentsBetween(from, to);
     }
+
+    @GetMapping("/hot")
+    public List<StationSearchResult> getHotStations(@RequestParam(defaultValue = "20") int limit) {
+        return stationSearchService.getHotStations(limit);
+    }
 }

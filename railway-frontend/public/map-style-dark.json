@@ -1,0 +1,53 @@
+{
+  "version": 8,
+  "name": "RailwayMap — Dark",
+  "sources": {
+    "maptiler": {
+      "type": "vector",
+      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=4WTGrPaI9R4eeeH5Oqhd",
+      "attribution": "<a href=\"https://www.maptiler.com/\" target=\"_blank\">&copy; MapTiler</a>"
+    }
+  },
+  "sprite": "https://api.maptiler.com/maps/basic-v2/sprite?key=4WTGrPaI9R4eeeH5Oqhd",
+  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=4WTGrPaI9R4eeeH5Oqhd",
+  "layers": [
+    { "id": "background", "type": "background", "paint": { "background-color": "#1a1a1e" } },
+
+    { "id": "water", "type": "fill", "source": "maptiler", "source-layer": "water", "paint": { "fill-color": "#1e2d3d", "fill-opacity": 0.6 } },
+    { "id": "water-line", "type": "line", "source": "maptiler", "source-layer": "water", "paint": { "line-color": "#2a3d4d", "line-width": 0.5 } },
+
+    { "id": "landcover-wood", "type": "fill", "source": "maptiler", "source-layer": "landcover", "filter": ["==", "class", "wood"], "paint": { "fill-color": "#2a3025", "fill-opacity": 0.4 } },
+    { "id": "landcover-grass", "type": "fill", "source": "maptiler", "source-layer": "landcover", "filter": ["==", "class", "grass"], "paint": { "fill-color": "#2a3020", "fill-opacity": 0.3 } },
+
+    {
+      "id": "admin-boundary",
+      "type": "line", "source": "maptiler", "source-layer": "boundary",
+      "filter": ["==", "admin_level", 2],
+      "paint": { "line-color": "#4a4650", "line-width": 0.8, "line-dasharray": [6, 4] },
+      "layout": { "line-join": "round" }
+    },
+
+    { "id": "road-motorway", "type": "line", "source": "maptiler", "source-layer": "transportation", "filter": ["==", "class", "motorway"], "paint": { "line-color": "#3a3a40", "line-width": 0.6 }, "minzoom": 5 },
+    { "id": "road-trunk", "type": "line", "source": "maptiler", "source-layer": "transportation", "filter": ["==", "class", "trunk"], "paint": { "line-color": "#34343a", "line-width": 0.4 }, "minzoom": 6 },
+    { "id": "road-primary", "type": "line", "source": "maptiler", "source-layer": "transportation", "filter": ["==", "class", "primary"], "paint": { "line-color": "#2e2e34", "line-width": 0.3 }, "minzoom": 7 },
+    { "id": "road-secondary", "type": "line", "source": "maptiler", "source-layer": "transportation", "filter": ["==", "class", "secondary"], "paint": { "line-color": "#2a2a30", "line-width": 0.2 }, "minzoom": 9 },
+    { "id": "road-tertiary", "type": "line", "source": "maptiler", "source-layer": "transportation", "filter": ["==", "class", "tertiary"], "paint": { "line-color": "#26262c", "line-width": 0.15 }, "minzoom": 11 },
+
+    {
+      "id": "place-city", "type": "symbol", "source": "maptiler", "source-layer": "place",
+      "filter": ["==", "class", "city"],
+      "layout": { "text-field": "{name}", "text-font": ["Noto Sans SC Regular"], "text-size": ["interpolate", ["linear"], ["zoom"], 2, 8, 5, 13, 10, 16], "text-anchor": "center" },
+      "paint": { "text-color": "#c8c4be", "text-halo-color": "rgba(26,26,30,0.7)", "text-halo-width": 2 },
+      "minzoom": 2
+    },
+    {
+      "id": "place-town", "type": "symbol", "source": "maptiler", "source-layer": "place",
+      "filter": ["==", "class", "town"],
+      "layout": { "text-field": "{name}", "text-font": ["Noto Sans SC Regular"], "text-size": ["interpolate", ["linear"], ["zoom"], 4, 6, 7, 10, 12, 13], "text-anchor": "center" },
+      "paint": { "text-color": "#a8a4a0", "text-halo-color": "rgba(26,26,30,0.6)", "text-halo-width": 1.5 },
+      "minzoom": 4
+    },
+
+    { "id": "railway-existing", "type": "line", "source": "maptiler", "source-layer": "transportation", "filter": ["==", "class", "rail"], "paint": { "line-color": "#605850", "line-width": 0.5, "line-dasharray": [8, 6] }, "minzoom": 3 }
+  ]
+}
