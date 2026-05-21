@@ -177,6 +177,17 @@ docker compose up -d
 - **图节点使用站名**: JGraphT 节点键是站名字符串而非唯一 ID，同名站会冲突
 - **矢量瓦片 hex 解码**: PostGIS ST_AsMVT 返回 hex 字符串，后端拼接后用 HexFormat 转 byte[]
 
+## 工作流程
+
+每完成一个独立功能或修复后必须立即提交 git，保持每次提交粒度小、可独立回溯：
+
+```bash
+git add <相关文件>           # 精确指定，不 git add -A
+git commit -m "<类型>: <简述>"
+```
+
+类型前缀：`feat:` 新功能 / `fix:` 修复 / `refactor:` 重构 / `docs:` 文档 / `data:` 数据修复。
+
 ## 已知问题与改进方向
 
 - 换乘图每次全量重建 (无缓存) + 多层 N+1 查询
