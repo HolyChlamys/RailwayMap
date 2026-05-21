@@ -41,4 +41,9 @@ public interface StationMapper extends BaseMapper<Station> {
             + "id "
             + "LIMIT #{limit}")
     List<StationSearchResult> findHotStations(@Param("limit") int limit);
+
+    @Select("SELECT id, name, city, province, category, "
+            + "ST_X(geom) AS lon, ST_Y(geom) AS lat "
+            + "FROM stations")
+    List<StationSearchResult> findAllWithCoords();
 }

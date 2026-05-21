@@ -27,6 +27,7 @@ public class SecurityConfig {
                 .requestMatchers(
                     "/api/health", "/api/tiles/**", "/api/stations/**",
                     "/api/trains/search", "/api/trains/**", "/api/transfer/search",
+                    "/api/isochrone", "/api/isochrone/**",
                     "/api/auth/**"
                 ).permitAll()
                 .requestMatchers("/api/favorites/**", "/api/history/**").authenticated()
