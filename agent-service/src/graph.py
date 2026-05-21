@@ -12,11 +12,11 @@ def should_clarify(state: AgentState) -> str:
 def has_results(state: AgentState) -> str:
     tool_results = state.get("tool_results", [])
     for r in tool_results:
+        if r.get("error"):
+            return "format"
         if r.get("tool") == "search_transfer":
             if r.get("count", 0) == 0:
                 return "no_result"
-    if tool_results and not any(r.get("error") for r in tool_results):
-        return "format"
     return "format"
 
 

@@ -10,8 +10,8 @@ RELAX_STEPS = [
 
 
 async def relax(state: AgentState) -> dict:
-    relax_history = state.get("relax_history", [])
-    constraints = state.get("constraints", {})
+    relax_history = state.get("relax_history") or []
+    constraints = state.get("constraints") or {}
     original = dict(constraints)
 
     round_idx = len(relax_history)
