@@ -1,11 +1,22 @@
 <script setup lang="ts">
-import { watch, onUnmounted, ref } from 'vue'
+import { watch, onUnmounted, ref, computed, shallowRef } from 'vue'
 import { useMap } from '../../composables/useMap'
 import { useMapInteraction } from '../../composables/useMapInteraction'
+import { useMapDynamicResponse } from '../../composables/useMapDynamicResponse'
 import { useMapStore } from '../../stores/mapStore'
+import { useStationStore } from '../../stores/stationStore'
+import { useRoutePlanStore } from '../../stores/routePlanStore'
 import MapLoadingOverlay from './MapLoadingOverlay.vue'
+import TrainRouteLayer from './TrainRouteLayer.vue'
 
 const mapStore = useMapStore()
+const stationStore = useStationStore()
+const routePlanStore = useRoutePlanStore()
+
+const mapRef = shallowRef<any>(null)
+// Plain object with getter: prevents Vue template auto-unwrapping (keeps { value: Map | null } shape)
+// while staying in sync with the underlying shallowRef. Required by TrainRouteLayer and useMapDynamicResponse.
+const mapHolder = { get value() { return mapRef.value } }
 
 const emit = defineEmits<{
   (e: 'station-click', id: number): void
@@ -73,6 +84,8 @@ const {
       m.getCanvas().style.cursor = ''
       clearHover(m)
     })
+
+    mapRef.value = m
   },
 })
 
@@ -137,7 +150,7 @@ function addCustomLayers(m: any) {
   // 1. Railway vector tile source
   m.addSource(RAILWAY_TILE_SOURCE, {
     type: 'vector',
-    tiles: [`${tileBase}/api/tiles/railways/{z}/{x}/{y}.pbf`],
+    tiles: [`${tileBase}/api/tiles/railways/{z}/{x}/{y}.pbf?v=3`],
     scheme: 'xyz',
     tileSize: 512,
     minzoom: 2,
@@ -161,7 +174,9 @@ function addCustomLayers(m: any) {
           8, rl.baseWidth * 1.0,
           12, rl.baseWidth * 1.5,
           16, rl.baseWidth * 2.0],
-        'line-opacity': 0.9,
+        'line-opacity': ['interpolate', ['linear'], ['zoom'],
+          rl.minzoom, 0,
+          rl.minzoom + 0.5, 0.9],
         ...(rl.dashed ? { 'line-dasharray': [6, 4] } : {}),
       },
     })
@@ -170,10 +185,10 @@ function addCustomLayers(m: any) {
   // 2. Station vector tile source
   m.addSource(STATION_TILE_SOURCE, {
     type: 'vector',
-    tiles: [`${tileBase}/api/tiles/stations/{z}/{x}/{y}.pbf`],
+    tiles: [`${tileBase}/api/tiles/stations/{z}/{x}/{y}.pbf?v=3`],
     scheme: 'xyz',
     tileSize: 512,
-    minzoom: 5,
+    minzoom: 4,
     maxzoom: 16,
     promoteId: 'id',
   })
@@ -183,7 +198,7 @@ function addCustomLayers(m: any) {
     type: 'circle',
     source: STATION_TILE_SOURCE,
     'source-layer': 'stations',
-    minzoom: 5,
+    minzoom: 4,
     paint: {
       'circle-radius': ['case',
         ['boolean', ['feature-state', 'hover'], false],
@@ -346,6 +361,15 @@ watch(
   },
 )
 
+// ---- Active Routes for TrainRouteLayer ----
+const activeRoutes = computed(() => {
+  const indices = routePlanStore.activePlanIndices
+  return indices.map(i => routePlanStore.plans[i]).filter(Boolean)
+})
+
+// ---- Map Dynamic Response System (Focus Watchers) ----
+useMapDynamicResponse(mapHolder)
+
 // ---- Sync viewport changes back to store ----
 watch(isLoaded, (loaded) => {
   if (!loaded) return
@@ -390,6 +414,9 @@ defineExpose({
       <span class="tooltip-name">{{ tooltip.name }}</span>
       <span class="tooltip-cat">{{ tooltip.category }}</span>
     </div>
+
+    <!-- Train Route Animations -->
+    <TrainRouteLayer :mapRef="mapHolder" :routes="activeRoutes" />
   </div>
 </template>
 
