@@ -5,7 +5,7 @@ class Settings(BaseSettings):
     model_config = {"env_prefix": "AGENT_", "env_file": ".env", "extra": "ignore"}
 
     llm_base_url: str = "https://api.openai.com/v1"
-    llm_api_key: str = "sk-placeholder"
+    llm_api_key: str = ""
     llm_model: str = "gpt-4o-mini"
     llm_temperature: float = 0.0
 
