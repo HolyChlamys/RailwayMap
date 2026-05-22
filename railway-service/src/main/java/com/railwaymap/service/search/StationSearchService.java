@@ -4,6 +4,7 @@ import com.railwaymap.common.dto.StationSearchResult;
 import com.railwaymap.common.util.PinyinUtils;
 import com.railwaymap.data.mapper.StationMapper;
 import lombok.RequiredArgsConstructor;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -18,6 +19,7 @@ public class StationSearchService {
     private static final Pattern PINYIN_PATTERN = Pattern.compile("^[a-zA-Z]+$");
     private static final Pattern TRAIN_NO_PATTERN = Pattern.compile("^[GCDZTKYSgcdztkys]\\d*$");
 
+    @Cacheable(value = "stationSearch", key = "#q + ':' + #city + ':' + #limit")
     public List<StationSearchResult> search(String q, String city, int limit) {
         if (q == null || q.isBlank()) {
             return List.of();

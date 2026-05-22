@@ -6,6 +6,7 @@ import com.railwaymap.data.mapper.*;
 import com.railwaymap.service.route.RouteGeoJsonService;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import lombok.RequiredArgsConstructor;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -21,6 +22,7 @@ public class TrainRouteService {
     private final TrainFareMapper fareMapper;
     private final RouteGeoJsonService geoJsonService;
 
+    @Cacheable(value = "trainRoutes", key = "#no")
     public TrainRouteDetail getRouteDetail(String no) {
         TrainRoute route = trainRouteMapper.selectOne(
                 new LambdaQueryWrapper<TrainRoute>().eq(TrainRoute::getTrainNo, no));

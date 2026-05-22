@@ -6,6 +6,7 @@ import com.railwaymap.data.mapper.StationMapper;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
 import java.util.HexFormat;
@@ -21,6 +22,7 @@ public class TileService {
     private final RailwaySegmentMapper railwaySegmentMapper;
     private final StationMapper stationMapper;
 
+    @Cacheable(value = "tiles", key = "#layer + ':' + #z + '/' + #x + '/' + #y")
     public byte[] getTile(String layer, int z, int x, int y) {
         double[] bbox = TileUtils.tileToBBox(z, x, y);
         String envelope = String.format(Locale.US, "ST_MakeEnvelope(%f, %f, %f, %f, 4326)",
