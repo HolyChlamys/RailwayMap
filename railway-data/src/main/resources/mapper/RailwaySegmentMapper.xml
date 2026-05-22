@@ -4,6 +4,12 @@
 <mapper namespace="com.railwaymap.data.mapper.RailwaySegmentMapper">
 
     <select id="getVectorTile" resultType="string">
+        WITH tile_bounds AS (
+            SELECT ST_TileEnvelope(#{z}, #{x}, #{y}) AS bounds,
+                   ST_Expand(ST_TileEnvelope(#{z}, #{x}, #{y}), 
+                             (ST_XMax(ST_TileEnvelope(#{z}, #{x}, #{y})) - ST_XMin(ST_TileEnvelope(#{z}, #{x}, #{y}))) * 256.0 / 4096.0
+                   ) AS buffered_bounds
+        )
         SELECT ST_AsMVT(tile, 'railways', 4096, 'geom') AS mvt
         FROM (
             SELECT
@@ -23,16 +29,16 @@
                     ELSE 'trunk'
                 END AS display_group,
                 ST_AsMVTGeom(
-                    geom,
-                    ${envelope},
+                    ST_Transform(rs.geom, 3857),
+                    tb.bounds,
                     4096,
                     256,
                     true
                 ) AS geom
-            FROM railway_segments
-            WHERE geom &amp;&amp; ${envelope}
-              AND ST_Intersects(geom, ${envelope})
-              AND category IN ('conventional', 'high_speed', 'other_rail')
+            FROM railway_segments rs
+            CROSS JOIN tile_bounds tb
+            WHERE rs.geom &amp;&amp; ST_Transform(tb.buffered_bounds, 4326)
+              AND category IN ('conventional', 'high_speed')
         ) AS tile
         WHERE geom IS NOT NULL
     </select>
