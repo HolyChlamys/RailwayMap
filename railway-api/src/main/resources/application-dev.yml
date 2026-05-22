@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/railwaymap
-    username: railway
-    password: railway123
+    username: ${DB_USER:railway}
+    password: ${DB_PASSWORD}
   data:
     redis:
       host: localhost
