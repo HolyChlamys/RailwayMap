@@ -1,4 +1,4 @@
-package com.railwaymap.api.config;
+package com.railwaymap.common.util;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

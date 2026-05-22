@@ -1,6 +1,6 @@
 package com.railwaymap.service.auth;
 
-import com.railwaymap.api.config.JwtUtil;
+import com.railwaymap.common.util.JwtUtil;
 import com.railwaymap.common.entity.User;
 import com.railwaymap.data.mapper.UserMapper;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
