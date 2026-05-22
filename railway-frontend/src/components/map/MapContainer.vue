@@ -39,8 +39,8 @@ interface RailwayLayer {
 const RAILWAY_LAYERS: RailwayLayer[] = [
   { id: 'railway-trunk-hs', displayGroup: 'trunk', categories: ['high_speed'],                  color: '#ff3300', baseWidth: 3.0, dashed: false, minzoom: 2 },
   { id: 'railway-trunk-cv', displayGroup: 'trunk', categories: ['conventional', 'passenger_rail'], color: '#33a02c', baseWidth: 2.2, dashed: false, minzoom: 2 },
-  { id: 'railway-branch',   displayGroup: 'branch',                                             color: '#6464b5', baseWidth: 1.5, dashed: true,  minzoom: 8 },
-  { id: 'railway-spur',     displayGroup: 'spur',                                               color: '#6464b5', baseWidth: 0.8, dashed: true,  minzoom: 10 },
+  { id: 'railway-branch',   displayGroup: 'branch',                                             color: '#6464b5', baseWidth: 1.5, dashed: true,  minzoom: 2 },
+  { id: 'railway-spur',     displayGroup: 'spur',                                               color: '#6464b5', baseWidth: 0.8, dashed: true,  minzoom: 2 },
 ]
 
 const RAILWAY_TILE_SOURCE = 'railway-tiles'
