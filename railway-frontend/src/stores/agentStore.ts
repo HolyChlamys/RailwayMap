@@ -1,10 +1,6 @@
 import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
-import type { ChatMessage, AgentMessageContent, AgentPanelState, QuickSuggestion, AgentInstruction, FlyToStationInstruction, HighlightTrainInstruction, HighlightRoutesInstruction, HighlightIsochroneInstruction } from '../types/agent'
-import { useMapStore } from './mapStore'
-import { useStationStore } from './stationStore'
-import { useTrainStore } from './trainStore'
-import { useRoutePlanStore } from './routePlanStore'
+import type { ChatMessage, AgentMessageContent, AgentPanelState, QuickSuggestion } from '../types/agent'
 
 export const useAgentStore = defineStore('agent', () => {
   // ---- State ----
@@ -25,10 +21,39 @@ export const useAgentStore = defineStore('agent', () => {
   const quickSuggestions = ref<QuickSuggestion[]>([...defaultQuickSuggestions])
 
   // ---- Actions ----
+  function loadHistory() {
+    try {
+      const saved = localStorage.getItem('railwaymap_agent_history')
+      if (saved) {
+        const parsed = JSON.parse(saved)
+        if (Array.isArray(parsed) && parsed.length > 0) {
+          messages.value = parsed.map(m => ({
+            ...m,
+            timestamp: new Date(m.timestamp)
+          }))
+          return
+        }
+      }
+    } catch (e) {
+      console.warn('Failed to load agent history', e)
+    }
+    if (messages.value.length === 0) {
+      addWelcomeMessage()
+    }
+  }
+
+  function saveHistory() {
+    try {
+      localStorage.setItem('railwaymap_agent_history', JSON.stringify(messages.value))
+    } catch (e) {
+      console.warn('Failed to save agent history', e)
+    }
+  }
+
   function openPanel() {
     panelState.value = 'open'
     if (messages.value.length === 0) {
-      addWelcomeMessage()
+      loadHistory()
     }
   }
 
@@ -48,6 +73,7 @@ export const useAgentStore = defineStore('agent', () => {
       content,
       timestamp: new Date(),
     })
+    saveHistory()
   }
 
   function addWelcomeMessage() {
@@ -59,58 +85,11 @@ export const useAgentStore = defineStore('agent', () => {
       },
       timestamp: new Date(),
     })
+    saveHistory()
   }
 
   function setProcessing(p: boolean) {
     isProcessing.value = p
-  }
-
-  function dispatchInstruction(instruction: AgentInstruction) {
-    const mapStore = useMapStore()
-    const stationStore = useStationStore()
-    const trainStore = useTrainStore()
-    const routePlanStore = useRoutePlanStore()
-
-    switch (instruction.action) {
-      case 'flyToStation': {
-        const { stationId } = instruction as FlyToStationInstruction
-        const id = parseInt(stationId, 10)
-        mapStore.setFocusStation(stationId)
-        stationStore.setCurrentStation(isNaN(id) ? null : id)
-        break
-      }
-      case 'highlightTrain': {
-        const { trainNo } = instruction as HighlightTrainInstruction
-        mapStore.setFocusTrain(trainNo)
-        trainStore.setCurrentTrain(trainNo)
-        break
-      }
-      case 'highlightRoutes': {
-        const { routeIds } = instruction as HighlightRoutesInstruction
-        routePlanStore.setActivePlanIds(routeIds)
-        break
-      }
-      case 'highlightIsochrone': {
-        const { stationId } = instruction as HighlightIsochroneInstruction
-        mapStore.setFocusStation(stationId)
-        break
-      }
-      case 'openPanel': {
-        // StationPanel shows when stationStore.hasStation is true
-        // TrainPanel shows when trainStore has a current train
-        // Both are set by flyToStation / highlightTrain above
-        break
-      }
-      case 'openModal': {
-        // Modal opening handled by component
-        break
-      }
-      case 'clearHighlights': {
-        mapStore.clearAllFocus()
-        routePlanStore.clear()
-        break
-      }
-    }
   }
 
   function setQuickSuggestions(sugs: QuickSuggestion[]) {
@@ -119,6 +98,7 @@ export const useAgentStore = defineStore('agent', () => {
 
   function clearMessages() {
     messages.value = []
+    localStorage.removeItem('railwaymap_agent_history')
     addWelcomeMessage()
   }
 
@@ -136,7 +116,6 @@ export const useAgentStore = defineStore('agent', () => {
     addMessage,
     setProcessing,
     clearMessages,
-    dispatchInstruction,
     setQuickSuggestions,
   }
 })

@@ -2,13 +2,22 @@
 import { ref, watch, nextTick } from 'vue'
 import { useAgentStore } from '../../stores/agentStore'
 import { useAgentChat } from '../../composables/useAgentChat'
+import { useAgentDispatch } from '../../composables/useAgentDispatch'
 import AgentBubble from './AgentBubble.vue'
 
 const agentStore = useAgentStore()
 const { sendMessage } = useAgentChat()
+const { instruction } = useAgentDispatch()
 
 const inputText = ref('')
 const messagesEl = ref<HTMLElement | null>(null)
+const showSuggestions = ref(false)
+
+function hideSuggestionsWithDelay() {
+  setTimeout(() => {
+    showSuggestions.value = false
+  }, 150)
+}
 
 const emit = defineEmits<{
   navigate: [type: string, action: string]
@@ -104,19 +113,41 @@ function handleKeydown(e: KeyboardEvent) {
 
       <!-- Input -->
       <div class="panel-input-area">
-        <input
-          v-model="inputText"
-          type="text"
-          class="chat-input"
-          placeholder="输入你的问题…"
-          @keydown="handleKeydown"
-        />
+        <div class="input-wrapper">
+          <input
+            v-model="inputText"
+            type="text"
+            class="chat-input"
+            placeholder="输入您的出行需求或问题…"
+            @keydown="handleKeydown"
+            @focus="showSuggestions = true"
+            @blur="hideSuggestionsWithDelay"
+          />
+          <div class="input-focus-border"></div>
+          
+          <Transition name="fade">
+            <div v-if="showSuggestions && inputText.length === 0" class="input-suggestions-dropdown">
+              <div class="suggestion-header">常见问题</div>
+              <div 
+                v-for="chip in agentStore.defaultQuickSuggestions" 
+                :key="chip.prompt" 
+                class="suggestion-item"
+                @mousedown.prevent="handleQuickChip(chip.prompt)"
+              >
+                {{ chip.label }}
+              </div>
+            </div>
+          </Transition>
+        </div>
         <button
           class="send-btn"
           :class="{ active: inputText.trim() }"
           @click="handleSend"
         >
-          ↑
+          <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="22" y1="2" x2="11" y2="13"></line>
+            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+          </svg>
         </button>
       </div>
     </div>
@@ -276,20 +307,72 @@ function handleKeydown(e: KeyboardEvent) {
   border-top: 1px solid var(--border-light);
   display: flex;
   gap: var(--space-2);
+  background: var(--glass-bg-active);
+}
+
+.input-wrapper {
+  position: relative;
+  flex: 1;
 }
 
 .chat-input {
-  flex: 1;
+  width: 100%;
   border: 1px solid var(--border-medium);
   border-radius: var(--radius-sm);
   padding: 10px var(--space-3);
   font-size: var(--text-base);
   font-family: inherit;
   outline: none;
-  transition: border-color var(--duration-fast);
+  background: rgba(255, 255, 255, 0.05);
+  transition: border-color var(--duration-fast), background var(--duration-fast);
 }
 .chat-input:focus {
   border-color: var(--signal-blue);
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.input-suggestions-dropdown {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  margin-bottom: var(--space-2);
+  background: var(--glass-bg-active);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
+  overflow: hidden;
+  z-index: 10;
+}
+
+.suggestion-header {
+  padding: var(--space-2) var(--space-3);
+  font-size: var(--text-xs);
+  color: var(--text-tertiary);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.suggestion-item {
+  padding: 10px var(--space-3);
+  font-size: var(--text-sm);
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: background var(--duration-fast);
+}
+.suggestion-item:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity 0.2s, transform 0.2s;
+}
+.fade-enter-from, .fade-leave-to {
+  opacity: 0;
+  transform: translateY(4px);
 }
 
 .send-btn {
