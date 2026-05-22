@@ -1,11 +1,13 @@
 package com.railwaymap.service.route;
 
+import com.railwaymap.common.entity.RailwaySegment;
 import com.railwaymap.common.entity.TrainSegmentMapping;
 import com.railwaymap.data.mapper.RailwaySegmentMapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 /**
  * 车次路线匹配结果 → GeoJSON FeatureCollection
@@ -19,10 +21,20 @@ public class RouteGeoJsonService {
     public Map<String, Object> toGeoJson(List<TrainSegmentMapping> mappings) {
         List<Map<String, Object>> features = new ArrayList<>();
 
+        // Batch load all segments to eliminate N+1 queries
+        List<Long> segIds = mappings.stream()
+                .map(TrainSegmentMapping::getSegId)
+                .filter(Objects::nonNull)
+                .distinct()
+                .collect(Collectors.toList());
+        List<RailwaySegment> segments = segmentMapper.selectBatchIds(segIds);
+        Map<Long, RailwaySegment> segMap = segments.stream()
+                .collect(Collectors.toMap(RailwaySegment::getId, s -> s));
+
         for (TrainSegmentMapping m : mappings) {
             if (m.getSegId() == null) continue;
 
-            var seg = segmentMapper.selectById(m.getSegId());
+            var seg = segMap.get(m.getSegId());
             if (seg == null) continue;
 
             Map<String, Object> feature = new LinkedHashMap<>();
