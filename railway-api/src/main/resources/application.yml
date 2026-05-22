@@ -46,7 +46,7 @@ logging:
 
 railway:
   jwt:
-    secret: ${JWT_SECRET:railwaymap-production-secret-change-in-env}
+    secret: ${JWT_SECRET}
     expiration: 86400000
   tile:
     cache-ttl: 3600

@@ -41,6 +41,7 @@ services:
       DB_PASSWORD: railway123
       REDIS_HOST: redis
       REDIS_PORT: 6379
+      JWT_SECRET: ${JWT_SECRET}
     depends_on:
       db:
         condition: service_healthy
@@ -58,7 +59,7 @@ services:
       AGENT_LLM_BASE_URL: ${AGENT_LLM_BASE_URL:-https://api.openai.com/v1}
       AGENT_LLM_API_KEY: ${AGENT_LLM_API_KEY}
       AGENT_LLM_MODEL: ${AGENT_LLM_MODEL:-gpt-4o-mini}
-      AGENT_JAVA_BASE_URL: http://app:8080
+      AGENT_JAVA_BASE_URL: http://app:10010
     depends_on:
       - app
     restart: unless-stopped

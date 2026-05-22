@@ -16,8 +16,11 @@ public class JwtUtil {
     private final SecretKey key;
     private final long expirationMs;
 
-    public JwtUtil(@Value("${railway.jwt.secret:railwaymap-default-jwt-secret-key-2026}") String secret,
+    public JwtUtil(@Value("${railway.jwt.secret}") String secret,
                    @Value("${railway.jwt.expiration:86400000}") long expirationMs) {
+        if (secret == null || secret.isBlank() || secret.length() < 32) {
+            throw new IllegalArgumentException("JWT secret must be at least 32 characters. Set JWT_SECRET environment variable.");
+        }
         this.key = Keys.hmacShaKeyFor(secret.getBytes(StandardCharsets.UTF_8));
         this.expirationMs = expirationMs;
     }
