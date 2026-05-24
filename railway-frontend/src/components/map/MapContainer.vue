@@ -415,6 +415,9 @@ defineExpose({
       <span class="tooltip-cat">{{ tooltip.category }}</span>
     </div>
 
+    <!-- Zoom level indicator -->
+    <div class="zoom-indicator">z{{ mapStore.viewport.zoom.toFixed(1) }}</div>
+
     <!-- Train Route Animations -->
     <TrainRouteLayer :mapRef="mapHolder" :routes="activeRoutes" />
   </div>
@@ -459,5 +462,21 @@ defineExpose({
   font-size: 10px;
   opacity: 0.65;
   text-transform: capitalize;
+}
+
+.zoom-indicator {
+  position: absolute;
+  bottom: var(--space-3);
+  right: var(--space-3);
+  z-index: 100;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: rgba(28, 28, 30, 0.75);
+  backdrop-filter: blur(6px);
+  color: #fff;
+  font-size: 11px;
+  font-family: var(--font-mono, 'JetBrains Mono', monospace);
+  pointer-events: none;
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 </style>
